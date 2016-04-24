@@ -1054,8 +1054,8 @@ UI_20150317_001053	Charakter Wasser-Reflektion
 UI_20150317_001054	Hintergrund Wasser-Reflektion
 UI_20150317_001055	{s20}{#BBBBBB}Beleuchtungseinstellung
 UI_20150317_001056	Beleuchtung benutzen
-UI_20150317_001057	{@st41}Attacke{/}
-UI_20150317_001058	{@St41}Abwehr{/}
+UI_20150317_001057	{@st41}Angriff{/}
+UI_20150317_001058	{@St41}Verteidigung{/}
 UI_20150317_001059	{@st41}Unterstützung{/}
 UI_20150317_001060	{@st41}Schwierigkeitsgrad{/}
 UI_20150317_001061	{@st41}Frisur
@@ -1641,13 +1641,13 @@ UI_20150714_001640	{@st66b}Lautstärke (%s){/}
 UI_20150714_001641	{@st66b}Niedrig-Modus{/}
 UI_20150714_001642	{@st66b}Auto Einstellung{/}
 UI_20150714_001643	{@st66b}Deaktivieren{/}
-UI_20150714_001644	{@st66b}Apply Bloom{/}
-UI_20150714_001645	{@st66b}Apply Vignette{/}
-UI_20150714_001646	{@st66b}Apply FXAA{/}
-UI_20150714_001647	{@st66b}Apply Glow{/}
-UI_20150714_001648	{@st66b}Apply Depth{/}
-UI_20150714_001649	{@st66b}Apply Soft Particle{/}
-UI_20150714_001650	{@st66b}Apply High Texture {/}
+UI_20150714_001644	{@st66b}Bloom verwenden{/}
+UI_20150714_001645	{@st66b}Vignette verwenden{/}
+UI_20150714_001646	{@st66b}FXAA verwenden{/}
+UI_20150714_001647	{@st66b}Glow verwenden{/}
+UI_20150714_001648	{@st66b}Depth verwenden{/}
+UI_20150714_001649	{@st66b}Soft Particle verwenden{/}
+UI_20150714_001650	{@st66b}Hohe Texturen verwenden{/}
 UI_20150714_001651	{@st66b}Vertical Sync An{/}
 UI_20150714_001652	{@st66b}Vertical Sync Aus{/}
 UI_20150714_001653	{@st66b}Es kostet %s Silber wenn du etwas aus dem Lager nimmst oder hineinpackst.{/}
@@ -1808,7 +1808,7 @@ UI_20150918_001807	{@st41b}Change Signboard Titel
 UI_20150918_001808	{@sti9}Mein Rang
 UI_20150918_001809	{@sti9}Kill Rang
 UI_20150918_001810	{@sti9}Schadensrang
-UI_20151001_001811	{@st43}Key Einstellungen{/}
+UI_20151001_001811	{@st43}Tastatur Einstellungen{/}
 UI_20151001_001812	{@st45tw2}Kategorie
 UI_20151001_001813	Aktion
 UI_20151001_001814	Restore defaults
@@ -2009,26 +2009,26 @@ UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}Ge
 UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
 UI_20151224_002010	Wähle eine Startstadt
 UI_20151224_002011	{@st44}Klaipeda
-UI_20151224_002012	{@st59s}A mining town that has progressed thanks to the Crystal Mine.{nl}This city received minor damage during Medzio Diena.{/}
+UI_20151224_002012	{@st59s}Eine Bergbaustadt, die dank der Crystal Mine fortgeschritten ist.{nl}Diese Stadt erhielt kleinere Schäden während Medzio Diena.{/}
 UI_20151224_002013	{@st44}Orsha
-UI_20151224_002014	{@st59s}We tried to protect ourselves by relying on the giant castle during Medzio Diena.{nl}But the horrifying disaster even swallowed the castle.{/}
-UI_20151224_002015	{@st59}Return to my Lodge.{/}
+UI_20151224_002014	{@st59s}Wir haben versucht uns während Medzio Diena selbst zu schützen indem wir in die riesige Burg geflüchtet sind.{nl}Die schreckliche Katastrophe hat aber auch die Burg geschluckt.{/}
+UI_20151224_002015	{@st59}Zu meinem Haus zurückkehren.{/}
 UI_20151224_002016	{@st43}{s24}Hausname{/}
 UI_20151224_002017	{@st59}Hausname{/}
 UI_20151224_002018	{@st59}Haus-Einstellungen{/}
-UI_20151224_002019	{@st42}Reset Count
-UI_20151224_002020	{@st41}Message
+UI_20151224_002019	{@st42}Zähler zurücksetzten
+UI_20151224_002020	{@st41}Nachricht
 UI_20151224_002021	{@st59}Zeige Questdialog{/}
 UI_20151224_002022	{@st59}Quest abbrechen{/}
-UI_20151224_002023	{@st49}Preview{/}
-UI_20151224_002024	{@st49}Add{/}
+UI_20151224_002023	{@st49}Vorschau{/}
+UI_20151224_002024	{@st49}Hinzufügen{/}
 UI_20151224_002025	erhalten %s by %s
 UI_20151224_002026	Anzahl links
 UI_20151224_002027	Anzahl links : %s{/}
 UI_20151224_002028	{@st41}Kaufen{/}
 UI_20151224_002029	{@st45tw2}Punkte{/}
-UI_20151224_002030	Ascending by Name
-UI_20151224_002031	Descending by Name
+UI_20151224_002030	Aufsteigend nach Name
+UI_20151224_002031	Absteigend nach Name
 UI_20151224_002032	Nach Datum
 UI_20151224_002033	{@st42}Token Vorteile{/}
 UI_20151224_002034	{@st66b}Change Signboard Titel
@@ -2038,10 +2038,10 @@ UI_20151224_002037	Cash Garden %s{/}
 UI_20151224_002038	Zeige Online
 UI_20151224_002039	Hangout Entry
 UI_20151224_002040	Allow guild members only
-UI_20151224_002041	War Records
+UI_20151224_002041	Kriegsrekorde
 UI_20151224_002042	Gildenkrieg-Liste
 UI_20151224_002043	Remaining Time
-UI_20151224_002044	Available Tower
+UI_20151224_002044	Verfügbarer Tower
 UI_20151224_002045	Upgrade Guild
 UI_20151224_002046	Contribution Rank
 UI_20151224_002047	Gildenskills & Informationen

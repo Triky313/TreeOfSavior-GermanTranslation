@@ -6246,7 +6246,7 @@ ETC_20150317_006242	{s18}{#001100}You can acquire a lot of EXP by simply attacki
 ETC_20150317_006243	{s18}{#001100}Items will drop when you attack this Treasure Monster!!!{/}
 ETC_20150317_006244	{s18}{#001100}You can progress the quest by pressing the Spacebar key in the vicinity of the red flag of an NPC.{/}
 ETC_20150317_006245	{s18}{#001100}You can increase various of stats by collecting items for a collection. {/}
-ETC_20150317_006246	Schwersmen are warriors who have strong physical abilities.{nl}They use various weapons to deal with enemies up close{nl}and stand at the front lines.
+ETC_20150317_006246	Swordsman sind Krieger die starke körperliche Fähigkeiten haben.{nl}Sie stehen an vorderster Front und bekämpfen Feinde mit verschiedensten Waffen aus der Nähe.
 ETC_20150317_006247	Highlander
 ETC_20150317_006248	Highlanders are tough fighters who use two-handed swords. They make enemies collide against each other or against terrain, so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
@@ -6264,7 +6264,7 @@ ETC_20150317_006260	Ruteelero
 ETC_20150317_006261	Ruteeleros ambush and demolish enemies. Their defensive skills using shields are effective for blocking long range attacks.
 ETC_20150317_006262	Squire
 ETC_20150317_006263	Shinobi
-ETC_20150317_006264	Wizards use magic to block attacks and protect themselves.{nl}They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
+ETC_20150317_006264	Wizards verwenden Magie um Angriffe zu blocken und sich selbst zu schützen.{nl}Sie können starke und geballte Zauber verwenden um einzelne oder ganze Gegnergruppen anzugreifen.
 ETC_20150317_006265	Pyromancer
 ETC_20150317_006266	Pyromancers use successive hitting fire magic to fight against multiple enemies.
 ETC_20150317_006267	Cryomancer
@@ -6285,7 +6285,7 @@ ETC_20150317_006281	Elementalist
 ETC_20150317_006282	Elementalists harness the elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist
-ETC_20150317_006285	Archers use bows and various Sekundeary equipment.{nl}Their specialties are long-ranged and agile attacks.
+ETC_20150317_006285	Archers verwenden Bögen und verschiedene Sekundärausrüstung.{nl}Ihre Spezialitäten sind agile Angriffe auf großer Distanz.
 ETC_20150317_006286	Jäger
 ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Companions use skills which require cooperation with their owners, such as biting and holding onto enemies, or finding hidden targets.
 ETC_20150317_006288	Quarrel Shooter
@@ -6303,7 +6303,7 @@ ETC_20150317_006299	Schwarzer Reiter
 ETC_20150317_006300	Fletcher
 ETC_20150317_006301	Pied Piper
 ETC_20150317_006302	Appraiser
-ETC_20150317_006303	Clerics heal and protect allies through the blessings{nl}of the goddess, while knocking down their enemies {nl}with powerful blows.
+ETC_20150317_006303	Clerics heilen und schützen Verbündete durch Segen der Göttin.{nl}Zudem können sie ihre Gegner mit wuchtigen Schlägen zu Boden bringen.
 ETC_20150317_006304	Priest
 ETC_20150317_006305	Priests are clerics who give blessings and resurrect the dead with their holy powers.
 ETC_20150317_006306	Krivis
@@ -10599,7 +10599,7 @@ ETC_20150401_010596	Steps are lighter with the power of the altar!
 ETC_20150401_010597	Added spell power to the abandoned altar.
 ETC_20150401_010598	Nothing is happening.
 ETC_20150401_010599	Recharging the altar
-ETC_20150401_010600	Picking up
+ETC_20150401_010600	Aufheben
 ETC_20150401_010601	You already picked up the explosives!
 ETC_20150401_010602	Acquired explosives.
 ETC_20150401_010603	Loading explosives
