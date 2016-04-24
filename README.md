@@ -1,7 +1,6 @@
 #Tree of Savior Übersetzungsprojekt
-<br>
 Hier wird an einer deutschen Übersetzung für Tree of Savior gearbeitet.
-
+<br><br>
 ## Wie hinzufügen?
 Das hinzufügen geht ganz einfach, ihr müsst in den Installations-Ordner von ToS gehen..
 <br><br>
