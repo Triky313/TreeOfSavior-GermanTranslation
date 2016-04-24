@@ -1228,8 +1228,8 @@ SKILL_20150317_001227	Tincturing
 SKILL_20150317_001228	Magnum Opus
 SKILL_20150317_001229	Create magic barrier on target area that blocks enemy attacks.
 SKILL_20150317_001230	Lv.1 Duration #{CaptionTime}# Sekunden, block 6 times, Maximum Ziele: #{CaptionRatio}# Lv.2 Duration #{CaptionTime}# Sekunden, block 6 times, Maximum Ziele: #{CaptionRatio}# Lv.3 Duration #{CaptionTime}# Sekunden, block 6 times, Maximum Ziele: #{CaptionRatio}#
-SKILL_20150317_001231	Create an area of fog in front. Accuracy of enemies located in the fog decrease.
-SKILL_20150317_001232	Duration #{CaptionTime}# Sekunden, Accuracy -#{CaptionRatio}#%{nl}Consume #{SpendSP}# SP
+SKILL_20150317_001231	Create an area of fog in front. Präzision of enemies located in the fog decrease.
+SKILL_20150317_001232	Duration #{CaptionTime}# Sekunden, Präzision -#{CaptionRatio}#%{nl}Consume #{SpendSP}# SP
 SKILL_20150317_001233	Shock the enemies under [Freeze] nearnach and inflict damage.
 SKILL_20150317_001234	Lv.1 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.2 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.3 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.4 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.5 Attack rate #{SkillFactor}#, Splash #{SkillSR}#
 SKILL_20150317_001235	Apply [Curse] to the target and reduce its defense
@@ -1310,13 +1310,13 @@ SKILL_20150317_001309	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}Throw caltrops on t
 SKILL_20150317_001310	Attack #{SkillAtkAdd}#{nl}Throw #{CaptionRatio2}#{nl}Caltrop duration 20 Sekunden{nl}{#339999}{ol}[Slow]{/}{/} Duration 10 Sekunden
 SKILL_20150317_001311	Stone Picking
 SKILL_20150317_001312	Pick up stone projectiles found on the field. Cannot be obtained in town.
-SKILL_20150317_001313	Obtainable Stone Bullets: #{SkillFactor}#
+SKILL_20150317_001313	Stone Bullets zu erlangen: #{SkillFactor}#
 SKILL_20150317_001314	Stone Shot
 SKILL_20150317_001315	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to become afflicted with [Stun].
 SKILL_20150317_001316	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# Sekunden{nl}Use 1 stone bullet
 SKILL_20150317_001317	Rapid Fire
 SKILL_20150317_001318	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
-SKILL_20150317_001319	Angriff: #{SkillAtkAdd}#{nl}Maximum Loading Time: #{CaptionTime}# Sekunden
+SKILL_20150317_001319	Angriff: #{SkillAtkAdd}#{nl}Maximale Ladezeit: #{CaptionTime}# Sekunden
 SKILL_20150317_001320	Broom Trap
 SKILL_20150317_001321	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl}Set a trap that damages nearnach enemies.
 SKILL_20150317_001322	Angriff: #{SkillAtkAdd}#{nl}Dauer: 15 Sekunden
@@ -2123,7 +2123,7 @@ SKILL_20150317_002122	Warcry: Duration
 SKILL_20150317_002123	Duration of [Warcry] will increase nach 2 Sekunden per level
 SKILL_20150317_002124	Aggressor: Critical Rate
 SKILL_20150317_002125	Decreases the added accuracy nach half, but increases the critical rate equal to the decreased evasion when [Aggressor] aktiv ist.
-SKILL_20150317_002126	Aggressor: Additional Accuracy
+SKILL_20150317_002126	Aggressor: Additional Präzision
 SKILL_20150317_002127	Increases the additional added accuracy nach 2% per level and decreases the additional reduced evasion nach 2% per level when [Aggressor] aktiv ist.
 SKILL_20150317_002128	Savagery: Critical Rate
 SKILL_20150317_002129	Critical rate for [Savagery] is increased nach 5% pro{nl}Fähigkeits-Level.
@@ -3257,7 +3257,7 @@ SKILL_20150401_003256	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Destroy pavise
 SKILL_20150401_003257	Attack #{SkillAtkAdd}#{nl}Can destroy Ice Wall, Dirty Wall
 SKILL_20150401_003258	Move quickly towards target and shoot arrow.
 SKILL_20150401_003259	Hide installation from enemies
-SKILL_20150401_003260	Conceal Dauer: #{CaptionRatio}# minutes
+SKILL_20150401_003260	Vestreihende Zeit: #{CaptionRatio}# Minute(n)
 SKILL_20150401_003261	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Flame is fumed and damage target in the area.
 SKILL_20150401_003262	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Install trap where arrows are fired when touching wire.
 SKILL_20150401_003263	Attack #{SkillAtkAdd}#{nl}No. of Pfeils #{CaptionRatio}#{nl}Install range #{CaptionRatio2}#
@@ -3771,10 +3771,10 @@ SKILL_20150414_003770	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Charge crossbow
 SKILL_20150414_003771	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Demolish obstacles in front, inflicting damage to nearnach enemies.
 SKILL_20150414_003772	Attack with your crossbow while moving quickly.
 SKILL_20150414_003773	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Set up a rotating trap that inflicts damage to enemies within a radius.
-SKILL_20150414_003774	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Set up a trap in front of you that fires a buckshot. It triggers nach re-using the skill.
-SKILL_20150414_003775	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Set up a spring trap that activates once enemies step on it. Once the trap is activated, it will launch the enemies back far away.
+SKILL_20150414_003774	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Stellt eine Falle vor dir auf, welche Schrot feuert. Nach auslösen des Skills kann er wiederverwendet werden.
+SKILL_20150414_003775	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Stellt eine Federfalle auf, die aktiviert wird sobald Feinde auf sie treten. Sobald die Falle aktiviert wurde, werden die Feinde wieder von weit weg starten.
 SKILL_20150414_003776	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Explode ally magic circle and inflict damage to enemy.
-SKILL_20150414_003777	Hide a prepared trap from enemies.
+SKILL_20150414_003777	Versteckt eine vorbereitete Falle vor Feinden.
 SKILL_20150414_003778	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Set up a trap that shoots arrows when an enemy touches the wire.
 SKILL_20150414_003779	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Attach a bomb to an enemy. The enemy explodes when it comes in contact with other enemies.
 SKILL_20150414_003780	Begleiter Speed: +#{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden
@@ -4052,7 +4052,7 @@ SKILL_20150428_004051	Blocks ranged projectiles: #{CaptionRatio}#{nl}Pavise Daue
 SKILL_20150428_004052	Attack #{SkillAtkAdd}#{nl}Duration 15 Sekunden{nl}Use 3 Ash tree
 SKILL_20150428_004053	Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Use 1 Claymore
 SKILL_20150428_004054	Attack #{SkillAtkAdd}#{nl}Casting 3 Sekunden{nl}Use 3 Pine Tree
-SKILL_20150428_004055	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Detonates nearnach traps and magic circles to deal damage to enemies.
+SKILL_20150428_004055	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Detoniert in der Nähe von Fallen und Magischen Kreisen und fügt Feinden Schaden zu.
 SKILL_20150428_004056	Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# arrows{nl}Install range #{CaptionRatio2}#{nl}Use 2 wires
 SKILL_20150428_004057	Ausweichen: -#{CaptionRatio}#{nl}Pointing AI Dauer: 90 Sekunden
 SKILL_20150428_004058	Detects hidden monsters {nl}Hounding AI Dauer: 90 Sekunden
@@ -4597,7 +4597,7 @@ SKILL_20150714_004596	Erhöht die Schadensausteilung an einem{nl}Feind mit [Conc
 SKILL_20150714_004597	Erhöht die Schadensausteilung an einem{nl}Feind mit [Caracole] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004598	Erhöht die Schadensausteilung an einem{nl}Feind mit [Limacon] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004599	Erhöht die Schadensausteilung an einem{nl}Feind mit [Retreat Shot] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004600	Gun Mastery: Accuracy
+SKILL_20150714_004600	Gun Mastery: Präzision
 SKILL_20150714_004601	Increases your accuracy nach 30 pro Fähigkeits-Level, wenn equipped with a Pistol-type weapon.
 SKILL_20150714_004602	Erhöht die Schadensausteilung an einem{nl}Feind mit [Cure] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004603	Erhöht die Schadensausteilung an einem{nl}Feind mit [Heal] um 1% pro{nl}Fähigkeits-Level.
@@ -4946,10 +4946,10 @@ SKILL_20150729_004945	Each weapon has a different{nl}dungeon and Potential effec
 SKILL_20150729_004946	Increases skill damage while decreasing attack speed.
 SKILL_20150729_004947	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Throw caltrops on the ground that inflict damage to enemies that step on them.
 SKILL_20150729_004948	Attribut-Schaden: #{CaptionRatio}#%{nl}Throw Count: #{CaptionRatio2}#{nl}Caltrops Dauer: #{CaptionTime}# Sekunden
-SKILL_20150729_004949	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Lay a defensive trap that damages any enemies that walk into it.
-SKILL_20150729_004950	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}3 successive attacks
-SKILL_20150729_004951	Angriff: 300% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}AoE Angriffsanzahl: #{CaptionRatio}#{nl}Consumes 1 Claymore
-SKILL_20150729_004952	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Casting Time: 3 Sekunden{nl}Dauer: #{CaptionRatio2}# Sekunden{nl}Consumes 3 Pine Wood
+SKILL_20150729_004949	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Legt eine defensive Falle, welche Schaden allen Feinden verursacht die durch sie durch gehen.
+SKILL_20150729_004950	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}3 aufeinanderfolgende Angriffe
+SKILL_20150729_004951	Angriff: 300% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}AoE Angriffsanzahl: #{CaptionRatio}#{nl}Verbraucht 1 Claymore
+SKILL_20150729_004952	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Zauberzeit: 3 Sekunden{nl}Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht 3 Pine Wood
 SKILL_20150729_004953	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Defense Trap Dauer: 15 Sekunden{nl}Consumes 3 Ash Wood
 SKILL_20150729_004954	Temporarily increases the movement speed of your Begleiter.
 SKILL_20150729_004955	Attribut-Schaden: #{CaptionRatio}#%{nl}Dauer: #{CaptionRatio2}# Sekunden
@@ -4997,7 +4997,7 @@ SKILL_20150803_004996	Quick Cast
 SKILL_20150803_004997	{#DD5500}{ol}[Physisch] - [Geschoss]{/}{/}{nl}Kneel to increase focus. Increases your attack, range and attack speed.
 SKILL_20150803_004998	Physischer Schaden: +#{CaptionRatio}#{nl}Range: +#{CaptionRatio2}#{nl}Attack Speed: +#{CaptionTime}#
 SKILL_20150803_004999	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Number of Caltrops: #{CaptionRatio2}#{nl}Caltrop Dauer: #{CaptionTime}# Sekunden
-SKILL_20150803_005000	Angriff: 150% +#{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Dauer: #{CaptionTime}# Sekunden{nl}Consumes 1 Stone Bullet
+SKILL_20150803_005000	Angriff: 150% +#{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Stone Bullet
 SKILL_20150803_005001	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Trap Dauer: 15 Sekunden{nl}Consumes 3 Ash Wood
 SKILL_20150803_005002	Maximum Dauer: #{CaptionRatio}# Sekunden
 SKILL_20150803_005003	Creates a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
@@ -5100,9 +5100,9 @@ SKILL_20150918_005099	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Attacks the ene
 SKILL_20150918_005100	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Trefferanzahl: #{CaptionRatio}#
 SKILL_20150918_005101	Angriff: #{SkillAtkAdd}#{nl}Blocks ranged projectiles: #{CaptionRatio}#{nl}Pavise Dauer: #{CaptionTime}# Sekunden
 SKILL_20150918_005102	Increases attack, accuracy and critical rate of your companion for a given duration.
-SKILL_20150918_005103	Begleiter's Angriff: +#{CaptionRatio}#{nl}Begleiter's Accuracy: +#{CaptionRatio}#{nl}Begleiter's Critical Rate: +#{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden
+SKILL_20150918_005103	Begleiter's Angriff: +#{CaptionRatio}#{nl}Begleiter's Präzision: +#{CaptionRatio}#{nl}Begleiter's Critical Rate: +#{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150918_005104	Your companion wanders around the target and fixes its target. Decreases the target's evasion and accuracy.
-SKILL_20150918_005105	Ausweichen: -#{CaptionRatio}#{nl}Accuracy: -#{CaptionRatio}#{nl}Pointing AI Dauer: 90 Sekunden
+SKILL_20150918_005105	Ausweichen: -#{CaptionRatio}#{nl}Präzision: -#{CaptionRatio}#{nl}Pointing AI Dauer: 90 Sekunden
 SKILL_20150918_005106	Consumes #{SpendPoison}# Poison Pot Poison{nl}Poisonous Insekt Dauer: 20 Sekunden
 SKILL_20150918_005107	Zhendu
 SKILL_20150918_005108	Applies a poison once to the weapon of you and your party members for the next attack.
@@ -5344,7 +5344,7 @@ SKILL_20151016_005343	Zweihand-Bogen Mastery: Anti-Air
 SKILL_20151016_005344	Deals 20% additional damage per attribute level to Flying-type monsters when equipped with a [Zweihand-Bogen].
 SKILL_20151016_005345	Einhand-Bogen Mastery: Ignorier Verteidigung
 SKILL_20151016_005346	Ignores the enemy's armor nach 5% pro Fähigkeits-Level, wenn equipped with a [Einhand-Bogen]
-SKILL_20151016_005347	Gun: Accuracy
+SKILL_20151016_005347	Gun: Präzision
 SKILL_20151016_005348	Increases your accuracy nach 5% pro Fähigkeits-Level, wenn equipped with a Gun-type equipment.
 SKILL_20151016_005349	Revolver Mastery
 SKILL_20151016_005350	Deals 10% additional damage per attribute level to Mutant-type monsters when equipped with a [Revolver].
@@ -5515,19 +5515,19 @@ SKILL_20151102_005514	Invocation
 SKILL_20151102_005515	Mastema
 SKILL_20151102_005516	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Feuert schnell eine Reihe von Pfeilen auf das Zielgebiet ab.
 SKILL_20151102_005517	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Zieht deine Bogensehne zurück um{nl}einen hoch durchdringenden Schuss abzugeben. Getroffene Feinde im umliegenden Gelände werden festgesetzt.
-SKILL_20151102_005518	Kneel down to improve your concentration. Increases your attack, attack speed and range.
+SKILL_20151102_005518	Kniet nieder um deine Konzentration zu verbessern. Erhöht dein Angriff, Angriffsgeschwindigkeit und die Reichweite.
 SKILL_20151102_005519	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt einen Pfeil, der vom Ziel abspringt und einen benachbarten Gegner trifft.
-SKILL_20151102_005520	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Demonstrate your strength nach firing a shot that pushes enemies away.
+SKILL_20151102_005520	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Demonstriere deine Kraft durch das feuern eines Schusses, welcher Feinde zurückstoßt.
 SKILL_20151102_005521	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires two shots at once at an enemy.
 SKILL_20151102_005522	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Feuert 5 Pfeile in einem Bogen vor dir.
 SKILL_20151102_005523	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Ziele mit der Spitze des Pfeils und durchdringe Feinde vor dir.
 SKILL_20151102_005524	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schieße einen Pfeil mit hoher Wahrescheinlichkeit das Ziel kritisch zu treffen.
 SKILL_20151102_005525	Increases the attack of [Geschoss] skills while decreasing the attack speed.
-SKILL_20151102_005526	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires an arrow with a bomb attached. Upon hitting a target, the arrow will explode after an amount of time, dealing extra damage.
+SKILL_20151102_005526	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt einen Pfeil an dem eine Bombe befestigt ist. Nachdem ein Ziel getroffen wurde explodiert die Bombe nach einer gewissen Zeit und verursacht zusätzlichen Schaden.
 SKILL_20151102_005527	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires an arrow that splits upon hitting a target to hit other adjacent enemies.
 SKILL_20151102_005528	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a spiraling arrow that deals multiple hits to a target.
 SKILL_20151102_005529	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Jump backwards while firing multiple arrows forward.
-SKILL_20151102_005530	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to become afflicted with [Stun].
+SKILL_20151102_005530	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Feuert eine Steinkugel auf einen Feind und schiebt ihn weg. Es besteht eine Chance bei dem Ziel [Stun] auszulösen.
 SKILL_20151102_005531	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.
 SKILL_20151102_005532	{#DD5500}{ol}[Geschoss] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
 SKILL_20151102_005533	{#DD5500}{ol}[Geschoss] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearnach enemies whenever it is attacked.
@@ -5832,16 +5832,16 @@ SKILL_20151224_005831	{#993399}{ol}[Magic]{/}{/}Increases the chance of resistan
 SKILL_20151224_005832	Erhöht vorrübergehend die{nl}Bewegungsgeschwindigkeit und Ausweichen während der Bewegung.
 SKILL_20151224_005833	Bewegungsschuss Bewegungsgeschwindigkeit: +#{SkillFactor}#%{nl}Physische Verteidigung: -#{CaptionRatio}#{nl}Ausweichen: +#{CaptionRatio2}#%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20151224_005834	Set up an upright shield to protect yourself from enemies and long-ranged attacks. Enemies without a target will attack the pavise instead.
-SKILL_20151224_005835	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Throw Count: #{CaptionRatio2}#{nl}Caltrops Dauer: #{CaptionTime}# Sekunden{nl}Reduces enemy's movement speed nach 10 for 5 Sekunden 5
+SKILL_20151224_005835	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Wurfzähler: #{CaptionRatio2}#{nl}Krähenfüße Dauer: #{CaptionTime}# Sekunden{nl}Reduziert die Bewegungsgeschwindigkeit des Feindes um 10 für 5 Sekunden
 SKILL_20151224_005836	Pick up stone ammunition used for Stone Shot.
 SKILL_20151224_005837	Attack with a crossbow while moving quickly. Attacking speed is increased while additional damage is applied to basic attacks.
 SKILL_20151224_005838	Dauer: #{CaptionTime}# Sekunden{nl}Attack Speed: +30%{nl}Additional Schaden: #{CaptionRatio}#%
-SKILL_20151224_005839	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Explosion Count: #{CaptionRatio}#
+SKILL_20151224_005839	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Explosionszähler: #{CaptionRatio}#
 SKILL_20151224_005840	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Set up Count: #{CaptionRatio}#
 SKILL_20151224_005841	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Pfeil Count: #{CaptionRatio}#{nl}Set up Range: #{CaptionRatio2}#{nl}Consumes 2 Wires
 SKILL_20151224_005842	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}The bitten enemy will have its physical defense reduced while critical chance bonus is applied against the enemy.
 SKILL_20151224_005843	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}The companion bites an airborne enemy and lower it to the ground.
-SKILL_20151224_005844	Begleiter Angriff: +#{CaptionRatio}#{nl}Begleiter Accuracy: +#{CaptionRatio}#{nl}Begleiter Critical Rate: +#{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Maximum Level: 5
+SKILL_20151224_005844	Begleiter Angriff: +#{CaptionRatio}#{nl}Begleiter Präzision: +#{CaptionRatio}#{nl}Begleiter Kritrate: +#{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Maximum Level: 5
 SKILL_20151224_005845	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}The companion bites and drags the enemy towards their owner.
 SKILL_20151224_005846	Detects hidden enemies #{CaptionRatio}# times{nl}Hounding AI Dauer: 90 Sekunden
 SKILL_20151224_005847	Detoxifies a poisoned ally. If the poison is of a higher rank than the antidote, the duration will be reduced instead.
@@ -6219,7 +6219,7 @@ SKILL_20160224_006218	Allows you to attack while moving quickly. Increases attac
 SKILL_20160224_006219	{#DD5500}{ol}[Physisch]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physical defense and attacks against the target will have an increased critical chance.
 SKILL_20160224_006220	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Physische Verteidigung: -#{CaptionRatio}#{nl}Additional Kritchance: 30%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20160224_006221	{#DD5500}{ol}[Physisch]{/}{/}{nl}Order your companion to drop a Flying-type monster to the ground, afflicting [Bleeding].
-SKILL_20160224_006222	{#DD5500}{ol}[Physisch]{/}{/}{nl}Order your companion to charge and attack an enemy.
+SKILL_20160224_006222	{#DD5500}{ol}[Physisch]{/}{/}{nl}Befehle deinem Begleiter einen Feind anzugreifen.
 SKILL_20160224_006223	{#DD5500}{ol}[Physisch]{/}{/}{nl}Order your companion to drag a target towards you.
 SKILL_20160224_006224	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Maximum Dauer: #{CaptionTime}# Sekunden
 SKILL_20160224_006225	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Dauer: 6 Sekunden{nl}Consumes #{SpendPoison}# Poison Pot Poison
@@ -6326,7 +6326,7 @@ SKILL_20160224_006325	Wizard 1st Circle erforderlich
 SKILL_20160310_006326	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Ziele: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per Sekunde
 SKILL_20160310_006327	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Ziele: #{CaptionRatio}#{nl}Consumes 2% SP per Sekunde{nl}Maximum Dauer: 10 Sekunden
 SKILL_20160310_006328	Set up an upright shield to protect yourself from enemy attacks. Enemies without a target will attack the pavise instead.
-SKILL_20160310_006329	Angriff: #{SkillAtkAdd}#{nl}Blocks: #{CaptionRatio}#{nl}Pavise Dauer: #{CaptionTime}# Sekunden
+SKILL_20160310_006329	Angriff: #{SkillAtkAdd}#{nl}Block: #{CaptionRatio}#{nl}Passive Dauer: #{CaptionTime}# Sekunden
 SKILL_20160310_006330	Zusätzlich Feind-Level: #{CaptionRatio}#{nl}Dauer: #{CaptionRatio2}# Sekunden
 SKILL_20160310_006331	Restrained in the air.
 SKILL_20160310_006332	Swash Buckling: Repel

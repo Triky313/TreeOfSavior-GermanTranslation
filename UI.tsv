@@ -77,13 +77,13 @@ UI_20150317_000076	{@st64}Benutze die Pfeil Tasten um ein Element auszuwählen!
 UI_20150317_000077	{@st43}Entwicklungsinformation {/}
 UI_20150317_000078	{@st43}Klasse auswählen
 UI_20150317_000079	Psychokinesist
-UI_20150317_000080	{@st42}%s Kreise {/}
+UI_20150317_000080	{@st42}%s. Rang {/}
 UI_20150317_000081	Wie viele Kreise
 UI_20150317_000082	Displays a brief description of the class.
 UI_20150317_000083	{@st41b}Angriff {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Schwierigkeit{@sti7}%s{/}
-UI_20150317_000086	{@st59}Schliessen{/}
+UI_20150317_000086	{@st59}Schließen{/}
 UI_20150317_000087	Aufstieg Alarm
 UI_20150317_000088	{@st43} Aufsteigen
 UI_20150317_000089	{@sti7}{s14} Charakter {/}
@@ -1220,7 +1220,7 @@ UI_20150317_001219	Peltang Stang
 UI_20150317_001220	99 Circle
 UI_20150317_001221	Besiege 8 Mad Vubbe
 UI_20150317_001222	Tooltip
-UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Attack)
+UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Angriff)
 UI_20150317_001224	Apprentice Schwer
 UI_20150317_001225	Repair Durability :
 UI_20150317_001226	Repair Cost : 120 silver
@@ -1247,7 +1247,7 @@ UI_20150317_001246	{@st41b}%s Wertung
 UI_20150317_001247	Quest beendet 25
 UI_20150317_001248	[Sub]Thron Forest
 UI_20150317_001249	{@St42}Gegenstand ausgerüstet
-UI_20150317_001250	{@St44}Rank %s Class Information{/}
+UI_20150317_001250	{@St44}Rang %s Klassen Information{/}
 UI_20150317_001251	Aufstiegsalarm
 UI_20150317_001252	Like Heart
 UI_20150317_001253	N/A
@@ -1650,7 +1650,7 @@ UI_20150714_001649	{@st66b}Soft Particle verwenden{/}
 UI_20150714_001650	{@st66b}Hohe Texturen verwenden{/}
 UI_20150714_001651	{@st66b}Vertical Sync An{/}
 UI_20150714_001652	{@st66b}Vertical Sync Aus{/}
-UI_20150714_001653	{@st66b}Es kostet %s Silber wenn du etwas aus dem Lager nimmst oder hineinpackst.{/}
+UI_20150714_001653	{@st66b}Es kostet %s Silber wenn du etwas aus dem Lager nimmst oder hineinlegst.{/}
 UI_20150714_001654	%s mögen mich
 UI_20150714_001655	{@st41}Spectate
 UI_20150714_001656	{@st66b}Verlasse Spectator-Mode

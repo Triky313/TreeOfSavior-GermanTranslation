@@ -2719,7 +2719,7 @@ ETC_20150317_002716	Keep out! The stones should be delivered as soon as possible
 ETC_20150317_002717	Blut-Pfeil
 ETC_20150317_002718	Durchdringender Pfeil
 ETC_20150317_002719	Explosiver Pfeil
-ETC_20150317_002720	[Craftable]
+ETC_20150317_002720	[Schmiedbar]
 ETC_20150317_002721	Ausdauer
 ETC_20150317_002722	Angriff
 ETC_20150317_002723	Angriffsgeschwindigkeit
@@ -3428,7 +3428,7 @@ ETC_20150317_003423	Tontulionv2
 ETC_20150317_003424	Ask if he has the antidote
 ETC_20150317_003425	Give 100 silver
 ETC_20150317_003426	Ask if he has the medicine
-ETC_20150317_003427	Removing
+ETC_20150317_003427	Entfernen
 ETC_20150317_003428	Already released.
 ETC_20150317_003429	Guardian of The Slate
 ETC_20150317_003430	Saurman Speerman
@@ -3779,7 +3779,7 @@ ETC_20150317_003774	Level up tx failure. Request levelup tx until successful
 ETC_20150317_003775	Tastatur
 ETC_20150317_003776	zu erhöhende Werte
 ETC_20150317_003777	zu lernende Attribute
-ETC_20150317_003778	Your class level has increased
+ETC_20150317_003778	Dein Klassen-Level hat sich erhöht
 ETC_20150317_003779	to learn skills
 ETC_20150317_003780	Monster regen success:
 ETC_20150317_003781	No monster regens nearby
@@ -3790,7 +3790,7 @@ ETC_20150317_003785	Keine Skills
 ETC_20150317_003786	Keine Skills gesperrt
 ETC_20150317_003787	Level settings is not a number.
 ETC_20150317_003788	No results within the current zone.
-ETC_20150317_003789	No value selected
+ETC_20150317_003789	Kein Wert ausgewählt
 ETC_20150317_003790	Showing all GenType in the server because there was no search word
 ETC_20150317_003791	No results found in ClassType, Name, Tactics, Dialog, Enter, Leave.
 ETC_20150317_003792	Enter recommended quest level in numbers
@@ -4215,8 +4215,8 @@ ETC_20150317_004210	 h
 ETC_20150317_004211	 m
 ETC_20150317_004212	 s
 ETC_20150317_004213	 ausgewählt
-ETC_20150317_004214	{nl}Bist du bereit deinen Charakter voranzubringen?{nl}(Das kann bis zum nächsten Vortschritt nicht geändert werden)
-ETC_20150317_004215	{@st44}Nächste Klassen-Rang-Information
+ETC_20150317_004214	{nl}Bist du bereit deinen Charakter voranzubringen?{nl}(Das kann bis zum nächsten Vortschritt{nl}nicht geändert werden)
+ETC_20150317_004215	{@st44}Nächste Klassen-Rang Information
 ETC_20150317_004216	Aktuelle Job-Information
 ETC_20150317_004217	{@st43}Datum :
 ETC_20150317_004218	{@st43}Spielzeit :
@@ -5026,7 +5026,7 @@ ETC_20150317_005021	{@st41}Open your inventory by pressing the {img F2 40 40} ke
 ETC_20150317_005022	The Mausoleum lanterns are being attacked by the guardians!
 ETC_20150317_005023	Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Speerman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
-ETC_20150317_005025	Crafting
+ETC_20150317_005025	Herstellung
 ETC_20150317_005026	A Revelator?
 ETC_20150317_005027	Ask about the current situation
 ETC_20150317_005028	Ask about Medzio Diena
@@ -6019,7 +6019,7 @@ ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking o
 ETC_20150317_006015	Statuspunkte
 ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Kritchance {nl}
+ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Präzision, Evasion and Kritchance {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
 ETC_20150317_006022	Convenience
@@ -6286,12 +6286,12 @@ ETC_20150317_006282	Elementalists harness the elements and can cast powerful mag
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist
 ETC_20150317_006285	Archers verwenden Bögen und verschiedene Sekundärausrüstung.{nl}Ihre Spezialitäten sind agile Angriffe auf großer Distanz.
-ETC_20150317_006286	Jäger
+ETC_20150317_006286	Hunter
 ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Companions use skills which require cooperation with their owners, such as biting and holding onto enemies, or finding hidden targets.
 ETC_20150317_006288	Quarrel Shooter
 ETC_20150317_006289	Quarrel Shooters use a crossbow and shield for strategic combat. They can defend against long-range attacks using their pavises, placing them in the ground.
 ETC_20150317_006290	Ranger
-ETC_20150317_006291	Rangers specialize in fighting against multiple enemies with their quick and long-range attacks.
+ETC_20150317_006291	Rangers sind darauf spezialisiert mehrere Gegner mit schnellen und weitreichenden Angriffen zu bekämpfen.
 ETC_20150317_006292	Sapper
 ETC_20150317_006293	Sappers are archers who build traps and lure enemies into them.
 ETC_20150317_006294	Wugushi
@@ -7360,7 +7360,7 @@ ETC_20150317_007356	INT +%d
 ETC_20150317_007357	Critical Schaden +%d
 ETC_20150317_007358	Max HP +%d
 ETC_20150317_007359	Max SP +%d
-ETC_20150317_007360	Accuracy +%d
+ETC_20150317_007360	Präzision +%d
 ETC_20150317_007361	Defense +%d
 ETC_20150317_007362	Defense +%d
 ETC_20150317_007363	Critical Schaden Resistance +%d
@@ -8827,31 +8827,31 @@ ETC_20150317_008823	During your adventure, you can find hidden treasure chests. 
 ETC_20150317_008824	Videoaufnahme-Tipp
 ETC_20150317_008825	Drücke F12 um Gameplay-Videos aufzuzeichnen.
 ETC_20150317_008826	Screenshot-Tipp
-ETC_20150317_008827	Press PrintScreen to take screenshots.
+ETC_20150317_008827	Drücke die Druck-Taste um ein Screenshot zu machen.
 ETC_20150317_008828	Charakterinfo-Tipp
-ETC_20150317_008829	Press F1 to view info about your character.
+ETC_20150317_008829	Drücke F1 um mehr über deinen Charakter zu erfahren.
 ETC_20150317_008830	Inventar-Tipp
-ETC_20150317_008831	Press F2 to open your inventory to see the items and silver you own.
+ETC_20150317_008831	Drücke F2 um dein Inventar zu öffnen und deine Gegenstände und Silber zu sehen.
 ETC_20150317_008832	Classes, Skills and Attributes-Tipp
-ETC_20150317_008833	Press F1 to view info about your class, skills, and attributes.
+ETC_20150317_008833	Drücke F3 um Informationen über deine Klasse, Skills und Fähigkeiten zu erhalten.
 ETC_20150317_008834	Tagebuch-Tipp
 ETC_20150317_008835	Press F4 to view your cumulative record and progress of gameplay.
 ETC_20150317_008836	Quest-Tipp
 ETC_20150317_008837	Drücke F5 um Informationen über deine laufenden Quests zu sehen.
-ETC_20150317_008838	Party-Tipp
-ETC_20150317_008839	Drücke F6 um deine Party zu sehen.
+ETC_20150317_008838	Gruppen-Tipp
+ETC_20150317_008839	Drücke F6 um deine Gruppe zu sehen.
 ETC_20150317_008840	Party Request-Tipp
 ETC_20150317_008841	Right-click on another player's character to send a party request. When a request is accepted, you can play together in a party.
 ETC_20150317_008842	Public Party List-Tipp
 ETC_20150317_008843	Shows the list of current parties in the game. Click on the list to join the party.
 ETC_20150317_008844	Friends List-Tipp
-ETC_20150317_008845	Press F7 to view your Friends List.
+ETC_20150317_008845	Drücke F7 um deine Freundesliste zu sehen.
 ETC_20150317_008846	Pose-Tipp
 ETC_20150317_008847	Press F8 to apply a pose or add a macro.
 ETC_20150317_008848	Begleiter Info-Tipp
-ETC_20150317_008849	Press F9 to view the current status of your companion.
+ETC_20150317_008849	Drücke F9 um den aktuellen Status deines Begleiters zu sehen.
 ETC_20150317_008850	Help-Tipp
-ETC_20150317_008851	Press F10 to view the Help list.
+ETC_20150317_008851	Drücke F10 um die Hilfe zu öffnen.
 ETC_20150317_008852	Begleiter-Tipp
 ETC_20150317_008853	You can adopt and train your companion through the Begleiter Trader NPC.
 ETC_20150317_008854	Player Trading-Tipp
@@ -8864,10 +8864,10 @@ ETC_20150317_008860	Resurrection-Tipp
 ETC_20150317_008861	The durability of equipped items decreases once the character becomes incapable of combat.
 ETC_20150317_008862	Advancement-Tipp
 ETC_20150317_008863	You can advance to the same or a different class once you've reached the maximum class level.
-ETC_20150317_008864	Mission-Tipp
+ETC_20150317_008864	Missions-Tipp
 ETC_20150317_008865	Use the mission item purchased from the Mercenary Post to open a portal to take on a mission.
-ETC_20150317_008866	Field Boss-Tipp
-ETC_20150317_008867	A field boss can sometimes appear in certain areas.
+ETC_20150317_008866	Gebiet-Boss-Tipp
+ETC_20150317_008867	A Gebiet-Boss kann manchmal in bestimmten Bereichen erscheinen.
 ETC_20150317_008868	Elemental Properties-Tipp
 ETC_20150317_008869	Monsters have 1 of the 6 elemental properties: Fire, Ice, Earth, Dark, Poison, or Lightning.
 ETC_20150317_008870	Resistance-Tipp
@@ -9195,11 +9195,11 @@ ETC_20150317_009191	Practice Post (Fire)
 ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Lightning)
 ETC_20150317_009194	Practice Post (Earth)
-ETC_20150317_009195	[Gegenstand Merchant]{nl}         Mirina
-ETC_20150317_009196	[Equipment Merchant]{nl}                 Dunkel
-ETC_20150317_009197	[Zubehör Merchant]{nl}                Ronesa
+ETC_20150317_009195	[Gegenstandshändler]{nl}         Mirina
+ETC_20150317_009196	[Ausrüstungshändler]{nl}                 Dunkel
+ETC_20150317_009197	[Zubehörhändler]{nl}                Ronesa
 ETC_20150317_009198	Klaipeda Goddess Statue
-ETC_20150317_009199	[Blacksmith]{nl}       Zaras
+ETC_20150317_009199	[Schmied]{nl}       Zaras
 ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
 ETC_20150317_009201	[Cryomancer Master]{nl}    Aleister Crowley
 ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler
@@ -10923,21 +10923,21 @@ ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enem
 ETC_20150414_010921	Attack, Party
 ETC_20150414_010922	Doppelsoeldners are mercenaries who endure high risk for high rewards. They dangerously expose themselves to enemies to receive high attack power or high EXP.
 ETC_20150414_010923	Squires are warriors who support their allies. They support by repairing and enhancing others' weapons, or by setting up a base camp to aid their team.
-ETC_20150414_010924	Support, Crafting, Party
-ETC_20150414_010925	Attack, Support
+ETC_20150414_010924	Unterstützung, Crafting, Party
+ETC_20150414_010925	Angriff, Unterstützung
 ETC_20150414_010926	Alchemists use Alchimie to enhance gems and synthesize or craft items.
 ETC_20150414_010927	Sorcerers summon and control spirits to fight enemies, or even to use as mounts.
 ETC_20150414_010928	Summon, Attack
-ETC_20150414_010929	Support
+ETC_20150414_010929	Unterstützung
 ETC_20150414_010930	Chronomancers are wizards who control time. They stop, speed up, or change back time to help allies.
 ETC_20150414_010931	Necromancers are wizards who utilize magic involving the dead. They attack with, or create summoned creatures, using corpses collected over time.
-ETC_20150414_010932	Support, Control
-ETC_20150414_010933	Install Type Attack
+ETC_20150414_010932	Unterstützung, Kontrolle
+ETC_20150414_010933	Install Type Angriff
 ETC_20150414_010934	Rogues are combat professionals who will do anything for victory. They're specialized at ambushing enemies from behind using bows and daggers.
 ETC_20150414_010935	Schwarzer Reiters maneuver quickly. They specialize in diverse shooting techniques using a pistol.
 ETC_20150414_010936	Maneuvering Attack
 ETC_20150414_010937	Fletchers make and use special arrows. Different arrows result in powerful attacks depending on the type of enemy and combat situation.
-ETC_20150414_010938	Attack, Craft
+ETC_20150414_010938	Angriff, Herstellen
 ETC_20150414_010939	Falconer
 ETC_20150414_010940	Falconers control Hawks. Hawks may be fussy, but they become reliable companions when trained well.
 ETC_20150414_010941	Druids are clerics who use the power of nature. They control plants to help allies, or transform into monsters to use that monster's abilities.
@@ -12071,7 +12071,7 @@ ETC_20150714_012068	Dorf LadA3 Down
 ETC_20150714_012069	Use Centurion Attributes
 ETC_20150714_012070	Found a player who is most suitable for the party. Invite this person to the party!
 ETC_20150714_012071	A party requested your participation. Join the party!
-ETC_20150714_012072	There is a similar player nearby.{nl}You could invite this person to your party!
+ETC_20150714_012072	Da ist eine ähnliche Person in deiner Nähe.{nl}Du könntest sie in deine Gruppe einladen.
 ETC_20150714_012073	A party nearby is requesting your participation. Join the party!
 ETC_20150714_012074	There's a player who seems to be fit for your party.{nl}You could invite this person to your party!
 ETC_20150714_012075	A player who is doing the same quest is nearby. Invite them to the party!
@@ -12255,7 +12255,7 @@ ETC_20150714_012252	{nl}The gem's level decreases upon extraction.{nl}Are you su
 ETC_20150714_012253	Maximaler Physischer Angriff
 ETC_20150714_012254	Add {Wert} Physische Verteidigung to your Begleiter
 ETC_20150714_012255	Add {Wert} Magic Defense to your Begleiter
-ETC_20150714_012256	Add {Wert} Accuracy to your Begleiter
+ETC_20150714_012256	Add {Wert} Präzision to your Begleiter
 ETC_20150714_012257	Minimaler Physischer Angriff
 ETC_20150714_012258	Magieverstärkung
 ETC_20150714_012259	Minimum Magieangriff
@@ -12737,7 +12737,7 @@ ETC_20150714_012734	You didn't find any particular information
 ETC_20150714_012735	It will be dangerous if you go near
 ETC_20150714_012736	The Eyes of the Great King is whispering to you that the right person has come
 ETC_20150714_012737	You can only use it in the Lot 2 of the Crystal Mine
-ETC_20150714_012738	Besiege the monsters protecting the Demon Summoning Circle first!
+ETC_20150714_012738	Besiege zuerst die Monster die den Dämonen-Beschwörungskreis beschützen. 
 ETC_20150714_012739	Nepenthes is confused! Collect the Spiritually Enchanted Sap now!
 ETC_20150714_012740	Neutralize Nepenthes and collect the Spiritually Enchanted Sap!
 ETC_20150714_012741	The wood didn't make the right sound.
@@ -13490,7 +13490,7 @@ ETC_20150717_013487	Rezept - Naktis
 ETC_20150717_013488	Rezept - Grynas Rute
 ETC_20150717_013489	Rezept - Temere
 ETC_20150717_013490	Rezept - Black Stab
-ETC_20150717_013491	Rezept - Accuracy Armbrust
+ETC_20150717_013491	Rezept - Präzision Armbrust
 ETC_20150717_013492	Rezept - Veteran Armbrust
 ETC_20150717_013493	Rezept - Handgun
 ETC_20150717_013494	Veteran
@@ -13699,7 +13699,7 @@ ETC_20150729_013696	Nur Bereiche die du entdeckt hast werden angezeigt. Unentdec
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Verwende Statuspunkte welche du durch das leveln erhälst um deine Fähigkeiten zu verbessern.
 ETC_20150729_013699	Drücke {img F1 40 40} um die Charakter-Information zu öffnen und mehr über deinen Charakter zu erfahren.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Kritchance {nl}
+ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Präzision, Evasion and Kritchance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	Du kannst die Skills deines Charakters im Skill-Fenster bearbeiten.
 ETC_20150729_013703	Drücke {img F3 40 40} um das Skill-Fenster zu öffnen.
@@ -14040,7 +14040,7 @@ ETC_20150730_014037	Schadens will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Präzision, Evasion and Critical Rate{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -19245,7 +19245,7 @@ ETC_20151224_019241	There are no same dice!
 ETC_20151224_019242	The dice number is different
 ETC_20151224_019243	You've found the same dice number!
 ETC_20151224_019244	The monsters are trying to destroy the Guardian Statue{nl}Protect it from the monsters
-ETC_20151224_019245	You've obtained silver as a reward for the Adventure Journal
+ETC_20151224_019245	Du hast für das Tagebuch Silber erhalten.
 ETC_20151224_019246	The reward will be provided in silver
 ETC_20151224_019247	 You can receive a quest reward{nl}in order to progress the quest
 ETC_20151224_019248	 with your party members.
@@ -19887,15 +19887,15 @@ ETC_20151224_019883	Hairstyle16
 ETC_20151224_019884	Hairstyle17
 ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
-ETC_20151224_019887	[TP Trader]{nl}   Leticia
+ETC_20151224_019887	[TP Händler]{nl}   Leticia
 ETC_20151224_019888	[Templar Master]{nl}Knight Commander Uska
 ETC_20151224_019889	[Cryomancer Master]{nl}  Aleister Crowley
-ETC_20151224_019890	[Blacksmith]{nl}   Ilanai
-ETC_20151224_019891	[Equipment Merchant]{nl}      Jura
+ETC_20151224_019890	[Schmied]{nl}   Ilanai
+ETC_20151224_019891	[Ausrüstungshändler]{nl}      Jura
 ETC_20151224_019892	  [Lord of Orsha]{nl}    Inesa Hamondale
 ETC_20151224_019893	[Orsha Bishop]{nl}        Urbonas
-ETC_20151224_019894	[Gegenstand Merchant]{nl}        Alf
-ETC_20151224_019895	[Accessory Merchant]{nl}        Jurus
+ETC_20151224_019894	[GegenstandsHändler]{nl}        Alf
+ETC_20151224_019895	[Zubehörhändler]{nl}        Jurus
 ETC_20151224_019896	[Hoplite Master]{nl}        Aidas Valor
 ETC_20151224_019897	[Paladin Klassenmeister]{nl}        Silvia Naimon
 ETC_20151224_019898	[Wizard Klassenmeister]{nl}          Dejamis
@@ -19913,8 +19913,8 @@ ETC_20151224_019909	[Jäger Klassenmeister]{nl}       Belkin Vellon
 ETC_20151224_019910	[Wugushi Master]{nl}          Wor Pat
 ETC_20151224_019911	[Scout Klassenmeister]{nl}          Suina
 ETC_20151224_019912	[Begleiter Trader]{nl}            Taurus
-ETC_20151224_019913	[Market Manager]{nl}     Tilliana
-ETC_20151224_019914	[Storage Keeper]{nl}      Aisa
+ETC_20151224_019913	[Auktionshaus Manager]{nl}     Tilliana
+ETC_20151224_019914	[Lagerwächter]{nl}      Aisa
 ETC_20151224_019915	[Orsha's Magic Association]{nl}           Florianna
 ETC_20151224_019916	[Wings of Vibora]{nl}            Rosia
 ETC_20151224_019917	Novaha Relic
@@ -20561,7 +20561,7 @@ ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slot(s) for {Silbe
 ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	This item cannot be awakened.
 ETC_20160224_020560	When awakening an item, your magic scroll and the item's current awakened options will disappear. Do you still want to proceed?
-ETC_20160224_020561	{nl}Register this to the Adventure Journal?
+ETC_20160224_020561	{nl}Dies in dein Tagebuch eintragen?
 ETC_20160224_020562	No Options
 ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
 ETC_20160224_020564	You cannot carry more than {MAX} silver.
@@ -20662,7 +20662,7 @@ ETC_20160224_020658	You've exhausted your available trades.
 ETC_20160224_020659	Schlag-type
 ETC_20160224_020660	Schlag-type Defense
 ETC_20160224_020661	Verzaubern
-ETC_20160224_020662	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?
+ETC_20160224_020662	Diese Sammlung teilst du dir mit deinem Team.{nl}Der Gegenstand kann nicht zurückgenommen werden nachdem er einmal hinzugefügt wurde.{nl}Wirklich hinzufügen? 
 ETC_20160224_020663	You have already registered this recipe.
 ETC_20160224_020664	The recipe has been registered.
 ETC_20160224_020665	Enable Protection Mode
