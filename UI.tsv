@@ -435,9 +435,9 @@ UI_20150317_000434	Dialog Tool
 UI_20150317_000435	{@st43}GM Einstellungen{/}
 UI_20150317_000436	{@st59}Schliessen{/}
 UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Klicke auf den "Party erstellen" Button weiter unten um eine Party zu erstellen. {nl} - Rechtsklicke auf andere Spieler um Party-Einladungen zu senden. {nl} - Anpassungen an der Party können im Einstellungen-Tab gemacht werden. {nl} - Setze Spezifikationen der Party-Mitgliedersuche in der Öffentlichen-Party-Liste fest. {/}
-UI_20150317_000438	{@st43}Party Information{/}
+UI_20150317_000438	{@st43}Gruppen-Information{/}
 UI_20150317_000439	{@st41b}Mitglieder{/}
-UI_20150317_000440	{@st41b}Party Event {/}
+UI_20150317_000440	{@st41b}Gruppenevent{/}
 UI_20150317_000441	{@st41b}Einstellungen{/}
 UI_20150317_000442	{@st41}Mitglieder{/}
 UI_20150317_000443	{@st41}Beitrittsbedingungen für die Party
@@ -533,7 +533,7 @@ UI_20150317_000532	{@st41b}Abschliessen{/}
 UI_20150317_000533	{@st41}Akzeptieren{/}
 UI_20150317_000534	{@st41}Ablehnen{/}
 UI_20150317_000535	{@st44}Zurückkehren{/}
-UI_20150317_000536	Zu welcher Quest möchtest du zurückkehren?
+UI_20150317_000536	Zu welcher Quest möchtest du{nl}zurückkehren?
 UI_20150317_000537	{@st41b}Questklassen-Name{/}
 UI_20150317_000538	{@st59}Slot erweitern {/}
 UI_20150317_000539	{@st59}Slot verkleinern{/}
@@ -1715,7 +1715,7 @@ UI_20150717_001714	{@st42b}Schwertsman types can dash by pressing the arrow key 
 UI_20150717_001715	{@st42}Party-Name & Beschreibungen{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
 UI_20150717_001717	{@st41b}Öffentliche Party-Liste{/}
-UI_20150717_001718	{@st41b}Recommended Character List{/}
+UI_20150717_001718	{@st41b}Empfohlen Character List{/}
 UI_20150717_001719	{@st41b}Receive Recommendation
 UI_20150717_001720	This can only be used by party leaders.
 UI_20150717_001721	You must use the Party Member Recommendation function.
@@ -1739,40 +1739,40 @@ UI_20150729_001738	{@st59b}Gegenstands-Herstellung{nl}{@st59s} - An item can be 
 UI_20150729_001739	{@st59}Close Pfeil Crafting{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
 UI_20150729_001741	{@st42b}         Schwertsman classes can sprint by                     double-tapping a directional key{/}
-UI_20150729_001742	{@st41}Party-Einstellungen
-UI_20150729_001743	{@st41}Party Recruit Settings
-UI_20150729_001744	{@st42}Suche nach Party-Mitglieder{/}
+UI_20150729_001742	{@st41}Gruppen-Einstellungen
+UI_20150729_001743	{@st41}Gruppen Rekrutierungseinstellungen
+UI_20150729_001744	{@st42}Suche nach Gruppen-Mitglieder{/}
 UI_20150729_001745	When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
-UI_20150729_001746	{@st41b}Recommended Player List{/}
+UI_20150729_001746	{@st41b}Empfohlene Spielerliste{/}
 UI_20150729_001747	{@st41}Attribut-Information
 UI_20150729_001748	{@st59}Erweiterung abbrechen{/}
 UI_20150729_001749	{@st59b}Edelstein/Karte Enhancement{nl}{@st59s} - Select a gem or card from your inventory to enhance it.{nl} - All items with exception of quest items can be used as materials for enhancing gems.{nl} (Most effective when using a gem as material){nl} - Cards can only be enhanced by using other cards.{/}
 UI_20150729_001750	{#000000}{s22}Server Queue
 UI_20150729_001751	{#000000}{s22}The server is currently full. Queueing for entry.
 UI_20150729_001752	{#000000}{s22}Current Position : %s
-UI_20150729_001753	{@st43}Team Battle League
+UI_20150729_001753	{@st43}Team Battle Liga
 UI_20150729_001754	{@st59}Schließen
-UI_20150729_001755	{@st42}Team Battle League Schedule
-UI_20150729_001756	{@st43}Team Battle League Rankings
-UI_20150729_001757	{@st59}Schliesse Team
-UI_20150729_001758	Teamname
+UI_20150729_001755	{@st42}Team Battle Liga Plan
+UI_20150729_001756	{@st43}Team Battle Liga Rangliste
+UI_20150729_001757	{@st59}Schließe Gruppe
+UI_20150729_001758	Gruppenname
 UI_20150729_001759	{@st41b}Skill Name
 UI_20150729_001760	{@st59}Accept Party Mission{/}
-UI_20150729_001761	{@st59}Delete this Ticket{/}
+UI_20150729_001761	{@st59}Lösche dieses Ticket{/}
 UI_20150729_001762	Wertung
-UI_20150729_001763	Join Team Battle League
+UI_20150729_001763	Tritt Team Battle Liga bei
 UI_20150730_001764	{@st56}Mein Rang
-UI_20150730_001765	{@st56}Kill Rank
-UI_20150730_001766	{@st56}Schaden Rank
+UI_20150730_001765	{@st56}Tötungs-Rang
+UI_20150730_001766	{@st56}Schadens-Rang
 UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName chat
 UI_20150803_001768	{@st66b}Controller Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{@st43}{s18}Pick the character to receive the item.{/}
 UI_20150804_001771	Max Sockel : %s
 UI_20150807_001772	{@st41b}Details {img red_down_arrow 16 16}
-UI_20150807_001773	{@st41b}Price :{/}
-UI_20150807_001774	{@st41b}After Repair :{/}
-UI_20150918_001775	Camp Duration
+UI_20150807_001773	{@st41b}Preis :{/}
+UI_20150807_001774	{@st41b}Nach der Reparatur :{/}
+UI_20150918_001775	Lagerzeit
 UI_20150918_001776	Effekt
 UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s silver.
 UI_20150918_001778	Persönliches Lager
@@ -1786,21 +1786,21 @@ UI_20150918_001785	{#000000}Eintrittlevel{/}
 UI_20150918_001786	{#000000}Eintrittzähler{/}
 UI_20150918_001787	{#000000}Anzahl der Einträge wird zurückgesetzt in %s.{/}
 UI_20150918_001788	{img silver 20 20} Preis
-UI_20150918_001789	Partys in der Nähe
+UI_20150918_001789	Gruppen in der Nähe
 UI_20150918_001790	Erforderliche Fragmente : %s 
 UI_20150918_001791	{@st66b}Leer
-UI_20150918_001792	{@st42}Zeige Partys in der Nähe{/}
+UI_20150918_001792	{@st42}Zeige Gruppen in der Nähe{/}
 UI_20150918_001793	Freundschaft mit {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Freundschaft
-UI_20150918_001795	{@st41b}Obtained material for item crafting!
+UI_20150918_001795	{@st41b}Erhalte Material zum Gegenstand herstellen!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Restart from the nearest Revival Point{/}
 UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
-UI_20150918_001799	{@st66b}Return to the field{/}
-UI_20150918_001800	{@st66b}Abandon the quest and try again{/}
+UI_20150918_001799	{@st66b}Rückkehr ins Gebiet{/}
+UI_20150918_001800	{@st66b}Brich die Quest ab und versuche es erneut{/}
 UI_20150918_001801	{@st66b}Erneut versuchen{/}
 UI_20150918_001802	{@st66b}Verkaufte Items{/}
-UI_20150918_001803	{@st53}Ranking Punkte : %s
+UI_20150918_001803	{@st53}Rang-Punkte : %s
 UI_20150918_001804	Total Nicht handelbar: %s
 UI_20150918_001805	{@st42b}Check Dialog{/}
 UI_20150918_001806	{@st66b}Give food to outside party{/}
@@ -1811,7 +1811,7 @@ UI_20150918_001810	{@sti9}Schadensrang
 UI_20151001_001811	{@st43}Tastatur Einstellungen{/}
 UI_20151001_001812	{@st45tw2}Kategorie
 UI_20151001_001813	Aktion
-UI_20151001_001814	Restore defaults
+UI_20151001_001814	Einstellungen zurücksetzen
 UI_20151016_001815	{@st59}Das ausgewählte Gegenstand wird festgesetzt{/}
 UI_20151016_001816	{@st59}Du kannst das Theme von deinem Haus ändern und eine Vorschau zeigen.
 UI_20151016_001817	%s Charaktere{/}
@@ -1835,15 +1835,15 @@ UI_20151224_001834	{@st43}Zauber-Verkauf Shop{/}
 UI_20151224_001835	{@st59}Schließen{/}
 UI_20151224_001836	{@st43}Zauber-Verkauf Shop
 UI_20151224_001837	Zauber-Verkauf Shop
-UI_20151224_001838	{@st59}Schliessen
+UI_20151224_001838	{@st59}Schließen
 UI_20151224_001839	{@st59}Zauber-Verkauf Shop{nl} - You can receive a buff skill from the player by paying in silver.
 UI_20151224_001840	{@st41b}Build
 UI_20151224_001841	{@st41b}Material & Preis
-UI_20151224_001842	{@st66b}Basement
-UI_20151224_001843	{@st66b}Records
+UI_20151224_001842	{@st66b}Keller
+UI_20151224_001843	{@st66b}Aufzeichnungen
 UI_20151224_001844	Anzahl Beine
-UI_20151224_001845	{@st41}Confirm
-UI_20151224_001846	{@st42}Use{/}
+UI_20151224_001845	{@st41}Bestätigen
+UI_20151224_001846	{@st42}Verwenden{/}
 UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}
 UI_20151224_001848	{@st59}Gilde  (/g chat){/}
 UI_20151224_001849	{@st59}Gilde   (/g chat){/}
@@ -1878,7 +1878,7 @@ UI_20151224_001877	{@st45tw2}Zeit{/}
 UI_20151224_001878	{@st45tw2}Erholen{/}
 UI_20151224_001879	{@st66b}Dungeons{/}
 UI_20151224_001880	{@st66b}Request Office Mission{/}
-UI_20151224_001881	{@st66b18}Eintritts Limit{/}
+UI_20151224_001881	{@st66b18}Eintritts-Limit{/}
 UI_20151224_001882	{@st45tw2}Name{/}
 UI_20151224_001883	{@st45tw2}Eintritt Lv.{/}
 UI_20151224_001884	Suchzeit : 
@@ -1926,24 +1926,24 @@ UI_20151224_001925	Minimalgrenze Preis{/}
 UI_20151224_001926	{@st66}Niedrigster Marktpreis{/}
 UI_20151224_001927	{@st66}Höchster Marktpreis{/}
 UI_20151224_001928	%s (Ch %s)
-UI_20151224_001929	Number of Fragments
+UI_20151224_001929	Anzahl der Fragmente
 UI_20151224_001930	{@st66b}Öffnen
 UI_20151224_001931	{@st66b}Angebotebox
 UI_20151224_001932	{@st66b}Mitglieder{/}
-UI_20151224_001933	{@st66b}Party Event{/}
+UI_20151224_001933	{@st66b}Gruppenevent{/}
 UI_20151224_001934	{@st66b}Einstellungen{/}
 UI_20151224_001935	{@st42b}Speichern{/}
-UI_20151224_001936	{@st41}Partyname & Beschreibung{/}
-UI_20151224_001937	Zeige Partys in der Nähe
-UI_20151224_001938	Öffentliche Party
+UI_20151224_001936	{@st41}Gruppenname & Beschreibung{/}
+UI_20151224_001937	Zeige Gruppen in der Nähe
+UI_20151224_001938	Öffentliche Gruppe
 UI_20151224_001939	Lv.-Unterschied
 UI_20151224_001940	Verwende 'Empfohlene Gruppe'
 UI_20151224_001941	{@st66b}Gruppen-Einladungs-Tag einfügen
 UI_20151224_001942	Wettbewerbsfähige Mission
 UI_20151224_001943	Einheit
 UI_20151224_001944	{@st41b}Eingabe
-UI_20151224_001945	{@st66b}Öffentliche Party Liste{/}
-UI_20151224_001946	{@st66b}Recommended Player List{/}
+UI_20151224_001945	{@st66b}Öffentliche Gruppenliste{/}
+UI_20151224_001946	{@st66b}Empfohlen Player List{/}
 UI_20151224_001947	Leben
 UI_20151224_001948	{@st43}Nachrichten-Box
 UI_20151224_001949	{@st66b}Alle
@@ -1953,7 +1953,7 @@ UI_20151224_001952	{@st66b}  Aktive  {/}
 UI_20151224_001953	{@st66b}  Abgebrochene  {/}
 UI_20151224_001954	{@st66b}Resurrect with the Seelenkristall{/}
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
-UI_20151224_001956	Crafting Number
+UI_20151224_001956	Herstellungs-Nummer
 UI_20151224_001957	{@st42}%s Vorteile{/}
 UI_20151224_001958	Möchtest du das verwenden %s?{/}
 UI_20151224_001959	Dieser Gegenstand wird aus deinem Inventar verschwinden.{nl}Resetet all deine Skill-Punkte.
@@ -2031,19 +2031,19 @@ UI_20151224_002030	Aufsteigend nach Name
 UI_20151224_002031	Absteigend nach Name
 UI_20151224_002032	Nach Datum
 UI_20151224_002033	{@st42}Token Vorteile{/}
-UI_20151224_002034	{@st66b}Change Signboard Titel
-UI_20151224_002035	{@st41b}Eat
-UI_20151224_002036	{@st41b}Nummber
+UI_20151224_002034	{@st66b}Foren-Titel ändern
+UI_20151224_002035	{@st41b}Essen
+UI_20151224_002036	{@st41b}Nummer
 UI_20151224_002037	Cash Garden %s{/}
 UI_20151224_002038	Zeige Online
-UI_20151224_002039	Hangout Entry
-UI_20151224_002040	Allow guild members only
+UI_20151224_002039	Hangout Eintrag
+UI_20151224_002040	Nur Gildenmitglieder zugelassen
 UI_20151224_002041	Kriegsrekorde
 UI_20151224_002042	Gildenkrieg-Liste
-UI_20151224_002043	Remaining Time
+UI_20151224_002043	Verbleibende Zeit
 UI_20151224_002044	Verfügbarer Tower
-UI_20151224_002045	Upgrade Guild
-UI_20151224_002046	Contribution Rank
+UI_20151224_002045	Gilde verbessern
+UI_20151224_002046	Spenden-Rang
 UI_20151224_002047	Gildenskills & Informationen
 UI_20151224_002048	{@st42}%s Vorteile{/}
 UI_20151224_002049	Vorteile
@@ -2054,7 +2054,7 @@ UI_20160224_002053	Retrieve Gegenstand
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Teamname (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Schliessen{/}
 UI_20160224_002056	Herausforderung
-UI_20160224_002057	Please choose to proceed
+UI_20160224_002057	Bitte auswählen um fortzufahren
 UI_20160224_002058	{@st63_yellow}Verlassen :{/}
 UI_20160224_002059	Receive a reward and leave.
 UI_20160224_002060	{@st63_yellow}Herausforderung :{/}
@@ -2068,28 +2068,28 @@ UI_20160224_002067	{@st59}Platziere ein Zubehörteil{/}
 UI_20160224_002068	{@st66b}Opening one more time costs silver.{/}
 UI_20160224_002069	{@st66b}(Up to two times for users with Token benefits){/}
 UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
-UI_20160224_002071	{@st66b}Basis Infos
-UI_20160224_002072	{@st66b}Property
+UI_20160224_002071	{@st66b}Basis-Infos
+UI_20160224_002072	{@st66b}Eigenschaft
 UI_20160224_002073	The guild master is searching for Guild Event participants.
 UI_20160224_002074	{@st63_yellow}Mitglieder :{/}
 UI_20160224_002075	{@st63}%s participants (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Location :{/}
 UI_20160224_002077	Cobalt Forest
 UI_20160224_002078	{@st63_yellow}Objective :{/}
-UI_20160224_002079	{@st43}Guild Lv. %s{/}
-UI_20160224_002080	{@st66b}Upgrade & Rank
-UI_20160224_002081	{@st66b}Guild Attributes
+UI_20160224_002079	{@st43}Gilden Lv. %s{/}
+UI_20160224_002080	{@st66b}Verbesserung & Rang
+UI_20160224_002081	{@st66b}Gilden-Fähigkeiten
 UI_20160224_002082	Gildenlager
 UI_20160224_002083	{@st59}Schließen{/}
 UI_20160224_002084	* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.
 UI_20160224_002085	{@st41b}Verzauberung
 UI_20160224_002086	{@st41b}Verzauberungsrolle{/}
 UI_20160224_002087	{@st59}Schließen{/}
-UI_20160224_002088	{@st66b}Consumes 1 Enchant Scroll{/}
-UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
-UI_20160224_002090	{@st66b}Missions{/}
+UI_20160224_002088	{@st66b}Verbraucht 1 Verzauberungs-Scroll{/}
+UI_20160224_002089	{@st42b}Aktuelle Scrolls  : %s{/}
+UI_20160224_002090	{@st66b}Missionen{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
-UI_20160224_002092	{@st66b}Earth Tower{/}
+UI_20160224_002092	{@st66b}Erd-Tower{/}
 UI_20160224_002093	{@st59b}Instanz-Dungeon{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
 UI_20160224_002094	{@st59}Schließen{/}
 UI_20160224_002095	{@st59}Zeigen/Nicht zeigen{/}

@@ -770,10 +770,10 @@ QUEST_LV_0100_20150317_000769	I will give you a stronger charm, so use it after 
 QUEST_LV_0100_20150317_000770	Ah, and if a brainwashed Panto injure an attacking Panto, that Panto will be on our side as well.
 QUEST_LV_0100_20150317_000771	As I thought, I still have some materials left. {nl}Thank you though.
 QUEST_LV_0100_20150317_000772	Follower Alfonsas
-QUEST_LV_0100_20150317_000773	Amazing.{nl}With this, my brothers at the church can fight without any worries.
+QUEST_LV_0100_20150317_000773	Großartig,{nl}damit können meine Brüder in der Kirche ohne Sorge kämpfen. 
 QUEST_LV_0100_20150317_000774	The Demon Summoning Circles are the biggest problem here.{nl}If we scribble on the circles, do you think the summoning formulas will become tangled?
 QUEST_LV_0100_20150317_000775	At the very least, the demons should stop crossing through after those circles are removed.{nl}Though I do hope for a better result.
-QUEST_LV_0100_20150317_000776	They're getting swallowed up into them.{nl}Very effective indeed.
+QUEST_LV_0100_20150317_000776	Sie wurden von ihnen immer verschlungen.{nl}In der Tat, sehr effektiv. 
 QUEST_LV_0100_20150317_000777	Follower Vaidas
 QUEST_LV_0100_20150317_000778	It is reassuring to hear that Brother Tomas will be in charge of the altar.{nl}
 QUEST_LV_0100_20150317_000779	Brother Vaidutis is waiting on the 1st floor. {nl}Gesti's barrier is blocking the way, but don't worry. It can simply be taken down by{nl}the power of the altar.
@@ -1235,7 +1235,7 @@ QUEST_LV_0100_20150317_001234	Well done.{nl}As the Paladin Master, I salute to y
 QUEST_LV_0100_20150317_001235	Watcher James
 QUEST_LV_0100_20150317_001236	We must protect this place from the demons at any cost.{nl}The land here is sacred.
 QUEST_LV_0100_20150317_001237	I would have fled long time ago if it wasn't for that pledge.{nl}I am still the son of the great Watcher.
-QUEST_LV_0100_20150317_001238	We have to somehow thwart these demons.{nl}I cannot let this danger pass to our brothers in the church.
+QUEST_LV_0100_20150317_001238	Wir müssen den Dämonen irgendwie zuvor kommen.{nl}Ich kann unsere Brüdern in der Kirche nicht in Gefahr geraten lassen.
 QUEST_LV_0100_20150317_001239	We can't go in due to the barrier.{nl}To open the door, we should go through 1st floor of the basement.
 QUEST_LV_0100_20150317_001240	Will this world be peaceful when we meet again? I hope it will.
 QUEST_LV_0100_20150317_001241	I never expected those demons to come down this far.{nl}I hope our brothers can persist in their fight against them.
@@ -2806,7 +2806,7 @@ QUEST_LV_0100_20150317_002805	Destroy Sequoia
 QUEST_LV_0100_20150317_002806	Tell you will defeat Sequoia
 QUEST_LV_0100_20150317_002807	Guardian Purifying Device
 QUEST_LV_0100_20150317_002808	Go to purify the corrupted Guardian
-QUEST_LV_0100_20150317_002809	I'll wait a little bit
+QUEST_LV_0100_20150317_002809	Ich warte ein wenig
 QUEST_LV_0100_20150317_002810	Destroying the Defense Device
 QUEST_LV_0100_20150317_002811	Destroy the corrupted protecting device
 QUEST_LV_0100_20150317_002812	Recycling (1)
@@ -2866,8 +2866,8 @@ QUEST_LV_0100_20150317_002865	Say that you will do it
 QUEST_LV_0100_20150317_002866	Tell him to give it to him directly
 QUEST_LV_0100_20150317_002867	Collapsed Protection System
 QUEST_LV_0100_20150317_002868	Repair the broken Royal Mausoleum Guardian
-QUEST_LV_0100_20150317_002869	Unwelcome Guest from the Forest
-QUEST_LV_0100_20150317_002870	It's easy
+QUEST_LV_0100_20150317_002869	Ungebetene Gäste aus dem Wald
+QUEST_LV_0100_20150317_002870	Das ist leicht
 QUEST_LV_0100_20150317_002871	Removing/MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002872	Notice/The Biteregina appeared after removed the hivecomb.{nl}Besiege the Biteregina!
 QUEST_LV_0100_20150317_002873	Irritating Pricks
@@ -2879,12 +2879,12 @@ QUEST_LV_0100_20150317_002878	I'll be back quickly
 QUEST_LV_0100_20150317_002879	Impossible
 QUEST_LV_0100_20150317_002880	Lighting Fire/SITGROPE/1/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002881	Slave Contract
-QUEST_LV_0100_20150317_002882	Accept immediately
+QUEST_LV_0100_20150317_002882	Akzeptiere ich sofort
 QUEST_LV_0100_20150317_002883	Emancipation
-QUEST_LV_0100_20150317_002884	Trust him one more time
-QUEST_LV_0100_20150317_002885	I will not be fooled again.
+QUEST_LV_0100_20150317_002884	Vertraue ihr noch einmal
+QUEST_LV_0100_20150317_002885	Ich lass mich nicht nochmal täuschen
 QUEST_LV_0100_20150317_002886	Igniting/SITGROPE/2/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002887	In the Name of the Goddess!
+QUEST_LV_0100_20150317_002887	Im Namen der Göttin!
 QUEST_LV_0100_20150317_002888	I'll defeat the demons
 QUEST_LV_0100_20150317_002889	I'm sorry, but I can't do it all by myself
 QUEST_LV_0100_20150317_002890	Obversion
@@ -3132,10 +3132,10 @@ QUEST_LV_0100_20150317_003131	I can't believe it
 QUEST_LV_0100_20150317_003132	Light Attack (1)
 QUEST_LV_0100_20150317_003133	It doesn't seem like a good idea
 QUEST_LV_0100_20150317_003134	Light Attack (2)
-QUEST_LV_0100_20150317_003135	Hmm, alright
+QUEST_LV_0100_20150317_003135	Hmm, in Ordnung
 QUEST_LV_0100_20150317_003136	I need more preparation
 QUEST_LV_0100_20150317_003137	Till the Last Drop 
-QUEST_LV_0100_20150317_003138	I can help you
+QUEST_LV_0100_20150317_003138	Ich kann dir helfen
 QUEST_LV_0100_20150317_003139	Hold on a little longer
 QUEST_LV_0100_20150317_003140	Bully
 QUEST_LV_0100_20150317_003141	That's too much to handle
@@ -5060,7 +5060,7 @@ QUEST_LV_0100_20150317_005059	Follower Donatas is seeking for your help
 QUEST_LV_0100_20150317_005060	Collect the clothes of Pawndel and Pawnd
 QUEST_LV_0100_20150317_005061	Follower Donatas is trying to disguise as a demon and create chaos. First, collect the clothes of Pawndel and Pawnd.
 QUEST_LV_0100_20150317_005062	You have collected all the clothes of Pawndel and Pawnd. Hand them over to Follower Donatas.
-QUEST_LV_0100_20150317_005063	Besiege demons
+QUEST_LV_0100_20150317_005063	Besiege Dämonen
 QUEST_LV_0100_20150317_005064	Follower Donatas is waiting for the Revelator at the 1st floor of the church to hand over the scroll that turns oneself into a demon.
 QUEST_LV_0100_20150317_005065	Lure Pawndel and Pawnd to the Apsauga Altar
 QUEST_LV_0100_20150317_005066	Donatas told you to gain confidence by defeating Pawndels and Pawndus disguise yourself into a demon using the scroll. Disguise yourself into a demon and lure Pawndels and Pawndus to the Apsauga Altar and defeat them.
@@ -5082,7 +5082,7 @@ QUEST_LV_0100_20150317_005081	Follower Tomas wants help on the Tenet Church 1F.
 QUEST_LV_0100_20150317_005082	Besiege Yognomes
 QUEST_LV_0100_20150317_005083	Follower Tomas told you to defeat the Yognomes around here, since they are trying to eat the altar and he can't concentrate his work.
 QUEST_LV_0100_20150317_005084	As Follower Tomas requested of you, you defeated all the Yognomes. Return to Follower Tomas.
-QUEST_LV_0100_20150317_005085	Collect the Eyes of Madness
+QUEST_LV_0100_20150317_005085	Sammle Eyes of Madness
 QUEST_LV_0100_20150317_005086	Follower Tomas told you to defeat Ruteelins and retrieve their Eyes of Madness, which can be used to hide from demons.
 QUEST_LV_0100_20150317_005087	You collected enough Eyes of Madness. Return to Follower Tomas.
 QUEST_LV_0100_20150317_005088	Besiege Ruteelins and obtain %s
@@ -5354,7 +5354,7 @@ QUEST_LV_0100_20150317_005353	Sprich mit Follower Alfonsas
 QUEST_LV_0100_20150317_005354	Follower Alfonsas at Fallen Tree Garden is waiting for someone to help him.
 QUEST_LV_0100_20150317_005355	Follower Alfonsas said there are too many demons for him to handle by himself, so he asked for your help. Besiege the demons along the way to the Temple Courtyard.
 QUEST_LV_0100_20150317_005356	Defeated enough demons as Follower Alfonsas asked. Return to him. 
-QUEST_LV_0100_20150317_005357	Write over the Demon Summoning Circles
+QUEST_LV_0100_20150317_005357	Beschreibe die Dämonenbeschwörerkreise
 QUEST_LV_0100_20150317_005358	Follower Alfonsas said that scribbling on the Demon Summoning Circles alters them greatly. Avoid the monsters and scribble the circles.
 QUEST_LV_0100_20150317_005359	A little vandalism on the summoning circle absorbed back the summoned demons. It was small but a good try. Return and let Follower Alfonsas know about it. 
 QUEST_LV_0100_20150317_005360	Find Follower Algis
@@ -7648,12 +7648,12 @@ QUEST_LV_0100_20150729_007647	Almost all the mementos have been collected.{nl}I'
 QUEST_LV_0100_20150729_007648	Thank you very much. {nl} My comrades can now rest in peace with the Goddesses.
 QUEST_LV_0100_20150729_007649	The Immortal Nepenthes (1)
 QUEST_LV_0100_20150729_007650	The Immortal Nepenthes (2)
-QUEST_LV_0100_20150729_007651	The Watcher's Potential (1)
-QUEST_LV_0100_20150729_007652	The Watcher's Potential (2)
+QUEST_LV_0100_20150729_007651	Das Wächterpotential (1)
+QUEST_LV_0100_20150729_007652	Das Wächterpotential(2)
 QUEST_LV_0100_20150729_007653	Placing the Spirit Eye
 QUEST_LV_0100_20150729_007654	Checking the Eyes of the Spirits/MAKING/2/TRACK_BEFORE/None/F_spread_in023_green/1/MID
 QUEST_LV_0100_20150729_007655	The Ritual Disruptors
-QUEST_LV_0100_20150729_007656	I will help
+QUEST_LV_0100_20150729_007656	Ich helfe dir
 QUEST_LV_0100_20150729_007657	Tell him that the corpses can't be handled carelessly
 QUEST_LV_0100_20150729_007658	Preventive Measures
 QUEST_LV_0100_20150729_007659	I will destroy the coffins
@@ -7661,7 +7661,7 @@ QUEST_LV_0100_20150729_007660	Tell him to do whatever he wishes to do
 QUEST_LV_0100_20150729_007661	Picky Grave Guard
 QUEST_LV_0100_20150729_007662	I will search for it
 QUEST_LV_0100_20150729_007663	Ask him to tell you directly
-QUEST_LV_0100_20150729_007664	Rest In Peace
+QUEST_LV_0100_20150729_007664	Ruhe in Frieden
 QUEST_LV_0100_20150729_007665	I will pray for the repose of their souls
 QUEST_LV_0100_20150729_007666	Tell him to do his duties as a grave keeper
 QUEST_LV_0100_20150729_007667	Suspicious Sanctum (1)

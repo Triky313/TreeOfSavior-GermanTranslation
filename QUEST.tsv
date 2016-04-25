@@ -2395,7 +2395,7 @@ QUEST_20150908_002402	Obtained the wood
 QUEST_20150918_002403	There are no missions for today.
 QUEST_20150918_002404	There are only missions that seem difficult to you.{nl}Please come again another time.
 QUEST_20150918_002405	Historic Site Ruins
-QUEST_20150918_002406	Historic Site Ruins (Recommended Lv : 90){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
+QUEST_20150918_002406	Historic Site Ruins (Empfohlen Lv : 90){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Are you sure you want to enter?
 QUEST_20150918_002407	Right. Goddess Laima is the strangest of them all.{nl}No one knows when she disappeared. To be honest, I don't know if she really is a goddess.{nl}
 QUEST_20150918_002408	Even if they say the world is doomed, our soldiers will guard this place until the end. {nl}However, we won't be responsible for you getting into trouble, so be careful.
 QUEST_20150918_002409	Welcome. Sir Uska is waiting for you in the central square of Klaipeda. {nl}Well, is there anything that you are unsure of?
@@ -2418,13 +2418,13 @@ QUEST_20150918_002425	Go down quickly. It's dangerous. {nl}This place is empty.
 QUEST_20150918_002426	I cannot feel any magic.
 QUEST_20150918_002427	It's empty now.
 QUEST_20150918_002428	Underground Chapel Dungeon
-QUEST_20150918_002429	Underground Chapel Dungeon (Recommended Lv : 50){nl}Only you and your party members can enter together.{nl}Do you want to enter?
+QUEST_20150918_002429	Underground Chapel Dungeon (Empfohlen Lv : 50){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Möchtest du eintreten?
 QUEST_20150918_002430	Fallen Legwyn Family Dungeon
-QUEST_20150918_002431	Fallen Legwyn Family Dungeon (Recommended Lv : 132){nl}Only you and your party members can enter together.{nl}Do you want to enter?
+QUEST_20150918_002431	Fallen Legwyn Family Dungeon (Empfohlen Lv : 132){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Möchtest du eintreten?
 QUEST_20150918_002432	Archmage Tower Dungeon
-QUEST_20150918_002433	Archmage Tower Dungeon (Recommended Lv : 190){nl}Only you and your party members can enter together.{nl}Do you want to enter?
+QUEST_20150918_002433	Archmage Tower Dungeon (Empfohlen Lv : 190){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Möchtest du eintreten?
 QUEST_20150918_002434	Catacombs Underground Dungeon
-QUEST_20150918_002435	Catacombs Underground Dungeon (Recommended Lv : 200){nl}Only you and your party members can enter together.{nl}Do you want to enter?
+QUEST_20150918_002435	Catacombs Underground Dungeon (Empfohlen Lv : 200){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Möchtest du eintreten?
 QUEST_20150918_002436	I'm looking over the shop because my father is busy. {nl}I may be not as good as my father, but my touch is precise. 
 QUEST_20150918_002437	Look around! {nl}It's a bit crowded, but many items are waiting to meet its owner.
 QUEST_20150918_002438	Storage Keeper Zadan
@@ -2450,7 +2450,7 @@ QUEST_20151001_002457	We don't have a suitable request for you.{nl}Please look f
 QUEST_20151001_002458	There is a request that is being progressed.{nl}Come see me again after finishing the request.
 QUEST_20151001_002459	This request can be accepted by the party leader.
 QUEST_20151001_002460	Thorny Vines Forest Dungeon
-QUEST_20151001_002461	Thorny Vines Forest Dungeon (Recommended Lv : 175){nl}Only you and your party members can enter together.{nl}Do you want to enter?
+QUEST_20151001_002461	Thorny Vines Forest Dungeon (Empfohlen Lv : 175){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Möchtest du eintreten?
 QUEST_20151001_002462	It was a disaster... Many people were either injured or killed. {nl}Gentle creatures grew fierce and many new monsters emerged.{nl}
 QUEST_20151001_002463	The best weapons and armors are the ones that you get used to over a long period of time. {nl}In order to do so, you must start by buying good items.
 QUEST_20151001_002464	The things I sell are good both in price and quality.
@@ -2789,7 +2789,7 @@ QUEST_20151016_002796	Gathering Shining Moss.
 QUEST_20151016_002797	Pouring the Blood
 QUEST_20151016_002798	The Bracken Herb is rotting.
 QUEST_20151022_002799	Collapsed Residential Quarters
-QUEST_20151022_002800	Collapsed Residential Quarters (Recommended Lv : 160){nl}Only you and your party members can enter together.{nl}Do you want to enter?
+QUEST_20151022_002800	Collapsed Residential Quarters (Empfohlen Lv : 160){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Möchtest du eintreten?
 QUEST_20151022_002801	Are you the one who rescued us?{nl}Then we shall lend you our power.
 QUEST_20151022_002802	Thank you for saving us from this awful work.{nl}It might be a little, but please accept my power.
 QUEST_20151022_002803	How hard it has been... If it weren't for you, we would've spent eternity working.{nl}Thank you. Let me share you my power.
@@ -3017,9 +3017,9 @@ QUEST_20151102_003024	Found relics.
 QUEST_20151224_003025	Toras
 QUEST_20151224_003026	Choose a name for your companion.
 QUEST_20151224_003027	Deep Underground Prison
-QUEST_20151224_003028	Deep Underground Prison (Recommended Lv: 217) {nl}Only you and your party members can enter together. {nl}Are you sure you want to enter?
+QUEST_20151224_003028	Deep Underground Prison (Empfohlen Lv: 217) {nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten. {nl}Are you sure you want to enter?
 QUEST_20151224_003029	Demon Prison Guild
-QUEST_20151224_003030	Demon Prison Guild (Recommended Lv : 115){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
+QUEST_20151224_003030	Demon Prison Guild (Empfohlen Lv : 115){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Are you sure you want to enter?
 QUEST_20151224_003031	I am in charge of managing small requests.{nl}Please, come visit me from time to time.
 QUEST_20151224_003032	Ah, yes, I would appreciate that.{nl}
 QUEST_20151224_003033	Blacksmith Zaras
@@ -3596,7 +3596,7 @@ QUEST_20160224_003603	Darn... I am sorry, but I don't have an appropriate reques
 QUEST_20160224_003604	Don't bite off more than you can handle. You seem to have a request already.{nl}Please come back after you've finished your current request.
 QUEST_20160224_003605	Only the party leader can accept our requests.{nl}Could you ask your party leader to come here?
 QUEST_20160224_003606	Earth Tower Lolopanther Area
-QUEST_20160224_003607	Earth Tower Lolopanther Area (Recommended Lv: 280) {nl}Only you and your party members can enter together. {nl}Are you sure you want to enter?
+QUEST_20160224_003607	Earth Tower Lolopanther Area (Empfohlen Lv: 280) {nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten. {nl}Are you sure you want to enter?
 QUEST_20160224_003608	Valis
 QUEST_20160224_003609	There's nothing better than sparring to improve your skills!{nl}What do you say, would you like to participate?
 QUEST_20160224_003610	There seems to be some sort of mysterious power indwelling in it.{nl}Would you mind me taking a closer look?
@@ -3683,9 +3683,9 @@ QUEST_20160224_003690	Oh, the youth. Oh, the beautiful...{nl}To introduce my poo
 QUEST_20160224_003691	My song flows as the wind blows, as your soul glitters brightly...{nl}Do you have an interest in the songs of this poor bard?{nl}
 QUEST_20160224_003692	But poor old me. {nl}Though I wish to tell you, your lonesome friend must soon leave. {nl}Farewell...
 QUEST_20160224_003693	Hollow Thorn Forest Dungeon
-QUEST_20160224_003694	Hollow Thorn Forest Dungeon (Recommended Lv : 145){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
+QUEST_20160224_003694	Hollow Thorn Forest Dungeon (Empfohlen Lv : 145){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Are you sure you want to enter?
 QUEST_20160224_003695	Blue Fortress Dungeon
-QUEST_20160224_003696	Blue Fortress Dungeon (Recommended Lv : 240){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
+QUEST_20160224_003696	Blue Fortress Dungeon (Empfohlen Lv : 240){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Are you sure you want to enter?
 QUEST_20160224_003697	Ancient Warp Magic Circle
 QUEST_20160224_003698	You cannot return once you enter.{nl}Do you wish to proceed?
 QUEST_20160224_003699	It's all done!{nl}Now all we have to do is blow it up!
