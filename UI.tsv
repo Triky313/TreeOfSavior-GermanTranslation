@@ -1764,7 +1764,7 @@ UI_20150729_001763	Tritt Team Battle Liga bei
 UI_20150730_001764	{@st56}Mein Rang
 UI_20150730_001765	{@st56}Tötungs-Rang
 UI_20150730_001766	{@st56}Schadens-Rang
-UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName chat
+UI_20150803_001767	Allgemein: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Flüstern: /w TeamName chat
 UI_20150803_001768	{@st66b}Controller Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{@st43}{s18}Pick the character to receive the item.{/}
@@ -1778,7 +1778,7 @@ UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s
 UI_20150918_001778	Persönliches Lager
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Schwierigkeit : {@sti7}%s{/}
-UI_20150918_001781	{#ffff00}{ol}%s{/}{/} players like this character
+UI_20150918_001781	{#ffff00}{ol}%s{/}{/} Spieler mögen diesen Charakter
 UI_20150918_001782	{@st43}Instanziierte Dungeons
 UI_20150918_001783	{@st41}Überprüfen Ort
 UI_20150918_001784	{#000000}Dungeon Name{/}
@@ -1849,7 +1849,7 @@ UI_20151224_001848	{@st59}Gilde  (/g chat){/}
 UI_20151224_001849	{@st59}Gilde   (/g chat){/}
 UI_20151224_001850	{@st42}Textgröße
 UI_20151224_001851	{@st66b}Information
-UI_20151224_001852	Goddess Statue HP
+UI_20151224_001852	Göttinnenstatue HP
 UI_20151224_001853	Runde
 UI_20151224_001854	Spieler
 UI_20151224_001855	Verbündete
@@ -1899,7 +1899,7 @@ UI_20151224_001898	{@st41}Skill Level
 UI_20151224_001899	{@st41}Riches Material
 UI_20151224_001900	{@st66b}Dismiss Helper (Requires %s TP){/}
 UI_20151224_001901	{@st66b}Weltkarte{/}
-UI_20151224_001902	{@st59}Zeige ganze Map{/}
+UI_20151224_001902	{@st59}Zeige ganze Karte{/}
 UI_20151224_001903	{ol}Nachricht
 UI_20151224_001904	{@st66b18}Abrufen
 UI_20151224_001905	{@st66b18}Verkauf
@@ -1912,8 +1912,8 @@ UI_20151224_001911	{@st42}Erweiterte Optionen{/}
 UI_20151224_001912	{@st65}Level{/}
 UI_20151224_001913	{@st65}Erweitertes Level{/}
 UI_20151224_001914	{@st59}Suche nach Itemname und Optionen{/}
-UI_20151224_001915	{@st65}Niedrigste zuerst{/}
-UI_20151224_001916	{@st65}Höchste zuerst{/}
+UI_20151224_001915	{@st65}Niedrigstes zuerst{/}
+UI_20151224_001916	{@st65}Höchstes zuerst{/}
 UI_20151224_001917	{@st45tw2}Menge{/}
 UI_20151224_001918	{@st45tw2}Time until Retrieval{/}
 UI_20151224_001919	{@st66b}Sales Period & Commission Fee{/}
@@ -1943,31 +1943,31 @@ UI_20151224_001942	Wettbewerbsfähige Mission
 UI_20151224_001943	Einheit
 UI_20151224_001944	{@st41b}Eingabe
 UI_20151224_001945	{@st66b}Öffentliche Gruppenliste{/}
-UI_20151224_001946	{@st66b}Empfohlen Player List{/}
+UI_20151224_001946	{@st66b}Empfohlene Spielerliste{/}
 UI_20151224_001947	Leben
 UI_20151224_001948	{@st43}Nachrichten-Box
 UI_20151224_001949	{@st66b}Alle
 UI_20151224_001950	{@st66b}Ungelesen
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - Wenn du eine neue Quest startest, wird sie dem Quest-Fenster hinzugefügt.{nl} - Ein Hauptquest wird in gelber Farbe angezeigt, während ein Nebenquest in blau angezeigt wird.{nl} - Der Pfeil an den Füßen deines Charakters führ zum Ort deiner Quest.{nl} - Ein 'Rückkehr'-Symbol wird in deinem Aufgaben-Fenster angezeigt, wenn eine Quest abgeschlossen ist{nl}  (Um dich zum Quest-NPC zu teleportieren drücke die Backspace-Taste oder klicke mit der Maus){nl} - Um Quests dem Quest-Fenster hinzuzufügen oder zu entfernen klicke in das Kästchen vor dem Questnamen{/}
-UI_20151224_001952	{@st66b}  Aktive  {/}
-UI_20151224_001953	{@st66b}  Abgebrochene  {/}
+UI_20151224_001952	{@st66b}  Aktiv  {/}
+UI_20151224_001953	{@st66b}  Abgelaufen  {/}
 UI_20151224_001954	{@st66b}Resurrect with the Seelenkristall{/}
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20151224_001956	Herstellungs-Nummer
 UI_20151224_001957	{@st42}%s Vorteile{/}
 UI_20151224_001958	Möchtest du das verwenden %s?{/}
-UI_20151224_001959	Dieser Gegenstand wird aus deinem Inventar verschwinden.{nl}Resetet all deine Skill-Punkte.
+UI_20151224_001959	Dieser Gegenstand wird aus deinem Inventar verschwinden.{nl}Setzt alle deine Skillpunkte zurück.
 UI_20151224_001960	{@st41}Verwenden
 UI_20151224_001961	{@st59b}Klassen{nl}{@st59s}- Du kannst neue Skills lernen wenn du auf den Kreis deiner Klasse gehst. {nl} - Du kannst 3 verschiedene Klassen wählen.{nl} - Du kannst eine Klasse bis auf die 3. Stufe (Sterne) bringen. {nl} - Du kannst nicht zurück zur alten Klasse wechseln, wenn du einmal mit einer anderen Klasse aufgestiegen bist.{nl} - Du musst all deine Skill-Punkte verteilt haben damit du aufsteigen kannst.{nl} - Du kannst mehrmals die selbe Klasse wählen.{nl}{@st59b}Skills{nl}{@st59s} - Du kannst einen Skill um bis zu 5 Stufen erhöhen.{nl} - Fähigkeiten die du bei deinem Klassenmeister gelernt hast, sind unter den Skills in der Liste zu finden.{/}
 UI_20151224_001962	{@st66b}Infos{/}
 UI_20151224_001963	{@st66b}Erfolge{/}
 UI_20151224_001964	{@st66b}Char-Einstellungen{/}
 UI_20151224_001965	{@st59}Sammlung (F11){/}
-UI_20151224_001966	{@st66b}Tasten-Einstellungen
+UI_20151224_001966	{@st66b}Tastatureinstellungen
 UI_20151224_001967	{@st42}Dauer: %s{/}
 UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
 UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}
-UI_20151224_001970	The duration of your Token can be seen in Character Settings.
+UI_20151224_001970	Die Laufzeit deines Token kannst du in den Charaktereinstellungen sehen.
 UI_20151224_001971	{@st59}Schließen{/}
 UI_20151224_001972	{@st43}{s18}Vorschau & Kauf
 UI_20151224_001973	Vorschau
@@ -1981,7 +1981,7 @@ UI_20151224_001980	{@st49}Kauf bestätigen{/}
 UI_20151224_001981	{@st66b}Lager erweitern
 UI_20151224_001982	{@st59}Lager erweitern{/}
 UI_20151224_001983	{@st42b}Gebiet{/}
-UI_20151224_001984	{@st59}Öffne Map{/}
+UI_20151224_001984	{@st59}Öffne Karte{/}
 UI_20151224_001985	Nummer
 UI_20151224_001986	{@st43}Wechsle Team-Name{/}
 UI_20151224_001987	{@st59}Wechsle Team-Name{/}
@@ -1989,16 +1989,16 @@ UI_20151224_001988	{@st59}Abbrechen{/}
 UI_20151224_001989	{@st66b18}Wechsle Team-Name{/}
 UI_20151224_001990	{@st66b18}Wechsle Haus{/}
 UI_20151224_001991	{@st66}Teamname ändern kostet 150 TP{/}
-UI_20151224_001992	{@st59}Gib einen Namen an{/}
-UI_20151224_001993	{@st41b}Frei TP{/}
+UI_20151224_001992	{@st59}Gib einen Namen ein{/}
+UI_20151224_001993	{@st41b}Freie TP{/}
 UI_20151224_001994	{@st59}Schließen{/}
 UI_20151224_001995	{@st43}Haus Dekoration{/}
 UI_20151224_001996	{@st41b}Hausbesuch{/}
-UI_20151224_001997	{@st59}Besuche die Hauser von anderen Spielern.{/}
+UI_20151224_001997	{@st59}Besuche die Häuser von anderen Spielern.{/}
 UI_20151224_001998	{@st41b}Nachrichten-Box{/}
 UI_20151224_001999	{@st59}Öffne die Nachrichten-Box{/}
 UI_20151224_002000	{@st42}Charakter{/}
-UI_20151224_002001	{@st42}Frei TP{/}
+UI_20151224_002001	{@st42}Freie TP{/}
 UI_20151224_002002	{@st42}Event TP{/}
 UI_20151224_002003	{@st41b}Credits{/}
 UI_20151224_002004	{@st59}Credits{/}
@@ -2009,20 +2009,20 @@ UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}Ge
 UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
 UI_20151224_002010	Wähle eine Startstadt
 UI_20151224_002011	{@st44}Klaipeda
-UI_20151224_002012	{@st59s}Eine Bergbaustadt, die dank der Crystal Mine fortgeschritten ist.{nl}Diese Stadt erhielt kleinere Schäden während Medzio Diena.{/}
+UI_20151224_002012	{@st59s}Eine Bergbaustadt, die dank der Crystal Mine fortgeschritten ist.{nl}Diese Stadt erlitt kleinere Schäden während Medzio Diena.{/}
 UI_20151224_002013	{@st44}Orsha
 UI_20151224_002014	{@st59s}Wir haben versucht uns während Medzio Diena selbst zu schützen indem wir in die riesige Burg geflüchtet sind.{nl}Die schreckliche Katastrophe hat aber auch die Burg geschluckt.{/}
 UI_20151224_002015	{@st59}Zu meinem Haus zurückkehren.{/}
 UI_20151224_002016	{@st43}{s24}Hausname{/}
 UI_20151224_002017	{@st59}Hausname{/}
-UI_20151224_002018	{@st59}Haus-Einstellungen{/}
+UI_20151224_002018	{@st59}Haus Einstellungen{/}
 UI_20151224_002019	{@st42}Zähler zurücksetzten
 UI_20151224_002020	{@st41}Nachricht
 UI_20151224_002021	{@st59}Zeige Questdialog{/}
 UI_20151224_002022	{@st59}Quest abbrechen{/}
 UI_20151224_002023	{@st49}Vorschau{/}
 UI_20151224_002024	{@st49}Hinzufügen{/}
-UI_20151224_002025	erhalten %s by %s
+UI_20151224_002025	erhalten %s von %s
 UI_20151224_002026	Anzahl links
 UI_20151224_002027	Anzahl links : %s{/}
 UI_20151224_002028	{@st41}Kaufen{/}
@@ -2031,7 +2031,7 @@ UI_20151224_002030	Aufsteigend nach Name
 UI_20151224_002031	Absteigend nach Name
 UI_20151224_002032	Nach Datum
 UI_20151224_002033	{@st42}Token Vorteile{/}
-UI_20151224_002034	{@st66b}Foren-Titel ändern
+UI_20151224_002034	{@st66b}Forentitel ändern
 UI_20151224_002035	{@st41b}Essen
 UI_20151224_002036	{@st41b}Nummer
 UI_20151224_002037	Cash Garden %s{/}
@@ -2048,10 +2048,10 @@ UI_20151224_002047	Gildenskills & Informationen
 UI_20151224_002048	{@st42}%s Vorteile{/}
 UI_20151224_002049	Vorteile
 UI_20160224_002050	Team-Lager
-UI_20160224_002051	{@st59}Schliessen{/}
+UI_20160224_002051	{@st59}Schließen{/}
 UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
 UI_20160224_002053	Retrieve Gegenstand
-UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Teamname (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
+UI_20160224_002054	Allgemein : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Flüstern : /w Teamname (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Schliessen{/}
 UI_20160224_002056	Herausforderung
 UI_20160224_002057	Bitte auswählen um fortzufahren
@@ -2085,8 +2085,8 @@ UI_20160224_002084	* The guild master can send items to guild members.{nl}* Item
 UI_20160224_002085	{@st41b}Verzauberung
 UI_20160224_002086	{@st41b}Verzauberungsrolle{/}
 UI_20160224_002087	{@st59}Schließen{/}
-UI_20160224_002088	{@st66b}Verbraucht 1 Verzauberungs-Scroll{/}
-UI_20160224_002089	{@st42b}Aktuelle Scrolls  : %s{/}
+UI_20160224_002088	{@st66b}Verbraucht 1 Verzauberungsrolle{/}
+UI_20160224_002089	{@st42b}Aktuelle Rollen  : %s{/}
 UI_20160224_002090	{@st66b}Missionen{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Erd-Tower{/}
@@ -2101,12 +2101,12 @@ UI_20160224_002100	{@st42}%s Vorteile{/}
 UI_20160224_002101	This item will disappear from your inventory{nl}and all %s will be reset.{/}
 UI_20160224_002102	The remaining time can be seen in Character Settings.{/}
 UI_20160224_002103	Abrufen von Daten.
-UI_20160224_002104	{@st66b}Ranking{/}
-UI_20160224_002105	{@st66b}Spectate
+UI_20160224_002104	{@st66b}Rangliste{/}
+UI_20160224_002105	{@st66b}Zuschauen
 UI_20160224_002106	{@st41b}Zuschauen beenden
 UI_20160224_002107	Blaues Team
 UI_20160224_002108	Rotes Team
-UI_20160224_002109	{@59}Zeige im neuen Fenster{/}
+UI_20160224_002109	{@59}Im neuen Fenster zeigen{/}
 UI_20160224_002110	Tagebuch aktualisiert
 UI_20160224_002111	{@st41}Austausch
 UI_20160224_002112	Komme in das merry kingdom
@@ -2115,12 +2115,12 @@ UI_20160224_002114	Neue Rekorde
 UI_20160224_002115	{@st45tw2}Kategorie{/}
 UI_20160224_002116	{@st41c}%s{/}
 UI_20160224_002117	{@st41c}%sm{/}
-UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis' rule.{nl}Besiege Temple Shooter and help make Crystal Mine safe once more.
+UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis' rule.{nl}Besiege Temple Shooter und helfe erneut dabei Crystal Mine zu einem sicheren Ort zu machen.
 UI_20160224_002119	{@st41c}Kapitel %s{/}
 UI_20160224_002120	Name & Klasse
 UI_20160224_002121	{@st41b}Refresh
 UI_20160224_002122	Zeige letzte Historie
-UI_20160224_002123	Spectate
+UI_20160224_002123	Zuschauen
 UI_20160224_002124	{#000000}%s W{/}
 UI_20160224_002125	{@st66b}Punkte Shop
 UI_20160224_002126	Tägliche Punkte
@@ -2130,7 +2130,7 @@ UI_20160224_002129	Lager
 UI_20160224_002130	Rang %s
 UI_20160224_002131	Niederlagen : %s
 UI_20160224_002132	Schaden : %s
-UI_20160224_002133	Increased maximum buff count
+UI_20160224_002133	Erhöhte Buffanzahl
 UI_20160310_002134	{@st65}Schaden: %s{/}
 UI_20160310_002135	{@st65}{s12}Errungenschaft{/}
 UI_20160310_002136	{#16120e}Errungenschaft{/}
@@ -2151,9 +2151,9 @@ UI_20160323_002150	Rang meiner Gilde
 UI_20160323_002151	{@sti1}%s's Location{/}
 UI_20160323_002152	Last week Standings
 UI_20160323_002153	1st
-UI_20160323_002154	Guild Belohnungsliste
+UI_20160323_002154	Gilden Belohnungsliste
 UI_20160323_002155	{@st41}Beschworene Kreaturen : {#ffcc33}%s{/}
-UI_20160323_002156	{@st41}Fragments Required : %s
+UI_20160323_002156	{@st41}Fragmente benötigt : %s
 UI_20160323_002157	ATK : {@st41b}%s
 UI_20160323_002158	DEF : {@st41b}%s
 UI_20160323_002159	STR : {@st41b}%s
@@ -2161,15 +2161,15 @@ UI_20160323_002160	CON : {@st41b}%s
 UI_20160323_002161	INT : {@st41b}%s
 UI_20160323_002162	DEX : {@st41b}%s
 UI_20160323_002163	SPR : {@st41b}%s
-UI_20160323_002164	{@st42}Frisur-Farbe{/}
-UI_20160323_002165	{@st42}Available Titels{/}
+UI_20160323_002164	{@st42}Haarfarbe{/}
+UI_20160323_002165	{@st42}Verfügbare Titel{/}
 UI_20160323_002166	Team-Info
 UI_20160323_002167	{@st66b}Haus ändern{/}
 UI_20160323_002168	{@st43}{s26}Team-Lv. %s{/}
 UI_20160323_002169	{@st66b}Team-Info
-UI_20160323_002170	{#2c140c}Durchschnitts-Level : %s{/}
+UI_20160323_002170	{#2c140c}Durchschnittslevel : %s{/}
 UI_20160323_002171	{@st41b}Beitreten
-UI_20160323_002172	{@st42} Charakterbegrüssungen{/}
+UI_20160323_002172	{@st42} Charakterbegrüßungen{/}
 UI_20160323_002173	[Server] Gildenname
 UI_20160323_002174	Aufzeichnen / Wertung
 UI_20160323_002175	[Erstellt vor: %s]
