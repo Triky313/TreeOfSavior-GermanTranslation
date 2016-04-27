@@ -11,7 +11,7 @@ QUEST_20150317_000010	Select Advancement
 QUEST_20150317_000011	Bitte wähle eine Klasse.
 QUEST_20150317_000012	Bokor Master
 QUEST_20150317_000013	So you are curious about this stone slate. {nl}If you wish, I shall show you the will of its creator.
-QUEST_20150317_000014	Goddess Laima
+QUEST_20150317_000014	Göttin Laima
 QUEST_20150317_000015	By the time you get this message, much time will have passed. {nl}I am Laima, the goddess of fate and wisdom.
 QUEST_20150317_000016	600 years ago while creating this revelation, I foresaw a great deal of death and suffering. {nl}If you are seeing this, then I am afraid what I foresaw has come to pass.
 QUEST_20150317_000017	The demons have started the first of cataclysms, and the goddesses have vanished. {nl}I knew all of this would occur and did everything I could to prevent this fate, but my power was not enough.
@@ -26,12 +26,12 @@ QUEST_20150317_000025	The dark aura is indeed unpleasant... {nl}But if this mess
 QUEST_20150317_000026	Well, you should hurry and go find Sir Uska. {nl}He will tell you where to go next. {nl}May the goddess bless your fate...
 QUEST_20150317_000027	Please select the preferred Smart Gen.
 QUEST_20150317_000028	William
-QUEST_20150317_000029	The fee's 100 silver. {nl}It's cheaper than cutting through monster central.
+QUEST_20150317_000029	Die Gebühr beträgt 100 Silber. {nl}It's cheaper than cutting through monster central.
 QUEST_20150317_000030	Cyneburg
-QUEST_20150317_000031	That'll be 100 silver coins. {nl}That'll cover operations, labor, and other expenses.
+QUEST_20150317_000031	Das macht dann 100 Silber. {nl}That'll cover operations, labor, and other expenses.
 QUEST_20150317_000032	Hey, wait a minute. {nl}You know you need more than that...
 QUEST_20150317_000033	That's no good! {nl}I can't work for nothing, even for a Revelator.
-QUEST_20150317_000034	Wandering Merchant
+QUEST_20150317_000034	Fahrender Händler
 QUEST_20150317_000035	Like a dandelion's seeds, I am merely one who follows the wind. {nl}Since we've met in such a curious way, perhaps you could spare a moment to view my curiosities?
 QUEST_20150317_000036	Kristina
 QUEST_20150317_000037	Welcome! {nl}You're looking for a travel companion, right? {nl}You won't find a better place for partners than here!
@@ -3861,16 +3861,16 @@ QUEST_20160323_003868	(A warning sign is visible.)
 QUEST_20160323_003869	Now you just need to find the food stolen by the ferrets and coat it with some red water.{nl}They hid the food in between the fruit baskets.{nl}
 QUEST_20160323_003870	Find something to throw at the monsters.
 QUEST_20160323_003871	Try throwing something.
-QUEST_20160323_003872	(There is no reaction.)
+QUEST_20160323_003872	(Keine Reaktion.)
 QUEST_20160323_003873	Kabbalist Lutas
 QUEST_20160323_003874	Ah! Sorry!{nl}That hidden magic circle is made to catch monsters, I didn't know it would catch people!{nl}
 QUEST_20160323_003875	Just a moment.{nl}I'll disable it in a minute.
-QUEST_20160323_003876	Oh mein...{nl}The earthquake is getting stronger.{nl}
+QUEST_20160323_003876	Oh mein...{nl}Das Erdbeben wird immer schlimmer{nl}
 QUEST_20160323_003877	I'll quickly draw up a magic circle.{nl}Meanwhile, protect me from the monsters so I can concentrate.
 QUEST_20160323_003878	W-What's this?!{nl}No!!
 QUEST_20160323_003879	The magic circle should disappear if its magic core is destroyed. Try and throw something at it.
 QUEST_20160329_003880	Thorough Preparations
-QUEST_20160329_003881	I wish you good luck.
+QUEST_20160329_003881	Viel Glück.
 QUEST_20160329_003882	Stubborn
 QUEST_20160329_003883	Ich versuch's und helfe.
 QUEST_20160329_003884	Let's go somewhere safe.
