@@ -1,5 +1,5 @@
 ITEM_20150317_000001	Empty_helmet 
-ITEM_20150317_000002	Murmillo Helmet 
+ITEM_20150317_000002	Murmillo Helm 
 ITEM_20150317_000003	Empty_armband 
 ITEM_20150317_000004	Red Armband 
 ITEM_20150317_000005	Armband 
@@ -263,7 +263,7 @@ ITEM_20150317_000262	Fire Rute
 ITEM_20150317_000263	Only the Pyromancer Master knows the method of infusing the power of the Goddess Gabija into these rods. 
 ITEM_20150317_000264	Vasia Rute 
 ITEM_20150317_000265	Although priests frown upon the manipulation of spirits during its manufacturing, wizards ignore this objection. 
-ITEM_20150317_000266	Magic Rute 
+ITEM_20150317_000266	Magie Rute 
 ITEM_20150317_000267	A simple rod for enhancing magic, easily craftable by beginner mages. 
 ITEM_20150317_000268	Grynas Rute 
 ITEM_20150317_000269	The increase in demons after the Great Plant Cataclysm increased the price of this already-expensive rod.
@@ -569,7 +569,7 @@ ITEM_20150317_000568	Dratt Mace
 ITEM_20150317_000569	Aston Mace 
 ITEM_20150317_000570	Devi Mace
 ITEM_20150317_000571	Prima Mace 
-ITEM_20150317_000572	Holy Smasher 
+ITEM_20150317_000572	Heilig Smasher 
 ITEM_20150317_000573	Because clerics are confident in their own faith, the recipe for this weapon is often found, ironically, at unexpected locations.
 ITEM_20150317_000574	Kaloo Hammer 
 ITEM_20150317_000575	New possibilities have been discovered for weaponcrafting thanks to the emergence of new monsters since the Great Plant Cataclysm.
@@ -624,7 +624,7 @@ ITEM_20150317_000623	This shield is famous for being the first to succeed in inc
 ITEM_20150317_000624	Oak Shield 
 ITEM_20150317_000625	This shield is crafted by making use of the wood's magical properties.
 ITEM_20150317_000626	Savage Shield 
-ITEM_20150317_000627	Magic is infused into this shield through an alchemical process rather than through blessings from Goddess Gabija.
+ITEM_20150317_000627	Magie is infused into this shield through an alchemical process rather than through blessings from Goddess Gabija.
 ITEM_20150317_000628	Zalia Kite Shield 
 ITEM_20150317_000629	In the past, vast amounts of resources were required to craft this shield. Lately, it can be crafted fairly easily.
 ITEM_20150317_000630	Heavy Kite Shield 
@@ -867,7 +867,7 @@ ITEM_20150317_000866	Arch Demon Stab
 ITEM_20150317_000867	Melinas Stab 
 ITEM_20150317_000868	A result of rudimentary research attempting to increase the quality of staves by combining several items.
 ITEM_20150317_000869	Magi Stab 
-ITEM_20150317_000870	Magic enshrouds this staff with freezing cold aura.
+ITEM_20150317_000870	Magie enshrouds this staff with freezing cold aura.
 ITEM_20150317_000871	Ludas Stab 
 ITEM_20150317_000872	Made through a balanced crafting method so that it performs consistently, using any kind of magic.
 ITEM_20150317_000873	Saltas Stab 
@@ -882,7 +882,7 @@ ITEM_20150317_000881	Imperni Stab
 ITEM_20150317_000882	This is a proof that even ordinary ingredients can result in good equipment, if used appropriately.
 ITEM_20150317_000883	Welsh Stab 
 ITEM_20150317_000884	Although Black Market members are proficient weapon crafters, this staff is a fairly recent success in crafting a new weapon since the Imperni staff.
-ITEM_20150317_000885	Magic Wooden Stab 
+ITEM_20150317_000885	Magie Wooden Stab 
 ITEM_20150317_000886	There are wizards who prefer vast magical stamina rather than magical power.
 ITEM_20150317_000887	Smith Stab 
 ITEM_20150317_000888	This weapon shows that there are many ways to imbue magic into a weapon.
@@ -1321,7 +1321,7 @@ ITEM_20150317_001320	Mind Fedimian Chain
 ITEM_20150317_001321	Jukopus Necklace 
 ITEM_20150317_001322	Increases the magic power of the wearer. 
 ITEM_20150317_001323	Vubbe Necklace 
-ITEM_20150317_001324	Magic Pendant 
+ITEM_20150317_001324	Magie Pendant 
 ITEM_20150317_001325	Ivory Pendant 
 ITEM_20150317_001326	Rune Pendant 
 ITEM_20150317_001327	Silber Talisman 
@@ -1337,7 +1337,7 @@ ITEM_20150317_001336	Pyrlight Pendant
 ITEM_20150317_001337	Used to be awarded by the Pyromancer Master to beginners. This tradition ceased after the goddesses disappeared. 
 ITEM_20150317_001338	Cryolight Pendant 
 ITEM_20150317_001339	Since their assumption of office prior to the Great Plant Cataclysm, the Cryomancer Master has stopped the tradition of awarding this pendant to people. Now this pendant must be either obtained or crafted by the users themselves. 
-ITEM_20150317_001340	Magic Talisman 
+ITEM_20150317_001340	Magie Talisman 
 ITEM_20150317_001341	Fusing two magic objects becomes easy once you find the catalyst. Humans, however, are not the only race who can discover such catalyst. 
 ITEM_20150317_001342	Strength Pendant 
 ITEM_20150317_001343	Many new magic items that use the power of monsters have been invented since the Great Plant Cataclysm. 
@@ -1578,7 +1578,7 @@ ITEM_20150317_001577	Tiger Maske
 ITEM_20150317_001578	A mask with a silly tiger face on it. 
 ITEM_20150317_001579	Teeny Puppe 
 ITEM_20150317_001580	If you face the real Teeny, it will be very different from a doll. 
-ITEM_20150317_001581	Wing Helmet 
+ITEM_20150317_001581	Wing Helm 
 ITEM_20150317_001582	A helmet with a wing decoration. 
 ITEM_20150317_001583	Wing Decoration 
 ITEM_20150317_001584	Inspired by a goddess' wing. 
@@ -1635,11 +1635,11 @@ ITEM_20150317_001634	Golden Rabbit Hairpin
 ITEM_20150317_001635	Don't lose it, it's made of solid gold. 
 ITEM_20150317_001636	Antler Horns 
 ITEM_20150317_001637	Towing a sled while wearing this might not be a bad idea. 
-ITEM_20150317_001638	Officer Helmet 
+ITEM_20150317_001638	Officer Helm 
 ITEM_20150317_001639	Decorations are attached to this helmet to demand respect. 
-ITEM_20150317_001640	Gilt Helmet 
+ITEM_20150317_001640	Gilt Helm 
 ITEM_20150317_001641	The metal of this helmet has been gilded with gold plate. 
-ITEM_20150317_001642	Steel Helmet 
+ITEM_20150317_001642	Steel Helm 
 ITEM_20150317_001643	A helmet made of strong plate metal. Often worn by knights. 
 ITEM_20150317_001644	Black Rabbit Ears 
 ITEM_20150317_001645	Connoisseurs often get into disputes regarding the cuteness factor of a straight ear versus a folded ear. 
@@ -1659,7 +1659,7 @@ ITEM_20150317_001658	Red Horn
 ITEM_20150317_001659	Although you cannot become a demon, you can attach these to your head. 
 ITEM_20150317_001660	Desert Chupacabra Ears 
 ITEM_20150317_001661	If you look carefully, you can see tiny soft hairs on these ears. 
-ITEM_20150317_001662	Mirtis Helmet 
+ITEM_20150317_001662	Mirtis Helm 
 ITEM_20150317_001663	A helmet previously used by Mirtis. 
 ITEM_20150317_001664	Red Devil Wings 
 ITEM_20150317_001665	Why do people want to attach wings to their heads? 
@@ -1669,13 +1669,13 @@ ITEM_20150317_001668	Fallen Angel Wings
 ITEM_20150317_001669	The angels who committed sins are said to have had their wings turned black by their corruption. 
 ITEM_20150317_001670	Maid Headband 
 ITEM_20150317_001671	How can I serve you today, master? 
-ITEM_20150317_001672	Wugushi Helmet 
+ITEM_20150317_001672	Wugushi Helm 
 ITEM_20150317_001673	A helmet that is symbolic of the Wugushi.
 ITEM_20150317_001674	Earplugs 
 ITEM_20150317_001675	Blocks out noise. 
 ITEM_20150317_001676	It completely cuts you off from any external sound, including Mandragoras' screams. 
 ITEM_20150317_001677	Luxury Hairpin 
-ITEM_20150317_001678	Feather Helmet 
+ITEM_20150317_001678	Feather Helm 
 ITEM_20150317_001679	Shaman Maske 
 ITEM_20150317_001680	Sprout 
 ITEM_20150317_001681	Fried Egg 
@@ -1862,13 +1862,13 @@ ITEM_20150317_001861	Area of Ruins Mission Warp Stone
 ITEM_20150317_001862	Mage Tower Mission Warp Stone 
 ITEM_20150317_001863	Heiliges Wasser
 ITEM_20150317_001864	Water blessed with a holy spirit. Used by priests. 
-ITEM_20150317_001865	Holy Powder 
+ITEM_20150317_001865	Heilig Powder 
 ITEM_20150317_001866	A white powder that is consumed when priests cast a magic spell. It is said to amplify their magical power. 
 ITEM_20150317_001867	Catacombs Mission Warp Stone 
 ITEM_20150317_001868	Garlic 
 ITEM_20150317_001869	Popolion Fleisch 
 ITEM_20150317_001870	Restores 350~400 SP. A well-known delicacy among food connoisseurs. {nl}Rechtsklick zum verwenden. 
-ITEM_20150317_001871	Klaipeda Warp Scroll 
+ITEM_20150317_001871	Klaipeda Teleport Scroll 
 ITEM_20150317_001872	Teleports you to Klaipeda. {nl}Rechtsklick zum verwenden. 
 ITEM_20150317_001873	iCoin Box
 ITEM_20150317_001874	Contains 1 iCoin. {nl}Rechtsklick zum verwenden. 
@@ -2084,7 +2084,7 @@ ITEM_20150317_002083	Kanseril Karte
 ITEM_20150317_002084	Krabil Karte 
 ITEM_20150317_002085	Megaphone
 ITEM_20150317_002086	Verstärkt deine Stimme. Verwende [/y 'chat'] um eine Nachricht an alle Maps auf deinem Server zu senden. 
-ITEM_20150317_002087	Vubbe Magic Stone 
+ITEM_20150317_002087	Vubbe Magie Stone 
 ITEM_20150317_002088	A quest item obtained from monsters. 
 ITEM_20150317_002089	A dark magic stone obtainable only from Vubbes that have been exposed to crystals for a long period of time. 
 ITEM_20150317_002090	Hanaming Petal
@@ -2724,7 +2724,7 @@ ITEM_20150317_002723	Knochen Amulett
 ITEM_20150317_002724	Amulett des Verlangens
 ITEM_20150317_002725	Emoticon: Kepa (Joy) 
 ITEM_20150317_002726	Add this emoticon to the list. 
-ITEM_20150317_002727	You can add chat emoticons to quick slots. {nl}Rechtsklick zum verwenden. 
+ITEM_20150317_002727	Du kannst Chat-Emoticons zu deiner Schnellauswahlleiste hinzufügen. {nl}Rechtsklick zum verwenden. 
 ITEM_20150317_002728	Emoticon: Kepa (Sadness) 
 ITEM_20150317_002729	Kupfererz
 ITEM_20150317_002730	Eisenerz 
@@ -2811,7 +2811,7 @@ ITEM_20150317_002810	Crystal Mine Unsealing Scroll 1
 ITEM_20150317_002811	Quest Gegenstand 
 ITEM_20150317_002812	Crystal Mine Unsealing Scroll 2 
 ITEM_20150317_002813	Bokor Puppe 
-ITEM_20150317_002814	Magic catalyst used by the Bokors. Bokors craft their own Bokor doll for a better spiritual magic effect. 
+ITEM_20150317_002814	Magie catalyst used by the Bokors. Bokors craft their own Bokor doll for a better spiritual magic effect. 
 ITEM_20150317_002815	Pyromancer's Old Scroll 
 ITEM_20150317_002816	An old scroll hidden by the Pyromancer. Illegible hieroglyphs and symbols are written over it. 
 ITEM_20150317_002817	Messenger Bag 
@@ -2903,20 +2903,20 @@ ITEM_20150317_002902	Pot of Fire
 ITEM_20150317_002903	A pot that absorbs the essence of fire from nearby monsters. 
 ITEM_20150317_002904	Goods for Offering 
 ITEM_20150317_002905	Items to be offered to the Goddess Statue. 
-ITEM_20150317_002906	Priest Master's Holy Water of Purification 
-ITEM_20150317_002907	Holy Water used for banishing evil spirits. A very pure water. 
+ITEM_20150317_002906	Priest Master's Heilig Water of Purification 
+ITEM_20150317_002907	Heilig Water used for banishing evil spirits. A very pure water. 
 ITEM_20150317_002908	Groll Skin 
 ITEM_20150317_002909	Materials for the Wizard Master's research. 
 ITEM_20150317_002910	Chafperor's Feeler 
 ITEM_20150317_002911	Jukopus Core 
 ITEM_20150317_002912	Data Recording Scroll 
 ITEM_20150317_002913	Scroll made for researching the paranormal phenomena in Klaipeda. 
-ITEM_20150317_002914	Holy Water of Cleric Master 
-ITEM_20150317_002915	Holy Water used for treating patients. It has a regenerative effect. 
-ITEM_20150317_002916	Holy Water of Priest Master 
-ITEM_20150317_002917	Holy Water used for treating patients. It has a sterilizing effect. 
-ITEM_20150317_002918	Holy Water of Krivis Master 
-ITEM_20150317_002919	Holy Water used for treating patients. It has a revitalizing effect. 
+ITEM_20150317_002914	Heilig Water of Cleric Master 
+ITEM_20150317_002915	Heilig Water used for treating patients. It has a regenerative effect. 
+ITEM_20150317_002916	Heilig Water of Priest Master 
+ITEM_20150317_002917	Heilig Water used for treating patients. It has a sterilizing effect. 
+ITEM_20150317_002918	Heilig Water of Krivis Master 
+ITEM_20150317_002919	Heilig Water used for treating patients. It has a revitalizing effect. 
 ITEM_20150317_002920	Minotaur's Essence 
 ITEM_20150317_002921	A demonic essence requested by the Psychokino Master. It emanates a sinister evil aura. 
 ITEM_20150317_002922	Chapparition's Essence 
@@ -3049,7 +3049,7 @@ ITEM_20150317_003048	Verstärkender Stein
 ITEM_20150317_003049	Stone required to reinforce the Crystal Mine's exterior walls. Collect them before the wall crumbles. 
 ITEM_20150317_003050	Stinging Stick 
 ITEM_20150317_003051	A stick used to expel Sequoia. It has a few holy spirits. 
-ITEM_20150317_003052	Piece of Wood with Holy Spirit 
+ITEM_20150317_003052	Piece of Wood with Heilig Spirit 
 ITEM_20150317_003053	Ingredient for a tool that chases away road-blocking Sequoia. You can feel the faint holy power. 
 ITEM_20150317_003054	Spirit crystals from Owl Sculptures that have been swallowed by monsters. 
 ITEM_20150317_003055	Spirit Essence 
@@ -3130,7 +3130,7 @@ ITEM_20150317_003129	Green Ointment
 ITEM_20150317_003130	A Vubbe ointment that is used to treat their injured. It's not possible to use it as is. 
 ITEM_20150317_003131	Royal Mausoleum Guardian Power Source 
 ITEM_20150317_003132	A power source used by Guardians for movement. 
-ITEM_20150317_003133	Royal Mausoleum's Magic Source
+ITEM_20150317_003133	Royal Mausoleum's Magie Source
 ITEM_20150317_003134	The source of the magic that encircles the Royal Mausoleum. 
 ITEM_20150317_003135	Broken Slate of the Royal Mausoleum
 ITEM_20150317_003136	A slate that ordered the Guardians to attack evil things. They are attacking everyone because it is broken. 
@@ -3138,7 +3138,7 @@ ITEM_20150317_003137	Burning Stone
 ITEM_20150317_003138	A stone that lights stone lanterns. Although it is burning, it isn't very hot. 
 ITEM_20150317_003139	Activation Stone
 ITEM_20150317_003140	Overusing the inhibitor can cause it to overheat and break. 
-ITEM_20150317_003141	Blazing Magic Source
+ITEM_20150317_003141	Blazing Magie Source
 ITEM_20150317_003142	A magic source that shows the locations of the Royal Mausoleum's Guardians.
 ITEM_20150317_003143	Wheelen's Mark
 ITEM_20150317_003144	A mark of Wheelens. Collecting them gives the power to defeat enemies.
@@ -3232,7 +3232,7 @@ ITEM_20150317_003231	Research materials that the new researcher lost. Some of th
 ITEM_20150317_003232	Map that marks the location of the Great King's inheritance. 
 ITEM_20150317_003233	Could someone eventually find out the location of the Great King Zachariel's inheritance? 
 ITEM_20150317_003234	An antidote that can counteract a Scorpion's poison. Let's get this to Dezic. 
-ITEM_20150317_003235	Kondensierter Magic Source
+ITEM_20150317_003235	Kondensierter Magie Source
 ITEM_20150317_003236	It seems it will explode if it is touched. Be careful. 
 ITEM_20150317_003237	Hogma Tooth
 ITEM_20150317_003238	A Hogma's tooth used to scratch out something on the slate. 
@@ -3256,8 +3256,8 @@ ITEM_20150317_003255	Black Coal Powder
 ITEM_20150317_003256	A magical black powder made from coal that makes ink stick clearly onto parchment. 
 ITEM_20150317_003257	Eternal Ember
 ITEM_20150317_003258	A material needed to open the sealed manual. Doesn't go out no matter how much you try. 
-ITEM_20150317_003259	Piece of the Holy Ark
-ITEM_20150317_003260	The Holy Ark for holding souls has been broken. Will collecting its pieces be enough? 
+ITEM_20150317_003259	Piece of the Heilig Ark
+ITEM_20150317_003260	The Heilig Ark for holding souls has been broken. Will collecting its pieces be enough? 
 ITEM_20150317_003261	Klein Monster Crystal 
 ITEM_20150317_003262	A monster's Klein Crystal that the Suspicious Chair asked you to collect. To call it a crystal is a stretch, though. 
 ITEM_20150317_003263	Sealed Stone's Voice
@@ -3287,7 +3287,7 @@ ITEM_20150317_003286	Match
 ITEM_20150317_003287	An ember to burn the thorny vines. 
 ITEM_20150317_003288	Acid Solution 
 ITEM_20150317_003289	A strong acid solution that can melt through thorn vines. 
-ITEM_20150317_003290	Magic Crystal  
+ITEM_20150317_003290	Magie Crystal  
 ITEM_20150317_003291	A crystal needed to remove thorn vines by holy power. It needs charging and refining to be used. 
 ITEM_20150317_003292	Thornball Remains
 ITEM_20150317_003293	Thornball Wreckage burns well, even in rain. 
@@ -3301,7 +3301,7 @@ ITEM_20150317_003300	A poisonous mushroom from Trüffel. Most people think it's 
 ITEM_20150317_003301	A strong acidic solution that can melt through thorn stems. 
 ITEM_20150317_003302	Operer's Stinger
 ITEM_20150317_003303	An Operor's saliva that has the power to purify corrupted magical crystals. 
-ITEM_20150317_003304	Refined Magic Crystal 
+ITEM_20150317_003304	Refined Magie Crystal 
 ITEM_20150317_003305	A completely purified magical crystal. It can remove the thorn vines blocking the path. 
 ITEM_20150317_003306	Coliflower Sap
 ITEM_20150317_003307	Highly volatile sap. Essential for burning away wet thorn vines. 
@@ -3518,7 +3518,7 @@ ITEM_20150317_003517	The stone demanded by the Fletcher Master for his teachings
 ITEM_20150317_003518	Legwyn Family Decoration 
 ITEM_20150317_003519	A trinket belonging to the old Legwyn Family 
 ITEM_20150317_003520	An ingredient of a drug required to cure the patient 
-ITEM_20150317_003521	Holy Relic 
+ITEM_20150317_003521	Heilig Relic 
 ITEM_20150317_003522	A holy relic used by Krivises as a symbol of their faith. Lost in the city by someone. 
 ITEM_20150317_003523	Stone Whale Essence 
 ITEM_20150317_003524	An essence filled with the resentment of many souls. 
@@ -3548,14 +3548,14 @@ ITEM_20150317_003547	First revelation found from the Crystal Mine
 ITEM_20150317_003548	Eye of Madness 
 ITEM_20150317_003549	Ruteelin's eye. It is said to be able to erase an enemy's senses. 
 ITEM_20150317_003550	Vicious Essence 
-ITEM_20150317_003551	An ingredient necessary to make the Holy Bomb. It must be purified before it can be used. 
+ITEM_20150317_003551	An ingredient necessary to make the Heilig Bomb. It must be purified before it can be used. 
 ITEM_20150317_003552	Purified Essence 
-ITEM_20150317_003553	An ingredient necessary to make the Holy Bomb. The purified result of Wicked Essence. 
-ITEM_20150317_003554	Romuva Holy Water 
+ITEM_20150317_003553	An ingredient necessary to make the Heilig Bomb. The purified result of Wicked Essence. 
+ITEM_20150317_003554	Romuva Heilig Water 
 ITEM_20150317_003555	When consumed it will prevent demons from detecting your presence! 
-ITEM_20150317_003556	Holy Bomb 
+ITEM_20150317_003556	Heilig Bomb 
 ITEM_20150317_003557	A bomb blessed with holy power. It can defeat Glizardon in a single blow. 
-ITEM_20150317_003558	Holy Stone 
+ITEM_20150317_003558	Heilig Stone 
 ITEM_20150317_003559	Scroll given by the Security Guard
 ITEM_20150317_003560	Once the scroll is used, one can distinguish which Hogmas are wearing necklaces. 
 ITEM_20150317_003561	Shabby-Looking Necklace 
@@ -3636,8 +3636,8 @@ ITEM_20150317_003635	A bomb that can light the Long-Branched Tree on fire.
 ITEM_20150317_003636	Revelation that Bramble had. It's unreadable - let's take it to Goddess Saule. 
 ITEM_20150317_003637	Guardian Awakening Device 
 ITEM_20150317_003638	It is said to be able to wake the sleeping Boowook. 
-ITEM_20150317_003639	Zolem Magic Stone
-ITEM_20150317_003640	A Zolem's Magic Stone needed to lure a Unicorn
+ITEM_20150317_003639	Zolem Magie Stone
+ITEM_20150317_003640	A Zolem's Magie Stone needed to lure a Unicorn
 ITEM_20150317_003641	Unicorn Horn 
 ITEM_20150317_003642	A trophy taken from a defeated Unicorn. Let's take it to Fedimian Army Officer. 
 ITEM_20150317_003643	Empty Beehive
@@ -3687,7 +3687,7 @@ ITEM_20150317_003686	A scripture that is necessary for all pilgrims.
 ITEM_20150317_003687	Kondensierter Rage of the Pilgrims that the Fire Rute had.  
 ITEM_20150317_003688	Purple Tree Fault Forest Sanctum Map
 ITEM_20150317_003689	A map that shows all the sanctums of the Purple Tree Fault Forest. Right-click to open the map.{nl}Please return it to the recovery box for the next pilgrim passing through the woods.{nl}Location of recovery box: On the corner to Pretense Intersection.
-ITEM_20150317_003690	Holy water obtained from the Priest Master to purify the polluted sanctums in Purple Tree Fault Forest.
+ITEM_20150317_003690	Heilig water obtained from the Priest Master to purify the polluted sanctums in Purple Tree Fault Forest.
 ITEM_20150317_003691	Grey Gypsum Fragment 
 ITEM_20150317_003692	Gesso said to be used when repairing malfunctioning Göttin Statuen in the Purple Tree Fault Forest.
 ITEM_20150317_003693	Reed Leaf Dew 
@@ -3728,7 +3728,7 @@ ITEM_20150317_003727	Pattern Stone (Low)
 ITEM_20150317_003728	The lower part of the stone with the drawn sacred pattern. 
 ITEM_20150317_003729	Sweet Honeycomb Piece
 ITEM_20150317_003730	A fragment of a honeycomb that emits a strong, sweet scent. 
-ITEM_20150317_003731	Bichiu Altar's Magic Piece
+ITEM_20150317_003731	Bichiu Altar's Magie Piece
 ITEM_20150317_003732	An unidentified fragment of a magic stone that was placed on the altar. 
 ITEM_20150317_003733	Beehive Piece 
 ITEM_20150317_003734	A piece of honeycomb that is sweet to the tongue. 
@@ -3848,7 +3848,7 @@ ITEM_20150317_003847	Torn-out Purifier Pipe
 ITEM_20150317_003848	A part of Crystal Mine 2F's Main Purifier that was broken by monsters. 
 ITEM_20150317_003849	Main Purifier Parts 
 ITEM_20150317_003850	Parts of Crystal Mine 2F's Main Purifier that was broken by the Stone Whale. 
-ITEM_20150317_003851	Gaudeji Altar's Magic Piece
+ITEM_20150317_003851	Gaudeji Altar's Magie Piece
 ITEM_20150317_003852	Masterpiece Mead 
 ITEM_20150317_003853	Honey liqueur that shows the craftsmanship of the brewer. 
 ITEM_20150317_003854	Absorption Scroll 
@@ -3988,7 +3988,7 @@ ITEM_20150323_003987	Tender leaves of wild herbs commonly seen on Starving Demon
 ITEM_20150323_003988	Tree Root Crystal Core 
 ITEM_20150323_003989	A reagent used to identify the monsters that killed pilgrims on Altar Way.
 ITEM_20150323_003990	A map that shows all the sanctums of Purple Tree Fault Forest. Right-click to open the map.{nl}Please return it to the recovery box for the next pilgrim passing through the Forest of Prayer.{nl}Location of the recovery box: On the corner to Apsimesti Crossroads.
-ITEM_20150323_003991	Holy water gained from the Priest Master to purify the corrupted sanctum in the Forest of Prayer. 
+ITEM_20150323_003991	Heilig water gained from the Priest Master to purify the corrupted sanctum in the Forest of Prayer. 
 ITEM_20150323_003992	Plaster powder used to repair the broken Goddess Statue in the Forest of Prayer. 
 ITEM_20150323_003993	Water from a small stream flowing in the Forest of Prayer.
 ITEM_20150323_003994	Reed flower cut from reeds in the Forest of Prayer. 
@@ -4240,7 +4240,7 @@ ITEM_20150323_004239	Pink Chupaluka Heart
 ITEM_20150323_004240	Pyromancer's Requested Monster Sample 
 ITEM_20150323_004241	Pyromancer's Research Material 
 ITEM_20150323_004242	Frenzy Antidote 
-ITEM_20150323_004243	Magic Circle Inscribed Leder 
+ITEM_20150323_004243	Magie Circle Inscribed Leder 
 ITEM_20150323_004244	Fragment from when you destroyed the altar. 
 ITEM_20150323_004245	Jäger Master's Detox Solvent
 ITEM_20150323_004246	Ridimed Leaf 
@@ -4464,7 +4464,7 @@ ITEM_20150401_004463	Star Bracelet
 ITEM_20150401_004464	Cataphract Costume 
 ITEM_20150401_004465	GM Costume 
 ITEM_20150401_004466	Necklace of the Five Sins Sammlung 
-ITEM_20150401_004467	A collection of five necklaces. Each necklace is inscribed with one of the five topics of a pilgrim's path. Made by Maven, the founder of the Great Cathedral. You can add it through the Magic Association NPC's Sammlung window with right-click. 
+ITEM_20150401_004467	A collection of five necklaces. Each necklace is inscribed with one of the five topics of a pilgrim's path. Made by Maven, the founder of the Great Cathedral. You can add it through the Magie Association NPC's Sammlung window with right-click. 
 ITEM_20150401_004468	Old Kepa Shell 
 ITEM_20150401_004469	Ridimed Stem 
 ITEM_20150401_004470	Meduja Tentacle 
@@ -4506,7 +4506,7 @@ ITEM_20150401_004505	Rotten Bread
 ITEM_20150401_004506	Rotten Snack Bread 
 ITEM_20150401_004507	Fresh Bread 
 ITEM_20150401_004508	A loaf of snack bread that is still fresh. 
-ITEM_20150401_004509	Magic doll that Rimas gave to Arunas. It removes unusual energies when burned in a magic circle. 
+ITEM_20150401_004509	Magie doll that Rimas gave to Arunas. It removes unusual energies when burned in a magic circle. 
 ITEM_20150401_004510	Wooden Stick 
 ITEM_20150401_004511	Wood sticks cut from nearby fences. Expected to be made into Wood Poles. 
 ITEM_20150401_004512	Monster Leder 
@@ -4515,7 +4515,7 @@ ITEM_20150401_004514	Uprooted Niole
 ITEM_20150401_004515	A perfectly uprooted Niole. The roots and leaves are used as food and medicine. Getting rid of the bitterness is key. 
 ITEM_20150401_004516	Orange Dandel Wing Piece 
 ITEM_20150401_004517	Orange Dandel Wing piece. Since it's not particularly useful as firewood, let us keep the fire put. 
-ITEM_20150401_004518	Magic Control Crystal Fragment 
+ITEM_20150401_004518	Magie Control Crystal Fragment 
 ITEM_20150401_004519	It can surpress magic when set up in areas where there is strong magic. 
 ITEM_20150401_004520	Red Crystal 
 ITEM_20150401_004521	A crystal that guides the user to mystical places.
@@ -4545,14 +4545,14 @@ ITEM_20150406_004544	Crystal gained by processing a Crystal Fragment. {nl}It can
 ITEM_20150406_004545	Blue Resonance Crystal 
 ITEM_20150406_004546	Yellow Resonance Crystal 
 ITEM_20150406_004547	Dispeller 
-ITEM_20150406_004548	Anti-Magic 
+ITEM_20150406_004548	Anti-Magie 
 ITEM_20150406_004549	Barbed Pfeil 
 ITEM_20150406_004550	There are barbed. Gibt an on-hit effect. 
 ITEM_20150406_004551	Kristallfragment 
 ITEM_20150406_004552	A crystal fragment that can be obtained from Lot 2 in the Crystal Mine. It is possible to obtain a special crystal when collecting a Groß amount of these.
 ITEM_20150406_004553	Divine Machine Pfeil 
 ITEM_20150406_004554	An arrow with an explosive payload. 
-ITEM_20150406_004555	Magic Pfeil 
+ITEM_20150406_004555	Magie Pfeil 
 ITEM_20150406_004556	These arrows contain magical powers. 
 ITEM_20150406_004557	An experimental bomb created by the Sapper Master.{nl}The throw distance can be controlled by holding down the key. 
 ITEM_20150406_004558	Sharp Canine 
@@ -4578,7 +4578,7 @@ ITEM_20150406_004577	Farm equipment for making furrows. It has a sharp point.
 ITEM_20150406_004578	Farm equipment for removing stones. It is well made. 
 ITEM_20150406_004579	Farm equipment for separating fields. It has a lot of sharp points. 
 ITEM_20150406_004580	Fresh Meat 
-ITEM_20150406_004581	Magic Stone of Blessing 
+ITEM_20150406_004581	Magie Stone of Blessing 
 ITEM_20150406_004582	Orange Dandel Wingpiece
 ITEM_20150406_004583	Wing of an Orange Dandel. Seems flammable. 
 ITEM_20150406_004584	Varkis' Research Materials (1) 
@@ -4613,7 +4613,7 @@ ITEM_20150414_004612	Cotton Handschuhe
 ITEM_20150414_004613	Cotton Stiefel 
 ITEM_20150414_004614	Cotton Hose 
 ITEM_20150414_004615	Cotton Robe 
-ITEM_20150414_004616	Don't test this armor's Magic Defense by intentionally getting hit. 
+ITEM_20150414_004616	Don't test this armor's Magie Defense by intentionally getting hit. 
 ITEM_20150414_004617	Watcher Handschuhe 
 ITEM_20150414_004618	Equipment used by watchmen. 
 ITEM_20150414_004619	Watcher Stiefel 
@@ -5308,7 +5308,7 @@ ITEM_20150714_005307	Seelenkristall
 ITEM_20150714_005308	wandering pulling force can pull the soul. It is necessary to find a condensed wanted. 
 ITEM_20150714_005309	Left-click to use 
 ITEM_20150714_005310	A memo written by Disciple Hones about his teacher. Might be useful for releasing the device installed at Underground Grave of Ritinis. Lesbar.
-ITEM_20150714_005311	Spatial Magic Edelstein Fragment of Contract
+ITEM_20150714_005311	Spatial Magie Edelstein Fragment of Contract
 ITEM_20150714_005312	A space magic stone fragment of the broken contract. In order to work correctly, it seems to need the restore operation. 
 ITEM_20150714_005313	If you collect the more space magic stones, you can go to a hidden place of the teacher. 
 ITEM_20150714_005314	A magic stone used to move the Teleport. You can go a hidden place of the teacher. 
@@ -5345,7 +5345,7 @@ ITEM_20150714_005344	Schadend Artifacts
 ITEM_20150714_005345	Digested, severely Schadend Artifacts. They can only barely be recognized by their shape. 
 ITEM_20150714_005346	Silt Crystal 
 ITEM_20150714_005347	A crystal found in the petrified monster prolonged exposure to frost. When processing occurs on the Petrifying Frost immunity for a while. 
-ITEM_20150714_005348	Magic Catalyst 
+ITEM_20150714_005348	Magie Catalyst 
 ITEM_20150714_005349	horsepower catalyst that can be obtained from monsters exposed to steam. It can be reacted in the vapor horsepower. 
 ITEM_20150714_005350	Pas-de-warp order to give you the future master. Sanctuary is available only when you experience problems do not mean excessive hoarding. 
 ITEM_20150714_005351	Monster have collected a variety of tools stolen from humans. It should be possible to find a rubbing tool here when searching properly. 
@@ -5730,7 +5730,7 @@ ITEM_20150717_005729	Demon Lord Mirtis said that before she used the Vubbes, the
 ITEM_20150717_005730	Es hat einen Effekt, welcher magischen Schaden wie eine Blitzrute verteilt.
 ITEM_20150717_005731	Life and death rely on the small differences in the battle. This necklace can save the wearer with an effect.
 ITEM_20150717_005732	A guardian charm has been used in the kingdom a long time ago, there are many necklaces like this. Although there are people who believed that, it used beyond the foundation of the kingdom.
-ITEM_20150717_005733	In the past, the Magic Master of each field gave disciples who completed some process it for the present. The time of disappeared this tradition guessed that an Agailla Flurry, but it is unfair because many magics of kingdom made by her.
+ITEM_20150717_005733	In the past, the Magie Master of each field gave disciples who completed some process it for the present. The time of disappeared this tradition guessed that an Agailla Flurry, but it is unfair because many magics of kingdom made by her.
 ITEM_20150717_005734	Klaipeda is famous for the origin of crystals around a history of a thousand years.
 ITEM_20150717_005735	Something among the goods containing the magic crafted with the pure magic not the goddess' blessing. This necklace is a typical sample of them.
 ITEM_20150717_005736	It is mysterious that people don't completely know of the rune. However, placing a part of the mysterious into the necklace is possible.
@@ -5787,8 +5787,8 @@ ITEM_20150717_005786	A chain that seems hard to be cut off.
 ITEM_20150717_005787	Goblin Talisman
 ITEM_20150717_005788	It is unknown what these talismans mean to the Goblins, but they definitely do not have any effects. {nl}Obtained from Goblins.
 ITEM_20150717_005789	It has a proper form to dig the ground.
-ITEM_20150717_005790	Ruby
-ITEM_20150717_005791	A rare, bright red gem.
+ITEM_20150717_005790	Rubin
+ITEM_20150717_005791	Ein seltener, leuchtender roter Edelstein.
 ITEM_20150717_005792	A piece of cloth probably from the outfit of the Gegenstand Merchant's father. You can feel great effort from the needlepoints.
 ITEM_20150717_005793	Rambear Claws
 ITEM_20150717_005794	Rambear Claws appear in the Petrified City of Verkti Square
@@ -5819,7 +5819,7 @@ ITEM_20150717_005818	An essence crafted by the core of Intensive Spirits' Device
 ITEM_20150717_005819	Detonator
 ITEM_20150717_005820	Amplifies and overloads the detonator's magic.
 ITEM_20150717_005821	Svitrigaila's Orb
-ITEM_20150717_005822	Magic orb has been crafted with the soul essence and detonator using the core of intensive spirits' device by Svitrigaila. When using it to the intensive spirit' device,
+ITEM_20150717_005822	Magie orb has been crafted with the soul essence and detonator using the core of intensive spirits' device by Svitrigaila. When using it to the intensive spirit' device,
 ITEM_20150717_005823	Ruklys Army Seal
 ITEM_20150717_005824	Ruklys Parchment
 ITEM_20150717_005825	Royal Army Guard's Speer
@@ -5914,7 +5914,7 @@ ITEM_20150729_005913	Material required to receive Peltasta's assistance.
 ITEM_20150729_005914	Blue Crystal
 ITEM_20150729_005915	Gravekeeper's Torch
 ITEM_20150729_005916	A torch given by Sigis. It is used to cremete the body.
-ITEM_20150729_005917	Gravekeeper's Magic Puppe
+ITEM_20150729_005917	Gravekeeper's Magie Puppe
 ITEM_20150729_005918	A doll containing magic of the Grave Keeper.
 ITEM_20150730_005919	Dio Zweihand-Schwert
 ITEM_20150730_005920	Dio Armbrust
@@ -5924,8 +5924,8 @@ ITEM_20150803_005923	Krausas Mace
 ITEM_20150803_005924	- Applies an additional bonus damage to [Effigy] upon the 2nd attack
 ITEM_20150803_005925	A weapon invented to strengthen Bokor's power. The recipe was forgotten, but was eventually restored through effort.
 ITEM_20150803_005926	Restores 30 Stamina. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit 
-ITEM_20150803_005927	A collection of the conflict between the demons and the goddesses in Goddess Laima's revelation.{nl}Right-click to add it to the Sammlung window through the Magic Association NPC.
-ITEM_20150803_005928	A collection of one of the world's hidden secret in Goddess Laima's revelation.{nl}Right-click to add it to the Sammlung window through the Magic Association NPC.
+ITEM_20150803_005927	Eine Sammlung des Konflikts zwischen den Dämonen und den Göttinnen in Goddess Laima's Offenbarung. {nl} Rechtsklicke auf die Sammlung, wird durch den Magie-Organisations NPC hinzuzufügen.
+ITEM_20150803_005928	A collection of one of the world's hidden secret in Goddess Laima's revelation.{nl}Right-click to add it to the Sammlung window through the Magie Association NPC.
 ITEM_20150803_005929	Serum collected from the blood of the Vubbes. Requested for the officer by Vaidotas.
 ITEM_20150803_005930	Material to help  with the research of the Wizard Master.
 ITEM_20150803_005931	Material requested by the Cryomancer Master as an alternative payment for his teaching fees.
@@ -6315,7 +6315,7 @@ ITEM_20150918_006314	Varkis' completed research reports. Contains information re
 ITEM_20150918_006315	A record written by the teacher of Hones and Raius. It seems to contain very important information.
 ITEM_20150918_006316	A jewel that instantly teleports you to a saved location. {nl}Cooldown of 15 minutes
 ITEM_20150918_006317	A stone that will transport you to Klaipeda. {nl}Rechtsklick zum verwenden. {nl}Cooldown of 20 minutes
-ITEM_20150918_006318	Magic catalyst used by the Bokors. Bokors craft their own Bokor doll for a better spiritual magic effect.
+ITEM_20150918_006318	Magie catalyst used by the Bokors. Bokors craft their own Bokor doll for a better spiritual magic effect.
 ITEM_20150918_006319	An old scroll hidden by the Pyromancer. Lesbar.
 ITEM_20150918_006320	A bag that seems to have belonged to a messenger. Contains a few reports and some food supplies.
 ITEM_20150918_006321	The remains of a soldier killed by a monster.{nl}This person is no longer recognizable.
@@ -6360,12 +6360,12 @@ ITEM_20150918_006359	Not sure what's inside but it smells foul.
 ITEM_20150918_006360	The sculpting material that Tesla wanted so badly. Looks extremely hard.
 ITEM_20150918_006361	A pot that absorbs the essence of fire from nearby monsters.
 ITEM_20150918_006362	Items to be offered to the Goddess Statue.
-ITEM_20150918_006363	Holy Water used for banishing evil spirits. A very pure water.
+ITEM_20150918_006363	Heilig Water used for banishing evil spirits. A very pure water.
 ITEM_20150918_006364	These are the materials that are needed to help the research of Wizard Master.
 ITEM_20150918_006365	Scroll made for researching the paranormal phenomena in Klaipeda.
-ITEM_20150918_006366	Holy Water used for treating patients. It has a regenerative effect.
-ITEM_20150918_006367	Holy Water used for treating patients. It has a sterilizing effect.
-ITEM_20150918_006368	Holy Water used for treating patients. It has a revitalizing effect.
+ITEM_20150918_006366	Heilig Water used for treating patients. It has a regenerative effect.
+ITEM_20150918_006367	Heilig Water used for treating patients. It has a sterilizing effect.
+ITEM_20150918_006368	Heilig Water used for treating patients. It has a revitalizing effect.
 ITEM_20150918_006369	A demonic essence requested by the Psychokino Master. It emanates a sinister evil aura.
 ITEM_20150918_006370	A demonic essence requested by the Psychokino Master. If you stare at it for too long you might be possessed.
 ITEM_20150918_006371	This might be a map marked with the location of the Fletcher's Secret Manual. Why would the Quarrel Shooter Master want the Fletcher's...?
@@ -6499,7 +6499,7 @@ ITEM_20150918_006498	A piece of Flurry's tombstone that a Tama picked up and ate
 ITEM_20150918_006499	Luggage filled with odds and ends.
 ITEM_20150918_006500	A magical black powder made from coal that makes ink stick clearly onto parchment.
 ITEM_20150918_006501	A material needed to open the sealed manual. Doesn't go out no matter how much you try.
-ITEM_20150918_006502	The Holy Ark for holding souls has been broken. Will collecting its pieces be enough?
+ITEM_20150918_006502	The Heilig Ark for holding souls has been broken. Will collecting its pieces be enough?
 ITEM_20150918_006503	A monster's Klein Crystal that the Suspicious Chair asked you to collect. To call it a crystal is a stretch, though.
 ITEM_20150918_006504	The voice of a spirit sealed within the Sealed Stone. You can hear a faint whisper from it.
 ITEM_20150918_006505	A crystal infused with magic to prevent the sealed spirit from escaping.
@@ -6609,7 +6609,7 @@ ITEM_20150918_006608	The broken practice wood carving has fixed. It has been rei
 ITEM_20150918_006609	Log required to fix the practice wood carving
 ITEM_20150918_006610	Rope required to fix the scarecrow
 ITEM_20150918_006611	An orb necessary to complete the spell that wakes the Sleeping Owls to aid Gaigalas.
-ITEM_20150918_006612	Unstable Holy Speer. It cannot be used in its current state.
+ITEM_20150918_006612	Unstable Heilig Speer. It cannot be used in its current state.
 ITEM_20150918_006613	Giant canine obtained from the Minotaur of Roxona Marketplace
 ITEM_20150918_006614	Parts needed for a new trap devised by the Sapper Master.
 ITEM_20150918_006615	A trinket belonging to the old Legwyn Family
@@ -6626,8 +6626,8 @@ ITEM_20150918_006625	Secretion that can be used to attract Biteregina
 ITEM_20150918_006626	An enemy killed with this charm attached to them will join your side!
 ITEM_20150918_006627	The first revelation found in the Crystal Mine. Lesbar.
 ITEM_20150918_006628	Ruteelin's eye. It is said to be able to erase an enemy's senses.
-ITEM_20150918_006629	Material needed to create a Holy Bomb. It must be purified before it can be used.
-ITEM_20150918_006630	Material needed to create a Holy Bomb. The purified result of a Vicious Essence.
+ITEM_20150918_006629	Material needed to create a Heilig Bomb. It must be purified before it can be used.
+ITEM_20150918_006630	Material needed to create a Heilig Bomb. The purified result of a Vicious Essence.
 ITEM_20150918_006631	When consumed, it will prevent demons from detecting your presence!
 ITEM_20150918_006632	The bomb with the sacred power. You can defeat Glizardon at once!
 ITEM_20150918_006633	Once the scroll is used, one can distinguish which Hogmas are wearing necklaces.
@@ -6668,7 +6668,7 @@ ITEM_20150918_006667	Charcoal obtained from defeating a Long-Branched Tree. Touc
 ITEM_20150918_006668	A bomb that can light the Long-Branched Tree on fire.
 ITEM_20150918_006669	A revelation that Bramble had. It's unreadable - let's take it to Goddess Saule.
 ITEM_20150918_006670	It is said to be able to wake the sleeping Boowook.
-ITEM_20150918_006671	A Zolem's Magic Stone needed to lure a Unicorn.
+ITEM_20150918_006671	A Zolem's Magie Stone needed to lure a Unicorn.
 ITEM_20150918_006672	A trophy taken from a defeated Unicorn. Let's take it to the Fedimian Army Officer.
 ITEM_20150918_006673	A cork stopper that was sealing the oil barrel.
 ITEM_20150918_006674	Tools used for brewing
@@ -6817,7 +6817,7 @@ ITEM_20150918_006816	Hardtack that was hidden in a grass pile by someone. There 
 ITEM_20150918_006817	The leaf of a sweet herb. When chewed while taking a bitter medicine, it covers the taste with its sweetness.
 ITEM_20150918_006818	A fully grown white radish freshly picked from the fields. It looks healthy, without blemish.
 ITEM_20150918_006819	Timber that looks usable as firewood. Burn it in a pile in the magic circle.
-ITEM_20150918_006820	Magic doll that Rimas gave to Arunas. It removes unusual energies when burned in a magic circle.
+ITEM_20150918_006820	Magie doll that Rimas gave to Arunas. It removes unusual energies when burned in a magic circle.
 ITEM_20150918_006821	The bottle which Wizard Limas gave you. It is just a normal bottle.
 ITEM_20150918_006822	A bottle one third of the way filled with the evil aura of an Ellum. It must be fully filled.
 ITEM_20150918_006823	A bottle two thirds of the way filled with the evil aura of an Ellum. It is nearly full.
@@ -7054,7 +7054,7 @@ ITEM_20151001_007053	Flammable Powder
 ITEM_20151001_007054	A powder that is used in fireworks or other flares. Often obtained from monsters.
 ITEM_20151001_007055	Pieces of Leder
 ITEM_20151001_007056	Many people report all kinds of engraved words in these pieces.
-ITEM_20151001_007057	Nestos' Holy Water
+ITEM_20151001_007057	Nestos' Heilig Water
 ITEM_20151001_007058	It is said that holy water from the Nestos will protect the sanctuary from demons.
 ITEM_20151001_007059	A notice board that was passed from Gerda. Put it on the place you've heard of.
 ITEM_20151001_007060	Kedorlaomer Merchant's Scroll
@@ -7133,7 +7133,7 @@ ITEM_20151001_007132	A stone that has the property to burn easily. You should be
 ITEM_20151001_007133	This is the token of the religious body of the tree of the truth.
 ITEM_20151001_007134	Manor Owner List
 ITEM_20151001_007135	A list that contains the names of the manor owners at the Kaliss region. You will need a Lagerfeuer to burn it.
-ITEM_20151001_007136	Evil Magic Trace
+ITEM_20151001_007136	Evil Magie Trace
 ITEM_20151001_007137	A black crystal that was obtained from the resurrected dead. It's a trace of the evil magic that resurrected the dead.
 ITEM_20151001_007138	Hidden List (1)
 ITEM_20151001_007139	A part of the list of the manor owners which Carlyle hid. Currently unreadable.
@@ -7273,7 +7273,7 @@ ITEM_20151016_007272	Earth Flower Seed
 ITEM_20151016_007273	A seed of the Earth Flower. When you plant it, it will absorb the energy of the earth and the flower will grow.
 ITEM_20151016_007274	Earth Flower of Vigor
 ITEM_20151016_007275	A flower of the earth full of vitalities that grew on the land. You can feel its strong vitality.
-ITEM_20151022_007276	Plague Doctor Helmet
+ITEM_20151022_007276	Plague Doctor Helm
 ITEM_20151022_007277	Ever since the very first Paladin did, many people throughout the ages have guarded the Tenet Church. All those years of accumulated experience have been drawn upon to create this combination of power and convenience.
 ITEM_20151022_007278	Most attempts at keeping plants in check with other plants after Medzio Diena have failed, but after the ability to drain the energy of plant monsters of a certain fern was discovered, it has been applied to weapons.
 ITEM_20151022_007279	Equipment specialized against beast monsters have developed due to the environment of the Lucas Region. It is rare for a region to be as untouched by the Great Plant Cataclysm as Lucas, and this scarcity became the basis on which this equipment was produced.
@@ -7352,7 +7352,7 @@ ITEM_20151022_007351	Sharp Rapier
 ITEM_20151022_007352	Duelist
 ITEM_20151022_007353	 - All Fencer skills level +1
 ITEM_20151022_007354	Venier
-ITEM_20151022_007355	- All Fencer skills level +2{nl} - 3% chance of inflicting additional Holy property damage
+ITEM_20151022_007355	- All Fencer skills level +2{nl} - 3% chance of inflicting additional Heilig property damage
 ITEM_20151022_007356	Long ago, a goddess suggested the crafting of objects to the other goddesses. Most of the goddesses that heeded their colleague's suggestion mainly did so out of amusement, but the goddess that suggested it meant to leave the objects containing the divine powers of the goddesses in the world for the generations to come. One of those arrangements are these gloves
 ITEM_20151022_007357	A long time ago, several goddesses made objects containing divine power for their own amusement. It is said that they did so in the Goddess' Ancient Garden but it is difficult to know if this is true. Whatever the case may be, the objects crafted at the time, such as these boots, are still proving their worth.
 ITEM_20151022_007358	The fact that the authority of the goddesses is indirectly being used against enemies through the objects they crafted carries great significance even if the goddesses did not put their heart and souls into crafting them.
@@ -7375,7 +7375,7 @@ ITEM_20151022_007374	Some are of the belief that the fern observing rituals and 
 ITEM_20151022_007375	The magic symbol Koru is hidden on this outift in the form of a fern sprout. Sprouts have long been symbols of great religious import.
 ITEM_20151022_007376	The individual rings that comprise these gloves have been crafted through the application of magical powers symbolized by fern buds. Magical equipment with this sort of power may not be craftable if the vegetation abnormality disappears one day.
 ITEM_20151022_007377	All vegetation that saw explosive growth after Medzio Diena possess some degree of life and energy absorption. To apply this ability to equipment and allow it to absorb energy from the earth is a very difficult task.
-ITEM_20151022_007378	Magic extracted from ferns can be made to possess either light seeking or shunning characteristics. However, it is made to resist darkness even if it is theoretically possible to make it resist light due to cost and practicality reasons.
+ITEM_20151022_007378	Magie extracted from ferns can be made to possess either light seeking or shunning characteristics. However, it is made to resist darkness even if it is theoretically possible to make it resist light due to cost and practicality reasons.
 ITEM_20151022_007379	There was a time when Divdirbys master Tesla used to roam the kingdom. Some pieces of magic equipment have tales of his travels. People usually accept such legends even though it is uncertain how the sculptor priest Tesla influenced the crafting of these gloves.
 ITEM_20151022_007380	There is a legend of Tesla crafting these boots after being pricked by a thorn in the foot whilst passing Sirdgela Forest. Whether the forest was filled with thorns or if Tesla really crafted the boots after such an experience is not important. Nobody has gone to ask Tesla even though he is alive and well.
 ITEM_20151022_007381	Sirdgela equipment is full of legend and story. Some say that these pants were crafted with cloth woven from thread gathered from brambles. There are many people that are fond of the figure of the lonely girl who makes thread from brambles regardless of whether those tales are true or not.
@@ -7470,7 +7470,7 @@ ITEM_20151022_007469	Increases a character's class level of rank 4 to 15. Only a
 ITEM_20151022_007470	Rank 6 Karte
 ITEM_20151022_007471	Increases a character's class level of rank 5 to 15. Only available during rank 5. {nl}Rechtsklick zum verwenden.
 ITEM_20151022_007472	Abomination Cube
-ITEM_20151022_007473	It seems to contain something unknown. {nl}Rechtsklick zum verwenden.
+ITEM_20151022_007473	Es scheint etwas Unbekanntes zu enthalten.{nl}Rechtsklick zum verwenden.
 ITEM_20151022_007474	Obscene Deathweaver Cube
 ITEM_20151022_007475	Bleak Chapparition Cube
 ITEM_20151022_007476	Earth Temple Shooter Cube
@@ -8269,7 +8269,7 @@ ITEM_20151022_008268	Romuva of Suppression
 ITEM_20151022_008269	Sacred Romuva, made with Letas' Sacred Branch. It exudes a mighty power from Letas Stream.
 ITEM_20151022_008270	Picked-up Letter at Letas Stream
 ITEM_20151022_008271	A letter picked up at Letas Stream.
-ITEM_20151022_008272	Bandage soaked in Holy Water
+ITEM_20151022_008272	Bandage soaked in Heilig Water
 ITEM_20151022_008273	A crystal that emits an unusual light. Obtainable from monsters in the Galeed Plateau.
 ITEM_20151022_008274	Glowing Oil
 ITEM_20151022_008275	Monster oil that gives off a mysterious light.
@@ -8282,7 +8282,7 @@ ITEM_20151022_008281	Rough stone extracted from a boulder. Need to be polished i
 ITEM_20151022_008282	A powder that lits up a Groß spark, useful for crafting items such as signal shots. Easily obtainable from monsters.
 ITEM_20151022_008283	A patch of ripped leather. It is somewhat creepy.
 ITEM_20151022_008284	Notification Signboard given by Gerda. Place it at the designated location.
-ITEM_20151022_008285	Holy Object sought after by Yurate. It was lost during the Medzio Diena 
+ITEM_20151022_008285	Heilig Object sought after by Yurate. It was lost during the Medzio Diena 
 ITEM_20151022_008286	Detector used for searching items on the upper shelf.
 ITEM_20151022_008287	Glass bottle containing secret ink. Contains transparent secret ink used to record important information.
 ITEM_20151022_008288	A guidebook used to teach new members of the Kedoran Merchant Alliance. It is written in monster blood ink.
@@ -8329,8 +8329,8 @@ ITEM_20151022_008328	Krivi's Crystal Edelstein
 ITEM_20151022_008329	A mysterious gem said to be endowed by the Goddess Gabija. They say that this gem can hold the life force of monsters.
 ITEM_20151022_008330	Energetic Crystal Edelstein
 ITEM_20151022_008331	A gem abounding with energy. An adept one could spark a holy fire using this.
-ITEM_20151022_008332	Holy Water for Blessings
-ITEM_20151022_008333	Holy water used for blessings for those who wishes to take the path of a priest. It seems like it requires the blessings from other clerics.
+ITEM_20151022_008332	Heilig Water for Blessings
+ITEM_20151022_008333	Heilig water used for blessings for those who wishes to take the path of a priest. It seems like it requires the blessings from other clerics.
 ITEM_20151022_008334	Monster Crystalization
 ITEM_20151022_008335	Monster Crystalization required to pass the Peltasta exam.
 ITEM_20151022_008336	Special Medicine from Orsha
@@ -8404,7 +8404,7 @@ ITEM_20151102_008403	Overgrown Fluid
 ITEM_20151102_008404	A fluid that can be obtained from overgrown plant-type monsters.
 ITEM_20151102_008405	Sturdy Barricade Research Material
 ITEM_20151102_008406	A very sturdy wood. Not sure if it can actually be used for anything.
-ITEM_20151102_008407	Magic Control Detection Orb
+ITEM_20151102_008407	Magie Control Detection Orb
 ITEM_20151102_008408	An orb that can detect the flow of magic.
 ITEM_20151102_008409	Soul Flask
 ITEM_20151102_008410	Flask that can hold in spiritual powers.
@@ -8457,9 +8457,9 @@ ITEM_20151102_008456	Backpack
 ITEM_20151102_008457	Experiment Victim's Backpack
 ITEM_20151102_008458	Fabric Marked with Letters
 ITEM_20151102_008459	Sacred Object Fragment
-ITEM_20151102_008460	Black Edelstein
+ITEM_20151102_008460	Schwarzer Edelstein
 ITEM_20151102_008461	Edelstein
-ITEM_20151102_008462	Demon Essence
+ITEM_20151102_008462	Dämonen Essenz
 ITEM_20151102_008463	Experiment Journal, Chapter 1
 ITEM_20151102_008464	An experiment journal created by a mysterious mage.
 ITEM_20151102_008465	Experiment Journal, Chapter 2
@@ -8509,16 +8509,16 @@ ITEM_20151102_008508	Monster's lard. It can be used to make oil.
 ITEM_20151102_008509	Special Tyronas Hydra Bait
 ITEM_20151102_008510	Completed bait. Tyronas Hydra really likes this.
 ITEM_20151102_008511	Sack with Offerings
-ITEM_20151102_008512	Compass of Magic Seeking
+ITEM_20151102_008512	Compass of Magie Seeking
 ITEM_20151102_008513	Shows you the nearby location where magic gathers.
-ITEM_20151102_008514	Empty Magic Orb
+ITEM_20151102_008514	Empty Magie Orb
 ITEM_20151102_008515	A crystal Orb given by Mihail. You can gather magic by attacking monsters.
-ITEM_20151102_008516	Fully-charged Magic Orb
+ITEM_20151102_008516	Fully-charged Magie Orb
 ITEM_20151102_008517	Crystal Orb brimming with magic. Mihail plans to use this as a bomb.
-ITEM_20151102_008518	Amulet of Magic Dispel
+ITEM_20151102_008518	Amulet of Magie Dispel
 ITEM_20151102_008519	A charm prepared by Melchioras. It can dispell a magic spell by exhausing the magic power inside an artifact.
-ITEM_20151102_008520	Sammlung of Magic Orbs
-ITEM_20151102_008521	Magic Orbs collected by everyone, in cooperation with Mihail and his friends.
+ITEM_20151102_008520	Sammlung of Magie Orbs
+ITEM_20151102_008521	Magie Orbs collected by everyone, in cooperation with Mihail and his friends.
 ITEM_20151102_008522	Unsent Letters
 ITEM_20151102_008523	Letters that were not sent out yet by residents of Castlefield before they disappeared.
 ITEM_20151102_008524	Usable Pfeil
@@ -8577,7 +8577,7 @@ ITEM_20151224_008576	Soldier's Iron Club
 ITEM_20151224_008577	Iron Fist
 ITEM_20151224_008578	 - Blocking an enemy's attack will reduce its defense by {img red_down_arrow 16 16} 84 for 60 Sekunden
 ITEM_20151224_008579	This fist shaped mace is said to be created to fight against shield wielding enemy. The force of this heavy weapon can shatter a shield.
-ITEM_20151224_008580	 - {img green_up_arrow 16 16} 50 Holy property attack when equipped on a Cleric character
+ITEM_20151224_008580	 - {img green_up_arrow 16 16} 50 Heilig property attack when equipped on a Cleric character
 ITEM_20151224_008581	Guardsman Shield
 ITEM_20151224_008582	Claria Shield
 ITEM_20151224_008583	Ferret Marauder Shield
@@ -8735,7 +8735,7 @@ ITEM_20151224_008734	New Hat 28
 ITEM_20151224_008735	New Hat 29
 ITEM_20151224_008736	Ritual Coffin
 ITEM_20151224_008737	The sky's warm wind gently breezes over their house. A rainbow is always to appear over their shoulder.
-ITEM_20151224_008738	Cornus Helmet
+ITEM_20151224_008738	Cornus Helm
 ITEM_20151224_008739	You can pick and eat the fruits if you ever feel hungry.
 ITEM_20151224_008740	Hanaming Puppe
 ITEM_20151224_008741	A doll that looks just like a Hanaming.
@@ -8761,10 +8761,10 @@ ITEM_20151224_008760	Gibt 237943 Charakter EXP und 183216 Klassen EXP. {nl}Recht
 ITEM_20151224_008761	Gibt 541023 Charakter EXP und 416587 Klassen EXP. {nl}Rechtsklick zum verwenden.
 ITEM_20151224_008762	Gibt 608155 Charakter EXP und 468279 Klassen EXP. {nl}Rechtsklick zum verwenden.
 ITEM_20151224_008763	Gibt 1344829 Charakter EXP und 1035518 Klassen EXP. {nl}Rechtsklick zum verwenden.
-ITEM_20151224_008764	Lets you build a Guild Tower.{nl}Can only be used in fields.
+ITEM_20151224_008764	Lets you build a Gildenturm.{nl}Can only be used in fields.
 ITEM_20151224_008765	Food that a companion enjoys.{nl}Completely restores your companion's HP and restores their Stamina by 60. 
 ITEM_20151224_008766	Shield Charger
-ITEM_20151224_008767	Orsha Warp Scroll
+ITEM_20151224_008767	Orsha Teleport Scroll
 ITEM_20151224_008768	Teleports you to Orsha. {nl}Rechtsklick zum verwenden.
 ITEM_20151224_008769	Incomplete Ruklys Brew
 ITEM_20151224_008770	Increases your AoE attack ratio by 1 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 120 Sekunden.
@@ -8790,9 +8790,9 @@ ITEM_20151224_008789	Earth Property Resistance Trank
 ITEM_20151224_008790	Increases your Earth property resistance by 30 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 90 Sekunden.
 ITEM_20151224_008791	Lightning Property Resistance Trank
 ITEM_20151224_008792	Increases your Lightning property resistance by 30 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 90 Sekunden.
-ITEM_20151224_008793	Magic Defense Trank
+ITEM_20151224_008793	Magie Defense Trank
 ITEM_20151224_008794	Increases your magic defense by 20 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 120 Sekunden.
-ITEM_20151224_008795	Magic Attack Trank
+ITEM_20151224_008795	Magie Attack Trank
 ITEM_20151224_008796	Increases your magic attack by 35 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 120 Sekunden.
 ITEM_20151224_008797	Transformation Scroll: Popolion
 ITEM_20151224_008798	A scroll that lets you transform into a monster for a period of time. Can only be used in town.
@@ -9046,7 +9046,7 @@ ITEM_20151224_009045	Chafperor Shell
 ITEM_20151224_009046	Obtained from Chafperors.
 ITEM_20151224_009047	Socket Horn
 ITEM_20151224_009048	Horn that grows on the heads of Sockets. {nl}Obtained from Sockets.
-ITEM_20151224_009049	Magic Moss
+ITEM_20151224_009049	Magie Moss
 ITEM_20151224_009050	Moss possessing a faint spell. {nl}Obtained from Ticen Magicians.
 ITEM_20151224_009051	White Dandel Fur
 ITEM_20151224_009052	Brown Rambear Bones
@@ -9135,7 +9135,7 @@ ITEM_20151224_009134	Blue Harugal Heart
 ITEM_20151224_009135	The only way to acquire the heart of a monster is to slay it. {nl}Obtained from Blue Harugals.
 ITEM_20151224_009136	Green Socket Wing
 ITEM_20151224_009137	Sockets are able to fly even with no wings. The presence of wings simply signifies that they are demons. {nl}Obtained from Green Sockets.
-ITEM_20151224_009138	Brown Stoulet Helmet Fragment
+ITEM_20151224_009138	Brown Stoulet Helm Fragment
 ITEM_20151224_009139	The helmets worn by Stoulets are made of an unknown metal. {nl}Obtained from Brown Stoulets.
 ITEM_20151224_009140	Blue Ridimed Stems
 ITEM_20151224_009141	The hardness of these stems makes them hard to chew. {nl}Obtained from Blue Ridimeds.
@@ -9663,7 +9663,7 @@ ITEM_20151224_009662	Demon Orders
 ITEM_20151224_009663	A demon's plans thwarted by bishops and priests who risked their lives to stop them. It cannot be read due to it being written in the demon's language.
 ITEM_20151224_009664	Priest Gelija's Medicine Pouch
 ITEM_20151224_009665	It's filled with medicines and bandages.
-ITEM_20151224_009666	Holy Water Cloth
+ITEM_20151224_009666	Heilig Water Cloth
 ITEM_20151224_009667	A cloth blessed by Priest Gelija with holy water to remove fragments from the statue of Marnox.
 ITEM_20151224_009668	Ashaq Underground Prison 1F Map
 ITEM_20151224_009669	A map left by Urbonas which was found in Paupys Crossing. A certain area of Ashaq Underground Prison 1F is marked.
@@ -9714,7 +9714,7 @@ ITEM_20151224_009713	Jewel Necklace
 ITEM_20151224_009714	A jewel necklace. 'My beloved mother' is engraved on the back.
 ITEM_20151224_009715	Embroidered Handkerchief
 ITEM_20151224_009716	The embroideries on this handkerchief are very detailed and carefully made.
-ITEM_20151224_009717	Novaha Monastery's Holy Relic Fragment
+ITEM_20151224_009717	Novaha Monastery's Heilig Relic Fragment
 ITEM_20151224_009718	A fragment of a holy relic from the Novaha Monastery.
 ITEM_20151224_009719	Brown Hummingbird Mucus
 ITEM_20151224_009720	Brown Hummingbird's Mucus. Is it one of the object that the mage put into the machine?
@@ -9726,7 +9726,7 @@ ITEM_20151224_009725	A material used to make Protective Barrier Crystals. {nl}Ob
 ITEM_20151224_009726	A crystal made from the recipe given by the Wizard Klassenmeister. It helps protect the Rose siblings from the demons.
 ITEM_20151224_009727	Empty Barrier Crystal
 ITEM_20151224_009728	A material used to make Protective Barrier Crystals. {nl} from the Wizard Klassenmeister.
-ITEM_20151224_009729	Restored Novaha Monestry's Holy Relic
+ITEM_20151224_009729	Restored Novaha Monestry's Heilig Relic
 ITEM_20151224_009730	A holy relic restored thanks to the efforts of Monk Abels.
 ITEM_20151224_009731	A Spirit Rock filled with spirits. Take it to Margiris to be recognized as a member of the sect.
 ITEM_20151224_009732	Hemostasis Herb
@@ -9795,8 +9795,8 @@ ITEM_20151224_009794	An orb given by Mihail. It can be used to store the magic o
 ITEM_20151224_009795	An orb filled with magic. Mihail intends to use it to blow up the magic supply device.
 ITEM_20151224_009796	Cast Releasing Amulet
 ITEM_20151224_009797	An amulet prepared by Melchioras. It is said to lift protection spells.
-ITEM_20151224_009798	Magic Orb Pouch
-ITEM_20151224_009799	A pouch filled with Magic Concentration Orbs
+ITEM_20151224_009798	Magie Orb Pouch
+ITEM_20151224_009799	A pouch filled with Magie Concentration Orbs
 ITEM_20151224_009800	Page 1 of a diary from someone named Ardel, a former resident of the Delmore Castle.
 ITEM_20151224_009801	Page 2 of a diary from someone named Ardel, a former resident of the Delmore Castle.
 ITEM_20151224_009802	Page 3 of a diary from someone named Ardel, a former resident of the Delmore Castle.
@@ -9812,7 +9812,7 @@ ITEM_20151224_009811	Charog Sap
 ITEM_20151224_009812	Sap that oozes out of a Charog's body. It smells awfully foul.
 ITEM_20151224_009813	Yane's Shaman Puppe
 ITEM_20151224_009814	A means to affect the souls of monsters.
-ITEM_20151224_009815	Ominous Magic Crystal
+ITEM_20151224_009815	Ominous Magie Crystal
 ITEM_20151224_009816	A crystal for collecting sinister magic. Attach it to the device to destroy it.
 ITEM_20151224_009817	Spell Amplifier
 ITEM_20151224_009818	An amplifier carried by Black Maizes. An item wanted by Revelator Mihail.
@@ -9843,7 +9843,7 @@ ITEM_20160224_009842	Magi Shamshir
 ITEM_20160224_009843	Supportive Badelaire
 ITEM_20160224_009844	Seimos Schwert
 ITEM_20160224_009845	Magas Schwert
-ITEM_20160224_009846	Holy Blade
+ITEM_20160224_009846	Heilig Blade
 ITEM_20160224_009847	Ira Blade
 ITEM_20160224_009848	Pensara Schwert
 ITEM_20160224_009849	Ruma Schwert
@@ -9881,7 +9881,7 @@ ITEM_20160224_009880	Supportive Alter Rute
 ITEM_20160224_009881	Seimos Rute
 ITEM_20160224_009882	Tilly Rute
 ITEM_20160224_009883	Catacombs Rute
-ITEM_20160224_009884	Magic Circle
+ITEM_20160224_009884	Magie Circle
 ITEM_20160224_009885	Pensara Rute
 ITEM_20160224_009886	Maga Rute
 ITEM_20160224_009887	Lolopanther Rute
@@ -9907,7 +9907,7 @@ ITEM_20160224_009906	 - [Backstab] skill level {img green_up_arrow 16 16} 3
 ITEM_20160224_009907	 - 2% chance to deal {img green_up_arrow 16 16} 600% damage
 ITEM_20160224_009908	Eki Fedimian Turret
 ITEM_20160224_009909	Eki Veteran Armbrust
-ITEM_20160224_009910	Holy Bullet Shooter
+ITEM_20160224_009910	Heilig Bullet Shooter
 ITEM_20160224_009911	Lumas Armbrust
 ITEM_20160224_009912	Vitt Black-Tipp Shooter
 ITEM_20160224_009913	Vienie Spiked Armbrust
@@ -9963,13 +9963,13 @@ ITEM_20160224_009962	Maga Speer
 ITEM_20160224_009963	Lolopanther Speer
 ITEM_20160224_009964	Light Royal Partisan
 ITEM_20160224_009965	Slaake Cone Spieß
-ITEM_20160224_009966	Holy Fedimian Spieß
+ITEM_20160224_009966	Heilig Fedimian Spieß
 ITEM_20160224_009967	Lumas Spieß
 ITEM_20160224_009968	Earth Royal Trident
 ITEM_20160224_009969	Artie Battle Fork
 ITEM_20160224_009970	Magi Halberd
 ITEM_20160224_009971	Duris Demon Spieß
-ITEM_20160224_009972	Holy Partisan
+ITEM_20160224_009972	Heilig Partisan
 ITEM_20160224_009973	Hell's Demon Spieß
 ITEM_20160224_009974	Supportive Royal Partisan
 ITEM_20160224_009975	Seimos Spieß
@@ -9996,7 +9996,7 @@ ITEM_20160224_009995	Artie Stag Stab
 ITEM_20160224_009996	Supportive Drake Stab
 ITEM_20160224_009997	Seimos Stab
 ITEM_20160224_009998	Wizard Stab
-ITEM_20160224_009999	 - [Magic Missile] damage {img green_up_arrow 16 16} 186
+ITEM_20160224_009999	 - [Magie Missile] damage {img green_up_arrow 16 16} 186
 ITEM_20160224_010000	Magas Stab
 ITEM_20160224_010001	Pensara Stab
 ITEM_20160224_010002	Ruma Stab
@@ -10012,7 +10012,7 @@ ITEM_20160224_010011	Artie Dual Rapier
 ITEM_20160224_010012	Slaake Dual Rapier
 ITEM_20160224_010013	Magas Rapier
 ITEM_20160224_010014	Pensara Rapier
-ITEM_20160224_010015	 - All Fencer skill levels {img green_up_arrow 16 16} 2{nl}  - 3% chance to inflict additional Holy property attacks
+ITEM_20160224_010015	 - All Fencer skill levels {img green_up_arrow 16 16} 2{nl}  - 3% chance to inflict additional Heilig property attacks
 ITEM_20160224_010016	Catacombs Rapier
 ITEM_20160224_010017	Lolopanther Rapier
 ITEM_20160224_010018	 - All Fencer skill levels {img green_up_arrow 16 16} 2
@@ -10091,8 +10091,8 @@ ITEM_20160224_010090	Attack Boost Trank: Lightning
 ITEM_20160224_010091	Increases attack of the Lightning property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010092	Attack Boost Trank: Earth
 ITEM_20160224_010093	Increases attack of the Earth property against characters by 5% for 5 minutes. Stacks up to 10 times.
-ITEM_20160224_010094	Attack Boost Trank: Holy
-ITEM_20160224_010095	Increases attack of the Holy property against characters by 5% for 5 minutes. Stacks up to 10 times.
+ITEM_20160224_010094	Attack Boost Trank: Heilig
+ITEM_20160224_010095	Increases attack of the Heilig property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010096	Attack Boost Trank: Dark
 ITEM_20160224_010097	Increases attack of the Dark property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010098	Defense Boost Trank: Stab
@@ -10113,8 +10113,8 @@ ITEM_20160224_010112	Defense Boost Trank: Lightning
 ITEM_20160224_010113	Increases defense of the Lightning property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010114	Defense Boost Trank: Earth
 ITEM_20160224_010115	Increases defense of the Earth property against characters by 5% for 5 minutes. Stacks up to 10 times.
-ITEM_20160224_010116	Defense Boost Trank: Holy
-ITEM_20160224_010117	Increases defense of the Holy property against characters by 5% for 5 minutes. Stacks up to 10 times.
+ITEM_20160224_010116	Defense Boost Trank: Heilig
+ITEM_20160224_010117	Increases defense of the Heilig property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010118	Defense Boost Trank: Dark
 ITEM_20160224_010119	Increases defense of the Dark property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010120	Rosemary
@@ -10159,7 +10159,7 @@ ITEM_20160224_010158	Rafene Cube
 ITEM_20160224_010159	A crystal fragment that can be obtained from Crystal Mine Lot 2. You can obtain a particular crystal after collecting and processing a plentiful amount.
 ITEM_20160224_010160	A stone carved with ancient letters containing magical powers.{nl}Purchasable from the Rune Caster Master.
 ITEM_20160224_010161	Alphabet T
-ITEM_20160224_010162	If you combine the letters 'TREE', 'SAVIOR' or 'TREEOFSAVIOR', you can exchange it for a Lucky Box with the Magic Association NPC.
+ITEM_20160224_010162	If you combine the letters 'TREE', 'SAVIOR' or 'TREEOFSAVIOR', you can exchange it for a Lucky Box with the Magie Association NPC.
 ITEM_20160224_010163	Alphabet R
 ITEM_20160224_010164	Alphabet E
 ITEM_20160224_010165	Alphabet O
@@ -10194,9 +10194,9 @@ ITEM_20160224_010193	Rune Stone of Protection
 ITEM_20160224_010194	Rune Stone of Destruction
 ITEM_20160224_010195	Rune Stone of the First Master
 ITEM_20160224_010196	A rune stone made by the first master of the Rune Casters.
-ITEM_20160224_010197	Blue Magic Stone
+ITEM_20160224_010197	Blue Magie Stone
 ITEM_20160224_010198	Material of a rune stone. In order to become a Rune Caster, you must create a rune stone of your own.
-ITEM_20160224_010199	Malstatue's Magic Fragment
+ITEM_20160224_010199	Malstatue's Magie Fragment
 ITEM_20160224_010200	Velaphid's Cold Blood
 ITEM_20160224_010201	Pumpleflap's Robust Horn
 ITEM_20160310_010202	Lolopanthers are beings who once served Goddess Zemyna. Although most of them are human, not all of them are.
@@ -10321,7 +10321,7 @@ ITEM_20160310_010320	Greentoshell Shell Fragment
 ITEM_20160310_010321	A piece of Greentoshell shell. It can be ground and used as an ointment ingredient.
 ITEM_20160310_010322	Blue Lapasape Moss
 ITEM_20160310_010323	Moss that grows on the bodies of Lapasape Mages. It can be used as an ingredient for ointment.
-ITEM_20160310_010324	Merchant's Magic Detector
+ITEM_20160310_010324	Merchant's Magie Detector
 ITEM_20160310_010325	A compass borrowed from a merchant, useful in finding a tool able to open a magically-locked chest. It points to nearby magic objects.
 ITEM_20160310_010326	Old Backpack
 ITEM_20160310_010327	An old backpack that reacts to the magic detector. It contains several objects of unknown use...
@@ -10345,7 +10345,7 @@ ITEM_20160323_010344	Auru Bracelet
 ITEM_20160323_010345	Platina Bracelet
 ITEM_20160323_010346	Archer Circle 3 Costume
 ITEM_20160323_010347	Priest Circle 3 Costume
-ITEM_20160323_010348	Leaf Ornament Helmet
+ITEM_20160323_010348	Leaf Ornament Helm
 ITEM_20160323_010349	A helmet adorned with a leaf ornament. The leaf symbolizes the blessings of the goddesses.
 ITEM_20160323_010350	Party Horn
 ITEM_20160323_010351	A cheerful sound can be heard when you blow on it. Can be used once every 30 Sekunden.
@@ -10387,15 +10387,15 @@ ITEM_20160323_010386	Stone
 ITEM_20160323_010387	A common stone that can be obtained easily. It is adequately sized to be thrown.
 ITEM_20160323_010388	Coral Horn Piece
 ITEM_20160323_010389	A horn obtained from a monster. It is very hard.
-ITEM_20160323_010390	Earth Magic Stone
+ITEM_20160323_010390	Earth Magie Stone
 ITEM_20160323_010391	A magical stone that can absorb the earth energy.
-ITEM_20160323_010392	Sea Magic Stone
+ITEM_20160323_010392	Sea Magie Stone
 ITEM_20160323_010393	A magical stone that can absorb the sea energy.
-ITEM_20160323_010394	Balance Magic Stone
+ITEM_20160323_010394	Balance Magie Stone
 ITEM_20160323_010395	A magical stone that can absorb balancing energy.
-ITEM_20160323_010396	Binding Magic Circle Scroll
+ITEM_20160323_010396	Binding Magie Circle Scroll
 ITEM_20160323_010397	A scroll that contains a new binding magic circle. It's safer than the previous magic circles.
-ITEM_20160323_010398	Magic Searching Stone
+ITEM_20160323_010398	Magie Searching Stone
 ITEM_20160323_010399	A magic searching stone that can find the binding magic circle.
 ITEM_20160323_010400	Cane's Upper Part Piece Fragment
 ITEM_20160323_010401	A piece that seems to belong to the upper part of a broken cane.

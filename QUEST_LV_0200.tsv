@@ -440,7 +440,7 @@ QUEST_LV_0200_20150317_000439	A bow once made can fire many times, but arrows ar
 QUEST_LV_0200_20150317_000440	I don't think prayers and ceremonies are the only way to serve the goddess. {nl}Serving the world through physical training is also an important mission of the cleric. {nl}That is what a monk is.
 QUEST_LV_0200_20150317_000441	I'm sick of Fedimian. {nl}Where could my brother be..
 QUEST_LV_0200_20150317_000442	For what did my brother... {nl}How important could that thing be...
-QUEST_LV_0200_20150317_000443	Fedimian is still under reconstruction. {nl}The Holy Area is better off; the other areas are so bad you can't even enter them.
+QUEST_LV_0200_20150317_000443	Fedimian is still under reconstruction. {nl}The Heilig Area is better off; the other areas are so bad you can't even enter them.
 QUEST_LV_0200_20150317_000444	I'll probably be working again from now on. {nl}You gotta be busy to feel alive.
 QUEST_LV_0200_20150317_000445	I would have been in trouble if not for your help. {nl}Fedimian is still under construction and there aren't any proper medical facilities.
 QUEST_LV_0200_20150317_000446	There are two ways to approach the goddess. {nl}Strong belief for the goddess and the sound of silver dropping on the offering box. {nl}We're just being honest here. Don't you think the same?
@@ -956,7 +956,7 @@ QUEST_LV_0200_20150317_000955	Give me the herbs.
 QUEST_LV_0200_20150317_000956	I need herbs to make the medicine.
 QUEST_LV_0200_20150317_000957	Completed preparing medicine.
 QUEST_LV_0200_20150317_000958	You need to get all of Maven's keys first. {nl}And you need to solve a lot of secrets to get the key.
-QUEST_LV_0200_20150317_000959	Unfortunately, it is Maven's will that you solve every secret by yourself. {nl}First, get on the platform at the Meile Oratorium to solve the first secret and get the Holy Relic of Mercy.
+QUEST_LV_0200_20150317_000959	Unfortunately, it is Maven's will that you solve every secret by yourself. {nl}First, get on the platform at the Meile Oratorium to solve the first secret and get the Heilig Relic of Mercy.
 QUEST_LV_0200_20150317_000960	Writing on the Platform
 QUEST_LV_0200_20150317_000961	Remember the holy number with your two eyes. {nl}The light of candles drives away the evil dark.
 QUEST_LV_0200_20150317_000962	You must thoroughly check the writings on the altar. {nl}Well then, I will.. wait in the Grand Hall.
@@ -1701,7 +1701,7 @@ QUEST_LV_0200_20150317_001700	Worship for the Blessing (3)
 QUEST_LV_0200_20150317_001701	I'll purify it
 QUEST_LV_0200_20150317_001702	Spraying holy water / STANDSPINKLE / 2 / TRACK_BEFORE / None
 QUEST_LV_0200_20150317_001703	Notice / The Sanctum was purified! # 3
-QUEST_LV_0200_20150317_001704	Holy Goddess Statue
+QUEST_LV_0200_20150317_001704	Heilig Goddess Statue
 QUEST_LV_0200_20150317_001705	Worshiping / WORSHIP / 2 / TRACK_BEFORE / SSN_HATE_AROUND
 QUEST_LV_0200_20150317_001706	Genuine Goddess Statue (1)
 QUEST_LV_0200_20150317_001707	Notice/!/Something is wrong with the Goddess Statue{nl}Go to Tesla in Rhombuspaving Dale #3
@@ -1836,7 +1836,7 @@ QUEST_LV_0200_20150317_001835	Ask him what to do
 QUEST_LV_0200_20150317_001836	Tell him that there is nothing that can be done for the ones missed
 QUEST_LV_0200_20150317_001837	Notice/You've retrieved a round-shaped jewel from Naktis' servant.#3
 QUEST_LV_0200_20150317_001838	Mercy and Salvation (3)
-QUEST_LV_0200_20150317_001839	I'll go to the Holy place
+QUEST_LV_0200_20150317_001839	I'll go to the Heilig place
 QUEST_LV_0200_20150317_001840	Checking.../#SITGROPESET2/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150317_001841	Notice/Obtained the key of Maven!
 QUEST_LV_0200_20150317_001842	Endlessly Blasphemous
@@ -2826,8 +2826,8 @@ QUEST_LV_0200_20150317_002825	Go to the Priest Master
 QUEST_LV_0200_20150317_002826	The Priest Master manages this Sanctum so he must know how to purify it. It's going to be a long journey, but let's begin.
 QUEST_LV_0200_20150317_002827	Besiege the monsters that gathered around the sanctum
 QUEST_LV_0200_20150317_002828	The polluted altar of Sukurys Hills in Purple Tree Fault Forest was under the watch of Priest Master. Sprich mit Priest Master on the altar can be purified.
-QUEST_LV_0200_20150317_002829	Purification through Holy Water
-QUEST_LV_0200_20150317_002830	Priest Master laments for not being able to go himself. He gave you the Holy Water he made and asked you to purify the altar in Sukurys Hills. Go to Purple Tree Fault Forest and purify the polluted forest.
+QUEST_LV_0200_20150317_002829	Purification through Heilig Water
+QUEST_LV_0200_20150317_002830	Priest Master laments for not being able to go himself. He gave you the Heilig Water he made and asked you to purify the altar in Sukurys Hills. Go to Purple Tree Fault Forest and purify the polluted forest.
 QUEST_LV_0200_20150317_002831	Find the True Goddess Statue
 QUEST_LV_0200_20150317_002832	There is a Goddess Statue near the saint's grave. Find out which Goddess Statue in Purple Tree Fault Forest is real.
 QUEST_LV_0200_20150317_002833	Fake Goddess Statue
@@ -3032,12 +3032,12 @@ QUEST_LV_0200_20150317_003031	Solve the secret of Meile Oratorium
 QUEST_LV_0200_20150317_003032	Obtain the hint for the secret at the platform of Meile Oratorium. If it is hard to solve for the secret, call out the spirit of Aurelius and ask him.
 QUEST_LV_0200_20150317_003033	You found the divine artifact of the blessing. Sprich mit Bishop Aurelius.
 QUEST_LV_0200_20150317_003034	You found the divine artifact of the blessing. Sprich mit Bishop Aurelius what to do next.
-QUEST_LV_0200_20150317_003035	Look for the Holy Relic of Salvation
-QUEST_LV_0200_20150317_003036	Retrieve the Holy Relic of Salvation by defeating the demons. If you have trouble retrieving the relic, call out Bishop Aurelius and ask him.
+QUEST_LV_0200_20150317_003035	Look for the Heilig Relic of Salvation
+QUEST_LV_0200_20150317_003036	Retrieve the Heilig Relic of Salvation by defeating the demons. If you have trouble retrieving the relic, call out Bishop Aurelius and ask him.
 QUEST_LV_0200_20150317_003037	Main Chamber
-QUEST_LV_0200_20150317_003038	You retrieved the Holy Relic of Salvation. Sprich mit Bishop Aurelius.
+QUEST_LV_0200_20150317_003038	You retrieved the Heilig Relic of Salvation. Sprich mit Bishop Aurelius.
 QUEST_LV_0200_20150317_003039	Retrieve %s by defeating Loftlems
-QUEST_LV_0200_20150317_003040	Retrieve the Holy Relic of Salvation by defeating Loftlems
+QUEST_LV_0200_20150317_003040	Retrieve the Heilig Relic of Salvation by defeating Loftlems
 QUEST_LV_0200_20150317_003041	You found all divine artifacts. Sprich mit Aurelius to get the first key of Maven.
 QUEST_LV_0200_20150317_003042	Put the divine artifact into the altar of sanctuary
 QUEST_LV_0200_20150317_003043	Put the appropriate divine artifact into the altar of sanctuary to obtain the key. If you have a trouble finding the key, call Bishop Aurelius to get some help.
@@ -3906,7 +3906,7 @@ QUEST_LV_0200_20150323_003905	Naktis' curse isn't the only one in this world.{nl
 QUEST_LV_0200_20150323_003906	The documents that are normal must still be present in the deeper side of the Great Cathedral...{nl}I am so sad that I wasn't able to see those.
 QUEST_LV_0200_20150323_003907	I would say that was the wisdom of Maven.{nl}Maven thought that the Great Cathedral would not be normal all the time.{nl}
 QUEST_LV_0200_20150323_003908	So if we could just recharge the magical power, any kinds of magics will be okay.{nl}Even if that's a magical power from the demons.
-QUEST_LV_0200_20150323_003909	Go to Karuna Altar when you've recharged the Holy Symbol of Spiritual Power.{nl}The third key is waiting for you.
+QUEST_LV_0200_20150323_003909	Go to Karuna Altar when you've recharged the Heilig Symbol of Spiritual Power.{nl}The third key is waiting for you.
 QUEST_LV_0200_20150323_003910	If you think you are ready, I will show you the true nature of the curse.{nl}If you can't eliminate it at once, it will make a bigger trouble.
 QUEST_LV_0200_20150323_003911	Now all that's left is the Verification Test.{nl}The scripture that possesses my spirit, please open it in front of the altar of the revelation.
 QUEST_LV_0200_20150323_003912	The Scriptural Relics contained the words of the great bishops...{nl}I am so infuriated that they are placed now in the wake of filthy demons.
@@ -3922,10 +3922,10 @@ QUEST_LV_0200_20150323_003921	We will need a lot of solvent in order to make the
 QUEST_LV_0200_20150323_003922	But, there is still a way.{nl}If you could help me.
 QUEST_LV_0200_20150323_003923	I was confident in making reagents so I thought I would be successful.{nl}I think I overestimated myself.
 QUEST_LV_0200_20150323_003924	Thanks.{nl}The purity is a little lacking... but, if we refine it one more time, it will be useful.{nl}
-QUEST_LV_0200_20150323_003925	You are late. Maven's secret here is already being attacked.{nl}If we lose the Holy Symbol of Spiritual Power, we will never able to get the third key.
-QUEST_LV_0200_20150323_003926	I regret that I could not do anything.{nl}We should get the Holy Symbol of Spiritual Power fast.
-QUEST_LV_0200_20150323_003927	It is very fortunate that the Holy Symbol of Spiritual Power is alright. {nl}However, I can't seem to sense its magical power anymore, likely due to the long passage of time.
-QUEST_LV_0200_20150323_003928	Besiege the demons nearby using the Holy Symbol of Spiritual Power.{nl}This will collect the magical power that is needed to obtain the third key.
+QUEST_LV_0200_20150323_003925	You are late. Maven's secret here is already being attacked.{nl}If we lose the Heilig Symbol of Spiritual Power, we will never able to get the third key.
+QUEST_LV_0200_20150323_003926	I regret that I could not do anything.{nl}We should get the Heilig Symbol of Spiritual Power fast.
+QUEST_LV_0200_20150323_003927	It is very fortunate that the Heilig Symbol of Spiritual Power is alright. {nl}However, I can't seem to sense its magical power anymore, likely due to the long passage of time.
+QUEST_LV_0200_20150323_003928	Besiege the demons nearby using the Heilig Symbol of Spiritual Power.{nl}This will collect the magical power that is needed to obtain the third key.
 QUEST_LV_0200_20150323_003929	To remove Naktis' curse, I am making a reagent which resists against evil energy. {nl}But, it's hard to guarantee its effects right now.{nl}
 QUEST_LV_0200_20150323_003930	If you are okay, can you check the effects of the medicine?{nl}Ah, I don't mean to try it yourself. I am telling you to try on the demons.
 QUEST_LV_0200_20150323_003931	This reagent pulls out evil energy from the body.{nl}But, it could cause internal injuries.
@@ -4293,12 +4293,12 @@ QUEST_LV_0200_20150323_004292	The destroyer of Poslinkis Forest
 QUEST_LV_0200_20150323_004293	Lighting up the fire/FIRE/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0200_20150323_004294	Notice/Completed making the scripture to summon the spirit!/5
 QUEST_LV_0200_20150323_004295	I will look for the divine artifacts of the mercy
-QUEST_LV_0200_20150323_004296	Well Hidden Holy Relics
+QUEST_LV_0200_20150323_004296	Well Hidden Heilig Relics
 QUEST_LV_0200_20150323_004297	The Secret of the Machine
 QUEST_LV_0200_20150323_004298	I will solve the secret
-QUEST_LV_0200_20150323_004299	I will retrieve the Holy Symbol of Spiritual Power
+QUEST_LV_0200_20150323_004299	I will retrieve the Heilig Symbol of Spiritual Power
 QUEST_LV_0200_20150323_004300	Karuna Altar Key
-QUEST_LV_0200_20150323_004301	I will recharge the Holy Symbol of Spiritual Power
+QUEST_LV_0200_20150323_004301	I will recharge the Heilig Symbol of Spiritual Power
 QUEST_LV_0200_20150323_004302	Tell him that it doesn't make sense to recharge magical power using demons
 QUEST_LV_0200_20150323_004303	About the divine magical power and the demons
 QUEST_LV_0200_20150323_004304	Inserting the divine mark../#SITGROPESET2/2/TRACK_BEFORE/None
@@ -4777,8 +4777,8 @@ QUEST_LV_0200_20150323_004776	You've contributed enough monsters as sacrifices. 
 QUEST_LV_0200_20150323_004777	Monsters rushed in as you prayed in front of the Sanctum. You better defeat the monsters first.
 QUEST_LV_0200_20150323_004778	We should look for a way to purify the sanctum. Meet with the Priest Master, who is the manager of the sanctum.
 QUEST_LV_0200_20150323_004779	We should first purify the corrupted sanctum on Sukurys Hill. Sprich mit the Priest Master what to do.
-QUEST_LV_0200_20150323_004780	Purify the sanctum using Holy Water
-QUEST_LV_0200_20150323_004781	The Priest Master asked you to purify the sanctum on Sukurys Hill using the Holy Water. Return to the Forest of Prayer and purify the corrupted sanctum.
+QUEST_LV_0200_20150323_004780	Purify the sanctum using Heilig Water
+QUEST_LV_0200_20150323_004781	The Priest Master asked you to purify the sanctum on Sukurys Hill using the Heilig Water. Return to the Forest of Prayer and purify the corrupted sanctum.
 QUEST_LV_0200_20150323_004782	Pray in front of the Goddess Statue near the grave of the saint
 QUEST_LV_0200_20150323_004783	There is the Goddess Statue near the grave of the saint. Pray in front of the statue.
 QUEST_LV_0200_20150323_004784	This statue was a fake. Besiege Sparnashorn, who was disguised as a Goddess Statue.
@@ -4876,15 +4876,15 @@ QUEST_LV_0200_20150323_004875	Obtain Maven's Sekunde Key
 QUEST_LV_0200_20150323_004876	The secret is solved. Obtain Maven's Sekunde Key at the Platform of Benevolence
 QUEST_LV_0200_20150323_004877	Sprich mit Bishop Aurelius at Uola Chapel
 QUEST_LV_0200_20150323_004878	Pass through the Penitence Route at the upper side of the Grand Corridor and reenter into the Grand Corridor to meet Aurelius.
-QUEST_LV_0200_20150323_004879	Besiege the demons that are after the Holy Symbol of Spiritual Power
-QUEST_LV_0200_20150323_004880	Naktis' servants are trying to solve Maven's secret by obtaining the Holy Symbol of Spiritual Power. Besiege the demons and obtain the Symbol of Spiritual Power.
-QUEST_LV_0200_20150323_004881	Obtain the Holy Symbol of Spiritual Power
-QUEST_LV_0200_20150323_004882	You've defeated all the demons that are going after the Holy Symbol of Spiritual Power. Obtain the Holy Symbol of Spiritual Power.
-QUEST_LV_0200_20150323_004883	Fortunately, the Holy Symbol of Spiritual Power seems to be okay. Sprich mit Bishop Aurelius again.
-QUEST_LV_0200_20150323_004884	Recharge the Holy Symbol of Spiritual Power
-QUEST_LV_0200_20150323_004885	Recharge the Holy Symbol of Spiritual Power by deploying it and defeating monsters nearby. If you have difficulty recharging the symbol, get help from Bishop Aurelius.
+QUEST_LV_0200_20150323_004879	Besiege the demons that are after the Heilig Symbol of Spiritual Power
+QUEST_LV_0200_20150323_004880	Naktis' servants are trying to solve Maven's secret by obtaining the Heilig Symbol of Spiritual Power. Besiege the demons and obtain the Symbol of Spiritual Power.
+QUEST_LV_0200_20150323_004881	Obtain the Heilig Symbol of Spiritual Power
+QUEST_LV_0200_20150323_004882	You've defeated all the demons that are going after the Heilig Symbol of Spiritual Power. Obtain the Heilig Symbol of Spiritual Power.
+QUEST_LV_0200_20150323_004883	Fortunately, the Heilig Symbol of Spiritual Power seems to be okay. Sprich mit Bishop Aurelius again.
+QUEST_LV_0200_20150323_004884	Recharge the Heilig Symbol of Spiritual Power
+QUEST_LV_0200_20150323_004885	Recharge the Heilig Symbol of Spiritual Power by deploying it and defeating monsters nearby. If you have difficulty recharging the symbol, get help from Bishop Aurelius.
 QUEST_LV_0200_20150323_004886	Obtain Maven's Third Key at Karuna Altar
-QUEST_LV_0200_20150323_004887	Obtain Maven's Third Key using the Holy Symbol of Spiritual Power at Karuna Altar.
+QUEST_LV_0200_20150323_004887	Obtain Maven's Third Key using the Heilig Symbol of Spiritual Power at Karuna Altar.
 QUEST_LV_0200_20150323_004888	Sprich mit Priest Ruodell
 QUEST_LV_0200_20150323_004889	Priest Ruodell needs your help. Sprich mit Priest Ruodell.
 QUEST_LV_0200_20150323_004890	Look for documents that are related to Naktis
@@ -6237,7 +6237,7 @@ QUEST_LV_0200_20150406_006240	I can only assume that the monsters were drawn to 
 QUEST_LV_0200_20150406_006241	It's a monster called Kirmeleech. {nl}Don't forget to remove the magic circle after defeating the monster.
 QUEST_LV_0200_20150406_006242	It's been a while since we've offered prayers because of Kirmeleech. {nl}What if the goddess is angry?
 QUEST_LV_0200_20150406_006243	Good job.{nl}Now we can pray to Goddess Zemyna again.
-QUEST_LV_0200_20150406_006244	The magic circle at Fallow Ground has protective barriers so it's difficult to destroy it right away. {nl}I will give you some Magic Stones of Blessing. Try using these to destroy it.
+QUEST_LV_0200_20150406_006244	The magic circle at Fallow Ground has protective barriers so it's difficult to destroy it right away. {nl}I will give you some Magie Stones of Blessing. Try using these to destroy it.
 QUEST_LV_0200_20150406_006245	I used to take priest lessons before Medzio Diena. {nl}I'm here now because I like farming more.
 QUEST_LV_0200_20150406_006246	You will get hurt if you go near the magic circle rashly. {nl}Be sure to destroy the magic circle using magic stone of blessings.
 QUEST_LV_0200_20150406_006247	You did it! {nl}Now this farm is back to looking the way it should.
@@ -6337,7 +6337,7 @@ QUEST_LV_0200_20150406_006340	Notice/!/Some strange essence came out from the ma
 QUEST_LV_0200_20150406_006341	Notice/!/You should collect the magical power of the monsters into the bottles and bury each of them at each end of the magic circle.#5
 QUEST_LV_0200_20150406_006342	I will protect the storage
 QUEST_LV_0200_20150406_006343	About the relationship between the power generator and the grains
-QUEST_LV_0200_20150406_006344	Forgotten Magic Circle (1)
+QUEST_LV_0200_20150406_006344	Forgotten Magie Circle (1)
 QUEST_LV_0200_20150406_006345	Notice/!/Return to Rimas and report him about the magic circle.#5
 QUEST_LV_0200_20150406_006346	Sprinkling murky purifying liquid/STANDSPINKLE/1/TRACK_BEFORE/None
 QUEST_LV_0200_20150406_006347	Notice/!/The magic circle wants the monsters strongly!#5
@@ -6592,7 +6592,7 @@ QUEST_LV_0200_20150414_006595	Can you keep this a secret from the others?{nl} 'C
 QUEST_LV_0200_20150414_006596	Never listen to anything the baron says.{nl} He's just a greedy old man.
 QUEST_LV_0200_20150414_006597	Come... Come on! Give it!
 QUEST_LV_0200_20150414_006598	Do not bother the placed food piles.{nl} They should have shuffled over here by now... just keep watching.
-QUEST_LV_0200_20150414_006599	My son stole from a pile of food that was mixed with Holy Water.{nl}Over time, all of the curse's energy within him should be released.
+QUEST_LV_0200_20150414_006599	My son stole from a pile of food that was mixed with Heilig Water.{nl}Over time, all of the curse's energy within him should be released.
 QUEST_LV_0200_20150414_006600	Strangely, we always lack manpower. {nl}Of course, the laziness of the workers here adds to it. {nl}
 QUEST_LV_0200_20150414_006601	But if the crystal isn't present, it means there is a problem. {nl}You just have to gather the power of monsters with this pot and then bury it near the spell circle.
 QUEST_LV_0200_20150414_006602	This is Baron Allerno's farm. {nl}The baron is trying to purify the farm so don't bug him.
@@ -6614,7 +6614,7 @@ QUEST_LV_0200_20150414_006617	We were able to be fully prepared with your help. 
 QUEST_LV_0200_20150414_006618	Strangely, I feel sluggish and tired.. {nl}How about you? Are you okay?
 QUEST_LV_0200_20150414_006619	The magic circles have to power up for the spell power source to work properly. {nl}Only then will the portal.. I mean the purification will take place.
 QUEST_LV_0200_20150414_006620	Oh this.. Hold on.
-QUEST_LV_0200_20150414_006621	We have to take care of it before it falls into Naktis' hands. {nl}Please get back the Holy Relic of Salvation from the demons.
+QUEST_LV_0200_20150414_006621	We have to take care of it before it falls into Naktis' hands. {nl}Please get back the Heilig Relic of Salvation from the demons.
 QUEST_LV_0200_20150414_006622	But that wasn't easy because of the dimensional crack. {nl}The demons keep crossing over through the dimensional crack.
 QUEST_LV_0200_20150414_006623	Zydrone is keeping Blut by all means. {nl}But we don't know how long it will hold with our powers alone.
 QUEST_LV_0200_20150414_006624	We have to weaken the Blut's influence. {nl}Please get the Mark of Blut from Blut's aids in Viejauler Basecamp.
@@ -6916,11 +6916,11 @@ QUEST_LV_0200_20150428_006919	A monster in disguise as Goddess Statue. I pity th
 QUEST_LV_0200_20150428_006920	They made the tower such a mess. This is unforgivable.
 QUEST_LV_0200_20150428_006921	You better be careful. {nl}Why do you fathom the wizards once loyal here ran away?
 QUEST_LV_0200_20150428_006922	We can help Goddess Gabija if we have the Jewel of Prominence.
-QUEST_LV_0200_20150428_006923	With the Transport Magic Circles destroyed, we'll have to go floor by floor.
+QUEST_LV_0200_20150428_006923	With the Transport Magie Circles destroyed, we'll have to go floor by floor.
 QUEST_LV_0200_20150428_006924	I think I can remember something... But first, it's important to go to the goddess.
 QUEST_LV_0200_20150428_006925	Uhg, my head aches... {nl}Maybe it's because of Antares...
 QUEST_LV_0200_20150428_006926	We can only assume that the monsters were drawn to the magic circle. {nl}The magic circle is pressing down the divine power of the altar.. something like that.
-QUEST_LV_0200_20150428_006927	Rashly approaching the magic circle will only hurt you. {nl}Be sure to destroy the magic circle using the Magic Stone of Blessings.
+QUEST_LV_0200_20150428_006927	Rashly approaching the magic circle will only hurt you. {nl}Be sure to destroy the magic circle using the Magie Stone of Blessings.
 QUEST_LV_0200_20150428_006928	Have you seen the sacks of grain the monsters stole from me? {nl}Please get me back my sacks of grain. I have to pay the farm rent.
 QUEST_LV_0200_20150428_006929	{nl}If that doesn't happen, we have no choice but to stand up againt the plundering body. {nl}Moreover, the plundering process destroys the authority of the goddess and if the objective of plunder is human's greed over something, then it is something to be angry about.
 QUEST_LV_0200_20150428_006930	So the Chapparition was behind the curse. {nl}Naktis' curse alone was more than enough already. That's a relief. {nl}
@@ -6998,7 +6998,7 @@ QUEST_LV_0200_20150428_007001	Nuaele is gone from Demon Prison and to stabilize 
 QUEST_LV_0200_20150428_007002	There are demon monsters left in 4th Isolation Area that are still following Nuaele's orders because of her fragments. Kupole Arune asked you to defeat those monsters and retrieve the fragments.
 QUEST_LV_0200_20150511_007003	Kateen Forest Entrance is relatively safe but don't think of going in any further.
 QUEST_LV_0200_20150511_007004	The baron is trying his best to purify this farm. {nl}The workers sometimes say weird stuff but don't mind them.
-QUEST_LV_0200_20150511_007005	It would be best if I went myself, but I'm in no position to leave my place now. {nl}Please purify the sanctum using this Holy Water for now. {nl}
+QUEST_LV_0200_20150511_007005	It would be best if I went myself, but I'm in no position to leave my place now. {nl}Please purify the sanctum using this Heilig Water for now. {nl}
 QUEST_LV_0200_20150511_007006	I want to see my son healthy soon. {nl}It's a pain waiting for him to spit out the energy of the evil curse.
 QUEST_LV_0200_20150511_007007	It's all the same for farmers and soldiers. {nl}One side works and the other manages it.
 QUEST_LV_0200_20150511_007008	The power source needs nature's strength,{nl}and what would be the most suitable for that at the moment?{nl}The crops that fill the warehouse.
@@ -7035,7 +7035,7 @@ QUEST_LV_0200_20150511_007038	If they're not after the honey, then there's only 
 QUEST_LV_0200_20150511_007039	The Tree Root Crystal reacted strangely and corrupted its surroundings! First, defeat the monsters nearby and find the scattered Tree Root Crystal Cores.
 QUEST_LV_0200_20150511_007040	Monsters came out when you worshiped at the sanctum. Besiege the monsters first.
 QUEST_LV_0200_20150511_007041	Royal Survey Corps Ukert seems to have sensed something. Sprich mit Ukert again.
-QUEST_LV_0200_20150511_007042	Get the secret hint from the platform in Meile Oratorium and obtain the Holy Relic of Mercy. If you have difficulty solving the secret, call on Aurelius' Spirit and ask him for help.
+QUEST_LV_0200_20150511_007042	Get the secret hint from the platform in Meile Oratorium and obtain the Heilig Relic of Mercy. If you have difficulty solving the secret, call on Aurelius' Spirit and ask him for help.
 QUEST_LV_0200_20150511_007043	It's curious that a wine cask is lying off the beaten path. Go and take a look at it.
 QUEST_LV_0200_20150511_007044	Joana wants to find out what the strange aura near Ramus Crossroads is. Attack the monster to drop its HP below 50%, then bring it to the strange aura below the magic circle and interact with it.
 QUEST_LV_0200_20150511_007045	Goddess Vakarine's strength alone is not enough to close the dimensional crack. Sprich mit Goddess Vakarine.
@@ -7437,7 +7437,7 @@ QUEST_LV_0200_20150714_007440	I want to talk to Raius again.{nl}But, I guess I s
 QUEST_LV_0200_20150714_007441	I just hope the monsters stay calm.{nl}Maybe I am expecting too much...
 QUEST_LV_0200_20150714_007442	The blessings of the goddesses has not reached at this city.{nl}Only the monsters and the criminals are full in this city.
 QUEST_LV_0200_20150714_007443	Please report to us when you see monsters.{nl}Especially, when they are grouped together or make a mess.
-QUEST_LV_0200_20150714_007444	I've written down what to do at the memo.{nl}First, find the Magic Edelstein Fusion Device at Underground Grave of Ritinis.
+QUEST_LV_0200_20150714_007444	I've written down what to do at the memo.{nl}First, find the Magie Edelstein Fusion Device at Underground Grave of Ritinis.
 QUEST_LV_0200_20150714_007445	Long time ago, I had serviced as a guard in the army like those guys.{nl}I was a junior officer who wanted become a strategist. At least before Medzio Diena.
 QUEST_LV_0200_20150714_007446	If you find any suspicious individual who is not part of the {nl}Royal Army or the Knight of Kaliss, please report to us.{nl}Especially if they look like graverobbers.
 QUEST_LV_0200_20150714_007447	Please do not touch anything. Just stay calm.
@@ -7492,23 +7492,23 @@ QUEST_LV_0200_20150714_007495	Okay. With these Eyes of Truth, we will find the S
 QUEST_LV_0200_20150714_007496	Shadowgaler in the Room of Lamentation has the Seelenkristall, but you can't attack it with an usual method.{nl}It has an astral body so it is invisible.{nl}However, with the Eyes of Truth, you would be able to see it.
 QUEST_LV_0200_20150714_007497	I didn't know why the master left such words since he doesn't know which person I would ask to get rid of the remains of the research.{nl}But, now I understand why he left such words since I've met you.
 QUEST_LV_0200_20150714_007498	The remains of the research can be found using the documents which Raius desperately wanted to have.{nl}
-QUEST_LV_0200_20150714_007499	Please take the Wisdom Guiding Stone and the Seelenkristall with you and look for the Magic Edelstein Fusion Device in the Underground Grave of Ritinis.{nl}I will write down the method for you.
+QUEST_LV_0200_20150714_007499	Please take the Wisdom Guiding Stone and the Seelenkristall with you and look for the Magie Edelstein Fusion Device in the Underground Grave of Ritinis.{nl}I will write down the method for you.
 QUEST_LV_0200_20150714_007500	You've come late. {nl}Did you get the documents of the master from Hones?
 QUEST_LV_0200_20150714_007501	I had a misunderstanding...{nl}But I wanted be acknowledged by the master like Hones.{nl}
 QUEST_LV_0200_20150714_007502	The master always complimented me, but I felt uncomfortable whenever I thought about Hones.{nl}Although, he passed away already... It is good to find out what the master had in his mind.{nl}
 QUEST_LV_0200_20150714_007503	I feel comfortable now. {nl}I want to talk to Hones.
 QUEST_LV_0200_20150714_007504	Very good. You've found the remains of the master's research.{nl}I will let you dispose of them. It is more important for me to continue the will of the master.{nl}
 QUEST_LV_0200_20150714_007505	I feel disappointed a bit, but I also feel comfortable in a way.{nl}Well... Raius... I hope he would be alright.
-QUEST_LV_0200_20150714_007506	Magic Edelstein Fusion Device
-QUEST_LV_0200_20150714_007507	Please gather all Spatial Magic Gems.{nl}It is hard to understand the hidden rules of space, but my knowledge would help you.
+QUEST_LV_0200_20150714_007506	Magie Edelstein Fusion Device
+QUEST_LV_0200_20150714_007507	Please gather all Spatial Magie Gems.{nl}It is hard to understand the hidden rules of space, but my knowledge would help you.
 QUEST_LV_0200_20150714_007508	My master, who was a Sorcerer, researched on the goddesses.{nl}It was about some special kind of space. He said a vast amount of knowledge can be obtained from that space.
 QUEST_LV_0200_20150714_007509	Hones' Regular Memo
-QUEST_LV_0200_20150714_007510	The Spatial Magic Edelstein of Contract is in the reception room, but it was destroyed recently.{nl}The monsters must have fragments of the gem.
-QUEST_LV_0200_20150714_007511	When you collect all fragments of the Magic Edelstein, please go to the Forgotten Priest's Grave. {nl}You can restore the Magic Edelstein at the Magic Field of Preservation.
+QUEST_LV_0200_20150714_007510	The Spatial Magie Edelstein of Contract is in the reception room, but it was destroyed recently.{nl}The monsters must have fragments of the gem.
+QUEST_LV_0200_20150714_007511	When you collect all fragments of the Magie Edelstein, please go to the Forgotten Priest's Grave. {nl}You can restore the Magie Edelstein at the Magie Field of Preservation.
 QUEST_LV_0200_20150714_007512	Hones' Regular Memo
-QUEST_LV_0200_20150714_007513	You will find the Spatial Magic Edelstein of Promise at Siaura Mine.{nl}Please use the Seelenkristall to the monsters and collect the Kondensierter Spite.{nl}
-QUEST_LV_0200_20150714_007514	With that, destroy the Barrier Stone at Siaura Mine.{nl}The Black Chaser will pursue you from behind, but you would be able to find the Spatial Magic Edelstein of Promise when you reach the end of the mine.
-QUEST_LV_0200_20150714_007515	Templeshooter at the Shrine of Remembrance holds the Spatial Magic Edelstein of Offer.{nl}The Wisdom Guiding Stone will help you to find the hidden Templeshooter.
+QUEST_LV_0200_20150714_007513	You will find the Spatial Magie Edelstein of Promise at Siaura Mine.{nl}Please use the Seelenkristall to the monsters and collect the Kondensierter Spite.{nl}
+QUEST_LV_0200_20150714_007514	With that, destroy the Barrier Stone at Siaura Mine.{nl}The Black Chaser will pursue you from behind, but you would be able to find the Spatial Magie Edelstein of Promise when you reach the end of the mine.
+QUEST_LV_0200_20150714_007515	Templeshooter at the Shrine of Remembrance holds the Spatial Magie Edelstein of Offer.{nl}The Wisdom Guiding Stone will help you to find the hidden Templeshooter.
 QUEST_LV_0200_20150714_007516	Please... save us.{nl}I will soon disappear, but please save the others.{nl}Please save us... them... from the vicious demons.
 QUEST_LV_0200_20150714_007517	Kupole Vita
 QUEST_LV_0200_20150714_007518	Given that you saw it too,{nl} I'm certain there is something here.{nl}
@@ -7840,7 +7840,7 @@ QUEST_LV_0200_20150714_007843	We ended up like this while moving fast to save th
 QUEST_LV_0200_20150714_007844	The old body of me can't endure as I unlocked two barriers consecutively.{nl}Shall we go to Prayer Room now?
 QUEST_LV_0200_20150714_007845	It is so fortunate to see you are okay. {nl}Now, we should move the abbot out.
 QUEST_LV_0200_20150714_007846	We barely saved the abbot.{nl}Thanks for your efforts.
-QUEST_LV_0200_20150714_007847	The oratory can only be opened through the orb by Holy Power.{nl}Moheim is responsible of caring for the orb. I reckon he's somewhere near the palor.
+QUEST_LV_0200_20150714_007847	The oratory can only be opened through the orb by Heilig Power.{nl}Moheim is responsible of caring for the orb. I reckon he's somewhere near the palor.
 QUEST_LV_0200_20150714_007848	It is impossible to open the oratory without the orb unless someone opens it from the inside.{nl}There is no way for the director to know about this fuss outside either.
 QUEST_LV_0200_20150714_007849	Are you talking about the crystal sphere?{nl}I can't move it out at all so I hid it inside the monastery.
 QUEST_LV_0200_20150714_007850	It's so good to recover the monastery, but when are we going to finish cleaning it...
@@ -8003,19 +8003,19 @@ QUEST_LV_0200_20150714_008006	Mind of Disciple Laius
 QUEST_LV_0200_20150714_008007	Tell him what has happened so far
 QUEST_LV_0200_20150714_008008	Don't answer
 QUEST_LV_0200_20150714_008009	Talking about what happened in the meantime/TALK/3/TRACK_BEFORE/None
-QUEST_LV_0200_20150714_008010	The Spatial Magic Edelstein of Contract (1)
-QUEST_LV_0200_20150714_008011	The Spatial Magic Edelstein of Contract (2)
+QUEST_LV_0200_20150714_008010	The Spatial Magie Edelstein of Contract (1)
+QUEST_LV_0200_20150714_008011	The Spatial Magie Edelstein of Contract (2)
 QUEST_LV_0200_20150714_008012	Enshrining/MAKING/2/TRACK_BEFORE/None
-QUEST_LV_0200_20150714_008013	Infusing Spatial Magic Stone/ABSORB/2/TRACK_BEFORE/NONE
-QUEST_LV_0200_20150714_008014	The Spatial Magic Edelstein of Promise (1)
-QUEST_LV_0200_20150714_008015	The Spatial Magic Edelstein of Promise (2)
+QUEST_LV_0200_20150714_008013	Infusing Spatial Magie Stone/ABSORB/2/TRACK_BEFORE/NONE
+QUEST_LV_0200_20150714_008014	The Spatial Magie Edelstein of Promise (1)
+QUEST_LV_0200_20150714_008015	The Spatial Magie Edelstein of Promise (2)
 QUEST_LV_0200_20150714_008016	Destroying/ABSORB/2/TRACK_BEFORE/None
-QUEST_LV_0200_20150714_008017	The Spatial Magic Edelstein of Sacrifice (1)
-QUEST_LV_0200_20150714_008018	The Spatial Magic Edelstein of Sacrifice (2)
-QUEST_LV_0200_20150714_008019	Completed Spatial Magic Edelstein
-QUEST_LV_0200_20150714_008020	Fusing Spatial Magic Stone/MAKING/3/TRACK_BEFORE/None
+QUEST_LV_0200_20150714_008017	The Spatial Magie Edelstein of Sacrifice (1)
+QUEST_LV_0200_20150714_008018	The Spatial Magie Edelstein of Sacrifice (2)
+QUEST_LV_0200_20150714_008019	Completed Spatial Magie Edelstein
+QUEST_LV_0200_20150714_008020	Fusing Spatial Magie Stone/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0200_20150714_008021	Master's Hidden Space
-QUEST_LV_0200_20150714_008022	Using Spatial Magic Stone/MAKING/3/TRACK_BEFORE/None
+QUEST_LV_0200_20150714_008022	Using Spatial Magie Stone/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0200_20150714_008023	Object Left by the Master
 QUEST_LV_0200_20150714_008024	Checking inheritance/READ/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150714_008025	Passing Words (1)
@@ -8355,38 +8355,38 @@ QUEST_LV_0200_20150714_008358	Obtain the Seelenkristall by defeating Shadowgaler
 QUEST_LV_0200_20150714_008359	Disciple Hones claims that it is in the possession of mentor Shadowgaler.
 QUEST_LV_0200_20150714_008360	You've obtained the Seelenkristall. Return to Disciple Hones and listen to what he has to say.
 QUEST_LV_0200_20150714_008361	Tell him about what you heard from Hones and the diary of the master.
-QUEST_LV_0200_20150714_008362	Spatial Magic Edelstein of Contract
-QUEST_LV_0200_20150714_008363	Examine the Magic Edelstein Fusion Device
-QUEST_LV_0200_20150714_008364	According to the memo of Disciple Hones, you should combine three Spatial Magic Edelstein into the Magic Edelstein Fusion Device.{nl}Examine the Magic Edelstein Fusion Device.
-QUEST_LV_0200_20150714_008365	Retrieve the fragments of The Spatial Magic Edelstein of Contract
-QUEST_LV_0200_20150714_008366	Hones' Memo : The Spatial Magic Edelstein of Contract is in the reception room, but I heard it recently broke. The monsters probably have those fragments.
+QUEST_LV_0200_20150714_008362	Spatial Magie Edelstein of Contract
+QUEST_LV_0200_20150714_008363	Examine the Magie Edelstein Fusion Device
+QUEST_LV_0200_20150714_008364	According to the memo of Disciple Hones, you should combine three Spatial Magie Edelstein into the Magie Edelstein Fusion Device.{nl}Examine the Magie Edelstein Fusion Device.
+QUEST_LV_0200_20150714_008365	Retrieve the fragments of The Spatial Magie Edelstein of Contract
+QUEST_LV_0200_20150714_008366	Hones' Memo : The Spatial Magie Edelstein of Contract is in the reception room, but I heard it recently broke. The monsters probably have those fragments.
 QUEST_LV_0200_20150714_008367	Retrieve %s from the Reception Room
-QUEST_LV_0200_20150714_008368	Activate the Magic Field of Preservation at the Shrine of Remembrance
-QUEST_LV_0200_20150714_008369	Hones' Memo : Go to the Forgotten Priest's Grave if you retrieved all of the Magic Edelstein of Contract fragments. You will be able to restore the Edelstein at the Magic Field of Preservation.
-QUEST_LV_0200_20150714_008370	Protect the Magic Field of Preservation
-QUEST_LV_0200_20150714_008371	Insert the Spatial Magic Edelstein into the Magic Edelstein Fusion Device
+QUEST_LV_0200_20150714_008368	Activate the Magie Field of Preservation at the Shrine of Remembrance
+QUEST_LV_0200_20150714_008369	Hones' Memo : Go to the Forgotten Priest's Grave if you retrieved all of the Magie Edelstein of Contract fragments. You will be able to restore the Edelstein at the Magie Field of Preservation.
+QUEST_LV_0200_20150714_008370	Protect the Magie Field of Preservation
+QUEST_LV_0200_20150714_008371	Insert the Spatial Magie Edelstein into the Magie Edelstein Fusion Device
 QUEST_LV_0200_20150714_008372	Hones' Memo : If you find the spatial magic gem, go back to the fusion device. When you insert all magic gems, the way to find the research of the master will be opened.
 QUEST_LV_0200_20150714_008373	Restore %s
-QUEST_LV_0200_20150714_008374	Spatial Magic Edelstein of Promise
+QUEST_LV_0200_20150714_008374	Spatial Magie Edelstein of Promise
 QUEST_LV_0200_20150714_008375	Collect the Kondensierter Spite
-QUEST_LV_0200_20150714_008376	Hones' Memo : The Spatial Magic Edelstein of Promise can be found in the Siaura Mine. First, use the Seelenkristall on the monsters and collect the Kondensierter Spite.
+QUEST_LV_0200_20150714_008376	Hones' Memo : The Spatial Magie Edelstein of Promise can be found in the Siaura Mine. First, use the Seelenkristall on the monsters and collect the Kondensierter Spite.
 QUEST_LV_0200_20150714_008377	Destroy the Barrier Stone at Siaura Mine
-QUEST_LV_0200_20150714_008378	Hones' Memo : Destroy the barrier stone at Siaura Mine with the Kondensierter Spite. The Black Chaser will start pursuing you from behind, avoid it and go to the end of the mine. You will be able to find the Spatial Magic Edelstein of Promise there.
+QUEST_LV_0200_20150714_008378	Hones' Memo : Destroy the barrier stone at Siaura Mine with the Kondensierter Spite. The Black Chaser will start pursuing you from behind, avoid it and go to the end of the mine. You will be able to find the Spatial Magie Edelstein of Promise there.
 QUEST_LV_0200_20150714_008379	Destroy the Barrier Stone
-QUEST_LV_0200_20150714_008380	The protective layer that was protecting the Barrier Stone has disappeared. Destroy the Barrier Stone and obtain the Sealed Spatial Magic Edelstein.
-QUEST_LV_0200_20150714_008381	Retrieve the Sealed Spatial Magic Edelstein by avoiding the Black Chaser
-QUEST_LV_0200_20150714_008382	Spatial Magic Edelstein of Offer
+QUEST_LV_0200_20150714_008380	The protective layer that was protecting the Barrier Stone has disappeared. Destroy the Barrier Stone and obtain the Sealed Spatial Magie Edelstein.
+QUEST_LV_0200_20150714_008381	Retrieve the Sealed Spatial Magie Edelstein by avoiding the Black Chaser
+QUEST_LV_0200_20150714_008382	Spatial Magie Edelstein of Offer
 QUEST_LV_0200_20150714_008383	Find Templeshooter at the Shrine of Remembrance
-QUEST_LV_0200_20150714_008384	Hones' Memo : Templeshooter at the Shrine of Remembrance must be holding the Spatial Magic Edelstein of Offer. The Wisdom Guiding Stone should help you in searching for the Templeshooter.
+QUEST_LV_0200_20150714_008384	Hones' Memo : Templeshooter at the Shrine of Remembrance must be holding the Spatial Magie Edelstein of Offer. The Wisdom Guiding Stone should help you in searching for the Templeshooter.
 QUEST_LV_0200_20150714_008385	Find Templeshooter using the Wisdom Guiding Stone
 QUEST_LV_0200_20150714_008386	Check the Black Shadow
 QUEST_LV_0200_20150714_008387	It seems that the Wisdom Guiding Stone found the location of Templeshooter. Find the black shadow and examine it.
-QUEST_LV_0200_20150714_008388	Activate the Magic Edelstein Fusion Device
-QUEST_LV_0200_20150714_008389	You've collected all Spatial Magic Gems. Activate the Magic Edelstein Fusion Device and make the Completed Spatial Magic Edelstein.
-QUEST_LV_0200_20150714_008390	Hones' Memo : When you find all three Spatial Magic Gems, go back to the fusion device. When you insert all Magic Gems, the way to find the research of the master will be opened at Laudi Tower.
+QUEST_LV_0200_20150714_008388	Activate the Magie Edelstein Fusion Device
+QUEST_LV_0200_20150714_008389	You've collected all Spatial Magie Gems. Activate the Magie Edelstein Fusion Device and make the Completed Spatial Magie Edelstein.
+QUEST_LV_0200_20150714_008390	Hones' Memo : When you find all three Spatial Magie Gems, go back to the fusion device. When you insert all Magie Gems, the way to find the research of the master will be opened at Laudi Tower.
 QUEST_LV_0200_20150714_008391	Activate the teleportation device to Laudi Tower
-QUEST_LV_0200_20150714_008392	Use the completed Spatial Magic Gems at the teleportation device
-QUEST_LV_0200_20150714_008393	Move to the hidden area by inserting the Completed Spatial Magic Edelstein in the fusion device.
+QUEST_LV_0200_20150714_008392	Use the completed Spatial Magie Gems at the teleportation device
+QUEST_LV_0200_20150714_008393	Move to the hidden area by inserting the Completed Spatial Magie Edelstein in the fusion device.
 QUEST_LV_0200_20150714_008394	Examine the Master's Legacy
 QUEST_LV_0200_20150714_008395	You have found the location of the place where the inheritance of the master are hidden. Examine the inheritance of the master.
 QUEST_LV_0200_20150714_008396	You have obtained the inheritance of the master. Tell Disciple Hones about what have happened until now.
@@ -8755,11 +8755,11 @@ QUEST_LV_0200_20150717_008758	Okay, go to the fifth floor.{nl}Please pass the Je
 QUEST_LV_0200_20150717_008759	This cannot be done without me.{nl}I will somehow manage to hold the tower up, so please pass the Jewel of Prominence to Gabija!
 QUEST_LV_0200_20150717_008760	What was that vibration?{nl}Could it be...
 QUEST_LV_0200_20150717_008761	It's the vibration again!{nl}Antares... Now I know. When he exploded, the magic of the tower was disrupted.{nl}
-QUEST_LV_0200_20150717_008762	The tower will collapse if we leave it like this.{nl}Let's quickly go to the Magic Control Room!
+QUEST_LV_0200_20150717_008762	The tower will collapse if we leave it like this.{nl}Let's quickly go to the Magie Control Room!
 QUEST_LV_0200_20150717_008763	We should be careful from here.{nl}This floor used to be where Antares' laboratory was located.
 QUEST_LV_0200_20150717_008764	I feel uneasy.{nl}Maybe, Antares has been released by the attacks of the demons...
 QUEST_LV_0200_20150717_008765	I will do the work until Gabija retrieves her power.{nl}Go quickly!{nl}
-QUEST_LV_0200_20150717_008766	We have no choice.{nl}We should give up on the Transport Magic Circles, and instead destroy the monsters that are rushing in.
+QUEST_LV_0200_20150717_008766	We have no choice.{nl}We should give up on the Transport Magie Circles, and instead destroy the monsters that are rushing in.
 QUEST_LV_0200_20150717_008767	Well done.{nl}However, this jewel is just an empty shell.{nl}You can complete it by empowering it with various materials.
 QUEST_LV_0200_20150717_008768	Lastly, we need to collect Flame Sources.{nl}You can obtain them from the monsters that possess the power of fire.
 QUEST_LV_0200_20150717_008769	I can feel a strange energy.{nl}It seems that the status of the Jewel of Prominence is not normal.
@@ -8807,12 +8807,12 @@ QUEST_LV_0200_20150717_008810	It seems that the magician Antares is loose. Besie
 QUEST_LV_0200_20150717_008811	Sprich mit Grita at Mage Tower 4F
 QUEST_LV_0200_20150717_008812	Besiege monsters and watch the state of the Jewel of Prominence.
 QUEST_LV_0200_20150717_008813	The Jewel of Prominence's status is unusual. Sprich mit Grita again.
-QUEST_LV_0200_20150717_008814	Activate the Magic Stabilizer
+QUEST_LV_0200_20150717_008814	Activate the Magie Stabilizer
 QUEST_LV_0200_20150717_008815	You stabilized the Jewel of Prominence using the stabilizer but the Jewel is still emitting an unusual aura. Ask Grita what to do about it.
-QUEST_LV_0200_20150717_008816	Find the Magic Control Room
-QUEST_LV_0200_20150717_008817	The Jewel of Prominence is stabilized but the explosion at the 3rd Floor has made the Mage Tower unstable. Go to the Magic Control Room to control the disrupted magic of the Tower.
+QUEST_LV_0200_20150717_008816	Find the Magie Control Room
+QUEST_LV_0200_20150717_008817	The Jewel of Prominence is stabilized but the explosion at the 3rd Floor has made the Mage Tower unstable. Go to the Magie Control Room to control the disrupted magic of the Tower.
 QUEST_LV_0200_20150717_008818	Protect Grita while she is stabilizing the magic.
-QUEST_LV_0200_20150717_008819	Grita said we have to go to the Magic Control Room. Protect Grita while she stabilizes the magic.
+QUEST_LV_0200_20150717_008819	Grita said we have to go to the Magie Control Room. Protect Grita while she stabilizes the magic.
 QUEST_LV_0200_20150717_008820	You defeated all the monsters, but the Tower is still shaking. Ask Grita what to do next.
 QUEST_LV_0200_20150717_008821	Defeated all the monsters that threatened Grita. Ask Grita what to do next.
 QUEST_LV_0200_20150717_008822	Go to Mage Tower 5F
@@ -8838,8 +8838,8 @@ QUEST_LV_0200_20150717_008841	Besiege Arma that mocked the Sealed Stone
 QUEST_LV_0200_20150717_008842	The Sealed Stone asked you to defeat the Arma that mocked it. Besiege Arma for the Stone.
 QUEST_LV_0200_20150717_008843	Defeated Arma that mocked the Stone. Bericht an den Stone.
 QUEST_LV_0200_20150717_008844	Disciple Hones says that Shadowgaler has the Seelenkristall which is the key to finding the teacher's legacy. Use the Eye of Truth to find Shadowgaler and defeat it.
-QUEST_LV_0200_20150717_008845	Hones' Memo : Go to the Shrine of Remembrance if you've collected all the Magic Stone of Contract fragments. You can restore the Magic Stone in the preservation magic tile.
-QUEST_LV_0200_20150717_008846	Jane's spirit and Archon will be freed when you stop the Magic Stone of Interaction. You can weaken the Archon by using the seal that supress the Spell power on the Archon.
+QUEST_LV_0200_20150717_008845	Hones' Memo : Go to the Shrine of Remembrance if you've collected all the Magie Stone of Contract fragments. You can restore the Magie Stone in the preservation magic tile.
+QUEST_LV_0200_20150717_008846	Jane's spirit and Archon will be freed when you stop the Magie Stone of Interaction. You can weaken the Archon by using the seal that supress the Spell power on the Archon.
 QUEST_LV_0200_20150717_008847	You need to restore the weathered tombstone. Throw the red poison bottle to the monster to get Sticky Acid Fluid and get the diluent from the Gegenstand Merchant in Fedimian.
 QUEST_LV_0200_20150717_008848	Use the food boxes the Blacksmith gave you to lure Infrogalas Mages that you can defeat for sticky resin. {nl}You can also directly hunt for Infrogalas Mages in Viltis Forest.
 QUEST_LV_0200_20150717_008849	Go to the next area
@@ -8880,8 +8880,8 @@ QUEST_LV_0200_20150729_008883	Cordelier wants Black Coal Powder. Get it from Phy
 QUEST_LV_0200_20150729_008884	Besiege Phyracon and get %s
 QUEST_LV_0200_20150729_008885	Collect Eternal Embers from Drakes
 QUEST_LV_0200_20150729_008886	Cordelier asked you to get eternal embers from Drakes.
-QUEST_LV_0200_20150729_008887	Besiege the monsters and get pieces of the Holy Ark
-QUEST_LV_0200_20150729_008888	The Seal Stone will just scatter away when released so you need the Holy Ark to hold its soul. Collect the pieces of the Holy Ark from the monsters in Mage Tower 2F.
+QUEST_LV_0200_20150729_008887	Besiege the monsters and get pieces of the Heilig Ark
+QUEST_LV_0200_20150729_008888	The Seal Stone will just scatter away when released so you need the Heilig Ark to hold its soul. Collect the pieces of the Heilig Ark from the monsters in Mage Tower 2F.
 QUEST_LV_0200_20150729_008889	Besiege the Flask Mage and get the Crystal of Restriction
 QUEST_LV_0200_20150729_008890	{memo Why is there a memo x, if this is used in the game?} The spirit of the Sealed Stone wants to be freed from the seal. Gather the Crystal of Restriction from the Flask Mage and break them.
 QUEST_LV_0200_20150729_008891	The Weak Owl wants you to find other owls that the monsters took away. Find the traces of owl statue in the monster's hideaway locate at the end of Ishrai Crossroads.
@@ -8966,7 +8966,7 @@ QUEST_LV_0200_20150908_008969	Spraying Cold Fluid
 QUEST_LV_0200_20150908_008970	The sanctum has been corrupted instead of being blessed
 QUEST_LV_0200_20150908_008971	Looking at the sanctum
 QUEST_LV_0200_20150908_008972	The monsters are rushing in near the sanctum!
-QUEST_LV_0200_20150908_008973	Spraying the Holy Water
+QUEST_LV_0200_20150908_008973	Spraying the Heilig Water
 QUEST_LV_0200_20150908_008974	Purified the Sanctum!
 QUEST_LV_0200_20150908_008975	The statue of the goddess was fake! Besiege Sparnashorn!
 QUEST_LV_0200_20150908_008976	The Goddess Statue is not showing any reaction.{nl}Meet with Sculptor Tesla at West Siauliai Woods
@@ -9006,7 +9006,7 @@ QUEST_LV_0200_20150908_009009	Completed the scripture for the spirit
 QUEST_LV_0200_20150908_009010	A teardrop-shaped jewel appeared from the device
 QUEST_LV_0200_20150908_009011	You've retrieved a round-shaped jewel from Naktis' subordinate
 QUEST_LV_0200_20150908_009012	You've obtained Maven's key!
-QUEST_LV_0200_20150908_009013	Inserting the Holy Relic
+QUEST_LV_0200_20150908_009013	Inserting the Heilig Relic
 QUEST_LV_0200_20150908_009014	Collecting the medicine
 QUEST_LV_0200_20150908_009015	Opening the door
 QUEST_LV_0200_20150908_009016	Collecting the corpses of the priests
@@ -9015,10 +9015,10 @@ QUEST_LV_0200_20150908_009018	Passing the words of Raius
 QUEST_LV_0200_20150908_009019	Telling him what has happened lately
 QUEST_LV_0200_20150908_009020	Read the memo of Hones!
 QUEST_LV_0200_20150908_009021	Laying the remains
-QUEST_LV_0200_20150908_009022	Inserting the Spatial Magic Edelstein
+QUEST_LV_0200_20150908_009022	Inserting the Spatial Magie Edelstein
 QUEST_LV_0200_20150908_009023	Destroying it
-QUEST_LV_0200_20150908_009024	Combining the Spatial Magic Edelstein
-QUEST_LV_0200_20150908_009025	Using the Spatial Magic Edelstein
+QUEST_LV_0200_20150908_009024	Combining the Spatial Magie Edelstein
+QUEST_LV_0200_20150908_009025	Using the Spatial Magie Edelstein
 QUEST_LV_0200_20150908_009026	Checking the inheritance
 QUEST_LV_0200_20150908_009027	You sense ominous energy from the pot!{nl}Return to Kupole Vita and inform her about the situation
 QUEST_LV_0200_20150908_009028	Observing
@@ -9617,7 +9617,7 @@ QUEST_LV_0200_20151001_009620	Assistant Commander Gorman is trying to give you t
 QUEST_LV_0200_20151001_009621	Activate the desinates shrine to activate Romuva magic circle
 QUEST_LV_0200_20151001_009622	When you activate one of the shrines among Romuva magic circles, the shrines at each end will react at the same time. Use that and activate the altar which Gorman has told you. If you've forgotten which shrine to activate, check the letter which Gorman has given to you.
 QUEST_LV_0200_20151001_009623	You've succeeded activating Romuva magic circle. Tell this to Gorman.
-QUEST_LV_0200_20151001_009624	There is a problem at Neres Magic field. Ask the assistant commander of Mesafasla what's wrong.
+QUEST_LV_0200_20151001_009624	There is a problem at Neres Magie field. Ask the assistant commander of Mesafasla what's wrong.
 QUEST_LV_0200_20151001_009625	Hunt for the monsters and recharge the magical power of the magic circle
 QUEST_LV_0200_20151001_009626	It seems that you would be able to charge the magical power using the vitalities of the monsters. Hunt for the monsters near Neres magic circle and charge the magical power.
 QUEST_LV_0200_20151001_009627	It seems that Neres magic circle has been activated after the magical power has been charged. Report this to Gorman.
@@ -9791,7 +9791,7 @@ QUEST_LV_0200_20151102_009794	If your battle skills are not high enough, an irre
 QUEST_LV_0200_20151102_009795	Come back after defeating Deadborn at Demon Prison District 1.{nl}It will not be easy, but I have thrust in you that you will defeat it.
 QUEST_LV_0200_20151102_009796	Your battle skills are amazing.{nl}
 QUEST_LV_0200_20151102_009797	I will teach you the superior skills of Scout right away.{nl}You will be able to learn fast.
-QUEST_LV_0200_20151102_009798	Magic Studies of Psychokino [Psychokino Advancement]
+QUEST_LV_0200_20151102_009798	Magie Studies of Psychokino [Psychokino Advancement]
 QUEST_LV_0200_20151102_009799	Where can I learn it?
 QUEST_LV_0200_20151102_009800	Research of Spirits and Emotions [Linker Advancement]
 QUEST_LV_0200_20151102_009801	Mage Tower in Chaos [Thaumaturge Advancement]
@@ -9803,7 +9803,7 @@ QUEST_LV_0200_20151102_009806	This and That [Jäger Advancement]
 QUEST_LV_0200_20151102_009807	Living Poison [Wugushi Advancement]
 QUEST_LV_0200_20151102_009808	Teach me
 QUEST_LV_0200_20151102_009809	Reconnaissance Duty at Mage Tower [Scout Advancement]
-QUEST_LV_0200_20151102_009810	Controlling Magic Test [Thaumaturge Advancement]
+QUEST_LV_0200_20151102_009810	Controlling Magie Test [Thaumaturge Advancement]
 QUEST_LV_0200_20151102_009811	The Attitude towards the Dark Property [Elementalist Advancement]
 QUEST_LV_0200_20151102_009812	The Master of Poison [Wugushi Advancement]
 QUEST_LV_0200_20151102_009813	The Battle Abilities of Scout [Scout Advancement]
@@ -9936,7 +9936,7 @@ QUEST_LV_0200_20151224_009939	You came back safely.{nl}I see you're not just agi
 QUEST_LV_0200_20151224_009940	Come find me whenever you want to learn a new technique.{nl}And don't forget: perfecting your basic skills is the best training you can get.
 QUEST_LV_0200_20151224_009941	The best Thaumaturge... I'm surprised you're already at a level where you can aim for that.{nl}But the domain of the Thaumaturge is very, very wide. It's practically infinite.{nl}
 QUEST_LV_0200_20151224_009942	Alright. Enough of this small talk.{nl}Are you ready to show me just how well you can control your magic?
-QUEST_LV_0200_20151224_009943	I have a testing site at Laukyme Swamp.{nl}Go there and move the Magic Concentration Orbs to the magic detection area.{nl}
+QUEST_LV_0200_20151224_009943	I have a testing site at Laukyme Swamp.{nl}Go there and move the Magie Concentration Orbs to the magic detection area.{nl}
 QUEST_LV_0200_20151224_009944	If you lose control of your magic they can end up in another place, so be careful.
 QUEST_LV_0200_20151224_009945	I used to train like that all the time when I was younger.{nl}Things became a bit of a mess after Medzio Diena, but it'll be fine.
 QUEST_LV_0200_20151224_009946	Impressive.{nl}I knew you could do it.{nl}
@@ -10175,7 +10175,7 @@ QUEST_LV_0200_20151224_010178	Get back the holy relic of salvation by defeating 
 QUEST_LV_0200_20151224_010179	The Demon Transformation Scroll has been completed. Obtain the completed Demon Transformation Scroll.
 QUEST_LV_0200_20151224_010180	Besiege wild animal monsters and get some meats for feeding. Any monsters are fine, but as monsters get stronger, it will be easier for you to get the meat. 
 QUEST_LV_0200_20151224_010181	Besiege wild animal mosters and obtain %s.
-QUEST_LV_0200_20151224_010182	Jane is saying that if the Magic Stone of Interaction be stopped, she and Archon will be freed. Find out some tools that could be of use made by Valius during his life.
+QUEST_LV_0200_20151224_010182	Jane is saying that if the Magie Stone of Interaction be stopped, she and Archon will be freed. Find out some tools that could be of use made by Valius during his life.
 QUEST_LV_0200_20151224_010183	Psychokino Master told you that when you read all Psychokino magic books at Mage Tower near by Fedimian, it would greatly help you. Come back after reading each Psychokino magic book on each floor.
 QUEST_LV_0200_20151224_010184	You have read all of Psychokino magic books. Report back to the Psychokino Master. 
 QUEST_LV_0200_20151224_010185	Linker Master is researching how to enhance the magics of Linker further. Obtain the crystal of distorted spirit from Manahas and the fragments of confusing emotions from Genar Field.
@@ -10248,7 +10248,7 @@ QUEST_LV_0200_20160224_010251	If you had saved all of the sealed souls in the se
 QUEST_LV_0200_20160224_010252	Sprich mit dem Rune Caster Master
 QUEST_LV_0200_20160224_010253	Sprich mit dem Rune Caster Master at the Goddess' Ancient Garden.
 QUEST_LV_0200_20160224_010254	Collect Rune Stone materials from Tyla Monastery
-QUEST_LV_0200_20160224_010255	The Rune Caster Master says that you must collect the materials for the Rune Stone required to cast Rune Magic. Collect Malstatue's Evil Energy Fragment, Velaphid's Cold Blood and Pumpleflap's Robust Horn from Tyla Monastery.
+QUEST_LV_0200_20160224_010255	The Rune Caster Master says that you must collect the materials for the Rune Stone required to cast Rune Magie. Collect Malstatue's Evil Energy Fragment, Velaphid's Cold Blood and Pumpleflap's Robust Horn from Tyla Monastery.
 QUEST_LV_0200_20160224_010256	Bericht an den Rune Caster Master
 QUEST_LV_0200_20160224_010257	You have collected all required materials. Return to the Rune Caster Master and hand them over.
 QUEST_LV_0200_20160310_010258	I have a request for you.{nl}The soldiers are suffering too much from Luvine Rubbas.

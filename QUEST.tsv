@@ -1,5 +1,5 @@
 QUEST_20150317_000001	Please select the user requiring a quest update.
-QUEST_20150317_000002	Statue of Goddess Vakarine
+QUEST_20150317_000002	Statue der Göttin Vakarine
 QUEST_20150317_000003	Please select a territory.
 QUEST_20150317_000004	Select
 QUEST_20150317_000005	Please select an item.
@@ -74,7 +74,7 @@ QUEST_20150317_000073	Please, forget about me and just leave. {nl}The flowers se
 QUEST_20150317_000074	Lena
 QUEST_20150317_000075	Please, tell me your life story. {nl}We follow the will of Vibora and record all that is in this world.
 QUEST_20150317_000076	Henrika
-QUEST_20150317_000077	Hello! {nl}Welcome to the Klaipeda branch of the Magic Association. {nl}We specialize in studying the strange phenomena that occur when special items are combined.
+QUEST_20150317_000077	Hello! {nl}Welcome to the Klaipeda branch of the Magie Association. {nl}We specialize in studying the strange phenomena that occur when special items are combined.
 QUEST_20150317_000078	There's nothing to see here but steam and Vubbes. {nl}Wait, what's that thing with the big face that's approaching?!
 QUEST_20150317_000079	The land needs our attention as well. {nl}The world still isn't ruined... right?
 QUEST_20150317_000080	If we continue to have courtesy, then we still know the way of a righteous life. {nl}We should all consider whether or not this mess is our fault because we relied on the goddesses for everything.
@@ -178,13 +178,13 @@ QUEST_20150317_000177	Please change this character's status.
 QUEST_20150317_000178	NPC HIDE/UNHIDE Setting!
 QUEST_20150317_000179	Follower Algis
 QUEST_20150317_000180	The moment that the goddess foretold to the first Paladin has finally arrived. {nl}Come. Ask me anything.
-QUEST_20150317_000181	A long, long time ago, there were nomads who suffered from a cursed plague. {nl}The honorable first Paladin removed the curse with a Holy Relic.
-QUEST_20150317_000182	The Watchers are the descendants of those nomads. {nl}However, the Holy Relic was not meant for healing those people.
+QUEST_20150317_000181	A long, long time ago, there were nomads who suffered from a cursed plague. {nl}The honorable first Paladin removed the curse with a Heilig Relic.
+QUEST_20150317_000182	The Watchers are the descendants of those nomads. {nl}However, the Heilig Relic was not meant for healing those people.
 QUEST_20150317_000183	One day, the goddess requested the first Paladin to safeguard a divine revelation. {nl}The cursed nomads appeared just as the paladin mulled on how to keep it secret.
 QUEST_20150317_000184	They and the first Paladin made three pledges before breaking the curse.
-QUEST_20150317_000185	To build the Tenet Church together. {nl}To conceal the Holy Relic within these grounds and worship its holiness. {nl}To gather and fight together when danger comes close to this location.
+QUEST_20150317_000185	To build the Tenet Church together. {nl}To conceal the Heilig Relic within these grounds and worship its holiness. {nl}To gather and fight together when danger comes close to this location.
 QUEST_20150317_000186	All this, was to protect the revelation hidden in the sanctum of the Tenet Church.
-QUEST_20150317_000187	The Holy Relic was originally made to protect the revelation as a bait. {nl}With it, we will lure the Demon Queen here and destroy her.
+QUEST_20150317_000187	The Heilig Relic was originally made to protect the revelation as a bait. {nl}With it, we will lure the Demon Queen here and destroy her.
 QUEST_20150317_000188	Anything can happen though. {nl}If the plan fails, then the final battle will likely happen in the Tenet Church.
 QUEST_20150317_000189	Pawndel
 QUEST_20150317_000190	What's up?
@@ -305,9 +305,9 @@ QUEST_20150317_000304	Fedimian was originally divided into two districts, the co
 QUEST_20150317_000305	Mercifully, the divine district still stands today thanks to the blessing of the goddess.
 QUEST_20150317_000306	I am just an ordinary old man in Fedimian. {nl}If you want to know more, then bring me some potato dumplings...
 QUEST_20150317_000307	The food at Fedimian is awful. {nl}Before I die, is it going to be possible to try all delicious food in the world?
-QUEST_20150317_000308	This is the Holy District of Fedimian. {nl}May you receive the full blessings of the goddesses.
+QUEST_20150317_000308	This is the Heilig District of Fedimian. {nl}May you receive the full blessings of the goddesses.
 QUEST_20150317_000309	Right now, the Market District is closed for reconstruction. {nl}Please do not enter that district.
-QUEST_20150317_000310	The Fedimian Holy District welcomes you.
+QUEST_20150317_000310	The Fedimian Heilig District welcomes you.
 QUEST_20150317_000311	Thank you so much for your efforts. We are going to investigate here one more time. {nl}Cheer up!
 QUEST_20150317_000312	Finished already? {nl}Amazing! You'd expect nothing less from a Revelator!
 QUEST_20150317_000313	It is said that if one receives too much good, he begins to believe it's his right. {nl}Maybe, we relied too much on the goddess.
@@ -343,7 +343,7 @@ QUEST_20150317_000342	Can't read anything.
 QUEST_20150317_000343	You're reminded of Schmid whenever you see this rubbed copy.
 QUEST_20150317_000344	Notiz
 QUEST_20150317_000345	King Zachariel is buried here.
-QUEST_20150317_000346	This is the Holy District of Fedimian protected by Goddess Zemyna.
+QUEST_20150317_000346	This is the Heilig District of Fedimian protected by Goddess Zemyna.
 QUEST_20150317_000347	Please do not enter; your safety is not guaranteed. {nl}For other questions, please see Liaison Officer Niels.
 QUEST_20150317_000348	Gravestone
 QUEST_20150317_000349	It is unreadable. {nl}Let's ask the villager who is standing nearby.
@@ -401,7 +401,7 @@ QUEST_20150317_000400	Disciple of the Elderly
 QUEST_20150317_000401	Helping reconstruct Fedimian may be more meaningful than pottery. {nl}But people need something to soothe their hearts.
 QUEST_20150317_000402	I have also been placing clay tablets, scribed with people's wishes, inside the spiral of pots. {nl} To search for and read the little wishes from people of ancient times is quite enjoyable.
 QUEST_20150317_000403	Fedimian Old Lady
-QUEST_20150317_000404	It's relieving to see the Holy District intact. {nl} All of this is due to a blessing from Goddess Zemyna.
+QUEST_20150317_000404	It's relieving to see the Heilig District intact. {nl} All of this is due to a blessing from Goddess Zemyna.
 QUEST_20150317_000405	Get the Token of Training from the Training Manager. {nl}I'll let you join our troop if you can pass the training.
 QUEST_20150317_000406	You should take responsibility for the troop's safety in the Training Camp. {nl}It'd be a bad idea to leave these excited young men without any supervision, right?
 QUEST_20150317_000407	Uska told me about you. {nl}All the Revelators I've met so far were no better than the Kepas, though.
@@ -420,7 +420,7 @@ QUEST_20150317_000419	If only I had a little more time... {nl}The data I've coll
 QUEST_20150317_000420	Now I can leave without any regrets. {nl}Goodbye. Be careful of that man...
 QUEST_20150317_000421	Use this scroll to open a niche of space and find the Key of the Great King. {nl}You'll never know what will pop out, so be careful.
 QUEST_20150317_000422	Crumbled Chapel
-QUEST_20150317_000423	This is where a small chapel was once located. {nl}A Statue of Goddess Vakarine appears here once a day.
+QUEST_20150317_000423	This is where a small chapel was once located. {nl}A Statue der Göttin Vakarine appears here once a day.
 QUEST_20150317_000424	Stamina can be recovered by destroying Tree Root Crystals.{nl}They are an abnormality that began to appear after Medzio Diena. {nl}But rest assured, because the research results have shown it's perfectly safe.
 QUEST_20150317_000425	So Degil sent you... Here... Here it is.
 QUEST_20150317_000426	The goddess taught us to help others. {nl}I'm just abiding by her teachings.
@@ -600,7 +600,7 @@ QUEST_20150317_000599	Wagon Carrier
 QUEST_20150317_000600	It's a pot to put your wishes in. {nl}Look inside and you'll see clay tablets with wishes written on them. {nl}Some of them are pretty funny.
 QUEST_20150317_000601	Thankfully, workers from different areas are gathering to help restore Fedimian. {nl}Look at where we've come since Medzio Diena. {nl}I really thought the world would end that day.
 QUEST_20150317_000602	Fedimian Guard
-QUEST_20150317_000603	It's impossible to see the gigantic Statue of Goddess Zemyna in one complete view. {nl}Even after its lower half was buried underground after the huge earthquake.
+QUEST_20150317_000603	It's impossible to see the gigantic Statue der Göttin Zemyna in one complete view. {nl}Even after its lower half was buried underground after the huge earthquake.
 QUEST_20150317_000604	What? {nl}How did you get up here?
 QUEST_20150317_000605	The Kingdom's Flag
 QUEST_20150317_000606	The eternal kingdom shines bright. {nl}Zachariel succeeded in unifying all the lands into one powerful kingdom.
@@ -649,7 +649,7 @@ QUEST_20150317_000648	It differs on the type of element, and depends on the grac
 QUEST_20150317_000649	For this, you will need great academic standards as well as faith in Goddess Gabija.
 QUEST_20150317_000650	Will of All Things
 QUEST_20150317_000651	The base forms of all things are water, earth, wind, and fire, {nl}and these are controlled by the goddesses.
-QUEST_20150317_000652	Elementary Fire Magic
+QUEST_20150317_000652	Elementary Fire Magie
 QUEST_20150317_000653	1. Dried environment{nl}2. Something combustible. {nl}3. Enough mana. {nl}4. The blessing of Goddess Gabija.
 QUEST_20150317_000654	Agailla Flurry's Diary
 QUEST_20150317_000655	Lord Helgasercle is still going after my tower, {nl}and I can't find a successor to continue my mission.
@@ -669,11 +669,11 @@ QUEST_20150317_000668	Archmage Agailla Flurry, owner of the Mage Tower, {nl}made
 QUEST_20150317_000669	She learned many spells and even created a new category of skills.
 QUEST_20150317_000670	The most prominent example of which was Chronomancy - time magic. {nl}With it, Agailla Flurry lived a long life.
 QUEST_20150317_000671	There were many others in the past who lived longer than you might expect, {nl}but Agailla Flurry is the first to have lived a long life by her own design.
-QUEST_20150317_000672	The Pedigree of Magic
-QUEST_20150317_000673	Magic, at the beginning, began from the investigation of mana {nl}and the review of basic elements.
+QUEST_20150317_000672	The Pedigree of Magie
+QUEST_20150317_000673	Magie, at the beginning, began from the investigation of mana {nl}and the review of basic elements.
 QUEST_20150317_000674	After that, the basic senses, religious belief of the goddesses, {nl}and mathematical approaches were mixed to find areas for expansion.
 QUEST_20150317_000675	The research twisted previous notions of time and space, {nl}which were beyond the changes of the body, {nl}and the rules of physics and the elements progressed significantly.
-QUEST_20150317_000676	The Report of the High Barrier Magic
+QUEST_20150317_000676	The Report of the High Barrier Magie
 QUEST_20150317_000677	The barrier in this tower could not have possibly been created by the Demon Lord alone.
 QUEST_20150317_000678	It acts like a tight-knit net. {nl}Someone with a normal level of divine power cannot escape from it.
 QUEST_20150317_000679	For what reason was this barrier created?{nl}Is it related to the fact that the goddess who controls the flames of this world is staying here?
@@ -809,7 +809,7 @@ QUEST_20150317_000808	Warning
 QUEST_20150317_000809	Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful. 
 QUEST_20150317_000810	Notice: Groß Kepa is not an onion!{nl}Wearing goggles is useless against Groß Kepa. {nl}Watch out for powerful attacks that shake the ground.
 QUEST_20150317_000811	Please worship the Goddess Statue with a pious mind. You will grow stronger with {nl}the Goddess Zemyna's power, blessed by the Overseer of the Earth herself.
-QUEST_20150317_000812	The Statue of Goddess Zemyna lies at the end of this road.
+QUEST_20150317_000812	The Statue der Göttin Zemyna lies at the end of this road.
 QUEST_20150317_000813	Warning! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and...{nl}(Red marks are covering the rest.)
 QUEST_20150317_000814	Caution! What happens to you beyond this point is your responsibility! {nl}Golems are rumored to appear in this area. Do not go any further.
 QUEST_20150317_000815	P.S. It is better to run away than to pray to the goddess when you encounter Golems.
@@ -964,7 +964,7 @@ QUEST_20150317_000963	The main industry of Siauliai is mining, and its specialty
 QUEST_20150317_000964	Currently only the 1st Mine Lot is being worked on, but the mines used to have two lots.
 QUEST_20150317_000965	The 2nd Mine Lot was closed by the declaration of the bishop to seal away demons. {nl}The alchemist also resides in the village for this reason.
 QUEST_20150317_000966	Summa Theologica
-QUEST_20150317_000967	Everything about the Statue of Goddess Vakarine is beautiful, {nl}but its most beautiful part is the fact that its special powers {nl}can be used to take you to the world of the goddesses.
+QUEST_20150317_000967	Everything about the Statue der Göttin Vakarine is beautiful, {nl}but its most beautiful part is the fact that its special powers {nl}can be used to take you to the world of the goddesses.
 QUEST_20150317_000968	Legend of Cunningham
 QUEST_20150317_000969	It is a story old enough to be lost from all memory.
 QUEST_20150317_000970	During his compulsory labor in the mines,{nl}Cunningham met a strange girl that was around seven years old.{nl}The girl kept speaking of a great danger,{nl}but knew little about it herself.
@@ -1255,7 +1255,7 @@ QUEST_20150317_001255	Shield Over Flowers [Highlander Advancement]
 QUEST_20150317_001256	Duty of the Pledge [Peltasta Advancement]
 QUEST_20150317_001257	Legend of the Cold Iron [Cryomancer Advancement]
 QUEST_20150317_001258	Hard Work Does Not Betray [Wizard Advancement]
-QUEST_20150317_001259	Perfect Holy Water [Cleric Advancement]
+QUEST_20150317_001259	Perfect Heilig Water [Cleric Advancement]
 QUEST_20150317_001260	Secret of Fletchers [Quarrel Shooter Advancement]
 QUEST_20150317_001261	Completer of Fedimian [Archer Advancement]
 QUEST_20150317_001262	Investigator of Fedimian [Ranger Advancement]
@@ -1311,7 +1311,7 @@ QUEST_20150317_001311	Sculptor's Trial
 QUEST_20150317_001312	The Guardian's Jar
 QUEST_20150317_001313	Light the Fire
 QUEST_20150317_001314	Let's Light the Fire
-QUEST_20150317_001315	Liberation of Magic
+QUEST_20150317_001315	Liberation of Magie
 QUEST_20150317_001316	Hidden Place
 QUEST_20150317_001317	Emergency
 QUEST_20150317_001318	Corrupted Lantern
@@ -1608,7 +1608,7 @@ QUEST_20150323_001608	Even if the Revelator gets the revelation in his hands, {n
 QUEST_20150323_001609	The purpose of my secret is not only to protect the revelation from evil but also to prevent the greed of weak Revelators.
 QUEST_20150323_001610	May you wander in the everlasting fog of the unknown if you recklessly approach without realizing my intentions.
 QUEST_20150323_001611	My Mission 2
-QUEST_20150323_001612	Those who challenge the Holy Mission won't just try to gently unravel the secret. {nl}Because of that, I had to plan many secrets and take measures against such barbaric actions.
+QUEST_20150323_001612	Those who challenge the Heilig Mission won't just try to gently unravel the secret. {nl}Because of that, I had to plan many secrets and take measures against such barbaric actions.
 QUEST_20150323_001613	To obey my secret. {nl}That is the only way to earn the legacy of the goddess.
 QUEST_20150323_001614	Sign Commemorating the Completion of the Great Cathedral
 QUEST_20150323_001615	The goddess of this land will build a church. {nl}The forces of evil can never invade this sanctuary. {nl} - Est. Year 434, Silvestro Maven
@@ -1793,7 +1793,7 @@ QUEST_20150406_001795	It's the reverting chain that shredded my soul... I collec
 QUEST_20150406_001796	Seems the plan was to block the corruption breach with my soul. {nl}Good thing I knew about it before it was too late. 
 QUEST_20150406_001797	Did you really think you could fool me that easily? {nl}Send my regards to Vakarine.
 QUEST_20150406_001798	Hand it over, Revelator. {nl}The goddess will take care of it.
-QUEST_20150406_001800	Lost Magic Circle
+QUEST_20150406_001800	Lost Magie Circle
 QUEST_20150414_001801	What do you want to know? 
 QUEST_20150414_001802	Receptionist Ramda
 QUEST_20150414_001803	The commission can start once all party members have gathered. 
@@ -1833,7 +1833,7 @@ QUEST_20150414_001836	Guarding the farm is tiring enough. {nl}How much time do t
 QUEST_20150414_001837	One or two monsters I can handle just fine. {nl}But, I don't think I can handle an entire flock though.
 QUEST_20150414_001838	I'm standing guard here. {nl}It's better than the Eastern Woods since there are less monsters{nl}but it isn't exactly easy.
 QUEST_20150414_001839	My colleagues' faces turned pale and they ran away. What's going on? 
-QUEST_20150414_001840	A Gorgon? Holy... I think I've seen one.
+QUEST_20150414_001840	A Gorgon? Heilig... I think I've seen one.
 QUEST_20150414_001841	A tremendous monster was sighted here. Have you seen it? 
 QUEST_20150414_001842	It's a bit dubious, a monster hiding in a dead end like this. {nl}I can't just ignore the report though...
 QUEST_20150414_001843	Crops from here will be brought to Klaipeda. {nl}I heard the farm has been corrupted with an evil energy.
@@ -2023,7 +2023,7 @@ QUEST_20150511_002026	The Sekunde Research Material{nl}-{nl}There's something in
 QUEST_20150511_002027	The Third Research Material{nl}-{nl}With the help from the young, kind historian, I was able to find a big clue. {nl}Yes. The best place to hide a tree is in a forest. {nl}Ruko Plateau and the King's Plateau... I'm so close I can almost touch it. {nl}I'm confident the goddess sent him to me. May the blessing of the goddess always be with us!
 QUEST_20150511_002028	The Fourth Research Material{nl}-{nl}Some pillars unlock the Royal Mausoleum and some altars lock it. {nl}The magical energy that surrounds the tomb moves by the key. {nl}But none can be that key. {nl}We are not chosen.
 QUEST_20150511_002029	A wish would come true if we make a pot and put the wish in it. {nl}I understand that it's tradition, but for now, restoring Fedimian back to its former glory is more important than that.
-QUEST_20150511_002030	I cannot guarantee the safety of other Holy Relics or the keys so you best hurry.
+QUEST_20150511_002030	I cannot guarantee the safety of other Heilig Relics or the keys so you best hurry.
 QUEST_20150511_002031	I'm just listening! I'm not going to do what you say! {nl}I don't think wheat will grow here no matter what kind of magic you use. {nl}I need to look for my son's body, so you better keep it short!
 QUEST_20150511_002032	The picture of the essence is drawn on the old surface.
 QUEST_20150511_002033	The Eternal Adventure
@@ -2106,9 +2106,9 @@ QUEST_20150714_002109	This is more dangerous because, if the demons find out the
 QUEST_20150714_002110	(The rest is blurred and unreadable.)
 QUEST_20150714_002111	Disciple Hones' Memo
 QUEST_20150714_002112	If you want to find the master's research, you have to find three spatial magic stones {nl}and activate the fusion device.
-QUEST_20150714_002113	The Spatial Magic Edelstein of Contract is at the reception room. {nl}The monsters probably have the fragments. {nl}Collect all the fragments of the magical stones and go to the{nl}preserved magic field in the Grave of the Saints to restore them.
-QUEST_20150714_002114	The Spatial Magic Edelstein of Offer is with the Templeshooter. {nl}The Wisdom Guiding Stone will help you find the hidden Templeshooter.
-QUEST_20150714_002115	The Spatial Magic Edelstein of Promise can be found in Siaura Mine. {nl}Use the Seelenkristall on the monsters first to collect their Kondensierter Spite. {nl}With that, destroy the stones in Siaura Mine. {nl}Black Chasers will pursue from behind, avoid them and go to the end of the mine{nl}to find the magic gem.
+QUEST_20150714_002113	The Spatial Magie Edelstein of Contract is at the reception room. {nl}The monsters probably have the fragments. {nl}Collect all the fragments of the magical stones and go to the{nl}preserved magic field in the Grave of the Saints to restore them.
+QUEST_20150714_002114	The Spatial Magie Edelstein of Offer is with the Templeshooter. {nl}The Wisdom Guiding Stone will help you find the hidden Templeshooter.
+QUEST_20150714_002115	The Spatial Magie Edelstein of Promise can be found in Siaura Mine. {nl}Use the Seelenkristall on the monsters first to collect their Kondensierter Spite. {nl}With that, destroy the stones in Siaura Mine. {nl}Black Chasers will pursue from behind, avoid them and go to the end of the mine{nl}to find the magic gem.
 QUEST_20150714_002116	When you find all three spatial magic gems, go to the fusion device again,{nl}and place the magic gems there. {nl}The path to the master's research will then open at the Laudi Tower.
 QUEST_20150714_002117	Spirit
 QUEST_20150714_002118	Please... save us from this horrible contract... {nl}Remove us from this... Contract of Enunciation...
@@ -2130,7 +2130,7 @@ QUEST_20150714_002133	By my name, Valius, the one who walks the way of Linker, {
 QUEST_20150714_002134	I've made many magical tools, but I wasn't able to repel the attacks of the demons. {nl}Without checking out the result, I close my eyes.
 QUEST_20150714_002135	Records of Investigation
 QUEST_20150714_002136	The basics of Linker magic are to find the common factors in each others' spirits. {nl}So it is impossible if the acceptor does not possess any magical abilities or bases. {nl}
-QUEST_20150714_002137	I've completed the first stage magic stone. {nl}It still does not satisfy the previous objective of delivering the perfect magic,{nl}and magical power somewhat.{nl}But now, at last it is possible to accept Linker Magic even without magical ability.{nl}
+QUEST_20150714_002137	I've completed the first stage magic stone. {nl}It still does not satisfy the previous objective of delivering the perfect magic,{nl}and magical power somewhat.{nl}But now, at last it is possible to accept Linker Magie even without magical ability.{nl}
 QUEST_20150714_002138	Proposal
 QUEST_20150714_002139	If a magician finds a way to share all his abilities and knowledge with another, {nl}then even those without magical abilities can become a strong magician,{nl}within a short period of time.
 QUEST_20150714_002140	This way, you'd be able to hide from the eyes of Helgasercle,{nl}who is extremely afraid of the disciple of Agailla Flurry appearing.
@@ -2254,8 +2254,8 @@ QUEST_20150717_002257	I don't have a good feeling about it. That vibration...{nl
 QUEST_20150717_002258	We can help Goddess Gabija if we have the Jewel of Prominence.
 QUEST_20150717_002259	The goddess has reached her limit.{nl}We should give her the Jewel of Prominence as quickly as possible.
 QUEST_20150717_002260	That vibration... It's serious.
-QUEST_20150717_002261	Let's quickly go to Magic Control Room.{nl}I will be able to control the magic of the tower.
-QUEST_20150717_002262	It's fortunate that the Magic Control Room is near.{nl}Let's go quickly.
+QUEST_20150717_002261	Let's quickly go to Magie Control Room.{nl}I will be able to control the magic of the tower.
+QUEST_20150717_002262	It's fortunate that the Magie Control Room is near.{nl}Let's go quickly.
 QUEST_20150717_002263	My other disciple, Laius, is clever and a fast learner but has an insatiable greed for knowledge. I am worried that he may fail the task. {nl}A scholar should always try to learn, but obsessing about it will make one walk the wrong path.
 QUEST_20150717_002264	Among my disciples, two of them followed me until my later years and will be my successors after my death.
 QUEST_20150717_002265	Suspicious Tombstone
@@ -2293,7 +2293,7 @@ QUEST_20150729_002300	Many tried to reveal the identity of the Statue by challen
 QUEST_20150729_002301	I thank you again in the name of all fate. {nl}From here on, I will follow the stars to find Goddess Ausrine.{nl}
 QUEST_20150729_002302	About the Goddess Statue
 QUEST_20150729_002303	You can move to your desired location with the blessings of Goddess Ausrine. 
-QUEST_20150729_002304	Order's Holy Relic
+QUEST_20150729_002304	Order's Heilig Relic
 QUEST_20150729_002305	When greed and pride of men reaches its end, a Divine Tree will emerge from the ground to punish the greedy.
 QUEST_20150729_002306	Coffin destroyed
 QUEST_20150729_002307	Coffin has been destroyed!
@@ -2308,7 +2308,7 @@ QUEST_20150729_002315	The silversmith, after hearing Aiste's story, stated, {nl}
 QUEST_20150729_002316	Aiste was surprised by what the silversmith said and grew sad. {nl}After a while she asked, {nl}'Then why is it that such a cruel thing happens?'{nl}{nl}
 QUEST_20150729_002317	Even the silversmith did not know the true answer, so he improvised, {nl}'Goddess Zemyna must be taking them.'{nl}{nl}
 QUEST_20150729_002318	Hearing those words, Aiste replied, {nl}'Then I will just have to go ask the goddess.' {nl}The silversmith was astounded and replied, {nl}'While you're at it, why don't you ask the goddess to return my silverware?'{nl}{nl}
-QUEST_20150729_002319	An exhausted Aiste soon arrived at the Statue of Goddess Zemyna. {nl}She prostrated herself before it and prayed to the Goddess Statue represented, her head completely down. {nl}'Oh, goddess. Please return my lost silver coins.' {nl}Soon, while offering her prayers, Aiste could no longer hold in her sadness and she finally wept.{nl}{nl}
+QUEST_20150729_002319	An exhausted Aiste soon arrived at the Statue der Göttin Zemyna. {nl}She prostrated herself before it and prayed to the Goddess Statue represented, her head completely down. {nl}'Oh, goddess. Please return my lost silver coins.' {nl}Soon, while offering her prayers, Aiste could no longer hold in her sadness and she finally wept.{nl}{nl}
 QUEST_20150729_002320	How long did she pray crying? {nl}Suddenly, Aiste heard a voice addressed to her. {nl}'My child, have come to take back what you have lost?'{nl}{nl}
 QUEST_20150729_002321	The goddess' voice was heard again. {nl}'Aiste, what your asking from me is not in a method I approve of. Where I reign there is no harvest nor fruits to those who do not work.'{nl}{nl}
 QUEST_20150729_002322	'But I worked very hard today!'{nl}{nl}
@@ -2375,7 +2375,7 @@ QUEST_20150729_002382	But no matter the impossible odds, Modestas never lost a b
 QUEST_20150729_002383	And, as he lay dying, Modestas revealed the secret to the Goddess Statue in his will. When all became clear, the one who orchestrated all of this was none other than the one whom all other goddesses stem from, Goddess Ausrine.{nl}
 QUEST_20150729_002384	In the end, Goddess Ausrine, in exchange for giving income and an interesting life full of mystery to a certain gambler from Klaipeda, gave the city of Klaipeda a beautiful Goddess Statue, and a tale to last for times to come.{nl} {nl}
 QUEST_20150730_002385	Voodoo Puppe
-QUEST_20150730_002386	The Gravekeeper's Magic Puppe has shut down the barrier!
+QUEST_20150730_002386	The Gravekeeper's Magie Puppe has shut down the barrier!
 QUEST_20150803_002387	You need the key that fits the box
 QUEST_20150803_002388	Another headache... I have a headache. Just go back and don't worry about me. {nl}Ah, the beautiful flowers are coming...
 QUEST_20150803_002389	Eternal life... {nl}I continue to live by the authority of Goddess Ausrine.{nl}
@@ -3025,7 +3025,7 @@ QUEST_20151224_003032	Ah, yes, I would appreciate that.{nl}
 QUEST_20151224_003033	Schmied Zaras
 QUEST_20151224_003034	Equipment Merchant Dunkel
 QUEST_20151224_003035	Gegenstand Merchant Mirina
-QUEST_20151224_003036	They say the Holy Relic was made to protect the revelations. {nl} This is what you need to use to lure in and defeat Gesti.
+QUEST_20151224_003036	They say the Heilig Relic was made to protect the revelations. {nl} This is what you need to use to lure in and defeat Gesti.
 QUEST_20151224_003037	Accessory Merchant Ronesa
 QUEST_20151224_003038	I heard not that long ago that thanks to the Revelators the demons failed to interfere with the Mage Tower.{nl}If it were me I would have made sure no one would have even dared to think about it in the first place.{nl}
 QUEST_20151224_003039	So that what happened to my family won't happen ever again.
@@ -3037,7 +3037,7 @@ QUEST_20151224_003044	Of course I have the purifier. {nl}But I'm not giving it t
 QUEST_20151224_003045	That's a shame.
 QUEST_20151224_003046	The goddesses left several things in the hands of the first Paladin.{nl}The threat of Demon Queen Gesti, a mission of high-priority.{nl}
 QUEST_20151224_003047	It was also mentioned that a savior would come.{nl}
-QUEST_20151224_003048	But it's remarkable, the Statue of Goddess Ausrine in Klaipeda that is.{nl}She is able to take you anywhere you want despite not being Goddess Vakarine.
+QUEST_20151224_003048	But it's remarkable, the Statue der Göttin Ausrine in Klaipeda that is.{nl}She is able to take you anywhere you want despite not being Goddess Vakarine.
 QUEST_20151224_003049	If you would ask me what a Bokor is, I will describe it as the following:{nl}A middleman standing between life and death.
 QUEST_20151224_003050	Auktionshaus Manager Logi
 QUEST_20151224_003051	Death drifts further away from me every time a statue of the Spirit-Leading Owl is raised.{nl}Even in my old and tired body, if I can help our world with the power of the goddesses,{nl}that is what I must keep doing...
@@ -3128,7 +3128,7 @@ QUEST_20151224_003135	I think the he will be visiting the soldiers in the East S
 QUEST_20151224_003136	It was a few days ago.{nl}The Chaplain Master came here and asked us certain questions.{nl}Seemed to be helping in the efforts to penetrate the Gateway of the Great King.{nl}
 QUEST_20151224_003137	I'm not exactly sure, but the he did say was he going to meet the Cleric Masters in Klaipeda.{nl}Perhaps, you might see him there?
 QUEST_20151224_003138	You mean the Chaplain Master?{nl}He seemed to be busy with royal business.{nl}
-QUEST_20151224_003139	The Master even asked to to supply Holy Water and deploy the clerics.{nl}The Master asked to be sent to the Commander Julian's Army. You can probably meet the Master there.
+QUEST_20151224_003139	The Master even asked to to supply Heilig Water and deploy the clerics.{nl}The Master asked to be sent to the Commander Julian's Army. You can probably meet the Master there.
 QUEST_20151224_003140	Chaplain Master
 QUEST_20151224_003141	Oh, aren't you the Revelator whom everyone has been talking about?{nl}
 QUEST_20151224_003142	Just as I expected. {nl}I have heard a lot from the Priest Master about you.{nl}
@@ -3167,7 +3167,7 @@ QUEST_20151224_003174	Girl Settler
 QUEST_20151224_003175	I can't help but to worry every time I look at the statue of the goddess.{nl}Everything is so uncertain without the goddesses... What will happen to us?
 QUEST_20151224_003176	Our kingdom has five great goddesses, as you probably know.{nl}There are also many other goddesses that help them.{nl}
 QUEST_20151224_003177	But now we don't know where any of them are.
-QUEST_20151224_003178	The one you see in front of you is the Statue of Goddess Ausrine.{nl}She is in charge of the dawn and is the one who leads all the other goddesses.{nl}
+QUEST_20151224_003178	The one you see in front of you is the Statue der Göttin Ausrine.{nl}She is in charge of the dawn and is the one who leads all the other goddesses.{nl}
 QUEST_20151224_003179	Also, you've probably heard people say someone "returns to the goddess" when they pass away.{nl}By that, they mean Goddess Ausrine.
 QUEST_20151224_003180	Goddess Gabija is in charge of fire.{nl}People who mainly deal with housework often pray to her.{nl}
 QUEST_20151224_003181	They do it so their houses will be warm as well as their food.{nl}As for magicians... Well, shouldn't they have to pray even more?
@@ -3186,7 +3186,7 @@ QUEST_20151224_003193	Didn't they tell us to come here because it was safe?{nl}I
 QUEST_20151224_003194	On Medzio Diena everything was chaos.{nl}These are all things I heard but... {nl}They say that a terrible catastrophe happened on a night four years ago.{nl}
 QUEST_20151224_003195	Apparently it was worse in the capital.{nl}They say a gigantic tree bursted up from somewhere deep in the ground there.{nl}
 QUEST_20151224_003196	The capital was completely destroyed.{nl}The survivors say that the grounds and the skies all collapsed.{nl}
-QUEST_20151224_003197	And that's not all, just look at Orsha. Do you see the walls all covered in roots?{nl}Fedimian too is completely taken over except for the Holy District.{nl}
+QUEST_20151224_003197	And that's not all, just look at Orsha. Do you see the walls all covered in roots?{nl}Fedimian too is completely taken over except for the Heilig District.{nl}
 QUEST_20151224_003198	The aftermath of Medzio Diena reached all the way to the small villages.{nl}The trees and plants suddenly grew bigger, turning into monsters...{nl}
 QUEST_20151224_003199	And where do you think those monsters went?{nl}They invaded the villages and left them devastated.{nl}
 QUEST_20151224_003200	This was four years ago but everything stays the same.{nl}What on earth could the missing goddesses be doing...?
@@ -3235,7 +3235,7 @@ QUEST_20151224_003242	Over here! Over here! Come take a look.{nl}Don't forget to
 QUEST_20151224_003243	Storage Keeper Aisa
 QUEST_20151224_003244	H-hi.{nl}If you ever run out of inventory space, you can use our storage instead.{nl}I... I mean, we! We'll make sure that your items are safe and sound!
 QUEST_20151224_003245	Florianna
-QUEST_20151224_003246	Pleased to meet you. I am from the Magic Association of Orsha.{nl}We are collecting objects that when combined, react in mysterious ways.{nl}If you could cooperate with us, we would deeply appreciate it.
+QUEST_20151224_003246	Pleased to meet you. I am from the Magie Association of Orsha.{nl}We are collecting objects that when combined, react in mysterious ways.{nl}If you could cooperate with us, we would deeply appreciate it.
 QUEST_20151224_003247	Rosia
 QUEST_20151224_003248	The Wings of Vibora is collecting all information that exists in this world.{nl}Why don't you tell me a lovely life story of yours and we'll add it to our records.
 QUEST_20151224_003249	Leticia
@@ -3587,7 +3587,7 @@ QUEST_20151224_003594	Du hast Ronjia Gras eingesammelt
 QUEST_20151224_003595	Burning the box filled with Poisonous Herbs
 QUEST_20151224_003596	You've successfully burned the box filled with Poisonous Herbs!
 QUEST_20151224_003597	Sammle Relic
-QUEST_20151224_003598	Collected Experiment Victim's Relic
+QUEST_20151224_003598	Sammle Experimenten Victim's Relikt
 QUEST_20160224_003599	Listen up, a pretty good request just came in.
 QUEST_20160224_003600	Welcome.{nl}Are you looking for any requests?
 QUEST_20160224_003601	Hm... This cannot be done all by your own.{nl}Speak to me again once you've gathered a few allies.
@@ -3686,7 +3686,7 @@ QUEST_20160224_003693	Hollow Thorn Forest Dungeon
 QUEST_20160224_003694	Hollow Thorn Forest Dungeon (Empfohlen Lv : 145){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Are you sure you want to enter?
 QUEST_20160224_003695	Blue Fortress Dungeon
 QUEST_20160224_003696	Blue Fortress Dungeon (Empfohlen Lv : 240){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Are you sure you want to enter?
-QUEST_20160224_003697	Ancient Warp Magic Circle
+QUEST_20160224_003697	Ancient Warp Magie Circle
 QUEST_20160224_003698	You cannot return once you enter.{nl}Do you wish to proceed?
 QUEST_20160224_003699	It's all done!{nl}Now all we have to do is blow it up!
 QUEST_20160224_003700	Unbelievably, the piece of lead turned into gold in front of Modestas after a flash of suspicious light. The alchemist impudently said the following.{nl}"Now you owe me a gold bar, so make sure you bring it to me."{nl}Modestas protested and argued, but the alchemist had never explicitly stated that what he was holding was made of lead.{nl}

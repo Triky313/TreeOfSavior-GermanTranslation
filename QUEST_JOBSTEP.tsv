@@ -203,7 +203,7 @@ QUEST_JOBSTEP_20150317_000202	Oh, is this the map? Good job. {nl}I'll teach you 
 QUEST_JOBSTEP_20150317_000203	Is this the map? I really can't tell. {nl}Take it to the Quarrel Shooter Master. 
 QUEST_JOBSTEP_20150317_000204	So you came to learn more skills from me. {nl}Then go help the Ruteelero Master in Fedimian. I will evaluate you based on that. 
 QUEST_JOBSTEP_20150317_000205	Did the Archer Master send you?{nl}Klaipeda is becoming stable but Fedimian is still at risk. 
-QUEST_JOBSTEP_20150317_000206	I hear that most of Fedimian, aside from Holy District, is buried and in need of help. 
+QUEST_JOBSTEP_20150317_000206	I hear that most of Fedimian, aside from Heilig District, is buried and in need of help. 
 QUEST_JOBSTEP_20150317_000207	I want you to defeat the boss monster in the Mage Tower. {nl}Monsters are pouring out of the tower {nl}and we are having troubles as it is rebuilding Fedimian.
 QUEST_JOBSTEP_20150317_000208	According to the scout who made it in, there was a Minotaur on the 3rd Floor of the Mage Tower. {nl}Defeating it will be good enough to serve as a warning. 
 QUEST_JOBSTEP_20150317_000209	Well done. Thanks to you, the monsters have been warded off. {nl}Extend my gratitude to the Archer Master as well. 
@@ -631,7 +631,7 @@ QUEST_JOBSTEP_20150317_000630	Anyway, we welcome you to be a member of the Krivi
 QUEST_JOBSTEP_20150317_000631	You should prove that you are suited to use a sword if you want to reach a higher level of swordsmanship.{nl}Please obtain the heart of Stone Orca at the 1st Floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000632	There is nothing more important than life.{nl}If you want to use a sword, you should be determined.
 QUEST_JOBSTEP_20150317_000633	Okay that's it...you collected it well.{nl}I will teach you how to become a person suited to use swords.
-QUEST_JOBSTEP_20150317_000634	Magic can't make a distinguished person, as I don't like a lazy person.{nl}Besiege Shredded at the 1st Floor of the Crystal Mine.
+QUEST_JOBSTEP_20150317_000634	Magie can't make a distinguished person, as I don't like a lazy person.{nl}Besiege Shredded at the 1st Floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000635	If you don't train yourself well, I won't accept you as a Wizard.{nl}Learn something a hundred times and train a thousand times to become a real Wizard.
 QUEST_JOBSTEP_20150317_000636	I understand your determination.{nl}I will teach you well so that you can become a person well suited for wizardry.
 QUEST_JOBSTEP_20150317_000637	You want to learn my skills?{nl}It's not hard to teach, but would you be able to master my lesson?
@@ -900,9 +900,9 @@ QUEST_JOBSTEP_20150317_000899	Hard Work does not Betray [Wizard Advancement] (1)
 QUEST_JOBSTEP_20150317_000900	I'll help with the research
 QUEST_JOBSTEP_20150317_000901	Hard Work does not Betray [Wizard Advancement] (2)
 QUEST_JOBSTEP_20150317_000902	I will go and use the scroll to collect data
-QUEST_JOBSTEP_20150317_000903	Perfect Holy water [Cleric Advancement] (1)
+QUEST_JOBSTEP_20150317_000903	Perfect Heilig water [Cleric Advancement] (1)
 QUEST_JOBSTEP_20150317_000904	I'll treat the patients
-QUEST_JOBSTEP_20150317_000905	Perfect Holy water [Cleric Advancement] (2)
+QUEST_JOBSTEP_20150317_000905	Perfect Heilig water [Cleric Advancement] (2)
 QUEST_JOBSTEP_20150317_000906	Notice/Let's treat the patients of Siauliai Minenarbeiter Dorf!#5
 QUEST_JOBSTEP_20150317_000907	Luck of the Speer Blades [Hoplite Advancement]
 QUEST_JOBSTEP_20150317_000908	I agree
@@ -952,7 +952,7 @@ QUEST_JOBSTEP_20150317_000951	I'll come back later
 QUEST_JOBSTEP_20150317_000952	Guardian of Fedimian [Wizard Advancement] (2)
 QUEST_JOBSTEP_20150317_000953	Vocation of Treatment [Cleric Advancement]
 QUEST_JOBSTEP_20150317_000954	I will treat the people
-QUEST_JOBSTEP_20150317_000955	Assignment of Magic [Sorcerer Advancement]
+QUEST_JOBSTEP_20150317_000955	Assignment of Magie [Sorcerer Advancement]
 QUEST_JOBSTEP_20150317_000956	Accept the duel with the Master
 QUEST_JOBSTEP_20150317_000957	Avoid the duel
 QUEST_JOBSTEP_20150317_000958	Prove You Can Actually Fight [Necromancer Advancement]
@@ -1067,8 +1067,8 @@ QUEST_JOBSTEP_20150317_001066	Materials for Medicine [Cleric Advancement]
 QUEST_JOBSTEP_20150317_001067	What should I do?
 QUEST_JOBSTEP_20150317_001068	I need more time to think
 QUEST_JOBSTEP_20150317_001069	Collecting Wild Flower Stamen/#SITGROPESET/3/TRACK_BEFORE/None
-QUEST_JOBSTEP_20150317_001070	Retrieve Holy Offer [Krivis Advancement]
-QUEST_JOBSTEP_20150317_001071	I'll get back the Holy offering from the town center
+QUEST_JOBSTEP_20150317_001070	Retrieve Heilig Offer [Krivis Advancement]
+QUEST_JOBSTEP_20150317_001071	I'll get back the Heilig offering from the town center
 QUEST_JOBSTEP_20150317_001072	Purify Evil Aura [Priest Advancement]
 QUEST_JOBSTEP_20150317_001073	I will defeat them
 QUEST_JOBSTEP_20150317_001074	Shaman Puppe [Bokor Advancement]
@@ -1087,7 +1087,7 @@ QUEST_JOBSTEP_20150317_001086	Checking the wagon/MAKING/3/TRACK_BEFORE/None
 QUEST_JOBSTEP_20150317_001087	Advisor's Choice [Oracle Advancement]
 QUEST_JOBSTEP_20150317_001088	Evil Energy Purification [Priest Advancement]
 QUEST_JOBSTEP_20150317_001089	I will go through the trial
-QUEST_JOBSTEP_20150317_001090	Save the Holy Offering [Krivis Advancement]
+QUEST_JOBSTEP_20150317_001090	Save the Heilig Offering [Krivis Advancement]
 QUEST_JOBSTEP_20150317_001091	I will find the Krivis brother
 QUEST_JOBSTEP_20150317_001092	KnickingKNOCK/1/TRACK_BEFORE/None
 QUEST_JOBSTEP_20150317_001093	Swordsman's Path [Swordsman Advancement]
@@ -1097,7 +1097,7 @@ QUEST_JOBSTEP_20150317_001096	Proving Abilities [Archer Advancement]
 QUEST_JOBSTEP_20150317_001097	I will take the challenge
 QUEST_JOBSTEP_20150317_001098	Necklace of Salvation [Cleric Advancement]
 QUEST_JOBSTEP_20150317_001099	I will gather the green salve
-QUEST_JOBSTEP_20150317_001100	Holy Offering's Delivery [Krivis Advancement]
+QUEST_JOBSTEP_20150317_001100	Heilig Offering's Delivery [Krivis Advancement]
 QUEST_JOBSTEP_20150317_001101	Introduction of the Soul [Bokor Advancement]
 QUEST_JOBSTEP_20150317_001102	I'll make the doll
 QUEST_JOBSTEP_20150317_001103	Going Down the Right Path [Peltasta Advancement]
@@ -1415,10 +1415,10 @@ QUEST_JOBSTEP_20150317_001414	Bericht an den Wizard Master
 QUEST_JOBSTEP_20150317_001415	Used all the scrolls. Return and report to the Wizard Master.
 QUEST_JOBSTEP_20150317_001416	Sprich mit the Cleric Master
 QUEST_JOBSTEP_20150317_001417	Go and talk to the Cleric Master at the Minenarbeiter Dorf.
-QUEST_JOBSTEP_20150317_001418	Receive Holy Water from the Priest Master
-QUEST_JOBSTEP_20150317_001419	The Cleric Master suggested trying voluntary service if you are having a hard time to decide. Get the Holy Water from the Priest Master and the Krivis Master and treat the patients in Minenarbeiter Dorf.
-QUEST_JOBSTEP_20150317_001420	Get Holy Water from the Krivis Master
-QUEST_JOBSTEP_20150317_001421	Get Holy Water from the Priest Master and the Krivis Master and treat the patients in Minenarbeiter Dorf.
+QUEST_JOBSTEP_20150317_001418	Receive Heilig Water from the Priest Master
+QUEST_JOBSTEP_20150317_001419	The Cleric Master suggested trying voluntary service if you are having a hard time to decide. Get the Heilig Water from the Priest Master and the Krivis Master and treat the patients in Minenarbeiter Dorf.
+QUEST_JOBSTEP_20150317_001420	Get Heilig Water from the Krivis Master
+QUEST_JOBSTEP_20150317_001421	Get Heilig Water from the Priest Master and the Krivis Master and treat the patients in Minenarbeiter Dorf.
 QUEST_JOBSTEP_20150317_001422	Treat the patients at the Minenarbeiter Dorf
 QUEST_JOBSTEP_20150317_001423	Bericht an den Cleric Master
 QUEST_JOBSTEP_20150317_001424	Treated all the patients in at the Minenarbeiter Dorf. Bericht an den Cleric Master.
@@ -1877,10 +1877,10 @@ QUEST_JOBSTEP_20150317_001876	Cleric Master told you that the herbs are running 
 QUEST_JOBSTEP_20150317_001877	Return to the Cleric Master
 QUEST_JOBSTEP_20150317_001878	Gathered Wildflower Stamen. Give it to the Cleric Master.
 QUEST_JOBSTEP_20150317_001879	Wildflower Stamen
-QUEST_JOBSTEP_20150317_001880	Retrieve the lost Holy Materials in the Town Center
-QUEST_JOBSTEP_20150317_001881	The Krivis Master says the Holy Materials were stolen during a raid on its way to Fedimian. Find the lost Holy Materials in the Town Center and bring it to the Krivis Master.
+QUEST_JOBSTEP_20150317_001880	Retrieve the lost Heilig Materials in the Town Center
+QUEST_JOBSTEP_20150317_001881	The Krivis Master says the Heilig Materials were stolen during a raid on its way to Fedimian. Find the lost Heilig Materials in the Town Center and bring it to the Krivis Master.
 QUEST_JOBSTEP_20150317_001882	Deliver it to the Krivis Master
-QUEST_JOBSTEP_20150317_001883	Found the lost Holy Materials. Give them to the Krivis Master.
+QUEST_JOBSTEP_20150317_001883	Found the lost Heilig Materials. Give them to the Krivis Master.
 QUEST_JOBSTEP_20150317_001884	Find %s from the Town Center
 QUEST_JOBSTEP_20150317_001885	Besiege Tutu
 QUEST_JOBSTEP_20150317_001886	Sprich mit the Priest Master in Klaipeda.
@@ -2748,7 +2748,7 @@ QUEST_JOBSTEP_20150714_002747	The villagers are complaining because of Rocktortu
 QUEST_JOBSTEP_20150714_002748	I am sorry, but there's something you should do for me.{nl}Let's get to the conversation later... First, please bring me the jewel I left to the Krivis Master.
 QUEST_JOBSTEP_20150714_002749	It is also a Dievdirbys' task to take special care about the work with affections instead of just making it.{nl}If you dream to become a Dievdirbys that will be remembered for a long time, please do not forget this feeling.
 QUEST_JOBSTEP_20150714_002750	The number of Red Tree Ambulos has increased a lot at Apsimesti Crossroads and threatening the villagers there.{nl}If you want to step forward as a true Sadhu, share your abilities.
-QUEST_JOBSTEP_20150714_002751	Good. But we're in front of the Holy Goddess Statue. {nl}I will test it in Shiluma Altar Site.
+QUEST_JOBSTEP_20150714_002751	Good. But we're in front of the Heilig Goddess Statue. {nl}I will test it in Shiluma Altar Site.
 QUEST_JOBSTEP_20150714_002752	Your faith is splendid indeed. {nl}I will permit your entrance. The training of us, monks is harsh so you should be prepared for it.
 QUEST_JOBSTEP_20150714_002753	Yes, that's it! It's been there all along.{nl}Anyway, I grant your entrance to the road of Pardoner.
 QUEST_JOBSTEP_20150714_002754	Fire Jar? Sure I know about it. {nl}But I'm a merchant. So unless you get me Hardened Oil from Puragis in Saknis Plains...
@@ -2826,7 +2826,7 @@ QUEST_JOBSTEP_20150714_002825	The Cryomancer Master told you that there's a valu
 QUEST_JOBSTEP_20150714_002826	Besiege Carcashus at Septyni Glen
 QUEST_JOBSTEP_20150714_002827	The Swordsman Master wants to be realized. While you are defeating Carcashus at Septyni Glen, realize the words that the Swordsman Master told you.
 QUEST_JOBSTEP_20150714_002828	Get Glizardon Horns from Tenet Church B1, Galok Furs from 1F, {nl}and Egnome Fragments from 2F that the Wizard Master wants.
-QUEST_JOBSTEP_20150714_002829	The Cleric Master asked you to help curing the patients. Obtain the Holy Water from the Priest Master and the Krivis Master and cure the patients at Minenarbeiter Dorf.
+QUEST_JOBSTEP_20150714_002829	The Cleric Master asked you to help curing the patients. Obtain the Heilig Water from the Priest Master and the Krivis Master and cure the patients at Minenarbeiter Dorf.
 QUEST_JOBSTEP_20150714_002830	The Psychokino Master told you that he will help you to spurt your real abilities, but he wants demonic essences as a compensation. Besiege Minotaur and Chapparition and obtain demonic essences.
 QUEST_JOBSTEP_20150714_002831	The Sapper Master asked you to help his experiment. First, collect the Burnable Juice from Tontulias from Zachariel Crossroads.
 QUEST_JOBSTEP_20150714_002832	The Pyromancer Master requested to you something in return for teaching high level magic. Put the Pot of the Sun on Ramstis Ridge.
@@ -3109,7 +3109,7 @@ QUEST_JOBSTEP_20150803_003108	Well done. {nl}It will take some time to investiga
 QUEST_JOBSTEP_20150803_003109	Eternal Amjinas [Sorcerer Advancement]
 QUEST_JOBSTEP_20150803_003110	Tell him that it will be better to listen directly
 QUEST_JOBSTEP_20150803_003111	I don't have guts for it
-QUEST_JOBSTEP_20150803_003112	Received enough balm. Restore the Statue of Goddess Vakarine in Fedimian and Statue of Goddess Ausrine in Klaipeda.
+QUEST_JOBSTEP_20150803_003112	Received enough balm. Restore the Statue der Göttin Vakarine in Fedimian and Statue der Göttin Ausrine in Klaipeda.
 QUEST_JOBSTEP_20150803_003113	The Sorcerer Master wants to hear more from the Amjinas. You can meet the Dievdirbys Master in West Siauliai Woods, the Necromancer Master in Mullers Passage, and the Chronomancer Master in Stele Road.
 QUEST_JOBSTEP_20150803_003114	You've heard about eternal lives from the Amjinas. Return to the Sorcerer Master.
 QUEST_JOBSTEP_20150803_003115	Obtain the keepsakes that emit a strong sense of regret.

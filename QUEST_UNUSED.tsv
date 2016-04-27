@@ -242,7 +242,7 @@ QUEST_UNUSED_20150714_000241	It is very strong. Be careful.
 QUEST_UNUSED_20150714_000242	If you face it, I hope you are with other people.
 QUEST_UNUSED_20150714_000243	I didn't expect that you would defeat it..{nl}You are much stronger than I expected. I am surprised.{nl}If I am with you, regaining the control of the monastery won't be that hard.
 QUEST_UNUSED_20150714_000244	Placing handouts
-QUEST_UNUSED_20150714_000245	Lighting up
+QUEST_UNUSED_20150714_000245	Anzünden
 QUEST_UNUSED_20150714_000246	Notice/Delivered the soul remains to the Weak Owl Sculpture
 QUEST_UNUSED_20150714_000247	Setting up the key
 QUEST_UNUSED_20150714_000248	Putting the bait
@@ -611,9 +611,9 @@ QUEST_UNUSED_20151001_000610	The Burnt Whereabouts (1)
 QUEST_UNUSED_20151001_000611	The Burnt Whereabouts (2)
 QUEST_UNUSED_20151001_000612	Search for the Erased Traces (5)
 QUEST_UNUSED_20151001_000613	Search for the Erased Traces (6)
-QUEST_UNUSED_20151001_000614	Overworked Agent
-QUEST_UNUSED_20151001_000615	Removing the Odor
-QUEST_UNUSED_20151001_000616	Turning Away
+QUEST_UNUSED_20151001_000614	Überarbeiteter Agent
+QUEST_UNUSED_20151001_000615	Entferne den Gestank
+QUEST_UNUSED_20151001_000616	Abwendung
 QUEST_UNUSED_20151001_000617	Monster Colony (1)
 QUEST_UNUSED_20151001_000618	Monster Colony (2)
 QUEST_UNUSED_20151001_000619	Groß-Scale Search Operation (1)
@@ -877,7 +877,7 @@ QUEST_UNUSED_20151016_000876	Collect useful objects
 QUEST_UNUSED_20151016_000877	Settler Ivanayus wants you to collect useful objects that can be used by settlers that are left by natives.
 QUEST_UNUSED_20151016_000878	Sprich mit Siedler Dallanas
 QUEST_UNUSED_20151016_000879	Sprich mit Siedler Dallanas
-QUEST_UNUSED_20151016_000880	Worship the Statue of Goddess Zemyna
+QUEST_UNUSED_20151016_000880	Worship the Statue der Göttin Zemyna
 QUEST_UNUSED_20151016_000881	Settler Dallanas would like to bless your explorations and as asked you to worship the statue of Goddess Zemyna to receive her grace.
 QUEST_UNUSED_20151016_000882	Bring the Settlers
 QUEST_UNUSED_20151016_000883	Settler Dallanas has asked you to bring the settlers that were spreaded across the area.
@@ -1763,7 +1763,7 @@ QUEST_UNUSED_20151022_001762	Besiege the monsters around
 QUEST_UNUSED_20151022_001763	Chaser Pierneef asked you to defeat the monsters at district 1 and 2
 QUEST_UNUSED_20151022_001764	Besiege Lapezard
 QUEST_UNUSED_20151022_001765	Besiege Lapemiter
-QUEST_UNUSED_20151022_001766	Get rid of the smelly carts
+QUEST_UNUSED_20151022_001766	Befreie die Wagen vom Gestank
 QUEST_UNUSED_20151022_001767	Chaser Pierneef asked you to eliminate the wagon that is spreading the bad smell at the 1st and 2nd district
 QUEST_UNUSED_20151022_001768	Sprich mit Chaser Germeja
 QUEST_UNUSED_20151022_001769	Sprich mit Chaser Germeja
@@ -2844,7 +2844,7 @@ QUEST_UNUSED_20151102_002843	Find Mayor Romanas (3)
 QUEST_UNUSED_20151102_002844	Find Mayor Romanas (4)
 QUEST_UNUSED_20151102_002845	I'll wait
 QUEST_UNUSED_20151102_002846	Follow the green arrow to enter Orsha
-QUEST_UNUSED_20151102_002847	Worship the Statue of Goddess Ausrine in the Central Plaza!
+QUEST_UNUSED_20151102_002847	Worship the Statue der Göttin Ausrine in the Central Plaza!
 QUEST_UNUSED_20151102_002848	Find the Schaden Merchant
 QUEST_UNUSED_20151102_002849	Find the Accessory Merchant
 QUEST_UNUSED_20151102_002850	Inesa Hamondale is looking for you
@@ -2858,7 +2858,7 @@ QUEST_UNUSED_20151102_002857	Stop the New Plot
 QUEST_UNUSED_20151102_002858	Investigate the Magically Imbued Objects
 QUEST_UNUSED_20151102_002859	All For a Bigger Blow
 QUEST_UNUSED_20151102_002860	Starting in the Area
-QUEST_UNUSED_20151102_002861	Destroy the Magic Circle Generating Device
+QUEST_UNUSED_20151102_002861	Destroy the Magie Circle Generating Device
 QUEST_UNUSED_20151102_002862	Preparations Complete
 QUEST_UNUSED_20151102_002863	Evidence in Ruins
 QUEST_UNUSED_20151102_002864	For Those Who Remember Them
@@ -2948,7 +2948,7 @@ QUEST_UNUSED_20151102_002947	Destroy the Mysterious Mage's contraptions
 QUEST_UNUSED_20151102_002948	The contraptions summoned by the wizard are making Edmundas suffer. Destroy them.
 QUEST_UNUSED_20151102_002949	Sprich mit Edmundas
 QUEST_UNUSED_20151102_002950	Sprich mit Edmundas
-QUEST_UNUSED_20151102_002951	Destroy the Magic Stone of Pain
+QUEST_UNUSED_20151102_002951	Destroy the Magie Stone of Pain
 QUEST_UNUSED_20151102_002952	Destroy the Confinement Device
 QUEST_UNUSED_20151102_002953	Destroy the device that's holding Edmundas captive.
 QUEST_UNUSED_20151102_002954	Sprich mit the Experiment Victim
@@ -2963,7 +2963,7 @@ QUEST_UNUSED_20151102_002962	Destroy the Experiment Equipment
 QUEST_UNUSED_20151102_002963	Destroy the Demons' Experiment Tools
 QUEST_UNUSED_20151102_002964	Sprich mit the Monk
 QUEST_UNUSED_20151102_002965	Sprich mit the Monk
-QUEST_UNUSED_20151102_002966	Retrieve the Holy Relic Fragments
+QUEST_UNUSED_20151102_002966	Retrieve the Heilig Relic Fragments
 QUEST_UNUSED_20151102_002967	Retrieve the fragments of the relic destroyed by the demons.
 QUEST_UNUSED_20151102_002968	Set up the Relic
 QUEST_UNUSED_20151102_002969	Set up the Relic
@@ -3004,7 +3004,7 @@ QUEST_UNUSED_20151102_003003	Agent Larena has asked you to take Jolly, the pries
 QUEST_UNUSED_20151102_003004	Besiege Specter Monarch
 QUEST_UNUSED_20151102_003005	Besiege the monsters from District 1
 QUEST_UNUSED_20151102_003006	Agent Orwen has asked you to defeat the monsters in District 1 that are interfering with the informers' search operations.
-QUEST_UNUSED_20151102_003007	Deactivate the Ominous Magic Circles
+QUEST_UNUSED_20151102_003007	Deactivate the Ominous Magie Circles
 QUEST_UNUSED_20151102_003008	Agent Orwen has asked you to release the magic circles spread out through Districts 1/2.
 QUEST_UNUSED_20151102_003009	Preliminary Investigation
 QUEST_UNUSED_20151102_003010	Besiege the monsters from District 3
@@ -3144,7 +3144,7 @@ QUEST_UNUSED_20151102_003143	Besiege demons and collect %s
 QUEST_UNUSED_20151102_003144	You have destroyed all the Kruvina devices. Sprich mit Goddess Lada.
 QUEST_UNUSED_20151102_003145	Goddess Lada says even an incomplete Kruvina can be used for evil and thinks it should be destroyed.
 QUEST_UNUSED_20151102_003146	Demon Lord Zaura may have been defeated, but an intruding beholder has stolen the Kruvina. Return to Goddess Lada.
-QUEST_UNUSED_20151102_003147	Go to the Statue of Goddess Laima in Zeraha
+QUEST_UNUSED_20151102_003147	Go to the Statue der Göttin Laima in Zeraha
 QUEST_UNUSED_20151102_003148	Goddess Lada says She heard the voice of Goddess Laima calling for you. Go to the statue of Goddess Laima in Zeraha.
 QUEST_UNUSED_20151102_003149	On approaching the great statue of Goddess Laima, you saw She is being hurt by Giltine. Laima has asked you to find all the revelations. Tell Goddess Lada about this.
 QUEST_UNUSED_20151102_003150	The village priest wants to rebuild the fallen temple to prepare for the return of Goddesses Laima and Lada. But first, you need to clear out the demons and purify the contaminated land. The village priest hopes you can help chase the demons away.
@@ -3167,19 +3167,19 @@ QUEST_UNUSED_20151102_003166	Besiege monsters nearby
 QUEST_UNUSED_20151102_003167	Besiege monsters nearby to keep the villagers safe.
 QUEST_UNUSED_20151102_003168	Report the results to Scalvis.
 QUEST_UNUSED_20151224_003169	Stone of Requests
-QUEST_UNUSED_20151224_003170	The Magic Association is accepting monster samples from all regions for research purposes.{nl}We appreciate your collaboration.
-QUEST_UNUSED_20151224_003171	Your samples will be carefully studied by the Magic Association.{nl}Thank you for helping.
+QUEST_UNUSED_20151224_003170	The Magie Association is accepting monster samples from all regions for research purposes.{nl}We appreciate your collaboration.
+QUEST_UNUSED_20151224_003171	Your samples will be carefully studied by the Magie Association.{nl}Thank you for helping.
 QUEST_UNUSED_20151224_003172	A Necromancer needs a well-trained spirit to resist being damaged by evil energy.{nl}Fight me and show me just how strong is your spirit.
 QUEST_UNUSED_20151224_003173	There's a job from the Linker Master I really don't want to miss.{nl}If you do this job for me, I'll show you how to use physic powers. What do you say?
 QUEST_UNUSED_20151224_003174	Impressive!{nl}Enough of the Linker Master now, you and I have some psychic power talk to do.
 QUEST_UNUSED_20151224_003175	There should be a Hallowventer around here with the key...{nl}That's odd.
 QUEST_UNUSED_20151224_003176	Are you sure you're not hurt?{nl}The next tombstone is on the way to Dykyne Fork.
 QUEST_UNUSED_20151224_003177	Before I teach you, I can help you get a taste of what real combat is like.{nl}
-QUEST_UNUSED_20151224_003178	Magic Association Collection Request
+QUEST_UNUSED_20151224_003178	Magie Association Collection Request
 QUEST_UNUSED_20151224_003179	Looking forward to cooperate.
 QUEST_UNUSED_20151224_003180	I don't think I can help.
 QUEST_UNUSED_20151224_003181	Check the Stone of Requests
-QUEST_UNUSED_20151224_003182	Check the Magic Association's Stone of Requests.
+QUEST_UNUSED_20151224_003182	Check the Magie Association's Stone of Requests.
 QUEST_UNUSED_20151224_003183	Obtain Monster Samples
 QUEST_UNUSED_20151224_003184	The Stone of Requests asks you to collect samples from monsters. Besiege nearby monsters and collect any parts that can be used as specimens.
 QUEST_UNUSED_20151224_003185	Bericht an den Stone of Requests

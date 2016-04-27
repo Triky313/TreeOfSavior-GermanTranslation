@@ -230,7 +230,7 @@ QUEST_LV_0100_20150317_000229	So you finally returned.{nl}What did the Bokor Mas
 QUEST_LV_0100_20150317_000230	I'm also curious about the girl who cracked the seal.{nl}This is not a seal that can easily be broken.
 QUEST_LV_0100_20150317_000231	If the Bokor Master told you that I would know it..{nl}There's one place that comes to mind.{nl}
 QUEST_LV_0100_20150317_000232	The high gardens that the goddess mentioned could be an area within Leaf Veil Plateau. {nl}I heard the Paladin Master is there, uploading a long term promise. 
-QUEST_LV_0100_20150317_000233	Minenarbeiter Dorf Mayor
+QUEST_LV_0100_20150317_000233	Minenarbeiter Dorfbürgermeister
 QUEST_LV_0100_20150317_000234	Welcome. Aren't you our town's savior?{nl}
 QUEST_LV_0100_20150317_000235	Leaf Veil Plateau, huh? If you take the road between the two bridges below, you'll reach {nl}Silberstream Gorge. 
 QUEST_LV_0100_20150317_000236	So this revelation is from goddess Laima and we have to collect all these for the goddess {nl}to regain her powers?{nl}That is amazing.
@@ -269,7 +269,7 @@ QUEST_LV_0100_20150317_000268	Thank you. You found it sooner than I expected.{nl
 QUEST_LV_0100_20150317_000269	If you follow the road to the north, you will find the Search Scout.{nl}Good luck.
 QUEST_LV_0100_20150317_000270	Laimonas
 QUEST_LV_0100_20150317_000271	Have you ever offered worship to the Statue?{nl}If not, I'd really recommend it.
-QUEST_LV_0100_20150317_000272	That depends on which goddess it is.{nl}If you follow the road to the right you will find the Statue of Goddess Zemyna. 
+QUEST_LV_0100_20150317_000272	That depends on which goddess it is.{nl}If you follow the road to the right you will find the Statue der Göttin Zemyna. 
 QUEST_LV_0100_20150317_000273	I do worry that the monsters might harm the Goddess Statue.
 QUEST_LV_0100_20150317_000274	I am happy that the statue is unharmed.{nl}The monsters here know to fear the goddess.{nl}
 QUEST_LV_0100_20150317_000275	Go down the Shadow Forest Road and you should arrive at Klaipeda shortly.{nl}Well then, may the blessings of the goddess be with you.
@@ -617,14 +617,14 @@ QUEST_LV_0100_20150317_000616	Put the Guardian's will into this jar and go to th
 QUEST_LV_0100_20150317_000617	The evil presence will never get the goddess' revelation.
 QUEST_LV_0100_20150317_000618	To have Guardians perform their mission, you need to correct the regulatory magic that went awry.
 QUEST_LV_0100_20150317_000619	If the Royal Mausoleum's power source is corrupted, the Guardians will forget their mission.{nl}You can purify the Royal Mausoleum's power source by lighting up the stone lanterns with {nl}the burning stones inside of a Guardian.
-QUEST_LV_0100_20150317_000620	Royal Mausoleum Regulatory Magic Manual
-QUEST_LV_0100_20150317_000621	The Royal Mausoleum Magic Regulator can be destroyed while the Activation Stone is being powered.{nl}The Activation Stone can be powered again through the Royal Mausoleum Regulatory Magic Manual.
+QUEST_LV_0100_20150317_000620	Royal Mausoleum Regulatory Magie Manual
+QUEST_LV_0100_20150317_000621	The Royal Mausoleum Magie Regulator can be destroyed while the Activation Stone is being powered.{nl}The Activation Stone can be powered again through the Royal Mausoleum Regulatory Magie Manual.
 QUEST_LV_0100_20150317_000622	The demons have cut off the regulatory magic source.{nl}Please gather magical power from the nearby Guardians.
 QUEST_LV_0100_20150317_000623	Good.{nl}The provision to the magical power shortage will now proceed.
 QUEST_LV_0100_20150317_000624	A path has been opened.{nl}Restore magical power by reigniting the stone lanterns of the Royal Mausoleum.
 QUEST_LV_0100_20150317_000625	When the regulatory magic flows yet again, the Guardians will regain their reason.{nl}But that will take a long time.
-QUEST_LV_0100_20150317_000626	Abnormal Guardians are attacking the Magic Vessels.{nl}Protect the Magic Vessels until the regulatory magic flows again.
-QUEST_LV_0100_20150317_000627	The Magic Vessels is like the heart of the Royal Mausoleum.{nl}It must never let it be destroyed.
+QUEST_LV_0100_20150317_000626	Abnormal Guardians are attacking the Magie Vessels.{nl}Protect the Magie Vessels until the regulatory magic flows again.
+QUEST_LV_0100_20150317_000627	The Magie Vessels is like the heart of the Royal Mausoleum.{nl}It must never let it be destroyed.
 QUEST_LV_0100_20150317_000628	Order will surely return to this place.{nl}But it will take a long time.
 QUEST_LV_0100_20150317_000629	The evil presence has corrupted the regulatory magic flow and is accumulating in the Royal Mausoleum.{nl}Find and remove the corrupted cores.
 QUEST_LV_0100_20150317_000630	The Royal Mausoleum was designed perfectly.{nl}But the demons' plan seems beyond perfect.
@@ -698,7 +698,7 @@ QUEST_LV_0100_20150317_000697	Stop Bearkaras, the final Guardian, before it dest
 QUEST_LV_0100_20150317_000698	Stop Bearkaras, the final Guardian, before it destroys the Royal Mausoleum.{nl}
 QUEST_LV_0100_20150317_000699	I thank you in the name of the goddesses!{nl}First, I'd like to request that you take care of the unsanitary Cockatrices that carry diseases.
 QUEST_LV_0100_20150317_000700	This monster is called a Moa. {nl}It ran away to the Leipsna Chapel Site to the west.{nl}
-QUEST_LV_0100_20150317_000701	The Royal Mausoleum Magic Regulator can be destroyed, {nl}while the Activation Stone is being powered.{nl}The Activation Stone can be powered again through the{nl}Royal Mausoleum Regulatory Magic Manual.
+QUEST_LV_0100_20150317_000701	The Royal Mausoleum Magie Regulator can be destroyed, {nl}while the Activation Stone is being powered.{nl}The Activation Stone can be powered again through the{nl}Royal Mausoleum Regulatory Magie Manual.
 QUEST_LV_0100_20150317_000702	Did Laima know that the world would turn out like this?{nl}She is the goddess of fate and foresight.
 QUEST_LV_0100_20150317_000703	It would not be strange if the world ended tomorrow.{nl}However, I just want to know. Why the goddesses disappeared...
 QUEST_LV_0100_20150317_000704	Press {Img F1 40 40} to use your remaining Status Points on the status you want to enhance.{nl}
@@ -778,19 +778,19 @@ QUEST_LV_0100_20150317_000777	Follower Vaidas
 QUEST_LV_0100_20150317_000778	It is reassuring to hear that Brother Tomas will be in charge of the altar.{nl}
 QUEST_LV_0100_20150317_000779	Brother Vaidutis is waiting on the 1st floor. {nl}Gesti's barrier is blocking the way, but don't worry. It can simply be taken down by{nl}the power of the altar.
 QUEST_LV_0100_20150317_000780	Follower Vaidas
-QUEST_LV_0100_20150317_000781	I regret that I didn't bring enough Holy Stones.{nl}I should have put them in all my pockets.
+QUEST_LV_0100_20150317_000781	I regret that I didn't bring enough Heilig Stones.{nl}I should have put them in all my pockets.
 QUEST_LV_0100_20150317_000782	The altars in the church are made to stop demons. {nl}Of course, only we, the Paladins, know how to use them.
 QUEST_LV_0100_20150317_000783	Is Brother Vaidutis alright?{nl}I would have been in serious trouble if not for your help.
 QUEST_LV_0100_20150317_000784	Follower Tomas
 QUEST_LV_0100_20150317_000785	The Yognomes are trying to eat the altar.{nl}I want you to defeat them.
-QUEST_LV_0100_20150317_000786	If I had any Holy Stones, I would stick them in the Yognomes' mouths.
+QUEST_LV_0100_20150317_000786	If I had any Heilig Stones, I would stick them in the Yognomes' mouths.
 QUEST_LV_0100_20150317_000787	Follower Tiberius
-QUEST_LV_0100_20150317_000788	I am making a Holy Bomb to attack demons with.{nl}I can complete it if I obtain Purified Essence. Can you help me?
+QUEST_LV_0100_20150317_000788	I am making a Heilig Bomb to attack demons with.{nl}I can complete it if I obtain Purified Essence. Can you help me?
 QUEST_LV_0100_20150317_000789	Bombs in the church doesn't sound good, but..{nl}I think the goddess will forgive me this time.
-QUEST_LV_0100_20150317_000790	I want to test it out on Glizardon.{nl}I'll give you the Holy Bomb. Can you put it onto a Glizardon's back?
-QUEST_LV_0100_20150317_000791	If you think it'll be dangerous, I will also give you Romuva Holy Water.{nl}When you drink this water, you will be invisible to the demons for a short time.
+QUEST_LV_0100_20150317_000790	I want to test it out on Glizardon.{nl}I'll give you the Heilig Bomb. Can you put it onto a Glizardon's back?
+QUEST_LV_0100_20150317_000791	If you think it'll be dangerous, I will also give you Romuva Heilig Water.{nl}When you drink this water, you will be invisible to the demons for a short time.
 QUEST_LV_0100_20150317_000792	Run away after setting the bomb on the back of Glizardon.{nl}Look at its size. It will not be fast.
-QUEST_LV_0100_20150317_000793	I only have one empty Holy Stone.{nl}Can you help me to fill this stone, please?
+QUEST_LV_0100_20150317_000793	I only have one empty Heilig Stone.{nl}Can you help me to fill this stone, please?
 QUEST_LV_0100_20150317_000794	We can sustain for a while if these stones can be filled without our brothers' help.
 QUEST_LV_0100_20150317_000795	It is a strategy to attack the boss first when there are multiple enemies.{nl}This time, it will be Glizardon.
 QUEST_LV_0100_20150317_000796	I would never have thought that you would defeat them this quickly.{nl}Thank you for your help.
@@ -803,7 +803,7 @@ QUEST_LV_0100_20150317_000802	The power of the altar makes conversion simple. {n
 QUEST_LV_0100_20150317_000803	The demons have stronger minds than you might think. {nl}It will take a lot of effort to make them forget about Gesti.
 QUEST_LV_0100_20150317_000804	Don't trust the water's effects too much, or Glizardon may find out about it.
 QUEST_LV_0100_20150317_000805	I am thinking about an effective way to defeat the demons.{nl}You came just at the right time.
-QUEST_LV_0100_20150317_000806	When you place the Holy Stone, it will absorb the lives of the nearby demons automatically.{nl}Besiege the demons that have already had their life absorbed.
+QUEST_LV_0100_20150317_000806	When you place the Heilig Stone, it will absorb the lives of the nearby demons automatically.{nl}Besiege the demons that have already had their life absorbed.
 QUEST_LV_0100_20150317_000807	You can obtain Vicious Essences from the demons.{nl}You can purify these essences at the Altar of Purification, which is down from here.
 QUEST_LV_0100_20150317_000808	Oh, they will find out if you are not confident enough. {nl}So it's better to fight the demons to gain some self confidence before using the scroll.
 QUEST_LV_0100_20150317_000809	Epigraphist Raymond
@@ -924,7 +924,7 @@ QUEST_LV_0100_20150317_000923	I asked my precious friend Algis to go to the Tene
 QUEST_LV_0100_20150317_000924	This Divine Sphere was the weapon used against Gesti at Emerald Bluff.{nl}It has been passed down since the first Paladin.{nl}
 QUEST_LV_0100_20150317_000925	In the kingdom, there are several valuable weapons aside from this Divine Sphere. {nl}Those weapons saved many lives on Medzio Diena four years ago.
 QUEST_LV_0100_20150317_000926	Starting from now, I will focus on the Divine Sphere.{nl}In the meantime, please use your skills so that nothing can disturb me.
-QUEST_LV_0100_20150317_000927	Sorry. My abilities weren't good enough. {nl}Gesti has now realized that the Holy Relic is not the revelation, and is probably heading {nl}straight to the church. {nl}
+QUEST_LV_0100_20150317_000927	Sorry. My abilities weren't good enough. {nl}Gesti has now realized that the Heilig Relic is not the revelation, and is probably heading {nl}straight to the church. {nl}
 QUEST_LV_0100_20150317_000928	But this old body of mine does not follow my will anymore. {nl}Now I can only trust my old friend Algis and you. {nl}
 QUEST_LV_0100_20150317_000929	Go. The Tenet Church is at the Fallen Tree Garden.{nl}Stop Gesti from gaining the revelation at all costs.
 QUEST_LV_0100_20150317_000930	It is too much for me to handle alone without any help from the other brothers. {nl}I'd better use the Malda Altar. {nl}
@@ -1042,8 +1042,8 @@ QUEST_LV_0100_20150317_001041	Amazing. You possess great power.
 QUEST_LV_0100_20150317_001042	My soul is ripped apart and locked within Soul Stones.{nl}Help me free by defeating the Slime Watcher.
 QUEST_LV_0100_20150317_001043	Another me from somewhere else led you to this place. {nl}Now, I can be released.
 QUEST_LV_0100_20150317_001044	But, if I get released like this, I will be split into pieces.{nl}
-QUEST_LV_0100_20150317_001045	The Holy Arc that had me inside is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Holy Ark.
-QUEST_LV_0100_20150317_001046	The Holy Ark that I was sealed within is broken, and the observers have taken those pieces.
+QUEST_LV_0100_20150317_001045	The Heilig Arc that had me inside is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Heilig Ark.
+QUEST_LV_0100_20150317_001046	The Heilig Ark that I was sealed within is broken, and the observers have taken those pieces.
 QUEST_LV_0100_20150317_001047	Now, I can be released.
 QUEST_LV_0100_20150317_001048	As long as there are Eyes of Surveillance, I can't be released from my restraints.{nl}Please defeat the monitors and release me.
 QUEST_LV_0100_20150317_001049	I am tied to a contract.{nl}I seem to be free, but am not really free.
@@ -1128,7 +1128,7 @@ QUEST_LV_0100_20150317_001127	Our guards love to fight.{nl}Pantos were not this 
 QUEST_LV_0100_20150317_001128	The Poata also destroyed the cable car at Nepavy Grassland. {nl}But it's not like we can guard it all the time. {nl}
 QUEST_LV_0100_20150317_001129	Even if we stay on guard, a fight with the Poata? {nl}That's not easy.
 QUEST_LV_0100_20150317_001130	You require a cable car in order to cross over to Leaf Veil Plateau from Silberstream Gorge.{nl}It is said that they used to go across by riding a basket fastened to rope.{nl}If you ask me, a cable car is bad enough.
-QUEST_LV_0100_20150317_001131	We're here to protect the Holy Land from the demons.{nl}It must be worse than expected if the Paladin Master is at Leaf Veil Plateau.{nl}
+QUEST_LV_0100_20150317_001131	We're here to protect the Heilig Land from the demons.{nl}It must be worse than expected if the Paladin Master is at Leaf Veil Plateau.{nl}
 QUEST_LV_0100_20150317_001132	I keep worrying about my brother at Emerald Bluff. {nl}I hope that he's alright.{nl}
 QUEST_LV_0100_20150317_001133	This place has a very sacred meaning to us. {nl}And we have a calling as Watchers, to protect this place. {nl}
 QUEST_LV_0100_20150317_001134	It has been protected for generations, since the day when we promised the first Paladin that {nl}we would protect it. And now that the demons have invaded, it is time to keep that promise.
@@ -1145,12 +1145,12 @@ QUEST_LV_0100_20150317_001144	I can't stand seeing the Panto totems pressed with
 QUEST_LV_0100_20150317_001145	We can't do anything until Basil restores the shaman doll perfectly. {nl}Unless for special situations like this, we can use, um, nothing.
 QUEST_LV_0100_20150317_001146	It would have been a disaster if the Wild Carnivore had legs.{nl}I'm glad it was killed beforehand.
 QUEST_LV_0100_20150317_001147	I heard we promised the first Paladin three things in return for saving our family. {nl}
-QUEST_LV_0100_20150317_001148	To help build the Tenet Church, {nl}to appoint the Watchers to safeguard the sacred land covering the Holy Relic, {nl}and lastly, to protect each other together when the great danger arises that was foretold. {nl}
+QUEST_LV_0100_20150317_001148	To help build the Tenet Church, {nl}to appoint the Watchers to safeguard the sacred land covering the Heilig Relic, {nl}and lastly, to protect each other together when the great danger arises that was foretold. {nl}
 QUEST_LV_0100_20150317_001149	I do not know what curse it was. {nl}There's got to be a record within the Tenet Church.
 QUEST_LV_0100_20150317_001150	Our Shaman dolls are different from Bokor's Shaman dolls. {nl}
 QUEST_LV_0100_20150317_001151	You don't need to be a Bokor to use it. {nl}It moves by itself to attack, or something like that.
-QUEST_LV_0100_20150317_001152	The demons could have used their hands to make it easier to fight. {nl}Maybe they are after the Holy Relic. {nl}
-QUEST_LV_0100_20150317_001153	Since the Holy Relic was hidden deep underground, {nl}who could have known that plants would be the reason for the world's overturn?
+QUEST_LV_0100_20150317_001152	The demons could have used their hands to make it easier to fight. {nl}Maybe they are after the Heilig Relic. {nl}
+QUEST_LV_0100_20150317_001153	Since the Heilig Relic was hidden deep underground, {nl}who could have known that plants would be the reason for the world's overturn?
 QUEST_LV_0100_20150317_001154	You may use a bit of force if words aren't enough. {nl}We can't grow any further from each other anymore.
 QUEST_LV_0100_20150317_001155	You can summon the shaman doll with this summon scroll. {nl}
 QUEST_LV_0100_20150317_001156	If possible, defeat the Carnivore too. {nl}It was contaminated by evil energy and I can't stand watching it anymore.
@@ -1227,7 +1227,7 @@ QUEST_LV_0100_20150317_001226	I can't believe the Cunningham's story is true... 
 QUEST_LV_0100_20150317_001227	Everything has a source called Mana. {nl}And everyone can connect to each other's Mana if they want. {nl}As if unearthing a channel.
 QUEST_LV_0100_20150317_001228	Have you ever seen Vubbes using pickaxes? {nl}I wonder what they are trying to find...
 QUEST_LV_0100_20150317_001229	Thank you very much for saved us.{nl}
-QUEST_LV_0100_20150317_001230	If you still want to enter the Closed Area, collect Vubbe Magic Stones from the Vubbes. {nl}And then insert them inside a gap and the Crystal Wall should open.
+QUEST_LV_0100_20150317_001230	If you still want to enter the Closed Area, collect Vubbe Magie Stones from the Vubbes. {nl}And then insert them inside a gap and the Crystal Wall should open.
 QUEST_LV_0100_20150317_001231	What are you doing here? Hurry and get into the mines. {nl}Weren't we supposed to meet in the 1st floor?
 QUEST_LV_0100_20150317_001232	No demon will be able to pass here.{nl}I will do my best to protect this place so they can't interrupt the Paladin Master.
 QUEST_LV_0100_20150317_001233	Absolute faith is our greatest shield.{nl}In accordance with the goddess' will, we came to fight using our justice and conviction.
@@ -2002,8 +2002,8 @@ QUEST_LV_0100_20150317_002001	The priest is at Cerpe Crossroads. {nl}I heard he 
 QUEST_LV_0100_20150317_002002	We would have never been able to see the portal even in our dreams if it wasn't for you. {nl}You truly are God's grace.
 QUEST_LV_0100_20150317_002003	Andale Dorf Priest
 QUEST_LV_0100_20150317_002004	Aren't these Black Maize Venom? {nl}Oh, thank you very much! {nl}
-QUEST_LV_0100_20150317_002005	You can count on me on helping you meet Goddess Saule. {nl}Now that the Holy Pond has been purified, we just need to solve the problem with the Obelisk.
-QUEST_LV_0100_20150317_002006	Magic letters are carved on the Obelisk. {nl}But some letters were erased since the Holy Pond became corrupted. {nl}
+QUEST_LV_0100_20150317_002005	You can count on me on helping you meet Goddess Saule. {nl}Now that the Heilig Pond has been purified, we just need to solve the problem with the Obelisk.
+QUEST_LV_0100_20150317_002006	Magie letters are carved on the Obelisk. {nl}But some letters were erased since the Heilig Pond became corrupted. {nl}
 QUEST_LV_0100_20150317_002007	If the letters are gone, then we will need to write them back on. {nl}Now that you've collected the Black Maize Venom, we will need White Oak Sap.
 QUEST_LV_0100_20150317_002008	I think we'll be able to meet Goddess Saule. We just need to restore the Obelisk.
 QUEST_LV_0100_20150317_002009	Bring that venom to the Dorf Priest at Cerpe Crossroads.
@@ -2157,7 +2157,7 @@ QUEST_LV_0100_20150317_002156	God looks after our village, so the water is clear
 QUEST_LV_0100_20150317_002157	So the Revelator has finally come.{nl}Very healthy and reliable. This time, we can do it.
 QUEST_LV_0100_20150317_002158	Aren't you the Revelator? {nl}So, what brings you to our village? {nl}
 QUEST_LV_0100_20150317_002159	Goddess Saule? {nl}We haven't seen her for a long time. {nl}
-QUEST_LV_0100_20150317_002160	The portal that leads to Goddess Saule doesn't open. {nl}I think it's because the Holy Pond is corrupted.
+QUEST_LV_0100_20150317_002160	The portal that leads to Goddess Saule doesn't open. {nl}I think it's because the Heilig Pond is corrupted.
 QUEST_LV_0100_20150317_002161	The Tanus in Zvelgian Vacant Lot carry Purifying Stones. {nl}They will be able to purify the Pond.
 QUEST_LV_0100_20150317_002162	Just like there are many demons, the same goes for the goddesses. {nl}The five goddesses are the only ones who became well known.
 QUEST_LV_0100_20150317_002163	Our village serves the Goddess Saule, who overlooks the sun. {nl}We used to go see her a lot through the portal, but one day that portal closed.
@@ -2946,11 +2946,11 @@ QUEST_LV_0100_20150317_002945	Light the Fire (1)
 QUEST_LV_0100_20150317_002946	Let's go get light the stone lantern
 QUEST_LV_0100_20150317_002947	Loading power/ MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002948	Light the Fire (2)
-QUEST_LV_0100_20150317_002949	Liberation of Magic (1)
+QUEST_LV_0100_20150317_002949	Liberation of Magie (1)
 QUEST_LV_0100_20150317_002950	Let's gather the active stones
-QUEST_LV_0100_20150317_002951	Liberation of Magic (2)
+QUEST_LV_0100_20150317_002951	Liberation of Magie (2)
 QUEST_LV_0100_20150317_002952	Go to destroy the evil power suppressor of the Mausoleum
-QUEST_LV_0100_20150317_002953	Liberation of Magic (3)
+QUEST_LV_0100_20150317_002953	Liberation of Magie (3)
 QUEST_LV_0100_20150317_002954	Go to destroy the last suppressor
 QUEST_LV_0100_20150317_002955	Hidden Place (1)
 QUEST_LV_0100_20150317_002956	Let's gather the force of the guardians and find the hidden treasure
@@ -2965,7 +2965,7 @@ QUEST_LV_0100_20150317_002964	Emergency (2)
 QUEST_LV_0100_20150317_002965	Let's light the stone lanterns of the Royal Mausoleum
 QUEST_LV_0100_20150317_002966	Igniting/ MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002967	Emergency (3)
-QUEST_LV_0100_20150317_002968	I'll guard the Magic Vessel
+QUEST_LV_0100_20150317_002968	I'll guard the Magie Vessel
 QUEST_LV_0100_20150317_002969	Prevent the Corruption
 QUEST_LV_0100_20150317_002970	Find the corrupted cores and remove it
 QUEST_LV_0100_20150317_002971	Corrupted Lantern (1)
@@ -3023,7 +3023,7 @@ QUEST_LV_0100_20150317_003022	Goddess Gabija (3)
 QUEST_LV_0100_20150317_003023	Let's go start a fire.
 QUEST_LV_0100_20150317_003024	I'm not ready yet
 QUEST_LV_0100_20150317_003025	Goddess Gabija (4)
-QUEST_LV_0100_20150317_003026	Move to the Magic Transport Field.
+QUEST_LV_0100_20150317_003026	Move to the Magie Transport Field.
 QUEST_LV_0100_20150317_003027	Let's find a safer way. 
 QUEST_LV_0100_20150317_003028	Goddess Gabija (5)
 QUEST_LV_0100_20150317_003029	Go to another magic circle.
@@ -3063,7 +3063,7 @@ QUEST_LV_0100_20150317_003062	Mage Tower 4th Floor (1)
 QUEST_LV_0100_20150317_003063	I agree to Grita's words
 QUEST_LV_0100_20150317_003064	It will be ok
 QUEST_LV_0100_20150317_003065	Mage Tower 4th Floor (2)
-QUEST_LV_0100_20150317_003066	I'll find the Magic Stabilizing Device
+QUEST_LV_0100_20150317_003066	I'll find the Magie Stabilizing Device
 QUEST_LV_0100_20150317_003067	Let's just go up
 QUEST_LV_0100_20150317_003068	Operating/ MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003069	Mage Tower 4th Floor (3)
@@ -3072,11 +3072,11 @@ QUEST_LV_0100_20150317_003071	It will be enough this way
 QUEST_LV_0100_20150317_003072	Mage Tower 4th Floor (4)
 QUEST_LV_0100_20150317_003073	Checking magic circle/ MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003074	Mage Tower 4th Floor (5)
-QUEST_LV_0100_20150317_003075	Destroy the 1st Magic Suppressor
+QUEST_LV_0100_20150317_003075	Destroy the 1st Magie Suppressor
 QUEST_LV_0100_20150317_003076	Notice/!/This device is suppressing the spell of the tower.{nl}Better destroy it quickly.#3
-QUEST_LV_0100_20150317_003077	Destroy the 2nd Magic Suppressor
-QUEST_LV_0100_20150317_003078	Destroy the 3rd Magic Suppressor
-QUEST_LV_0100_20150317_003079	Destroy the 4th Magic Suppressor
+QUEST_LV_0100_20150317_003077	Destroy the 2nd Magie Suppressor
+QUEST_LV_0100_20150317_003078	Destroy the 3rd Magie Suppressor
+QUEST_LV_0100_20150317_003079	Destroy the 4th Magie Suppressor
 QUEST_LV_0100_20150317_003080	Helgasercle Invading the Tower
 QUEST_LV_0100_20150317_003081	Lunatic Wizard (4)
 QUEST_LV_0100_20150317_003082	Lizard of Fire
@@ -3164,7 +3164,7 @@ QUEST_LV_0100_20150317_003163	No problem
 QUEST_LV_0100_20150317_003164	I'll think about it for a while
 QUEST_LV_0100_20150317_003165	Cleaning the Church
 QUEST_LV_0100_20150317_003166	Trapped Gesti
-QUEST_LV_0100_20150317_003167	I trust you
+QUEST_LV_0100_20150317_003167	Ich vertraue dir
 QUEST_LV_0100_20150317_003168	I'm not yet ready
 QUEST_LV_0100_20150317_003169	About the Divine Sphere
 QUEST_LV_0100_20150317_003170	The Hidden Sanctum's Revelation
@@ -3331,7 +3331,7 @@ QUEST_LV_0100_20150317_003330	It's annoying so just leave
 QUEST_LV_0100_20150317_003331	Sealed Soul (2)
 QUEST_LV_0100_20150317_003332	NPCChat/FTOWER42_SQ_02 /Finally free..
 QUEST_LV_0100_20150317_003333	Sealed Soul (3)
-QUEST_LV_0100_20150317_003334	Regain the Holy Ark
+QUEST_LV_0100_20150317_003334	Regain the Heilig Ark
 QUEST_LV_0100_20150317_003335	NPCChat/FTOWER42_SQ_04 /Finally.
 QUEST_LV_0100_20150317_003336	Release Me
 QUEST_LV_0100_20150317_003337	I'll release you
@@ -3393,7 +3393,7 @@ QUEST_LV_0100_20150317_003392	Lure the Baby Pantos
 QUEST_LV_0100_20150317_003393	About the Pantos
 QUEST_LV_0100_20150317_003394	Collecting Cable Car Parts
 QUEST_LV_0100_20150317_003395	That's too bad (leave)
-QUEST_LV_0100_20150317_003396	About the Holy Land
+QUEST_LV_0100_20150317_003396	About the Heilig Land
 QUEST_LV_0100_20150317_003397	The Tyrant of Silberstream Gorge
 QUEST_LV_0100_20150317_003398	I'll go and hunt the Poata
 QUEST_LV_0100_20150317_003399	Don't worry. That will never happen
@@ -3421,8 +3421,8 @@ QUEST_LV_0100_20150317_003420	Touching it/SITGROPE_LOOP/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003421	Release Goddess Saule (1)
 QUEST_LV_0100_20150317_003422	I need more time to prepare
 QUEST_LV_0100_20150317_003423	Entrapped Goddess
-QUEST_LV_0100_20150317_003424	Drugys Courtyard's Binding Magic Circle
-QUEST_LV_0100_20150317_003425	Vapsva Vacant Lot's Binding Magic Circle
+QUEST_LV_0100_20150317_003424	Drugys Courtyard's Binding Magie Circle
+QUEST_LV_0100_20150317_003425	Vapsva Vacant Lot's Binding Magie Circle
 QUEST_LV_0100_20150317_003426	Release Goddess Saule (2)
 QUEST_LV_0100_20150317_003427	Wait until my strength is fully recovered
 QUEST_LV_0100_20150317_003428	Release Goddess Saule (3)
@@ -3440,7 +3440,7 @@ QUEST_LV_0100_20150317_003439	Think of another way
 QUEST_LV_0100_20150317_003440	About Goddess Saule
 QUEST_LV_0100_20150317_003441	Notice/scroll /Use the cable car and go across to Zvelgian  #8
 QUEST_LV_0100_20150317_003442	Notice/Go and purify the sacred pond #5
-QUEST_LV_0100_20150317_003443	Purify the Holy Pond
+QUEST_LV_0100_20150317_003443	Purify the Heilig Pond
 QUEST_LV_0100_20150317_003444	Purifying/ MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003445	Search for the Missing Villager
 QUEST_LV_0100_20150317_003446	I'll look for him
@@ -3455,7 +3455,7 @@ QUEST_LV_0100_20150317_003454	Nugria Sanctum's Moyabruka
 QUEST_LV_0100_20150317_003455	Notice/Moyabraka appeared!
 QUEST_LV_0100_20150317_003456	Remove the pollutant in Veidma Uphill
 QUEST_LV_0100_20150317_003457	Notice /Besiege the monsters surrounding the source of the Corruption{nl} and remove the source!
-QUEST_LV_0100_20150317_003458	Holy Pond's Merregina
+QUEST_LV_0100_20150317_003458	Heilig Pond's Merregina
 QUEST_LV_0100_20150317_003459	Notice/Merregina appeared!
 QUEST_LV_0100_20150317_003460	Girl in Danger
 QUEST_LV_0100_20150317_003461	Oppotunity and Preparation
@@ -3703,7 +3703,7 @@ QUEST_LV_0100_20150317_003702	About the evil energy in the Thorn Forest
 QUEST_LV_0100_20150317_003703	In the Name of Faith (2)
 QUEST_LV_0100_20150317_003704	In the Name of Faith (3)
 QUEST_LV_0100_20150317_003705	Purifying??MAKING/2/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_003706	Retrieving Magic Crystal/MAKING/3/TRACK_BEFORE/None
+QUEST_LV_0100_20150317_003706	Retrieving Magie Crystal/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003707	In the name of Faith (4)
 QUEST_LV_0100_20150317_003708	Last Warning of the Beholder
 QUEST_LV_0100_20150317_003709	I'm doing fine
@@ -3860,7 +3860,7 @@ QUEST_LV_0100_20150317_003859	Besiege the Groß Kepa
 QUEST_LV_0100_20150317_003860	Sprich mit Laimonas
 QUEST_LV_0100_20150317_003861	Let's listen to Laimonas' favor like Sir Titas said.
 QUEST_LV_0100_20150317_003862	Worship the Goddess Statue
-QUEST_LV_0100_20150317_003863	Worship the Statue of Goddess Zemyna. The statue is located at the end of the road on the right of Laimonas.
+QUEST_LV_0100_20150317_003863	Worship the Statue der Göttin Zemyna. The statue is located at the end of the road on the right of Laimonas.
 QUEST_LV_0100_20150317_003864	You offered a prayer as Laimonas asked you to. Return and tell Laimonas about it.
 QUEST_LV_0100_20150317_003865	Listen to Laimonas' request.
 QUEST_LV_0100_20150317_003866	Besiege Infrorocktors at the marked area.
@@ -4070,7 +4070,7 @@ QUEST_LV_0100_20150317_004069	Please bring the collected supply boxes to the Sup
 QUEST_LV_0100_20150317_004070	Examine the barrier stone in Closed Area
 QUEST_LV_0100_20150317_004071	Vubbes are disappearing near the enchanted stones in the Closed Area. Examine the enchanted stone of the closed area.
 QUEST_LV_0100_20150317_004072	Besiege the Vubbes and collect Holystone
-QUEST_LV_0100_20150317_004073	Vubbe Magic Stones are needed to enter the Closed Area. Besiege the Vubbes and collect Vubbe Magic Stones.
+QUEST_LV_0100_20150317_004073	Vubbe Magie Stones are needed to enter the Closed Area. Besiege the Vubbes and collect Vubbe Magie Stones.
 QUEST_LV_0100_20150317_004074	Use Vubbe Holystones on the barrier stone.
 QUEST_LV_0100_20150317_004075	Follow Vubbes and put the Holystone in the enchanted stone.
 QUEST_LV_0100_20150317_004076	Besiege Vubbes and obtain %s
@@ -4343,15 +4343,15 @@ QUEST_LV_0100_20150317_004342	Inspect the Auxiliary Luftreiniger on 2F
 QUEST_LV_0100_20150317_004343	The Auxiliary Luftreiniger on the 2nd Floor is halted. Find out why it is halted.
 QUEST_LV_0100_20150317_004344	Use the Mine Compass
 QUEST_LV_0100_20150317_004345	Use the Mine Compass to check what you need to fix the Auxiliary Luftreiniger.
-QUEST_LV_0100_20150317_004346	Inspect the Magic Supply Device
-QUEST_LV_0100_20150317_004347	The Mine Compass is pointing towards the Magic Supply Device in District 4. Check what the problem is. 
+QUEST_LV_0100_20150317_004346	Inspect the Magie Supply Device
+QUEST_LV_0100_20150317_004347	The Mine Compass is pointing towards the Magie Supply Device in District 4. Check what the problem is. 
 QUEST_LV_0100_20150317_004348	Use the Mine Compass to check what you need to fix the Auxiliary Luftreiniger.
 QUEST_LV_0100_20150317_004349	Search for tools to remove rust
 QUEST_LV_0100_20150317_004350	Follow the lead of the Mine Compass and find a way to remove the rust.
-QUEST_LV_0100_20150317_004351	Restore the Magic Supply Device in District 4
-QUEST_LV_0100_20150317_004352	Seems like you can fix the Magic Supply Device in District 4 with lubricant.
+QUEST_LV_0100_20150317_004351	Restore the Magie Supply Device in District 4
+QUEST_LV_0100_20150317_004352	Seems like you can fix the Magie Supply Device in District 4 with lubricant.
 QUEST_LV_0100_20150317_004353	Activate the Auxiliary Luftreiniger on 2F
-QUEST_LV_0100_20150317_004354	The Magic Supply Device seems to be working well. Activate the Auxiliary Luftreiniger.
+QUEST_LV_0100_20150317_004354	The Magie Supply Device seems to be working well. Activate the Auxiliary Luftreiniger.
 QUEST_LV_0100_20150317_004355	Check the Main Luftreiniger
 QUEST_LV_0100_20150317_004356	The Main Luftreiniger is not working. Go and inspect it.
 QUEST_LV_0100_20150317_004357	Use the Mine Compass to locate the missing parts of the purifier
@@ -4713,8 +4713,8 @@ QUEST_LV_0100_20150317_004712	The determination of the king is trying to destroy
 QUEST_LV_0100_20150317_004713	Besiege Bearkaras
 QUEST_LV_0100_20150317_004714	Sprich mit the Secret Guardian
 QUEST_LV_0100_20150317_004715	Continue to chase after Rexipher deeper into the Royal Mausoleum and prevent the demons from damaging the Royal Mausoleum.
-QUEST_LV_0100_20150317_004716	Collect the Royal Mausoleum's Magic Sources
-QUEST_LV_0100_20150317_004717	The Secret Guardian is trying to stop Rexipher from obtaining the revelation. Collect the Royal Mausoleum's Magic Sources from the Guardians.
+QUEST_LV_0100_20150317_004716	Collect the Royal Mausoleum's Magie Sources
+QUEST_LV_0100_20150317_004717	The Secret Guardian is trying to stop Rexipher from obtaining the revelation. Collect the Royal Mausoleum's Magie Sources from the Guardians.
 QUEST_LV_0100_20150317_004718	You have collected all the magic sources. Return to the Secret Guardian.
 QUEST_LV_0100_20150317_004719	Obtain %s by defeating Madakia
 QUEST_LV_0100_20150317_004720	Obtain the Soul Pot
@@ -4766,17 +4766,17 @@ QUEST_LV_0100_20150317_004765	A monster interfered as you were about to find the
 QUEST_LV_0100_20150317_004766	Find the secret treasure of the Royal Mausoleum
 QUEST_LV_0100_20150317_004767	You defeated the Tomb Lord that interfered. Now, go find the secret treasure.
 QUEST_LV_0100_20150317_004768	Besiege Tomb Lord
-QUEST_LV_0100_20150317_004769	Collect the Blazing Magic Sources
-QUEST_LV_0100_20150317_004770	The Guardian's Stone Statue told you that the magic to suppress the Guardians was distorted due to demons' schemes. To fix this, get the Blazing Magic Sources that are inside the Guardians. 
-QUEST_LV_0100_20150317_004771	You've collected enough amount of Blazing Magic Sources. Return to the Guardian's Stone Statue.
+QUEST_LV_0100_20150317_004769	Collect the Blazing Magie Sources
+QUEST_LV_0100_20150317_004770	The Guardian's Stone Statue told you that the magic to suppress the Guardians was distorted due to demons' schemes. To fix this, get the Blazing Magie Sources that are inside the Guardians. 
+QUEST_LV_0100_20150317_004771	You've collected enough amount of Blazing Magie Sources. Return to the Guardian's Stone Statue.
 QUEST_LV_0100_20150317_004772	Obtain %s by defeating Vikaras and Vekarabe
 QUEST_LV_0100_20150317_004773	Obtained the magnet of the Mausoleum
-QUEST_LV_0100_20150317_004774	To fix the flow of regulatory magic, you've collected the Blazing Magic Sources. Light up the stone lantern of the Royal Mausoleum and protect it to fix the flow of regulatory magic.
+QUEST_LV_0100_20150317_004774	To fix the flow of regulatory magic, you've collected the Blazing Magie Sources. Light up the stone lantern of the Royal Mausoleum and protect it to fix the flow of regulatory magic.
 QUEST_LV_0100_20150317_004775	Light up the stone lantern and protect it
-QUEST_LV_0100_20150317_004776	You should change the flow of the magic by using the Blazing Magic Sources. Light up the stone lantern and protect it from the monsters rushing in so it won't break.
+QUEST_LV_0100_20150317_004776	You should change the flow of the magic by using the Blazing Magie Sources. Light up the stone lantern and protect it from the monsters rushing in so it won't break.
 QUEST_LV_0100_20150317_004777	You were able to fix the flow of the magic, but there are still demons interfering with the flow of magic. Sprich mit the Guardian's Stone Statue.
-QUEST_LV_0100_20150317_004778	Besiege the Guardians near the Magic Vessels
-QUEST_LV_0100_20150317_004779	The Guardian's Stone Statue told you that the corrupted Guardians are trying to break the Magic Vessels. Besiege the Guardians near the Magic Vessels.
+QUEST_LV_0100_20150317_004778	Besiege the Guardians near the Magie Vessels
+QUEST_LV_0100_20150317_004779	The Guardian's Stone Statue told you that the corrupted Guardians are trying to break the Magie Vessels. Besiege the Guardians near the Magie Vessels.
 QUEST_LV_0100_20150317_004780	You were able to protect the vessels by defeating the Guardians. Return to the Guardian's Stone Statue.
 QUEST_LV_0100_20150317_004781	Besiege the Guardian who threatens to break the Vessels
 QUEST_LV_0100_20150317_004782	Remove the corrupted cores
@@ -4884,17 +4884,17 @@ QUEST_LV_0100_20150317_004883	Grita told you that Gabija was protecting the towe
 QUEST_LV_0100_20150317_004884	You successfully lit up the signal. Sprich mit Grita again.
 QUEST_LV_0100_20150317_004885	Besiege the Rubblems
 QUEST_LV_0100_20150317_004886	You lit up a signal to let the goddess know that help is coming. Discuss what to do next with Grita.
-QUEST_LV_0100_20150317_004887	Check the 1st Transport Magic Circle
-QUEST_LV_0100_20150317_004888	Grita told you that using the Transport Magic Circle is the fastest way to go upstairs. Go to the 1st Transport Magic Circle to see whether it is working correctly.
-QUEST_LV_0100_20150317_004889	You defeated the monsters that were rushing in and arrived at the place where the 1st Transport Magic Circle is located at. Sprich mit Grita.{nl}{nl}Grita finished checking the 1st Transport Magic Circle. Ask Grita if it works.
+QUEST_LV_0100_20150317_004887	Check the 1st Transport Magie Circle
+QUEST_LV_0100_20150317_004888	Grita told you that using the Transport Magie Circle is the fastest way to go upstairs. Go to the 1st Transport Magie Circle to see whether it is working correctly.
+QUEST_LV_0100_20150317_004889	You defeated the monsters that were rushing in and arrived at the place where the 1st Transport Magie Circle is located at. Sprich mit Grita.{nl}{nl}Grita finished checking the 1st Transport Magie Circle. Ask Grita if it works.
 QUEST_LV_0100_20150317_004890	Besiege interfering Phyracons
 QUEST_LV_0100_20150317_004891	Besiege interfering Drakes
-QUEST_LV_0100_20150317_004892	Grita's face turned grim as she was checking the Transport Magic Circle. Sprich mit Grita.
-QUEST_LV_0100_20150317_004893	Activate the 2nd Transport Magic Circle
-QUEST_LV_0100_20150317_004894	Grita told you that the 1st Transport Magic Circle is badly broken and recommended to use the other, larger Transport Magic Circle. Look for the 2nd Transport Magic Circle and activate it.
-QUEST_LV_0100_20150317_004895	You thought you could use the 2nd Transport Magic Circle, but there was a trap set by the demons. Sprich mit Grita again.
-QUEST_LV_0100_20150317_004896	Destroy the 2nd Transport Magic Circle restraining Grita
-QUEST_LV_0100_20150317_004897	Grita told you that with the present danger, the plan to directly reach Goddess Gabija via the Transport Magic Circles should be abandoned, and you should focus on the monsters rushing into the tower. Sprich mit Grita for more details.
+QUEST_LV_0100_20150317_004892	Grita's face turned grim as she was checking the Transport Magie Circle. Sprich mit Grita.
+QUEST_LV_0100_20150317_004893	Activate the 2nd Transport Magie Circle
+QUEST_LV_0100_20150317_004894	Grita told you that the 1st Transport Magie Circle is badly broken and recommended to use the other, larger Transport Magie Circle. Look for the 2nd Transport Magie Circle and activate it.
+QUEST_LV_0100_20150317_004895	You thought you could use the 2nd Transport Magie Circle, but there was a trap set by the demons. Sprich mit Grita again.
+QUEST_LV_0100_20150317_004896	Destroy the 2nd Transport Magie Circle restraining Grita
+QUEST_LV_0100_20150317_004897	Grita told you that with the present danger, the plan to directly reach Goddess Gabija via the Transport Magie Circles should be abandoned, and you should focus on the monsters rushing into the tower. Sprich mit Grita for more details.
 QUEST_LV_0100_20150317_004898	Charge the Absorbing Edelstein
 QUEST_LV_0100_20150317_004899	Grita said in order to activate the Tower's Barrier Device again, it would need a great amount of energy. Set the gem Grita gave you on the ground and recharge the gem with the monsters' life force.
 QUEST_LV_0100_20150317_004900	You were able to charge the Absorbing Edelstein with monsters' life force. Return to Grita.
@@ -4929,12 +4929,12 @@ QUEST_LV_0100_20150317_004928	Besiege Krumadok
 QUEST_LV_0100_20150317_004929	It seems that the mad magician Antares is loose. Besiege the Krumadok which Antares has summoned.
 QUEST_LV_0100_20150317_004930	You defeated Krumadoks which Antares summoned. Sprich mit Grita.
 QUEST_LV_0100_20150317_004931	It was the mad magician, Antares who summoned the Krumadoks. Sprich mit Grita.
-QUEST_LV_0100_20150317_004932	Destroy the first Magic Control Valve
-QUEST_LV_0100_20150317_004933	Grita told you to break the Magic Control Valve to stop Antares. Destroy the valve at the Laboratory.
+QUEST_LV_0100_20150317_004932	Destroy the first Magie Control Valve
+QUEST_LV_0100_20150317_004933	Grita told you to break the Magie Control Valve to stop Antares. Destroy the valve at the Laboratory.
 QUEST_LV_0100_20150317_004934	As you destroyed the valve, it exploded. While it cleared away the monsters, it was really dangerous. Sprich mit Grita again.
-QUEST_LV_0100_20150317_004935	Destroy the Magic Control Valve
-QUEST_LV_0100_20150317_004936	The Magic Control Valve was way more powerful than you expected. You better discuss it with Grita.
-QUEST_LV_0100_20150317_004937	Look for info on the Magic Control Valve
+QUEST_LV_0100_20150317_004935	Destroy the Magie Control Valve
+QUEST_LV_0100_20150317_004936	The Magie Control Valve was way more powerful than you expected. You better discuss it with Grita.
+QUEST_LV_0100_20150317_004937	Look for info on the Magie Control Valve
 QUEST_LV_0100_20150317_004938	Grita told you that since Antares did research on the flow of magic, the research information must be left nearby. Search Antares' books and find information on the valves.
 QUEST_LV_0100_20150317_004939	It seems that you found information on the flow of magic. Sprich mit Grita.
 QUEST_LV_0100_20150317_004940	You found the way to destroy the magic safely. Sprich mit Grita.
@@ -4971,17 +4971,17 @@ QUEST_LV_0100_20150317_004970	Grita suddenly ran away with the jewel! You are co
 QUEST_LV_0100_20150317_004971	Besiege the monsters that were summoned by the demon, Grita
 QUEST_LV_0100_20150317_004972	Grita was in fact a demon. Were you deceived by Grita all along? Besiege the monsters that were summoned by Grita.
 QUEST_LV_0100_20150317_004973	Besiege Grinende
-QUEST_LV_0100_20150317_004974	Destroy Helgasercle's 1st Magic Suppressor
-QUEST_LV_0100_20150317_004975	Helgasercle created Magic Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 1st Suppressor located at the Hall of Fire.
-QUEST_LV_0100_20150317_004976	Destroy the Magic Suppressor
-QUEST_LV_0100_20150317_004977	Destroy Helgasercle's 2nd Magic Suppressor
-QUEST_LV_0100_20150317_004978	Helgasercle created Magic Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 2nd Suppressor located at the Reception Room.
-QUEST_LV_0100_20150317_004979	Destroy Helgasercle's 3rd Magic Suppressor
-QUEST_LV_0100_20150317_004980	Helgasercle created Magic Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 3rd Suppressor located at the Klein Hall.
-QUEST_LV_0100_20150317_004981	Destroy Helgasercle's 4th Magic Suppressor
-QUEST_LV_0100_20150317_004982	Helgasercle created Magic Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 4th Suppressor at the Reading Room.
+QUEST_LV_0100_20150317_004974	Destroy Helgasercle's 1st Magie Suppressor
+QUEST_LV_0100_20150317_004975	Helgasercle created Magie Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 1st Suppressor located at the Hall of Fire.
+QUEST_LV_0100_20150317_004976	Destroy the Magie Suppressor
+QUEST_LV_0100_20150317_004977	Destroy Helgasercle's 2nd Magie Suppressor
+QUEST_LV_0100_20150317_004978	Helgasercle created Magie Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 2nd Suppressor located at the Reception Room.
+QUEST_LV_0100_20150317_004979	Destroy Helgasercle's 3rd Magie Suppressor
+QUEST_LV_0100_20150317_004980	Helgasercle created Magie Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 3rd Suppressor located at the Klein Hall.
+QUEST_LV_0100_20150317_004981	Destroy Helgasercle's 4th Magie Suppressor
+QUEST_LV_0100_20150317_004982	Helgasercle created Magie Suppressors on the 5th floor to weaken the Mage Tower's power. Destroy the 4th Suppressor at the Reading Room.
 QUEST_LV_0100_20150317_004983	Find Helgasercle
-QUEST_LV_0100_20150317_004984	You destroyed all four Magic Suppressors that Helgasercle prepared. It is now time to liberate the Mage Tower from the demon's powers. Find Helgasercle at the Great Hall.
+QUEST_LV_0100_20150317_004984	You destroyed all four Magie Suppressors that Helgasercle prepared. It is now time to liberate the Mage Tower from the demon's powers. Find Helgasercle at the Great Hall.
 QUEST_LV_0100_20150317_004985	Besiege Helgasercle
 QUEST_LV_0100_20150317_004986	Besiege Helgasercle
 QUEST_LV_0100_20150317_004987	Use the Jewel of Prominence
@@ -5093,16 +5093,16 @@ QUEST_LV_0100_20150317_005092	You defeated the Unknocker that was guarding the a
 QUEST_LV_0100_20150317_005093	Sprich mit the Follower Tiberius
 QUEST_LV_0100_20150317_005094	Tiberius is waiting for someone's help in the Tenet Church 1F.
 QUEST_LV_0100_20150317_005095	Obtained the Purified Essences.
-QUEST_LV_0100_20150317_005096	Tiberius told you to obtain Vicious Essences by defeating demons, and then purify them into Purified Essences at the Altar of Purification, so he can complete his Holy Bomb.
+QUEST_LV_0100_20150317_005096	Tiberius told you to obtain Vicious Essences by defeating demons, and then purify them into Purified Essences at the Altar of Purification, so he can complete his Heilig Bomb.
 QUEST_LV_0100_20150317_005097	You have collected enough Purified Essences as Tiberius requested of you. Return to Tiberius.
-QUEST_LV_0100_20150317_005098	Besiege Glizardon using the Holy Bomb
-QUEST_LV_0100_20150317_005099	Tiberius wants to test the Holy Bombs on Glizardon. Drink the Romuva Holy Water to hide yourself, and then put the Holy Bomb onto a Glizardon's back. 
-QUEST_LV_0100_20150317_005100	Glizardon died right away after the Holy Bomb on it's back exploded. Return to Tiberius and tell him about it.
+QUEST_LV_0100_20150317_005098	Besiege Glizardon using the Heilig Bomb
+QUEST_LV_0100_20150317_005099	Tiberius wants to test the Heilig Bombs on Glizardon. Drink the Romuva Heilig Water to hide yourself, and then put the Heilig Bomb onto a Glizardon's back. 
+QUEST_LV_0100_20150317_005100	Glizardon died right away after the Heilig Bomb on it's back exploded. Return to Tiberius and tell him about it.
 QUEST_LV_0100_20150317_005101	Sprich mit Follower Vaidas
 QUEST_LV_0100_20150317_005102	Vaidas is waiting for help at the Tenet Church B1.
-QUEST_LV_0100_20150317_005103	Charge the Holy Stone
-QUEST_LV_0100_20150317_005104	Vaidas told you to charge the empty Holy Stone with the lives of the demons. He told you that when you place the stone and lure demons near it, the stone will automatically absorb the lives of the demons.
-QUEST_LV_0100_20150317_005105	You successfully charged the Holy Stone as Vaidas requested of you. Return to Vaidas.
+QUEST_LV_0100_20150317_005103	Charge the Heilig Stone
+QUEST_LV_0100_20150317_005104	Vaidas told you to charge the empty Heilig Stone with the lives of the demons. He told you that when you place the stone and lure demons near it, the stone will automatically absorb the lives of the demons.
+QUEST_LV_0100_20150317_005105	You successfully charged the Heilig Stone as Vaidas requested of you. Return to Vaidas.
 QUEST_LV_0100_20150317_005106	Besiege Glizardons
 QUEST_LV_0100_20150317_005107	Vaidas asked you to defeat the Glizardons that roam around the Tenet Church B1.
 QUEST_LV_0100_20150317_005108	You defeated the Glizardons as Vaidas requested. Return to Vaidas.
@@ -5548,8 +5548,8 @@ QUEST_LV_0100_20150317_005547	There seems to be a few more sealed stones apart f
 QUEST_LV_0100_20150317_005548	Sprich mit another seal stone
 QUEST_LV_0100_20150317_005549	Besiege the observer Groß Slime
 QUEST_LV_0100_20150317_005550	The Sealed Stone needs help. Sprich mit the Sealed Stone.
-QUEST_LV_0100_20150317_005551	Besiege the monsters nearby and get piece of Holy Ark.
-QUEST_LV_0100_20150317_005552	Seal stone says it need a Holy Ark to hold the soul. Get the pieces of Holy Ark from monsters nearby.
+QUEST_LV_0100_20150317_005551	Besiege the monsters nearby and get piece of Heilig Ark.
+QUEST_LV_0100_20150317_005552	Seal stone says it need a Heilig Ark to hold the soul. Get the pieces of Heilig Ark from monsters nearby.
 QUEST_LV_0100_20150317_005553	Return to the Sealed Stone and release the spirit.
 QUEST_LV_0100_20150317_005554	There is a Sealed Stone in the office. Sprich mit it. 
 QUEST_LV_0100_20150317_005555	Besiege the monsters nearby to release
@@ -5599,7 +5599,7 @@ QUEST_LV_0100_20150317_005598	Met Furry Odd near the Machinery room. Sprich mit 
 QUEST_LV_0100_20150317_005599	Besiege Yonazolem
 QUEST_LV_0100_20150317_005600	Furry Odd says she saw a Yonazolem inside the machine room. Besiege the Yonazolem while Furry Odd stops the monsters at the entrance.
 QUEST_LV_0100_20150317_005601	Defeated Yonazolem. Return to Furry Odd.
-QUEST_LV_0100_20150317_005602	There is a Sealed Stone near the Magic Stabilizing Device. Sprich mit it.
+QUEST_LV_0100_20150317_005602	There is a Sealed Stone near the Magie Stabilizing Device. Sprich mit it.
 QUEST_LV_0100_20150317_005603	The Sealed Stone asked you to defeat the monsters nearby so that it can be freed. What will happen when all of them are freed? First, defeat the monsters as the seal requested.
 QUEST_LV_0100_20150317_005604	Finished the request of the Sealed Stone. Release the soul.
 QUEST_LV_0100_20150317_005605	Find the Sealed Stone
@@ -5631,8 +5631,8 @@ QUEST_LV_0100_20150317_005630	Return to Hauberk and release his last soul and wi
 QUEST_LV_0100_20150317_005631	Besiege the Stone Whale
 QUEST_LV_0100_20150317_005632	Find the goddess in Mage Tower 5F
 QUEST_LV_0100_20150317_005633	Look for the goddess in Mage Tower 5F
-QUEST_LV_0100_20150317_005634	Destroy the Magic Suppressor prepared by Helgasercle
-QUEST_LV_0100_20150317_005635	Destroy all the Magic Suppressors that Helgasercle prepared on the 5th floor of the Mage Tower.
+QUEST_LV_0100_20150317_005634	Destroy the Magie Suppressor prepared by Helgasercle
+QUEST_LV_0100_20150317_005635	Destroy all the Magie Suppressors that Helgasercle prepared on the 5th floor of the Mage Tower.
 QUEST_LV_0100_20150317_005636	Find and defeat Helgasercle who invaded the Mage Tower.
 QUEST_LV_0100_20150317_005637	Sprich mit Watcher Gilbert
 QUEST_LV_0100_20150317_005638	The Watchers at Silberstream Gorge are waiting for someone to help them.
@@ -5742,10 +5742,10 @@ QUEST_LV_0100_20150317_005741	Search for portals near Grassy Brookside
 QUEST_LV_0100_20150317_005742	According to the Paladin Master, the Iridescent Valley spoken of in the revelation is most likely the Grassy Brookside region. Follow the revelation to Grassy Brookside.
 QUEST_LV_0100_20150317_005743	Collect Purifying Stones from Tanu
 QUEST_LV_0100_20150317_005744	You need to use the portal to go to Goddess Saule but it is not working. The Old Man said you need to collect Purifying Stone of Tanu to activate the portal.
-QUEST_LV_0100_20150317_005745	Collected all the purifying stones needed. Use it to purify the Holy Pond.
-QUEST_LV_0100_20150317_005746	Purify the Holy Pond, which should restore the portal.
+QUEST_LV_0100_20150317_005745	Collected all the purifying stones needed. Use it to purify the Heilig Pond.
+QUEST_LV_0100_20150317_005746	Purify the Heilig Pond, which should restore the portal.
 QUEST_LV_0100_20150317_005747	Bericht an den Old Man
-QUEST_LV_0100_20150317_005748	Purified the Holy Pond. Return to the Old Man and ask about the portal mentioned in the revelation.
+QUEST_LV_0100_20150317_005748	Purified the Heilig Pond. Return to the Old Man and ask about the portal mentioned in the revelation.
 QUEST_LV_0100_20150317_005749	Sprich mit the Old Man
 QUEST_LV_0100_20150317_005750	Find the villager sent by the Old Man
 QUEST_LV_0100_20150317_005751	The Old Man says he sent a villager to Nugria Sanctum to see of the portal is working but he has not heard since. Find the villager who was sent to Nugria Sanctum.
@@ -5755,15 +5755,15 @@ QUEST_LV_0100_20150317_005754	Besiege the monsters that attacked the villager
 QUEST_LV_0100_20150317_005755	Found the villager, but he seems hurt. Ask what happened.
 QUEST_LV_0100_20150317_005756	Check the altar at Nugria Sanctum
 QUEST_LV_0100_20150317_005757	The villager says he was attacked while on his way to check on the portal. Go and check if the portal at Nugria Sanctum is open for the villager.
-QUEST_LV_0100_20150317_005758	Purified the Holy Pond, but the portal at Nugria Sanctum did not open. Return to the Injured Villager and ask what to do.
+QUEST_LV_0100_20150317_005758	Purified the Heilig Pond, but the portal at Nugria Sanctum did not open. Return to the Injured Villager and ask what to do.
 QUEST_LV_0100_20150317_005759	Check the Portal at Nugria Sanctum
 QUEST_LV_0100_20150317_005760	Check the Portal at Nugria Sanctum.
 QUEST_LV_0100_20150317_005761	Besiege Moyabruka
 QUEST_LV_0100_20150317_005762	Check the source of corruption in Veidma Uphill
 QUEST_LV_0100_20150317_005763	Something is corrupting the surroundings of Veidma Uphill. Besiege the source.
 QUEST_LV_0100_20150317_005764	The source of corruption is becoming stronger with the monsters. Besiege the monsters nearby and remove the source when it is weakened.
-QUEST_LV_0100_20150317_005765	Check out Holy Pond
-QUEST_LV_0100_20150317_005766	The corruption in the Holy Pond seems serious. Check out Holy Pond.
+QUEST_LV_0100_20150317_005765	Check out Heilig Pond
+QUEST_LV_0100_20150317_005766	The corruption in the Heilig Pond seems serious. Check out Heilig Pond.
 QUEST_LV_0100_20150317_005767	Besiege Merregina
 QUEST_LV_0100_20150317_005768	Go to the altar at Nugria Sanctum
 QUEST_LV_0100_20150317_005769	The villagers suddenly became demons and attacked. Run to Nugria Sanctum at Grassy Brookside in order to follow the revelation.
@@ -6104,7 +6104,7 @@ QUEST_LV_0100_20150317_006103	Check the Military Backpack
 QUEST_LV_0100_20150317_006104	The Ghost disappeared when you approached it and only the pouch is left. Check what's inside the pouch.
 QUEST_LV_0100_20150317_006105	You've found orders underneath the soldiers diary while checking the military backpack of the Wandering Spirit at Remaining Tree Dale. Check the orders in the backpack.
 QUEST_LV_0100_20150317_006106	Commence Operation Wooden Dorf
-QUEST_LV_0100_20150317_006107	Found the plan for Operation Wooden Dorf in the backpack. The plan was to defeat the Zolems around Neryshkus Sanctum Ruins, then using Zolem Magic Stones to summon Unicorn, and then defeating it. The Wandering Spirit seems to have been in an accident while carrying out the plan. Continue the plan to comfort the spirit.
+QUEST_LV_0100_20150317_006107	Found the plan for Operation Wooden Dorf in the backpack. The plan was to defeat the Zolems around Neryshkus Sanctum Ruins, then using Zolem Magie Stones to summon Unicorn, and then defeating it. The Wandering Spirit seems to have been in an accident while carrying out the plan. Continue the plan to comfort the spirit.
 QUEST_LV_0100_20150317_006108	Prepare to lure Unicorn
 QUEST_LV_0100_20150317_006109	Collected enough Zolem Stones. Put the stone in the abandoned bag written in the command and lure the unicorn.
 QUEST_LV_0100_20150317_006110	Besiege Zolems and acquire %s
@@ -6112,7 +6112,7 @@ QUEST_LV_0100_20150317_006111	Besiege Zolems
 QUEST_LV_0100_20150317_006112	Carry out Operation Tree Dale
 QUEST_LV_0100_20150317_006113	Carry out Operation Tree Dale for the Wandering Spirit at Remaining Tree Dale.
 QUEST_LV_0100_20150317_006114	Besiege Unicorn
-QUEST_LV_0100_20150317_006115	Unicorn appeared when the Zolem Magic Stones were put in the bag. Besiege Unicorn.
+QUEST_LV_0100_20150317_006115	Unicorn appeared when the Zolem Magie Stones were put in the bag. Besiege Unicorn.
 QUEST_LV_0100_20150317_006116	Bericht an den Wandering Spirit
 QUEST_LV_0100_20150317_006117	Completed Operation Wooden Dorf. Let the Wandering Spirit know about it.
 QUEST_LV_0100_20150317_006118	Besiege Unicorn and acquire %s
@@ -6177,7 +6177,7 @@ QUEST_LV_0100_20150317_006176	Virgis' Memo: To start, charge the magic crystals 
 QUEST_LV_0100_20150317_006177	Collect Operor stingers to refine the magic crystal with.
 QUEST_LV_0100_20150317_006178	Virgis' Memo: Great. But we can't use the crystal right away because it accumulated foul energy. So collect stingers from Operors for their purifying capabilities.
 QUEST_LV_0100_20150317_006179	Besiege Operor and get %s
-QUEST_LV_0100_20150317_006180	Refine the magic in the Magic Crystals
+QUEST_LV_0100_20150317_006180	Refine the magic in the Magie Crystals
 QUEST_LV_0100_20150317_006181	Virgis' Memo: Did you collect all the stingers? The Altar of Purification is in Lenistwo Wasteland. Go there and use the Operor's Stingers to refine the magic crystal.
 QUEST_LV_0100_20150317_006182	Get the refined magic crystal
 QUEST_LV_0100_20150317_006183	Use the refined magic crystal to remove the thorny vines
@@ -6634,7 +6634,7 @@ QUEST_LV_0100_20150414_006633	Besiege the Vubbe Fighter. {nl}Search Scouts are o
 QUEST_LV_0100_20150414_006634	You'll need to cross Srautas Gorge to get to Gele Plateau. {nl}Go down from the Twin Bridge and you'll arrive at Srautas Gorge.
 QUEST_LV_0100_20150414_006635	You have came all the way here, just for a mere meddlesome woman? {nl}Do you honestly want to save this woman that much?
 QUEST_LV_0100_20150414_006636	We're looking for a stone with strange engraving like this. {nl}If you see a stone like this, please don't touch it and just let us know about it.
-QUEST_LV_0100_20150414_006637	The Magic Regulator of the Royal Mausoleum can be destroyed with the power of the{nl}Activation Stones. Details can be found in the Magic Regulator Manual.
+QUEST_LV_0100_20150414_006637	The Magie Regulator of the Royal Mausoleum can be destroyed with the power of the{nl}Activation Stones. Details can be found in the Magie Regulator Manual.
 QUEST_LV_0100_20150414_006638	As you can see, Fedimian is right under our noses but we can't get to it with the Cockatrices {nl}around. Can you teach them a lesson on how scary humans are?
 QUEST_LV_0100_20150414_006639	Denoptic is trying to control the corrupted Guardians. {nl}Annihilate it so that the Guardians will not fall into its hands.
 QUEST_LV_0100_20150414_006640	Thank you in the name of the Goddes! {nl}Please defeat the filthy Cockatrice first that are spreading diseases.
@@ -6712,14 +6712,14 @@ QUEST_LV_0100_20150428_006711	That's why I am thinking about setting it on fire.
 QUEST_LV_0100_20150428_006712	I leave Ruklys on this land with my regrets and tears.{nl}If there is someone who wishes to continue his will, I will leave my secret on this gravestone.{nl}I will lay out my long story here.
 QUEST_LV_0100_20150428_006713	Even if a person is in danger, if he knows that someone will come to help him, he will have the extra energy to endure longer.
 QUEST_LV_0100_20150428_006714	If you are truly the Revelator, then you must be able to attain the divine secrets at the end of {nl}this revelation.
-QUEST_LV_0100_20150428_006715	The Transport Magic Circle will take you to a floor of your choosing in the tower.{nl}I don't know if we can use the magic circle anymore. Let's go and find out.
+QUEST_LV_0100_20150428_006715	The Transport Magie Circle will take you to a floor of your choosing in the tower.{nl}I don't know if we can use the magic circle anymore. Let's go and find out.
 QUEST_LV_0100_20150428_006716	Darn.{nl}They broke it. It is beyond repair.
 QUEST_LV_0100_20150428_006717	When you activate the Tower's Barrier Device, monsters won't be able to enter anymore.{nl}The magic power supply is currently broken, but we can input power to it through other means.
 QUEST_LV_0100_20150428_006718	We have to be careful here.{nl}This is the place where Antares, a dangerous magician, was imprisoned.{nl}We should hurry up to the next floor as soon as possible.
 QUEST_LV_0100_20150428_006719	He was a great magician before.{nl}But his ideology was too dangerous.
 QUEST_LV_0100_20150428_006720	He was locked up because he was obsessed with studying condensed magic on the 3rd floor.{nl}What would happen to the tower if hundreds of years of condensed magic exploded all at once?
 QUEST_LV_0100_20150428_006721	Goddess Gabija is important, but the tower is in more trouble now.{nl}Antares may already be up to something.
-QUEST_LV_0100_20150428_006722	There are two valves here that control the Magic Power Device.{nl}The first valve is at the Laboratory, so let's go and destroy it now.
+QUEST_LV_0100_20150428_006722	There are two valves here that control the Magie Power Device.{nl}The first valve is at the Laboratory, so let's go and destroy it now.
 QUEST_LV_0100_20150428_006723	Explosion, that was too dangerous.{nl}Let's find a safer way to destroy it.
 QUEST_LV_0100_20150428_006724	Antares came here to do extensive research on the flow of magic.{nl}If his research materials are still present, they may help us with destroying those valves.{nl}They should be here somewhere...
 QUEST_LV_0100_20150428_006725	This is it. I think I know how to break those valves now.
@@ -6756,7 +6756,7 @@ QUEST_LV_0100_20150428_006755	We need the rope for ceremony to make the shaman d
 QUEST_LV_0100_20150428_006756	Please go to the Sviesa Altar. I will follow you.
 QUEST_LV_0100_20150428_006757	It's either Rexipher destroying the altar, or us activating the altar. {nl}We mustn't trail behind, hurry to the Sviesa Altar!
 QUEST_LV_0100_20150428_006758	Looks like this necklace and collection belongs to you now.{nl}If it wasn't for you, Maven's teachings would have been left as a curse.
-QUEST_LV_0100_20150428_006759	Let's give up on this and move to the Groß Transport Magic Circle at the center of this floor {nl}instead.
+QUEST_LV_0100_20150428_006759	Let's give up on this and move to the Groß Transport Magie Circle at the center of this floor {nl}instead.
 QUEST_LV_0100_20150428_006760	This isn't the first time that the demons have attacked the tower, but the attacks never lasted this {nl}long. Because of this, they say that Gabija has disappeared.
 QUEST_LV_0100_20150428_006761	That was a trap.{nl}It seems they read our every move.{nl}
 QUEST_LV_0100_20150428_006762	There's nothing we can do about it.{nl}Even it would be little late, let's give up on the magic field and destroy those monsters who are coming into the tower first.
@@ -6932,7 +6932,7 @@ QUEST_LV_0100_20150714_006931	Activate the Malda Altar and it will mark the demo
 QUEST_LV_0100_20150714_006932	Let's keep an eye on the Jewel of Prominence while we defeat monsters.
 QUEST_LV_0100_20150714_006933	I cannot say my name. {nl}Please defeat the observers and release the seal on me.{nl}
 QUEST_LV_0100_20150714_006934	My soul is shredded and trapped in the seal. {nl}Besiege the Experimental Slime that's guarding it and help me get released.
-QUEST_LV_0100_20150714_006935	The Holy Ark that I am a part of is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Holy Ark.
+QUEST_LV_0100_20150714_006935	The Heilig Ark that I am a part of is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Heilig Ark.
 QUEST_LV_0100_20150714_006936	We Watchers love to fight.{nl}The Pantos were not this reckless before. {nl}Surely it's because the demons are starting to march in.
 QUEST_LV_0100_20150714_006937	If possible, I want you to defeat the Wild Carnivore as well.{nl}It has become corrupted with demonic energy and I let it be any longer.
 QUEST_LV_0100_20150714_006938	Tools for stonemasons? {nl}That'll be 10,000 silver.{nl}{nl}
@@ -6970,10 +6970,10 @@ QUEST_LV_0100_20150714_006969	I have nothing for you to help me with, but it's b
 QUEST_LV_0100_20150714_006970	Thank you. It's a long story.
 QUEST_LV_0100_20150714_006971	It's too selfish to seek salvation now.{nl}I'm exhausted. It may actually be better to be eliminated with Archon altogether.
 QUEST_LV_0100_20150714_006972	Salvation... I may still have a sliver of hope for it.{nl}I will count on you. 
-QUEST_LV_0100_20150714_006973	You must find a way to stop the magic flowing into the Magic Stone of {nl}Sympathy. If we could find the documents that Valius left at Veikini Prayer Room, {nl}it may not be a meaningless dream...
+QUEST_LV_0100_20150714_006973	You must find a way to stop the magic flowing into the Magie Stone of {nl}Sympathy. If we could find the documents that Valius left at Veikini Prayer Room, {nl}it may not be a meaningless dream...
 QUEST_LV_0100_20150714_006974	Salvation. I have forgotten that word. I had longing hope for it.{nl}Despair was all I could do for such a long time...
 QUEST_LV_0100_20150714_006975	Okay. Was the document present?
-QUEST_LV_0100_20150714_006976	The Magic Generating Stones.{nl}They are at the Room of Consciousness and the Room of Ancestral Rituals.{nl}
+QUEST_LV_0100_20150714_006976	The Magie Generating Stones.{nl}They are at the Room of Consciousness and the Room of Ancestral Rituals.{nl}
 QUEST_LV_0100_20150714_006977	I know the basic composition. I've researched it when I was alive.{nl}But it won't react without Valius' magic.
 QUEST_LV_0100_20150714_006978	You can find Valius' keepsakes in Vebaiki Burial Chamber.{nl}There should still be magical power within it since Valius was a great wizard.
 QUEST_LV_0100_20150714_006979	I am sure there is magical power left.{nl}I have nothing else but to hope it still exists.
@@ -6986,12 +6986,12 @@ QUEST_LV_0100_20150714_006985	The Room of Ancestral Rituals is somewhat differen
 QUEST_LV_0100_20150714_006986	You will know how to handle it when you control it yourself.{nl}But if you feel something went wrong, use Valius' magic.
 QUEST_LV_0100_20150714_006987	With the warp magic circle under me, you could quickly go to the Room of Ancestral Rituals.{nl}I wish for your success...
 QUEST_LV_0100_20150714_006988	The magic generating stones in the Room of Ancestral Rituals affect the other magic generating {nl}stones nearby. We could start over with Valius' magic.
-QUEST_LV_0100_20150714_006989	The magical power supplied to the Magic Stone of Mutuality has been completely {nl}shut off... Is it alright to wish for the salvation now?
+QUEST_LV_0100_20150714_006989	The magical power supplied to the Magie Stone of Mutuality has been completely {nl}shut off... Is it alright to wish for the salvation now?
 QUEST_LV_0100_20150714_006990	We are all ready. But that Archon is different from the Archon from your era. {nl}It may be better to leave it as is.
 QUEST_LV_0100_20150714_006991	There's is another way. The sealed keepsakes amongst Valius' collection of keepsakes...{nl}I heard some of them were created in Uzdaromo Stone Chamber to suppress the demons.
 QUEST_LV_0100_20150714_006992	I had already given up the hope that I would become free a few hundreds years ago.{nl}Even now, I have little hope for it.
 QUEST_LV_0100_20150714_006993	The seal that is suppressing the demonic energy... that's it.{nl}Now everything is ready.
-QUEST_LV_0100_20150714_006994	Now when the Magic Stone of Mutuality stops, I will be free from Archon.{nl}
+QUEST_LV_0100_20150714_006994	Now when the Magie Stone of Mutuality stops, I will be free from Archon.{nl}
 QUEST_LV_0100_20150714_006995	I will tell you one more time. Don't consider this Archon as similar to the one in your era.{nl}It will be hard fight without using the seal.
 QUEST_LV_0100_20150714_006996	Honestly, I'll be fine even if I disappear like this.{nl}I'm very grateful that you cared for me, but I don't want you to get hurt.
 QUEST_LV_0100_20150714_006997	I can see the glimpse of freedom from the shackles that was on me for hundreds of years.{nl}
@@ -7179,7 +7179,7 @@ QUEST_LV_0100_20150714_007178	Notice/The power supply is not working properly.{n
 QUEST_LV_0100_20150714_007179	Notice/The Mine Compass is pointing towards District 4.{nl}Check the magic supply device in District 4.#5
 QUEST_LV_0100_20150714_007180	Notice/The device is not working due to rust.{nl}Use the compass to find a way to remove the rust.#5
 QUEST_LV_0100_20150714_007181	Notice/The Mine Compass is still pointing towards District 4.{nl}Check around District 4 and find a way to remove the rust.#5
-QUEST_LV_0100_20150714_007182	Notice/Magic supply device is fixed.{nl}Try running the Sekundeary purifier.#5
+QUEST_LV_0100_20150714_007182	Notice/Magie supply device is fixed.{nl}Try running the Sekundeary purifier.#5
 QUEST_LV_0100_20150714_007183	Activating the purifier
 QUEST_LV_0100_20150714_007184	Notice/Auxiliary Luftreiniger is working again.#5
 QUEST_LV_0100_20150714_007185	Notice/Some parts of this purifier are also missing.{nl} Find the parts using Compass Mine.#5
@@ -7218,9 +7218,9 @@ QUEST_LV_0100_20150714_007217	Activate the Mage Tower Barrier Device
 QUEST_LV_0100_20150714_007218	Notice/!/Use the prominence detecting stick to detect monsters with flame and defeat them!
 QUEST_LV_0100_20150714_007219	Notice/!/This device is suppressing the spell of the tower.{nl}Better destroy it quickly.#5
 QUEST_LV_0100_20150714_007220	Notice/Arrived at the entrance of Kateen Forest Goddess Gabija talked about.#3
-QUEST_LV_0100_20150714_007221	Checking the altar
+QUEST_LV_0100_20150714_007221	Überprüfe den Altar
 QUEST_LV_0100_20150714_007222	The Hidden Sanctum's Revelation (1)
-QUEST_LV_0100_20150714_007223	Checking
+QUEST_LV_0100_20150714_007223	Überprüfen
 QUEST_LV_0100_20150714_007224	Notice/Besiege the Royal guardians charging in!
 QUEST_LV_0100_20150714_007225	Notice/!/It Is a trap. Besiege the monsters flocking in!#7
 QUEST_LV_0100_20150714_007226	Looking at the pole
@@ -7429,11 +7429,11 @@ QUEST_LV_0100_20150714_007428	It seems that something complicated is going on wi
 QUEST_LV_0100_20150714_007429	The Void that Arose
 QUEST_LV_0100_20150714_007430	It seems that Jane's spirit is trying to take some extreme measures. Sprich mit her slowly to help her.
 QUEST_LV_0100_20150714_007431	Look for the records of Valius at Veikini Prayer Room
-QUEST_LV_0100_20150714_007432	Jane's Spirit told you that if you look at the records which Valius left, you may obtain more information about the Magic Stone of Mutuality. Read the records which Valius left at Veikini Prayer Room.
-QUEST_LV_0100_20150714_007433	You've found a way to block the magical energy of the Magic Stone of Mutuality from the records of Valius. Return to Jane's spirit and let her know.
-QUEST_LV_0100_20150714_007434	According to the information on the Magic Stone of Mutuality which Valius left, there's a way to save Jane. Sprich mit Jane about it.
+QUEST_LV_0100_20150714_007432	Jane's Spirit told you that if you look at the records which Valius left, you may obtain more information about the Magie Stone of Mutuality. Read the records which Valius left at Veikini Prayer Room.
+QUEST_LV_0100_20150714_007433	You've found a way to block the magical energy of the Magie Stone of Mutuality from the records of Valius. Return to Jane's spirit and let her know.
+QUEST_LV_0100_20150714_007434	According to the information on the Magie Stone of Mutuality which Valius left, there's a way to save Jane. Sprich mit Jane about it.
 QUEST_LV_0100_20150714_007435	Search the keepsakes which possess Valius' magic
-QUEST_LV_0100_20150714_007436	Jane's spirit told you that in order to stop magic generating stones that is supplying the magical power to the Magic Stone of Mutuality, Valius' magical power is needed. Look for the objects that are likely to possess Valius' magic at Vebaiki Burial Chamber.
+QUEST_LV_0100_20150714_007436	Jane's spirit told you that in order to stop magic generating stones that is supplying the magical power to the Magie Stone of Mutuality, Valius' magical power is needed. Look for the objects that are likely to possess Valius' magic at Vebaiki Burial Chamber.
 QUEST_LV_0100_20150714_007437	You found the brooch that you could feel the great magical power. Return to Jane's spirit to determine whether it is real.
 QUEST_LV_0100_20150714_007438	You've found the brooch that possesses Valius' magical power. Use this to Sprich mit Jane's spirit how to stop the magic generating stones.
 QUEST_LV_0100_20150714_007439	Stop the magic generating stones in the Room of Consciousness
@@ -7444,13 +7444,13 @@ QUEST_LV_0100_20150714_007443	Stop the magic generating stones in the Room of An
 QUEST_LV_0100_20150714_007444	The magic generating stones in the Room of Consciousness influence the other magic generating stones nearby. If you accidentally touch on them, you could reset them using the brooch with Valius' magical power.
 QUEST_LV_0100_20150714_007445	You've stopped all magic generating stones in the Room of Consciousness. Return to Jane's spirit.
 QUEST_LV_0100_20150714_007446	What's bad about being careful
-QUEST_LV_0100_20150714_007447	You've blocked the magical power that is going into the Magic Stone of Mutuality by stopping all magic generating stones. Sprich mit Jane's spirit again.
+QUEST_LV_0100_20150714_007447	You've blocked the magical power that is going into the Magie Stone of Mutuality by stopping all magic generating stones. Sprich mit Jane's spirit again.
 QUEST_LV_0100_20150714_007448	Search for the keepsakes of sealed Valius in Uzdromo Stone Chamber
-QUEST_LV_0100_20150714_007449	Jane told you that when the Magic Stone of Mutuality completely stop, Archon will be released with you. To defeat the released Archon easily, look for usable objects that Valius created when he was alive.
+QUEST_LV_0100_20150714_007449	Jane told you that when the Magie Stone of Mutuality completely stop, Archon will be released with you. To defeat the released Archon easily, look for usable objects that Valius created when he was alive.
 QUEST_LV_0100_20150714_007450	You've unleashed the seal and obtained the stamp that suppresses the demonic energy. Return to Jane's spirit with this.
 QUEST_LV_0100_20150714_007451	You are ready to fight against Archon. Sprich mit Jane's spirit if this will be enough.
-QUEST_LV_0100_20150714_007452	Stop the Magic Stone of Mutuality
-QUEST_LV_0100_20150714_007453	When you stop the Magic Stone of Mutuality, Archon will be released along with Jane's spirit. Stop the Magic Stone of Mutuality and defeat Archon.
+QUEST_LV_0100_20150714_007452	Stop the Magie Stone of Mutuality
+QUEST_LV_0100_20150714_007453	When you stop the Magie Stone of Mutuality, Archon will be released along with Jane's spirit. Stop the Magie Stone of Mutuality and defeat Archon.
 QUEST_LV_0100_20150714_007454	You've defeated Archon. Sprich mit Jane what's she going to do next.
 QUEST_LV_0100_20150714_007455	Born with a Silber Spoon
 QUEST_LV_0100_20150714_007456	Ask Adrijus
@@ -7681,8 +7681,8 @@ QUEST_LV_0100_20150729_007680	Obtain the supplies from the Wendigo
 QUEST_LV_0100_20150729_007681	Eta said that he won't return to camp until he defeats Saugas. You better help him so he can return sooner. Get the Monster Poison and the Spiritual Stone in Alkune Stairway for Eta.
 QUEST_LV_0100_20150729_007682	You obtained the Spiritual Stone and the Monster Poison. Return to Eta.
 QUEST_LV_0100_20150729_007683	Ask the Bokor Master about the Mysterious Slate. She lives at the residential area in Klaipeda's left end.
-QUEST_LV_0100_20150729_007684	Worship the Statue of Goddess Ausrine
-QUEST_LV_0100_20150729_007685	Worship to the Statue of Goddess Ausrine in Central Square of Klaipeda as preparation to leave for the Eastern Woods.
+QUEST_LV_0100_20150729_007684	Worship the Statue der Göttin Ausrine
+QUEST_LV_0100_20150729_007685	Worship to the Statue der Göttin Ausrine in Central Square of Klaipeda as preparation to leave for the Eastern Woods.
 QUEST_LV_0100_20150729_007686	Besiege the Vubbes and get %s
 QUEST_LV_0100_20150729_007687	The entire territory of Kateen Forest Entrance
 QUEST_LV_0100_20150729_007688	Knight Commander Uska requested you to investigate the disappearances of Prince Tilenis and the mayor. Search for the traces using the Spirit Eye in Sidabras Rest Place in Veja Ravine.
@@ -7826,9 +7826,9 @@ QUEST_LV_0100_20150803_007825	Track the trails of the Weaver at the lower side o
 QUEST_LV_0100_20150803_007826	You have defeated the Weavers. Return to Supply Officer and report.
 QUEST_LV_0100_20150803_007827	Check the Crystal Pillar in the Closed Area
 QUEST_LV_0100_20150803_007828	The Vubbes are disappearing near the Crystal Wall in the Closed Area. Check the barrier stone of the closed area.
-QUEST_LV_0100_20150803_007829	Collect Vubbe Magic Stones
-QUEST_LV_0100_20150803_007830	Insert Vubbe Magic Stones into the Crystal Wall
-QUEST_LV_0100_20150803_007831	Insert the Vubbe Magic Stones onto the Crystal Wall in the Closed Area.
+QUEST_LV_0100_20150803_007829	Collect Vubbe Magie Stones
+QUEST_LV_0100_20150803_007830	Insert Vubbe Magie Stones into the Crystal Wall
+QUEST_LV_0100_20150803_007831	Insert the Vubbe Magie Stones onto the Crystal Wall in the Closed Area.
 QUEST_LV_0100_20150803_007832	Check the Crystal Pillar in the Closed Area
 QUEST_LV_0100_20150803_007833	Protect the altar from the monsters
 QUEST_LV_0100_20150803_007834	Sprich mit the Dorf Priest
@@ -7949,11 +7949,11 @@ QUEST_LV_0100_20150908_007948	You have defeated the Carapace interrupting you{nl
 QUEST_LV_0100_20150908_007949	You have opened the purifier's valve{nl}Return to the Circulation Luftreiniger and activate it again
 QUEST_LV_0100_20150908_007950	The Circulation Luftreiniger is working again!
 QUEST_LV_0100_20150908_007951	Power is not being supplied appropriately{nl}Use the Mine Compass
-QUEST_LV_0100_20150908_007952	The Mine Compass is pointing at District 4{nl}Inspect the Magic Supply Device at District 4
-QUEST_LV_0100_20150908_007953	The Magic Supply Device is not working since it got rusty{nl}Use the Mine Compass to look for a way to remove the rust
+QUEST_LV_0100_20150908_007952	The Mine Compass is pointing at District 4{nl}Inspect the Magie Supply Device at District 4
+QUEST_LV_0100_20150908_007953	The Magie Supply Device is not working since it got rusty{nl}Use the Mine Compass to look for a way to remove the rust
 QUEST_LV_0100_20150908_007954	The Mine Compass is still pointing at District 4{nl}Go around District 4 and look for a way to remove the rust
 QUEST_LV_0100_20150908_007955	Applying the Oil
-QUEST_LV_0100_20150908_007956	The Magic Supply Device has been fixed{nl}Activate the Auxiliary Luftreiniger
+QUEST_LV_0100_20150908_007956	The Magie Supply Device has been fixed{nl}Activate the Auxiliary Luftreiniger
 QUEST_LV_0100_20150908_007957	The Auxiliary Luftreiniger is working again
 QUEST_LV_0100_20150908_007958	It seems that a part of the Luftreiniger is missing{nl}Use the Mine Compass to look for the part
 QUEST_LV_0100_20150908_007959	The Mine Compass is pointing at District 6{nl}Look for the parts at District 6
@@ -8003,8 +8003,8 @@ QUEST_LV_0100_20150908_008002	Activating the Device
 QUEST_LV_0100_20150908_008003	Removing the Restraining Sphere
 QUEST_LV_0100_20150908_008004	Use the portal to move to Gate of the Great King
 QUEST_LV_0100_20150908_008005	Use the cable car to move to across Zvelgian Vacant Lot
-QUEST_LV_0100_20150908_008006	Purify the Holy Pond
-QUEST_LV_0100_20150908_008007	Purifying
+QUEST_LV_0100_20150908_008006	Purify the Heilig Pond
+QUEST_LV_0100_20150908_008007	Reinigen
 QUEST_LV_0100_20150908_008008	The portal is not working
 QUEST_LV_0100_20150908_008009	Find the elder of the village at Vieta Gorge! 
 QUEST_LV_0100_20150908_008010	Moyabruka has appeared!
@@ -8020,9 +8020,9 @@ QUEST_LV_0100_20150908_008019	You've read a tombstone of Agailla Flurry{nl}Read 
 QUEST_LV_0100_20150908_008020	The remaining parts are unreadable
 QUEST_LV_0100_20150908_008021	You've read a tombstone of Agailla Flurry{nl}Read the other tombstones to obtain the artifacts of Flurry
 QUEST_LV_0100_20150908_008022	You've read all of Agailla Flurry's epitaphs{nl}Your status has increased by 1!
-QUEST_LV_0100_20150908_008023	Besiege Zolem and collect Zolem Magic Stones
+QUEST_LV_0100_20150908_008023	Besiege Zolem and collect Zolem Magie Stones
 QUEST_LV_0100_20150908_008024	Conveying Cahill's Feelings
-QUEST_LV_0100_20150908_008025	Retrieving the Magic Crystal
+QUEST_LV_0100_20150908_008025	Retrieving the Magie Crystal
 QUEST_LV_0100_20150908_008026	Besiege the Merogs and Chafperors that followed Bronius!
 QUEST_LV_0100_20150908_008027	Gaigalas stops you as soon as you touched the root!
 QUEST_LV_0100_20150908_008028	Molech stops you as soon as you touched the root!
@@ -8275,7 +8275,7 @@ QUEST_LV_0100_20151001_008274	Anyway, the bishop himself also had a dream while 
 QUEST_LV_0100_20151001_008275	Knight Aras at the Eastern Woods is in charge of that so go and meet him. 
 QUEST_LV_0100_20151001_008276	Four years has passed since that incident, why is the goddess sending us Revelators now... {nl}I guess someone like me may not be able to understand the deeper meaning of the goddess' will.
 QUEST_LV_0100_20151001_008277	But, at least I know that the Revelators are our only hope.{nl}
-QUEST_LV_0100_20151001_008278	Well then, go on to the Eastern Woods. {nl}Don't forget to worship the Statue of Goddess Ausrine in the Central Plaza before you leave. {nl}
+QUEST_LV_0100_20151001_008278	Well then, go on to the Eastern Woods. {nl}Don't forget to worship the Statue der Göttin Ausrine in the Central Plaza before you leave. {nl}
 QUEST_LV_0100_20151001_008279	Also, be sure to drop by the Gegenstand Merchant.{nl}I have left some warp scrolls for Revelators like you. 
 QUEST_LV_0100_20151001_008280	I can feel Bramble suffering.{nl}He is getting retribution for extracting all vigor from this land.
 QUEST_LV_0100_20151001_008281	I am not afraid of dying.{nl}Goddess Saule will guide me well.
@@ -8973,7 +8973,7 @@ QUEST_LV_0100_20151001_008972	Go and find the parts
 QUEST_LV_0100_20151001_008973	Go to fix it
 QUEST_LV_0100_20151001_008974	Do it later
 QUEST_LV_0100_20151001_008975	Writing the letters
-QUEST_LV_0100_20151001_008976	Magic circle has activated
+QUEST_LV_0100_20151001_008976	Magie circle has activated
 QUEST_LV_0100_20151001_008977	I will do it instead
 QUEST_LV_0100_20151001_008978	Go later
 QUEST_LV_0100_20151001_008979	Insert source of power
@@ -9701,7 +9701,7 @@ QUEST_LV_0100_20151016_009700	Fabijus.. What's going to happen to him?{nl}What s
 QUEST_LV_0100_20151016_009701	We must let everyone know!{nl}Please, notify Gedas!{nl}
 QUEST_LV_0100_20151016_009702	To get rid of demons, they are much more adequate than us.{nl}They'll surely help if you can explain the situation to them!
 QUEST_LV_0100_20151016_009703	Oh dear, you mean, we have been played by the demons all along?{nl}I knew something was fishy!{nl}
-QUEST_LV_0100_20151016_009704	It's dangerous to go alone, take this Holy Water.{nl}It can do one hell of damage.
+QUEST_LV_0100_20151016_009704	It's dangerous to go alone, take this Heilig Water.{nl}It can do one hell of damage.
 QUEST_LV_0100_20151016_009705	Thank goodness, you are safe.{nl}Fabijus told me about who Albinas really was.{nl}
 QUEST_LV_0100_20151016_009706	Those demons threatened us after their covers have been blown and you saved us.{nl}It truly must be the will of goddess that you came. I thank you.
 QUEST_LV_0100_20151016_009707	Are you hearing yourself right now?{nl}You have a lot of nerve coming back after breaking the stele.{nl}
@@ -9712,7 +9712,7 @@ QUEST_LV_0100_20151016_009711	What do you want now?{nl}I am too busy figuring ou
 QUEST_LV_0100_20151016_009712	Have you told others about the identity of Albinas?{nl}My guess is that you rushed to get here..{nl}
 QUEST_LV_0100_20151016_009713	Could you forward the story to them as well?{nl}We will put aside our differences and actively find the solution.
 QUEST_LV_0100_20151016_009714	What happened to that demon?{nl}
-QUEST_LV_0100_20151016_009715	I'm glad to hear that Holy Water that I gave you was of some use.{nl}It's terrifying to think that demons walking among us and dividing us. They must be really desperate.{nl}
+QUEST_LV_0100_20151016_009715	I'm glad to hear that Heilig Water that I gave you was of some use.{nl}It's terrifying to think that demons walking among us and dividing us. They must be really desperate.{nl}
 QUEST_LV_0100_20151016_009716	Could you inform Damijonas of this as well?{nl}He would be protecting the stele that got destroyed last time.
 QUEST_LV_0100_20151016_009717	The demon's plan has been foiled all thanks to you.{nl}We might have crossed the point of no return forever.
 QUEST_LV_0100_20151016_009718	Oh, good. {nl}So, have you found something about Albinas?{nl}
@@ -10596,7 +10596,7 @@ QUEST_LV_0100_20151022_010595	Eliminate the Black Smoke that is draining the ene
 QUEST_LV_0100_20151022_010596	You've eliminated the Black Smoke. Bericht an Mardas.
 QUEST_LV_0100_20151022_010597	Soul Starvation
 QUEST_LV_0100_20151022_010598	The time has come to put an end to the demon's scheme. Speak with Mardas on the final mission.
-QUEST_LV_0100_20151022_010599	Disable the Protection Magic Circle
+QUEST_LV_0100_20151022_010599	Disable the Protection Magie Circle
 QUEST_LV_0100_20151022_010600	Mardas emphasizes that all the protection magic circles must be disabled to free souls from Soul Starvation. There is a certain order in which one must disable the five magic circles. If you fail, you must start from the beginning. Try it out and find the correct order.
 QUEST_LV_0100_20151022_010601	Destroy the Soul Starvation
 QUEST_LV_0100_20151022_010602	All the magic circles protecting Soul Starvation are disabled. Destroy the Soul Starvation with the Romuva of Suppression.
@@ -10625,7 +10625,7 @@ QUEST_LV_0100_20151102_010624	As a cleric, the best way to approach the goddesse
 QUEST_LV_0100_20151102_010625	Good work.{nl}I may not be of much help but I will do my best to lead you closer to the goddess.
 QUEST_LV_0100_20151102_010626	Brilliant.{nl}You've completed the assignment. When you are ready, let's begin the Elementalist lesson.
 QUEST_LV_0100_20151102_010627	The forces of evil will never reach the goddess' revelation.
-QUEST_LV_0100_20151102_010628	If you're worried for your safety, I will also give you this Romuva Holy Water.{nl}When you drink this water, you will be invisible to the demons for a short time.
+QUEST_LV_0100_20151102_010628	If you're worried for your safety, I will also give you this Romuva Heilig Water.{nl}When you drink this water, you will be invisible to the demons for a short time.
 QUEST_LV_0100_20151102_010629	Welcome! {nl} Oh, so you're the Revelator. I really wanted to meet you. {nl}
 QUEST_LV_0100_20151102_010630	I heard you successfully removed the seal at Pasagos Cliff.{nl}Now go get the next step from my brothers at the Pillars of the Courtyard.
 QUEST_LV_0100_20151102_010631	There's a piece below Seklus Bridge that is suspected to be a piece from the monument.{nl}But Achat is around there so I can't reach it.
@@ -10760,7 +10760,7 @@ QUEST_LV_0100_20151102_010759	Quarrel Shooters uses crossbows as their main weap
 QUEST_LV_0100_20151102_010760	If it is a +5 crossbow, it doesn't matter if it is a weapon you use or {nl}the one you have it on you just in case. {nl}After checking the weapon, I will give it back to you.
 QUEST_LV_0100_20151102_010761	That's some high quality crossbow you got there.{nl}This will do it.{nl}
 QUEST_LV_0100_20151102_010762	Now, I will train you to become a Quarrel Shooter.
-QUEST_LV_0100_20151102_010763	You want learn high-leveled magic of a Wizard?{nl}Magic is not something you can learn by yourself.{nl}Seeking advices from other people sometimes can help you faster.
+QUEST_LV_0100_20151102_010763	You want learn high-leveled magic of a Wizard?{nl}Magie is not something you can learn by yourself.{nl}Seeking advices from other people sometimes can help you faster.
 QUEST_LV_0100_20151102_010764	There are other Wizard Masters in Orsha.{nl}Seek advices from the Pyromancer,  Cryomancer, Psychokino and Linker submasters.
 QUEST_LV_0100_20151102_010765	Seek advices from the Pyromancer,  Cryomancer, Psychokino and Linker submasters.
 QUEST_LV_0100_20151102_010766	Did it help?{nl}Your eyes show signs of enlightenment.{nl}Now, use them to learn the way of what I am about to show you.
@@ -10824,8 +10824,8 @@ QUEST_LV_0100_20151102_010823	The trial of frost consists of battling an Ice pro
 QUEST_LV_0100_20151102_010824	Impressive.{nl}You've done more than I expected.{nl}
 QUEST_LV_0100_20151102_010825	The power you've demonstrated is enough.{nl}I will teach you the advanced cryomancy.{nl}Pay attention, do not miss the smallest detail!
 QUEST_LV_0100_20151102_010826	In order to be more proficient in handling a Psychokino's magic, delicate spell control is crucial.{nl}If you want to learn further in the Psychokino's magic, you should cultivate your abilities first.{nl}I can help you with this. Are you interested?
-QUEST_LV_0100_20151102_010827	Here, this is the Magic Control Detection Orb.{nl}It can detect spell being used around you but the range is quite narrow.{nl}Besiege a monster within the range of the Magic Control Detection Orb and return to me.
-QUEST_LV_0100_20151102_010828	Besiege a monster within the range of the Magic Control Detection Orb.
+QUEST_LV_0100_20151102_010827	Here, this is the Magie Control Detection Orb.{nl}It can detect spell being used around you but the range is quite narrow.{nl}Besiege a monster within the range of the Magie Control Detection Orb and return to me.
+QUEST_LV_0100_20151102_010828	Besiege a monster within the range of the Magie Control Detection Orb.
 QUEST_LV_0100_20151102_010829	Not bad, not bad at all.{nl}
 QUEST_LV_0100_20151102_010830	Stay focused and watch my demonstration just like you've practiced.
 QUEST_LV_0100_20151102_010831	I am continuously working on the magic of the Linker.{nl}All Linkers need to keep developing and progressing.{nl}
@@ -10968,7 +10968,7 @@ QUEST_LV_0100_20151102_010967	And to save you...{nl}You had to be hidden amongst
 QUEST_LV_0100_20151102_010968	Besiege the Infro Holder Shamans and Chafperor chasing Bronius!
 QUEST_LV_0100_20151102_010969	Using the Namott of Suppression
 QUEST_LV_0100_20151102_010970	I will think about it
-QUEST_LV_0100_20151102_010971	Basic Magic [Wizard Advancement]
+QUEST_LV_0100_20151102_010971	Basic Magie [Wizard Advancement]
 QUEST_LV_0100_20151102_010972	The Energy of Fire [Pyromancer Advancement]
 QUEST_LV_0100_20151102_010973	Take a look at my compatibility with fire.
 QUEST_LV_0100_20151102_010974	Magical Piece of Ice [Cryomancer Advancement]
@@ -11039,7 +11039,7 @@ QUEST_LV_0100_20151102_011038	Herb of the Lake
 QUEST_LV_0100_20151102_011039	Recurrence Prevention (1)
 QUEST_LV_0100_20151102_011040	Recurrence Prevention (2)
 QUEST_LV_0100_20151102_011041	The Corrupted Lake (2)
-QUEST_LV_0100_20151102_011042	Tiberius wants to test the Holy Bombs on Glizardon. Drink the Namott Holy Water to hide yourself, and then put the Holy Bomb onto a Glizardon's back.
+QUEST_LV_0100_20151102_011042	Tiberius wants to test the Heilig Bombs on Glizardon. Drink the Namott Heilig Water to hide yourself, and then put the Heilig Bomb onto a Glizardon's back.
 QUEST_LV_0100_20151102_011043	As you approaches the ghost, it disappears leaving only a pouch behind. Inspect the pouch.
 QUEST_LV_0100_20151102_011044	Namott of Suppression is completed but the Guide Owl a lot in its mind. Sprich mit dem Guide Owl.
 QUEST_LV_0100_20151102_011045	The evil enery surrounding and corrupting the forest must be removed first, according to Mardas. Install Namott of Suppression near the evil energy to suppress it.
@@ -11122,8 +11122,8 @@ QUEST_LV_0100_20151102_011121	Besiege fire property monsters
 QUEST_LV_0100_20151102_011122	The Pyromancer Klassenmeister warns you that in order learn advance Pyromancy, one must go through a trial by fire. Besiege a fire property monster as a trial by fire.
 QUEST_LV_0100_20151102_011123	Besiege ice property monsters
 QUEST_LV_0100_20151102_011124	The Cryomancer Klassenmeister warns you that in order learn advance Cryomancy, one must go through a trial by frost. Besiege a ice property monster as a trial by frost.
-QUEST_LV_0100_20151102_011125	Besiege monsters with the range of Magic Control Detection Orb
-QUEST_LV_0100_20151102_011126	The Psychokino Master is planning on testing you on the delicate spell control. Use Magic Control Detection Orb and defeat monsters in its range.
+QUEST_LV_0100_20151102_011125	Besiege monsters with the range of Magie Control Detection Orb
+QUEST_LV_0100_20151102_011126	The Psychokino Master is planning on testing you on the delicate spell control. Use Magie Control Detection Orb and defeat monsters in its range.
 QUEST_LV_0100_20151102_011127	Besiege monsters and obtain spiritual energy
 QUEST_LV_0100_20151102_011128	The Linker Master is currently working on advancing Linker's magic by finding a connection other than a spiritual one. Help with Linker Master's study and fill up Soul Flask with the monsters by defeating  them so that Linkers may become stronger.
 QUEST_LV_0100_20151102_011129	Sprich mit the Thaumaturge Klassenmeister
@@ -12201,7 +12201,7 @@ QUEST_LV_0100_20151224_012200	I gazed vacantly at the shore covered in the color
 QUEST_LV_0100_20151224_012201	It was still managable since there weren't any monsters though.{nl}I don't know if that's still the case.
 QUEST_LV_0100_20151224_012202	Wow, these will come in handy.{nl}You've earned my thanks in many more ways than those officials ever will.
 QUEST_LV_0100_20151224_012203	You must not be from around these parts.{nl}People from around here don't wear clothes like that.{nl}
-QUEST_LV_0100_20151224_012204	If you're a traveler... {nl}How about worshiping the Statue of Goddess Zemyna at Randoluma Rest Place?{nl}
+QUEST_LV_0100_20151224_012204	If you're a traveler... {nl}How about worshiping the Statue der Göttin Zemyna at Randoluma Rest Place?{nl}
 QUEST_LV_0100_20151224_012205	Goddess Zemyna administers the Earth.{nl}She also looks after travelers on their journeys.{nl}
 QUEST_LV_0100_20151224_012206	Of course, the goddesses haven't been answering our prayers for a while...{nl}But the statues still sparkle brightly when we pray to them.
 QUEST_LV_0100_20151224_012207	I can't recall the exact date but... {nl}Yes. It must have been shortly before Medzio Diena.{nl}
@@ -12252,7 +12252,7 @@ QUEST_LV_0100_20151224_012251	Four years ago during Medzio Diena...{nl}I rose to
 QUEST_LV_0100_20151224_012252	Back then, there were only the threats of people trying to manipulate or threaten me...{nl}Bishop Urbonas was the only person that protected me and helped Orsha endure.
 QUEST_LV_0100_20151224_012253	First of all, there are reports of demons at the Woods of the Linked Bridges and Paupys Crossing.{nl}Perhaps they have something to do with the disappearance of Bishop Urbonas.{nl}
 QUEST_LV_0100_20151224_012254	An ominous feeling... is tightening around me.{nl}Please find Bishop Urbonas for Orsha and the settlers.
-QUEST_LV_0100_20151224_012255	Before you leave, please stop by the Statue of Goddess Ausrine in the Central Plaza.{nl}Göttin Statuen will become inseparable guides for your travels in the future.{nl}
+QUEST_LV_0100_20151224_012255	Before you leave, please stop by the Statue der Göttin Ausrine in the Central Plaza.{nl}Göttin Statuen will become inseparable guides for your travels in the future.{nl}
 QUEST_LV_0100_20151224_012256	I've also taken the liberty of preparing a few meager supplies, {nl}so stop by at the Gegenstand Merchant to pick them up.{nl}I'll contact you again once you've prepared.
 QUEST_LV_0100_20151224_012257	Please keep this a secret.{nl}You must not speak of the disappearance of Bishop Urbonas until this case is solved.
 QUEST_LV_0100_20151224_012258	Oh, hello there, welcome. {nl}I've heard that you've saved refugees from danger several times.{nl}
@@ -12706,8 +12706,8 @@ QUEST_LV_0100_20151224_012705	Rose is late... far too late.{nl}They say no news 
 QUEST_LV_0100_20151224_012706	Has Tess been chased by the demons just like other people?{nl}I have no idea what happened here.
 QUEST_LV_0100_20151224_012707	All the idols that can be destroyed have been destroyed but it was a rushed job...{nl}I am still hung up about the fragments left behind.
 QUEST_LV_0100_20151224_012708	The fragments could come back to bite us in the back, if not its energy remains.{nl}I am terribly sorry about this but could you take care of the remaining pieces?
-QUEST_LV_0100_20151224_012709	I am grateful for your kindness.{nl}Wait for a Sekunde for I will give you a piece of cloth soaked with Holy Water.
-QUEST_LV_0100_20151224_012710	Cover the Idol Fragments with this Holy Water Cloth and it will be purified.
+QUEST_LV_0100_20151224_012709	I am grateful for your kindness.{nl}Wait for a Sekunde for I will give you a piece of cloth soaked with Heilig Water.
+QUEST_LV_0100_20151224_012710	Cover the Idol Fragments with this Heilig Water Cloth and it will be purified.
 QUEST_LV_0100_20151224_012711	One less thing to worry about.{nl}Restoring this place will not be an easy task.
 QUEST_LV_0100_20151224_012712	Along with the bishop, we destroyed all the idols we could get our hands on {nl}while on the run from Marnox's chase.
 QUEST_LV_0100_20151224_012713	If you don't deal with the fragments, its malicious energy will come back to haunt us again.{nl}I'm sure you must be tired and weary on this journey, {nl}but could we ask for an undeserved request?
@@ -12743,7 +12743,7 @@ QUEST_LV_0100_20151224_012742	Once the gem is filled with energy. Use it on the 
 QUEST_LV_0100_20151224_012743	Let's recap. Besiege the monster and fill the gem up.{nl}Use the energy to light the flameholder beside me.
 QUEST_LV_0100_20151224_012744	Your determined eyes do tell me that you are seeking the way of Priesthood.{nl}I can clearly see not only the will but the talent.
 QUEST_LV_0100_20151224_012745	However... A bit of preparation is needed.{nl}To prepare for the journey to completely give yourself up to the goddess.
-QUEST_LV_0100_20151224_012746	Take this Holy Water.{nl}Ask the other Cleric Masters for their blessings.{nl}
+QUEST_LV_0100_20151224_012746	Take this Heilig Water.{nl}Ask the other Cleric Masters for their blessings.{nl}
 QUEST_LV_0100_20151224_012747	One each from the Cleric, Krivis and Bokor Klassenmeisters.
 QUEST_LV_0100_20151224_012748	Please, do seek the blessings from the Cleric, Krivis and Bokor Klassenmeisters in Orsha.
 QUEST_LV_0100_20151224_012749	Good. The blessings from the ensure your rightful path.{nl}Please, take the duty and responsibility of being a Priest earnestly.
@@ -12911,12 +12911,12 @@ QUEST_LV_0100_20151224_012910	I was once a mage under Delmore Rephaim as well.{n
 QUEST_LV_0100_20151224_012911	I should have stopped its creation... But I was a coward back then.{nl}Delmore Rephaim is trying to build that Kruvina once more.{nl}
 QUEST_LV_0100_20151224_012912	Such terrible events... must not be allowed to happen again.{nl}That's why we've gathered the Revelators from Klaipeda and brought them here.{nl}
 QUEST_LV_0100_20151224_012913	I'd say the more the merrier.{nl}How about lending a hand in stopping him since you're a Revelator as well?
-QUEST_LV_0100_20151224_012914	It's a relief to have your cooperation.{nl}Oh, we were just about to destroy the Magic Power Supply Devices {nl}supplying the Kruvina Devices with power.{nl}
+QUEST_LV_0100_20151224_012914	It's a relief to have your cooperation.{nl}Oh, we were just about to destroy the Magie Power Supply Devices {nl}supplying the Kruvina Devices with power.{nl}
 QUEST_LV_0100_20151224_012915	The device is protected by a powerful protection spell...{nl}They've cast it on ordinary items to obscure the spell.{nl}
 QUEST_LV_0100_20151224_012916	I'll mark the places where I predict they may be, so take this compass with you.{nl}It's a compass that reacts to magic, so I'm sure it'll react to the spells.
 QUEST_LV_0100_20151224_012917	Delmore Rephaim had great ambitions.{nl}It would have been much better if that was merely a lust for power...
 QUEST_LV_0100_20151224_012918	Above Amjene Sanctum and... Hmm. I see. Good job. {nl}
-QUEST_LV_0100_20151224_012919	To sustain such an enormous magic circle, Delmore Rephaim...{nl}He placed numerous Magic Power Supply Devices {nl}around the castle as well as at the Kruvina Device.{nl}
+QUEST_LV_0100_20151224_012919	To sustain such an enormous magic circle, Delmore Rephaim...{nl}He placed numerous Magie Power Supply Devices {nl}around the castle as well as at the Kruvina Device.{nl}
 QUEST_LV_0100_20151224_012920	Creating a Groß magic circle by oneself is simply impossible, no matter how talented you are.{nl}
 QUEST_LV_0100_20151224_012921	Oh, I see some introductions are in order. {nl}The person next to me is Revelator Mihail.{nl}
 QUEST_LV_0100_20151224_012922	I'm a Revelator just like you.{nl}How about talking to Mihail while I interpret the protection spells?
@@ -12927,34 +12927,34 @@ QUEST_LV_0100_20151224_012926	Greetings. Have you come from Orsha?{nl}I thought 
 QUEST_LV_0100_20151224_012927	I've seen many places destroyed by the roots on Medzio Diena...{nl}But the scene here is a bit different.{nl}
 QUEST_LV_0100_20151224_012928	It seems as if they've all been ripped off the face of the world at the same time.{nl}Not just the residents, but even all the soldiers and vassals...{nl}
 QUEST_LV_0100_20151224_012929	Mage Melchioras seems to be taking a while to disarm the protective spell.{nl}How about we get prepared for the next move while he's at it?
-QUEST_LV_0100_20151224_012930	It seems that we get along well.{nl}We've destroyed all the other Magic Power Supply Devices... {nl}The only one left is the one that Mage Melchioras is working on.{nl}
+QUEST_LV_0100_20151224_012930	It seems that we get along well.{nl}We've destroyed all the other Magie Power Supply Devices... {nl}The only one left is the one that Mage Melchioras is working on.{nl}
 QUEST_LV_0100_20151224_012931	We have to destroy it with magic orbs when Mage Melchioras disarms the protection spell...{nl}But we don't have many left.{nl}
 QUEST_LV_0100_20151224_012932	I'll get the detonator ready, so why don't you fill the empty orbs with magic?{nl}The orb will gather magic every time you attack Pags.
 QUEST_LV_0100_20151224_012933	When I first arrived at Klaipeda... {nl}There were an incredible amount of Revelators gathered there.{nl}
 QUEST_LV_0100_20151224_012934	Those people, what do you think they're doing now?
-QUEST_LV_0100_20151224_012935	It's taking a while to interpret the protection spell cast on the Magic Power Supply Devices.{nl}Could you wait a little more until I've finished?
+QUEST_LV_0100_20151224_012935	It's taking a while to interpret the protection spell cast on the Magie Power Supply Devices.{nl}Could you wait a little more until I've finished?
 QUEST_LV_0100_20151224_012936	That was quick.{nl}It seems as if Melchioras has finished his preparations as well.{nl}
 QUEST_LV_0100_20151224_012937	Why don't you go to Mage Melchioras?{nl}I know what's going on, but you might want some explanation seeing as you've just arrived here.
 QUEST_LV_0100_20151224_012938	One day, the goddess appeared in my dreams telling me that I am a Revelator and that I must go to Klaipeda.{nl}Saying that only Revelators can save the world...{nl}
 QUEST_LV_0100_20151224_012939	At first, I was at a loss of what to do, and I was here before I knew it.{nl} Then, it came to me.{nl}
 QUEST_LV_0100_20151224_012940	The fact that... Everything I did was linked to saving the goddesses and the world.{nl}Perhaps the goddesses sent so many Revelators for that same reason?
-QUEST_LV_0100_20151224_012941	I've finished interpretating the protection spell cast on the Magic Power Supply Devices.{nl}We'll need your help in order to get the job done in a hurry.
+QUEST_LV_0100_20151224_012941	I've finished interpretating the protection spell cast on the Magie Power Supply Devices.{nl}We'll need your help in order to get the job done in a hurry.
 QUEST_LV_0100_20151224_012942	I'll give you this amulet.{nl}The protection spell will be disarmed when you put it on the enchanted object.{nl}
 QUEST_LV_0100_20151224_012943	You take care of the protection spell above Amjene Sanctum.{nl}Mihail and I will take care of the rest.
-QUEST_LV_0100_20151224_012944	We won't have to come back here if we destroy the last Magic Power Supply Device.{nl}It won't take too long to stop the entire Kruvina Device either.
+QUEST_LV_0100_20151224_012944	We won't have to come back here if we destroy the last Magie Power Supply Device.{nl}It won't take too long to stop the entire Kruvina Device either.
 QUEST_LV_0100_20151224_012945	There were many mages under the command of Delmore Rephaim just like me.{nl}We were all in charge of separate specializations so interpretating this will take a while.{nl}
 QUEST_LV_0100_20151224_012946	I was in charge of the core of the Kruvina device.{nl} I thought that there was something wrong...
 QUEST_LV_0100_20151224_012947	I was in charge of the core of the Kruvina device.{nl}I thought that there was something wrong...{nl}
-QUEST_LV_0100_20151224_012948	You've done well. {nl}All we have to do is destroy the Magic Power Supply Device since the protective spells are gone.
+QUEST_LV_0100_20151224_012948	You've done well. {nl}All we have to do is destroy the Magie Power Supply Device since the protective spells are gone.
 QUEST_LV_0100_20151224_012949	The rest of the protective spells have been taken care of.{nl}Now it's my turn.{nl}
-QUEST_LV_0100_20151224_012950	I'm sure you've heard of the orbs from Mihail.{nl}Please set them around the Magic Power Supply Device at Ishinti Crossroads.{nl}
+QUEST_LV_0100_20151224_012950	I'm sure you've heard of the orbs from Mihail.{nl}Please set them around the Magie Power Supply Device at Ishinti Crossroads.{nl}
 QUEST_LV_0100_20151224_012951	Please go to Mihail as soon as the orbs are in place.{nl}He'll detonate the orbs.
 QUEST_LV_0100_20151224_012952	It's strange how well everything seems to be going.{nl}I'm sure that Delmore Rephaim is creating the Kruvina somewhere...
 QUEST_LV_0100_20151224_012953	I've tuned it so that the device will be destroyed with the smallest explosion possible...{nl}But run away from the orbs just in case you don't get caught in the explosion.
 QUEST_LV_0100_20151224_012954	Demolitions are my speciality.{nl}Destroying a device like that is nothing as long as I get to plant the explosives right.
 QUEST_LV_0100_20151224_012955	Please let Mihail know that the orbs are ready.{nl}I hope everything goes as planned...
 QUEST_LV_0100_20151224_012956	It's a success!{nl}Both you and Mihail did a great job.{nl}
-QUEST_LV_0100_20151224_012957	The Kruvina device will soon stop since all of the {nl}Magic Power Supply Devices have been destroyed.{nl}The protective shield will disappear as well.{nl}
+QUEST_LV_0100_20151224_012957	The Kruvina device will soon stop since all of the {nl}Magie Power Supply Devices have been destroyed.{nl}The protective shield will disappear as well.{nl}
 QUEST_LV_0100_20151224_012958	We cannot simply relax because the device has stopped.{nl}We must destroy it so that they can never think of creating the Kruvina ever again.{nl}
 QUEST_LV_0100_20151224_012959	Come to Delmore Manor where the device is.{nl}I'll be waiting there.
 QUEST_LV_0100_20151224_012960	Follower Andrea
@@ -12989,19 +12989,19 @@ QUEST_LV_0100_20151224_012988	There are more than a few Charcoal Walkers wonderi
 QUEST_LV_0100_20151224_012989	The more the world is in chaos, the more thrifty you should be.{nl}Please, I ask of you.
 QUEST_LV_0100_20151224_012990	There are many followers besides me that are helping you.{nl}Please help them if you see them and don't just pass by.
 QUEST_LV_0100_20151224_012991	There is now way I am wrong. I've designed it after all...{nl}If there is even a faint chance of that, I can only imagine that there is a new magic circle.
-QUEST_LV_0100_20151224_012992	Making a Magic Power Supply Device Kruvina is impossible.{nl}I am sure that there is another Supply Device hidden somewhere forming another magic circle.
+QUEST_LV_0100_20151224_012992	Making a Magie Power Supply Device Kruvina is impossible.{nl}I am sure that there is another Supply Device hidden somewhere forming another magic circle.
 QUEST_LV_0100_20151224_012993	Oh... Did you see it all?{nl}It's all my fault.{nl}
 QUEST_LV_0100_20151224_012994	Delmore Rephaim is not a shabby person...{nl}Even Revelator Mihail received the same treatment because of me.{nl}
-QUEST_LV_0100_20151224_012995	We can't just give up like this.{nl}Somehow we have to find a way to neutralize the Magic Power Supply Device!
+QUEST_LV_0100_20151224_012995	We can't just give up like this.{nl}Somehow we have to find a way to neutralize the Magie Power Supply Device!
 QUEST_LV_0100_20151224_012996	It's true that Melchioras made a mistake, but Yane was too rash this time.{nl}It would be fine if Yane has a good solution... but this doesn't feel good.
 QUEST_LV_0100_20151224_012997	There are always followers of Yane gathering near her.{nl}Yane is determined and reliable... But is also hasty.
-QUEST_LV_0100_20151224_012998	Thinking that it would be the same situation as when I ran was a mistake.{nl}I'm sure that there's a hidden Magic Power Supply Device somewhere.{nl}
+QUEST_LV_0100_20151224_012998	Thinking that it would be the same situation as when I ran was a mistake.{nl}I'm sure that there's a hidden Magie Power Supply Device somewhere.{nl}
 QUEST_LV_0100_20151224_012999	You... There is something else I wish to ask of you.
 QUEST_LV_0100_20151224_013000	If my calculations are correct, it should be somewhere in the Rampart Reconstruction District...{nl}Head over there with this crystal.{nl}
-QUEST_LV_0100_20151224_013001	You'll be able to find the Magic Power Supply Device when you put this crystal on the floor.{nl}I'll be notified when one is discovered and send Revelator Mihail to take care of it.
+QUEST_LV_0100_20151224_013001	You'll be able to find the Magie Power Supply Device when you put this crystal on the floor.{nl}I'll be notified when one is discovered and send Revelator Mihail to take care of it.
 QUEST_LV_0100_20151224_013002	There will be no Sekunde mistake.{nl}I'm positive that my calculations are correct.
-QUEST_LV_0100_20151224_013003	There is a need to divide tasks in order to get things done in a hurry.{nl}I'll take care of the Magic Power Supply Device when you find them.
-QUEST_LV_0100_20151224_013004	Revelator Mihail has gone to take care of the Magic Power Supply Device.{nl}But... There seems to be a few new Supply Devices...
+QUEST_LV_0100_20151224_013003	There is a need to divide tasks in order to get things done in a hurry.{nl}I'll take care of the Magie Power Supply Device when you find them.
+QUEST_LV_0100_20151224_013004	Revelator Mihail has gone to take care of the Magie Power Supply Device.{nl}But... There seems to be a few new Supply Devices...
 QUEST_LV_0100_20151224_013005	Evil energy is continuing to flow in... near the Buried Central Plaza.{nl}I didn't sense it a while ago, but why...{nl}
 QUEST_LV_0100_20151224_013006	Take theses jewels please.{nl}I am a bit suspicious but there is just no other way.
 QUEST_LV_0100_20151224_013007	I know it may sound like an excuse... But it's just too strange.{nl}There's no way I am wrong...
@@ -13859,14 +13859,14 @@ QUEST_LV_0100_20151224_013858	Clear out the evil energy contaminating the forest
 QUEST_LV_0100_20151224_013859	The first thing to do is eliminate the evil energy contaminating the forest. Set up the Namott of Suppression around the evil energy to clear it out.
 QUEST_LV_0100_20151224_013860	You have cleared out all of the evil energy. Go back to Mardas and tell him about it.
 QUEST_LV_0100_20151224_013861	You have eliminated all of the evil energy. Sprich mit Mardas about what to do next.
-QUEST_LV_0100_20151224_013862	Remove the Surveillance Sphere Magic Circle 
+QUEST_LV_0100_20151224_013862	Remove the Surveillance Sphere Magie Circle 
 QUEST_LV_0100_20151224_013863	Mardas says you need to remove the magic circle keeping the surveillance sphere in order to access the black energy that's absorbing the forest's own energy. Avoid the surveillance sphere and destroy its magic circle.
 QUEST_LV_0100_20151224_013864	Remove the Black Energy
 QUEST_LV_0100_20151224_013865	At the end of the forked roads at Senyvas Yard, destroy the black energy that's absorbing the forest's own energy.
 QUEST_LV_0100_20151224_013866	The black energy has been completely removed. Go and tell Mardas.
-QUEST_LV_0100_20151224_013867	Remove all Magic Circles protecting Soul Starvation
+QUEST_LV_0100_20151224_013867	Remove all Magie Circles protecting Soul Starvation
 QUEST_LV_0100_20151224_013868	Mardas says the magic circles protecting Soul Starvation must be removed. The circles must be removed in the correct order, or they will become active again. Control each circle to figure out the order and remove them accordingly.
-QUEST_LV_0100_20151224_013869	Remove the Magic Circles protecting Soul Starvation
+QUEST_LV_0100_20151224_013869	Remove the Magie Circles protecting Soul Starvation
 QUEST_LV_0100_20151224_013870	Destroy Soul Starvation with the Namott of Suppression
 QUEST_LV_0100_20151224_013871	You have defeated all the demons around. Use the power of the Namott of Suppression to destroy Soul Starvation.
 QUEST_LV_0100_20151224_013872	Besiege monsters to supply magic to the Locked Box
@@ -14012,7 +14012,7 @@ QUEST_LV_0100_20151224_014011	Kräutersammler Tales' injury doesn't seem to have
 QUEST_LV_0100_20151224_014012	Tell the Cleric Master in Orsha about Kräutersammler Tales' symptoms
 QUEST_LV_0100_20151224_014013	Kräutersammler Tales thinks the Cleric Klassenmeister might know of a way to heal their injuries. Go see the Cleric Klassenmeister in Orsha and tell them about Kräutersammler Tales' symptoms.
 QUEST_LV_0100_20151224_014014	The Cleric Klassenmeister believes Kräutersammler Tales might have been taken by evil energy. Ask the Cleric Klassenmeister about what to do.
-QUEST_LV_0100_20151224_014015	Deliver the medicine to Kräutersammler Tales
+QUEST_LV_0100_20151224_014015	Liefer Kräutersammler Tales die Medizin
 QUEST_LV_0100_20151224_014016	The Cleric Klassenmeister gave you a medicine that can purify evil energy. Deliver the medicine to Kräutersammler Tales.
 QUEST_LV_0100_20151224_014017	Wo sind alle hin?
 QUEST_LV_0100_20151224_014018	Folge Reisende Händlerin Rose zum Knidos Jungle
@@ -14149,8 +14149,8 @@ QUEST_LV_0100_20151224_014148	Eliminate the cause of Edmundas' pain
 QUEST_LV_0100_20151224_014149	Edmundas says a wizard came into the room, causing him to feel pain all of a sudden. Go to the inner section of the Apega State Chamber and destroy the thing that's hurting Edmundas.
 QUEST_LV_0100_20151224_014150	You have destroyed all crystal pillars. Go back to Reisende Händlerin Rose.
 QUEST_LV_0100_20151224_014151	Edmundas is going to be fine now. Go and talk to Reisende Händlerin Rose again.
-QUEST_LV_0100_20151224_014152	Destroy the Mysterious Wizard's Magic Stone of Pain
-QUEST_LV_0100_20151224_014153	As you were about to destroy the protective barrier around Edmundas, a mysterious wizard appeared and kidnapped Rose! Hurry and destroy the wizard's Magic Stone of Pain!
+QUEST_LV_0100_20151224_014152	Destroy the Mysterious Wizard's Magie Stone of Pain
+QUEST_LV_0100_20151224_014153	As you were about to destroy the protective barrier around Edmundas, a mysterious wizard appeared and kidnapped Rose! Hurry and destroy the wizard's Magie Stone of Pain!
 QUEST_LV_0100_20151224_014154	You have managed to rescue Edmundas, but Rose was taken away by the mysterious wizard. Sprich mit Edmundas to figure out what to do next.
 QUEST_LV_0100_20151224_014155	Losing Rose has Edmundas devastated. Sprich mit him and find out a way to rescue Rose.
 QUEST_LV_0100_20151224_014156	Find a way to release Edmundas from the shackles
@@ -14174,7 +14174,7 @@ QUEST_LV_0100_20151224_014173	You have destroyed all experiment facilities. Go a
 QUEST_LV_0100_20151224_014174	The Monk's Last Mission
 QUEST_LV_0100_20151224_014175	Sprich mit Monk Abels
 QUEST_LV_0100_20151224_014176	Monk Abels' condition is visibly deteriorated. Sprich mit Monk Abels.
-QUEST_LV_0100_20151224_014177	Retrieve Holy Relic Fragments at Gaile Chapel
+QUEST_LV_0100_20151224_014177	Retrieve Heilig Relic Fragments at Gaile Chapel
 QUEST_LV_0100_20151224_014178	Monk Abels cannot turn a blind eye to the damage the demons have done. Go to Gaile Chapel and retrieve the holy relic fragments needed to purify the monastery.
 QUEST_LV_0100_20151224_014179	Deliver to Monk Abels
 QUEST_LV_0100_20151224_014180	You have collected as many holy relic fragments as possible. Bring them to Monk Abels.
@@ -14289,7 +14289,7 @@ QUEST_LV_0100_20151224_014288	Settler Ivanayus is in desperate need of supplies 
 QUEST_LV_0100_20151224_014289	Deliver the useful objects to Settler Ivanayus
 QUEST_LV_0100_20151224_014290	You have collected enough useful objects. Bring them to Settler Ivanayus.
 QUEST_LV_0100_20151224_014291	Settler Dallanas is giving you a quizzical look. Sprich mit Settler Dallanas.
-QUEST_LV_0100_20151224_014292	Worship the Statue of Goddess Zemyna at the Randoluma Rest Place
+QUEST_LV_0100_20151224_014292	Worship the Statue der Göttin Zemyna at the Randoluma Rest Place
 QUEST_LV_0100_20151224_014293	Settler Dallanas says the goddesses bless those who worship their statues. Worship the statue of Goddess Zemyna at the Randoluma Rest Place and receive Her blessings.
 QUEST_LV_0100_20151224_014294	Settler Dallanas seems worried about something. Sprich mit Settler Dallanas.
 QUEST_LV_0100_20151224_014295	Besiege Monster am Randoluma Rest Place
@@ -14302,7 +14302,7 @@ QUEST_LV_0100_20151224_014301	You have found the villagers and brought them back
 QUEST_LV_0100_20151224_014302	The Lord of Orsha, Inesa Hamondale, wants you to hear about what is happening in Orsha before you start your journey. Sprich mit Inesa Hamondale about the situation in Orsha.
 QUEST_LV_0100_20151224_014303	Inesa Hamondale has asked you to find the bishop of Orsha, Urbonas, who is missing. Sprich mit Inesa Hamondale again.
 QUEST_LV_0100_20151224_014304	Inesa Hamondale seems to have something prepared for you before you set out to find Bishop Urbonas. Sprich mit Inesa Hamondale about it.
-QUEST_LV_0100_20151224_014305	Worship the Statue of Goddess Ausrine in the Central Plaza
+QUEST_LV_0100_20151224_014305	Worship the Statue der Göttin Ausrine in the Central Plaza
 QUEST_LV_0100_20151224_014306	Before you leave, Inesa Hamondale has asked you to worship the statue of Goddess Ausrine in the Central Plaza.
 QUEST_LV_0100_20151224_014307	Visit the Gegenstand Merchant in the Shopping District
 QUEST_LV_0100_20151224_014308	Inesa Hamondale has prepared a little gift for you. Go see the Gegenstand Merchant in the Shopping District.
@@ -14338,7 +14338,7 @@ QUEST_LV_0100_20151224_014337	Sprich mit Tracer Talbasi at Paupys Crossing
 QUEST_LV_0100_20151224_014338	Tracer Ulysses seems extremely worried about the demons. He wants you to go to Paupys Crossing immediately and find Tracer Talbasi, who is helping Priest Pranas.
 QUEST_LV_0100_20151224_014339	Tracer Ulysses is worried about the demons and thinks it's best for you to go and help Priest Pranas instead. Go to Paupys Crossing and talk to Tracer Talbasi, who is there investigating with Priest Pranas.{nl}
 QUEST_LV_0100_20151224_014340	Agent Pierneef looks extremely worn out. Try and talk to Agent Pierneef.
-QUEST_LV_0100_20151224_014341	Besiege the monsters at the Zbuka Inner Court
+QUEST_LV_0100_20151224_014341	Besiege die Monster am dem Zbuka Inner Court
 QUEST_LV_0100_20151224_014342	Agent Pierneef is helping other agents investigate the area. Besiege some monsters at the Zbuka Inner Court.
 QUEST_LV_0100_20151224_014343	Bericht an Agent Pierneef
 QUEST_LV_0100_20151224_014344	The area seems safer now. Report back to Agent Pierneef.
@@ -14346,7 +14346,7 @@ QUEST_LV_0100_20151224_014345	A nauseating smell permeates the air all around. A
 QUEST_LV_0100_20151224_014346	Agent Pierneef says the smell of defeated monsters is making other monsters go wild. Go to the Zbuka Inner Court and eliminate the smelly cart there.
 QUEST_LV_0100_20151224_014347	You have burned down the smelly cart. Go and tell Agent Pierneef.
 QUEST_LV_0100_20151224_014348	Tracer Germeja is happy to see you. Sprich mit Tracer Germeja.
-QUEST_LV_0100_20151224_014349	Use the stimulant on the monsters
+QUEST_LV_0100_20151224_014349	Verwende das Aufputschmittel bei den Monstern
 QUEST_LV_0100_20151224_014350	Tracer Germeja wants to give the monsters a stimulant drug that makes them fight each other. Use the stimulant on monsters.
 QUEST_LV_0100_20151224_014351	The stimulant works perfectly. Go and talk to Tracer Germeja again.
 QUEST_LV_0100_20151224_014352	Tracer Raitis looks worryingly livid. Ask Tracer Raitis if there is a problem.
@@ -14383,7 +14383,7 @@ QUEST_LV_0100_20151224_014382	Agent Orwen wants you to defeat the monsters distu
 QUEST_LV_0100_20151224_014383	Bericht an Agent Orwen
 QUEST_LV_0100_20151224_014384	You have cleared out the monsters nearby. Bericht an Agent Orwen.
 QUEST_LV_0100_20151224_014385	Agent Orwen seems worried about the sudden horde of demons. Sprich mit Agent Orwen.
-QUEST_LV_0100_20151224_014386	Remove the Ominous Magic Circles
+QUEST_LV_0100_20151224_014386	Remove the Ominous Magie Circles
 QUEST_LV_0100_20151224_014387	Agent Orwen says the demons have created a series of unknown magic circles. Remove the magic circles created by the demons at the Naudingas Felled Area.
 QUEST_LV_0100_20151224_014388	You have eliminated all visible magic circles. Go back and tell Agent Orwen.
 QUEST_LV_0100_20151224_014389	Agent Notres looks furious. Ask Agent Notres what is wrong.
@@ -14528,7 +14528,7 @@ QUEST_LV_0100_20151224_014527	Retrieve Priest Gelija's Medicine Pouch
 QUEST_LV_0100_20151224_014528	Priest Gelija is trying to help the injured but it seems they lost a pouch with medicine while running away. Find Priest Gelija's medicine pouch.
 QUEST_LV_0100_20151224_014529	You have found Priest Gelija's medicine pouch. Bring it to Priest Gelija.
 QUEST_LV_0100_20151224_014530	Priest Gelija is looking for a helping hand. Sprich mit Priest Gelija.
-QUEST_LV_0100_20151224_014531	Purify the Cursed Idol with the Holy Water Cloth
+QUEST_LV_0100_20151224_014531	Purify the Cursed Idol with the Heilig Water Cloth
 QUEST_LV_0100_20151224_014532	While the cursed idol has been destroyed, its future still worries Priest Gelija. Cover any idol fragments with the cloth soaked in holy water to clear out their evil energy.
 QUEST_LV_0100_20151224_014533	A lot of the evil energy has now been purified. Return to Priest Gelija.
 QUEST_LV_0100_20151224_014534	Inesa Hamondale, Lord of Orsha, is honored to meet a Revelator. Keep talking to Inesa Hamondale.
@@ -14607,7 +14607,7 @@ QUEST_LV_0100_20151224_014606	Bericht an Mage Melchioras
 QUEST_LV_0100_20151224_014607	You have found the objects under the protection cast. Relay their location to Mage Melchioras.
 QUEST_LV_0100_20151224_014608	Sprich mit Revelator Mihail
 QUEST_LV_0100_20151224_014609	Melchioras is going to analyze the protection cast; meanwhile, talk to Revelator Mihail.
-QUEST_LV_0100_20151224_014610	Besiege demons and charge the Magic Concentration Orbs
+QUEST_LV_0100_20151224_014610	Besiege demons and charge the Magie Concentration Orbs
 QUEST_LV_0100_20151224_014611	According to Mihail, they need more magic concentration orbs to blast the Demonic Power Supply Device. Besiege demons to charge the orbs.
 QUEST_LV_0100_20151224_014612	Deliver to Revelator Mihail
 QUEST_LV_0100_20151224_014613	You have filled all orbs with magic. Bring them to Revelator Mihail.
@@ -14616,7 +14616,7 @@ QUEST_LV_0100_20151224_014615	Release the objects' protection cast
 QUEST_LV_0100_20151224_014616	Mage Melchioras has asked you to dispel the protection cast placed north of the Amjene Sanctum. Use the amulet on the objects protected by the cast to release it.
 QUEST_LV_0100_20151224_014617	You have dispelled the protection cast. Return to Mage Melchioras.
 QUEST_LV_0100_20151224_014618	All preparations for blowing up the Demonic Power Supply Device are now in place. Sprich mit Mage Melchioras.
-QUEST_LV_0100_20151224_014619	Place the Magic Concentration Orbs on the Magic Power Supply Device
+QUEST_LV_0100_20151224_014619	Place the Magie Concentration Orbs on the Magie Power Supply Device
 QUEST_LV_0100_20151224_014620	It's time to blow up the Demonic Power Supply Device. Go to the Ishinti Crossroads and place the charged orbs around the device.
 QUEST_LV_0100_20151224_014621	Bericht an Revelator Mihail
 QUEST_LV_0100_20151224_014622	All the charged orbs are now in place. Sprich mit Revelator Mihail and blow up the Demonic Power Supply Device.
@@ -14645,15 +14645,15 @@ QUEST_LV_0100_20151224_014644	As Follower Nuodas said, there were plenty of usef
 QUEST_LV_0100_20151224_014645	Collect %s by defeating Charcoal Walkers
 QUEST_LV_0100_20151224_014646	Mage Melchioras seems to have split up from the group of Revelators. Sprich mit Mage Melchioras.
 QUEST_LV_0100_20151224_014647	Mage Melchioras seems to be looking for a new way to neutralize the Kruvina device. Keep talking to Mage Melchioras.
-QUEST_LV_0100_20151224_014648	Search for a Magic Power Supply Device at the Rampart Reconstruction District
+QUEST_LV_0100_20151224_014648	Search for a Magie Power Supply Device at the Rampart Reconstruction District
 QUEST_LV_0100_20151224_014649	Mage Melchioras believes there is a Demonic Power Supply Device in the Rampart Reconstruction District. Go there and set up the crystal to reveal any hidden devices.
 QUEST_LV_0100_20151224_014650	You have found the hidden Demonic Power Supply Device. Return to Mage Melchioras.
 QUEST_LV_0100_20151224_014651	Mage Melchioras believes there are other Demonic Power Supply Devices. Keep talking to Mage Melchioras.
-QUEST_LV_0100_20151224_014652	Search for a Magic Power Supply Device at the Buried Central Plaza
+QUEST_LV_0100_20151224_014652	Search for a Magie Power Supply Device at the Buried Central Plaza
 QUEST_LV_0100_20151224_014653	Mage Melchioras says he felt a new Demonic Power Supply Device. Go to the Buried Central Plaza and set up the crystal to reveal any hidden devices.
 QUEST_LV_0100_20151224_014654	It seems this time his prediction was wrong. Return to Mage Melchioras and let him know.
 QUEST_LV_0100_20151224_014655	Mage Melchioras feels sorry for his lack of judgement. Keep talking to him.
-QUEST_LV_0100_20151224_014656	Search for a Magic Power Supply Device at the Handicraft Workshop Road
+QUEST_LV_0100_20151224_014656	Search for a Magie Power Supply Device at the Handicraft Workshop Road
 QUEST_LV_0100_20151224_014657	This time, Mage Melchioras thinks there is a Demonic Power Supply Device at the Handicraft Workshop Road. Go there and set up the crystal to reveal any hidden devices.
 QUEST_LV_0100_20151224_014658	It looks like Yane is going to try and destroy the central device purely by force. Go back and tell Melchioras about this immediately.
 QUEST_LV_0100_20151224_014659	Mage Melchioras looks livid after hearing about what Yane is planning to do. Keep talking to him.
@@ -14731,7 +14731,7 @@ QUEST_LV_0100_20151224_014730	Revelator Yane wants you to help clear out some de
 QUEST_LV_0100_20151224_014731	Bericht an Revelator Yane
 QUEST_LV_0100_20151224_014732	You have cleared out some of the demons nearby. Go and tell Revelator Yane.
 QUEST_LV_0100_20151224_014733	Revelator Mihail seems to have something on his mind. Sprich mit Revelator Mihail.
-QUEST_LV_0100_20151224_014734	Collect Magic Amplifiers from Black Maizes
+QUEST_LV_0100_20151224_014734	Collect Magie Amplifiers from Black Maizes
 QUEST_LV_0100_20151224_014735	Mage Melchioras seems interested in the magic amplifiers. Obtain some magic amplifiers from Black Maizes.
 QUEST_LV_0100_20151224_014736	You have collected enough magic amplifiers. Bring them to Mage Melchioras.
 QUEST_LV_0100_20151224_014737	Collect %s from Black Maizes
@@ -14896,7 +14896,7 @@ QUEST_LV_0100_20160323_014895	I don't want to get my hands dirty
 QUEST_LV_0100_20160323_014896	Camping Preparations
 QUEST_LV_0100_20160323_014897	Check the Luftreiniger in 3F
 QUEST_LV_0100_20160323_014898	Check the Luftreiniger in Crystal Mine 3F
-QUEST_LV_0100_20160323_014899	Collect Crystal Magic
+QUEST_LV_0100_20160323_014899	Collect Crystal Magie
 QUEST_LV_0100_20160323_014900	The purifier on the 3rd floor is disabled for lack of energy. Find magic crystals and charge the emergency power source with their magic, then  use it to provide energy to the 3F Luftreiniger.
 QUEST_LV_0100_20160323_014901	Besorge Energie für die 3F Luftreiniger
 QUEST_LV_0100_20160323_014902	You have collected enough crystal magic. Supply their energy to the 3F Luftreiniger.

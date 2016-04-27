@@ -107,7 +107,7 @@ QUEST_LV_0300_20150717_000106	Destroy the Terminal
 QUEST_LV_0300_20150717_000107	Svitrigaila says that the third terminal will get knocked out if anything comes near it. Retrieve the core from the petrified monsters nearby and throw it at the terminal to destroy it.
 QUEST_LV_0300_20150717_000108	And Eternal Repose
 QUEST_LV_0300_20150717_000109	Now that you've gotten rid of all the terminals, return to Svitrigaila.
-QUEST_LV_0300_20150717_000110	Find materials to craft the Magic Orb
+QUEST_LV_0300_20150717_000110	Find materials to craft the Magie Orb
 QUEST_LV_0300_20150717_000111	Svitrigaila gave you a manual to create a magic orb that can free the trapped souls from the Soul Compactor. Gather the necessary crafting materials that Svitrigaila was unable to get from monsters and then use the manual to craft Svitrigaila's Orb.
 QUEST_LV_0300_20150717_000112	Destroy the Soul Compactor
 QUEST_LV_0300_20150717_000113	You have crafted Svitrigaila's Orb. Now take the orb to the Soul Compactor.
@@ -161,7 +161,7 @@ QUEST_LV_0300_20150730_000160	Craft %s
 QUEST_LV_0300_20150803_000161	They might get killed since there's no word from them.{nl}If you find their bodies... please bring them with their mementos.
 QUEST_LV_0300_20150803_000162	Entire troops were killed. Thank you for the help.{nl}There should be a part in the mementos.
 QUEST_LV_0300_20150803_000163	You need to move on to repair.{nl}Be careful of the Petrifying Frost.
-QUEST_LV_0300_20150803_000164	Holy water?{nl}What do you need it for?
+QUEST_LV_0300_20150803_000164	Heilig water?{nl}What do you need it for?
 QUEST_LV_0300_20150803_000165	There is a demon who needs holy water at Dingofasil District?{nl}...
 QUEST_LV_0300_20150803_000166	{nl}I won't concern myself with your personal matters, but I can't help demons as a cleric.
 QUEST_LV_0300_20150803_000167	Maybe this is the only way...{nl}Destroying the Spirit Integration Device...{nl}The ones who sent me here told me that the Spirit Integration Device and I are one. {nl}{nl}How could I forget that?
@@ -960,7 +960,7 @@ QUEST_LV_0300_20151224_000959	The Shinobi Master told you that you need an abili
 QUEST_LV_0300_20151224_000960	Bericht an den Shinobi Master
 QUEST_LV_0300_20151224_000961	You've completed the assignment of the Shinobi Master. Return to the Shinobi Master.
 QUEST_LV_0300_20151224_000962	Activate only the designated shrines
-QUEST_LV_0300_20151224_000963	When you activate one of the shrines of Romiva Magic Fields, one other shrine will also react. Use it to activate the shrine which Gormen has told you. If you forgot to which shrine to activate, check the memo which Gormen has given to you. The memo can only be checked when you activate the shrine.
+QUEST_LV_0300_20151224_000963	When you activate one of the shrines of Romiva Magie Fields, one other shrine will also react. Use it to activate the shrine which Gormen has told you. If you forgot to which shrine to activate, check the memo which Gormen has given to you. The memo can only be checked when you activate the shrine.
 QUEST_LV_0300_20151224_000964	Baskez told you that him and his colleagues would be able to withstand the severe cold if they have the hairy leathers of Lepusbunny Assassin. Hunt for Green Lepusbunny Assassin and bring their hairy leathers.
 QUEST_LV_0300_20151224_000965	You've collected enough food. Hand them over to Supply Officer Ronda.
 QUEST_LV_0300_20151224_000966	Collect the spotted mushrooms of Blue Lapasapes.
@@ -1030,9 +1030,9 @@ QUEST_LV_0300_20160310_001029	Take this to Sarma since they look almost identica
 QUEST_LV_0300_20160310_001030	Be careful just in case.{nl}I'll get to you as soon as I find something.
 QUEST_LV_0300_20160310_001031	What took you so long in bringing me one more ingredient?{nl}
 QUEST_LV_0300_20160310_001032	Well, it seems as if you've brought the proper ingredient.{nl}This is the last stage of the experiment.
-QUEST_LV_0300_20160310_001033	Now all that is left is to put this on the Transmutation Magic Circle and add magic.{nl}I've set it so that anyone can power it with magic, so you shouldn't have trouble. {nl}Now go and power the magic circle.
+QUEST_LV_0300_20160310_001033	Now all that is left is to put this on the Transmutation Magie Circle and add magic.{nl}I've set it so that anyone can power it with magic, so you shouldn't have trouble. {nl}Now go and power the magic circle.
 QUEST_LV_0300_20160310_001034	T-That's... because I have other things to do.{nl}I have to leave records of the experiment and observe the situation you see.{nl}
-QUEST_LV_0300_20160310_001035	Now stop stalling and go power up the Transmutation Magic Circle.{nl}All you have to do is put the ingredients on the circle {nl}and emancipate the magic from the tombstone.{nl}
+QUEST_LV_0300_20160310_001035	Now stop stalling and go power up the Transmutation Magie Circle.{nl}All you have to do is put the ingredients on the circle {nl}and emancipate the magic from the tombstone.{nl}
 QUEST_LV_0300_20160310_001036	But remember that the magic in the tombstone can only be emancipated from the front.
 QUEST_LV_0300_20160310_001037	Has the liquid properly been created?{nl}
 QUEST_LV_0300_20160310_001038	Ahah.{nl}It seems that I finally have results for this research.
@@ -1264,7 +1264,7 @@ QUEST_LV_0300_20160310_001263	The idea is to purify the demons' souls and use th
 QUEST_LV_0300_20160310_001264	Can you fill it with a little bit more of the demons' souls?{nl}As you already may know, defeating demons will automatically absorb their souls.
 QUEST_LV_0300_20160310_001265	Without a doubt the demons are strong... that's why I guess that their souls are strong as well.{nl}My sacred energy is not strong enough to purify this much power.
 QUEST_LV_0300_20160310_001266	We should somehow borrow the power of holy water...{nl}Like I told you before though, I have nothing at the moment.
-QUEST_LV_0300_20160310_001267	I am so sorry, but can you get me Holy Water from the Priest Master in Klaipeda?{nl}If we have enough holy water, we'll be able to purify the demons' fallen souls.
+QUEST_LV_0300_20160310_001267	I am so sorry, but can you get me Heilig Water from the Priest Master in Klaipeda?{nl}If we have enough holy water, we'll be able to purify the demons' fallen souls.
 QUEST_LV_0300_20160310_001268	Please use the statue of Goddess Vakarine near Viyme Fountain.{nl}You can quickly come back from Klaipeda.
 QUEST_LV_0300_20160310_001269	With this, you'll be able to purify the souls contained within the Soul Sphere.{nl}Now, give me a moment.
 QUEST_LV_0300_20160310_001270	Since the power of a demon's soul is strong, the residual power after purification possesses strength as well.{nl}This power has the capability to destroy the sinister idol.{nl}
@@ -1746,12 +1746,12 @@ QUEST_LV_0300_20160310_001745	The abbot claims that in order to destroy the blac
 QUEST_LV_0300_20160310_001746	You've filled the Soul Sphere with the demon souls. Return to the Elgos Abbot.
 QUEST_LV_0300_20160310_001747	Besiege the demons and absorb their souls
 QUEST_LV_0300_20160310_001748	Collected enough demons' fallen souls. Sprich mit the Elgos Abbot.
-QUEST_LV_0300_20160310_001749	Purchase Holy Water from the Priest Master
-QUEST_LV_0300_20160310_001750	The abbot needs more power to purify the demons' fallen souls. The Holy Water from a Priest Master would greatly help him with the process. Purchase 10 Holy Waters from the Priest Master.
-QUEST_LV_0300_20160310_001751	Give the Holy Water to the abbot
-QUEST_LV_0300_20160310_001752	You've purchased Holy Water from the Priest Master. Return to the Elgos Abbot.
+QUEST_LV_0300_20160310_001749	Purchase Heilig Water from the Priest Master
+QUEST_LV_0300_20160310_001750	The abbot needs more power to purify the demons' fallen souls. The Heilig Water from a Priest Master would greatly help him with the process. Purchase 10 Heilig Waters from the Priest Master.
+QUEST_LV_0300_20160310_001751	Give the Heilig Water to the abbot
+QUEST_LV_0300_20160310_001752	You've purchased Heilig Water from the Priest Master. Return to the Elgos Abbot.
 QUEST_LV_0300_20160310_001753	Purchase %s from the Priest Master
-QUEST_LV_0300_20160310_001754	You've purchased Holy Water from the Priest Master. Sprich mit the Elgos Abbot.
+QUEST_LV_0300_20160310_001754	You've purchased Heilig Water from the Priest Master. Sprich mit the Elgos Abbot.
 QUEST_LV_0300_20160310_001755	Destroy the Sinister Idol
 QUEST_LV_0300_20160310_001756	The abbot purified the soul sphere. He says using the purified soul sphere will destroy the sinister idol.
 QUEST_LV_0300_20160310_001757	By using the soul sphere, you've destroyed the sinister idol. Report back to the Elgos Abbot.
@@ -1822,10 +1822,10 @@ QUEST_LV_0300_20160310_001821	Refugee Elius is makig ointments to heal injured p
 QUEST_LV_0300_20160310_001822	Deliver them to Refugee Elius
 QUEST_LV_0300_20160310_001823	You've found all the ingredients you need. Deliver them to Refugee Elius.
 QUEST_LV_0300_20160310_001824	Merchant Felicia is looking for someone who can help her.
-QUEST_LV_0300_20160310_001825	Use the Magic Searching Stone to find a tool to open the box
-QUEST_LV_0300_20160310_001826	Merchant Felicia is looking for a way to open the box. Use the Magic Searching Stone to find the right tool.
+QUEST_LV_0300_20160310_001825	Use the Magie Searching Stone to find a tool to open the box
+QUEST_LV_0300_20160310_001826	Merchant Felicia is looking for a way to open the box. Use the Magie Searching Stone to find the right tool.
 QUEST_LV_0300_20160310_001827	Deliver it to Merchant Felicia
-QUEST_LV_0300_20160310_001828	You've found a bag responding to the Magic Searching Stone's signal. Deliver it to Merchant Felicia.
+QUEST_LV_0300_20160310_001828	You've found a bag responding to the Magie Searching Stone's signal. Deliver it to Merchant Felicia.
 QUEST_LV_0300_20160323_001829	I'm going to give you some aged fruit tree sap.{nl}Go to the research material warehouse and find a chemical that looks like this.{nl}
 QUEST_LV_0300_20160323_001830	It is said this steel-barred window was moved to Kalejimas a long time ago.{nl}Quite a dready object from the Kadumel Era.{nl}
 QUEST_LV_0300_20160323_001831	Vaidotas. Do you know him?{nl}The Alchemist Master, Vaidotas, is my cousin.
@@ -1839,86 +1839,86 @@ QUEST_LV_0300_20160323_001838	I'm Kabbalist Lutas.{nl}I'm redrawing the Vera Coa
 QUEST_LV_0300_20160323_001839	This area rose up from underwater during Medzio Diena, so the soil here is very weak. {nl}If it ends up being covered by the sea again, it will cause {nl}a massive earthquake affecting the whole continent.{nl}
 QUEST_LV_0300_20160323_001840	Because of that, the Kabbalist Master drew magic circles here to stabilize the soil.{nl}With the power of Zemyna, the goddess of the earth and Jurate, the goddess of the sea.{nl}
 QUEST_LV_0300_20160323_001841	But after sometime, I came back and the circles had faded a lot.{nl}So I told the Kabbalist Master and now I'm redrawing the magic circles.{nl}
-QUEST_LV_0300_20160323_001842	By the way, you don't seem very affected by the Binding Magic Circle, you must be skilled. {nl}Sorry for asking, but I could use some help, actually... Would you perhaps...?
-QUEST_LV_0300_20160323_001843	Oh no... How could this happen?{nl}The Earth Magic Circle is gone!{nl}
+QUEST_LV_0300_20160323_001842	By the way, you don't seem very affected by the Binding Magie Circle, you must be skilled. {nl}Sorry for asking, but I could use some help, actually... Would you perhaps...?
+QUEST_LV_0300_20160323_001843	Oh no... How could this happen?{nl}The Earth Magie Circle is gone!{nl}
 QUEST_LV_0300_20160323_001844	Could it be... the earthquake...
 QUEST_LV_0300_20160323_001845	You destroyed the magic core?{nl}Oh my...{nl}
 QUEST_LV_0300_20160323_001846	I know my magic circles gave you a hard time, but this one...{nl}This one is the magic circle supporting Vera Coast!{nl}
 QUEST_LV_0300_20160323_001847	We can't lose time. We need to draw the magic circle again!{nl}Quick, you need to gather some earth energy.
-QUEST_LV_0300_20160323_001848	I have an earth energy collector that I installed some time ago, just in case.{nl}The Tuolo Coral Reef. I'll give you this Earth Magic Stone, just go quickly.
+QUEST_LV_0300_20160323_001848	I have an earth energy collector that I installed some time ago, just in case.{nl}The Tuolo Coral Reef. I'll give you this Earth Magie Stone, just go quickly.
 QUEST_LV_0300_20160323_001849	We have no time to stall.{nl}If we don't complete the magic circle, we could cause an earthquake as strong as Medzio Diena!{nl}
 QUEST_LV_0300_20160323_001850	Aaargh... Another earthquake...{nl}
 QUEST_LV_0300_20160323_001851	You're fast.{nl}Give me the earth energy. I'll take it from here.
-QUEST_LV_0300_20160323_001852	Did you feel the ground shaking earlier? We need to hurry.{nl}After restoring the Earth Magic Circle, I'm going to take care of the the sea and balancing one.{nl}
-QUEST_LV_0300_20160323_001853	I'm giving you a Sea Magic Stone and a balancing one.{nl}Fill them up while I try to restore the Earth Magic Circle.{nl}
+QUEST_LV_0300_20160323_001852	Did you feel the ground shaking earlier? We need to hurry.{nl}After restoring the Earth Magie Circle, I'm going to take care of the the sea and balancing one.{nl}
+QUEST_LV_0300_20160323_001853	I'm giving you a Sea Magie Stone and a balancing one.{nl}Fill them up while I try to restore the Earth Magie Circle.{nl}
 QUEST_LV_0300_20160323_001854	Unfortunately I have no collector for these.{nl}You'll have to put down the stones and hunt monsters nearby to have them absorb their energy.{nl}
-QUEST_LV_0300_20160323_001855	The ground was shaking again.{nl}I should hurry and complete the Sea Magic Circle.
+QUEST_LV_0300_20160323_001855	The ground was shaking again.{nl}I should hurry and complete the Sea Magie Circle.
 QUEST_LV_0300_20160323_001856	Did you fill up the stones with energy?{nl}
 QUEST_LV_0300_20160323_001857	I just finished the magic circle.{nl}Please wait a moment.
-QUEST_LV_0300_20160323_001858	Finished! Now to repair the Sea Magic Circle.{nl}I'll go ahead first and start preparing.{nl}
-QUEST_LV_0300_20160323_001859	The Sea Magic Circle is in Khanka Sentry.{nl}You know where it is, right? We'll meet there.
-QUEST_LV_0300_20160323_001860	Thanks to you I was able to draw the circle in time.{nl}Now I just need to finish the Balancing Magic Circle and it should be fine.
-QUEST_LV_0300_20160323_001861	I drew the Balancing Magic Circle in advance before coming back.{nl}All we need to do is add the balancing energy to it.{nl}
-QUEST_LV_0300_20160323_001862	The Balancing Magic Circle is at the Garama Sandbank, past the Bachl Vacant Lot.{nl}Let's go.
+QUEST_LV_0300_20160323_001858	Finished! Now to repair the Sea Magie Circle.{nl}I'll go ahead first and start preparing.{nl}
+QUEST_LV_0300_20160323_001859	The Sea Magie Circle is in Khanka Sentry.{nl}You know where it is, right? We'll meet there.
+QUEST_LV_0300_20160323_001860	Thanks to you I was able to draw the circle in time.{nl}Now I just need to finish the Balancing Magie Circle and it should be fine.
+QUEST_LV_0300_20160323_001861	I drew the Balancing Magie Circle in advance before coming back.{nl}All we need to do is add the balancing energy to it.{nl}
+QUEST_LV_0300_20160323_001862	The Balancing Magie Circle is at the Garama Sandbank, past the Bachl Vacant Lot.{nl}Let's go.
 QUEST_LV_0300_20160323_001863	Ugh... I can't walk anymore.{nl}I'm sorry, I'm a disgrace...
-QUEST_LV_0300_20160323_001864	But there's no time to waste.{nl}The Balancing Magic Circle needs to be completed as soon as possible...{nl}
+QUEST_LV_0300_20160323_001864	But there's no time to waste.{nl}The Balancing Magie Circle needs to be completed as soon as possible...{nl}
 QUEST_LV_0300_20160323_001865	I think I'm going to have to give you the balancing stone.{nl}I'll be fine if I rest for a while, you go ahead and complete the magic circle. Please.
 QUEST_LV_0300_20160323_001866	We're wasting time. Go now. Go...
 QUEST_LV_0300_20160323_001867	You did great.{nl}You stopped an immense tragedy from happening.{nl}
 QUEST_LV_0300_20160323_001868	Vera Coast should be safe from being submerged now.{nl}I'm going to look into the conditions of the soil a little more and go back to the Kabbalist Master.{nl}Thank you for your help.
 QUEST_LV_0300_20160323_001869	Thank you!{nl}Now if only you'll keep the monsters away while I draw the circle again, I'll be much appreciated.{nl}
-QUEST_LV_0300_20160323_001870	I was just about to go to the Earth Magic Circle. Come with me.
-QUEST_LV_0300_20160323_001871	The Sea Magic Circle only needs energy of the sea.{nl}On the Balancing Magic Circle you need to add both earth and sea energy.
-QUEST_LV_0300_20160323_001872	For the Sea Magic Stone, make sure you fill it only with sea energy.{nl}Be careful not to mix sea and earth energy.
+QUEST_LV_0300_20160323_001870	I was just about to go to the Earth Magie Circle. Come with me.
+QUEST_LV_0300_20160323_001871	The Sea Magie Circle only needs energy of the sea.{nl}On the Balancing Magie Circle you need to add both earth and sea energy.
+QUEST_LV_0300_20160323_001872	For the Sea Magie Stone, make sure you fill it only with sea energy.{nl}Be careful not to mix sea and earth energy.
 QUEST_LV_0300_20160323_001873	Ah... wait!{nl}I think there's a problem...{nl}
-QUEST_LV_0300_20160323_001874	Looking at the new magic circles, the Earth Magic Circle looks a little weaker than the others.{nl}I think there might have been a problem with the energy collector.{nl}
+QUEST_LV_0300_20160323_001874	Looking at the new magic circles, the Earth Magie Circle looks a little weaker than the others.{nl}I think there might have been a problem with the energy collector.{nl}
 QUEST_LV_0300_20160323_001875	I want to absorb some energy directly from monsters {nl}like what we did with the other magic circles.{nl}Can you help me?
 QUEST_LV_0300_20160323_001876	Just be careful.{nl}Make sure the sea energy doesn't mix with the earth energy.
-QUEST_LV_0300_20160323_001877	Thank you.{nl}I'll repair the Earth Magic Circle now.
+QUEST_LV_0300_20160323_001877	Thank you.{nl}I'll repair the Earth Magie Circle now.
 QUEST_LV_0300_20160323_001878	Hmm... I can't help but worry about all these monsters around.{nl}But magic circle protective magic doesn't work on monsters.{nl}
-QUEST_LV_0300_20160323_001879	I should probably make more Binding Magic Circles around.{nl}I'm sorry, but just help me with this one last thing!
+QUEST_LV_0300_20160323_001879	I should probably make more Binding Magie Circles around.{nl}I'm sorry, but just help me with this one last thing!
 QUEST_LV_0300_20160323_001880	When the new magic circles are completed, they disappear after a while.{nl}Don't worry about stepping on them, though, they only react to monsters.
-QUEST_LV_0300_20160323_001881	The new Binding Magic Circles are ready? {nl}Thank you.{nl}
+QUEST_LV_0300_20160323_001881	The new Binding Magie Circles are ready? {nl}Thank you.{nl}
 QUEST_LV_0300_20160323_001882	What? Nothing happens when the monsters step on them?{nl}Ah... Maybe they need time to activate.{nl}Don't worry about it.{nl}
-QUEST_LV_0300_20160323_001883	Now that I think about it, the Binding Magic Circles I made before were too dangerous. {nl}Even you had a close call with them.{nl}
+QUEST_LV_0300_20160323_001883	Now that I think about it, the Binding Magie Circles I made before were too dangerous. {nl}Even you had a close call with them.{nl}
 QUEST_LV_0300_20160323_001884	I think it's best to get rid of any danger.{nl}It's the last thing I'm asking you.
-QUEST_LV_0300_20160323_001885	The Magic Searching Stone is too old so sometimes it doesn't detect magic circles that well.
+QUEST_LV_0300_20160323_001885	The Magie Searching Stone is too old so sometimes it doesn't detect magic circles that well.
 QUEST_LV_0300_20160323_001886	Thanks for your help.{nl}It should be safe for anyone who comes here now.
-QUEST_LV_0300_20160323_001887	I'm going to give you a Magic Searching Stone.{nl}Use it to find any hidden Binding Magic Circles.{nl}
+QUEST_LV_0300_20160323_001887	I'm going to give you a Magie Searching Stone.{nl}Use it to find any hidden Binding Magie Circles.{nl}
 QUEST_LV_0300_20160323_001888	The magic circles you found will fade away with time.{nl}Luring monsters into the circles isn't a bad option either.{nl}
 QUEST_LV_0300_20160323_001889	The magic circles do disappear when you step on them, {nl}but there's no need to do anything dangerous.
-QUEST_LV_0300_20160323_001890	Oh, make sure you add only sea energy to the Sea Magic Circle.{nl}The balancing one needs both earth and sea energy.
+QUEST_LV_0300_20160323_001890	Oh, make sure you add only sea energy to the Sea Magie Circle.{nl}The balancing one needs both earth and sea energy.
 QUEST_LV_0300_20160323_001891	Make sure you don't get them mixed up.{nl}
 QUEST_LV_0300_20160323_001892	Thanks to you Vera Coast is stable now.{nl}Thank you.
 QUEST_LV_0300_20160323_001893	There are three small magic circles at the Bachl Vacant Lot.{nl}If something happens to the magic circles, those circles will also react.
 QUEST_LV_0300_20160323_001894	There doesn't seem to be a reaction.
 QUEST_LV_0300_20160323_001895	Are you sure? Thank you!{nl}The method is the same as before.{nl}
-QUEST_LV_0300_20160323_001896	I'm going to give you an Earth Magic Stone; just put it down and defeat monsters.{nl}Also, make sure to fill it only with earth energy.
+QUEST_LV_0300_20160323_001896	I'm going to give you an Earth Magie Stone; just put it down and defeat monsters.{nl}Also, make sure to fill it only with earth energy.
 QUEST_LV_0300_20160323_001897	Oh, don't worry.{nl}I made it so that it only works with monsters.{nl}
-QUEST_LV_0300_20160323_001898	This is a Binding Magic Circle scroll.{nl}Take it and create Binding Magic Circles around the new circles.
-QUEST_LV_0300_20160323_001899	Evil Magic Circles? (1)
-QUEST_LV_0300_20160323_001900	Evil Magic Circles? (2)
-QUEST_LV_0300_20160323_001901	Evil Magic Circles? (3)
-QUEST_LV_0300_20160323_001902	Evil Magic Circles? (4)
-QUEST_LV_0300_20160323_001903	Earth Magic Circle
+QUEST_LV_0300_20160323_001898	This is a Binding Magie Circle scroll.{nl}Take it and create Binding Magie Circles around the new circles.
+QUEST_LV_0300_20160323_001899	Evil Magie Circles? (1)
+QUEST_LV_0300_20160323_001900	Evil Magie Circles? (2)
+QUEST_LV_0300_20160323_001901	Evil Magie Circles? (3)
+QUEST_LV_0300_20160323_001902	Evil Magie Circles? (4)
+QUEST_LV_0300_20160323_001903	Earth Magie Circle
 QUEST_LV_0300_20160323_001904	Earth Energy
 QUEST_LV_0300_20160323_001905	Talking about what happened
 QUEST_LV_0300_20160323_001906	I'll gather the energy.
 QUEST_LV_0300_20160323_001907	Balancing Energy
 QUEST_LV_0300_20160323_001908	I see no reason to help you.
 QUEST_LV_0300_20160323_001909	Sea Energy
-QUEST_LV_0300_20160323_001910	Sea Magic Circle
+QUEST_LV_0300_20160323_001910	Sea Magie Circle
 QUEST_LV_0300_20160323_001911	I'll go there.
 QUEST_LV_0300_20160323_001912	That's going to be difficult.
-QUEST_LV_0300_20160323_001913	Balancing Magic Circle (1)
+QUEST_LV_0300_20160323_001913	Balancing Magie Circle (1)
 QUEST_LV_0300_20160323_001914	Let's go.
-QUEST_LV_0300_20160323_001915	Balancing Magic Circle (2)
+QUEST_LV_0300_20160323_001915	Balancing Magie Circle (2)
 QUEST_LV_0300_20160323_001916	I can't go alone.
 QUEST_LV_0300_20160323_001917	More earth energy
 QUEST_LV_0300_20160323_001918	Restrain to Protect (1)
 QUEST_LV_0300_20160323_001919	I'll help you, but what if other people get caught in it?
 QUEST_LV_0300_20160323_001920	Restrain to Protect (2)
-QUEST_LV_0300_20160323_001921	Evil Magic Circles?
+QUEST_LV_0300_20160323_001921	Evil Magie Circles?
 QUEST_LV_0300_20160323_001922	Search Vera Coast
 QUEST_LV_0300_20160323_001923	You have arrived at Vera Coast. What kind of events could await you here?
 QUEST_LV_0300_20160323_001924	A magic circle under your feet has suddenly activated and you're unable to move! First, defeat the monsters around you.
@@ -1933,12 +1933,12 @@ QUEST_LV_0300_20160323_001932	Find another way to destroy the magic circles
 QUEST_LV_0300_20160323_001933	The stones don't seem to be very effective. Look for another solution.
 QUEST_LV_0300_20160323_001934	Throw a piece of Coral Horn
 QUEST_LV_0300_20160323_001935	The stones don't seem to be very effective. Besiege nearby monsters to obtain a piece of monster horns and throw it.
-QUEST_LV_0300_20160323_001936	You have destroyed the Blue and Red Magic Circles. Look for any other magic circles.
+QUEST_LV_0300_20160323_001936	You have destroyed the Blue and Red Magie Circles. Look for any other magic circles.
 QUEST_LV_0300_20160323_001937	Search for more magic circles
 QUEST_LV_0300_20160323_001938	Sprich mit Kabbalist Lutas
-QUEST_LV_0300_20160323_001939	Kabbalist Lutas has disabled the Binding Magic Circle. Ask him if he knows anything.
-QUEST_LV_0300_20160323_001940	Kabbalist Lutas has disabled the Binding Magic Circle that was trapping you. Ask him what happened.
-QUEST_LV_0300_20160323_001941	Go to the Magic Circle with Kabbalist Lutas
+QUEST_LV_0300_20160323_001939	Kabbalist Lutas has disabled the Binding Magie Circle. Ask him if he knows anything.
+QUEST_LV_0300_20160323_001940	Kabbalist Lutas has disabled the Binding Magie Circle that was trapping you. Ask him what happened.
+QUEST_LV_0300_20160323_001941	Go to the Magie Circle with Kabbalist Lutas
 QUEST_LV_0300_20160323_001942	Kabbalist Lutas is redrawing the magic circles stabilizing Vera Coast. Go with him to the magic circle he is redrawing.
 QUEST_LV_0300_20160323_001943	The magic circles thought to have been created with evil intentions were drawn by Lutas. Sprich mit him.
 QUEST_LV_0300_20160323_001944	It looks like you will have to help Lutas redraw the magic circles. Sprich mit him.
@@ -1946,37 +1946,37 @@ QUEST_LV_0300_20160323_001945	Gather Earth Energy
 QUEST_LV_0300_20160323_001946	Kabbalist Lutas has asked you to fill the magic stone with earth energy. Go to the Tuolo Coral Reef and have the stone absorb earth energy. Lutas also warned you to be careful of any monsters after earth energy.
 QUEST_LV_0300_20160323_001947	Return to Kabbalist Lutas
 QUEST_LV_0300_20160323_001948	You have gather enough earth energy. Return to Kabbalist Lutas.
-QUEST_LV_0300_20160323_001949	Kabbalist Lutas says the Earth Magic Circle is not yet complete. Ask him if there is anything you can help with meanwhile.
+QUEST_LV_0300_20160323_001949	Kabbalist Lutas says the Earth Magie Circle is not yet complete. Ask him if there is anything you can help with meanwhile.
 QUEST_LV_0300_20160323_001950	Gather Balancing Energy
-QUEST_LV_0300_20160323_001951	Kabbalist Lutas now wants to collect energy to repair the water and Balancing Magic Circles. Put down the Balancing Magic Stone and defeat nearby monsters to collect sea and earth energy.
-QUEST_LV_0300_20160323_001952	Kabbalist Lutas now wants to collect energy to repair the water and Balancing Magic Circles. Put down the Balancing Magic Stone and defeat nearby monsters to collect sea and earth energy.
+QUEST_LV_0300_20160323_001951	Kabbalist Lutas now wants to collect energy to repair the water and Balancing Magie Circles. Put down the Balancing Magie Stone and defeat nearby monsters to collect sea and earth energy.
+QUEST_LV_0300_20160323_001952	Kabbalist Lutas now wants to collect energy to repair the water and Balancing Magie Circles. Put down the Balancing Magie Stone and defeat nearby monsters to collect sea and earth energy.
 QUEST_LV_0300_20160323_001953	Gather Sea Energy
-QUEST_LV_0300_20160323_001954	You have filled the Balancing Magic Stone with balancing energy. Now fill the Sea Magic Stone with sea energy.
-QUEST_LV_0300_20160323_001955	To fill up the Sea Magic Stone, put it down and defeat monsters with sea energy. Just be careful not to let it mix with earth energy.
-QUEST_LV_0300_20160323_001956	You have filled the Balancing and Sea Magic Stones with sufficient energy. Return to Kabbalist Lutas.
-QUEST_LV_0300_20160323_001957	Kabbalist Lutas is going to head to the spot where the Sea Magic Circle is. Go meet him there.
+QUEST_LV_0300_20160323_001954	You have filled the Balancing Magie Stone with balancing energy. Now fill the Sea Magie Stone with sea energy.
+QUEST_LV_0300_20160323_001955	To fill up the Sea Magie Stone, put it down and defeat monsters with sea energy. Just be careful not to let it mix with earth energy.
+QUEST_LV_0300_20160323_001956	You have filled the Balancing and Sea Magie Stones with sufficient energy. Return to Kabbalist Lutas.
+QUEST_LV_0300_20160323_001957	Kabbalist Lutas is going to head to the spot where the Sea Magie Circle is. Go meet him there.
 QUEST_LV_0300_20160323_001958	Protect Lutas
 QUEST_LV_0300_20160323_001959	Kabbalist Lutas wants to draw the next magic circle as soon as possible. While he does that, he has asked you to protect him from nearby monsters.
-QUEST_LV_0300_20160323_001960	Lutas has completed the Sea Magic Circle. Sprich mit him.
-QUEST_LV_0300_20160323_001961	Balancing Magic Circle
-QUEST_LV_0300_20160323_001962	Lutas has restored the Sea Magic Circle. Sprich mit Lutas.
-QUEST_LV_0300_20160323_001963	Go to the Bachl Vacant Lot for the Last Magic Circle
-QUEST_LV_0300_20160323_001964	Lutas says all that's left to do is repair the Balancing Magic Circle. Go with Lutas to the Bachl Vacant Lot, where the circle is.
+QUEST_LV_0300_20160323_001960	Lutas has completed the Sea Magie Circle. Sprich mit him.
+QUEST_LV_0300_20160323_001961	Balancing Magie Circle
+QUEST_LV_0300_20160323_001962	Lutas has restored the Sea Magie Circle. Sprich mit Lutas.
+QUEST_LV_0300_20160323_001963	Go to the Bachl Vacant Lot for the Last Magie Circle
+QUEST_LV_0300_20160323_001964	Lutas says all that's left to do is repair the Balancing Magie Circle. Go with Lutas to the Bachl Vacant Lot, where the circle is.
 QUEST_LV_0300_20160323_001965	Lutas seems to have been injured by the attacking Crabil. Sprich mit Lutas.
 QUEST_LV_0300_20160323_001966	The Crabil was defeated, but Lutas seems to be injured. Sprich mit him.
 QUEST_LV_0300_20160323_001967	Add balancing energy to the magic circle
-QUEST_LV_0300_20160323_001968	Lutas seems to be having trouble moving. You need to complete the Balancing Magic Circle for him. Besiege nearby monsters to keep them from disturbing you.
+QUEST_LV_0300_20160323_001968	Lutas seems to be having trouble moving. You need to complete the Balancing Magie Circle for him. Besiege nearby monsters to keep them from disturbing you.
 QUEST_LV_0300_20160323_001969	After adding the balancing energy to the magic circle, it is now completed. Return to Lutas.
 QUEST_LV_0300_20160323_001970	Kabbalist Lutas seems to have something to ask you. Sprich mit him.
 QUEST_LV_0300_20160323_001971	Gather Earth Energy
-QUEST_LV_0300_20160323_001972	Lutas thinks the earth energy gathered with the collector was too weak. Put down the Earth Magic Stone and defeat nearby monsters to fill it with earth energy. Like Lutas warned, make sure it doesn't mix with sea energy.
+QUEST_LV_0300_20160323_001972	Lutas thinks the earth energy gathered with the collector was too weak. Put down the Earth Magie Stone and defeat nearby monsters to fill it with earth energy. Like Lutas warned, make sure it doesn't mix with sea energy.
 QUEST_LV_0300_20160323_001973	You have gathered earth energy from monsters. Return to Kabbalist Lutas.
 QUEST_LV_0300_20160323_001974	Restrain to Protect
 QUEST_LV_0300_20160323_001975	Kabbalist Lutas seems to have something to ask you. Sprich mit him.
-QUEST_LV_0300_20160323_001976	Create a Binding Magic Circle
-QUEST_LV_0300_20160323_001977	Lutas wants to create Binding Magic Circles to protect the newly drawn ones. He believes the ones he created at first were too dangerous, as they worked on both monsters and humans, so he has given you a new magic circle scroll.
+QUEST_LV_0300_20160323_001976	Create a Binding Magie Circle
+QUEST_LV_0300_20160323_001977	Lutas wants to create Binding Magie Circles to protect the newly drawn ones. He believes the ones he created at first were too dangerous, as they worked on both monsters and humans, so he has given you a new magic circle scroll.
 QUEST_LV_0300_20160323_001978	You have created new magic circles around the newly drawn ones. Return to Lutas.
 QUEST_LV_0300_20160323_001979	You have created new magic circles around the newly drawn ones. Sprich mit Lutas.
-QUEST_LV_0300_20160323_001980	Search for dangerous Binding Magic Circles
-QUEST_LV_0300_20160323_001981	Kabbalist Lutas wants to find and destroy the Binding Magic Circles he has previously created. Use Lutas' Magic Searching Stone to find the circles. Revealed magic circles disappear after some time, or you can lure monsters into them.
+QUEST_LV_0300_20160323_001980	Search for dangerous Binding Magie Circles
+QUEST_LV_0300_20160323_001981	Kabbalist Lutas wants to find and destroy the Binding Magie Circles he has previously created. Use Lutas' Magie Searching Stone to find the circles. Revealed magic circles disappear after some time, or you can lure monsters into them.
 QUEST_LV_0300_20160323_001982	You took care of all the dangerous magic circles. Sprich mit Lutas.
