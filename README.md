@@ -38,7 +38,25 @@ Sollte jemanden etwas nicht gefallen, der Satzbau schlecht formuliert sein, Wör
 <br><br>
 Ich bin gern bereit etwas zu ändern oder anzupassen. Auch ich übersehe mal etwas oder wähle nicht immer die richtigen Worte. 
 <br><br>
-<b>Also, keine Scheu!</b>
+<strong>Also, keine Scheu!</strong>
+<br><br>
+
+## So einfach kannst du Änderungen vornehmen!
+Wenn du im Spiel selbst Literale (Zeichenketten/Text) siehst, welcher geändert werden soll, kannst du das ganz einfach tun. Dazu musst du nur eine kleine Datei in den Ordner “languageData“ hinzufügen. Das ist der Ordner, welcher auch alle Sprachordner enthält. (Englisch und kr z.B.).
+
+Die Datei heißt <strong>editor.ini</strong> und liegt hier im Ordner TreeOfSavior-GermanTranslation mit drin. Das heißt für dich, diese Datei einfach aus dem Ordner nehmen und ein Ordner zurück wieder einfügen.
+
+Innerhalb dieser Datei gibt es drei wichtige Zeilen.<br><br>
+Zeile 1: Kann den inGame-Editor An/Ausschalten<br>
+Zeile 2: Gibt die Sprache an, welche im Original angezeigt werden soll<br>
+Zeile 3: Das muss den Datei-Pfad zu eurem Text-Bearbeitungsprogramm beinhalten, sonst funktioniert es nicht. In meinem Fall ist das Notepad++
+<pre>Use=YES
+ReferLanguage=English
+CommandOption=C:\\Program Files (x86)\\Notepad++\\notepad++.exe "[Path]" -n[Line]</pre>
+
+Ist das getan, kannst du das Spiel starten und im Spiel selbst nun bei fast jedem Text <strong>STRG+SHIFT+Linksklick</strong> machen und der Texteditor eurer Wahl wird mit der Text-Zeile die ihr ändert wollt geöffnet.
+
+Viel Spaß.
 <br><br>
 
 ## Intellectual Property Rights Ownership
