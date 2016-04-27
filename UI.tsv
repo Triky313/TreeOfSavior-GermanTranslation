@@ -618,17 +618,17 @@ UI_20150317_000617	Du kannst das Gegenstand nicht aufnehmen, da dein Inventar vo
 UI_20150317_000618	{@st44}Gegenstand-Set erhalten!{/}
 UI_20150317_000619	Bitte wähle ein Gegenstand aus
 UI_20150317_000620	{@st59b} Shop {nl} {@st59s} - Wenn du eine Itemzahl in Menge kaufen willst, dann drücke die rechte Maustaste {nl} - Benutze einen rechten Doppelklick um eine Menge zu verkaufen {/}
-UI_20150317_000621	{@st59}Shop schließen{/}
+UI_20150317_000621	{@st59}Laden schließen{/}
 UI_20150317_000622	{@st59}Erste Seite{/}
 UI_20150317_000623	{@st59}Nächste Seite{/}
 UI_20150317_000624	{@st59}Letzte Seite{/}
 UI_20150317_000625	{@st41b}Zurücksetzen{/}
-UI_20150317_000626	{@st59}Reset Shopping Cart{/}
+UI_20150317_000626	{@st59}Warenkorb zurücksetzen{/}
 UI_20150317_000627	{@st41b}Bestätigen{/}
 UI_20150317_000628	{@st59}Transaktion bestätigen{/}
-UI_20150317_000629	{@st43}Shop{/}
-UI_20150317_000630	{@st41b}Items kaufen{/}
-UI_20150317_000631	{@st41b}Items verkaufen{/}
+UI_20150317_000629	{@st43}Laden{/}
+UI_20150317_000630	{@st41b}Gegenstände kaufen{/}
+UI_20150317_000631	{@st41b}Gegenstände verkaufen{/}
 UI_20150317_000632	{@st41b}Preis{/}
 UI_20150317_000633	{@st41b}Balance{/}
 UI_20150317_000634	{@st41b}Meine verkauften Items{/}
@@ -1564,9 +1564,9 @@ UI_20150714_001563	{@st41b}Entferne Erfrischungs-Tisch
 UI_20150714_001564	{@st42}Mein Beschwoerungsskill
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{@st42}Current Location : %s{/}
-UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Einhand or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Rüstung: Top, Bottom, Handschuhe, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
-UI_20150714_001568	{@st43}Öffne %s Shop {/}
-UI_20150714_001569	{@st41b}Roasting{/}
+UI_20150714_001567	{@st59b}Ausrüstung {nl}{@st59s} - Haar/Kostüm: Ausrüstung um dein Aussehen zu verändern.{nl} - Waffe: Einhand- oder Zweihand-Waffen {nl} (Neben-Waffe/Schild kann mit einer Einhand-Waffe ausgerüstet werden) {nl} - Rüstung: Rüstung, Hose, Handschuhe, Schuhe. {nl} - Zubehör: 1 Halskette und zwei Armbänder.{nl}{/}
+UI_20150714_001568	{@st43}Öffne %s Laden{/}
+UI_20150714_001569	{@st41b}Braten{/}
 UI_20150714_001570	{@st66}Wähle alles
 UI_20150714_001571	{@st43}Craft Pfeile{/}
 UI_20150714_001572	{@st59}Schließen{nl}{/}
@@ -1596,7 +1596,7 @@ UI_20150714_001595	Gleichwertig EXP
 UI_20150714_001596	Nach Level
 UI_20150714_001597	{@st42}Quest Sharing
 UI_20150714_001598	Disabled
-UI_20150714_001599	{@st42}Öffentliche Party{/}
+UI_20150714_001599	{@st42}Öffentliche Gruppe{/}
 UI_20150714_001600	Level
 UI_20150714_001601	{@st42}Use 'Recommend Party'{/}
 UI_20150714_001602	Nach Distanze
@@ -1604,14 +1604,14 @@ UI_20150714_001603	Nach Klasse
 UI_20150714_001604	Nach Level
 UI_20150714_001605	Nach Quest
 UI_20150714_001606	Nach Verbundenheit
-UI_20150714_001607	{@st42}Teile Party-Einlade-Link
-UI_20150714_001608	>>Party Vorschau...
-UI_20150714_001609	Party-Name : %s
-UI_20150714_001610	Party-Beschreibung : %s
+UI_20150714_001607	{@st42}Teile Gruppen-Einlade-Link
+UI_20150714_001608	>>Gruppen-Vorschau...
+UI_20150714_001609	Gruppen-Name : %s
+UI_20150714_001610	Gruppen-Beschreibung : %s
 UI_20150714_001611	Erstellt : %s ago
-UI_20150714_001612	Party-Mitglieder : %s/5
+UI_20150714_001612	Gruppen-Mitglieder : %s/5
 UI_20150714_001613	Beitreten
-UI_20150714_001614	{@st59}Suche Party-Name oder Beschreibung{/}
+UI_20150714_001614	{@st59}Suche Gruppen-Name oder Beschreibung{/}
 UI_20150714_001615	Simple Hilfe-Details
 UI_20150714_001616	{@st43}Nachrichten-Box
 UI_20150714_001617	{@st41b}Alle
@@ -1620,9 +1620,9 @@ UI_20150714_001619	{@st43}{s22}Wähle einen Charakter um die Gegenstände zu bek
 UI_20150714_001620	{@st41b}Verbessern
 UI_20150714_001621	{@st66}Beschädigte Gegenstände..
 UI_20150714_001622	{@st43}Simoni
-UI_20150714_001623	{@st59}Erhoehe Skills{/}
+UI_20150714_001623	{@st59}Erhöhe Skills{/}
 UI_20150714_001624	{@st59}Schließen{/}
-UI_20150714_001625	{@st43}Skills & Attribute{/}
+UI_20150714_001625	{@st43}Skills & Fähigkeiten{/}
 UI_20150714_001626	Verbleibende Statuspunkte {nl}{@st46}%s
 UI_20150714_001627	Likes erhalten : %s
 UI_20150714_001628	{@st66b}Zeige bekommene EXP{/}
@@ -1652,16 +1652,16 @@ UI_20150714_001651	{@st66b}Vertical Sync An{/}
 UI_20150714_001652	{@st66b}Vertical Sync Aus{/}
 UI_20150714_001653	{@st66b}Es kostet %s Silber wenn du etwas aus dem Lager nimmst oder hineinlegst.{/}
 UI_20150714_001654	%s mögen mich
-UI_20150714_001655	{@st41}Spectate
-UI_20150714_001656	{@st66b}Verlasse Spectator-Mode
+UI_20150714_001655	{@st41}Zuschauen
+UI_20150714_001656	{@st66b}Verlasse Zuschauer-Modus
 UI_20150714_001657	Spiel gefunden. Willst du beitreten?
 UI_20150714_001658	{@st41}Beitreten
 UI_20150714_001659	{@st41}Ablehnen
 UI_20150714_001660	Endspiel
 UI_20150714_001661	Tode
 UI_20150714_001662	Schaden
-UI_20150714_001663	{@st41}Return to the zone
-UI_20150714_001664	{@st41b}Return to the zone in just %s Sekunden...{/}
+UI_20150714_001663	{@st41}Zurück zur Zone
+UI_20150714_001664	{@st41b}Zurück zur Zone in nur %s Sekunden...{/}
 UI_20150714_001665	{@st59}Öffne die Nachrichten-Box{/}
 UI_20150714_001666	{@st42}Anderes Haus{/}
 UI_20150714_001667	{@st42}Haus-Einstellungen{/}
@@ -1669,7 +1669,7 @@ UI_20150714_001668	{@st65}%s Wertung{/}
 UI_20150714_001669	{@st65}×%s{/}
 UI_20150714_001670	{@st65}% Wertung{/}
 UI_20150714_001671	{@st65}×%s{/}
-UI_20150714_001672	Image-Beschreibung
+UI_20150714_001672	Bild-Beschreibung
 UI_20150714_001673	{#000000}%s Sekunden
 UI_20150714_001674	{#000000}%s Ausgerüstet
 UI_20150714_001675	Party-Name : {#2c140c}%s{/}
@@ -1677,22 +1677,22 @@ UI_20150714_001676	Beschreibung : {#2c140c}%s{/}
 UI_20150714_001677	Durchschnitts Party-Level : {#2c140c}%s{/}
 UI_20150714_001678	Searching For : {#2c140c}%s{/}
 UI_20150714_001679	Quest Sharing : {#2c140c}%s{/}
-UI_20150714_001680	EXP Distribution : {#2c140c}%s{/}
-UI_20150714_001681	Gegenstand Distribution : {#2c140c}%s{/}
-UI_20150714_001682	Did you have a good time with this party?
+UI_20150714_001680	EXP Verteilung : {#2c140c}%s{/}
+UI_20150714_001681	Gegenstand Verteilung : {#2c140c}%s{/}
+UI_20150714_001682	Hast du eine gute Zeit mit dieser Gruppe?
 UI_20150714_001683	{@st42} erhalten %s nach %s
 UI_20150714_001684	{@st42} erhalten %s nach %s
 UI_20150714_001685	Memo :%s
-UI_20150714_001686	{@st59}Add the material to this slot.{/}
+UI_20150714_001686	{@st59}Füge das Material dem Slot hinzu.{/}
 UI_20150714_001687	{@st66b}Preis : %s{/}
 UI_20150714_001688	Charakterbegrüssungen
 UI_20150714_001689	Einkaufsladen
 UI_20150714_001690	×%s
 UI_20150714_001691	{@41b}Kriterien
-UI_20150714_001692	{@st41}Loeschen
+UI_20150714_001692	{@st41}Löschen
 UI_20150714_001693	{@st41}Refresh
 UI_20150717_001694	{#ffff00}%s{/} Spieler moegen den Charakter
-UI_20150717_001695	{@st41b}{s56}This game is {#0066FF}
+UI_20150717_001695	{@st41b}{s56}Dieses Spiel ist {#0066FF}
 UI_20150717_001696	Rated T.
 UI_20150717_001697	{s40} {nl}Playing the game for long periods of time can negatively impact your health.{/}
 UI_20150717_001698	{@st66b}Enter
@@ -1764,7 +1764,7 @@ UI_20150729_001763	Tritt Team Battle Liga bei
 UI_20150730_001764	{@st56}Mein Rang
 UI_20150730_001765	{@st56}Tötungs-Rang
 UI_20150730_001766	{@st56}Schadens-Rang
-UI_20150803_001767	Allgemein: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Flüstern: /w TeamName chat
+UI_20150803_001767	Allgemein: /s Chat{nl}Rufe: /y Chat {nl}Gruppe: /p Chat{nl} Flüstern: /w Teamname Chat
 UI_20150803_001768	{@st66b}Controller Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{@st43}{s18}Pick the character to receive the item.{/}
@@ -1866,7 +1866,7 @@ UI_20151224_001865	Suche nach Gilde Event-Teilnehmer.
 UI_20151224_001866	{@st41b}Upgrade & Rang
 UI_20151224_001867	{@st41b}Gilden-Attribute
 UI_20151224_001868	{@st43}Gilden-Upgrade{/}
-UI_20151224_001869	Ch / Location
+UI_20151224_001869	Ch / Ort
 UI_20151224_001870	Herbeirufen
 UI_20151224_001871	Zum Gildenmitglied
 UI_20151224_001872	Los
@@ -1882,8 +1882,8 @@ UI_20151224_001881	{@st66b18}Eintritts-Limit{/}
 UI_20151224_001882	{@st45tw2}Name{/}
 UI_20151224_001883	{@st45tw2}Eintritt Lv.{/}
 UI_20151224_001884	Suchzeit : 
-UI_20151224_001885	{@st59}Zoom rein{/}
-UI_20151224_001886	{@st59}Zoom raus{/}
+UI_20151224_001885	{@st59}Rein zoomen{/}
+UI_20151224_001886	{@st59}Raus zoomen{/}
 UI_20151224_001887	{@st59}Zeige letzten Warp-Punkt{/}
 UI_20151224_001888	{@st59}Zeige aktuelle Position{/}
 UI_20151224_001889	{@st59}Haar-Kostüm 3{/}
@@ -1902,8 +1902,8 @@ UI_20151224_001901	{@st66b}Weltkarte{/}
 UI_20151224_001902	{@st59}Zeige ganze Karte{/}
 UI_20151224_001903	{ol}Nachricht
 UI_20151224_001904	{@st66b18}Abrufen
-UI_20151224_001905	{@st66b18}Verkauf
-UI_20151224_001906	{@st66b18}Kauf
+UI_20151224_001905	{@st66b18}Verkaufen
+UI_20151224_001906	{@st66b18}Kaufen
 UI_20151224_001907	{@st45tw2}Lv.{/}
 UI_20151224_001908	{@st45tw2}Einzelpreis{/}
 UI_20151224_001909	{@st45tw2}Menge{/}
@@ -1952,7 +1952,7 @@ UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - Wenn du eine neue Quest startest
 UI_20151224_001952	{@st66b}  Aktiv  {/}
 UI_20151224_001953	{@st66b}  Abgelaufen  {/}
 UI_20151224_001954	{@st66b}Resurrect with the Seelenkristall{/}
-UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
+UI_20151224_001955	{@st59b}Laden{nl}{@st59s} - Verwende Shift + Rechtsklick um eine bestimmte Menge von Gegenständen zu kaufen/verkaufen{nl} - Drücke zwei mal Rechtsklick auf einen Gegenstand um alle von diesen zu verkaufen{/}
 UI_20151224_001956	Herstellungs-Nummer
 UI_20151224_001957	{@st42}%s Vorteile{/}
 UI_20151224_001958	Möchtest du das verwenden %s?{/}
@@ -2061,7 +2061,7 @@ UI_20160224_002060	{@st63_yellow}Herausforderung :{/}
 UI_20160224_002061	Moving to the next floor
 UI_20160224_002062	{@st43}Relic Collector{/}
 UI_20160224_002063	{@st59}Schließen{/}
-UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
+UI_20160224_002064	{@st59b}Tausche Gegenstände{nl}{@st59s} - Du kannst Gegenstände im Erd Tower umtauschen{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
 UI_20160224_002065	F
 UI_20160224_002066	{@st59}Schließen{/}
 UI_20160224_002067	{@st59}Platziere ein Zubehörteil{/}
@@ -2132,12 +2132,12 @@ UI_20160224_002131	Niederlagen : %s
 UI_20160224_002132	Schaden : %s
 UI_20160224_002133	Erhöhte Buffanzahl
 UI_20160310_002134	{@st65}Schaden: %s{/}
-UI_20160310_002135	{@st65}{s12}Errungenschaft{/}
-UI_20160310_002136	{#16120e}Errungenschaft{/}
+UI_20160310_002135	{@st65}{s12}Erfolg{/}
+UI_20160310_002136	{#16120e}Erfolg{/}
 UI_20160310_002137	Zähler: %s
 UI_20160310_002138	Schaden: %s
-UI_20160310_002139	{@sti9}Kill Ranking
-UI_20160310_002140	{@sti9}Schadensranking
+UI_20160310_002139	{@sti9}Kill Rang
+UI_20160310_002140	{@sti9}Schadensränge
 UI_20160317_002141	1 extra instance entry for missions and dungeons
 UI_20160317_002142	2 extra instance entries for missions and dungeons
 UI_20160323_002143	{@st41} My Summonee Info
@@ -2174,3 +2174,13 @@ UI_20160323_002173	[Server] Gildenname
 UI_20160323_002174	Aufzeichnen / Wertung
 UI_20160323_002175	[Erstellt vor: %s]
 UI_20160411_002176	{@st66b}Verwende Kamera-Vibration{/}
+UI_20160425_002177	{@st42}If both sides are using Tokens,{nl}the trade properties of weapon items{nl}will not be changed.{/}
+UI_20160425_002178	{@st66b} Apply Background Effect
+UI_20160425_002179	{@st66b} Apply Dead Parts
+UI_20160425_002180	{@st66b} Apply Character Silhouettes
+UI_20160426_002181	{/}Do you want to delete your {b}{s20}Companion{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
+UI_20160426_002182	{/}{b}{s20}Kann nach dem Löschen zurückgewonnen werden.{/}
+UI_20160426_002183	{/}{b}{s20}Begleiter{/}{s43}{@st43}%s{/}
+UI_20160426_002184	{/}Löscht in {b}{s20}%s Sekunden.{/}
+UI_20160426_002185	{s18}{ol}{#ffffcc}Nein{/}
+UI_20160426_002186	{s18}{ol}{#ffffcc}Abbrechen{/}

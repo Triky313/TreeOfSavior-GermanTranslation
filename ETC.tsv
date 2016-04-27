@@ -1822,10 +1822,10 @@ ETC_20150317_001821	You cannot ride your companion while sitting.
 ETC_20150317_001822	This companion cannot be equipped
 ETC_20150317_001823	Erhohte Physischer Angriff auf Reittier
 ETC_20150317_001824	Erhohter Magischer Angriff auf Reittier
-ETC_20150317_001825	Erhohe Companions attack by {Wert}
-ETC_20150317_001826	Erhohe Companions HP by {Wert}
-ETC_20150317_001827	Erhohe Companions defense by {Wert}
-ETC_20150317_001828	Erhohe Companions hit rate by {Wert}
+ETC_20150317_001825	Erhöhe Companions attack by {Wert}
+ETC_20150317_001826	Erhöhe Companions HP by {Wert}
+ETC_20150317_001827	Erhöhe Companions defense by {Wert}
+ETC_20150317_001828	Erhöhe Companions hit rate by {Wert}
 ETC_20150317_001829	You do not have a companion to summon.
 ETC_20150317_001830	Please dismount your companion first.
 ETC_20150317_001831	Bereithalten
@@ -2264,7 +2264,7 @@ ETC_20150317_002263	The lighting fighter appeared as the power of faith's mark!
 ETC_20150317_002264	Blessed from Sanctum, it is able to make a power attack during 10 sec!
 ETC_20150317_002265	Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
 ETC_20150317_002266	Worship the Goddess Statue
-ETC_20150317_002267	Use warp
+ETC_20150317_002267	Verwende Teleport
 ETC_20150317_002268	Worshiping
 ETC_20150317_002269	Picking up flowers for offering
 ETC_20150317_002270	Plucked the flower!
@@ -4338,7 +4338,7 @@ ETC_20150317_004333	{s14}{b}{ds} Purchase Quantity
 ETC_20150317_004334	Total Price:
 ETC_20150317_004335	's Purchase Request
 ETC_20150317_004336	Total Price: {Auto_1}, Amount: {Auto_2} ea
-ETC_20150317_004337	's Bulletin Board
+ETC_20150317_004337	's Schwarzes Brett
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{@st59} Increase in Physical Attack and Critical Attack{/}
@@ -4735,7 +4735,7 @@ ETC_20150317_004730	Silber
 ETC_20150317_004731	{@st41b}Confirm{/}
 ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
-ETC_20150317_004734	Maps
+ETC_20150317_004734	Gebiete
 ETC_20150317_004735	Maps Explored
 ETC_20150317_004736	{S20}{#00f00F} My Ranking:
 ETC_20150317_004737	Erwerb
@@ -5637,9 +5637,9 @@ ETC_20150317_005632	Inflicts 20% additional damage against demons!
 ETC_20150317_005633	Evil Energy Corruption
 ETC_20150317_005634	This monster has been corrupted by the evil energy!
 ETC_20150317_005635	Scattered Stairs Party Buff
-ETC_20150317_005636	Erhohe attack by 150
+ETC_20150317_005636	Erhöhe attack by 150
 ETC_20150317_005637	Mahogany tree single floor forest party buff
-ETC_20150317_005638	Erhohe defense by 100
+ETC_20150317_005638	Erhöhe defense by 100
 ETC_20150317_005639	Neutrality
 ETC_20150317_005640	Neutral Status
 ETC_20150317_005641	Warning Signal!
@@ -5804,7 +5804,7 @@ ETC_20150317_005799	Poison Cloud
 ETC_20150317_005800	A state of continuous equipment damage.
 ETC_20150317_005801	Giftwolke.
 ETC_20150317_005802	Blood Dots Stimulation
-ETC_20150317_005803	Erhohe attack, decreased defense.
+ETC_20150317_005803	Erhöhe attack, decreased defense.
 ETC_20150317_005804	Great Gegenstand
 ETC_20150317_005805	Obtain great items
 ETC_20150317_005806	Poison Coating
@@ -5813,7 +5813,7 @@ ETC_20150317_005808	Recovered HP.
 ETC_20150317_005809	Eye of Death
 ETC_20150317_005810	Death is waiting. You cannot use your skills.
 ETC_20150317_005811	Fury
-ETC_20150317_005812	Erhohe attack by 100%.{nl}Immune to knockback and knockdown.
+ETC_20150317_005812	Erhöhe attack by 100%.{nl}Immune to knockback and knockdown.
 ETC_20150317_005813	Revenge
 ETC_20150317_005814	Counter attack is possible.
 ETC_20150317_005815	Decreased movement speed by 50%
@@ -5826,11 +5826,11 @@ ETC_20150317_005821	Invincibility
 ETC_20150317_005822	You temporarily become invincible, but cannot execute any attacks.
 ETC_20150317_005823	Kubus
 ETC_20150317_005824	Kubus: Flame
-ETC_20150317_005825	Erhohe Fire property resistance of Kubus.
+ETC_20150317_005825	Erhöhe Fire property resistance of Kubus.
 ETC_20150317_005826	Kubus: Water
-ETC_20150317_005827	Erhohe Ice property resistance of Kubus.
+ETC_20150317_005827	Erhöhe Ice property resistance of Kubus.
 ETC_20150317_005828	Kubus: Tempest
-ETC_20150317_005829	Erhohe Lightning property resistance of Kubus.
+ETC_20150317_005829	Erhöhe Lightning property resistance of Kubus.
 ETC_20150317_005830	Dispel Magic
 ETC_20150317_005831	Dispel Magic Attack
 ETC_20150317_005832	Physical Attack Accumulation
@@ -5844,8 +5844,8 @@ ETC_20150317_005839	Burn
 ETC_20150317_005840	Periodically inflicts 1 damage. Unable to use skills.
 ETC_20150317_005841	Movement Speed Increase Range Buff
 ETC_20150317_005842	Movement Speed Decrease Debuff
-ETC_20150317_005843	Erhohe Block Chance
-ETC_20150317_005844	Erhohe Block Chance Buff
+ETC_20150317_005843	Erhöhe Block Chance
+ETC_20150317_005844	Erhöhe Block Chance Buff
 ETC_20150317_005845	Bewegungsgeschwindigkeits-Buff
 ETC_20150317_005846	Erhöht Bewegungsgeschwindigkeit
 ETC_20150317_005847	Fire Wall
@@ -5854,8 +5854,8 @@ ETC_20150317_005849	Cure Debuff
 ETC_20150317_005850	Immolation Debuff
 ETC_20150317_005851	Heal Debuff
 ETC_20150317_005852	Heal Attack
-ETC_20150317_005853	Erhohe Attack Buff
-ETC_20150317_005854	Erhohe Attack Exponential Buff
+ETC_20150317_005853	Erhöhe Attack Buff
+ETC_20150317_005854	Erhöhe Attack Exponential Buff
 ETC_20150317_005855	Decreased Attack Debuff
 ETC_20150317_005856	Aggressor Buff
 ETC_20150317_005857	Decreased evasion rate, increased accuracy rate
@@ -7024,7 +7024,7 @@ ETC_20150317_007020	Gegenstand Combiner
 ETC_20150317_007021	Grill
 ETC_20150317_007022	Guard Fence
 ETC_20150317_007023	Carriage
-ETC_20150317_007024	Bulletin Board
+ETC_20150317_007024	Schwarzes Brett
 ETC_20150317_007025	Lever 1
 ETC_20150317_007026	Lever 2
 ETC_20150317_007027	Gabija's Torch
@@ -9197,7 +9197,7 @@ ETC_20150317_009193	Practice Post (Lightning)
 ETC_20150317_009194	Practice Post (Earth)
 ETC_20150317_009195	[Gegenstandshändler]{nl}         Mirina
 ETC_20150317_009196	[Ausrüstungshändler]{nl}                 Dunkel
-ETC_20150317_009197	[Zubehörhändler]{nl}                Ronesa
+ETC_20150317_009197	[Zubehörhändler]{nl}              Ronesa
 ETC_20150317_009198	Klaipeda Goddess Statue
 ETC_20150317_009199	[Schmied]{nl}       Zaras
 ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
@@ -11198,7 +11198,7 @@ ETC_20150414_011195	About the Mobilizing Power
 ETC_20150414_011196	About the Baron
 ETC_20150414_011197	You cannot set up a base camp in this area.
 ETC_20150414_011198	[Oracle Master]{nl}Apolonjia Barbora
-ETC_20150414_011199	[Lagerwächter]{nl}                  Rita
+ETC_20150414_011199	[Lagerwächter]{nl}             Rita
 ETC_20150414_011200	Mysterious Box of Legwyn Family
 ETC_20150414_011201	Chapel Altar
 ETC_20150414_011202	TypeB_Controller
@@ -11882,7 +11882,7 @@ ETC_20150714_011879	Find Zubeck's secret stash by verifying the Crystal Ball.
 ETC_20150714_011880	Protect the portal
 ETC_20150714_011881	Kubas Formation
 ETC_20150714_011882	Changing to Kubas Formation
-ETC_20150714_011883	Erhohe block chance.
+ETC_20150714_011883	Erhöhe block chance.
 ETC_20150714_011884	Gegenstand Jackpot Effect
 ETC_20150714_011885	Immobile
 ETC_20150714_011886	Revelations : Conflict
@@ -13602,7 +13602,7 @@ ETC_20150717_013599	There is an instant shop registered {nl}Register instant sho
 ETC_20150717_013600	You have lit the Lagerfeuer!
 ETC_20150717_013601	It is already on fire!
 ETC_20150717_013602	[Gegenstand Merchant]{nl}     Anna
-ETC_20150717_013603	[Gegenstand Merchant]{nl}           Mirina
+ETC_20150717_013603	[Gegenstand Merchant]{nl}               Mirina
 ETC_20150717_013604	Spell Control Magic Circle
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	The corpse of the Royal Army Guard
@@ -13661,14 +13661,14 @@ ETC_20150729_013658	Leiche
 ETC_20150729_013659	Fallen corpse.
 ETC_20150729_013660	Hanging on companion
 ETC_20150729_013661	EXP Jackpot
-ETC_20150729_013662	Erhohe evasion.
+ETC_20150729_013662	Erhöhe evasion.
 ETC_20150729_013663	Explosion
 ETC_20150729_013664	Explodes upon death.
 ETC_20150729_013665	Widerstand
 ETC_20150729_013666	Waffenschaden
 ETC_20150729_013667	Potential decrease when using physical attack
 ETC_20150729_013668	Pfeil Resistance
-ETC_20150729_013669	Erhohe resistance against arrow attacks.
+ETC_20150729_013669	Erhöhe resistance against arrow attacks.
 ETC_20150729_013670	Property Resistance
 ETC_20150729_013671	Magic resistance increase based on property
 ETC_20150729_013672	Level Up
@@ -13693,7 +13693,7 @@ ETC_20150729_013690	Drücke {img Alt 40 40} um sofort die Bewegung deines Charak
 ETC_20150729_013691	Drücke {img space 40 40} um zum Ziel zu gucken.
 ETC_20150729_013692	Verwende die Karte um deinen aktuellen Standort und andere wichtige Bereiche zu sehen.
 ETC_20150729_013693	Drücke {img M 40 40} um die Karte deines aktuellen Aufenthaltsbereiches zu sehen.
-ETC_20150729_013694	{nl} {nl}Das Minimap-Symbol zeigt Informationen und NPC-Standorte deines auktuellen Aufenthaltsbereiches.{nl} {nl}{img minimap_leader 25 25} Zeigt deine aktuelle Position {nl}{img minimap_1_MAIN 25 25} Zeigt eine aktuell laufende Quest. {nl}{img minimap_0 25 25} Zeigt die Positionen von wichtigen NPCs. {nl}{img minimap_goddess 25 25} Zeigt die Gottes-Statue zum teleportieren {nl}{img minimap_board 25 25} Zeigt das Bulletin Board welches verschiedene Informationen enthält. {nl}{img minimap_portal 25 25} Zeigt Wege zu anderen Gebieten.{nl} {nl}
+ETC_20150729_013694	{nl} {nl}Das Minimap-Symbol zeigt Informationen und NPC-Standorte deines auktuellen Aufenthaltsbereiches.{nl} {nl}{img minimap_leader 25 25} Zeigt deine aktuelle Position {nl}{img minimap_1_MAIN 25 25} Zeigt eine aktuell laufende Quest. {nl}{img minimap_0 25 25} Zeigt die Positionen von wichtigen NPCs. {nl}{img minimap_goddess 25 25} Zeigt die Gottes-Statue zum teleportieren {nl}{img minimap_board 25 25} Zeigt das Schwarzes Brett welches verschiedene Informationen enthält. {nl}{img minimap_portal 25 25} Zeigt Wege zu anderen Gebieten.{nl} {nl}
 ETC_20150729_013695	Drücke {img N 40 40} um die Weltkarte zu öffnen.
 ETC_20150729_013696	Nur Bereiche die du entdeckt hast werden angezeigt. Unentdeckte Bereiche werden auf der Weltkarte nicht angezeigt.
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
@@ -14646,7 +14646,7 @@ ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologi
 ETC_20150918_014644	[Rogue Master]{nl}       Gema
 ETC_20150918_014645	[Gegenstand Merchant]{nl}    Muras
 ETC_20150918_014646	[Equipment Merchant]{nl}    Yorgis
-ETC_20150918_014647	[Blacksmith]{nl}       Anna
+ETC_20150918_014647	[Schmied]{nl}       Anna
 ETC_20150918_014648	[Market Manager]{nl}     Molun
 ETC_20150918_014649	[Storage Keeper]{nl}      Zadan
 ETC_20150918_014650	Underground Catacombs Dungeon-Tafel
@@ -19140,7 +19140,7 @@ ETC_20151224_019136	The current amount of players joined has been exceeded.
 ETC_20151224_019137	You have reached the maximum amount{nl}of characters in this Lodge{nl}Do you want to purchase a character slot?
 ETC_20151224_019138	You cannot dismount your companion while using a skill.
 ETC_20151224_019139	The name must be less than {LEN} bytes.
-ETC_20151224_019140	This item's price can't be estimated until there is more on the Market.
+ETC_20151224_019140	Preis des Gegenstandes kann nicht abgeschätzt werden, solange es keine weiteren im Auktionshaus gibt.
 ETC_20151224_019141	{Price} TP will be charged to hire for {Minute} minutes. Do you wish to continue?
 ETC_20151224_019142	Wrong equipment. Please check the title.
 ETC_20151224_019143	You've received the item.
@@ -19678,13 +19678,13 @@ ETC_20151224_019674	Place the {Name} item to raise Guild EXP.
 ETC_20151224_019675	Available Attribute Points 
 ETC_20151224_019676	Declare War
 ETC_20151224_019677	Are you sure you want to declare a war?
-ETC_20151224_019678	Remove Tower
+ETC_20151224_019678	Entferne Tower
 ETC_20151224_019679	The possible time to declare the war
 ETC_20151224_019680	Guild Event (Coming Soon)
 ETC_20151224_019681	Only available on channel 1.
 ETC_20151224_019682	You cannot create it nearby other objects.
 ETC_20151224_019683	Only the guild master is able to use it.
-ETC_20151224_019684	Enter Game
+ETC_20151224_019684	Betrete Spiel
 ETC_20151224_019685	Completed matching. You may enter the {Name} game.
 ETC_20151224_019686	The allies have failed to protect the Goddess Statue in round {Round}.
 ETC_20151224_019687	The enemies have failed to protect the Goddess Statue in round {Round}.
@@ -19701,7 +19701,7 @@ ETC_20151224_019697	All ore sites are depleted.
 ETC_20151224_019698	Currently Online: {Cur}/{Max}
 ETC_20151224_019699	Do you want to use{nl}{SkillName}?
 ETC_20151224_019700	The guild master used{nl}{SkillName}{nl}Will you accept?
-ETC_20151224_019701	Guild Master
+ETC_20151224_019701	Gildenmeister
 ETC_20151224_019702	{PC} is already affiliated with another guild.
 ETC_20151224_019703	You need to be a {Name} in order to create a guild.
 ETC_20151224_019704	{Price} silver will be charged to create a guild.
@@ -19754,9 +19754,9 @@ ETC_20151224_019750	You cannot equip this item.
 ETC_20151224_019751	There are not enough members. (%d/%d)
 ETC_20151224_019752	Invited. Please wait for a reply.
 ETC_20151224_019753	You don't have enough points. You need a minimum of {Point} points.
-ETC_20151224_019754	The name is too long or too short.
+ETC_20151224_019754	Der Name ist zu lang oder zu kurz.
 ETC_20151224_019755	{Name} is requesting to join.
-ETC_20151224_019756	Would you like to join?
+ETC_20151224_019756	Würdest du gerne mitmachen?
 ETC_20151224_019757	You can enter {COUNT} times per day.
 ETC_20151224_019758	The Unlimited Instanced Dungeon Entries Voucher is in use.
 ETC_20151224_019759	You have already obtained the achievement reward.
@@ -19772,51 +19772,51 @@ ETC_20151224_019768	Would you like to change your hairstyle? (Requires 100 TP)
 ETC_20151224_019769	Nachrichten-Einstellungen
 ETC_20151224_019770	{@st59} When checked, quest objectives will appear on the right side of your screen. {nl}Up to 5 quest objectives can be displayed{/}
 ETC_20151224_019771	(TP{Auto_1} Consumed)
-ETC_20151224_019772	This requires TP.{nl}Are you sure you want to reset?
+ETC_20151224_019772	Das erfordert TP.{nl}Bist du sicher, dass du zurücksetzen willst?
 ETC_20151224_019773	] shall be used?
 ETC_20151224_019774	The number has now learned abilities
-ETC_20151224_019775	Insufficient TP...
+ETC_20151224_019775	Ungenügend TP...
 ETC_20151224_019776	{@st61}A new chat message has arrived!{/}
-ETC_20151224_019777	Insufficient TP
+ETC_20151224_019777	Ungenügend TP
 ETC_20151224_019778	Obtained a usable flint detector.
 ETC_20151224_019779	The petite demon is doubtful of you.
 ETC_20151224_019780	Is Gesti really looking for me?
 ETC_20151224_019781	The friends have gone missing.
 ETC_20151224_019782	{Time} day(s) : {FREE}% of the selling price
 ETC_20151224_019783	About the goddesses
-ETC_20151224_019784	Ask about Orsha
+ETC_20151224_019784	Frage nach Orsha
 ETC_20151224_019785	The Great Pirate and Hirevan Volume One
 ETC_20151224_019786	Please check after Mission Instance Excess Count
 ETC_20151224_019787	The following dungeon capacity has been reached.
 ETC_20151224_019788	You cannot dismount a companion when you are using a skill.
 ETC_20151224_019789	Chat (Numpad)
-ETC_20151224_019790	World Map
+ETC_20151224_019790	Weltkarte
 ETC_20151224_019791	Record Video
 ETC_20151224_019792	UI Mode : Single-Click
 ETC_20151224_019793	UI Mode : Double-Click
 ETC_20151224_019794	UI Mode : Wheel Up
-ETC_20151224_019795	Target Info
-ETC_20151224_019796	Change Target
-ETC_20151224_019797	ESC Button
+ETC_20151224_019795	Ziel-Info
+ETC_20151224_019796	Wechsle Ziel
+ETC_20151224_019797	ESC Taste
 ETC_20151224_019798	UI Selection Mode Change
-ETC_20151224_019799	Target Lock
-ETC_20151224_019800	Move Up
-ETC_20151224_019801	Move Down
-ETC_20151224_019802	Move Left
-ETC_20151224_019803	Move Right
-ETC_20151224_019804	Move Up-Left
-ETC_20151224_019805	Move Up-Right
-ETC_20151224_019806	Move Down-Left
-ETC_20151224_019807	Move Down-Right
-ETC_20151224_019808	Pet Begleiter
+ETC_20151224_019799	Ziel fixieren
+ETC_20151224_019800	Bewegen hoch
+ETC_20151224_019801	Bewegen runter
+ETC_20151224_019802	Bewegen links
+ETC_20151224_019803	Bewegen rechts
+ETC_20151224_019804	Bewegen oben-links
+ETC_20151224_019805	Bewegen oben-rechts
+ETC_20151224_019806	Bewegen unten-links
+ETC_20151224_019807	Bewegen unten-rechts
+ETC_20151224_019808	Haustier Begleiter
 ETC_20151224_019809	Begleiter Info
-ETC_20151224_019810	Rest/Sit
-ETC_20151224_019811	Select/Skip
-ETC_20151224_019812	Change Chat
-ETC_20151224_019813	D-pad Up
-ETC_20151224_019814	D-pad Down
-ETC_20151224_019815	D-pad Left
-ETC_20151224_019816	D-pad Right
+ETC_20151224_019810	Ruhen/Sitzen
+ETC_20151224_019811	Wähle/Überspringen
+ETC_20151224_019812	Wechsle Chat
+ETC_20151224_019813	D-pad hoch
+ETC_20151224_019814	D-pad runter
+ETC_20151224_019815	D-pad links
+ETC_20151224_019816	D-pad rechts
 ETC_20151224_019817	TP Payment/Delete(when minus)(above items rules apply when retry)
 ETC_20151224_019818	TP Payment/Delete(when minus)
 ETC_20151224_019819	EX2> WIZ:M/WAR:F (Male Wizard, Female Swordsman Only)
@@ -19826,20 +19826,20 @@ ETC_20151224_019822	Fetching Skill Usage data...
 ETC_20151224_019823	Fetching TP Usage data...
 ETC_20151224_019824	Data Read-in was exceeded, thus request was canceled. {nl} Please inquire management
 ETC_20151224_019825	Requested incorrect history information. {n} Please inquire management
-ETC_20151224_019826	You've exceeded the amount that you can list on the Market.
+ETC_20151224_019826	Du hast den Betrag überschritten den man im Auktionshaus eingeben kann.
 ETC_20151224_019827	Initialization Count
 ETC_20151224_019828	Would you like to use {TP} TP to buy a character slot?
-ETC_20151224_019829	Charge TP
+ETC_20151224_019829	Gebühr TP
 ETC_20151224_019830	Nexon PC Internet Cafe
 ETC_20151224_019831	Reduziert Auktionshaus-Gebühren
-ETC_20151224_019832	Erhohe Market listing
+ETC_20151224_019832	Erhöhe Auktionshaus-Auflistung
 ETC_20151224_019833	Simultaneous attribute training
-ETC_20151224_019834	The following feature cannot be used.
+ETC_20151224_019834	Die folgenden Funktionen können nicht verwendet werden.
 ETC_20151224_019835	{Target} does not have the benefits to trade with you.
-ETC_20151224_019836	Trade/Buy-in Shop Available
-ETC_20151224_019837	Erhohe EXP beim töten von Monstern
-ETC_20151224_019838	Erhohe STA recovery rate
-ETC_20151224_019839	Erhohe Market listing to {COUNT}
+ETC_20151224_019836	Handel/Einkauf-Laden verfügbar
+ETC_20151224_019837	Erhöhe EXP beim töten von Monstern
+ETC_20151224_019838	Erhöhe STA Erholungsrate
+ETC_20151224_019839	Erhöhe Market listing to {COUNT}
 ETC_20151224_019840	Train {COUNT} attributes simultaneously
 ETC_20151224_019841	Erhoehe Bewegungsgeschwindigkeit um {COUNT}
 ETC_20151224_019842	Your Token has already been activated.
@@ -19862,7 +19862,7 @@ ETC_20151224_019858	Your current entry count is 0.
 ETC_20151224_019859	Your reset voucher will disappear from your inventory when it is used and will only apply to the current character.
 ETC_20151224_019860	Skill Reset
 ETC_20151224_019861	  Resets all Skill Points
-ETC_20151224_019862	Erhohe EXP beim töten von Monstern
+ETC_20151224_019862	Erhöhe EXP beim töten von Monstern
 ETC_20151224_019863	You cannot buy the currently equipped hairstyle.
 ETC_20151224_019864	Arrange PC Logout
 ETC_20151224_019865	Mercenary Employment
@@ -21742,3 +21742,23 @@ ETC_20160415_021736	Chat-Nachricht kann nicht {Max} bytes überschreiten. The us
 ETC_20150317_001460	Chat-Nachricht kann nicht {Max} bytes überschreiten. The use of emoticons is restricted as these can take up a Groß amount of bytes.	
 ETC_20160415_021737	Diese Funktion ist verfügbar nach {Time}.
 ETC_20160415_021738	Dieser Nutzer ist derzeit nicht in der Lage zu handeln.
+ETC_20160425_021739	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160425_021740	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160425_021741	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021742	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021743	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021744	Applies Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021745	Applies Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021746	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021747	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times
+ETC_20160425_021748	Applies Token benefits to all your characters in the server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021749	Steam VAC bot report function used for 1
+ETC_20160425_021750	Bot detection system frunction used for 1
+ETC_20160425_021751	If both sides are using a Token, the item's properties will not be altered. Do you want to continue?
+ETC_20160425_021752	Items with changing trade properties
+ETC_20160425_021753	Public Party join request denied.
+ETC_20160425_021754	Retrieve storage item(s)?
+ETC_20160425_021755	Able to learn attributes instantaneously
+ETC_20160425_021756	Token Aktiviert
+ETC_20160425_021757	Token Deaktiviert
+ETC_20160426_021758	Begleiter

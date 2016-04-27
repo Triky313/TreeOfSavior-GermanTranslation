@@ -1850,7 +1850,7 @@ SKILL_20150317_001849	Flame attack increased.
 SKILL_20150317_001850	Increased Stich damage
 SKILL_20150317_001851	Enchant Fire
 SKILL_20150317_001852	Decreased Fire property resistance.
-SKILL_20150317_001853	Increased Flame attack.
+SKILL_20150317_001853	Fire property added to your attacks
 SKILL_20150317_001854	Rage
 SKILL_20150317_001855	Increased damage and SP cost
 SKILL_20150317_001856	Hangman's Knot: Splash
@@ -6354,3 +6354,5 @@ SKILL_20160323_006353	Zusätzlich 20% Schaden pro Fähigkeits-Level gegen Flug-T
 SKILL_20160323_006354	Erhöht die Kritchance von [Spiral Pfeil]{nl}um 13% pro Fähigkeits-Level.
 SKILL_20160323_006355	Carnivory: Dauer
 SKILL_20160323_006356	Erhöht die Dauer von [Carnivory] um 1 Sekunde pro{nl}Fähigkeits-Level.
+SKILL_20160329_006357	Maximale Dauer: #{CaptionRatio2}# Sekunden{nl}+#{CaptionRatio}#% blocken während Skill andauert{nl}Dauer: 15 Sekunden
+SKILL_20160425_006358	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}

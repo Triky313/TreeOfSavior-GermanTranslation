@@ -78,8 +78,8 @@ QUEST_20150317_000077	Hello! {nl}Welcome to the Klaipeda branch of the Magic Ass
 QUEST_20150317_000078	There's nothing to see here but steam and Vubbes. {nl}Wait, what's that thing with the big face that's approaching?!
 QUEST_20150317_000079	The land needs our attention as well. {nl}The world still isn't ruined... right?
 QUEST_20150317_000080	If we continue to have courtesy, then we still know the way of a righteous life. {nl}We should all consider whether or not this mess is our fault because we relied on the goddesses for everything.
-QUEST_20150317_000081	Bulletin Board
-QUEST_20150317_000082	Welcome to the mining town of Klaipeda!
+QUEST_20150317_000081	Schwarzes Brett
+QUEST_20150317_000082	Willkommen in der Minenstadt Klaipeda!
 QUEST_20150317_000083	Indifferent Widow
 QUEST_20150317_000084	I'm not sure I understand it completely, but what I'm sure of is that the goddesses didn't disappear all at once.
 QUEST_20150317_000085	The first to disappear was the Goddess Gabija. {nl}I heard it was a very long time ago. {nl}One by one, starting with Gabija, they stopped replying.
@@ -124,7 +124,7 @@ QUEST_20150317_000123	Klaipeda Guard Captain
 QUEST_20150317_000124	You're the...
 QUEST_20150317_000125	It looks like you can see into the upper forest from here. {nl}Try not to get into trouble.
 QUEST_20150317_000126	You don't have the required quest item. Are you sure you want to continue?
-QUEST_20150317_000127	Klaipeda Girl
+QUEST_20150317_000127	Klaipeda Mädchen
 QUEST_20150317_000128	My neighbor used to be a monster hunter. {nl}He's retired now though. It has gotten ferociously dangerous.
 QUEST_20150317_000129	It would be nice if all these Revelators being here meant that the goddesses are back.
 QUEST_20150317_000130	It might be silly to hope for the goddess' return, but it's better than nothing.
@@ -1039,7 +1039,7 @@ QUEST_20150317_001038	This is my friend, Donatas. {nl}I will go up first to figu
 QUEST_20150317_001039	Hey! You shouldn't come here!
 QUEST_20150317_001040	So the Peltasta Master sent it... Ah, so this is what those cowardly miners were talking about.
 QUEST_20150317_001041	No worries at all. I'm not scared. They're all fake rumors. {nl}It's no surprise the mine is shaking.
-QUEST_20150317_001042	Request Bulletin Board
+QUEST_20150317_001042	Request Schwarzes Brett
 QUEST_20150317_001043	Here are all gathered requests. {nl}Caution: We are not responsible for the rewards of these requests.
 QUEST_20150317_001044	Employee Brendon
 QUEST_20150317_001045	I will show you the registered requests so far. {nl}You know that a day has to pass in order to receive a request again, even if you give up on it, right?
@@ -2031,7 +2031,7 @@ QUEST_20150714_002034	Well, you're a new face. Did Julian send you?
 QUEST_20150714_002035	Yeah. There's something weird about Goddess Laima. {nl}No one seems to know when she disappeared. {nl}To be honest nobody seems to really know whether or not she actually is a goddess.
 QUEST_20150714_002036	She has never appeared before. {nl}Although I've read somewhere that she does appear every now and then...
 QUEST_20150714_002037	Even though it would be bad for my business, {nl}I wish I could just live peacefully rather than live in fear of monsters coming at any moment.
-QUEST_20150714_002038	Welcome! {nl}While I can do basic repairs, I don't have the materials to create anything. {nl}Take a look at what I have.
+QUEST_20150714_002038	Willkommen! {nl}Ich kann einfache Reparaturen vornehmen, habe aber nicht die Materialien dafür um irgendetwas zu erschaffen.{nl}Wirf ein Blick auf das was ich habe.
 QUEST_20150714_002039	When all is said and done, I don't lie about my prices. {nl}Everything I sell is priced honestly and accordingly.
 QUEST_20150714_002040	Fire is a grace sent to us by Goddess Gabija. {nl} You won't become a great Pyromancer if you don't acknowledge that.
 QUEST_20150714_002041	The goddesses may be all gone but my powers are still doing fine. {nl} I'm sure it's proof that Goddess Gabija is at least safe somewhere.
@@ -2458,7 +2458,7 @@ QUEST_20151001_002465	A lot of people seem to be coming thanks to Sir Uska's rec
 QUEST_20151001_002466	The days were better when Commander Uska took care of Klaipeda.
 QUEST_20151001_002467	Intelligence, calm judgment and cold rationality. {nl}These are the qualities required for our Cryomancers.{nl}These are the principles that will never change no matter what happens to the world.
 QUEST_20151001_002468	Vain death is the only thing that lies at the end for those who simply seek to be audacious.{nl}If you wish to save the world, lift the shield of the Peltasta.
-QUEST_20151001_002469	I heard the monsters are moving in herds outside Klaipeda.{nl}Instead of defeating them one by one, it will be better to learn my techniques.
+QUEST_20151001_002469	Ich habe gehört dass sich die Monster außerhalb von Klaipeda in Herden bewegen.{nl}Anstatt sie ein nach dem anderen zu besiegen, wird es besser sein meine Techniken zu lernen.
 QUEST_20151001_002470	My device will soon be functional. {nl}By the end of the day, you too will be able to enter the Mage Tower.
 QUEST_20151001_002471	The thief who foolishly entered this tower to rob it was burned alive. {nl}At the very least, the monuments he left will serve as a warning to other trespassers. {nl}- Agailla Flurry
 QUEST_20151001_002472	Commander Ruklys has fallen in battle, and the Fortress of the Land has been taken. {nl}Some people say he was killed by Lydia Schaffen's arrow,{nl}while others say by the royal magicians' magic, but it is certain that he passed away. {nl}It is indeed sad news.
@@ -3022,14 +3022,14 @@ QUEST_20151224_003029	Demon Prison Guild
 QUEST_20151224_003030	Demon Prison Guild (Empfohlen Lv : 115){nl}Nur du und deine Gruppenmitglieder könne zusammen beitreten.{nl}Are you sure you want to enter?
 QUEST_20151224_003031	I am in charge of managing small requests.{nl}Please, come visit me from time to time.
 QUEST_20151224_003032	Ah, yes, I would appreciate that.{nl}
-QUEST_20151224_003033	Blacksmith Zaras
+QUEST_20151224_003033	Schmied Zaras
 QUEST_20151224_003034	Equipment Merchant Dunkel
 QUEST_20151224_003035	Gegenstand Merchant Mirina
 QUEST_20151224_003036	They say the Holy Relic was made to protect the revelations. {nl} This is what you need to use to lure in and defeat Gesti.
 QUEST_20151224_003037	Accessory Merchant Ronesa
 QUEST_20151224_003038	I heard not that long ago that thanks to the Revelators the demons failed to interfere with the Mage Tower.{nl}If it were me I would have made sure no one would have even dared to think about it in the first place.{nl}
 QUEST_20151224_003039	So that what happened to my family won't happen ever again.
-QUEST_20151224_003040	Blacksmith Anna
+QUEST_20151224_003040	Schmied Anna
 QUEST_20151224_003041	Accessory Merchant Joana
 QUEST_20151224_003042	I knew we could thwart the demons with the power of the goddesses.{nl}But, I never would have guessed Giltine to use the Divine Tree...{nl}
 QUEST_20151224_003043	What a nasty curse. {nl}Let's see which is stronger. Naktis' curse or the goddess' purifier.
@@ -3150,7 +3150,7 @@ QUEST_20151224_003157	...Are you seeing this?{nl}
 QUEST_20151224_003158	This catastrophe has already fell upon us...{nl}But an ever greater calamity has just taken root.{nl}
 QUEST_20151224_003159	The demons are after the Light of Salvation.{nl}
 QUEST_20151224_003160	Do you understand now?{nl}Do you see what a preposterous thing you have done?
-QUEST_20151224_003161	Orsha Bulletin Board
+QUEST_20151224_003161	Orsha Schwarzes Brett
 QUEST_20151224_003162	The blessed city of Orsha wishes glory to the goddesses!
 QUEST_20151224_003163	Orsha Resident
 QUEST_20151224_003164	Do you know about the legend that's been passed down in Orsha?{nl}Everyone in Orsha knows this story.{nl}
@@ -3421,7 +3421,7 @@ QUEST_20151224_003428	Unidentified Scarecrow
 QUEST_20151224_003429	For gimmick use
 QUEST_20151224_003430	Mysterious Pillar
 QUEST_20151224_003431	Here you can play a pair-matching game with monsters.{nl}Inside each barrel is a monster and your goal is to find and eliminate pairs of identical monsters. {nl}You have 20 tries. Would you like to play?
-QUEST_20151224_003432	Mysterious Bulletin Board
+QUEST_20151224_003432	Mysterious Schwarzes Brett
 QUEST_20151224_003433	311st day of the War{nl}-{nl}Unbelievable news.{nl}Legendary marksman Lydia Schaffen has sided with the Royal Army.{nl}Although I tried to calm my subordinates by asking whether she was better than our Commander Ruklys, but once the anxiety and nervousness spreads, there's nothing we can truly do about it.{nl}
 QUEST_20151224_003434	331st day of the War{nl}-{nl}No matter how this war ends, if given the chance, I want to kill the chancellor.{nl}If we emerge victorious, I will ask Ruklys to have me execute him, and if we fail, I will at least want to charge at his barricade and stab his chest with a blade; even if I die in the process.{nl}Eminent has started to take over the Earth Tower while leading the demons.{nl}As a human being, how dare he join forces with the demons...?
 QUEST_20151224_003435	If you adore the goddess so much, then allow me send you back to Her!
