@@ -9539,7 +9539,7 @@ ETC_20150323_009535	Gold Hairpin
 ETC_20150323_009536	Bug
 ETC_20150323_009537	Summon
 ETC_20150323_009538	Squire Rüstung Repair Prop
-ETC_20150323_009539	Squire Rüstung Repair Signboard
+ETC_20150323_009539	Squire Rüstung Repair Tafel
 ETC_20150323_009540	Squire Sign Board
 ETC_20150323_009541	Squire Work Table
 ETC_20150323_009542	Knappe Amboss
@@ -9878,7 +9878,7 @@ ETC_20150323_009875	Akmens Ridge Cable Car
 ETC_20150323_009876	Portal Wizard
 ETC_20150323_009877	Demon Lord Blut
 ETC_20150323_009878	Alchimie Pot
-ETC_20150323_009879	Groß Broken Signboard
+ETC_20150323_009879	Groß Broken Tafel
 ETC_20150323_009880	Sleeping Scorpio
 ETC_20150323_009881	Klein Pot
 ETC_20150323_009882	Klein Goddess Statue
@@ -21419,7 +21419,7 @@ ETC_20160405_021413	Amount queried in one time when reading chat contents from t
 ETC_20160405_021414	You must be at least Lv {Level} to use this.
 ETC_20160411_021415	Incorrect argument no. Please check function call for errors.
 ETC_20160411_021416	DB connection failed
-ETC_20160411_021417	Token tip
+ETC_20160411_021417	Token Tipp
 ETC_20160411_021418	Using a Token increases your EXP earned from monsters by 30%.
 ETC_20160411_021419	Using a Token allows you to learn two different attributes simultaneously.
 ETC_20160411_021420	Using a Token reduces your market commission fee to 10%.

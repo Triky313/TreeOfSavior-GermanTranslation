@@ -504,7 +504,7 @@ QUEST_20150317_000503	I warned you, but you just wouldn't listen.
 QUEST_20150317_000504	You shall pay the price for your choice.
 QUEST_20150317_000505	I have underestimated you.
 QUEST_20150317_000506	This isn't over! {nl}I'll be watching from the Fallen Worry Forest.
-QUEST_20150317_000507	Warning
+QUEST_20150317_000507	Warnung
 QUEST_20150317_000508	Tainted. Do not use!
 QUEST_20150317_000509	This is the first revelation I made.{nl}For you, it will be the third.
 QUEST_20150317_000510	My strength will weaken every time I put a part of myself into a revelation.{nl}More than a thousand years will have passed by the time this revelation reaches you, {nl}and even my consciousness will have ceased to exist.
@@ -563,13 +563,13 @@ QUEST_20150317_000562	1. Always wear a helmet and protective gear. {nl}2. Do not
 QUEST_20150317_000563	Also, we are hiring young men and families who wish to migrate. {nl} - Safe workplace, healthy happiness! Crystal Mine Youth Association
 QUEST_20150317_000564	Compass
 QUEST_20150317_000565	Select Information
-QUEST_20150317_000566	Warning
+QUEST_20150317_000566	Warnung
 QUEST_20150317_000567	This is the entrance to Kateen Forest. {nl}Traveling is ill-advised because of the vicious monsters inhabiting the area.
 QUEST_20150317_000568	We are carrying out an operation to reach the Gate Route. {nl}Dangerous monsters are beyond here, so travelers should be careful. {nl} - Commander Julian
 QUEST_20150317_000569	There are rumors of ghost appearances beyond here, so please refrain from passing through.
 QUEST_20150317_000570	You are entering the Thorn Forest area from here on. {nl}It is very dangerous, so please refrain from passing through. {nl} - Liaison Officer Niels
-QUEST_20150317_000571	Warning! Keep out! {nl}Your safety is not guaranteed.
-QUEST_20150317_000572	Warning! Keep out! {nl}Stay away if you value your life.
+QUEST_20150317_000571	Warnung! Keep out! {nl}Your safety is not guaranteed.
+QUEST_20150317_000572	Warnung! Keep out! {nl}Stay away if you value your life.
 QUEST_20150317_000573	Restricted Area. {nl}This area is restricted due to the petrification curse and dangerous monsters. {nl} - Commander Benas
 QUEST_20150317_000574	Wife of a Refugee Family
 QUEST_20150317_000575	I took refuge, following my husband, but it's scarier than I thought.
@@ -798,19 +798,19 @@ QUEST_20150317_000797	I see, you're the one the bees have been whispering about.
 QUEST_20150317_000798	The seal of this farmland has stabilized, thanks to you. {nl}But the other Revelators have lost themselves due to the evil force flowing from the Spring Light Woods.
 QUEST_20150317_000799	I will be using all of my powers to prevent this from happening any more... {nl}Thus, I cannot move away from here, let alone save them.
 QUEST_20150317_000800	Please save them and the Spring Light Woods.
-QUEST_20150317_000801	Investigation Unit
-QUEST_20150317_000802	Why have so many more monsters appeared?
-QUEST_20150317_000803	The monsters have ruined the entire harvest.
+QUEST_20150317_000801	Ermitlungseinheit
+QUEST_20150317_000802	Warum sind so viel mehr Monster erschienen?
+QUEST_20150317_000803	Die Monster haben die gesamte Ernte zerstört.
 QUEST_20150317_000804	As you may already know, our kingdom has five major goddesses and other goddesses who{nl}assist them. But nobody knows where all of them are now.
-QUEST_20150317_000805	Flower Shop Lady
+QUEST_20150317_000805	Blumenladen Dame
 QUEST_20150317_000806	People don't buy flowers anymore. {nl}The only flowers they buy are the ones to offer for the goddesses' return. {nl}It's really depressing in many ways.
 QUEST_20150317_000807	I hope Klaipeda becomes lively like it used to be... {nl}With the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the goddess of the Earth...
-QUEST_20150317_000808	Warning
+QUEST_20150317_000808	Warnung
 QUEST_20150317_000809	Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful. 
 QUEST_20150317_000810	Notice: Groß Kepa is not an onion!{nl}Wearing goggles is useless against Groß Kepa. {nl}Watch out for powerful attacks that shake the ground.
 QUEST_20150317_000811	Please worship the Goddess Statue with a pious mind. You will grow stronger with {nl}the Goddess Zemyna's power, blessed by the Overseer of the Earth herself.
 QUEST_20150317_000812	The Statue der Göttin Zemyna lies at the end of this road.
-QUEST_20150317_000813	Warning! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and...{nl}(Red marks are covering the rest.)
+QUEST_20150317_000813	Warnung! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and...{nl}(Red marks are covering the rest.)
 QUEST_20150317_000814	Caution! What happens to you beyond this point is your responsibility! {nl}Golems are rumored to appear in this area. Do not go any further.
 QUEST_20150317_000815	P.S. It is better to run away than to pray to the goddess when you encounter Golems.
 QUEST_20150317_000816	The goddesses have disappeared. {nl}But if we fight bravely against the demons, perhaps the goddesses will return someday. {nl} - Laimonas
@@ -818,7 +818,7 @@ QUEST_20150317_000817	Attention to those who come to Klaipeda after having a dre
 QUEST_20150317_000818	Welcome to Klaipeda Shopping Center. {nl}You can shop for a variety of accessories, tools, equipment, and other items.
 QUEST_20150317_000819	Use the stairs on the right to go to the Klaipeda Central Plaza.
 QUEST_20150317_000820	Klaipeda Central Plaza
-QUEST_20150317_000821	Signboard
+QUEST_20150317_000821	Tafel
 QUEST_20150317_000822	East Siauliai Woods
 QUEST_20150317_000823	It is unknown who the statue honors or how old it is. {nl}But it certainly has mysterious powers that move selected people to other areas.
 QUEST_20150317_000824	Good job. {nl}I have done my task. {nl}It is my time now.
@@ -831,7 +831,7 @@ QUEST_20150317_000830	Holiday Notice
 QUEST_20150317_000831	I have been enlisted to the army to save the kingdom. {nl}Therefore, the restaurant will be closed in the meantime. {nl} - Owner of Klaipeda's Specialty Restaurant, Vulinya
 QUEST_20150317_000832	Don't blow out the candles. {nl}They guide the souls so they don't lose their way.
 QUEST_20150317_000833	As you know, the King died on Medzio Diena and the fate of other royalty and nobility were no different. {nl}The kingdom is holding together somehow but... now we can only pray.
-QUEST_20150317_000834	Now we can only pray...
+QUEST_20150317_000834	Jetzt können wir nur beten...
 QUEST_20150317_000835	When the spire is bathed with a red light the... door... to fantasy shall be opened.
 QUEST_20150317_000836	King Zachariel's Will
 QUEST_20150317_000837	Dear Revelator. {nl}Listen to the interpretations of the revelation.
@@ -841,9 +841,9 @@ QUEST_20150317_000840	Soldier Recruitment Notice
 QUEST_20150317_000841	We want you! {nl}Protect your family and your kingdom. {nl} - Klaipeda Recruiting Station
 QUEST_20150317_000842	We are seeking brave young men and women who will bring order to these chaotic times. {nl}The world needs you! {nl} - Klaipeda Recruiting Station
 QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000844	Warning! Civilians prohibited.
-QUEST_20150317_000845	Only authorized personnel are allowed inside.
-QUEST_20150317_000846	Impossible.
+QUEST_20150317_000844	Warnung! Zivilisten verboten.
+QUEST_20150317_000845	Nur autorisiertes Personal drinnen erlaubt.
+QUEST_20150317_000846	Unmöglich.
 QUEST_20150317_000847	Completing this spell will help the soldiers. {nl}Will I be able to make it?
 QUEST_20150317_000848	The soldiers will die if I don't make it. {nl}I have to be strong.
 QUEST_20150317_000849	I can do it. {nl}This time, I will kill Gaigalas.
@@ -851,7 +851,7 @@ QUEST_20150317_000850	Unfortunately, I cannot solve it for you. It is the will o
 QUEST_20150317_000851	The Great Cathedral was built by Silvestro Maven 660 years ago.
 QUEST_20150317_000852	The curse of Naktis... Only curses remain where she treads. {nl}And she is now invading the Great Cathedral in search of the revelation.
 QUEST_20150317_000853	We tried our best to impede them until your arrival. {nl}But as you can see, we've reached our limit.
-QUEST_20150317_000854	Chapel Table
+QUEST_20150317_000854	Kapellen Tisch
 QUEST_20150317_000855	...Only after three years since Ruklys learned from my teachings...
 QUEST_20150317_000856	...two years after the war, my first disciple ended up dead...
 QUEST_20150317_000857	...year after Lydia Schaffen left the Great Cathedral...
@@ -865,15 +865,15 @@ QUEST_20150317_000864	Writings on the Altar
 QUEST_20150317_000865	Everlasting goddess. {nl}May we praise your infinite mercy.
 QUEST_20150317_000866	Life withers and the soul has nowhere to go. {nl}Only the goddess can save us.
 QUEST_20150317_000867	I have sent the bishop there.
-QUEST_20150317_000868	Monsters! Run!
+QUEST_20150317_000868	Monster! Renn!
 QUEST_20150317_000869	Maven's Device
 QUEST_20150317_000870	Maven's Device that the bishop talked about. {nl}There is a small keyhole.
 QUEST_20150317_000871	Blue Pawndel
-QUEST_20150317_000872	What is it?
-QUEST_20150317_000873	You're not kidding, are you?
+QUEST_20150317_000872	Was ist das?
+QUEST_20150317_000873	Du scherzt nicht? Bist du's?
 QUEST_20150317_000874	Black Pawnd
-QUEST_20150317_000875	What's up? {nl}You suspect something?
-QUEST_20150317_000876	Can I trust you?
+QUEST_20150317_000875	Was ist passiert? {nl}Vermutest du etwas?
+QUEST_20150317_000876	Kann ich dir vertrauen?
 QUEST_20150317_000877	Naktis
 QUEST_20150317_000878	I won't hand over the revelation to petty humans!
 QUEST_20150317_000879	Cathedral revelation
@@ -897,8 +897,8 @@ QUEST_20150317_000896	This drug really better work...
 QUEST_20150317_000897	This drug better work...
 QUEST_20150317_000898	Food... Did you bring food?
 QUEST_20150317_000899	Did you see the pilgrim with never-ending hunger? {nl}He's also under Naktis' curse. {nl}That's why his hunger can't be filled, no matter how much he eats.
-QUEST_20150317_000900	Ugghh... What did I eat? {nl}I feel sick.
-QUEST_20150317_000901	The drug better work...
+QUEST_20150317_000900	Ugghh... Was habe ich gegessen?{nl}Ich fühle mich krank.
+QUEST_20150317_000901	Die Medikamente wirken besser...
 QUEST_20150317_000902	They're feeling nauseous? {nl}I can't tell if the drug is working just by looking at their reactions.
 QUEST_20150317_000903	I'll give you the drug. {nl}Give it to the pilgrims.
 QUEST_20150317_000904	Now I better go and bury the bishop.
@@ -926,21 +926,21 @@ QUEST_20150317_000925	It seems something reacted.
 QUEST_20150317_000926	We are the priests sent to undo Naktis' curse at Pilgrim's Way. {nl}We are looking for the many documents about the demons and their curse in the Cathedral.
 QUEST_20150317_000927	The device will be released when all the floor plates are pressed down.
 QUEST_20150317_000928	Take the bombs from the chest. You must destroy the entrance of the Royal Mausoleum.
-QUEST_20150317_000929	Help!
-QUEST_20150317_000930	Warning
+QUEST_20150317_000929	Hilfe!
+QUEST_20150317_000930	Warnung
 QUEST_20150317_000931	Stop! You cannot go beyond this point without permission!
 QUEST_20150317_000932	What? You seem a bit inexperienced but still may be of help to us. {nl}You'll be able to meet the officer when you follow this road.
 QUEST_20150317_000933	What the...! Losing the revelation right in front of...! {nl}This isn't the end! Remember that!
 QUEST_20150317_000934	Well then, let's start the experiment.
-QUEST_20150317_000935	Spoiled Food
+QUEST_20150317_000935	Verdorbenes Essen
 QUEST_20150317_000936	(Potato dumplings. It feels like I shouldn't eat them.{nl}Chow down?)
-QUEST_20150317_000937	(It's spoiled.)
-QUEST_20150317_000938	Preserved food
+QUEST_20150317_000937	(Es ist verdorben.)
+QUEST_20150317_000938	Konserviertes Essen
 QUEST_20150317_000939	(It's preserved food that is dried or salted.{nl}Doesn't seem edible by itself.)
 QUEST_20150317_000940	Liquor
-QUEST_20150317_000941	(Just smells like liquor.)
-QUEST_20150317_000942	Explore
-QUEST_20150317_000943	It seems like it can be used only in the Crystal Mine 3F...
+QUEST_20150317_000941	(Riecht nur nach Alkohol.)
+QUEST_20150317_000942	Erkunden
+QUEST_20150317_000943	Es scheint so, als könnte es nur in Crystal Mine 3F verwendet werden...
 QUEST_20150317_000944	Found a piece of paper underneath the soil.
 QUEST_20150317_000945	Eating more would be rather risky.
 QUEST_20150317_000946	Something feels horrible inside...
@@ -1014,7 +1014,7 @@ QUEST_20150317_001013	By the way, are you going to take this guy as well?
 QUEST_20150317_001014	I don't know what he does, but please keep this in mind: {nl}War is not a joke. I'll let you take him if you're willing to work with him in battle.
 QUEST_20150317_001015	Damn, I thought it would die after getting its throat cut. {nl}I hope it can just behave and die slowly now.
 QUEST_20150317_001016	Oops. I was late this time. Well, it doesn't matter that much. {nl}Soon my masterpiece will be complete. I hope you guys like it.
-QUEST_20150317_001017	Unknown Demon
+QUEST_20150317_001017	Unbekannter Dämon
 QUEST_20150317_001018	Ah... I almost forgot. I'll be taking this guy along!
 QUEST_20150317_001019	I can feel Laima's power.
 QUEST_20150317_001020	This pain I haven't felt for a long time...
@@ -1044,7 +1044,7 @@ QUEST_20150317_001043	Here are all gathered requests. {nl}Caution: We are not re
 QUEST_20150317_001044	Employee Brendon
 QUEST_20150317_001045	I will show you the registered requests so far. {nl}You know that a day has to pass in order to receive a request again, even if you give up on it, right?
 QUEST_20150317_001046	(Temporary) Request Manager
-QUEST_20150317_001047	Select Request Start/End
+QUEST_20150317_001047	Wähle Anforderung Start/Ende
 QUEST_20150317_001048	Employee Ramda
 QUEST_20150317_001049	The requests I look over are somewhat different from other requests. {nl}I promise there are clear rewards for you and your party members.
 QUEST_20150317_001050	Great Merchant Gilliam
@@ -1953,7 +1953,7 @@ QUEST_20150428_001956	The Grass of King Zachariel
 QUEST_20150428_001957	The king told those who engraved the letters and the symbols onto the hard woods {nl}to abstain from sin, but they lost their memories as the king ordered. {nl}I did it because I was afraid that the demons and the people with malicious intent may steal my artifacts. {nl}However, I don't want to repeat that for my people.
 QUEST_20150428_001958	(The book has rotted so much that nothing inside can be read.)
 QUEST_20150428_001959	The minister said, {nl}'We already heard the words of His Majesty. {nl}We don't know exactly why, but the reason the Royal Mausoleum was built was not to show off, {nl}but to prepare for the forecast that may bring chaos to the kingdom and change the future of the humans. {nl}If we don't do this important task, who will?'
-QUEST_20150428_001960	Warning Sign for Unauthorized Entrants
+QUEST_20150428_001960	Warnung Sign for Unauthorized Entrants
 QUEST_20150428_001961	To protect the sacred secret of King Zachariel, no one may enter this facility.
 QUEST_20150428_001962	Anyone entering here unauthorized will be punished for their sin.
 QUEST_20150428_001963	The Order to Move Out
@@ -3761,13 +3761,13 @@ QUEST_20160310_003768	Someone's down!
 QUEST_20160310_003769	Soldier's Note
 QUEST_20160310_003770	Is this the punishment of the goddesses?{nl}Is that a demon?{nl}How can you... because of a woman?{nl}They're all dead!
 QUEST_20160310_003771	All because of this one... Ah...{nl}No... I don't want to die...{nl}It's all my fault!{nl}Forgive me... please...{nl}
-QUEST_20160310_003772	Locked Door
+QUEST_20160310_003772	Verschlossene Tür
 QUEST_20160310_003773	(The door is firmly locked. The lights are on but no one seems to be inside.)
-QUEST_20160310_003774	Frozen Meat
+QUEST_20160310_003774	Gefrorenes Fleisch
 QUEST_20160310_003775	(Some abandoned frozen meat. Food must be scarce around here... where did it come from?)
 QUEST_20160310_003776	Undelivered Letter
 QUEST_20160310_003777	(A letter seemingly written by a soldier to his familiy but never delivered.)
-QUEST_20160310_003778	Frozen Pot
+QUEST_20160310_003778	Gefrorener Topf
 QUEST_20160310_003779	(A pot filled with civilian clothes. What could this be doing here instead of army uniforms...?)
 QUEST_20160310_003780	Dying Message
 QUEST_20160310_003781	(A note, apparently written by the soldier that hid here before dying.)
@@ -3822,7 +3822,7 @@ QUEST_20160310_003829	It was you!{nl}You are the one who dares to doubt the migh
 QUEST_20160310_003830	Imprisoned Monk
 QUEST_20160310_003831	There is a monk imprisoned inside the Principal Laboratory!
 QUEST_20160310_003832	There seems to be no one here.
-QUEST_20160310_003833	Black Wall
+QUEST_20160310_003833	Schwarze Wand
 QUEST_20160310_003834	This area seems hard to ignore.
 QUEST_20160310_003835	I was expecting you to come.{nl}The old abbot must have told you about the statues...{nl}
 QUEST_20160310_003836	I knew you were a Revelator from the beginning.{nl}My mind control powers didn't work on you...{nl}
@@ -3877,13 +3877,13 @@ QUEST_20160329_003884	Let's go somewhere safe.
 QUEST_20160329_003885	Little by Little, a History Book
 QUEST_20160329_003886	Curiosity at the End of the Cliff
 QUEST_20160329_003887	I don't think I can help you.
-QUEST_20160329_003888	Strong Beliefs
+QUEST_20160329_003888	Starker Glaube
 QUEST_20160329_003889	Gib dein Bestes
 QUEST_20160329_003890	Let's wait for a while.
-QUEST_20160329_003891	Fallen Days
+QUEST_20160329_003891	Gefallene Tage
 QUEST_20160329_003892	I'll make sure it's safe.
 QUEST_20160329_003893	I think you should hide better.
 QUEST_20160329_003894	Cure-all Medicine
 QUEST_20160329_003895	Spirit-carrying Monster
-QUEST_20160329_003896	Fading Spirit
-QUEST_20160329_003897	Collect Antidote Sample
+QUEST_20160329_003896	Verblassender Geist 
+QUEST_20160329_003897	Sammle Gegengift-Probe
