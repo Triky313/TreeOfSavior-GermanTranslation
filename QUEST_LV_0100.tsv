@@ -295,7 +295,7 @@ QUEST_LV_0100_20150317_000294	Even if this wasn't about the Revelators, but the 
 QUEST_LV_0100_20150317_000295	Yes. This will be enough.{nl}Here is a pill that will restore your stamina instantly. I have enough of it so I will give you this {nl}as a gift.
 QUEST_LV_0100_20150317_000296	Stamina is consumed when you move.{nl}You can recover stamina by destroying a Tree Root Crystal or by resting.{nl}But you might not have time for that when you are being chased by monsters.{nl}That's when this pill comes in handy.
 QUEST_LV_0100_20150317_000297	I heard news from my men and was becoming worried.{nl}All is well if it ended up good.
-QUEST_LV_0100_20150317_000298	Klaipeda Resident
+QUEST_LV_0100_20150317_000298	Klaipeda Einwohner
 QUEST_LV_0100_20150317_000299	{nl}When do you think the goddess is coming back?{nl}Even if I ask the Revelators, all they say is that they must go to Klaipeda...
 QUEST_LV_0100_20150317_000300	Are you a Revelator?{nl}Didn't the goddess appear in your dream?{nl}I heard so from the soldiers.
 QUEST_LV_0100_20150317_000301	Trooper
@@ -410,7 +410,7 @@ QUEST_LV_0100_20150317_000409	I hear strange howlings from the distance. Could t
 QUEST_LV_0100_20150317_000410	People say I'm weird and I talk too much, but I don't mind. Even if I'm as weird like they say, {nl}that doesn't mean the items I sell are weird.
 QUEST_LV_0100_20150317_000411	Schmied
 QUEST_LV_0100_20150317_000412	Hello.{nl}I can help you repair items but I can't craft new ones because I don't have the materials.{nl}Go on and choose from whatever is available.
-QUEST_LV_0100_20150317_000413	Klaipeda Resident
+QUEST_LV_0100_20150317_000413	Klaipeda Einwohner
 QUEST_LV_0100_20150317_000414	It's true these are tough times, but everyone is looking out for the soldiers.
 QUEST_LV_0100_20150317_000415	Aside from everything else, I want to eat till I'm full.{nl}You need to eat to have strength.
 QUEST_LV_0100_20150317_000416	Why did the goddesses disappeared?{nl}Everyone is looking for where they've gone, but no one is asking why they disappeared.
@@ -2267,7 +2267,7 @@ QUEST_LV_0100_20150317_002266	Thank you very much. {nl} My comrades can now rest
 QUEST_LV_0100_20150317_002267	We survived the immediate danger with your help earlier, but we still need some assistance. {nl}Could you help us out a bit more?
 QUEST_LV_0100_20150317_002268	I'm enraged thinking about the Vubbes who will be heartily satisfied with our food. {nl}Especially with such difficult times nowadays.
 QUEST_LV_0100_20150317_002269	Thank you. {nl}We're still lacking some goods, but at least we got back this much.
-QUEST_LV_0100_20150317_002270	Fedimian Resident
+QUEST_LV_0100_20150317_002270	Fedimian Einwohner
 QUEST_LV_0100_20150317_002271	I heard that Sir Maven, who built the Great Cathedral, left five necklaces.{nl}I also heard that the one who collects those five necklaces will possess a great power.
 QUEST_LV_0100_20150317_002272	Hey, if you are planning to continue your journey, don't get close to the Cursed City.{nl}It didn't receive a blessing at all on Medzio Diena. You will turn into stone if you get too close to {nl}that city.
 QUEST_LV_0100_20150317_002273	It's true that I am looking for the Revelator, but I need someone skillful.{nl}I am sorry, but you don't look like the Revelator I am looking for.
@@ -6319,7 +6319,7 @@ QUEST_LV_0100_20150317_006318	Use the Languid Bomb on the sleeping Upents
 QUEST_LV_0100_20150317_006319	The Headman says to use the bomb on the Upents in Melagingas Hill. Take it to Melagingas Hill.
 QUEST_LV_0100_20150317_006320	Check the portal at Grassy Brookside
 QUEST_LV_0100_20150317_006321	The residents were demons in disguise. Run to the portal at Grassy Brookside.
-QUEST_LV_0100_20150317_006322	Besiege the Demon Resident
+QUEST_LV_0100_20150317_006322	Besiege the Demon Einwohner
 QUEST_LV_0100_20150317_006323	Go to the old well
 QUEST_LV_0100_20150317_006324	Check the old well at Indigo Tree Plateau.
 QUEST_LV_0100_20150317_006325	Look for something to put in the old well
@@ -10295,7 +10295,7 @@ QUEST_LV_0100_20151016_010294	There is someone whom you think is a resident of t
 QUEST_LV_0100_20151016_010295	Sprich mit the supposed resident of the town XX
 QUEST_LV_0100_20151016_010296	Demons have appeared. Besiege them all.
 QUEST_LV_0100_20151016_010297	Defeated all the demons. Tell Rose and the resident that it is safe now.
-QUEST_LV_0100_20151016_010298	Save Rose and the Resident
+QUEST_LV_0100_20151016_010298	Save Rose and the Einwohner
 QUEST_LV_0100_20151016_010299	Sprich mit a resident of the town XX
 QUEST_LV_0100_20151016_010300	Listen to what the resident of the town xx has to say.
 QUEST_LV_0100_20151016_010301	Listen to the resident's story
@@ -10325,7 +10325,7 @@ QUEST_LV_0100_20151016_010324	Destroy the demon totems controlling the Ferrets
 QUEST_LV_0100_20151016_010325	The elder says the ferrets became ferocious after the demon invasion. He insists that the demon totems are to blame and asks you to destroy them.
 QUEST_LV_0100_20151016_010326	Gather the Gigantic Fruit Juice from the Ferrets
 QUEST_LV_0100_20151016_010327	One of the biggest concerns the townspeople has is lack of drinkable water ever since not only the water from the river but also the fruits from the plants nearby are poisoned. The ferrets, on the other hand, seems to know a way to purify the juice from the giant fruits and drink them. The townspeople ask you to bring the fruit juice the ferrets extracted.
-QUEST_LV_0100_20151016_010328	Got enough Gigantic Fruit from the ferrets. Bring it to the Dorf Resident.
+QUEST_LV_0100_20151016_010328	Got enough Gigantic Fruit from the ferrets. Bring it to the Dorfbewohner.
 QUEST_LV_0100_20151016_010329	Stehle %s from the Ferret
 QUEST_LV_0100_20151016_010330	While you were away getting the Gigantic Fruit Juice, the ferrets raided the town again and stole foods from the town. Speak with the townfolk.
 QUEST_LV_0100_20151016_010331	The townfolk says that if you contaminate the foods with the poinsoned water, the ferrets will no longer steal food from the town. But it will only work if the recently looted foods would do the trick. Bring the red water from the old well to the townspeople.
@@ -11774,7 +11774,7 @@ QUEST_LV_0100_20151224_011773	But the door isn't moving, even though there's no 
 QUEST_LV_0100_20151224_011774	If only we can get this door to open...
 QUEST_LV_0100_20151224_011775	If it weren't for you and Rose...{nl}I would have been just another victim to the bracken.
 QUEST_LV_0100_20151224_011776	Just when I thought we were over... you came and saved us.{nl}It seems the goddesses haven't abandoned me yet...
-QUEST_LV_0100_20151224_011777	Croa Dorf Resident
+QUEST_LV_0100_20151224_011777	Croa Dorfbewohner
 QUEST_LV_0100_20151224_011778	Who are you?!{nl}Are you here to save us?{nl}
 QUEST_LV_0100_20151224_011779	The way to open the door?{nl}You need to get to Goss, quick!{nl}
 QUEST_LV_0100_20151224_011780	The demons took Goss to the Ankel Klein Corridor!{nl}He knows how to open the door!
@@ -14773,7 +14773,7 @@ QUEST_LV_0100_20151224_014772	Samsonas is going to use this obelisk and has aske
 QUEST_LV_0100_20151224_014773	Report the results to Samsonas
 QUEST_LV_0100_20151224_014774	Oddly enough, the offering caused nearby monsters to attack. Go to Samsonas right away and warn him about it before he makes his offering.
 QUEST_LV_0100_20151224_014775	Nikodemas is looking around apprehensively. Sprich mit Nikodemas.
-QUEST_LV_0100_20151224_014776	Find the Dorf Resident at the Drava Chapel Lot
+QUEST_LV_0100_20151224_014776	Finde den Dorfbewohner at the Drava Chapel Lot
 QUEST_LV_0100_20151224_014777	Nikodemas says someone from the village wandered off and hasn't been back since. It seems they were headed towards the Drava Chapel Lot; go and look for them there.
 QUEST_LV_0100_20151224_014778	Sprich mit Napalis
 QUEST_LV_0100_20151224_014779	You successfully defeated the monster that attacked from underwater. Ask Napalis if they are all right.
