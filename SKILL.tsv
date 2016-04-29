@@ -5395,15 +5395,15 @@ SKILL_20151022_005394	You and your party members are temporarily granted an incr
 SKILL_20151022_005395	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20151022_005396	{#DD5500}{ol}[Physisch] - [Heilig]{/}{/}{nl}Harness energy and release it in front of you, dealing damage and pushing back all enemies in its path.
 SKILL_20151022_005397	Enemy's companion bites and holds. Decreased defense.
-SKILL_20151022_005398	Increases your evasion rate.
+SKILL_20151022_005398	Erhöht deine Ausweichrate.
 SKILL_20151022_005399	Weak against Hieb-type attacks.
-SKILL_20151022_005400	Ignores defense nach using Stich-type attacks.
+SKILL_20151022_005400	Ignores defense by using Stich-type attacks.
 SKILL_20151022_005401	Erhöht Block.
 SKILL_20151022_005402	Erhöht Stich-type attack upon the next attack
 SKILL_20151022_005403	Erhöht Ausweichchance.
-SKILL_20151022_005404	Erhöht movement speed
-SKILL_20151022_005405	Healing Factor
-SKILL_20151022_005406	Increases HP recovery
+SKILL_20151022_005404	Erhöht Bewegungsgeschwindigkeit
+SKILL_20151022_005405	Heilungsfaktor
+SKILL_20151022_005406	Erhöht HP Erholung
 SKILL_20151022_005407	Bloodletting
 SKILL_20151022_005408	In the state of Bloodletting.
 SKILL_20151022_005409	Incineration

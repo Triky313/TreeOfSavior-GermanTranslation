@@ -6120,7 +6120,7 @@ ETC_20150317_006116	Sockel-Management
 ETC_20150317_006117	Edelstein extr.
 ETC_20150317_006118	can be used to remove it again.
 ETC_20150317_006119	Caution: Potential is consumed when you remove Gems.
-ETC_20150317_006120	Auferstehung
+ETC_20150317_006120	Widerbelebung
 ETC_20150317_006121	    This spell allows you to revive a dead character. 
 ETC_20150317_006122	When you have 0 HP, your character dies and becomes  
 ETC_20150317_006123	status.
@@ -18155,11 +18155,11 @@ ETC_20151224_018151	A player who has their Buy-in Shop open cannot move, however
 ETC_20151224_018152	If you clear the seat, you can check the trade information using the trade history. If you don't want to trade, close the below
 ETC_20151224_018153	Close
 ETC_20151224_018154	 Close the User Buy-in Shop to press the button.
-ETC_20151224_018155	You receive various effects from using a Token.
+ETC_20151224_018155	Du erhältst verschiedene Effekte nach Verwendung eines Token.
 ETC_20151224_018156	You can buy a Token through NPC Leticia.
-ETC_20151224_018157	When using a Token, you will receive the effects below to all your characters in the server for 30 days.
-ETC_20151224_018158	After using a Token, you can easily check the benefits.
-ETC_20151224_018159	Only the Templar class is able to create a guild.
+ETC_20151224_018157	Wenn du einen Token verwendest, betrifft dessen Auswirkungen all deine Charaktere auf einem Server für 30 Tage.
+ETC_20151224_018158	Nach dem verwenden eines Tokens kannst du ganz leicht deine Vorteile sehen.
+ETC_20151224_018159	Nur die Templer-Klasse ist in der Lage, eine Gilde zu erstellen.
 ETC_20151224_018160	A Templar character is able to create a guild by paying a fee to Knight Commander Uska.
 ETC_20151224_018161	You can invite characters to the guild by pressing {img mouseclick_right 40 40} on a character.
 ETC_20151224_018162	The guild master is able to build a Gildenturm in a field.
@@ -18271,9 +18271,9 @@ ETC_20151224_018267	Enhält 10 Teleport Scrolls wenn du es öffnest. Rechtsklick
 ETC_20151224_018268	Token: 5 Tage [Event]
 ETC_20151224_018269	Grants Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - 2 Fähigkeiten gleichzeitig lernen{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Verkauf von bis zu 5 Gegenständen{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018270	Premium Package A
-ETC_20151224_018271	Contains premium goodies. Right-click to use.{nl} - 600 TP (Nicht handelbar){nl} - Highly Enriched HP Potion 150x (Nicht handelbar){nl} - Highly Enriched SP Potion 150x (Nicht handelbar){nl} - Warp Scroll 10x Box 3x (Nicht handelbar){nl} - Megaphone 50x Box (Nicht handelbar){nl} - Hair Accessory: War Bonnet
+ETC_20151224_018271	Contains premium goodies. Right-click to use.{nl} - 600 TP (Nicht handelbar){nl} - Highly Enriched HP Potion 150x (Nicht handelbar){nl} - Highly Enriched SP Potion 150x (Nicht handelbar){nl} - Warp Scroll 10x Box 3x (Nicht handelbar){nl} - Megaphone 50x Box (Nicht handelbar){nl} - Haarschmuck: War Bonnet
 ETC_20151224_018272	Premium Package B
-ETC_20151224_018273	Contains premium goodies. Right-click to use.{nl} - 1300 TP (Nicht handelbar){nl} - Highly Enriched HP Potion 150x (Nicht handelbar){nl} - Highly Enriched SP Potion 150x (Nicht handelbar){nl} - Warp Scroll 10x Box 3x (Nicht handelbar){nl} - Megaphone 50x Box (Nicht handelbar){nl} - Hair Accessory: Cornus Helm
+ETC_20151224_018273	Contains premium goodies. Right-click to use.{nl} - 1300 TP (Nicht handelbar){nl} - Highly Enriched HP Potion 150x (Nicht handelbar){nl} - Highly Enriched SP Potion 150x (Nicht handelbar){nl} - Warp Scroll 10x Box 3x (Nicht handelbar){nl} - Megaphone 50x Box (Nicht handelbar){nl} - Haarschmuck: Cornus Helm
 ETC_20151224_018274	Benutze und erhalte 600 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018275	Benutze und erhalte 1300 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018276	Token: 1 Day [Event]
@@ -19176,7 +19176,7 @@ ETC_20151224_019172	Dolch
 ETC_20151224_019173	Cannon
 ETC_20151224_019174	Rifle
 ETC_20151224_019175	Poison Pot
-ETC_20151224_019176	Select a character to receive the item
+ETC_20151224_019176	Charakter welcher Gegenstände erhält
 ETC_20151224_019177	You cannot lock an already locked item.
 ETC_20151224_019178	Nur männlich
 ETC_20151224_019179	Nur weiblich
@@ -19844,7 +19844,7 @@ ETC_20151224_019840	Train {COUNT} attributes simultaneously
 ETC_20151224_019841	Erhoehe Bewegungsgeschwindigkeit um {COUNT}
 ETC_20151224_019842	Your Token has already been activated.
 ETC_20151224_019843	Premium goodies have arrived in your Lodge.{nl}Please retrieve them at your Lodge.
-ETC_20151224_019844	 the item
+ETC_20151224_019844	 den Gegenstand
 ETC_20151224_019845	Charakter
 ETC_20151224_019846	Server Team
 ETC_20151224_019847	This item will be bound to you upon purchase.{nl}Are you sure you want to buy?
@@ -20398,7 +20398,7 @@ ETC_20160224_020394	Verzauberungsrolle 20x Box
 ETC_20160224_020395	Contains 20 Enchant Scrolls. Rechtsklick zum verwenden.
 ETC_20160224_020396	Stat Reset Potion
 ETC_20160224_020397	50 Days Open Commemoration Package
-ETC_20160224_020398	Right-click to obtain the following items:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Puppe{nl} - 150 TP [Event]
+ETC_20160224_020398	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Puppe{nl} - 150 TP [Event]
 ETC_20160224_020399	Benutze und erhalte 500 TP.
 ETC_20160224_020400	150 TP [Event]
 ETC_20160224_020401	Benutze und erhalte 150 TP.
@@ -20691,8 +20691,8 @@ ETC_20160224_020687	About the clients
 ETC_20160224_020688	This card is already registered.
 ETC_20160224_020689	Check the property of the card.
 ETC_20160224_020690	You are unable to trade because you do not have Token benefits.
-ETC_20160224_020691	Number of trades allowed
-ETC_20160224_020692	Number of trades allowed.
+ETC_20160224_020691	Anzahl möglicher Handel
+ETC_20160224_020692	Anzahl möglicher Handel.
 ETC_20160224_020693	The target has reached the maximum trades allowed.
 ETC_20160224_020694	Resets all stats.
 ETC_20160224_020695	Can only be used by a Token user.
@@ -21169,35 +21169,35 @@ ETC_20160310_021163	Sinister Idol
 ETC_20160310_021164	Magie Storing Tombstone
 ETC_20160310_021165	The event rewards have been given to the guild master
 ETC_20160310_021166	You have completed the [Demon Uprising] event
-ETC_20160315_021167	Right-click to obtain the following items:{nl} - 600 TP{nl} - Hairstyle Accessory - Popolion Puppe{nl} - Hairstyle Accessory - Hanaming Puppe{nl}
+ETC_20160315_021167	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 600 TP{nl} - Hairstyle Accessory - Popolion Puppe{nl} - Hairstyle Accessory - Hanaming Puppe{nl}
 ETC_20160315_021168	Benutze und erhalte 600 TP.
 ETC_20160315_021169	Benutze und erhalte 350 TP.
 ETC_20160315_021170	Benutze und erhalte 200 TP.
-ETC_20160315_021171	Right-click to obtain the following items:{nl} - 350 TP{nl} - Hairstyle Accessory - Popolion Puppe{nl}
-ETC_20160315_021172	Right-click to obtain the following items:{nl} - 200 TP{nl}
+ETC_20160315_021171	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 350 TP{nl} - Hairstyle Accessory - Popolion Puppe{nl}
+ETC_20160315_021172	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 200 TP{nl}
 ETC_20160315_021173	You can enter this server by purchasing DLC.
 ETC_20160317_021174	Grand Translator
 ETC_20160317_021175	An honorable title only bestowed upon those who participated in the Great Translation movement.
 ETC_20160317_021176	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - 2 Fähigkeiten gleichzeitig lernen{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Verkauf von bis zu 5 Gegenständen{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 1 extra instance entry for missions and dungeons
-ETC_20160317_021177	Right-click to obtain the following items:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Puppe
+ETC_20160317_021177	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Puppe
 ETC_20160317_021178	Benutze und erhalte 360 TP.
 ETC_20160317_021179	Benutze und erhalte 230 TP.
 ETC_20160317_021180	Benutze und erhalte 110 TP.
-ETC_20160317_021181	Right-click to obtain the following items:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Puppe
-ETC_20160317_021182	Right-click to obtain the following items:{nl} - 110 TP
+ETC_20160317_021181	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Puppe
+ETC_20160317_021182	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 110 TP
 ETC_20160317_021183	2 additional Dungeon and Mission entries
 ETC_20160317_021184	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - 2 Fähigkeiten gleichzeitig lernen{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Verkauf von bis zu 5 Gegenständen{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 2 extra instance entries for missions and dungeons
-ETC_20160320_021185	Right-click to obtain the following items:{nl} - 650 TP{nl} - Token (60 Days){nl} - Hair Accessory - Popolion Puppe{nl} - Hair Accessory - Hanaming Puppe{nl} - Hoglan Begleiter Voucher{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
+ETC_20160320_021185	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 650 TP{nl} - Token (60 Tage){nl} - Haarschmuck - Popolion Puppe{nl} - Haarschmuck - Hanaming Puppe{nl} - Hoglan Begleiter Voucher{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
 ETC_20160320_021186	Benutze und erhalte 650 TP.
 ETC_20160320_021187	Benutze und erhalte 380 TP.
 ETC_20160320_021188	Benutze und erhalte 160 TP.
-ETC_20160320_021189	Right-click to obtain the following items:{nl} - 380 TP{nl} - Token (60 Days){nl} - Hair Accessory - Popolion Puppe{nl}
-ETC_20160320_021190	Right-click to obtain the following items:{nl} - 160 TP{nl}
+ETC_20160320_021189	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 380 TP{nl} - Token (30 Tage){nl} - Haarschmuck - Popolion Puppe{nl}
+ETC_20160320_021190	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 160 TP{nl}
 ETC_20160320_021191	Benutze und erhalte 50 TP. This item cannot be refunded or returned after use.
 ETC_20160320_021192	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - 2 Fähigkeiten gleichzeitig lernen{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Verkauf von bis zu 5 Gegenständen im Auktionshaus{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
 ETC_20160320_021193	Token: 60 Tage
 ETC_20160320_021194	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - 2 Fähigkeiten gleichzeitig lernen{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Verkauf von bis zu 5 Gegenständen im Auktionshaus{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
-ETC_20160320_021195	1 Extra-Instanz-Eintritt für Missionen und Dungeons
+ETC_20160320_021195	1 Extra-Eintritt für Missionen und Dungeons
 ETC_20160323_021196	Mage Tower Instanced Dungeon
 ETC_20160323_021197	Gilden-Mission 2
 ETC_20160323_021198	An Orange Crabil suddenly appeared!
@@ -21228,7 +21228,7 @@ ETC_20160323_021222	Erfreuliches Token bringt all deinen Charakteren auf einem S
 ETC_20160323_021223	90 TP [Event]
 ETC_20160323_021224	Benutze und erhalte 90 TP.
 ETC_20160323_021225	Lucky 100 Package
-ETC_20160323_021226	Right-click to obtain the following items:{nl} - Party Horn{nl} - 100 TP{nl} - 100 TP
+ETC_20160323_021226	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - Party Horn{nl} - 100 TP{nl} - 100 TP
 ETC_20160323_021227	Dellam Sandbank
 ETC_20160323_021228	Polybba Marshlands
 ETC_20160323_021229	Kranta Skerries
@@ -21758,7 +21758,7 @@ ETC_20160425_021751	If both sides are using a Token, the item's properties will 
 ETC_20160425_021752	Items with changing trade properties
 ETC_20160425_021753	Public Party join request denied.
 ETC_20160425_021754	Retrieve storage item(s)?
-ETC_20160425_021755	Able to learn attributes instantaneously
+ETC_20160425_021755	Du kannst Fähigkeiten sofort erlernen
 ETC_20160425_021756	Token Aktiviert
 ETC_20160425_021757	Token Deaktiviert
 ETC_20160426_021758	Begleiter
