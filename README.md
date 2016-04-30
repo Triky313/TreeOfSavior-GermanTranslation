@@ -39,6 +39,18 @@ Sollte jemanden etwas nicht gefallen, der Satzbau schlecht formuliert sein, Wör
 Ich bin gern bereit etwas zu ändern oder anzupassen. Auch ich übersehe mal etwas oder wähle nicht immer die richtigen Worte. 
 <br><br>
 <strong>Also, keine Scheu!</strong>
+<br>
+####Was wird übersetzt?####
+Im Grunde versuchen wir alles zu übersetzen. Natürlich müssen wir aber auch auf die Benutzerfreundlichkeit achten.
+Da ist es z.B. so, dass wir einige Sachen erst einmal gar nicht übersetzen oder nur teilweise. Folgende Regeln werden hier aufgelistet:
+* Skills werden erst einmal nicht übersetzt. (Nur die Beschreibungen)
+* Orte werden erst einmal nicht übersetzt.
+* Gegenstände (Items) werden teilweise übersetzt. (Beispiel: Panto Sword zu Panto Schwert) Eigennamen bleiben also bestehen.
+
+####Regeln in den .tsv-Dateien####
+* Wenn ihr was übersetzt, müsst ihr darauf achten, dass zwischen der ID und des Literals der TAB-Platz bleibt, so dass alle gleichauf sein. ETC_20150317_008234**[HIER TAB]**Rezept – Moplah
+* Wenn texte mit Geschwungenen Klammern kommen z.B. {nl} dann müssen die immer auch wieder geschlossen werden. Achtet darauf, dass ihr nicht aus Versehen eine Klammer entfernt.
+* __{nl}__ steht übrigens für NewLine also Neue Zeile. Sollte mal etwas nicht ganz in eine Zeile passen, kann man dies damit anpassen.
 <br><br>
 
 ## So einfach kannst du Änderungen vornehmen!
