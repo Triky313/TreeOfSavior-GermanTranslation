@@ -2446,9 +2446,9 @@ QUEST_LV_0100_20150317_002445	Netherbovine's Attack
 QUEST_LV_0100_20150317_002446	Of looking at/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002447	Demons of the Closed Area
 QUEST_LV_0100_20150317_002448	Searching around/ LOOK/3/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002449	Stonemason Pipoti's Friend
-QUEST_LV_0100_20150317_002450	I will find your colleague
-QUEST_LV_0100_20150317_002451	I will come back soon
+QUEST_LV_0100_20150317_002449	Steinmetze Pipoti's Freund
+QUEST_LV_0100_20150317_002450	Ich finde deinen Kollegen
+QUEST_LV_0100_20150317_002451	Ich komme bald zurück
 QUEST_LV_0100_20150317_002452	Notice/right click on the treasure map, find the location of the treasure!
 QUEST_LV_0100_20150317_002453	Treasure Map of the Stonemason's Family (1)
 QUEST_LV_0100_20150317_002454	Checking/SITGROPE/2.5/TRACK_BEFORE/SSN_HATE_AROUND
@@ -2465,11 +2465,11 @@ QUEST_LV_0100_20150317_002464	Treasure Map of the Stonemason's Family (4)
 QUEST_LV_0100_20150317_002465	Checking/SITGROPE/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002466	Notice/!/The box appeared!{nl}Check the box inside while avoiding monsters' attacks!#7
 QUEST_LV_0100_20150317_002467	Notice/You failed to get the treasure of the stonemason's family!{nl}Pipoti has disappeared, but you will meet him again in the future!
-QUEST_LV_0100_20150317_002468	Adventurer's Favor (1)
+QUEST_LV_0100_20150317_002468	Abenteurer Privilegien (1)
 QUEST_LV_0100_20150317_002469	I can find it
 QUEST_LV_0100_20150317_002470	Checking/#SITGROPESET2/3.5/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002471	Notice/Obtained the diary of Varkis{nl}Let's bring it back to Varkis!
-QUEST_LV_0100_20150317_002472	Adventurer's Favor (2)
+QUEST_LV_0100_20150317_002472	Abenteurer Privilegien (2)
 QUEST_LV_0100_20150317_002473	Notice/Rescue Varkis under attacks!#5
 QUEST_LV_0100_20150317_002474	Notice/Varkis died. Go to the camp of Varkis.#5
 QUEST_LV_0100_20150317_002475	Incinerate the Adventurer's Journal (1)
@@ -2807,12 +2807,12 @@ QUEST_LV_0100_20150317_002806	Tell you will defeat Sequoia
 QUEST_LV_0100_20150317_002807	Guardian Purifying Device
 QUEST_LV_0100_20150317_002808	Go to purify the corrupted Guardian
 QUEST_LV_0100_20150317_002809	Ich warte ein wenig
-QUEST_LV_0100_20150317_002810	Destroying the Defense Device
+QUEST_LV_0100_20150317_002810	Zerstöre die Verteidigungs-Geräte
 QUEST_LV_0100_20150317_002811	Destroy the corrupted protecting device
-QUEST_LV_0100_20150317_002812	Recycling (1)
+QUEST_LV_0100_20150317_002812	Wiederverwertung (1)
 QUEST_LV_0100_20150317_002813	Let's move those Guardians who forgot their role in the Royal Mausoleum
 QUEST_LV_0100_20150317_002814	Notice/I can feel big vibration.#4
-QUEST_LV_0100_20150317_002815	Recycling (2)
+QUEST_LV_0100_20150317_002815	Wiederverwertung (2)
 QUEST_LV_0100_20150317_002816	Let's look for Achat
 QUEST_LV_0100_20150317_002817	Let's postpone
 QUEST_LV_0100_20150317_002818	Securing the Supply Route (1)
@@ -2942,29 +2942,29 @@ QUEST_LV_0100_20150317_002941	The Guardian's Jar (4)
 QUEST_LV_0100_20150317_002942	Passing the jar of the spirits/MAKING/2.5/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002943	The King of the Great Humans
 QUEST_LV_0100_20150317_002944	Notice/The portal to the entrance of the Mausoleum is opened! #5
-QUEST_LV_0100_20150317_002945	Light the Fire (1)
+QUEST_LV_0100_20150317_002945	Zünde das Feuer (1)
 QUEST_LV_0100_20150317_002946	Let's go get light the stone lantern
 QUEST_LV_0100_20150317_002947	Loading power/ MAKING/3/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002948	Light the Fire (2)
-QUEST_LV_0100_20150317_002949	Liberation of Magie (1)
+QUEST_LV_0100_20150317_002948	Zünde das Feuer (2)
+QUEST_LV_0100_20150317_002949	Befreiung von Magie (1)
 QUEST_LV_0100_20150317_002950	Let's gather the active stones
-QUEST_LV_0100_20150317_002951	Liberation of Magie (2)
+QUEST_LV_0100_20150317_002951	Befreiung von Magie (2)
 QUEST_LV_0100_20150317_002952	Go to destroy the evil power suppressor of the Mausoleum
-QUEST_LV_0100_20150317_002953	Liberation of Magie (3)
+QUEST_LV_0100_20150317_002953	Befreiung von Magie (3)
 QUEST_LV_0100_20150317_002954	Go to destroy the last suppressor
-QUEST_LV_0100_20150317_002955	Hidden Place (1)
+QUEST_LV_0100_20150317_002955	Versteckter Platz (1)
 QUEST_LV_0100_20150317_002956	Let's gather the force of the guardians and find the hidden treasure
 QUEST_LV_0100_20150317_002957	Not interested
 QUEST_LV_0100_20150317_002958	Notice /The royal guardian of the spell has opened his mouth. #7
-QUEST_LV_0100_20150317_002959	Hidden Place (2)
+QUEST_LV_0100_20150317_002959	Versteckter Platz (2)
 QUEST_LV_0100_20150317_002960	Find the treasure
 QUEST_LV_0100_20150317_002961	Abbrechen
-QUEST_LV_0100_20150317_002962	Emergency (1)
+QUEST_LV_0100_20150317_002962	Notfall (1)
 QUEST_LV_0100_20150317_002963	I'll gather the magic
-QUEST_LV_0100_20150317_002964	Emergency (2)
+QUEST_LV_0100_20150317_002964	Notfall (2)
 QUEST_LV_0100_20150317_002965	Let's light the stone lanterns of the Royal Mausoleum
 QUEST_LV_0100_20150317_002966	Igniting/ MAKING/2/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002967	Emergency (3)
+QUEST_LV_0100_20150317_002967	Notfall (3)
 QUEST_LV_0100_20150317_002968	I'll guard the Magie Vessel
 QUEST_LV_0100_20150317_002969	Prevent the Corruption
 QUEST_LV_0100_20150317_002970	Find the corrupted cores and remove it
@@ -3229,7 +3229,7 @@ QUEST_LV_0100_20150317_003228	Trick of the Demon (2)
 QUEST_LV_0100_20150317_003229	I follow the whereabouts of Rexipher
 QUEST_LV_0100_20150317_003230	Don't chase
 QUEST_LV_0100_20150317_003231	Notice /! /Follow Rexipher and go to the Underground Mausoleum 3rd district! #7
-QUEST_LV_0100_20150317_003232	Friend or Foe Error
+QUEST_LV_0100_20150317_003232	Freund oder Feind Fehler
 QUEST_LV_0100_20150317_003233	Seems like it'd be better to defeat some guardians
 QUEST_LV_0100_20150317_003234	Deviated Guardian
 QUEST_LV_0100_20150317_003235	Besiege Shnayim
@@ -4854,7 +4854,7 @@ QUEST_LV_0100_20150317_004853	Caroline Canolyn told you that a monster called Mo
 QUEST_LV_0100_20150317_004854	Unfortunately, the toolbox wasn't there. Return and talk to Caroline Canolyn.
 QUEST_LV_0100_20150317_004855	Sprich mit Tara Miles
 QUEST_LV_0100_20150317_004856	Tara Miles wants your help.
-QUEST_LV_0100_20150317_004857	Besiege the monsters nearby
+QUEST_LV_0100_20150317_004857	Besiege die Monster in der Nähe
 QUEST_LV_0100_20150317_004858	Tara Miles is looking for someone who can defeat the monsters that are spreading a dangerous disease. Besiege Cockatrices nearby.
 QUEST_LV_0100_20150317_004859	You have defeated many of the monsters that are spreading disease. Return to Tara Miles.
 QUEST_LV_0100_20150317_004860	Tara Miles told you that she will be waiting at Negyvas Field. Find Tara Miles and talk to her.
@@ -7979,7 +7979,7 @@ QUEST_LV_0100_20150908_007978	Restoring the Monument
 QUEST_LV_0100_20150908_007979	You have acquired the treasures of Ruklys by restoring his monument.{nl}You have acquired 1 Status Point.
 QUEST_LV_0100_20150908_007980	You are enlightened after checking what was written on the tombstones of Lydia Schaffen{nl}You have acquired 1 Status Point!
 QUEST_LV_0100_20150908_007981	Preparing a live sacrifice
-QUEST_LV_0100_20150908_007982	Talking
+QUEST_LV_0100_20150908_007982	Sprechen
 QUEST_LV_0100_20150908_007983	Stop the Guardians from destroying the Royal Mausoleum!
 QUEST_LV_0100_20150908_007984	It seems that the Royal Mausoleum will collapse soon!{nl}Stop the Guardians attacking it!
 QUEST_LV_0100_20150908_007985	You can hear someone crying out!
@@ -8084,7 +8084,7 @@ QUEST_LV_0100_20150908_008083	You've restored the first seal of the seal tower!
 QUEST_LV_0100_20150908_008084	Persuade
 QUEST_LV_0100_20150908_008085	Leave the message that is written with the method to make the certificate
 QUEST_LV_0100_20150908_008086	The contents are about Ruklys
-QUEST_LV_0100_20150908_008087	Talking
+QUEST_LV_0100_20150908_008087	Sprechen
 QUEST_LV_0100_20150908_008088	Collecting wood
 QUEST_LV_0100_20150908_008089	Obtained wood
 QUEST_LV_0100_20150908_008090	You've found some hardtack!
@@ -8882,7 +8882,7 @@ QUEST_LV_0100_20151001_008881	Saving Owl Leader
 QUEST_LV_0100_20151001_008882	Sacred Young Tree of the Forest (1)
 QUEST_LV_0100_20151001_008883	Sacred Young Tree of the Forest (2)
 QUEST_LV_0100_20151001_008884	Reliable Assistant
-QUEST_LV_0100_20151001_008885	Forest Corrupted by the Demons
+QUEST_LV_0100_20151001_008885	Die Dämonen beschädigen den Wald
 QUEST_LV_0100_20151001_008886	Away From the Watch
 QUEST_LV_0100_20151001_008887	Omnious Black Flame
 QUEST_LV_0100_20151001_008888	Soul Trapping Device (1)
@@ -9024,7 +9024,7 @@ QUEST_LV_0100_20151001_009023	Tell him that you're not interested
 QUEST_LV_0100_20151001_009024	Suspicious Sanctum (3)
 QUEST_LV_0100_20151001_009025	Ich werde mich umschauen
 QUEST_LV_0100_20151001_009026	I will go there first
-QUEST_LV_0100_20151001_009027	Talking
+QUEST_LV_0100_20151001_009027	Sprechen
 QUEST_LV_0100_20151001_009028	Remembering the Thoughts of Life before Death
 QUEST_LV_0100_20151001_009029	I will help you joining the Order
 QUEST_LV_0100_20151001_009030	I will do it if it is for the Order
@@ -9383,7 +9383,7 @@ QUEST_LV_0100_20151001_009382	Hauberk is getting ready to say goodbye.
 QUEST_LV_0100_20151001_009383	Hauberk told you that he needs to keep the promise he made with Agatas so he asked you to hand over the spirit separating potion to him. If Agatas is still unconscious, put it inside his pocket.
 QUEST_LV_0100_20151001_009384	Endless Deals
 QUEST_LV_0100_20151001_009385	Sprich mit Squire Williya
-QUEST_LV_0100_20151001_009386	Squire Williya and Pardoner Erikas are having disputes at Mochia Forest. Sprich mit Squire Williya what's going on.
+QUEST_LV_0100_20151001_009386	Squire Williya und Pardoner Erikas sind in Mochia Forest in Streitigkeiten verwickelt. Sprich mit Squire Williya und frag was los ist.
 QUEST_LV_0100_20151001_009387	Collect Blue Paint
 QUEST_LV_0100_20151001_009388	Squire Williya told you that as a return for handing over the Scroll of the Dead, Pardoner Erikas wants Blue Paint. Besiege the monsters at Apgaudin Three Ways and collect Blue Paint.
 QUEST_LV_0100_20151001_009389	Hand them over to Pardoner Erikas
@@ -10545,7 +10545,7 @@ QUEST_LV_0100_20151022_010544	Talk about Mardas
 QUEST_LV_0100_20151022_010545	It worries me too
 QUEST_LV_0100_20151022_010546	Where could I find that evil energy?
 QUEST_LV_0100_20151022_010547	Eh? Evil energy? I don't want to go near it
-QUEST_LV_0100_20151022_010548	Trust me
+QUEST_LV_0100_20151022_010548	Vertrau' mir
 QUEST_LV_0100_20151022_010549	My life ain't cheap, pal. Why don't you do it?
 QUEST_LV_0100_20151022_010550	Ominous Black Smoke
 QUEST_LV_0100_20151022_010551	Soul Starvation (1)
@@ -10553,9 +10553,9 @@ QUEST_LV_0100_20151022_010552	Let's finish this once and for all
 QUEST_LV_0100_20151022_010553	I need to lie down a bit
 QUEST_LV_0100_20151022_010554	Soul Starvation (2)
 QUEST_LV_0100_20151022_010555	Using Romuva of Suppression
-QUEST_LV_0100_20151022_010556	A Chest Locked By Spell
+QUEST_LV_0100_20151022_010556	Eine Truhe verschlossen mit einem Zauber
 QUEST_LV_0100_20151022_010557	Some unknown force is keeping the chest shut!{nl}Destroy the monsters nearby to feed it spell
-QUEST_LV_0100_20151022_010558	A Story Left Behind by Eras
+QUEST_LV_0100_20151022_010558	Eine hinterlassene Geschichte von Eras
 QUEST_LV_0100_20151022_010559	Picking up the letter
 QUEST_LV_0100_20151022_010560	You've found a letter left by someone{nl}Find the possible recipient
 QUEST_LV_0100_20151022_010561	Talking about the letter
@@ -10604,7 +10604,7 @@ QUEST_LV_0100_20151022_010603	The alerted demons have been defeated. Now, use th
 QUEST_LV_0100_20151022_010604	Besiege %s
 QUEST_LV_0100_20151022_010605	The Soul Starvation is now destroyed. Report back to Mardas.
 QUEST_LV_0100_20151022_010606	Mardas carefully inspected the situation and said he will report it to the Owl Chief.
-QUEST_LV_0100_20151022_010607	Look inside the locked chest
+QUEST_LV_0100_20151022_010607	Guck in die verschlossene Truhe
 QUEST_LV_0100_20151022_010608	There is a mysterious chest. Open it and look inside.
 QUEST_LV_0100_20151022_010609	Inject the spell into the chest
 QUEST_LV_0100_20151022_010610	An unknown force is keeping the chest shut. Besiege the monsters nearby to inject spell into it.
@@ -10967,7 +10967,7 @@ QUEST_LV_0100_20151102_010966	Thank you for helping us out.{nl}May the blessing 
 QUEST_LV_0100_20151102_010967	And to save you...{nl}You had to be hidden amongst all the Revelators. There was no other way.{nl}
 QUEST_LV_0100_20151102_010968	Besiege the Infro Holder Shamans and Chafperor chasing Bronius!
 QUEST_LV_0100_20151102_010969	Using the Namott of Suppression
-QUEST_LV_0100_20151102_010970	I will think about it
+QUEST_LV_0100_20151102_010970	Ich werde darüber nachdenken
 QUEST_LV_0100_20151102_010971	Basic Magie [Wizard Advancement]
 QUEST_LV_0100_20151102_010972	The Energy of Fire [Pyromancer Advancement]
 QUEST_LV_0100_20151102_010973	Take a look at my compatibility with fire.
@@ -11160,11 +11160,11 @@ QUEST_LV_0100_20151102_011159	You've found all the stuff you've been asked to. R
 QUEST_LV_0100_20151102_011160	Obtain %s in the reeds forest at the Apsimesti Crossroads
 QUEST_LV_0100_20151102_011161	Besiege the monsters at the Apsimesti Crossroads while under the influence of the Barbarian's potion. You must do it alone.
 QUEST_LV_0100_20151102_011162	Corrupted Lake
-QUEST_LV_0100_20151102_011163	Sprich mit Dorf Elder Aloizard
-QUEST_LV_0100_20151102_011164	Elder Aloizard is in danger.
+QUEST_LV_0100_20151102_011163	Sprich mit dem Dorfältesten Aloizard
+QUEST_LV_0100_20151102_011164	Ältester Aloizard ist in Gefahr.
 QUEST_LV_0100_20151102_011165	Besiege eight of the nearby monsters
-QUEST_LV_0100_20151102_011166	Elder Aloizard says the road back to town is blocked by the monsters.
-QUEST_LV_0100_20151102_011167	Tell Elder Aloizard that all nearby monsters have been defeated.
+QUEST_LV_0100_20151102_011166	Ältester Aloizard says the road back to town is blocked by the monsters.
+QUEST_LV_0100_20151102_011167	Erzähl dem Ältesten Aloizard that all nearby monsters have been defeated.
 QUEST_LV_0100_20151102_011168	Besiege nearby monsters
 QUEST_LV_0100_20151102_011169	Sprich mit the Elder's Granddaughter
 QUEST_LV_0100_20151102_011170	The granddaughter needs your help.
@@ -13310,12 +13310,12 @@ QUEST_LV_0100_20151224_013309	Napalis
 QUEST_LV_0100_20151224_013310	You saved my life.{nl}I was being chased by that huge monster and had to hide in here.{nl}
 QUEST_LV_0100_20151224_013311	I should go back to where the others are.{nl}Thank you so much for saving me!
 QUEST_LV_0100_20151224_013312	Nothing... Nothing terrible happened, I hope?
-QUEST_LV_0100_20151224_013313	Looking at that red water makes me feel terrible.{nl}It's not even good to drink... not to mention it ruined our crops.{nl}
-QUEST_LV_0100_20151224_013314	The waste was monumental.{nl}Our vegetables grew huge, but they were all left to rot as we couldn't eat them.{nl}
+QUEST_LV_0100_20151224_013313	Der Blick auf das Wasser fühlt sich schrecklich an.{nl}Es ist nicht einmal gut genug um es zu trinken. Nicht zu vergessen dass es unsere Ernte ruiniert hat.{nl}
+QUEST_LV_0100_20151224_013314	Der Abfall war gewaltig.{nl}Unser Gemüse wurde riesig, doch sie verfaulten alle und wir konnten sie nicht essen.{nl}
 QUEST_LV_0100_20151224_013315	Everyone in the village was ready to go out and find the reason why the water turned red, but...{nl}The only person who has actually fought any monsters is Modis, the hunter.{nl}
 QUEST_LV_0100_20151224_013316	I saw you fight those monsters earlier and you were really good.{nl}If that's okay, will you clear out some monsters around here?
 QUEST_LV_0100_20151224_013317	We should be fine if we just stick together...{nl}I hope we don't run into trouble on our way to the village.
-QUEST_LV_0100_20151224_013318	So it was right, what I saw. I knew it.{nl}Thank you!{nl}
+QUEST_LV_0100_20151224_013318	Ich lag richtig mit dem was ich sah. Ich wusste es.{nl}Danke!{nl}
 QUEST_LV_0100_20151224_013319	I still feel a little uneasy, though...
 QUEST_LV_0100_20151224_013320	The ground trembling... it seems odd.{nl}I wonder if it's related to the experiment...{nl}
 QUEST_LV_0100_20151224_013321	Oh, right, my grandfather! I forgot about him.{nl}Please go back to the Absenta Reservoir, I don't want him to get in trouble again.
@@ -13471,7 +13471,7 @@ QUEST_LV_0100_20151224_013470	Talk about Mardas
 QUEST_LV_0100_20151224_013471	Where is this evil energy?
 QUEST_LV_0100_20151224_013472	That sounds dangerous; I'd rather not.
 QUEST_LV_0100_20151224_013473	Eery Black Spirit
-QUEST_LV_0100_20151224_013474	Setting up Namott of Suppression
+QUEST_LV_0100_20151224_013474	Aufstellung von Namott der Unterdrückung
 QUEST_LV_0100_20151224_013475	I don't think my skills are enough for that
 QUEST_LV_0100_20151224_013476	I don't want that
 QUEST_LV_0100_20151224_013477	What do I need to do?
@@ -13764,8 +13764,8 @@ QUEST_LV_0100_20151224_013763	There's no way the goddesses would do that
 QUEST_LV_0100_20151224_013764	That sounds suspicious, but I'll go
 QUEST_LV_0100_20151224_013765	I don't think this is it
 QUEST_LV_0100_20151224_013766	I have nothing to do there
-QUEST_LV_0100_20151224_013767	I can help you with that
-QUEST_LV_0100_20151224_013768	I have no time for that, sorry
+QUEST_LV_0100_20151224_013767	Ich kann dir damit helfen
+QUEST_LV_0100_20151224_013768	Ich habe keine Zeit dafür, tut mir leid
 QUEST_LV_0100_20151224_013769	Relaying the contents of the diary
 QUEST_LV_0100_20151224_013770	It's not time for that yet
 QUEST_LV_0100_20151224_013771	Joining Forces
@@ -13855,7 +13855,7 @@ QUEST_LV_0100_20151224_013854	Find the Guide Owl Sculptures at Letas Stream
 QUEST_LV_0100_20151224_013855	The Owl Chief Sculpture requested you gather the energy of Karolis Springs and deliver it to the Guide Owl Sculptures. Go find the Guide Owl Sculptures.
 QUEST_LV_0100_20151224_013856	The Owl Chief Sculpture requested a divine branch of Letas in order to defeat the demons. Use the crystal containing the energy of Karolis Springs to find the holy tree of Letas and obtain a branch.
 QUEST_LV_0100_20151224_013857	Mardas seems to have finally found a solution after discussing with the Owl Chief Sculpture. Listen to what Mardas has to say.
-QUEST_LV_0100_20151224_013858	Clear out the evil energy contaminating the forest
+QUEST_LV_0100_20151224_013858	Säubere die Böse Energie welche den Wald verunreinigt
 QUEST_LV_0100_20151224_013859	The first thing to do is eliminate the evil energy contaminating the forest. Set up the Namott of Suppression around the evil energy to clear it out.
 QUEST_LV_0100_20151224_013860	You have cleared out all of the evil energy. Go back to Mardas and tell him about it.
 QUEST_LV_0100_20151224_013861	You have eliminated all of the evil energy. Sprich mit Mardas about what to do next.
@@ -14386,13 +14386,13 @@ QUEST_LV_0100_20151224_014385	Agent Orwen seems worried about the sudden horde o
 QUEST_LV_0100_20151224_014386	Remove the Ominous Magie Circles
 QUEST_LV_0100_20151224_014387	Agent Orwen says the demons have created a series of unknown magic circles. Remove the magic circles created by the demons at the Naudingas Felled Area.
 QUEST_LV_0100_20151224_014388	You have eliminated all visible magic circles. Go back and tell Agent Orwen.
-QUEST_LV_0100_20151224_014389	Agent Notres looks furious. Ask Agent Notres what is wrong.
+QUEST_LV_0100_20151224_014389	Agent Notres sieht sauer aus. Frag Agent Notres was los ist.
 QUEST_LV_0100_20151224_014390	Besiege the monsters at the Deer Hooves Lot
 QUEST_LV_0100_20151224_014391	Agent Notres thinks it doesn't make sense to move the people migrating to Orsha to the Deer Hooves Lot. First, they want you to check whether it would be possible to defeat the monsters there.
 QUEST_LV_0100_20151224_014392	Check out at the Deer Hooves Lot
 QUEST_LV_0100_20151224_014393	Agent Notres has asked you to check whether the Deer Hooves Lot can be used to make a temporary settler camp. Go there and see whether it is safe.
 QUEST_LV_0100_20151224_014394	The Deer Hooves Lot doesn't seem like a safe place for the settlers. Go and tell Agent Notres about it.
-QUEST_LV_0100_20151224_014395	Agent Notres seems to need your help. Sprich mit Agent Notres.
+QUEST_LV_0100_20151224_014395	Agent Notres scheint deine Hilfe zu brauchen. Sprich mit Agent-Notres.
 QUEST_LV_0100_20151224_014396	Agent Notres was sent to collect blood from monsters in order to find out what is making them so ferocious, but it's not an easy task. Besiege some monsters at Rohonsa Cliff and help collect their contaminated blood.
 QUEST_LV_0100_20151224_014397	Deliver to Agent Notres
 QUEST_LV_0100_20151224_014398	You have collected enough contaminated blood. Bring it to Agent Notres.
@@ -14489,14 +14489,14 @@ QUEST_LV_0100_20151224_014488	Besiege the demons marked by the Orb
 QUEST_LV_0100_20151224_014489	According to Priest Auranas, using this orb will point out high-rank demons. Use the orb and defeat the demons signaled by it.
 QUEST_LV_0100_20151224_014490	The demon subordinates look confused without their superiors around. Bericht an Priest Auranas.
 QUEST_LV_0100_20151224_014491	Besiege the demons marked by the Orb
-QUEST_LV_0100_20151224_014492	Priest Draznie looks deep in worry. Sprich mit Priest Draznie.
+QUEST_LV_0100_20151224_014492	Priester Draznie looks deep in worry. Sprich mit Priester Draznie.
 QUEST_LV_0100_20151224_014493	Besiege the monsters in the Special Prison District
-QUEST_LV_0100_20151224_014494	Priest Draznie is looking for a safe place for the priests to take refuge. Besiege the monsters in the Special Prison District to make it a safe shelter for the priests.
-QUEST_LV_0100_20151224_014495	Bericht an Priest Draznie
-QUEST_LV_0100_20151224_014496	You have defeated enough demons. Go and tell Priest Draznie.
-QUEST_LV_0100_20151224_014497	Priest Draznie requires your help. Sprich mit Priest Draznie.
-QUEST_LV_0100_20151224_014498	Priest Draznie thinks it's time to use the trap prepared by Priest Auranas. Your job is to lure the demons into the trap set up in the Solitary Cells area, where they should be easily defeated.
-QUEST_LV_0100_20151224_014499	You have defeated the demons with ease thanks to the trap. Tell Priest Draznie about it.
+QUEST_LV_0100_20151224_014494	Priester Draznie is looking for a safe place for the priests to take refuge. Besiege the monsters in the Special Prison District to make it a safe shelter for the priests.
+QUEST_LV_0100_20151224_014495	Bericht an Priester Draznie
+QUEST_LV_0100_20151224_014496	You have defeated enough demons. Go and tell Priester Draznie.
+QUEST_LV_0100_20151224_014497	Priester Draznie requires your help. Sprich mit Priester Draznie.
+QUEST_LV_0100_20151224_014498	Priester Draznie thinks it's time to use the trap prepared by Priest Auranas. Your job is to lure the demons into the trap set up in the Solitary Cells area, where they should be easily defeated.
+QUEST_LV_0100_20151224_014499	You have defeated the demons with ease thanks to the trap. Tell Priester Draznie about it.
 QUEST_LV_0100_20151224_014500	Priest Irma says there is another cursed idol here. Keep talking to Priest Irma.
 QUEST_LV_0100_20151224_014501	Release the Altar Spirit on your way to the Sekunde Watchtower
 QUEST_LV_0100_20151224_014502	Priest Irma wants to release the spirit of the closest altar to clear out the energy of the cursed idol. With the power of the Revelators, release the spirit on your way to the Sekunde Watchtower.
@@ -14893,9 +14893,9 @@ QUEST_LV_0100_20160323_014892	Sammle die mangelhaften Waren ein
 QUEST_LV_0100_20160323_014893	We should let that go
 QUEST_LV_0100_20160323_014894	Tage zum vergessen
 QUEST_LV_0100_20160323_014895	I don't want to get my hands dirty
-QUEST_LV_0100_20160323_014896	Camping Preparations
-QUEST_LV_0100_20160323_014897	Check the Luftreiniger in 3F
-QUEST_LV_0100_20160323_014898	Check the Luftreiniger in Crystal Mine 3F
+QUEST_LV_0100_20160323_014896	Camping Vorbereitungen
+QUEST_LV_0100_20160323_014897	Prüfe die Luftreiniger in 3F
+QUEST_LV_0100_20160323_014898	Prüfe die Luftreiniger in Crystal Mine 3F
 QUEST_LV_0100_20160323_014899	Collect Crystal Magie
 QUEST_LV_0100_20160323_014900	The purifier on the 3rd floor is disabled for lack of energy. Find magic crystals and charge the emergency power source with their magic, then  use it to provide energy to the 3F Luftreiniger.
 QUEST_LV_0100_20160323_014901	Besorge Energie für die 3F Luftreiniger
@@ -14905,23 +14905,23 @@ QUEST_LV_0100_20160323_014904	Remove the Plateau Sugar Beet Stems
 QUEST_LV_0100_20160323_014905	Watcher Molly believes the reason the Pantos started acting strange from eating the Plateau Sugar Beets. She requested you get destroy all the Plateau Sugar Beets.
 QUEST_LV_0100_20160323_014906	You have removed enough Plateau Sugar Beets. Bericht an Watcher Molly.
 QUEST_LV_0100_20160323_014907	Watcher Molly is waiting for help at the Gele Plateau
-QUEST_LV_0100_20160323_014908	Hunt Monsters
+QUEST_LV_0100_20160323_014908	Jage Monster
 QUEST_LV_0100_20160323_014909	Watcher Molly wants to gather information on the monsters in order to more effectively use a shaman doll at Gele Plateau. Besiege Spion Archers, Leaflies and Malis to learn how to handle these new monsters.
 QUEST_LV_0100_20160323_014910	Bericht an Watcher Molly
 QUEST_LV_0100_20160323_014911	You have collected sufficient information for Watcher Molly. Go back and report to her about what you learned fighting the monsters.
-QUEST_LV_0100_20160323_014912	Priest Draznie is looking for help in Ashaq Underground Prison 2F
+QUEST_LV_0100_20160323_014912	Priester Draznie sucht Hilfe in Ashaq Underground Prison 2F
 QUEST_LV_0100_20160323_014913	Collect Faulty Traps
-QUEST_LV_0100_20160323_014914	Priest Draznie has asked you to collect some traps she set up a long time ago. According to her, most traps are set up in the Waiting Room and the Supply Room.
-QUEST_LV_0100_20160323_014915	Return the Faulty Traps to Priest Draznie
-QUEST_LV_0100_20160323_014916	You have collected a Groß number of traps. Bring them to Priest Draznie.
-QUEST_LV_0100_20160323_014917	Priest Gelija is waiting for help in Ashaq Underground Prison 3F
+QUEST_LV_0100_20160323_014914	Priester Draznie has asked you to collect some traps she set up a long time ago. According to her, most traps are set up in the Waiting Room and the Supply Room.
+QUEST_LV_0100_20160323_014915	Return the Faulty Traps to Priester Draznie
+QUEST_LV_0100_20160323_014916	You have collected a Groß number of traps. Bring them to Priester Draznie.
+QUEST_LV_0100_20160323_014917	Priest Gelija wartet auf Hilfe in Ashaq Underground Prison 3F
 QUEST_LV_0100_20160323_014918	Varv Extermination
 QUEST_LV_0100_20160323_014919	Priest Gelija has asked you to clear out the Varvs that have been terrorizing the priests in Ashaq Underground Prison. They are often found at the Felon Prison.
 QUEST_LV_0100_20160323_014920	Bericht an Priest Gelija
 QUEST_LV_0100_20160323_014921	You have clear out enough Varvs. Bericht an Gelija.
-QUEST_LV_0100_20160323_014922	Exterminate %s
-QUEST_LV_0100_20160323_014923	A traveling merchant in Koru Jungle is waiting for help
-QUEST_LV_0100_20160323_014924	Collect Blue Coal
+QUEST_LV_0100_20160323_014922	Vernichten %s
+QUEST_LV_0100_20160323_014923	Ein fahrender Händler im Koru Jungle wartet auf Hilfe
+QUEST_LV_0100_20160323_014924	Sammle Blue Coal
 QUEST_LV_0100_20160323_014925	The merchant wants to retrieve some blue coal they buried in Koru Jungle to help them make it through until the group has recovered. Go to Goram Shores and Saunu Brook and find the pieces of blue coal in the piles of dirt.
 QUEST_LV_0100_20160323_014926	Deliver the Blue Coal to the merchant
 QUEST_LV_0100_20160323_014927	You have collected enough blue coal. Deliver it to the merchant.

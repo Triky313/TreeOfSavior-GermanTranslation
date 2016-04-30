@@ -336,10 +336,10 @@ QUEST_UNUSED_20150729_000335	The Journey to Find Myself (3)
 QUEST_UNUSED_20150729_000336	The Journey to Find Myself (4)
 QUEST_UNUSED_20150729_000337	The Journey to Find Myself (5)
 QUEST_UNUSED_20150729_000338	The Journey to Find Myself (6)
-QUEST_UNUSED_20150729_000339	An Endless Deal (1)
-QUEST_UNUSED_20150729_000340	An Endless Deal (2)
-QUEST_UNUSED_20150729_000341	An Endless Deal (3)
-QUEST_UNUSED_20150729_000342	An Endless Deal (4)
+QUEST_UNUSED_20150729_000339	Ein Endloses Geschäft (1)
+QUEST_UNUSED_20150729_000340	Ein Endloses Geschäft (2)
+QUEST_UNUSED_20150729_000341	Ein Endloses Geschäft (3)
+QUEST_UNUSED_20150729_000342	Ein Endloses Geschäft (4)
 QUEST_UNUSED_20150729_000343	The Legwyn Family's Tragedy (1)
 QUEST_UNUSED_20150729_000344	The Legwyn Family's Tragedy (2)
 QUEST_UNUSED_20150729_000345	The Legwyn Family's Tragedy (3)
@@ -624,9 +624,9 @@ QUEST_UNUSED_20151001_000623	Groß-Scale Search Operation (5)
 QUEST_UNUSED_20151001_000624	Groß-Scale Search Operation (6)
 QUEST_UNUSED_20151001_000625	Support Activities
 QUEST_UNUSED_20151001_000626	The Suspicious Location
-QUEST_UNUSED_20151001_000627	Preliminary Investigation (1)
-QUEST_UNUSED_20151001_000628	Preliminary Investigation (2)
-QUEST_UNUSED_20151001_000629	The Corrupted Monster
+QUEST_UNUSED_20151001_000627	Voruntersuchung (1)
+QUEST_UNUSED_20151001_000628	Voruntersuchung (2)
+QUEST_UNUSED_20151001_000629	Die verdorbenen Monster
 QUEST_UNUSED_20151001_000630	Precious Life and Money
 QUEST_UNUSED_20151001_000631	Retrieve the capital
 QUEST_UNUSED_20151001_000632	The Dangerous Trace (1)
@@ -1665,7 +1665,7 @@ QUEST_UNUSED_20151022_001664	By using the dog's olfactory sense, roge wants to l
 QUEST_UNUSED_20151022_001665	The dog's stamina came back to look for the colleagues of Rose. Tell this to Rose.
 QUEST_UNUSED_20151022_001666	Look for the merchants using the dog's olfactory sense
 QUEST_UNUSED_20151022_001667	Let the dog smell the clothes that contain the merchant's odor and look for the merchant
-QUEST_UNUSED_20151022_001668	Sprich mit dem merchant
+QUEST_UNUSED_20151022_001668	Sprich mit dem Händler
 QUEST_UNUSED_20151022_001669	It seems that you've found most of the merchants. Sprich mit dem merchants.
 QUEST_UNUSED_20151022_001670	Sprich mit dem merchants
 QUEST_UNUSED_20151022_001671	Besiege the demons that are threatening the merchants
@@ -1860,11 +1860,11 @@ QUEST_UNUSED_20151022_001859	Priest Auranas brought various traps and goods for 
 QUEST_UNUSED_20151022_001860	Besiege the demons
 QUEST_UNUSED_20151022_001861	Priest Auranas told you that when you use the orbs that are made of pearls, you would be able to find the demons that are ranked high. When you use the orbs, you would be able to bind the high ranked demons and the spirits of the subordinate demons together and if you defeat high ranked demons, you would be able to defeat subordinate demons simultaneously.
 QUEST_UNUSED_20151022_001862	Besiege the high ranked demons
-QUEST_UNUSED_20151022_001863	Sprich mit Priest Draznie
-QUEST_UNUSED_20151022_001864	Sprich mit Priest Draznie
-QUEST_UNUSED_20151022_001865	Priest Draznie asked you to defeat the demons that rushed into the 3rd district.
+QUEST_UNUSED_20151022_001863	Sprich mit Priester Draznie
+QUEST_UNUSED_20151022_001864	Sprich mit Priester Draznie
+QUEST_UNUSED_20151022_001865	Priester Draznie asked you to defeat the demons that rushed into the 3rd district.
 QUEST_UNUSED_20151022_001866	Lure the demons into the traps
-QUEST_UNUSED_20151022_001867	Priest Draznie told you that the time has come to use the trap with Priest Auranas. If you could take the demons to the trap that is set up in the poisonous room at the 4th district, you would be able to defeat the demons.
+QUEST_UNUSED_20151022_001867	Priester Draznie told you that the time has come to use the trap with Priest Auranas. If you could take the demons to the trap that is set up in the poisonous room at the 4th district, you would be able to defeat the demons.
 QUEST_UNUSED_20151022_001868	Sprich mit Priest Gelija
 QUEST_UNUSED_20151022_001869	Sprich mit Priest Gelija
 QUEST_UNUSED_20151022_001870	Priest Irma told you that he should go to the place where the demons' written instruction is hidden, but due to the curse totem, he doesn't have power to say the spell. Destroy the curse totem and help Iruma.
@@ -2770,7 +2770,7 @@ QUEST_UNUSED_20151102_002769	Samsonas
 QUEST_UNUSED_20151102_002770	You're the traveler?{nl}I'm going to pray to the goddesses to make the lake clean again. {nl}Before the lake was contaminated I once saw people make offerings to an obelisk around here.
 QUEST_UNUSED_20151102_002771	You're the traveler?{nl}I'm going to pray to the goddesses to make the lake clean again. {nl}Before the lake was contaminated I once saw people make offerings to an obelisk around here.
 QUEST_UNUSED_20151102_002772	Please do me this favor.
-QUEST_UNUSED_20151102_002773	You got it! Thank you for your help.
+QUEST_UNUSED_20151102_002773	Du hast es! Danke für deine Hilfe.
 QUEST_UNUSED_20151102_002774	Nikodemas
 QUEST_UNUSED_20151102_002775	You wouldn't happen to have seen a young man around here?{nl}He said he was just going somewhere but hasn't been back since.{nl}Someone saw him head to the Absenta Reservoir.{nl}If you're going that way, would you look for him?
 QUEST_UNUSED_20151102_002776	It'll be okay, I hope...
@@ -2787,39 +2787,39 @@ QUEST_UNUSED_20151102_002786	We came up all together but it's too dangerous here
 QUEST_UNUSED_20151102_002787	Thanks to you I was able to come back to my people.{nl}Thank you.
 QUEST_UNUSED_20151102_002788	Hm...?{nl}Why is the ground shaking?
 QUEST_UNUSED_20151102_002789	I should go, something could have happened to the villagers.{nl}I apologize if I'm being a little shameless, but would you help us some more?
-QUEST_UNUSED_20151102_002790	Where?
-QUEST_UNUSED_20151102_002791	That has nothing to do with me
-QUEST_UNUSED_20151102_002792	I'll help you find your colleagues
-QUEST_UNUSED_20151102_002793	Let's go back to Rose
-QUEST_UNUSED_20151102_002794	What are the symptoms?
+QUEST_UNUSED_20151102_002790	Wo?
+QUEST_UNUSED_20151102_002791	Das hat nichts mit mir zu tun
+QUEST_UNUSED_20151102_002792	Ich werde helfen deinen Kollegen zu finden
+QUEST_UNUSED_20151102_002793	Lass zurück zu Rose
+QUEST_UNUSED_20151102_002794	Was sind die Symptome?
 QUEST_UNUSED_20151102_002795	Tell the Cleric Klassenmeister about Kräutersammler Tales' symptoms
 QUEST_UNUSED_20151102_002796	Giving the medicine to Kräutersammler Tales
-QUEST_UNUSED_20151102_002797	Keep looking
-QUEST_UNUSED_20151102_002798	I'll talk to the village resident
-QUEST_UNUSED_20151102_002799	We should hurry
+QUEST_UNUSED_20151102_002797	Weiter suchen
+QUEST_UNUSED_20151102_002798	Ich werde mit den Dorfbewohnern sprechen
+QUEST_UNUSED_20151102_002799	Wir sollten uns beeilen
 QUEST_UNUSED_20151102_002800	I'll find the XX essence
-QUEST_UNUSED_20151102_002801	Let's do it later
-QUEST_UNUSED_20151102_002802	I'll help Rose
+QUEST_UNUSED_20151102_002801	Lass das später tun
+QUEST_UNUSED_20151102_002802	Ich werde Rose helfen
 QUEST_UNUSED_20151102_002803	I can't help her
 QUEST_UNUSED_20151102_002804	I'll check whether I have a recovery potion
 QUEST_UNUSED_20151102_002805	I'll give you one later
 QUEST_UNUSED_20151102_002806	I'll defeat the demons around here
 QUEST_UNUSED_20151102_002807	I ought to run away, then
 QUEST_UNUSED_20151102_002808	I'll find their belongings
-QUEST_UNUSED_20151102_002809	You find them yourself
+QUEST_UNUSED_20151102_002809	Du findest sie selber
 QUEST_UNUSED_20151102_002810	I'll look for them later
-QUEST_UNUSED_20151102_002811	I'll go into the room
+QUEST_UNUSED_20151102_002811	Ich werde in den Raum gehen
 QUEST_UNUSED_20151102_002812	I'll switch off the confinement device
 QUEST_UNUSED_20151102_002813	Ask someone else for help
-QUEST_UNUSED_20151102_002814	I'll go find your backpack
-QUEST_UNUSED_20151102_002815	I'll find it myself
+QUEST_UNUSED_20151102_002814	Ich werde deinen Rucksack finden
+QUEST_UNUSED_20151102_002815	Ich werde es selbst finden
 QUEST_UNUSED_20151102_002816	I'll head to the experiment site
-QUEST_UNUSED_20151102_002817	I'll go later
-QUEST_UNUSED_20151102_002818	I'll get back the holy relic
+QUEST_UNUSED_20151102_002817	Ich gehe später
+QUEST_UNUSED_20151102_002818	Ich bekomme das Heilige Relikt zurück
 QUEST_UNUSED_20151102_002819	I'll set up the holy relic
 QUEST_UNUSED_20151102_002820	I'll set it up myself
-QUEST_UNUSED_20151102_002821	I'll try
-QUEST_UNUSED_20151102_002822	I'm not doing that
+QUEST_UNUSED_20151102_002821	Ich versuche es
+QUEST_UNUSED_20151102_002822	Ich mache das nicht
 QUEST_UNUSED_20151102_002823	I'll gather some
 QUEST_UNUSED_20151102_002824	I'll remove the crystal
 QUEST_UNUSED_20151102_002825	Ich rette Rose
@@ -2834,21 +2834,21 @@ QUEST_UNUSED_20151102_002833	I'll find the experiment journal
 QUEST_UNUSED_20151102_002834	I'll shut down the device
 QUEST_UNUSED_20151102_002835	Let Edmundas do it
 QUEST_UNUSED_20151102_002836	The Demons' Goals
-QUEST_UNUSED_20151102_002837	Are you all right?
+QUEST_UNUSED_20151102_002837	Bist du in Ordnung?
 QUEST_UNUSED_20151102_002838	Gotta go, sorry
 QUEST_UNUSED_20151102_002839	Find Mayor Romanas (1)
 QUEST_UNUSED_20151102_002840	Find Mayor Romanas (2)
-QUEST_UNUSED_20151102_002841	Be careful
+QUEST_UNUSED_20151102_002841	Sei vorsichtig
 QUEST_UNUSED_20151102_002842	There's no need to hurry
 QUEST_UNUSED_20151102_002843	Find Mayor Romanas (3)
 QUEST_UNUSED_20151102_002844	Find Mayor Romanas (4)
-QUEST_UNUSED_20151102_002845	I'll wait
+QUEST_UNUSED_20151102_002845	Ich werde warten
 QUEST_UNUSED_20151102_002846	Follow the green arrow to enter Orsha
 QUEST_UNUSED_20151102_002847	Worship the Statue der Göttin Ausrine in the Central Plaza!
 QUEST_UNUSED_20151102_002848	Find the Schaden Merchant
 QUEST_UNUSED_20151102_002849	Find the Accessory Merchant
 QUEST_UNUSED_20151102_002850	Inesa Hamondale is looking for you
-QUEST_UNUSED_20151102_002851	Talking
+QUEST_UNUSED_20151102_002851	Sprechen
 QUEST_UNUSED_20151102_002852	Just tell me where to go
 QUEST_UNUSED_20151102_002853	If it's too complicated, I'll pass
 QUEST_UNUSED_20151102_002854	They're in perfect condition
@@ -2865,7 +2865,7 @@ QUEST_UNUSED_20151102_002864	For Those Who Remember Them
 QUEST_UNUSED_20151102_002865	Be Considerate to the Next Person
 QUEST_UNUSED_20151102_002866	Reutilizing Resources
 QUEST_UNUSED_20151102_002867	Unfortunate Distrust
-QUEST_UNUSED_20151102_002868	Fast Return
+QUEST_UNUSED_20151102_002868	Schnelle rückkehr
 QUEST_UNUSED_20151102_002869	The Investigation Continues
 QUEST_UNUSED_20151102_002870	Rash Judgement
 QUEST_UNUSED_20151102_002871	Device Blocking Operation
@@ -2877,7 +2877,7 @@ QUEST_UNUSED_20151102_002876	Paustas Tracking Operation (1)
 QUEST_UNUSED_20151102_002877	Paustas Tracking Operation (2)
 QUEST_UNUSED_20151102_002878	Set The Trap
 QUEST_UNUSED_20151102_002879	Swap the Spirit
-QUEST_UNUSED_20151102_002880	The Path to Him
+QUEST_UNUSED_20151102_002880	Der Weg zu ihm
 QUEST_UNUSED_20151102_002881	Unexpected Side Effects
 QUEST_UNUSED_20151102_002882	This Is Just The Beginning
 QUEST_UNUSED_20151102_002883	So It May Never Be Repeated
@@ -2886,9 +2886,9 @@ QUEST_UNUSED_20151102_002885	Finding Clues to the Plot
 QUEST_UNUSED_20151102_002886	Thorough Procedure
 QUEST_UNUSED_20151102_002887	Now we can rest...
 QUEST_UNUSED_20151102_002888	I'll go; what do the herbs look like?
-QUEST_UNUSED_20151102_002889	Stay quiet
-QUEST_UNUSED_20151102_002890	I'll destroy the totems
-QUEST_UNUSED_20151102_002891	I'll refuse
+QUEST_UNUSED_20151102_002889	Bleib ruhig
+QUEST_UNUSED_20151102_002890	Ich werde die Totems zerstören
+QUEST_UNUSED_20151102_002891	Ich lehne ab
 QUEST_UNUSED_20151102_002892	That's a bit too much
 QUEST_UNUSED_20151102_002893	Retrieving the red water
 QUEST_UNUSED_20151102_002894	I'll go immediately
@@ -2902,9 +2902,9 @@ QUEST_UNUSED_20151102_002901	I'll try and destroy it
 QUEST_UNUSED_20151102_002902	I'll go right away
 QUEST_UNUSED_20151102_002903	Let's wait for a while
 QUEST_UNUSED_20151102_002904	I think that's going to be difficult
-QUEST_UNUSED_20151102_002905	One-Way Street
+QUEST_UNUSED_20151102_002905	Einbahnstraße
 QUEST_UNUSED_20151102_002906	I have no reason to go there
-QUEST_UNUSED_20151102_002907	Accident Prevention
+QUEST_UNUSED_20151102_002907	Unfallverhütung
 QUEST_UNUSED_20151102_002908	Got it
 QUEST_UNUSED_20151102_002909	The Wizard Master is complaining about no one stepping up to solve the monster problem despite the constant danger. Go to East Siauliai Woods and defeat the Ironbaum.
 QUEST_UNUSED_20151102_002910	Set Up the Namotts of Purification in Canyon Area 36_1
@@ -3027,7 +3027,7 @@ QUEST_UNUSED_20151102_003026	Priest Irma suggests you destroy the surveillance t
 QUEST_UNUSED_20151102_003027	Sprich mit Gelija
 QUEST_UNUSED_20151102_003028	What If Again
 QUEST_UNUSED_20151102_003029	Sprich mit Priest Auranas
-QUEST_UNUSED_20151102_003030	Sprich mit Priest Draznie
+QUEST_UNUSED_20151102_003030	Sprich mit Priester Draznie
 QUEST_UNUSED_20151102_003031	Besiege the monsters from District 3
 QUEST_UNUSED_20151102_003032	A Deeper Place
 QUEST_UNUSED_20151102_003033	Sprich mit Priest Gelija
@@ -3177,7 +3177,7 @@ QUEST_UNUSED_20151224_003176	Are you sure you're not hurt?{nl}The next tombstone
 QUEST_UNUSED_20151224_003177	Before I teach you, I can help you get a taste of what real combat is like.{nl}
 QUEST_UNUSED_20151224_003178	Magie Association Collection Request
 QUEST_UNUSED_20151224_003179	Looking forward to cooperate.
-QUEST_UNUSED_20151224_003180	I don't think I can help.
+QUEST_UNUSED_20151224_003180	Ich denke nicht dass ich helfen kann.
 QUEST_UNUSED_20151224_003181	Check the Stone of Requests
 QUEST_UNUSED_20151224_003182	Check the Magie Association's Stone of Requests.
 QUEST_UNUSED_20151224_003183	Obtain Monster Samples
@@ -3198,5 +3198,5 @@ QUEST_UNUSED_20151224_003197	The Linker Master is emphasizing the importance of 
 QUEST_UNUSED_20151224_003198	Deliver the Materials to the Linker Klassenmeister
 QUEST_UNUSED_20151224_003199	You have collected all materials needed for the experiment. Deliver them to the Linker Klassenmeister.
 QUEST_UNUSED_20151224_003200	You have defeated the Throneweaver that was destroying the owl statues. Go back and talk to the sad owl.
-QUEST_UNUSED_20151224_003201	Keep talking to Merrisa about the relic.
-QUEST_UNUSED_20151224_003202	You seem to have found the relic. Bring it to Merrisa.
+QUEST_UNUSED_20151224_003201	Sprich mit Merrisa über das Relikt.
+QUEST_UNUSED_20151224_003202	Du scheinst das Relikt gefunden zu haben. Bring es zu Merrisa.

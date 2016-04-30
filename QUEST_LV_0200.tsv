@@ -1370,10 +1370,10 @@ QUEST_LV_0200_20150317_001369	I'll get rid of the Throneweaver
 QUEST_LV_0200_20150317_001370	Give me some time to prepare
 QUEST_LV_0200_20150317_001371	Placing bait/SITGROPE/3/TRACK_BEFORE/None
 QUEST_LV_0200_20150317_001372	Do Not Enter
-QUEST_LV_0200_20150317_001373	Requesting Support
+QUEST_LV_0200_20150317_001373	Unterstützungs-Anfrage
 QUEST_LV_0200_20150317_001374	I will protect you
 QUEST_LV_0200_20150317_001375	Stay hidden
-QUEST_LV_0200_20150317_001376	Welcomed Uninvited Guest
+QUEST_LV_0200_20150317_001376	Willkommen ungebetener Gast
 QUEST_LV_0200_20150317_001377	Glorious Road
 QUEST_LV_0200_20150317_001378	Petrifying Frost Forecast (1)
 QUEST_LV_0200_20150317_001379	I will check it
@@ -4362,7 +4362,7 @@ QUEST_LV_0200_20150323_004361	Tell him to take the medicine
 QUEST_LV_0200_20150323_004362	You don't feel like offering him that much
 QUEST_LV_0200_20150323_004363	Desire for Normal Food (1)
 QUEST_LV_0200_20150323_004364	Desire for Normal Food (2)
-QUEST_LV_0200_20150323_004365	Walking on the Seeds
+QUEST_LV_0200_20150323_004365	Wandern auf den Samen
 QUEST_LV_0200_20150323_004366	Passing it Along (1)
 QUEST_LV_0200_20150323_004367	About Myrkiti Farm
 QUEST_LV_0200_20150323_004368	Passing it Along (2)
@@ -5040,8 +5040,8 @@ QUEST_LV_0200_20150323_005039	Remove the strange mark
 QUEST_LV_0200_20150323_005040	There were some strange things that were stuck into the ground as you were going to Dalius from Marius. It seems that they cause the food to get spoiled quickly. Let's try eliminating them on your way back to Marius.
 QUEST_LV_0200_20150323_005041	Return to Marius
 QUEST_LV_0200_20150323_005042	You've eliminated the things that were stuck into the ground. Tell this to Marius.
-QUEST_LV_0200_20150323_005043	Help Marius
-QUEST_LV_0200_20150323_005044	It seems that Marius has lots of tasks to do. Help him with his tasks.
+QUEST_LV_0200_20150323_005043	Hilf Marius
+QUEST_LV_0200_20150323_005044	Es scheint als wenn Marius viel zu tun hat. Hilf ihm bei seinen Aufgaben.
 QUEST_LV_0200_20150323_005045	Retrieve the seeds
 QUEST_LV_0200_20150323_005046	It seems that the monsters in the land of Baron Allerno stole the seeds. Retrieve the pockets of the seeds from the monsters that appear from everywhere in the land of Baron Allerno.
 QUEST_LV_0200_20150323_005047	Bring it to Marius

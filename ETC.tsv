@@ -3856,8 +3856,8 @@ ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
-ETC_20150317_003855	 - Repeatable ({Auto_1}/{Auto_2})
-ETC_20150317_003856	 - Repeatable ({Auto_1}/infinite)
+ETC_20150317_003855	 - Wiederholbar ({Auto_1}/{Auto_2})
+ETC_20150317_003856	 - Wiederholbar ({Auto_1}/infinite)
 ETC_20150317_003857	Check how many quests are in progress. You can have up to 10 at once.
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
@@ -12511,7 +12511,7 @@ ETC_20150714_012508	Not enough yet{nl}Inject more energy!
 ETC_20150714_012509	The Wisdom Guiding Stone has been summoned!
 ETC_20150714_012510	The orb is not in the box!
 ETC_20150714_012511	The spatial magic gem is sealed with the barrier so you can't pull it out
-ETC_20150714_012512	Talking
+ETC_20150714_012512	Sprechen
 ETC_20150714_012513	Scattering the purification powders
 ETC_20150714_012514	Ask about Jane
 ETC_20150714_012515	Ask him why he has come here
@@ -15230,7 +15230,7 @@ ETC_20151001_015227	Priest Pranas
 ETC_20151001_015228	Chaser Torvana
 ETC_20151001_015229	Chaser Daramaus
 ETC_20151001_015230	Priest Auranas
-ETC_20151001_015231	Priest Draznie
+ETC_20151001_015231	Priester Draznie
 ETC_20151001_015232	Priest Irma1
 ETC_20151001_015233	Priest Irma2
 ETC_20151001_015234	Priest Gelija
