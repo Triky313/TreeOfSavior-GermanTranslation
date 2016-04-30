@@ -2399,7 +2399,7 @@ ETC_20150317_002398	Female characters only
 ETC_20150317_002399	Gegenstand
 ETC_20150317_002400	Gegenstand needed
 ETC_20150317_002401	 required
-ETC_20150317_002402	Subquest Conditions{nl}
+ETC_20150317_002402	Nebenquest Bedingungen{nl}
 ETC_20150317_002403	You have not completed the pre-requisite of this quest. You cannot proceed with the party.
 ETC_20150317_002404	Murky energy is flowing out. Run away.
 ETC_20150317_002405	Successfully destroyed the Demon Summoner
@@ -9885,7 +9885,7 @@ ETC_20150323_009882	Klein Goddess Statue
 ETC_20150323_009883	Great Cathedral Footstep
 ETC_20150323_009884	Great Cathedral Device 1
 ETC_20150323_009885	Great Cathedral Device 2
-ETC_20150323_009886	Corrupted Altar
+ETC_20150323_009886	Verdorbener Altar
 ETC_20150323_009887	Pilgrim Statue
 ETC_20150323_009888	Offered flower
 ETC_20150323_009889	Crystal Processing Device
@@ -16359,7 +16359,7 @@ ETC_20151022_016356	Letas' Sacred Tree has shown up
 ETC_20151022_016357	Letas' Sapling
 ETC_20151022_016358	Obtaining the tree branches
 ETC_20151022_016359	Letas' Sacred Tree has already shown up
-ETC_20151022_016360	Using Letas' Sacred Branch
+ETC_20151022_016360	Verwende Letas Heiligen Zweig
 ETC_20151022_016361	You've been expelled to outside after being detected by the surveillance sphere
 ETC_20151022_016362	Removing the magic circle
 ETC_20151022_016363	You can feel ominous energy
@@ -19351,7 +19351,7 @@ ETC_20151224_019347	You didn't find Karolis' Light
 ETC_20151224_019348	Karolis' Light is already shining!
 ETC_20151224_019349	You've been expelled to outside after being detected by the surveillance sphere
 ETC_20151224_019350	All magic circles will reactivate due{nl} to an incorrect order of their release!
-ETC_20151224_019351	Spreading the energies of the forest
+ETC_20151224_019351	Verbreiten der Energien des Waldes
 ETC_20151224_019352	Using Psychokino's Scroll
 ETC_20151224_019353	All monsters are influenced by the scroll{nl}There is no target!
 ETC_20151224_019354	You've found the connection with monsters
@@ -19365,7 +19365,7 @@ ETC_20151224_019361	You've captured the monster
 ETC_20151224_019362	You've failed to capture the monster
 ETC_20151224_019363	Collecting Thorn Venum
 ETC_20151224_019364	There are no monsters that are capable to collect Thorn Venom
-ETC_20151224_019365	The evil spirit has been purified and being collected into the Tree Branch
+ETC_20151224_019365	Der böse Geist wurde gereinigt und in den Zweig gesammelt
 ETC_20151224_019366	Using Scroll
 ETC_20151224_019367	Casting the curse with the Incantation Tools
 ETC_20151224_019368	All monsters around are cursed

@@ -1437,15 +1437,15 @@ QUEST_LV_0100_20150317_001436	How many times must we pray to the Goddess Zemyna 
 QUEST_LV_0100_20150317_001437	This is the Divine District of the city of Fedimian. {nl}The Market District is currently closed, please accept that inconvenience.
 QUEST_LV_0100_20150317_001438	The Divine City, Fedimian, also had a Market District besides its Divine District.{nl}But the Market District was completely destroyed due to the earthquake during Medzio Diena.
 QUEST_LV_0100_20150317_001439	We are still reviving the city, but the city infrastructure is still old and crumbling quite a bit...{nl}At least, the Divine District is still left intact due to Zemyna's blessing.
-QUEST_LV_0100_20150317_001440	Believer Alvydas
+QUEST_LV_0100_20150317_001440	Gläubiger Alvydas
 QUEST_LV_0100_20150317_001441	It is because of our faith and dedication to Goddess Saule that we are able to endure {nl}such hardship. Would an unfaithful person want to stay in a terrible place like this?
-QUEST_LV_0100_20150317_001442	Believer Raminta
+QUEST_LV_0100_20150317_001442	Gläubige Raminta
 QUEST_LV_0100_20150317_001443	If that evil energy spreads to other forests...{nl}then they will probably also turn... like Kvailas Forest.{nl}And then the entire kingdom may also... It scares me.
-QUEST_LV_0100_20150317_001444	Believer Evaldas
+QUEST_LV_0100_20150317_001444	Gläubiger Evaldas
 QUEST_LV_0100_20150317_001445	Everyone is tired, but the evil energy never stops. So we at least try to stay happy. {nl} However, I don't know how long I can keep feeling happy.
-QUEST_LV_0100_20150317_001446	Believer Zaneta
-QUEST_LV_0100_20150317_001447	I want to tell to the people out there that we are still here.{nl}The goddess always tells us that everything will be alright when the revelation comes.
-QUEST_LV_0100_20150317_001448	Believer Simas
+QUEST_LV_0100_20150317_001446	Gläubige Zaneta
+QUEST_LV_0100_20150317_001447	Ich will den Menschen da draußen sagen, wir sind noch hier.{nl}Die Göttin hat uns immer gesagt dass alles in Ordnung sein wird, wenn die Offenbarung kommt.
+QUEST_LV_0100_20150317_001448	Gläubiger Simas
 QUEST_LV_0100_20150317_001449	I actually want to go to Fallen Worry Forest instead.{nl}I wanted to see the origin of the evil energy with my own eyes.
 QUEST_LV_0100_20150317_001450	There are rumors about Golems appearing so don't go far too deep. {nl}It'll be safer to take the bigger roads where there {nl}are less monsters or just head straight to Klaipeda.
 QUEST_LV_0100_20150317_001451	So, I guess there is actually someone good among those who say they've dreamed of a goddess.
@@ -1634,7 +1634,7 @@ QUEST_LV_0100_20150317_001633	Some purifiers don't immediately start working. {n
 QUEST_LV_0100_20150317_001634	There is a shopping plaza in the lower part of Klaipeda. {nl}Stop by and look around if you need anything.
 QUEST_LV_0100_20150317_001635	It'd be great if he continued to runaway. {nl}I mean, I'm not really sure. He was a really good friend of mine...
 QUEST_LV_0100_20150317_001636	Okay.{nl}Please find the Grave Protector Owl from the grave of the unknown warrior.{nl}If he could lend us his power, it will be a good chance to defeat Sequioa.
-QUEST_LV_0100_20150317_001637	Believer Adele
+QUEST_LV_0100_20150317_001637	Gläubige Adele
 QUEST_LV_0100_20150317_001638	The thorny vines are plants too, so they must be weak to strong acid.{nl}What do you think? Does it seem like a good idea?
 QUEST_LV_0100_20150317_001639	The Filibo?{nl}I wouldn't be worried if it only steals food.{nl}
 QUEST_LV_0100_20150317_001640	It bites on any materials or military equipments that are made of wood, and breaks medicine {nl}jars. There are holes from tent to tent. Last but not least, it is not afraid of anything. {nl}It will attack even if it sees people.
@@ -1663,9 +1663,9 @@ QUEST_LV_0100_20150317_001662	I hope the Thorn Forest returns to what it used to
 QUEST_LV_0100_20150317_001663	What is now the Thorn Forest was once a very beautiful forest.{nl}We, the Believers, used to hold sacred prayer ceremonies here.{nl}
 QUEST_LV_0100_20150317_001664	After the Demon Lord Bramble came to our forest, it became like this.{nl}I can't even remember the last time I heard the sound of a songbird. How I miss the old and {nl}beautiful forest...
 QUEST_LV_0100_20150317_001665	Every now and then, I miss what the forest used to be.{nl}I also miss listening to the words of Goddess Saule.
-QUEST_LV_0100_20150317_001666	Believer Virgis
+QUEST_LV_0100_20150317_001666	Gläubiger Virgis
 QUEST_LV_0100_20150317_001667	There's nothing that we can't accomplish with faith.{nl}If there is anything that we can't accomplish, then it's because our faith is not strong enough.
-QUEST_LV_0100_20150317_001668	Believer Nojus
+QUEST_LV_0100_20150317_001668	Gläubiger Nojus
 QUEST_LV_0100_20150317_001669	Revelator, please be careful.{nl}It seems as if a similar aura to that of the ominous voice is resonating throught the entire forest.{nl}Especially from the direction of Fallen Worry Forest... I'm sharp-eared on such things...
 QUEST_LV_0100_20150317_001670	Supplies Officer
 QUEST_LV_0100_20150317_001671	I am the supplies officer here.{nl}I received a list of neccessary supplies, but check out the length of this list.{nl}How am I suppose to handle all of these items on my own?{nl}
@@ -1981,7 +1981,7 @@ QUEST_LV_0100_20150317_001980	Believer Domas
 QUEST_LV_0100_20150317_001981	I am going to burn the thorny vines that are blocking the road.{nl}Can you help me?
 QUEST_LV_0100_20150317_001982	Please get me some Thornball Remains first. {nl}There are many of them at Geisma Access Road.
 QUEST_LV_0100_20150317_001983	There's a demon that I want you to defeat.{nl}The monster is called Likaous and it is at Thorny Pillar Garden. It brings vicious atmosphere with him.
-QUEST_LV_0100_20150317_001984	Now is the time to defeat it.{nl}We spent a long time finding it.
+QUEST_LV_0100_20150317_001984	Jetzt ist die Zeit es zu besiegen.{nl}Wir haben lange gebraucht um es zu finden.
 QUEST_LV_0100_20150317_001985	Fire will never catch on the thorny vines here.{nl}And I don't want to touch them due to their evil energy.
 QUEST_LV_0100_20150317_001986	Good job.{nl}I was worried that you would get hurt, but I guess I underestimated you.
 QUEST_LV_0100_20150317_001987	Four years ago, this forest was normal.{nl}But it has became like this ever since Bramble went deep into the forest.
@@ -2045,7 +2045,7 @@ QUEST_LV_0100_20150317_002044	Go up a bit more to get to the Rustybe Dead Tree A
 QUEST_LV_0100_20150317_002045	You're the Revelator right? {nl}A very ominous voice is looking for you, so please be careful.
 QUEST_LV_0100_20150317_002046	Have you seen my ring?{nl}If you see my ring, please bring it to me.
 QUEST_LV_0100_20150317_002047	My ring is full of divine energy so it will be hard for monsters to swallow it.{nl}Unless the monster is big.
-QUEST_LV_0100_20150317_002048	You found my ring! {nl}Thanks. Thank you so much!
+QUEST_LV_0100_20150317_002048	Du hast meinen Ring gefunden! {nl}Thanks. Ich danke dir so sehr!
 QUEST_LV_0100_20150317_002049	The priests are having hard time due to thorny vines.{nl}Can you help them?
 QUEST_LV_0100_20150317_002050	I will write down the process for you.{nl}How about you start by recharging the mana of the magic crystal?
 QUEST_LV_0100_20150317_002051	Okay, show me that you can overcome anything with your faith, such as facing those thorny vines.{nl}You can't call yourself a Believer if you are faint-hearted.
@@ -2054,10 +2054,10 @@ QUEST_LV_0100_20150317_002053	I don't know if it's the thorny vines or the evil 
 QUEST_LV_0100_20150317_002054	I personally believe that one day this forest will be okay again.
 QUEST_LV_0100_20150317_002055	Are you okay?{nl}I almost lost my consciousness due to that voice.{nl}Who is he anyways...
 QUEST_LV_0100_20150317_002056	The evil energy is growing in Fallen Worry Forest, and our believers are growing wary.{nl}I would be very grateful if you will be able to help.{nl}
-QUEST_LV_0100_20150317_002057	The evil energy is becoming stronger and the Believers are getting tired. The situation is bad
-QUEST_LV_0100_20150317_002058	Thanks.{nl}I wonder what would have happened if you weren't here.
+QUEST_LV_0100_20150317_002057	Die böse Energie wird immer stärker und die Gläubigen werden müde. Die Situation ist schlimm
+QUEST_LV_0100_20150317_002058	Danke.{nl}I wonder what would have happened if you weren't here.
 QUEST_LV_0100_20150317_002059	While the Merog Shamans are performing their rituals, you might have a chance to try something.{nl}Can you take care of them?
-QUEST_LV_0100_20150317_002060	Thank you for your help.{nl}Now the demons won't be able to act so freely.
+QUEST_LV_0100_20150317_002060	Danke für deine Hilfe.{nl}Jetzt werden die Dämonen nicht in der Lage sein so frei zu handeln.
 QUEST_LV_0100_20150317_002061	I did not know those demons could use summoning crystals.{nl}They may overwhelm us.
 QUEST_LV_0100_20150317_002062	I want to study the Demon Summoning Circle that has been emanating evil energy and {nl}summoning demons over there. It's a precious sample, so please go gentle so you don't {nl}break much of it.
 QUEST_LV_0100_20150317_002063	We should be able to find a way to use it.{nl}Those demons used our altars, so we can use theirs too.
@@ -2070,7 +2070,7 @@ QUEST_LV_0100_20150317_002069	Maybe this entire forest has become the origin of 
 QUEST_LV_0100_20150317_002070	Goddess Saule would not want the evil energy spreading to other forests. {nl}Therefore, we're here.
 QUEST_LV_0100_20150317_002071	It angers me to see those filthy demons freely roaming around.
 QUEST_LV_0100_20150317_002072	I gave up a long time ago since I can't see an end to that evil energy.{nl}I just think of it as my destiny.
-QUEST_LV_0100_20150317_002073	Now we just need to find out the Merogs' plan.{nl}Until then, please defeat those shamans.
+QUEST_LV_0100_20150317_002073	Jetzt müssen wir nur herausfinden wie der Plan der Merogs ist.{nl}Bis dahin besiege bitte diese Schamanen.
 QUEST_LV_0100_20150317_002074	Goddess Saule said to absolutely not speak of our presence. {nl}She said it would only bring further chaos to the world.
 QUEST_LV_0100_20150317_002075	This is all my fault. I shouldn't have underestimated it.
 QUEST_LV_0100_20150317_002076	This will only end once the origin of the evil energy {nl}located in the depths of Fallen Worry Forest is removed.{nl}It is vexing to see that everyone seems to be so short-sighted.
@@ -3683,8 +3683,8 @@ QUEST_LV_0100_20150317_003682	Visible gateway to pick up/FIRE/3/TRACK_BEFORE/Non
 QUEST_LV_0100_20150317_003683	Fight Poison with Poison (1)
 QUEST_LV_0100_20150317_003684	I think that's a good idea
 QUEST_LV_0100_20150317_003685	Doesn't sound so good
-QUEST_LV_0100_20150317_003686	About the Believers
-QUEST_LV_0100_20150317_003687	My Ring!
+QUEST_LV_0100_20150317_003686	Über die Gläubigen
+QUEST_LV_0100_20150317_003687	Mein Ring!
 QUEST_LV_0100_20150317_003688	I will find your ring and bring it to you
 QUEST_LV_0100_20150317_003689	It's probably digested by now
 QUEST_LV_0100_20150317_003690	Checking the pouch/SITGROPE/2.5/TRACK_BEFORE/None
@@ -3696,32 +3696,32 @@ QUEST_LV_0100_20150317_003695	About the Thorn Forest in the past
 QUEST_LV_0100_20150317_003696	Combining/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003697	Fight Poison with Poison (4)
 QUEST_LV_0100_20150317_003698	I'll melt the thorny vines
-QUEST_LV_0100_20150317_003699	In the Name of Faith (1)
-QUEST_LV_0100_20150317_003700	I'll help if I can
+QUEST_LV_0100_20150317_003699	Im Namen des Glaubens (1)
+QUEST_LV_0100_20150317_003700	Ich werde helfen wenn ich kann
 QUEST_LV_0100_20150317_003701	I have nothing to do with it
-QUEST_LV_0100_20150317_003702	About the evil energy in the Thorn Forest
-QUEST_LV_0100_20150317_003703	In the Name of Faith (2)
-QUEST_LV_0100_20150317_003704	In the Name of Faith (3)
+QUEST_LV_0100_20150317_003702	Über die böse Energie im Thorn Forest
+QUEST_LV_0100_20150317_003703	Im Namen des Glaubens (2)
+QUEST_LV_0100_20150317_003704	Im Namen des Glaubens (3)
 QUEST_LV_0100_20150317_003705	Purifying??MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003706	Retrieving Magie Crystal/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003707	In the name of Faith (4)
 QUEST_LV_0100_20150317_003708	Last Warning of the Beholder
 QUEST_LV_0100_20150317_003709	I'm doing fine
-QUEST_LV_0100_20150317_003710	Do not go any further
-QUEST_LV_0100_20150317_003711	Some Help
+QUEST_LV_0100_20150317_003710	Geh nicht weiter
+QUEST_LV_0100_20150317_003711	Etwas Hilfe
 QUEST_LV_0100_20150317_003712	Willingly accept
 QUEST_LV_0100_20150317_003713	Say that Fallen Worry Forest is more urgent
-QUEST_LV_0100_20150317_003714	Caught in the Middle
-QUEST_LV_0100_20150317_003715	I'll take care of it right away
-QUEST_LV_0100_20150317_003716	It will be safer to let the other Believers know 
-QUEST_LV_0100_20150317_003717	The Art of Interference
-QUEST_LV_0100_20150317_003718	I can give it a try
-QUEST_LV_0100_20150317_003719	I don't feel it
-QUEST_LV_0100_20150317_003720	Don't Panic
+QUEST_LV_0100_20150317_003714	Zwischen den Fronten stehen
+QUEST_LV_0100_20150317_003715	Ich werde mich sofort darum kümmern
+QUEST_LV_0100_20150317_003716	Wir sollten die anderen Gläubigen davon wissen lassen
+QUEST_LV_0100_20150317_003717	Die Kunst der Interferenz
+QUEST_LV_0100_20150317_003718	Ich kann es versuchen
+QUEST_LV_0100_20150317_003719	Ich fühle es nicht
+QUEST_LV_0100_20150317_003720	Keine Panik
 QUEST_LV_0100_20150317_003721	I will destroy the summon crystal
 QUEST_LV_0100_20150317_003722	You'll be able to run away
 QUEST_LV_0100_20150317_003723	Unexpected Research
-QUEST_LV_0100_20150317_003724	Leave it to me
+QUEST_LV_0100_20150317_003724	Überlass das mir
 QUEST_LV_0100_20150317_003725	I don't want to be part of a weird research
 QUEST_LV_0100_20150317_003726	Something Blasphemous
 QUEST_LV_0100_20150317_003727	I'll defeat Archon
@@ -6195,20 +6195,20 @@ QUEST_LV_0100_20150317_006194	Goddess Saule Believer Alvydas is watching you.
 QUEST_LV_0100_20150317_006195	Look for Goddess Saule Believers
 QUEST_LV_0100_20150317_006196	Find and help Goddess Saule Believers at Spineheart Dale.
 QUEST_LV_0100_20150317_006197	Helped every Believer of Goddess Saule. Sprich mit Believer Alvydas.
-QUEST_LV_0100_20150317_006198	Sprich mit Believer Raminta
-QUEST_LV_0100_20150317_006199	Goddess Saule Believer Raminta needs your help.
-QUEST_LV_0100_20150317_006200	Besiege the source of the evil energy
-QUEST_LV_0100_20150317_006201	Believer Raminta says she found the demon spreading an evil energy. Besiege Rikaus for her. 
-QUEST_LV_0100_20150317_006202	Bericht an Believer Raminta
-QUEST_LV_0100_20150317_006203	Defeated Rikaus that was spreading evil energy. Bericht an Believer Raminta.
+QUEST_LV_0100_20150317_006198	Sprich mit Gläubige Raminta
+QUEST_LV_0100_20150317_006199	Goddess Saule Gläubige Raminta needs your help.
+QUEST_LV_0100_20150317_006200	Besiege die Quelle der Bösen Energie
+QUEST_LV_0100_20150317_006201	Gläubige Raminta says she found the demon spreading an evil energy. Besiege Rikaus for her. 
+QUEST_LV_0100_20150317_006202	Bericht an Gläubige Raminta
+QUEST_LV_0100_20150317_006203	Defeated Rikaus that was spreading evil energy. Bericht an Gläubige Raminta.
 QUEST_LV_0100_20150317_006204	Besiege Rikaus
-QUEST_LV_0100_20150317_006205	Sprich mit Believer Evaldas
-QUEST_LV_0100_20150317_006206	Goddess Saule Believer Evaldas needs your help.
+QUEST_LV_0100_20150317_006205	Sprich mit Gläubiger Evaldas
+QUEST_LV_0100_20150317_006206	Goddess Saule Gläubiger Evaldas needs your help.
 QUEST_LV_0100_20150317_006207	Besiege the Merog Shamans
-QUEST_LV_0100_20150317_006208	Believer Evaldas asked you to defeat the Shamans. Stop their rituals and defeat them.
+QUEST_LV_0100_20150317_006208	Gläubiger Evaldas hat dich gebeten die Schamanen zu besiegen. Stoppe ihr Ritual und besiege sie.
 QUEST_LV_0100_20150317_006209	Bericht an Evaldas
-QUEST_LV_0100_20150317_006210	Besiege the Merog Shamans. Tell Believer Evaldas about it.
-QUEST_LV_0100_20150317_006211	Besiege the Merog Shaman performing a ritual
+QUEST_LV_0100_20150317_006210	Besiege die Merog Schamanen. Erzähle Gläubiger Evaldas davon.
+QUEST_LV_0100_20150317_006211	Besiege die Merog Schamanen welche ein Ritual dzrchführen.
 QUEST_LV_0100_20150317_006212	Sprich mit Believer Zaneta
 QUEST_LV_0100_20150317_006213	Goddess Saule Believer Zaneta needs your help.
 QUEST_LV_0100_20150317_006214	Destroy the demon summoning crystal
@@ -6309,9 +6309,9 @@ QUEST_LV_0100_20150317_006308	Ask the Andale Dorf Priest what else is needed to 
 QUEST_LV_0100_20150317_006309	Collect the Strongly Scented Soul Flower.
 QUEST_LV_0100_20150317_006310	Strongly scented soul flowers are needed to make strong bombs. Look for the flowers with a strong scent.
 QUEST_LV_0100_20150317_006311	Collected the flowers. Ask the Andale Dorf Priest what to do. 
-QUEST_LV_0100_20150317_006312	Sprich mit Andale Dorf Headman
+QUEST_LV_0100_20150317_006312	Sprich mit Andale Dorfvorsteher
 QUEST_LV_0100_20150317_006313	He says the bomb used before must be somewhere. Sprich mit the Headman who knows where the bomb is. 
-QUEST_LV_0100_20150317_006314	Find a Useful Bomb
+QUEST_LV_0100_20150317_006314	Finde eine nützliche Bombe
 QUEST_LV_0100_20150317_006315	The Headman says that the bombs are in the northern warehouse. Look for a Useful Bomb.
 QUEST_LV_0100_20150317_006316	Unlike what the Headman said, the bombs were in a small container. Ask the Headman what happened. 
 QUEST_LV_0100_20150317_006317	Made the Languid Bomb. Now ask the Headman what to do next. 
@@ -6320,7 +6320,7 @@ QUEST_LV_0100_20150317_006319	The Headman says to use the bomb on the Upents in 
 QUEST_LV_0100_20150317_006320	Check the portal at Grassy Brookside
 QUEST_LV_0100_20150317_006321	The residents were demons in disguise. Run to the portal at Grassy Brookside.
 QUEST_LV_0100_20150317_006322	Besiege the Demon Einwohner
-QUEST_LV_0100_20150317_006323	Go to the old well
+QUEST_LV_0100_20150317_006323	Geh zum alten Brunnen
 QUEST_LV_0100_20150317_006324	Check the old well at Indigo Tree Plateau.
 QUEST_LV_0100_20150317_006325	Look for something to put in the old well
 QUEST_LV_0100_20150317_006326	There is something in the old well but you can't see it clearly. Look for something that you can use to get the thing out of the well. 
@@ -6581,8 +6581,8 @@ QUEST_LV_0100_20150323_006580	Treasure Jäger of Stele Road is waiting for someo
 QUEST_LV_0100_20150323_006581	Sprich mit the Wandering Spirit of Escanciu Dorf.
 QUEST_LV_0100_20150323_006582	I found a written order while checking the military backpack of the Wandering Spirit in Escanciu Dorf. Check the details of the order.
 QUEST_LV_0100_20150323_006583	Complete Operation Wooden Dorf for the Wandering Spirit of Escanciu Dorf.
-QUEST_LV_0100_20150323_006584	Move to Kvailas Forest
-QUEST_LV_0100_20150323_006585	Find the Believers of Goddess Saule in Sirdgela Forest and help them.
+QUEST_LV_0100_20150323_006584	Geh nach Kvailas Forest
+QUEST_LV_0100_20150323_006585	Finde die Gläubigen der Göttin Saule in Sirdgela Forest und helfe ihnen.
 QUEST_LV_0100_20150323_006586	Goddess Saule's Believer Samantha is waiting for your help in Kvailas Forest.
 QUEST_LV_0100_20150323_006587	Villagers told you to go to the elderly of Andale Dorf. Go to the elderly of Andale Dorf in Vieta Gorge.
 QUEST_LV_0100_20150323_006588	Go to Ershike Altar
@@ -6951,7 +6951,7 @@ QUEST_LV_0100_20150714_006950	Good. {nl}First, defeat the Big Blue Griba up in t
 QUEST_LV_0100_20150714_006951	When you throw this bomb at the Long-Branched Trees, they will light up.{nl}When you feel that they have burnt enough, destroy them to obtain charcoals.{nl}
 QUEST_LV_0100_20150714_006952	Be careful. This place is full of evil energy from Bramble.{nl}You better go back to be safe.
 QUEST_LV_0100_20150714_006953	Ah, it's you, Revelator! Could you help me?{nl}I am trying to burn down the thorny vines that are overflowing with evil energy.
-QUEST_LV_0100_20150714_006954	There is a demon that I want you to defeat.{nl}This monster is called Rikaus and it's at Thorny Pillar Garden. It has been spreading evil energy.
+QUEST_LV_0100_20150714_006954	Es ist ein Dämon denn du besiegen sollst.{nl}Dieses Monster wird Rikaus genannt und es ist am Thorny Pillar Garden. Es verbreitet böse Energie.
 QUEST_LV_0100_20150714_006955	I heard a very ominous voice. It was a voice searching for you.{nl}Please be careful...
 QUEST_LV_0100_20150714_006956	I never thought I would meet someone other than a Believer in a place crawling with thorny {nl}vines and monsters. It's difficult without the protection of the goddess. {nl}Don't you think so, Revelator?{nl}
 QUEST_LV_0100_20150714_006957	Just as I thought. We Believers are also having a hard time due to the thorny vines.{nl}Can you please help us?
@@ -10527,20 +10527,20 @@ QUEST_LV_0100_20151022_010526	Found Crystal of Karolis Altar{nl}Now, it's time t
 QUEST_LV_0100_20151022_010527	Restoring Karolis Altar
 QUEST_LV_0100_20151022_010528	I will spread the energy of the Altar
 QUEST_LV_0100_20151022_010529	Lend me your power
-QUEST_LV_0100_20151022_010530	Don't bother me
-QUEST_LV_0100_20151022_010531	I will blow it up
+QUEST_LV_0100_20151022_010530	Störe mich nicht
+QUEST_LV_0100_20151022_010531	Ich werde es sprengen
 QUEST_LV_0100_20151022_010532	What would happene if I take the power and run
 QUEST_LV_0100_20151022_010533	Another Owl
 QUEST_LV_0100_20151022_010534	I'm off to save the Guide Owl Sculpture
 QUEST_LV_0100_20151022_010535	Mardas will do the rest
 QUEST_LV_0100_20151022_010536	Saving the Guide Owl
 QUEST_LV_0100_20151022_010537	Restoring Karolis Springs
-QUEST_LV_0100_20151022_010538	Sacred Tree of the Forest (1)
+QUEST_LV_0100_20151022_010538	Heiliger Baum des Waldes (1)
 QUEST_LV_0100_20151022_010539	Show the crystal form by the energy from the Karolis Springs
-QUEST_LV_0100_20151022_010540	Meh, what can we do
-QUEST_LV_0100_20151022_010541	Sacred Tree of the Forest (2)
-QUEST_LV_0100_20151022_010542	Take the branch and go
-QUEST_LV_0100_20151022_010543	Are you absolutely sure?
+QUEST_LV_0100_20151022_010540	Meh, was können wir tun
+QUEST_LV_0100_20151022_010541	Heiliger Baum des Waldes (2)
+QUEST_LV_0100_20151022_010542	Nehm den Zweig und geh
+QUEST_LV_0100_20151022_010543	Bist du absolut sicher?
 QUEST_LV_0100_20151022_010544	Talk about Mardas
 QUEST_LV_0100_20151022_010545	It worries me too
 QUEST_LV_0100_20151022_010546	Where could I find that evil energy?
@@ -10570,7 +10570,7 @@ QUEST_LV_0100_20151022_010569	You've successfully restored Karolis Altar. Report
 QUEST_LV_0100_20151022_010570	In order to spread the energy of the Karolis Sanctuary, all four of Karolis Lights must be ignited. Any less than 4 lights will be extinguished quite fast.
 QUEST_LV_0100_20151022_010571	The energy from the Karolis Sanctuary is spreading out. Report back to the Owl Chief Sculpture.
 QUEST_LV_0100_20151022_010572	The Owl Chief Sculpture asks you to gather enough energy of Karolis Springs and deliver it to the Guide Owl Sculpture. Find the Guide Owl Sculpture.
-QUEST_LV_0100_20151022_010573	Sacred Tree of the Forest
+QUEST_LV_0100_20151022_010573	Heiliger Baum des Waldes
 QUEST_LV_0100_20151022_010574	The Guide Owl Sculpture regained its consciousness. Tell it what the Owl Chief Sculpture told you.
 QUEST_LV_0100_20151022_010575	Find Letas' Sacred Branch
 QUEST_LV_0100_20151022_010576	The Guide Owl Sculpture says to combat the demons, Letas' Sacred Branch is needed. Use Crystalized Essence of Karolis Springs to find Letas' Sacred Tree and get its branch.
@@ -14827,7 +14827,7 @@ QUEST_LV_0100_20160224_014826	Carry out the Mercenary Post Mission
 QUEST_LV_0100_20160224_014827	You've accepted a mission from receptionist Donnes at the Mercenary Post. Complete the mission.
 QUEST_LV_0100_20160224_014828	Bericht an den Mercenary Post Receptionist
 QUEST_LV_0100_20160224_014829	You've completed the mission. Report back to Donnes at the Mercenary Post.
-QUEST_LV_0100_20160224_014830	Interrupt the Merog Shaman's Ritual
+QUEST_LV_0100_20160224_014830	Unterbreche das Retual der Merog Schamanen.
 QUEST_LV_0100_20160310_014831	Jonas is the head of the family that protects the Royal Mausoleum of the Great King Zachariel.{nl}He is a very important person to our research team.{nl}
 QUEST_LV_0100_20160310_014832	I heard a rumor that the Great King Zachariel erased the {nl}memories of all workers after building the Royal Mausoleum. {nl}That should be the spell casted on Jonas, though he is also a bit senile.
 QUEST_LV_0100_20160310_014833	I'm not sure if that is the reason but the Vubbes suddenly rushed out of the Crystal Mine.{nl}Those Vubbes took all the villagers they saw into the mines.{nl}
