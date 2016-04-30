@@ -4216,7 +4216,7 @@ ETC_20150317_004211	 m
 ETC_20150317_004212	 s
 ETC_20150317_004213	 ausgewählt
 ETC_20150317_004214	{nl}Bist du bereit deinen Charakter voranzubringen?{nl}(Das kann bis zum nächsten Vortschritt{nl}nicht geändert werden)
-ETC_20150317_004215	{@st44}Nächste Klassen-Rang Information
+ETC_20150317_004215	{@st44}Nächster Klassen-Rang Information
 ETC_20150317_004216	Aktuelle Job-Information
 ETC_20150317_004217	{@st43}Datum :
 ETC_20150317_004218	{@st43}Spielzeit :
@@ -6291,9 +6291,9 @@ ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Comp
 ETC_20150317_006288	Quarrel Shooter
 ETC_20150317_006289	Quarrel Shooters use a crossbow and shield for strategic combat. They can defend against long-range attacks using their pavises, placing them in the ground.
 ETC_20150317_006290	Ranger
-ETC_20150317_006291	Rangers sind darauf spezialisiert mehrere Gegner mit schnellen und weitreichenden Angriffen zu bekämpfen.
+ETC_20150317_006291	Rangers sind darauf spezialisiert{nl}mehrere Gegner mit schnellen und weitreichenden Angriffen zu bekämpfen.
 ETC_20150317_006292	Sapper
-ETC_20150317_006293	Sappers are archers who build traps and lure enemies into them.
+ETC_20150317_006293	Sappers sind Archer welche Fallen legen und Feinde hineinlaufen lassen.
 ETC_20150317_006294	Wugushi
 ETC_20150317_006295	A Wugushi specialize in using various poisons to attack or bewitch enemies.
 ETC_20150317_006296	Hackapell
