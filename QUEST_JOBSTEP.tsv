@@ -55,11 +55,11 @@ QUEST_JOBSTEP_20150317_000054	I will start the test now. {nl}Behind the Gate Rou
 QUEST_JOBSTEP_20150317_000055	Normal people are only capable of seeing reality as is, but if you have the temperament of a Linker, {nl}you should be able to perceive a hidden world. {nl}Find the book from there and bring it to me. 
 QUEST_JOBSTEP_20150317_000056	Have you gone there yet? {nl}Just go to the Gate Route and check. I’ve marked the location on the map.{nl}
 QUEST_JOBSTEP_20150317_000057	Looks like you found the book. With this, you have passed my test. {nl} Nevertheless, please read that book to demonstrate your determination as a Linker. 
-QUEST_JOBSTEP_20150317_000058	So you want me to teach you the skills of a Sapper... well then you must customarily pay a fee for my service. {nl}Not to me. But rather, I want you to give a donation to the Cleric Master in Klaipeda. {nl}Let's say, around 5000 silver? 
+QUEST_JOBSTEP_20150317_000058	So you want me to teach you the skills of a Sapper... well then you must customarily pay a fee for my service. {nl}Not to me. But rather, I want you to give a donation to the Cleric Master in Klaipeda. {nl}Let's say, around 5000 Silber? 
 QUEST_JOBSTEP_20150317_000059	Wait, there’s one more thing. {nl}I hid some objects at Flude Island in the Siauliai Western Woods.{nl}Before you go to Klaipeda, find the objects first and return them to their original owners in Klaipeda.{nl}{nl} 
 QUEST_JOBSTEP_20150317_000060	Oh, this. I saw it somewhere...hmm...it looks familiar...{nl}Well I'll take it with gratitude since you're giving it to me.
 QUEST_JOBSTEP_20150317_000061	Ah, this is the tool I lost. {nl}Thanks. Where was it?
-QUEST_JOBSTEP_20150317_000062	Did you forget about the donation? {nl}It's 5000 silver.
+QUEST_JOBSTEP_20150317_000062	Did you forget about the donation? {nl}It's 5000 Silber.
 QUEST_JOBSTEP_20150317_000063	Cleric Master
 QUEST_JOBSTEP_20150317_000064	Thank you, in the name of the goddess.{nl}I promise the donations will be used for those injured by monsters. {nl}
 QUEST_JOBSTEP_20150317_000065	I used to be a thief, but I came to realize certain things and I stopped my criminal life. {nl}But there is a small matter left on my mind... and I want to resolve it now. {nl}
@@ -85,9 +85,9 @@ QUEST_JOBSTEP_20150317_000084	There was one volume in the Minenarbeiter Dorf, bu
 QUEST_JOBSTEP_20150317_000085	Ho-ho yep, this is it. {nl}This will be helpful for people like you, who dream of becoming a Quarrel Shooter. {nl}I will give you a copy if you collect the entire book collection. 
 QUEST_JOBSTEP_20150317_000086	Three more left. {nl}I think you can get one of them by giving some money to the Jäger Master.
 QUEST_JOBSTEP_20150317_000087	The problem is, I'm broke. 
-QUEST_JOBSTEP_20150317_000088	You mean Lydia Schaffen's book that I have? {nl}I'll hand it over for 5000 silver.
-QUEST_JOBSTEP_20150317_000089	You heard me right, please pay the price . {nl}Around 5000 silver will do. {nl}
-QUEST_JOBSTEP_20150317_000090	5000 silver...Yup, that's right. {nl}I'll give you the book as promised. 
+QUEST_JOBSTEP_20150317_000088	You mean Lydia Schaffen's book that I have? {nl}I'll hand it over for 5000 Silber.
+QUEST_JOBSTEP_20150317_000089	You heard me right, please pay the price . {nl}Around 5000 Silber will do. {nl}
+QUEST_JOBSTEP_20150317_000090	5000 Silber...Yup, that's right. {nl}I'll give you the book as promised. 
 QUEST_JOBSTEP_20150317_000091	Well...the Archer Master must have the next book. {nl}He's still helping repair the wall, so wouldn't he appreciate it if you got him some rocks? {nl}I could take them to him myself, but...owwww...my back.
 QUEST_JOBSTEP_20150317_000092	The Archer Master has the next book. {nl}He's not a mean person, so he will give you the book if you ask nicely. {nl}
 QUEST_JOBSTEP_20150317_000093	I heard he is helping repair the damaged city wall. {nl}Rocks were delivered from the Minenarbeiter Dorf, and he'll be moved if you bring him one. 
@@ -101,8 +101,8 @@ QUEST_JOBSTEP_20150317_000100	If you want to learn more of my skills, there is a
 QUEST_JOBSTEP_20150317_000101	I heard the first book was with a resident in Minenarbeiter Dorf before the Vubbes attacked. {nl}So I think it could be in the Vubbe Outpost now. 
 QUEST_JOBSTEP_20150317_000102	I'm surprised you found it so fast! {nl}And it's in good condition. {nl}
 QUEST_JOBSTEP_20150317_000103	I think you might be able to buy the next book from the Jäger Master...{nl}I'm broke after paying to fix the wall. Haha...
-QUEST_JOBSTEP_20150317_000104	You mean the Sekunde book by Lydia Schaffen? {nl}I'll hand it over for 5000 silver. 
-QUEST_JOBSTEP_20150317_000105	I think around 5000 silver will do. {nl}I heard that's the book's value. 
+QUEST_JOBSTEP_20150317_000104	You mean the Sekunde book by Lydia Schaffen? {nl}I'll hand it over for 5000 Silber. 
+QUEST_JOBSTEP_20150317_000105	I think around 5000 Silber will do. {nl}I heard that's the book's value. 
 QUEST_JOBSTEP_20150317_000106	Ah, you came at the right time.{nl}If you could take Merog leather to the Quarrel Shooter Master, he will make you a copy of the next volume.
 QUEST_JOBSTEP_20150317_000107	Did the Merog leather come from the Archer Master?
 QUEST_JOBSTEP_20150317_000108	You will find Merogs at the Fallen Worry Forest.{nl}Take those to the Quarrel Shooter Master in Klaipeda.
@@ -115,8 +115,8 @@ QUEST_JOBSTEP_20150317_000114	I have some books to collect. They're Lydia Schaff
 QUEST_JOBSTEP_20150317_000115	The first book was in the Minenarbeiter Dorf, but it disappeared after the Vubbes attacked. {nl}I assume the book is in the Vubbe Outpost? 
 QUEST_JOBSTEP_20150317_000116	Oh, that's pretty good. {nl}It will be helpful for you to read it too. 
 QUEST_JOBSTEP_20150317_000117	The problem is the Jäger Master. I really don't want to see her face. {nl}So you go and get the next book from her. 
-QUEST_JOBSTEP_20150317_000118	You mean the book I have? {nl}Well, okay. I'll hand it over for 5000 silver. 
-QUEST_JOBSTEP_20150317_000119	I think around 5000 silver will do. {nl}Can you spare that much? 
+QUEST_JOBSTEP_20150317_000118	You mean the book I have? {nl}Well, okay. I'll hand it over for 5000 Silber. 
+QUEST_JOBSTEP_20150317_000119	I think around 5000 Silber will do. {nl}Can you spare that much? 
 QUEST_JOBSTEP_20150317_000120	You came at the right time.{nl}The Quarrel Shooter Master told you that if you could bring Merog leather, he will make you a copy of the next volume.
 QUEST_JOBSTEP_20150317_000121	Didn't the Ranger Master tell you anything?{nl}I asked him for Merog leather.
 QUEST_JOBSTEP_20150317_000122	Merogs are at the Fallen Worry Forest and the Quarrel Shooter Master is in Klaipeda. {nl}Someone may go there and get the book faster than you, so please hurry.
@@ -1263,9 +1263,9 @@ QUEST_JOBSTEP_20150317_001262	Give the stolen goods to the Klaipeda Equipment Me
 QUEST_JOBSTEP_20150317_001263	The Sapper Master wants to return the stolen goods to its owners and repent for the past times. Give the stolen good that you found to the Equipment Merchant in Klaipeda.
 QUEST_JOBSTEP_20150317_001264	Completed all of the Sapper Master's requests. Sprich mit him again.
 QUEST_JOBSTEP_20150317_001265	Gather donations to give to the Cleric Master
-QUEST_JOBSTEP_20150317_001266	You need to gather more donations for the Cleric Master. Prepare 5000 silver to donate to the Cleric Master.
+QUEST_JOBSTEP_20150317_001266	You need to gather more donations for the Cleric Master. Prepare 5000 Silber to donate to the Cleric Master.
 QUEST_JOBSTEP_20150317_001267	Give donations to the Cleric Master in Klaipeda
-QUEST_JOBSTEP_20150317_001268	Gathered 5000 silver to donate to the Cleric Master. Give the donation to the Cleric Master in Klaipeda.
+QUEST_JOBSTEP_20150317_001268	Gathered 5000 Silber to donate to the Cleric Master. Give the donation to the Cleric Master in Klaipeda.
 QUEST_JOBSTEP_20150317_001269	Gave the donations to the Cleric Master in Klaipeda. Return to the Sapper Master.
 QUEST_JOBSTEP_20150317_001270	Sprich mit the Jäger Master
 QUEST_JOBSTEP_20150317_001271	Find the Jäger Master in East Siauliai Woods
@@ -1296,10 +1296,10 @@ QUEST_JOBSTEP_20150317_001295	The Quarrel Shooter Master is looking for a book a
 QUEST_JOBSTEP_20150317_001296	Give book to the Quarrel Shooter Master
 QUEST_JOBSTEP_20150317_001297	Found the book the Quarrel Shooter Master is looking for. Take it to the Quarrel Shooter Master.
 QUEST_JOBSTEP_20150317_001298	This isn't the only book the Quarrel Shooter Master is looking for. Sprich mit the Quarrel Shooter Master again.
-QUEST_JOBSTEP_20150317_001299	Prepare the silver the Jäger Master asked for
-QUEST_JOBSTEP_20150317_001300	The Jäger Master has the book the Quarrel Shooter Master wants. Prepare 5000 silver to get the book from the Jäger Master.
-QUEST_JOBSTEP_20150317_001301	Give silver to the Jäger Master
-QUEST_JOBSTEP_20150317_001302	Prepared enough money for the book. Give 5000 silver to the Jäger Master in exchange for the book and take the book to the Quarrel Shooter Master.
+QUEST_JOBSTEP_20150317_001299	Prepare the Silber the Jäger Master asked for
+QUEST_JOBSTEP_20150317_001300	The Jäger Master has the book the Quarrel Shooter Master wants. Prepare 5000 Silber to get the book from the Jäger Master.
+QUEST_JOBSTEP_20150317_001301	Give Silber to the Jäger Master
+QUEST_JOBSTEP_20150317_001302	Prepared enough money for the book. Give 5000 Silber to the Jäger Master in exchange for the book and take the book to the Quarrel Shooter Master.
 QUEST_JOBSTEP_20150317_001303	The Quarrel Shooter Master seems utterly happy to get the book. Sprich mit him to find the next book.
 QUEST_JOBSTEP_20150317_001304	Collect rocks at Minenarbeiter Dorf
 QUEST_JOBSTEP_20150317_001305	Give the rock to the Alchemist Master
@@ -1313,8 +1313,8 @@ QUEST_JOBSTEP_20150317_001312	The Archer Master is looking for a book and he say
 QUEST_JOBSTEP_20150317_001313	Deliver book to Master Archer
 QUEST_JOBSTEP_20150317_001314	Found the book the Archer Master is looking for. Take it to the Archer Master.
 QUEST_JOBSTEP_20150317_001315	This isn't the only book the Archer Master is looking for. Sprich mit the Archer Master again.
-QUEST_JOBSTEP_20150317_001316	The Jäger Master has the book the Archer Master wants. Prepare 5000 silver to get the book from the Jäger Master.
-QUEST_JOBSTEP_20150317_001317	Gathered enough money for the book. Give 5000 silver to the Jäger Master in exchange for the book and take the book to the Archer Master.
+QUEST_JOBSTEP_20150317_001316	The Jäger Master has the book the Archer Master wants. Prepare 5000 Silber to get the book from the Jäger Master.
+QUEST_JOBSTEP_20150317_001317	Gathered enough money for the book. Give 5000 Silber to the Jäger Master in exchange for the book and take the book to the Archer Master.
 QUEST_JOBSTEP_20150317_001318	The Archer Master looks very happy to have found the book. Sprich mit him to find the next book.
 QUEST_JOBSTEP_20150317_001319	Collect the Merrogg Leder
 QUEST_JOBSTEP_20150317_001320	The Archer Master told you that you may be able to trade with the Quarrel Shooter Master with the Merrogg Leder you have for the book. Obtain the Merrogg Leder from Fallen Worry Forest.
@@ -1329,7 +1329,7 @@ QUEST_JOBSTEP_20150317_001328	Give book to the Ranger Master
 QUEST_JOBSTEP_20150317_001329	Found the book the Ranger Master is looking for. Give the book to the Ranger Master.
 QUEST_JOBSTEP_20150317_001330	Get Lydia Schaffen's book from Vubbe Fighter
 QUEST_JOBSTEP_20150317_001331	This isn't the only book the Ranger Master is looking for. Sprich mit the Ranger Master again.
-QUEST_JOBSTEP_20150317_001332	The Jäger Master has the book the Ranger Master wants. Prepare 5000 silver to get the book from the Jäger Master.
+QUEST_JOBSTEP_20150317_001332	The Jäger Master has the book the Ranger Master wants. Prepare 5000 Silber to get the book from the Jäger Master.
 QUEST_JOBSTEP_20150317_001333	The Archer Master doesn't express it much but he seems happy to have found the book. Sprich mit him about the next book to find.
 QUEST_JOBSTEP_20150317_001334	The Ranger Master told you that you may be able to trade with the Quarrel Shooter Master with the Merrogg Leder for the book. Obtain the Merrogg Leder from Fallen Worry Forest.
 QUEST_JOBSTEP_20150317_001335	The Ranger Master looks very happy to have found the book. Sprich mit him to find the next book.
@@ -2303,7 +2303,7 @@ QUEST_JOBSTEP_20150323_002302	If you want to become a true Cataphract, then you 
 QUEST_JOBSTEP_20150323_002303	This... It must be the symbol of the Legwyn family.{nl}Thank you. As I promised, I will help you to reach to a higher level.
 QUEST_JOBSTEP_20150323_002304	You must first show your abilities before you start to learn from me. That's the manner.{nl}I think Honeypin at Tenants' Farm would be enough.
 QUEST_JOBSTEP_20150323_002305	If you want to learn something from me, then come back after defeating Gaigalas in Tenants' Farm.{nl}If you want to be acknowledged in terms of both your determination and your skills.
-QUEST_JOBSTEP_20150323_002306	I will be able to check your skills if you could defeat Gaigalas at Grynas Training Camp.{nl}Good luck.
+QUEST_JOBSTEP_20150323_002306	I will be able to check your skills if you could defeat Gaigalas at Grynas Training Lager.{nl}Good luck.
 QUEST_JOBSTEP_20150323_002307	Okay then... I think I can test your skills with this.{nl}I heard there's a person who saw Poata at the Greene Manor swallowing the symbol.{nl}Okay then, I am counting on you.
 QUEST_JOBSTEP_20150323_002308	I am sorry, but the way of Bokor can't be searched by just anyone.{nl}If you can bring me the essence of Stone Whale at Roxona Market, I will acknowledge your skills.
 QUEST_JOBSTEP_20150323_002309	The Stone Whale at Roxona Market has killed many people.{nl}I need the essence with the hatred from the people who were killed.
@@ -2504,8 +2504,8 @@ QUEST_JOBSTEP_20150323_002503	Report about the gifts to the Necromancer Master
 QUEST_JOBSTEP_20150323_002504	You have found all the gifts of the Necromancer Master. Return to the Necromancer Master and report.
 QUEST_JOBSTEP_20150323_002505	Besiege Honeypin at the way of Grynas Trails
 QUEST_JOBSTEP_20150323_002506	The Swordsman Master is emphasizing on the trainings that are like real battles. Experience a real battle by defeating Honeypin at the way of Grynas Trails.
-QUEST_JOBSTEP_20150323_002507	Besiege Gaigalas at Grynas Training Camp
-QUEST_JOBSTEP_20150323_002508	The Peltasta Master wants you to prove your skills. Prove your skills by defeating Gaigalas at the Grynas Training Camp.
+QUEST_JOBSTEP_20150323_002507	Besiege Gaigalas at Grynas Training Lager
+QUEST_JOBSTEP_20150323_002508	The Peltasta Master wants you to prove your skills. Prove your skills by defeating Gaigalas at the Grynas Training Lager.
 QUEST_JOBSTEP_20150323_002509	The Highlander Master wants you to experience more. Besiege Honeypin at the way of Grynas Trails.
 QUEST_JOBSTEP_20150323_002510	Besiege Colimencia at Grynas Hills
 QUEST_JOBSTEP_20150323_002511	The Hoplite Master wants you to be skillful, so that colleagues can rely on your skills. Besiege Colimencia at Grynas Hills to prove your skills.
@@ -2626,7 +2626,7 @@ QUEST_JOBSTEP_20150714_002625	If you want to learn skills of Archer, I have a re
 QUEST_JOBSTEP_20150714_002626	Finally, I am seeing this with my own eyes!{nl}Well done. I will teach you a new skill right away.
 QUEST_JOBSTEP_20150714_002627	There are books that I wish to collect. They are Lydia Schaffen's books.{nl}If you could collect them, I will teach you high level Ranger skills. How about it?
 QUEST_JOBSTEP_20150714_002628	The problem is the Jäger Master. I don't want to see such woman's face.{nl}So I want you to purchase the next volume from her and think of it as your next lesson fee.
-QUEST_JOBSTEP_20150714_002629	I think about 5,000 silver should be enough.{nl}You can afford it right?
+QUEST_JOBSTEP_20150714_002629	I think about 5,000 Silber should be enough.{nl}You can afford it right?
 QUEST_JOBSTEP_20150714_002630	Finally, I collected them all. Well done.{nl}It's easy to teach, but it's your responsibility to follow well.
 QUEST_JOBSTEP_20150714_002631	A sculptor needs to be competent, but he also needs to identify good ingredients.{nl}If you could bring me Blue Crystal which I am looking for, I will help you to become a Dievdirbys.
 QUEST_JOBSTEP_20150714_002632	Finally, you don't look like a newbie anymore. I will give you an important task.{nl}If you do a good job, I will promise to help you become the next level Highlander.

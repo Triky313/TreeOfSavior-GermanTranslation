@@ -26,9 +26,9 @@ QUEST_20150317_000025	The dark aura is indeed unpleasant... {nl}But if this mess
 QUEST_20150317_000026	Well, you should hurry and go find Sir Uska. {nl}He will tell you where to go next. {nl}May the goddess bless your fate...
 QUEST_20150317_000027	Please select the preferred Smart Gen.
 QUEST_20150317_000028	William
-QUEST_20150317_000029	The fee's 100 silver. {nl}It's cheaper than cutting through monster central.
+QUEST_20150317_000029	The fee's 100 Silber. {nl}It's cheaper than cutting through monster central.
 QUEST_20150317_000030	Cyneburg
-QUEST_20150317_000031	That'll be 100 silver coins. {nl}That'll cover operations, labor, and other expenses.
+QUEST_20150317_000031	That'll be 100 Silber coins. {nl}That'll cover operations, labor, and other expenses.
 QUEST_20150317_000032	Hey, wait a minute. {nl}You know you need more than that...
 QUEST_20150317_000033	That's no good! {nl}I can't work for nothing, even for a Revelator.
 QUEST_20150317_000034	Wandering Merchant
@@ -364,7 +364,7 @@ QUEST_20150317_000363	Select the amount of contribution.
 QUEST_20150317_000364	Planned amount of contribution.
 QUEST_20150317_000365	Incorrect amount of contribution. Nothing happens. (Balloon Message)
 QUEST_20150317_000366	Did you put in the wrong amount of contribution? {nl}Nothing happened. Try again.
-QUEST_20150317_000367	I don't have enough silver right now...
+QUEST_20150317_000367	I don't have enough Silber right now...
 QUEST_20150317_000368	Carve Vakarine
 QUEST_20150317_000369	Which way do you choose?
 QUEST_20150317_000370	I've heard the sanctuary in Purple Tree Fault Forest is corrupted. {nl}The Masters all know Naktis was behind it. If you take the purifier {nl}I'm selling and burn it in the sanctuary, it'll be purified. {nl}Interested in buying?
@@ -403,7 +403,7 @@ QUEST_20150317_000402	I have also been placing clay tablets, scribed with people
 QUEST_20150317_000403	Fedimian Old Lady
 QUEST_20150317_000404	It's relieving to see the Heilig District intact. {nl} All of this is due to a blessing from Goddess Zemyna.
 QUEST_20150317_000405	Get the Token of Training from the Training Manager. {nl}I'll let you join our troop if you can pass the training.
-QUEST_20150317_000406	You should take responsibility for the troop's safety in the Training Camp. {nl}It'd be a bad idea to leave these excited young men without any supervision, right?
+QUEST_20150317_000406	You should take responsibility for the troop's safety in the Training Lager. {nl}It'd be a bad idea to leave these excited young men without any supervision, right?
 QUEST_20150317_000407	Uska told me about you. {nl}All the Revelators I've met so far were no better than the Kepas, though.
 QUEST_20150317_000408	Help the herbalists before you get into training. {nl}I need to see if you have what it takes to protect my troops. Training will come after.
 QUEST_20150317_000409	My father told me Klaipeda is also becoming a difficult place to live.
@@ -495,7 +495,7 @@ QUEST_20150317_000494	I have prepared five dilemmas so that our enemy can't get 
 QUEST_20150317_000495	Find it. The road will open when it has been proven that you are the true Revelator.
 QUEST_20150317_000496	What makes you walk towards the light in a place full of darkness?
 QUEST_20150317_000497	The harder you seek it, the stronger you become, but if you refuse to seek it, you will become weak. {nl}What is it?
-QUEST_20150317_000498	Aide de Camp Selina
+QUEST_20150317_000498	Aide de Lager Selina
 QUEST_20150317_000499	The number of days where squads like us have to stay self-sufficient is growing. {nl}We sometimes joke about plowing a farm for ourselves, {nl}but nowadays we're actually considering it.
 QUEST_20150317_000500	Beholder
 QUEST_20150317_000501	If it isn't you, the one who released Goddess Saule. {nl}Why are you putting your life on the line?
@@ -592,10 +592,10 @@ QUEST_20150317_000591	Are you still hungry...?
 QUEST_20150317_000592	He sounds troubled. {nl}These pots are sometimes sold to pilgrims who come to pray. {nl}The profits are all used as donations for restoring Fedimian.
 QUEST_20150317_000593	Fedimian Worker
 QUEST_20150317_000594	Put your wishes into a pot and it might come true... {nl}I know it is a tradition but restoring Fedimian is more important than pottery.
-QUEST_20150317_000595	I only know silver craft, so this is all I can do to help. {nl}Of course, I would like to help restore the market area if I had the strength.
+QUEST_20150317_000595	I only know Silber craft, so this is all I can do to help. {nl}Of course, I would like to help restore the market area if I had the strength.
 QUEST_20150317_000596	Old Potter
 QUEST_20150317_000597	The workshop was destroyed by the earthquake on Medzio Diena. {nl}It's been four years since I last worried on how to live.
-QUEST_20150317_000598	I used to do silver craft but now I'm using my talents to make pottery decorations. {nl}People from across the kingdom gather here for their wishes.
+QUEST_20150317_000598	I used to do Silber craft but now I'm using my talents to make pottery decorations. {nl}People from across the kingdom gather here for their wishes.
 QUEST_20150317_000599	Wagon Carrier
 QUEST_20150317_000600	It's a pot to put your wishes in. {nl}Look inside and you'll see clay tablets with wishes written on them. {nl}Some of them are pretty funny.
 QUEST_20150317_000601	Thankfully, workers from different areas are gathering to help restore Fedimian. {nl}Look at where we've come since Medzio Diena. {nl}I really thought the world would end that day.
@@ -1083,17 +1083,17 @@ QUEST_20150317_001082	The people of Fedimian were very cautious.{nl}In the sense
 QUEST_20150317_001083	The Fedimians were modest about this with others. {nl}Even those who stayed at Fedimian for a while could not pick up the trait.
 QUEST_20150317_001084	Thanks to this behavior, the people of Fedimian fared better during tough times, {nl}as they were able to sense danger coming.
 QUEST_20150317_001085	Because of this, no few words were said about the cautiousness of the Fedimian people.
-QUEST_20150317_001086	In Fedimian, if someone dropped money on the ground, it would be gone forever. {nl}In a world where money mostly consists of silver coins, {nl}only the creditors would know exactly how much money has been lost in this manner.
-QUEST_20150317_001087	Why money disappears into the ground at Fedimian remains unknown. {nl}Some people believe the Goddess Zemyna absorbs any money that makes contact with her area. {nl}Most commoners, however, believe this was done to reduce the demand of silver coins from creditors.
-QUEST_20150317_001088	By believing that the goddess herself takes the silver,{nl}the people found it pointless to try and dig it up in her grounds. {nl}The fact that you can offer silver coins at Fedimian as tribute to her reinforces this idea.
+QUEST_20150317_001086	In Fedimian, if someone dropped money on the ground, it would be gone forever. {nl}In a world where money mostly consists of Silber coins, {nl}only the creditors would know exactly how much money has been lost in this manner.
+QUEST_20150317_001087	Why money disappears into the ground at Fedimian remains unknown. {nl}Some people believe the Goddess Zemyna absorbs any money that makes contact with her area. {nl}Most commoners, however, believe this was done to reduce the demand of Silber coins from creditors.
+QUEST_20150317_001088	By believing that the goddess herself takes the Silber,{nl}the people found it pointless to try and dig it up in her grounds. {nl}The fact that you can offer Silber coins at Fedimian as tribute to her reinforces this idea.
 QUEST_20150317_001089	In any case, the fact that one could lose money by dropping it on Fedimian soil {nl}has made Fedimians very careful in handling their money.
 QUEST_20150317_001090	However, as much as one tries to be careful, mistakes still happen. {nl}More so with the case of young girls. {nl}One day, it happened to a girl named Aiste.
-QUEST_20150317_001091	Normally, when one drops silver coins on the ground, it would scatter about on the road, {nl}and then disappear without a trace. {nl}{nl}Fedimians usually curse their own carelessness and move on, {nl}but Aiste was different: she wondered why and how it happened.
+QUEST_20150317_001091	Normally, when one drops Silber coins on the ground, it would scatter about on the road, {nl}and then disappear without a trace. {nl}{nl}Fedimians usually curse their own carelessness and move on, {nl}but Aiste was different: she wondered why and how it happened.
 QUEST_20150317_001092	To find out what happened, Aiste began inspecting the area she lost her coins at. {nl}In her search she came across a beggar beside the deep end of the canal.
-QUEST_20150317_001093	Aiste asked the elderly beggar, {nl}'Did you by any chance pick up the silver coins I dropped? {nl}{nl}Would you return them to me?{nl}I worked very hard everyday for those coins and really need them.'
+QUEST_20150317_001093	Aiste asked the elderly beggar, {nl}'Did you by any chance pick up the Silber coins I dropped? {nl}{nl}Would you return them to me?{nl}I worked very hard everyday for those coins and really need them.'
 QUEST_20150317_001094	The beggar was taken aback. Aiste was asking for the impossible. {nl}After all, finding dropped coins in Fedimian was unthinkable. {nl}The old beggar was about to explain this to Aiste, but instead remarked, {nl}'I've also lost coins in this area. It would be nice if you looked for mine as you searched for yours.'
 QUEST_20150317_001095	Almost immediately, the beggar felt guilty of the mocking words he blurted out. He apologized to Aiste.
-QUEST_20150317_001096	Why don't you go to where you work and explain what happened to them? Make sure you look lost.' The beggar then hesitantly added, {nl}'In the meantime, I'll be looking for your silver coins here.'
+QUEST_20150317_001096	Why don't you go to where you work and explain what happened to them? Make sure you look lost.' The beggar then hesitantly added, {nl}'In the meantime, I'll be looking for your Silber coins here.'
 QUEST_20150317_001097	Upon hearing the beggar's words, Aiste thanked the beggar, and went on to follow his advice. {nl}Through his selfless act, the beggar suddenly felt a revived sense of responsibility. He looked toward the silhouette of the leaving Aiste, his heart heavy and warm from this experience.
 QUEST_20150317_001098	Aiste went to the orchards at the outskirts of Fedimian where she worked. {nl}While one could just pick fruit from the trees there, it was also important to take the fruit that fell on the ground.
 QUEST_20150317_001099	Smaller hands worked better for picking fruits, so young children were often hired at the orchards. {nl}Some orchards took it a step further: hiring monkeys, whose hands were smaller than that of children, to pick fruit. Monkeys did work more effectively than children, but often ate the fruit they picked. Thus, most owners relied on hiring children.
@@ -1107,34 +1107,34 @@ QUEST_20150317_001106	Aiste was surprised by what the silversmith said and grew 
 QUEST_20150317_001107	Even the silversmith did not know the true answer, so he improvised, {nl}'Goddess Zemyna must be taking them.'
 QUEST_20150317_001108	Hearing those words, Aiste replied, {nl}'Then I will just have to go ask the goddess.' {nl}The silversmith was astounded and replied, {nl}'While you're at it, why don't you ask the goddess to return my silverware?'
 QUEST_20150317_001109	The silversmith did not take to heart his own words, but Aiste did. {nl}She immediately set out to do as she said. The silversmith felt sorry for Aiste, {nl}but did not have the courage to call her back as she faded into the distance.
-QUEST_20150317_001110	An exhausted Aiste soon arrived at Zemyna's Goddess Statue. {nl}She prostrated herself before it and prayed to the Goddess Statue, her head completely down. {nl}'Oh, Goddess. Please return my lost silver coins.' {nl}Soon, while offering her prayers, Aiste could no longer hold in her sadness and she finally wept.
+QUEST_20150317_001110	An exhausted Aiste soon arrived at Zemyna's Goddess Statue. {nl}She prostrated herself before it and prayed to the Goddess Statue, her head completely down. {nl}'Oh, Goddess. Please return my lost Silber coins.' {nl}Soon, while offering her prayers, Aiste could no longer hold in her sadness and she finally wept.
 QUEST_20150317_001111	How long did she pray crying? {nl}Suddenly, Aiste heard a voice addressed to her. {nl}'My child, have you come to take back what you have lost?'
 QUEST_20150317_001112	Aiste knew in her heart that it was Goddess Zemyna that was addressing her. {nl}She stopped crying, cleared her voice and replied so.
 QUEST_20150317_001113	The goddess' voice was heard again. {nl}'Aiste, what you're asking of me is not by a method I approve of. Where I reign there is no harvest nor fruits for those who do not work.'
 QUEST_20150317_001114	But I worked very hard today!'
 QUEST_20150317_001115	I know. So instead, I will give you and the others a chance. Look under your feet.'
-QUEST_20150317_001116	The goddess' voice faded with those words, and Aiste found silver coins under her feet. {nl}She looked to where she had left her silvers and found that the tears she shed had transformed into coins.{nl}Aiste was very happy, and made sure to pick up all the silver before leaving.
-QUEST_20150317_001117	After a number of steps, Aiste thought about the silversmith, {nl}and, again, went to his house and knocked on his door. {nl}As if the silversmith was waiting for her return, he opened the door immediately and said. {nl}'I'm sorry. I regret sending you away like that. I'll give you some silver. {nl}This time, be careful not to drop any and get home safely.'
-QUEST_20150317_001118	As the silversmith held out his silver coins, Aiste shook her head and said,{nl}'No thank you, the goddess returned all my coins. On top of that, she gave me even more. {nl}I remembered you saying you had also lost silver, so I came to give you my extra coins. You don't need to give me yours.'
-QUEST_20150317_001119	At first, the silversmith was skeptical about the coins being returned, {nl}so he was surprised when Aiste showed him genuine coins. After thinking for a while, the silversmith said, {nl}'Then how about this. You give me what you want while you accept what I was about to give you. {nl}Isn't that fair? On top of that I'll give you a pouch to carry your extra silver.'
+QUEST_20150317_001116	The goddess' voice faded with those words, and Aiste found Silber coins under her feet. {nl}She looked to where she had left her silvers and found that the tears she shed had transformed into coins.{nl}Aiste was very happy, and made sure to pick up all the Silber before leaving.
+QUEST_20150317_001117	After a number of steps, Aiste thought about the silversmith, {nl}and, again, went to his house and knocked on his door. {nl}As if the silversmith was waiting for her return, he opened the door immediately and said. {nl}'I'm sorry. I regret sending you away like that. I'll give you some Silber. {nl}This time, be careful not to drop any and get home safely.'
+QUEST_20150317_001118	As the silversmith held out his Silber coins, Aiste shook her head and said,{nl}'No thank you, the goddess returned all my coins. On top of that, she gave me even more. {nl}I remembered you saying you had also lost Silber, so I came to give you my extra coins. You don't need to give me yours.'
+QUEST_20150317_001119	At first, the silversmith was skeptical about the coins being returned, {nl}so he was surprised when Aiste showed him genuine coins. After thinking for a while, the silversmith said, {nl}'Then how about this. You give me what you want while you accept what I was about to give you. {nl}Isn't that fair? On top of that I'll give you a pouch to carry your extra Silber.'
 QUEST_20150317_001120	Aiste obliged and gave her extra coins to the silversmith. {nl}After this, the silversmith gave Aiste a bag of coins.
 QUEST_20150317_001121	After leaving the silversmith's house, {nl}Aiste suddenly remembered that the old beggar must still be looking for her lost coins and worried for him. {nl}On her way to the beggar, she met the orchard owner again. {nl}Upon seeing Aiste, the orchard owner was overjoyed. {nl}'I was looking for you. I'm sorry for sending you off earlier. As an apology, I'll give you your salary again. {nl}Please be careful not to lose it this time.'
 QUEST_20150317_001122	The orchard owner took out a Groß amount of coins, more than what Aiste's salary was, and handed it to her. {nl}However, Aiste shook her head and said, {nl}'Goddess Zemyna already returned my money to me. The silversmith also helped me, so now I actually have too much. {nl}Here, take a look.'
 QUEST_20150317_001123	Saying that, Aiste opened the bag of coins she got from the silversmith and showed the orchard owner. {nl}The orchard owner was extremely surprised, as the amount of money she got from the goddess and the silversmith surpassed the amount he had.
 QUEST_20150317_001124	Disregarding the amount Aiste had shown him, the orchard owner said, {nl}'Well, even so, I would be ashamed for not giving you my due, so please just take it.' {nl}After saying this, the orchard owner stuffed his coins into Aiste's bag and left. {nl}By the time Aiste could muster up the energy to call the orchard owner, he was too far away.
-QUEST_20150317_001125	She hesitated for a moment but then set her mind on the beggar. {nl}After a bit of walking, Aiste arrived at where they met. The old beggar spotted her first and hurried over to her. {nl}He showed her the silver coins he was clenching onto and said, 'Look! I found your lost silver.' {nl}Aiste received the beggar's silver and then showed the beggar her bag and said, {nl}'Look, I found your silver coins too.'
+QUEST_20150317_001125	She hesitated for a moment but then set her mind on the beggar. {nl}After a bit of walking, Aiste arrived at where they met. The old beggar spotted her first and hurried over to her. {nl}He showed her the Silber coins he was clenching onto and said, 'Look! I found your lost Silber.' {nl}Aiste received the beggar's Silber and then showed the beggar her bag and said, {nl}'Look, I found your Silber coins too.'
 QUEST_20150317_001126	Even though the beggar was exhausted, he cupped his hands to get his coins back. {nl}Seeing this, Aiste was brought to the brink of tears. {nl}She wondered how much begging the beggar had to do to give her her coins back. {nl}With a heavy heart, Aiste gave the old beggar the coins.
-QUEST_20150317_001127	After that, Aiste also held out her bag and said, {nl}'This is a gift as thanks for looking for my silver. I was given this through Goddess Zemyna's grace.' {nl}Aiste then left before the Old Beggar could figure out how to reply.
-QUEST_20150317_001128	The beggar looked towards Aiste's distant shadow, and opened the present she gave him, {nl}curious to what was inside. Inside, he was surprised to find dozens of silver coins. {nl}Now he understood why Aiste was able to depart much more quickly than she arrived - she had lightened her load by giving him the excess.
-QUEST_20150317_001129	For a beggar who had been stingy over a single silver coin, the fact Aiste could simply give away several tens of times that amount moved him. {nl}The fact that Aiste, who had went off and solved the mystery of Fedimian, came back and gave him what she really didn't owe, made the beggar thankful.
-QUEST_20150317_001130	The more he thought, the less the beggar was able to hold back his tears. {nl}As he cried, he noticed something odd - every shining teardrop that touched the ground transformed to silver coins.
+QUEST_20150317_001127	After that, Aiste also held out her bag and said, {nl}'This is a gift as thanks for looking for my Silber. I was given this through Goddess Zemyna's grace.' {nl}Aiste then left before the Old Beggar could figure out how to reply.
+QUEST_20150317_001128	The beggar looked towards Aiste's distant shadow, and opened the present she gave him, {nl}curious to what was inside. Inside, he was surprised to find dozens of Silber coins. {nl}Now he understood why Aiste was able to depart much more quickly than she arrived - she had lightened her load by giving him the excess.
+QUEST_20150317_001129	For a beggar who had been stingy over a single Silber coin, the fact Aiste could simply give away several tens of times that amount moved him. {nl}The fact that Aiste, who had went off and solved the mystery of Fedimian, came back and gave him what she really didn't owe, made the beggar thankful.
+QUEST_20150317_001130	The more he thought, the less the beggar was able to hold back his tears. {nl}As he cried, he noticed something odd - every shining teardrop that touched the ground transformed to Silber coins.
 QUEST_20150317_001131	The beggar could not believe his eyes, but quickly remembered Aiste words about a blessing from the goddess. {nl}After a while, the beggar stopped crying, and went to pick up the coins and put them in the bag Aiste gave him.
 QUEST_20150317_001132	A few days later, the beggar went to the statue that Aiste prayed to. There, he took out one coin from the bag to keep, and offered the rest to the Goddess Statue. {nl}He then prayed to the goddess whole-heartedly and left. As the money he offered disappeared, the beggar again to shed tears, but that's another story.
-QUEST_20150317_001133	After a few days, an odd rumor spread across Fedimian. {nl}The rumor claimed that silver no longer disappeared into Fedimian soil. {nl}The rumor did not sit well at first with older, experienced people, but some tested the rumor with a paltry amount of silver, {nl}and it turned out to be true. Everyone agreed that finally, the mysterious phenomenon of Fedimian has come to an end.
+QUEST_20150317_001133	After a few days, an odd rumor spread across Fedimian. {nl}The rumor claimed that Silber no longer disappeared into Fedimian soil. {nl}The rumor did not sit well at first with older, experienced people, but some tested the rumor with a paltry amount of Silber, {nl}and it turned out to be true. Everyone agreed that finally, the mysterious phenomenon of Fedimian has come to an end.
 QUEST_20150317_001134	After some time, word of this occurrence reached the king. Curious as to why this happened, the king ordered an investigation. {nl}The hidden truth was brought to light, and Aiste's story was known.
 QUEST_20150317_001135	The king praised the people that caused the miracle with their charitable hearts. {nl}Additionally, to honor the grace of the goddess, he decided to spend the national treasury to build a Groß statue dedicated to her.
-QUEST_20150317_001136	On the day the statue was finally completed, {nl}something miraculous happened as the King and Aiste went together to make the first offering. {nl}From the circumference of the statue sprouted coins - all the silver coins that had been lost by Fedimians up until that time.
-QUEST_20150317_001137	After heated debate, the Fedimian people decided to not to hoard their lost silver coins. {nl}Instead, they asked the king to collect all the coins and distribute them among the poor of the Kingdom. {nl}The king readily agreed, and gave the order to record this beautiful event into the history of the Kingdom.
+QUEST_20150317_001136	On the day the statue was finally completed, {nl}something miraculous happened as the King and Aiste went together to make the first offering. {nl}From the circumference of the statue sprouted coins - all the Silber coins that had been lost by Fedimians up until that time.
+QUEST_20150317_001137	After heated debate, the Fedimian people decided to not to hoard their lost Silber coins. {nl}Instead, they asked the king to collect all the coins and distribute them among the poor of the Kingdom. {nl}The king readily agreed, and gave the order to record this beautiful event into the history of the Kingdom.
 QUEST_20150317_001138	Even now, nobody knows when and how the mysterious phenomenon of Fedimian started, {nl}but everybody knows when, how, and who helped unravel the mystery. {nl}It was through the kindness of Aiste and the people who helped her, as well as through the grace of the goddess, that the mystery came to an end.
 QUEST_20150317_001139	The Gambler of Klaipeda
 QUEST_20150317_001140	The Gambler of Klaipeda {nl}~A Short Story~
@@ -1166,7 +1166,7 @@ QUEST_20150317_001165	Considering Modestas' habit, to not immediately accept a g
 QUEST_20150317_001166	On the other hand, Sigfried was understandably confident, knowing with certainty that he would win the gamble, and was alright with betting his horse. {nl}With only a little money at hand, the bet became too good to refuse, and Modestas finally accepted. {nl}And, as expected, Modestas won. {nl}
 QUEST_20150317_001167	As soon as the bet started, Sigfried tried every method possible to command his horse to move. Despite his efforts, it didn't move a single hoof at all.{nl}At the end, Sigfried repeatedly cursed its strange behavior. Realizing he'd be late to his appointment without a horse, he threw the reins to Modestas and sprinted away.{nl}As Sigfried disappeared, Modestas felt uncomfortable.
 QUEST_20150317_001168	For Modestas, who had always been elated upon winning bets and depressed upon losing them, to win and feel depressed was a first in his entire life. {nl}
-QUEST_20150317_001169	Knowing he had just deceived his long-time gambling friend, Sigfried, and also missed an opportunity to earn a lot of money, Modestas felt conflicted as he walked slowly alongside the horse he had just won. {nl}While walking, Modestas remembered the earlier warnings of his unconditional bet. He realized that now, with his upcoming defeat, he was doomed to not earn any more silver than he started with.
+QUEST_20150317_001169	Knowing he had just deceived his long-time gambling friend, Sigfried, and also missed an opportunity to earn a lot of money, Modestas felt conflicted as he walked slowly alongside the horse he had just won. {nl}While walking, Modestas remembered the earlier warnings of his unconditional bet. He realized that now, with his upcoming defeat, he was doomed to not earn any more Silber than he started with.
 QUEST_20150317_001170	While walking along the road, Modestas encountered a group of soldiers. {nl}Upon looking closer, the soldiers seemed to be arguing about what to buy at a store. {nl}Modestas decided not to interfere and pass them, but the soldiers noticed him and called. {nl}
 QUEST_20150317_001171	'You, the young man with the horse, can you come over and help us for a bit?' {nl}Modestas had no idea what these soldiers needed help for, but since he could no longer ignore them, he decided to head over. {nl}Once Modestas arrived, one of the soldiers said, {nl}'You came at just the right time. We would like you to referee a small gamble we're about to make here.' {nl}
 QUEST_20150317_001172	Modestas was surprised when he heard the word, 'gamble', but was relieved to know he was only being asked to referee. After all, nothing could possibly happen if he was just refereeing. {nl}Modestas learned that the soldiers were fighting over which goddess was the best. {nl}
@@ -1191,7 +1191,7 @@ QUEST_20150317_001190	Modestas could see that the wagon was very durable, good-l
 QUEST_20150317_001191	The human heart sure can be an amusing thing. {nl}Modestas, deciding the wagon was worth buying but lacking the money to do so, decided he could use his impending victory to win the wagon for free. {nl}So he proposed a bet with the wagon master, risking his own horse. {nl}Naturally, Modestas won. {nl}
 QUEST_20150317_001192	Modestas, having now just won a wagon and an injured horse, originally intended to keep just the wagon and his original horse. {nl}But seeing as the injured horse wasn't as injured as he thought, he believed he had won big. {nl}
 QUEST_20150317_001193	In his mind, now that he'd had obtained two horses and a wagon, he believed he was no longer in a bad situation, deciding this time to be very careful not to lose big next. {nl}So, instead of following the soldiers, he decided to go to a place where there was less people. He reined his horse and traveled away from civilization. {nl}However, even in a remote setting, he was bound to meet others. {nl}
-QUEST_20150317_001194	Rare as it would be, Modestas, while moving about in a uninhabited mountain, encountered an elderly Alchemist. {nl}The old Alchemist sat on a chair on the right side of the road, a silver nugget in hand. {nl}As Modestas passed by for a closer look, the nugget turned out to not be of silver, but of lead. {nl}
+QUEST_20150317_001194	Rare as it would be, Modestas, while moving about in a uninhabited mountain, encountered an elderly Alchemist. {nl}The old Alchemist sat on a chair on the right side of the road, a Silber nugget in hand. {nl}As Modestas passed by for a closer look, the nugget turned out to not be of Silber, but of lead. {nl}
 QUEST_20150317_001195	'Could this Alchemist be one who could turn lead into gold?' thought Modestas, but soon thought he was just overestimating the Alchemist. {nl}But the Alchemist, glad to see someone pass by after a long time, called out to Modestas, and suddenly proposed a bet with him. Somehow, the whole world today seemed to want to make bets with Modestas, and he was getting tired of it. {nl}Modestas liked gambling, but to find opponents this easily was becoming a joke to him. {nl}
 QUEST_20150317_001196	Modestas was about to do something unlike his being and reject the bet, but the idea that he could wager low moved his mind. {nl}After all, the old Alchemist was wagering a lead nugget. {nl}
 QUEST_20150317_001197	Because he was certain to lose this time, Modestas believed it would be better to wager and lose against a lead nugget now than to run into people who would wager a Groß amount of money, and lose later. {nl}Modestas first made sure that he could accept the bet despite having no money at hand and could bring some later, and accepted the bet. No words need to be said about the result. {nl}
@@ -1494,7 +1494,7 @@ QUEST_20150323_001494	Something that looks like the head of a statue is buried.
 QUEST_20150323_001495	Better check out this liquor barrel.
 QUEST_20150323_001496	Something that looks like the wing of a statue is buried. 
 QUEST_20150323_001497	Farmer
-QUEST_20150323_001498	Okay, that'll be only 1,000 silver coins then.
+QUEST_20150323_001498	Okay, that'll be only 1,000 Silber coins then.
 QUEST_20150323_001499	Great! It's a deal!
 QUEST_20150323_001500	Then don't. Pfft.
 QUEST_20150323_001501	You're a bum.
@@ -1516,7 +1516,7 @@ QUEST_20150323_001516	I'll actively cooperate.
 QUEST_20150323_001517	Our rebellion will be successful. We can't be exploited like this any more.
 QUEST_20150323_001518	Ah, really? Then I should give.
 QUEST_20150323_001519	The exploitation became too much at some point... There's no generosity any more.
-QUEST_20150323_001520	Then give us some silver.
+QUEST_20150323_001520	Then give us some Silber.
 QUEST_20150323_001521	Here you go. Use it well. Everyone, cheer up!
 QUEST_20150323_001522	What do you want?
 QUEST_20150323_001523	Someone's even more pathetic than me...
@@ -1525,7 +1525,7 @@ QUEST_20150323_001525	What are they talking about? The baron is hiding something
 QUEST_20150323_001526	There is no such thing as a rest day for a farmer. 
 QUEST_20150323_001527	I'm busy. Come back later.
 QUEST_20150323_001528	Don't bother me.
-QUEST_20150323_001529	Then, I will sign the petition if you pay 10,000 silver.
+QUEST_20150323_001529	Then, I will sign the petition if you pay 10,000 Silber.
 QUEST_20150323_001530	I've never met anyone as generous as you! So kind! Hahaha! Take this!
 QUEST_20150323_001531	What a penniless bum. Go away.
 QUEST_20150323_001532	That's some persistence you've got. Fine. I don't really trust you but I'll sign for Horacius' sake.
@@ -1549,7 +1549,7 @@ QUEST_20150323_001549	Is this a joke...
 QUEST_20150323_001550	What kind of big plan could a bum come up with?
 QUEST_20150323_001551	You've got some persistence. Here's my signature. 
 QUEST_20150323_001552	I can't just take a break from farming. I'm busy right now.
-QUEST_20150323_001553	Do you have around 15,000 silver? Show some sincerity...
+QUEST_20150323_001553	Do you have around 15,000 Silber? Show some sincerity...
 QUEST_20150323_001554	Wow, thank you. My signature is all yours. Horacius really does good work!
 QUEST_20150323_001555	Then I'm busy too.
 QUEST_20150323_001556	Even if you're busy, you should take care of yourself. You're broke.
@@ -1764,7 +1764,7 @@ QUEST_20150401_001765	You have been running around hard in my land. {nl}Sorry ki
 QUEST_20150401_001766	What is this...? {nl}What are you doing with my soul?!
 QUEST_20150401_001768	Reconstruction of Blessings
 QUEST_20150406_001769	You think so too, huh? {nl}Please collect some leather. You can get some from the monsters. 
-QUEST_20150406_001770	Then give me 1,000 silver coins. I'm in a tight spot here too.
+QUEST_20150406_001770	Then give me 1,000 Silber coins. I'm in a tight spot here too.
 QUEST_20150406_001771	I'm very sorry but I do hope you understand.
 QUEST_20150406_001772	Then I have no business with you
 QUEST_20150406_001773	You're even worse than me.
@@ -2299,28 +2299,28 @@ QUEST_20150729_002306	Coffin destroyed
 QUEST_20150729_002307	Coffin has been destroyed!
 QUEST_20150729_002308	A corpse walked out of the coffin!
 QUEST_20150729_002309	An unknown force prevents you from getting closer.
-QUEST_20150729_002310	Aiste asked the elderly beggar, {nl}'Did you by any chance pick up the silver coins I dropped? Would you return them to me? I worked very hard everyday for those coins and really need them.'{nl}{nl}
+QUEST_20150729_002310	Aiste asked the elderly beggar, {nl}'Did you by any chance pick up the Silber coins I dropped? Would you return them to me? I worked very hard everyday for those coins and really need them.'{nl}{nl}
 QUEST_20150729_002311	The beggar was taken aback. Aiste was asking for the impossible. After all, finding dropped coins in Fedimian was unthinkable. {nl}The old beggar was about to explain this to Aiste but instead remarked, {nl}'I've also lost coins in this area. It would be nice if you looked for mine as you searched for yours.'{nl}{nl}
-QUEST_20150729_002312	'Why don't you go to where you work and explain what happened to them? Make sure you look lost.' The beggar then hesitantly added, {nl}'In the meantime, I'll be looking for your silver coins here.'{nl}{nl}
+QUEST_20150729_002312	'Why don't you go to where you work and explain what happened to them? Make sure you look lost.' The beggar then hesitantly added, {nl}'In the meantime, I'll be looking for your Silber coins here.'{nl}{nl}
 QUEST_20150729_002313	And so he said, {nl}'Just as you've been able to pick up all my fruit, you should be able to find your lost money at Fedimian, so do not tell me to give you a Sekunde pay.' {nl}The orchard owner's cold words brought tears to the girl's eyes. {nl}The sight broke his heart, but even so, he did not want to give her any more money. {nl}{nl}
 QUEST_20150729_002314	He was soon overtaken by guilt and said, {nl}'If you really need that money, you should go to the silversmith's.'{nl}{nl}
 QUEST_20150729_002315	The silversmith, after hearing Aiste's story, stated, {nl}'Even for children it is foolish to be so careless. How could you not know that all money that falls on Fedimian soil disappears, never to be found again?'{nl}{nl}
 QUEST_20150729_002316	Aiste was surprised by what the silversmith said and grew sad. {nl}After a while she asked, {nl}'Then why is it that such a cruel thing happens?'{nl}{nl}
 QUEST_20150729_002317	Even the silversmith did not know the true answer, so he improvised, {nl}'Goddess Zemyna must be taking them.'{nl}{nl}
 QUEST_20150729_002318	Hearing those words, Aiste replied, {nl}'Then I will just have to go ask the goddess.' {nl}The silversmith was astounded and replied, {nl}'While you're at it, why don't you ask the goddess to return my silverware?'{nl}{nl}
-QUEST_20150729_002319	An exhausted Aiste soon arrived at the Statue der Göttin Zemyna. {nl}She prostrated herself before it and prayed to the Goddess Statue represented, her head completely down. {nl}'Oh, goddess. Please return my lost silver coins.' {nl}Soon, while offering her prayers, Aiste could no longer hold in her sadness and she finally wept.{nl}{nl}
+QUEST_20150729_002319	An exhausted Aiste soon arrived at the Statue der Göttin Zemyna. {nl}She prostrated herself before it and prayed to the Goddess Statue represented, her head completely down. {nl}'Oh, goddess. Please return my lost Silber coins.' {nl}Soon, while offering her prayers, Aiste could no longer hold in her sadness and she finally wept.{nl}{nl}
 QUEST_20150729_002320	How long did she pray crying? {nl}Suddenly, Aiste heard a voice addressed to her. {nl}'My child, have come to take back what you have lost?'{nl}{nl}
 QUEST_20150729_002321	The goddess' voice was heard again. {nl}'Aiste, what your asking from me is not in a method I approve of. Where I reign there is no harvest nor fruits to those who do not work.'{nl}{nl}
 QUEST_20150729_002322	'But I worked very hard today!'{nl}{nl}
 QUEST_20150729_002323	'I know. So instead, I will give you and the others a chance. Look under your feet.'{nl}{nl}
-QUEST_20150729_002324	After a number of steps, Aiste thought about the silversmith, {nl}and, again, went to his house and knocked on his door. {nl}As if the silversmith was waiting for her return, he opened the door immediately and said. {nl}'I'm sorry. I regret sending you away like that. I'll give you some silver. {nl}This time, be careful not to drop any and get home safely.'{nl}{nl}
-QUEST_20150729_002325	As the silversmith held out his silver coins, Aiste shook her head and said,{nl}'No thank you, the goddess returned all my coins. On top of that she gave me even more. {nl}I remembered you saying you had also lost silver, so I came to give you my extra coins. You don't need to give me yours.'{nl}{nl}
-QUEST_20150729_002326	At first, the silversmith was skeptical about the coins being returned, {nl}so he was surprised when Aiste showed him genuine coins. After thinking for a while, the silversmith said, {nl}'Then how about this. You give me what you want while you accept what I was about to give you. {nl}Isn't that fair? On top of that I'll give you a pouch to carry your extra silver.'{nl}{nl}
+QUEST_20150729_002324	After a number of steps, Aiste thought about the silversmith, {nl}and, again, went to his house and knocked on his door. {nl}As if the silversmith was waiting for her return, he opened the door immediately and said. {nl}'I'm sorry. I regret sending you away like that. I'll give you some Silber. {nl}This time, be careful not to drop any and get home safely.'{nl}{nl}
+QUEST_20150729_002325	As the silversmith held out his Silber coins, Aiste shook her head and said,{nl}'No thank you, the goddess returned all my coins. On top of that she gave me even more. {nl}I remembered you saying you had also lost Silber, so I came to give you my extra coins. You don't need to give me yours.'{nl}{nl}
+QUEST_20150729_002326	At first, the silversmith was skeptical about the coins being returned, {nl}so he was surprised when Aiste showed him genuine coins. After thinking for a while, the silversmith said, {nl}'Then how about this. You give me what you want while you accept what I was about to give you. {nl}Isn't that fair? On top of that I'll give you a pouch to carry your extra Silber.'{nl}{nl}
 QUEST_20150729_002327	After leaving the silversmith's house, {nl}Aiste suddenly remembered that the old beggar must still be looking for her lost coins and worried about him. {nl}On her way to the beggar, she met the orchard owner again. {nl}Upon seeing Aiste, the orchard owner was overjoyed. {nl}'I was looking for you. I'm sorry for sending you off earlier. As an apology, I'll give you your salary again. {nl}Please be careful not to lose it this time.'{nl}{nl}
 QUEST_20150729_002328	The orchard owner took out a Groß amount of coins, more than what Aiste's salary was, and handed it to her. {nl}However, Aiste shook her head and said, {nl}'Goddess Zemyna already returned my money to me. The silversmith also helped me, so now I actually have too much. {nl}Here, take a look.'{nl}{nl}
 QUEST_20150729_002329	Disregarding the amount Aiste had shown him, the orchard owner said, {nl}'Well, even so, I would be ashamed for not giving you my due, so please just take it.' {nl}After saying this, the orchard owner stuffed his coins into Aiste's bag and left. {nl}By the time Aiste could muster up the energy to call the orchard owner, he was too far away.{nl}{nl}
-QUEST_20150729_002330	She hesitated for a moment but then set her mind on the beggar. {nl}After a bit of walking, Aiste arrived at where they met. The old beggar spotted her first and hurried over to her. {nl}He showed her the silver coins he was clenching onto and said, 'Look! I found your lost silver.' {nl}Aiste received the beggar's silver and then showed the beggar her bag and said, {nl}'Look, I found your silver coins too.'{nl}{nl}
-QUEST_20150729_002331	After that, Aiste also held out her bag and said, {nl}'This is a gift as thanks for looking for my silver. I was given this through Goddess Zemyna's grace.' {nl}Aiste then left before the Old Beggar could figure out how to reply.{nl}{nl}
+QUEST_20150729_002330	She hesitated for a moment but then set her mind on the beggar. {nl}After a bit of walking, Aiste arrived at where they met. The old beggar spotted her first and hurried over to her. {nl}He showed her the Silber coins he was clenching onto and said, 'Look! I found your lost Silber.' {nl}Aiste received the beggar's Silber and then showed the beggar her bag and said, {nl}'Look, I found your Silber coins too.'{nl}{nl}
+QUEST_20150729_002331	After that, Aiste also held out her bag and said, {nl}'This is a gift as thanks for looking for my Silber. I was given this through Goddess Zemyna's grace.' {nl}Aiste then left before the Old Beggar could figure out how to reply.{nl}{nl}
 QUEST_20150729_002332	Over the jingling sound of gold, the old woman muttered. {nl}'If these two pieces of gold could ever marry, the baby gold would make me rich... but there's no life in these things...' {nl}Modestas heard those words, and decided to comment. {nl}'That gold won't make you rich by itself, so just put it into something worthwhile. {nl}Do you really think muttering at baby gold will do something?'{nl}
 QUEST_20150729_002333	The old woman spoke plainly, 'Why not? If this way bears fruit, it'll be safe and secure.' {nl}'That's ridiculous. You should do what I do and gamble.' {nl}The woman was incensed.{nl}
 QUEST_20150729_002334	'So, you think your betting ways are better?' {nl}'Why wouldn't I? There are moments where I could win or lose, but your way won't make any gold at all.' {nl}With Modestas' words, the old woman paused in thought. Finally, she said, {nl}'Then let's have a bet.'{nl}
@@ -2429,7 +2429,7 @@ QUEST_20150918_002436	I'm looking over the shop because my father is busy. {nl}I
 QUEST_20150918_002437	Look around! {nl}It's a bit crowded, but many items are waiting to meet its owner.
 QUEST_20150918_002438	Storage Keeper Zadan
 QUEST_20150918_002439	Welcome. It sure is busy here, right?{nl}Please be patient with us as we're trying our best to restore the area.{nl}Anyway, how can I help you?
-QUEST_20150918_002440	Fedimian was known for its silver craft. {nl}The town is still being restored, but the skill of its people remain.
+QUEST_20150918_002440	Fedimian was known for its Silber craft. {nl}The town is still being restored, but the skill of its people remain.
 QUEST_20150918_002441	This place is insane. {nl}The only way to get rid of this cursed Tree Root Crystal is to burn it down. {nl}We need fire. A huge one.
 QUEST_20150918_002442	Is that the head of a Goddess Statue over there?
 QUEST_20150918_002443	There is a box over there. Should I check it?

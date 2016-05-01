@@ -443,7 +443,7 @@ QUEST_LV_0200_20150317_000442	For what did my brother... {nl}How important could
 QUEST_LV_0200_20150317_000443	Fedimian is still under reconstruction. {nl}The Heilig Area is better off; the other areas are so bad you can't even enter them.
 QUEST_LV_0200_20150317_000444	I'll probably be working again from now on. {nl}You gotta be busy to feel alive.
 QUEST_LV_0200_20150317_000445	I would have been in trouble if not for your help. {nl}Fedimian is still under construction and there aren't any proper medical facilities.
-QUEST_LV_0200_20150317_000446	There are two ways to approach the goddess. {nl}Strong belief for the goddess and the sound of silver dropping on the offering box. {nl}We're just being honest here. Don't you think the same?
+QUEST_LV_0200_20150317_000446	There are two ways to approach the goddess. {nl}Strong belief for the goddess and the sound of Silber dropping on the offering box. {nl}We're just being honest here. Don't you think the same?
 QUEST_LV_0200_20150317_000447	I don't really mind the rumors but do people believe that spell can retain your youth? {nl}Well, maybe it can but... {nl}Ah, I don't want to talk about it anymore.
 QUEST_LV_0200_20150317_000448	Supplies Officer
 QUEST_LV_0200_20150317_000449	There's always a shortage of supplies and we're always tired.
@@ -801,7 +801,7 @@ QUEST_LV_0200_20150317_000800	This is a method I used when I was alive. {nl}It w
 QUEST_LV_0200_20150317_000801	The Supply Squad should have arrived already, but they are late. {nl}I'm sure something happened to them. Can you search for them in the lower area?
 QUEST_LV_0200_20150317_000802	I'm sure we can find our way out of here if we can find the Supply Squad.
 QUEST_LV_0200_20150317_000803	Are you from the Rearguard Unit? {nl}I'm sorry we've been so late. {nl}
-QUEST_LV_0200_20150317_000804	But we are all very tired. {nl}If you want to help us get back to the Rearguard Unit Camp, please help us gather the scattered supplies.
+QUEST_LV_0200_20150317_000804	But we are all very tired. {nl}If you want to help us get back to the Rearguard Unit Lager, please help us gather the scattered supplies.
 QUEST_LV_0200_20150317_000805	All kinds of monsters attack us when we have supplies. {nl}We need more soldiers, but we haven't received any, no matter how much backup we requested.
 QUEST_LV_0200_20150317_000806	Thank you. {nl}This will be enough to cover for us.
 QUEST_LV_0200_20150317_000807	Right now, it would be best for our troops to join with Danus' troops. {nl} We will join them soon after a little rest so please deliver them the food supplies first.
@@ -1257,7 +1257,7 @@ QUEST_LV_0200_20150317_001256	Notice/Bonfire is lighted.#3
 QUEST_LV_0200_20150317_001257	Bonfire of the Patrol Route (3)
 QUEST_LV_0200_20150317_001258	Bonfire of the Patrol Route (4)
 QUEST_LV_0200_20150317_001259	Commander Vacenin (2)
-QUEST_LV_0200_20150317_001260	Return to Camp
+QUEST_LV_0200_20150317_001260	Return to Lager
 QUEST_LV_0200_20150317_001261	I'll rest for a while
 QUEST_LV_0200_20150317_001262	Memorial Service (1)
 QUEST_LV_0200_20150317_001263	I'll collect their remains
@@ -2147,7 +2147,7 @@ QUEST_LV_0200_20150317_002146	You've defeated all the monsters that are rushing 
 QUEST_LV_0200_20150317_002147	Besiege Bites
 QUEST_LV_0200_20150317_002148	Officer Danus seems to be waiting for someone. Sprich mit Officer Danus again.
 QUEST_LV_0200_20150317_002149	Look for the Supply Officer
-QUEST_LV_0200_20150317_002150	Officer Danus is desperately looking for the Supply Squad. At the lower end of the Rearguard Unit Camp look for the Supply Officer and talk to him.
+QUEST_LV_0200_20150317_002150	Officer Danus is desperately looking for the Supply Squad. At the lower end of the Rearguard Unit Lager look for the Supply Officer and talk to him.
 QUEST_LV_0200_20150317_002151	Sprich mit the Supply Officer
 QUEST_LV_0200_20150317_002152	You've found the Supply Squad. Sprich mit the Supply Officer again.
 QUEST_LV_0200_20150317_002153	Retrieve the Supplies
@@ -2164,7 +2164,7 @@ QUEST_LV_0200_20150317_002163	Soldier Roy told you that he can't go back before 
 QUEST_LV_0200_20150317_002164	Hand it over to Soldier Roy
 QUEST_LV_0200_20150317_002165	You've got a Puragi's Hook. Hand it over to Soldier Roy.
 QUEST_LV_0200_20150317_002166	Sprich mit Senior Officer Philipas
-QUEST_LV_0200_20150317_002167	Senior Commander Philipas is waiting for Soldier Roy at the Center Unit Camp. Sprich mit Philipas.
+QUEST_LV_0200_20150317_002167	Senior Commander Philipas is waiting for Soldier Roy at the Center Unit Lager. Sprich mit Philipas.
 QUEST_LV_0200_20150317_002168	Besiege a Big Blue Griba at the hills
 QUEST_LV_0200_20150317_002169	Senior Officer Philipas is blaming you for Soldier Roy being at the Rearguard. First defeat a Big Blue Griba at the hills.
 QUEST_LV_0200_20150317_002170	Bericht an Philipas
@@ -2190,7 +2190,7 @@ QUEST_LV_0200_20150317_002189	The soldiers are already fighting against Mushwort
 QUEST_LV_0200_20150317_002190	Bericht an Senior Officer Philipas
 QUEST_LV_0200_20150317_002191	You've defeated the Mushwort. Sprich mit Philipas.
 QUEST_LV_0200_20150317_002192	Found a herd of small Gribas
-QUEST_LV_0200_20150317_002193	There is a small herd of Gribas near the Rearguard Unit Camp. Let's go and see them carefully.
+QUEST_LV_0200_20150317_002193	There is a small herd of Gribas near the Rearguard Unit Lager. Let's go and see them carefully.
 QUEST_LV_0200_20150317_002194	As you touched the small Gribas, Big Blue Gribas appeared. Besiege them.
 QUEST_LV_0200_20150317_002195	There are the belongings for an unknown soldier who died here due to the monsters. He might be the owner of the necklace that you picked up. Wear it for him and pray for his soul.
 QUEST_LV_0200_20150317_002196	Besiege Werewolf
@@ -2709,7 +2709,7 @@ QUEST_LV_0200_20150317_002708	Destroy the protection device of Indolent Tree Roo
 QUEST_LV_0200_20150317_002709	Try to destroy the Indolent Tree Root Crystal
 QUEST_LV_0200_20150317_002710	In Nomadic camp, there are mutated Tree Root Crystals under the curse of Naktis. Approach it and destroy it.
 QUEST_LV_0200_20150317_002711	Destroy the Guardian Stone of the summoned Tree Root Crystal
-QUEST_LV_0200_20150317_002712	When you attacked the mutated Tree Root Crystal in Nomadic Camp, its stamina disappeared and the core split nearby. First, find the cores and break it.
+QUEST_LV_0200_20150317_002712	When you attacked the mutated Tree Root Crystal in Nomadic Lager, its stamina disappeared and the core split nearby. First, find the cores and break it.
 QUEST_LV_0200_20150317_002713	Destroy the Indolent Tree Root Crystal
 QUEST_LV_0200_20150317_002714	Broke all the cores of the Crystal. {nl}Try to destroy the mutated Tree Root Crystal again.
 QUEST_LV_0200_20150317_002715	Mutated Tree Root Crystal of Zikore Shore
@@ -2813,7 +2813,7 @@ QUEST_LV_0200_20150317_002812	Receive the Sanctum's Blessing
 QUEST_LV_0200_20150317_002813	Read the signboard and find a reasonable way to receive blessings from the Sanctum.
 QUEST_LV_0200_20150317_002814	Offer contributions to the Sanctum
 QUEST_LV_0200_20150317_002815	You need to offer money to this Sanctum. The amount and number of offers per person is set so make your offers with caution.
-QUEST_LV_0200_20150317_002816	Offered appropriate amount of silver to the Sanctum. Receive the blessing of the Sanctum.
+QUEST_LV_0200_20150317_002816	Offered appropriate amount of Silber to the Sanctum. Receive the blessing of the Sanctum.
 QUEST_LV_0200_20150317_002817	Lure monsters to use as sacrifice
 QUEST_LV_0200_20150317_002818	If you want to worship the Sanctum properly, you need to offer sacrifice as written in the signboard. Lure the monsters nearby to the Sanctum and defeat it.
 QUEST_LV_0200_20150317_002819	Pay worship to the sanctum
@@ -2864,7 +2864,7 @@ QUEST_LV_0200_20150317_002863	Prepare offerings
 QUEST_LV_0200_20150317_002864	You need to offer flowers for blessings of the Sanctum. Pick flowers from nearby to offer to and pray to the Sanctum.
 QUEST_LV_0200_20150317_002865	Gathered all the flowers needed. Offer it to the Sanctum and receive blessings.
 QUEST_LV_0200_20150317_002866	Go to Pardoner Master
-QUEST_LV_0200_20150317_002867	People just lose their silver and faint even after offering money to the Sanctum. This Sanctum also seems to have been polluted and the signboard says its under the Pardoner Master's management to go to him.
+QUEST_LV_0200_20150317_002867	People just lose their Silber and faint even after offering money to the Sanctum. This Sanctum also seems to have been polluted and the signboard says its under the Pardoner Master's management to go to him.
 QUEST_LV_0200_20150317_002868	Purify the Polluted Sanctum
 QUEST_LV_0200_20150317_002869	The Sanctum will be back if you burn the purifier you bought from Pardoner Master in front of the Sanctum. Burn the purifier.
 QUEST_LV_0200_20150317_002870	Learn from Pardoner Master how to purify
@@ -4715,10 +4715,10 @@ QUEST_LV_0200_20150323_004714	Look closely at the piled up food
 QUEST_LV_0200_20150323_004715	The piled up food that was collected by the ones who are cursed is getting rotten at the various places in the Starving Demon's Way. Clean the piled up food.
 QUEST_LV_0200_20150323_004716	Destroy the spoiled protective barrier
 QUEST_LV_0200_20150323_004717	As you were about to look closely at the Tree Root Crystals, the barriers that were protecting the crystals appeared! Destroy all the barriers before they disappear.
-QUEST_LV_0200_20150323_004718	Spoiled Tree Root Crystal at the Nomads Camp
-QUEST_LV_0200_20150323_004719	There is a Tree Root Crystal at the Nomads Camp that has Naktis' Curse of Sloth cast on it. Better go check it out.
+QUEST_LV_0200_20150323_004718	Spoiled Tree Root Crystal at the Nomads Lager
+QUEST_LV_0200_20150323_004719	There is a Tree Root Crystal at the Nomads Lager that has Naktis' Curse of Sloth cast on it. Better go check it out.
 QUEST_LV_0200_20150323_004720	Destroy the Reformed Tree Root Crystal's Core
-QUEST_LV_0200_20150323_004721	As you were trying to destroy the Tree Root Crystal at the Nomads Camp, it consumed your stamina and scattered its Core everywhere. Find the Core pieces and destroy them.
+QUEST_LV_0200_20150323_004721	As you were trying to destroy the Tree Root Crystal at the Nomads Lager, it consumed your stamina and scattered its Core everywhere. Find the Core pieces and destroy them.
 QUEST_LV_0200_20150323_004722	You destroyed all the crystal's Cores. Now, try destroying the transformed Tree Root Crystal again.
 QUEST_LV_0200_20150323_004723	Spoiled Tree Root Crystal at Pusapskritimis Shore
 QUEST_LV_0200_20150323_004724	There is a Spoiled Tree Root Crystal at the Pusapskritimis Shore. Better light up a fire and destroy it.
@@ -4861,7 +4861,7 @@ QUEST_LV_0200_20150323_004860	Purify the Pond of Silence with the sap of the Tre
 QUEST_LV_0200_20150323_004861	The sap has collected some at the pots that you have placed. Purify the Pond of Silence using the collected sap.
 QUEST_LV_0200_20150323_004862	When you purify the Pond of Silence using the sap, the Tree of Faith will retrieve its energy. Pour the sap into the Pond.
 QUEST_LV_0200_20150323_004863	The appearance of an evil energy
-QUEST_LV_0200_20150323_004864	As the Tree of Faith revived, an unknown, evil energy appeared at the Peddler Camp. Hurry to it.
+QUEST_LV_0200_20150323_004864	As the Tree of Faith revived, an unknown, evil energy appeared at the Peddler Lager. Hurry to it.
 QUEST_LV_0200_20150323_004865	The Succubus that lured the pilgrim at the Apsimesti Crossroads appeared. Besiege the Succubus.
 QUEST_LV_0200_20150323_004866	Besiege the monsters that are protecting the hidden space
 QUEST_LV_0200_20150323_004867	It seems that we are still far away from resolving the accident that occurred at Paupys Crossing. Sprich mit Frey what to do next.
@@ -8511,7 +8511,7 @@ QUEST_LV_0200_20150714_008514	Read the writings on the tombstone aloud. Don't ov
 QUEST_LV_0200_20150714_008515	Wrote on the stone. Examine the tombstone to see what happens.
 QUEST_LV_0200_20150714_008516	The tombstone broke and monsters emerged! Besiege them!
 QUEST_LV_0200_20150714_008517	Meet Justas
-QUEST_LV_0200_20150714_008518	Meet Justas at the Research Camp
+QUEST_LV_0200_20150714_008518	Meet Justas at the Research Lager
 QUEST_LV_0200_20150714_008519	Justas seems to be in trouble. Besiege the monsters that are attacking Justas.
 QUEST_LV_0200_20150714_008520	Sprich mit Justas
 QUEST_LV_0200_20150714_008521	Defeated all the monsters. Sprich mit Justas and find out what this is all about.
@@ -8779,17 +8779,17 @@ QUEST_LV_0200_20150717_008782	What are you going to do if you can't use the spel
 QUEST_LV_0200_20150717_008783	Why the spell can't be used
 QUEST_LV_0200_20150717_008784	Notice/Read the Memo from Hones!#5
 QUEST_LV_0200_20150717_008785	Surrounded by Enemies
-QUEST_LV_0200_20150717_008786	Reclaim the Camp (1)
+QUEST_LV_0200_20150717_008786	Reclaim the Lager (1)
 QUEST_LV_0200_20150717_008787	I will bring it
 QUEST_LV_0200_20150717_008788	I can't do that
-QUEST_LV_0200_20150717_008789	Reclaim the Camp (2)
+QUEST_LV_0200_20150717_008789	Reclaim the Lager (2)
 QUEST_LV_0200_20150717_008790	Help collect equipments.
 QUEST_LV_0200_20150717_008791	Do not help.
-QUEST_LV_0200_20150717_008792	Reclaim the Camp (3)
+QUEST_LV_0200_20150717_008792	Reclaim the Lager (3)
 QUEST_LV_0200_20150717_008793	I'm not yet ready
-QUEST_LV_0200_20150717_008794	Reclaim the Camp (4)
+QUEST_LV_0200_20150717_008794	Reclaim the Lager (4)
 QUEST_LV_0200_20150717_008795	I will set up a defensive facility.
-QUEST_LV_0200_20150717_008796	Reclaim the Camp (5)
+QUEST_LV_0200_20150717_008796	Reclaim the Lager (5)
 QUEST_LV_0200_20150717_008797	Send it.
 QUEST_LV_0200_20150717_008798	Give it a thorough thought.
 QUEST_LV_0200_20150717_008799	Ignore it.
@@ -8848,7 +8848,7 @@ QUEST_LV_0200_20150717_008851	Get out from the monsters' raid
 QUEST_LV_0200_20150717_008852	Get out from the monsters' raid.
 QUEST_LV_0200_20150717_008853	Sprich mit Royal Army Guard Delus
 QUEST_LV_0200_20150717_008854	Sprich mit Royal Army Guard Delus.
-QUEST_LV_0200_20150717_008855	Reclaim the Camp
+QUEST_LV_0200_20150717_008855	Reclaim the Lager
 QUEST_LV_0200_20150717_008856	Bring the Royal Army Guard who fell behind
 QUEST_LV_0200_20150717_008857	Bring the Royal Army Guard who fell behind.
 QUEST_LV_0200_20150717_008858	Sprich mit the Royal Army Guard Delus
@@ -9504,7 +9504,7 @@ QUEST_LV_0200_20151001_009507	I don't know what you are saying
 QUEST_LV_0200_20151001_009508	I will lend you my power
 QUEST_LV_0200_20151001_009509	I am not competent enough yet
 QUEST_LV_0200_20151001_009510	Tell me how I can help Aldona
-QUEST_LV_0200_20151001_009511	To the Camp
+QUEST_LV_0200_20151001_009511	To the Lager
 QUEST_LV_0200_20151001_009512	Follow me well
 QUEST_LV_0200_20151001_009513	Mesafasla, the Strategic Spot (1)
 QUEST_LV_0200_20151001_009514	Mesafasla, the Strategic Spot (2)
@@ -10459,6 +10459,6 @@ QUEST_LV_0200_20160323_010462	Really? Thank you!{nl}All you need to do is plant 
 QUEST_LV_0200_20160323_010463	On top of that, the abbot is locked inside the monastery.{nl}One thing is after we reclaimed the monastery, {nl}but before then please don't mention the expulsion.
 QUEST_LV_0200_20160323_010464	Let's make this your final test, then.{nl}The priests have asked to repair the statue of Goddes Ausrine in Orsha {nl}and the statue of Goddess Vakarine in Fedimian.{nl}
 QUEST_LV_0200_20160323_010465	The balm is finished.{nl}Take it and repair the Göttin Statuen in Orsha and Fedimian.{nl}
-QUEST_LV_0200_20160323_010466	I've prepared some magic to break the barrier. Go now.{nl}Follow the road south to the Soldier's Camp, the head to the Minkatos Forkroad.
+QUEST_LV_0200_20160323_010466	I've prepared some magic to break the barrier. Go now.{nl}Follow the road south to the Soldier's Lager, the head to the Minkatos Forkroad.
 QUEST_LV_0200_20160323_010467	Burning Stones [Fletcher Advancement]
 QUEST_LV_0200_20160323_010468	You've received the balm. Use it to repair the statue of Goddes Ausrine in Orsha and the statue of Goddess Vakarine in Fedimian.

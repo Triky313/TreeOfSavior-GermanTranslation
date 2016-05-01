@@ -1734,7 +1734,7 @@ ETC_20150317_001733	Reperaturkosten: {Price}{nl} Willst du wirklich reparieren?
 ETC_20150317_001734	Unbestimmt
 ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
-ETC_20150317_001737	You don't have enough silver.
+ETC_20150317_001737	You don't have enough Silber.
 ETC_20150317_001738	Level 1 oder höher
 ETC_20150317_001739	Jede Klasse
 ETC_20150317_001740	Swordsman
@@ -1814,7 +1814,7 @@ ETC_20150317_001813	CON
 ETC_20150317_001814	Beissen
 ETC_20150317_001815	The Raleigh
 ETC_20150317_001816	Verschmutzung
-ETC_20150317_001817	Do you want to increase {Stat} for {Silber} silver?
+ETC_20150317_001817	Do you want to increase {Stat} for {Silber} Silber?
 ETC_20150317_001818	Trefferwahrscheinlichkeit
 ETC_20150317_001819	Kritisch
 ETC_20150317_001820	DEX
@@ -1854,8 +1854,8 @@ ETC_20150317_001853	{Ul}Max Schaden! {/}
 ETC_20150317_001854	 Lv
 ETC_20150317_001855	erhaltene Menge
 ETC_20150317_001856	erhaltene Monster
-ETC_20150317_001857	Kaufen vom Shop
-ETC_20150317_001858	Verkaufen im Shop
+ETC_20150317_001857	Kaufen vom Laden
+ETC_20150317_001858	Verkaufen im Laden
 ETC_20150317_001859	Cheat key
 ETC_20150317_001860	Handeln
 ETC_20150317_001861	Wechsle Ausruestung
@@ -1906,7 +1906,7 @@ ETC_20150317_001905	Geschenkwertung + {Auto_1}
 ETC_20150317_001906	Belohnung
 ETC_20150317_001907	EXP
 ETC_20150317_001908	(Angriff-Widerstand)
-ETC_20150317_001909	Requires a record in the Adventure Journal. Press the A key to update whilst sitting.
+ETC_20150317_001909	Benötigt a record in the Adventure Journal. Press the A key to update whilst sitting.
 ETC_20150317_001910	Du kannst nun den Title [{Auto_1}] benutzen.
 ETC_20150317_001911	Fähigkeiten
 ETC_20150317_001912	{@st59} Klicke für mehr Informationen {/}
@@ -1929,9 +1929,9 @@ ETC_20150317_001928	Zeige Information
 ETC_20150317_001929	Ch 
 ETC_20150317_001930	Willst du in Channel {Channel} wechseln?
 ETC_20150317_001931	Preis
-ETC_20150317_001932	's Haus
+ETC_20150317_001932	's Hütte
 ETC_20150317_001933	Dieser Channel ist geschlossen.
-ETC_20150317_001934	iCoin Shop
+ETC_20150317_001934	iCoin Laden
 ETC_20150317_001935	Verteidigung
 ETC_20150317_001936	Vorwaerts schiessen!
 ETC_20150317_001937	Montieren!
@@ -2245,17 +2245,17 @@ ETC_20150317_002244	You have placed the map in the collection tube
 ETC_20150317_002245	Picking up the map
 ETC_20150317_002246	Retrieved the map which was placed into the tube!
 ETC_20150317_002247	As the blessing of altar, You can run very fast during 30 sec!
-ETC_20150317_002248	I want to make a contribution of 100 silver.
-ETC_20150317_002249	I want to make a contribution of 500 silver.
-ETC_20150317_002250	I want to make a contribution of 1000 silver.
-ETC_20150317_002251	I want to make a contribution of 40 silver.
-ETC_20150317_002252	I want to make a contribution of 50 silver.
-ETC_20150317_002253	I want to make a contribution of 100 silver.
-ETC_20150317_002254	As promised, I donated 100 silver.
-ETC_20150317_002255	As promised, I donated 500 silver.
-ETC_20150317_002256	As promised, I donated 1000 silver.
-ETC_20150317_002257	As promised, I donated 40 silver.
-ETC_20150317_002258	As promised, I donated 50 silver.
+ETC_20150317_002248	I want to make a contribution of 100 Silber.
+ETC_20150317_002249	I want to make a contribution of 500 Silber.
+ETC_20150317_002250	I want to make a contribution of 1000 Silber.
+ETC_20150317_002251	I want to make a contribution of 40 Silber.
+ETC_20150317_002252	I want to make a contribution of 50 Silber.
+ETC_20150317_002253	I want to make a contribution of 100 Silber.
+ETC_20150317_002254	As promised, I donated 100 Silber.
+ETC_20150317_002255	As promised, I donated 500 Silber.
+ETC_20150317_002256	As promised, I donated 1000 Silber.
+ETC_20150317_002257	As promised, I donated 40 Silber.
+ETC_20150317_002258	As promised, I donated 50 Silber.
 ETC_20150317_002259	Collecting Dewdrops
 ETC_20150317_002260	You have successfully collected dewdrops!
 ETC_20150317_002261	Detected the monster which swallowed the flag to tear around here.{nl}Use V key for faith's mark!
@@ -2270,8 +2270,8 @@ ETC_20150317_002269	Picking up flowers for offering
 ETC_20150317_002270	Plucked the flower!
 ETC_20150317_002271	I lost in the fragrance of flowers.
 ETC_20150317_002272	Buy
-ETC_20150317_002273	Offer 10 silver
-ETC_20150317_002274	Offered 10 silver!
+ETC_20150317_002273	Offer 10 Silber
+ETC_20150317_002274	Offered 10 Silber!
 ETC_20150317_002275	As the blessing of sanctum, the recovery time will be increased during 10 sec!
 ETC_20150317_002276	Collecting dewdrops on the tombstone
 ETC_20150317_002277	Successfully collected the dewdrops!
@@ -2700,7 +2700,7 @@ ETC_20150317_002697	Menge
 ETC_20150317_002698	Einzelpreis
 ETC_20150317_002699	Gesamtpreis
 ETC_20150317_002700	Menge
-ETC_20150317_002701	Your selling price must be at least 0 silver.
+ETC_20150317_002701	Your selling price must be at least 0 Silber.
 ETC_20150317_002702	Your selling quantity must be higher than 0.
 ETC_20150317_002703	Your item has been successfully added to the Market.
 ETC_20150317_002704	You have successfully purchased an item from the Market.{nl}Please check if you've received the item.
@@ -2740,10 +2740,10 @@ ETC_20150317_002737	Magische Verteidigung
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	Geschlecht
 ETC_20150317_002740	Maximale Sockel
-ETC_20150317_002741	Verkaufen im Shop
+ETC_20150317_002741	Verkaufen im Laden
 ETC_20150317_002742	Trade with Player
 ETC_20150317_002743	Verbesserungspotential
-ETC_20150317_002744	Sell Price to Shop
+ETC_20150317_002744	Sell Price to Laden
 ETC_20150317_002745	Ausrüstungslevel
 ETC_20150317_002746	Ausrüstungsklasse
 ETC_20150317_002747	Piercing
@@ -2946,7 +2946,7 @@ ETC_20150317_002941	Match gefunden.
 ETC_20150317_002942	Warte auf Einstieg
 ETC_20150317_002943	Verschiebung
 ETC_20150317_002944	Spiel ist in Bearbeitung
-ETC_20150317_002945	PvP Shop
+ETC_20150317_002945	PvP Laden
 ETC_20150317_002946	Größe
 ETC_20150317_002947	Verteidigungs-Type
 ETC_20150317_002948	Element-Attribute
@@ -3426,7 +3426,7 @@ ETC_20150317_003421	Groß Saurmen Speerman
 ETC_20150317_003422	Company Ullman Axe
 ETC_20150317_003423	Tontulionv2
 ETC_20150317_003424	Ask if he has the antidote
-ETC_20150317_003425	Give 100 silver
+ETC_20150317_003425	Give 100 Silber
 ETC_20150317_003426	Ask if he has the medicine
 ETC_20150317_003427	Entfernen
 ETC_20150317_003428	Already released.
@@ -3547,7 +3547,7 @@ ETC_20150317_003542	Road on Left: Chinency field (Caution) {nl} Road on right: T
 ETC_20150317_003543	Danger!{nl} Return to Klaipeda!
 ETC_20150317_003544	Seems like there is something below the cliff.
 ETC_20150317_003545	Keep out!{nl}Incinerating Kepas!
-ETC_20150317_003546	West Siauliai Woods Camp
+ETC_20150317_003546	West Siauliai Woods Lager
 ETC_20150317_003547	Note! Hamin infested area
 ETC_20150317_003548	CAUTION! Groß scale battles in progress
 ETC_20150317_003549	It seems like someone has fallen under the cliff
@@ -3555,17 +3555,17 @@ ETC_20150317_003550	Seems like you can climb up by jumping along the cliff
 ETC_20150317_003551	Road on left: Groß-scale combat zone {nl} Road on righty: Temporary camp
 ETC_20150317_003552	CAUTION! Sunflower Popolion infested area
 ETC_20150317_003553	Guild Commission: Siauliai East Branch {nl} Diverse requests, high rewards guaranteed
-ETC_20150317_003554	30m until West Forest Camp
-ETC_20150317_003555	10m until West Forest Camp
+ETC_20150317_003554	30m until West Forest Lager
+ETC_20150317_003555	10m until West Forest Lager
 ETC_20150317_003556	CAUTION! Golems! {nl} Cannot enter without permission
 ETC_20150317_003557	To Klaipeda >
 ETC_20150317_003558	Running for a shortcut
 ETC_20150317_003559	Show directions to Klaipeda
-ETC_20150317_003560	Show directions to the West Forest Camp
+ETC_20150317_003560	Show directions to the West Forest Lager
 ETC_20150317_003561	Company Ullman Warrior
 ETC_20150317_003562	Dionia
 ETC_20150317_003563	Thorn ball
-ETC_20150317_003564	Camp Movement : 
+ETC_20150317_003564	Lager Movement : 
 ETC_20150317_003565	 aktiviert
 ETC_20150317_003566	Index UI
 ETC_20150317_003567	Gegenstand maintenance
@@ -3759,7 +3759,7 @@ ETC_20150317_003754	Quest finished presentation layer before change
 ETC_20150317_003755	The end of the track
 ETC_20150317_003756	Insufficient items
 ETC_20150317_003757	Your inventory is full. You can not receive any more items! {nl}
-ETC_20150317_003758	Open the Kiro Instant Shop and empty your inventory
+ETC_20150317_003758	Open the Kiro Instant Laden and empty your inventory
 ETC_20150317_003759	An empty slot in your inventory is required
 ETC_20150317_003760	Exceeds the cumulative value per slot.
 ETC_20150317_003761	Cannot take all items when deleting quest equipment. Count is negative
@@ -4134,7 +4134,7 @@ ETC_20150317_004129	{@st42b}View Server Location{/}
 ETC_20150317_004130	{@st42b}View Node{/}
 ETC_20150317_004131	{@st42b}XAC Texture Path{/}
 ETC_20150317_004132	{@st42b}View Bounding Box{/}
-ETC_20150317_004133	Haus besuchen
+ETC_20150317_004133	Hütte besuchen
 ETC_20150317_004134	Character Info
 ETC_20150317_004135	Inspection Component
 ETC_20150317_004136	Check default attributes
@@ -4154,7 +4154,7 @@ ETC_20150317_004149	Do you want hire a mercenary? {nl}Consumes iCoin per minute 
 ETC_20150317_004150	Verbrauchbar
 ETC_20150317_004151	Potion
 ETC_20150317_004152	Möglich
-ETC_20150317_004153	{s18}{Auto_1}{Auto_2} Set Effect:
+ETC_20150317_004153	{s18}{Auto_1}{Auto_2} Set Effekt:
 ETC_20150317_004154	(Ausgerüstet)
 ETC_20150317_004155	(Nicht ausgerüstet)
 ETC_20150317_004156	Waffen
@@ -4172,7 +4172,7 @@ ETC_20150317_004167	Male characters cannot equip this item. Check the gender and
 ETC_20150317_004168	Request Contribution:
 ETC_20150317_004169	Please enter the changed value.
 ETC_20150317_004170	The ClassName does already exist
-ETC_20150317_004171	{ol}{@st41b} Received silver: {Auto_1} {img Zeny 20 20}
+ETC_20150317_004171	{ol}{@st41b} Received Silber: {Auto_1} {img Zeny 20 20}
 ETC_20150317_004172	{img {Auto_1} 20 20}{ol}{@st45w3}{s18} {Auto_2} Buff
 ETC_20150317_004173	Function is not nagging class:
 ETC_20150317_004174	Your inventory is full. {nl}
@@ -4209,7 +4209,7 @@ ETC_20150317_004204	You have obtained the [{Auto_1}] achievement.
 ETC_20150317_004205	Auktionsliste
 ETC_20150317_004206	Cabinet
 ETC_20150317_004207	Recording Video
-ETC_20150317_004208	Are you sure you want to change your hairstyle? (Requires 100 iCoins)
+ETC_20150317_004208	Are you sure you want to change your hairstyle? (Benötigt 100 iCoins)
 ETC_20150317_004209	 d
 ETC_20150317_004210	 h
 ETC_20150317_004211	 m
@@ -4329,7 +4329,7 @@ ETC_20150317_004324	Do you want to level up your class?
 ETC_20150317_004325	Do you want to learn a class?
 ETC_20150317_004326	Guest Book
 ETC_20150317_004327	Freunde
-ETC_20150317_004328	Private Shop
+ETC_20150317_004328	Private Laden
 ETC_20150317_004329	Request Purchase
 ETC_20150317_004330	Gegenstand Trading
 ETC_20150317_004331	Mercenary Contract
@@ -4340,7 +4340,7 @@ ETC_20150317_004335	's Purchase Request
 ETC_20150317_004336	Total Price: {Auto_1}, Amount: {Auto_2} ea
 ETC_20150317_004337	's Schwarzes Brett
 ETC_20150317_004338	Reset Status Points
-ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
+ETC_20150317_004339	Benötigt iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{@st59} Increase in Physical Attack and Critical Attack{/}
 ETC_20150317_004341	{@st59} Erhöht HP, HP Erholung, Kritischer Widerstand, Maximale Tragkraft{/}
 ETC_20150317_004342	{@st59} Increase in Magie Schaden and Block Penetration{/}
@@ -4696,11 +4696,11 @@ ETC_20150317_004691	Sorcerer
 ETC_20150317_004692	Anzahl ausgewählter Items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
-ETC_20150317_004695	{#050505}{s18}{b} Socket Effect :
+ETC_20150317_004695	{#050505}{s18}{b} Socket Effekt :
 ETC_20150317_004696	{#050505}{s22}{b} Gegenstand-Effekt :
 ETC_20150317_004697	{@st42} Use
-ETC_20150317_004698	Shop for sale
-ETC_20150317_004699	Shop not for sale
+ETC_20150317_004698	Laden for sale
+ETC_20150317_004699	Laden not for sale
 ETC_20150317_004700	Individual tradable
 ETC_20150317_004701	Individual transaction impossible
 ETC_20150317_004702	And when attached to the card socket,
@@ -4714,7 +4714,7 @@ ETC_20150317_004709	{@st42b} My Adventure
 ETC_20150317_004710	Special compensation
 ETC_20150317_004711	{S20}{#050505} Attacke:
 ETC_20150317_004712	{S20}{#050505} Verteidigung:
-ETC_20150317_004713	You do not have enough silver.
+ETC_20150317_004713	You do not have enough Silber.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
 ETC_20150317_004715	Chat
 ETC_20150317_004716	{@st61} Normal Chat
@@ -4733,7 +4733,7 @@ ETC_20150317_004728	Discarded
 ETC_20150317_004729	(Warp Scroll)
 ETC_20150317_004730	Silber
 ETC_20150317_004731	{@st41b}Confirm{/}
-ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
+ETC_20150317_004732	{@st59} consumes Silber to move to the area. {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
 ETC_20150317_004734	Gebiete
 ETC_20150317_004735	Maps Explored
@@ -4877,7 +4877,7 @@ ETC_20150317_004872	You have exceeded the maximum amount of active daily request
 ETC_20150317_004873	Start request
 ETC_20150317_004874	In order to start request
 ETC_20150317_004875	Bitte verwende den Gegenstand
-ETC_20150317_004876	You do not have enough silver
+ETC_20150317_004876	You do not have enough Silber
 ETC_20150317_004877	Insufficient iCoins
 ETC_20150317_004878	This item is not enough
 ETC_20150317_004879	Start the next step
@@ -5611,7 +5611,7 @@ ETC_20150317_005606	Destructive Power Enhancement
 ETC_20150317_005607	Velakaras' attack has increased.
 ETC_20150317_005608	Possessed Activated Stone
 ETC_20150317_005609	You can destroy the Seal!
-ETC_20150317_005610	Sandstone Powder Effect
+ETC_20150317_005610	Sandstone Powder Effekt
 ETC_20150317_005611	Erhoehe Angriff
 ETC_20150317_005612	Together, we have nothing to fear!
 ETC_20150317_005613	A holy aura envelopes this monster!
@@ -5619,7 +5619,7 @@ ETC_20150317_005614	Fog of Light
 ETC_20150317_005615	The Fog of Light conceals the caster from demons
 ETC_20150317_005616	Cause of Jewel's Instability
 ETC_20150317_005617	Attack Power increased from rampaging energy of the crimson flame gem.
-ETC_20150317_005618	Enhanced Thorn Flower Powder Effect
+ETC_20150317_005618	Enhanced Thorn Flower Powder Effekt
 ETC_20150317_005619	You won't lose your mind under the dark aura.
 ETC_20150317_005620	Unrecognizable
 ETC_20150317_005621	The guardians cannot distinguish the allies and enemies due to corrupted aura of Echad.
@@ -5651,7 +5651,7 @@ ETC_20150317_005646	Impure Aura Intoxication
 ETC_20150317_005647	You've been poisoned due to the hazy energy from the summon crystal.
 ETC_20150317_005648	Brainwash
 ETC_20150317_005649	Brainwashing in progress
-ETC_20150317_005650	Romuva Heilig Water's Effect: Conceals user from demons
+ETC_20150317_005650	Romuva Heilig Water's Effekt: Conceals user from demons
 ETC_20150317_005651	Heilig Spirit Bomb has been attached
 ETC_20150317_005652	Common Death
 ETC_20150317_005653	Heilig Spirit Shackle
@@ -5923,7 +5923,7 @@ ETC_20150317_005918	Your inventory displays items and materials you own, current
 ETC_20150317_005919	You can open the inventory window by pressing {img F2 40 40}.
 ETC_20150317_005920	{nl} {nl}The upper row of your inventory displays the variety of equipped items on your character. 
 ETC_20150317_005921	{nl} {nl}The middle row of your inventory displays items.{nl}These items are sorted by Kategorie.{nl} {nl}
-ETC_20150317_005922	{nl} {nl}The bottom row of your inventory displays the total weight of your items, obtained medals and current silver.{nl} {nl}
+ETC_20150317_005922	{nl} {nl}The bottom row of your inventory displays the total weight of your items, obtained medals and current Silber.{nl} {nl}
 ETC_20150317_005923	You can check the information on your quests through the quest window.
 ETC_20150317_005924	Press the {img F5 40 40} key to view the list of quests in progress. {nl} {nl}
 ETC_20150317_005925	{nl} {nl} Quest-Fortschritts-Symbole{nl} {img minimap_1_MAIN 24 24}: Hauptquest verfügbar {nl} {img minimap_2_MAIN 24 24}: Hauptquest im Gange {nl} {img minimap_3_MAIN 24 24}: Hauptquest abgeschlossen {nl} {img minimap_1_SUB 24 24}: Nebenquest verfügbar {nl} {img minimap_2_SUB 24 24}: Nebenquest im Gange {nl} {img minimap_3_SUB 24 24}: Nebenquest abgeschlossen{nl}{nl}
@@ -5941,7 +5941,7 @@ ETC_20150317_005936	The skill level will increase after you click 'Apply'.
 ETC_20150317_005937	Skills learned are added to the keyboard slot.
 ETC_20150317_005938	Learn attributes from Master NPCs to make your character stronger.
 ETC_20150317_005939	You can learn the attributes from Master NPC of each class.
-ETC_20150317_005940	{nl} {nl} You need silver to learn attributes. Also, each attribute requires time to master. {nl} {nl}
+ETC_20150317_005940	{nl} {nl} You need Silber to learn attributes. Also, each attribute requires time to master. {nl} {nl}
 ETC_20150317_005941	Attributes can be used after they have been mastered.
 ETC_20150317_005942	{nl} {nl} Attributes are automatically added when you start learning. Only one attribute can be trained at a time.{nl} {nl}
 ETC_20150317_005943	{nl} {nl} Attributes you have already mastered can be found at the bottom of the skill window. {nl} {nl}
@@ -6336,14 +6336,14 @@ ETC_20150317_006332	Found the Siauliai Field.
 ETC_20150317_006333	Aebsova Field
 ETC_20150317_006334	Hyth Cliff
 ETC_20150317_006335	Salavija Hill
-ETC_20150317_006336	Abandoned Camp
+ETC_20150317_006336	Abandoned Lager
 ETC_20150317_006337	Hollow Tree Forest
 ETC_20150317_006338	Field of Reeds
 ETC_20150317_006339	Isblyskes Square
 ETC_20150317_006340	Ascetic Sanctuary
 ETC_20150317_006341	Nederlingas Highway
 ETC_20150317_006342	Kabantis Hill
-ETC_20150317_006343	Nomads Camp
+ETC_20150317_006343	Nomads Lager
 ETC_20150317_006344	Pusapskritimis Shore
 ETC_20150317_006345	Pilgrim's Tomb
 ETC_20150317_006346	Posukis Path
@@ -6361,7 +6361,7 @@ ETC_20150317_006357	Hermit's House
 ETC_20150317_006358	Eriukas Chapel
 ETC_20150317_006359	Malone Trail
 ETC_20150317_006360	Sestines Wilderness
-ETC_20150317_006361	Peddler Camp
+ETC_20150317_006361	Peddler Lager
 ETC_20150317_006362	Niekas Field
 ETC_20150317_006363	Meeting Plaza
 ETC_20150317_006364	Klajone Access Road
@@ -6463,15 +6463,15 @@ ETC_20150317_006459	Atviras Field
 ETC_20150317_006460	Susipyne Hill Areas
 ETC_20150317_006461	Ruteykles Highway
 ETC_20150317_006462	Laukimo Vacant Lot
-ETC_20150317_006463	Crossroad Camp
+ETC_20150317_006463	Crossroad Lager
 ETC_20150317_006464	Uolos Farm
 ETC_20150317_006465	Delon Shelter
 ETC_20150317_006466	Klein Robin Bridge
 ETC_20150317_006467	Flude Island
 ETC_20150317_006468	Shadow Forest Road
-ETC_20150317_006469	Eastern Woods Camp
-ETC_20150317_006470	Camp Site
-ETC_20150317_006471	Supplies Camp
+ETC_20150317_006469	Eastern Woods Lager
+ETC_20150317_006470	Lager Site
+ETC_20150317_006471	Supplies Lager
 ETC_20150317_006472	Bulves Farm
 ETC_20150317_006473	Nudeges Felled Area
 ETC_20150317_006474	Crystal Mine Entrance
@@ -6491,22 +6491,22 @@ ETC_20150317_006487	Neuoder Field
 ETC_20150317_006488	Ishrai Crossroads
 ETC_20150317_006489	Kongfiska Hill
 ETC_20150317_006490	Clover Highland
-ETC_20150317_006491	Rearguard Unit Camp
-ETC_20150317_006492	Center Unit Camp
+ETC_20150317_006491	Rearguard Unit Lager
+ETC_20150317_006492	Center Unit Lager
 ETC_20150317_006493	Razygis Hill
 ETC_20150317_006494	Zitiz Shore
 ETC_20150317_006495	Isdaigininko Highway
 ETC_20150317_006496	Occupation Forces Garage
 ETC_20150317_006497	Gyveni Garden
-ETC_20150317_006498	Flag Boot Camp
+ETC_20150317_006498	Flag Boot Lager
 ETC_20150317_006499	Buvylvite Groß Bridge
 ETC_20150317_006500	Morku Farm
 ETC_20150317_006501	Greate Stone Face Hill
-ETC_20150317_006502	Garrison Supply Camp
+ETC_20150317_006502	Garrison Supply Lager
 ETC_20150317_006503	Vubbe Plunder Base
 ETC_20150317_006504	First Supply Room
 ETC_20150317_006505	Sekunde Supply Room
-ETC_20150317_006506	Center Supply Camp
+ETC_20150317_006506	Center Supply Lager
 ETC_20150317_006507	Adata Highway
 ETC_20150317_006508	Amzina Curved Path
 ETC_20150317_006509	Ziedo Pond
@@ -6514,7 +6514,7 @@ ETC_20150317_006510	Malkos Felled Area
 ETC_20150317_006511	Fourth Supply Room
 ETC_20150317_006512	Third Supply Room
 ETC_20150317_006513	Central Plaza
-ETC_20150317_006514	Kateen Forest Camp
+ETC_20150317_006514	Kateen Forest Lager
 ETC_20150317_006515	Peledos Crossroads
 ETC_20150317_006516	Uzesy Hill
 ETC_20150317_006517	Purple Fountain
@@ -6542,7 +6542,7 @@ ETC_20150317_006538	District 5
 ETC_20150317_006539	District 6
 ETC_20150317_006540	District 1
 ETC_20150317_006541	District 7
-ETC_20150317_006542	Excavation Camp
+ETC_20150317_006542	Excavation Lager
 ETC_20150317_006543	Beacon Hill Pass
 ETC_20150317_006544	Dulkiu Hill
 ETC_20150317_006545	Zeme Highland
@@ -6557,7 +6557,7 @@ ETC_20150317_006553	Zluges Historic Site
 ETC_20150317_006554	Pillars of the Courtyard
 ETC_20150317_006555	Dzida Cliff
 ETC_20150317_006556	Collapsed Sanctum
-ETC_20150317_006557	Excavation Team Camp
+ETC_20150317_006557	Excavation Team Lager
 ETC_20150317_006558	Odega Uphill
 ETC_20150317_006559	Apynys Habitat
 ETC_20150317_006560	Alkune Stairway
@@ -6577,7 +6577,7 @@ ETC_20150317_006573	Dykyne Fork
 ETC_20150317_006574	Apatinis Cliff
 ETC_20150317_006575	Nepatogus Field
 ETC_20150317_006576	Neck Cliff of Snake
-ETC_20150317_006577	Camp of Varkis
+ETC_20150317_006577	Lager of Varkis
 ETC_20150317_006578	Forest of Fireflies
 ETC_20150317_006579	Chesed Altar
 ETC_20150317_006580	Keturka Altar
@@ -6634,7 +6634,7 @@ ETC_20150317_006630	White Oak Forest
 ETC_20150317_006631	Thorn Tree Altar
 ETC_20150317_006632	Lax Wooden Bridge
 ETC_20150317_006633	Slepingas Stream
-ETC_20150317_006634	Klein Camp
+ETC_20150317_006634	Klein Lager
 ETC_20150317_006635	Andale Dorf
 ETC_20150317_006636	Saknele Cliff
 ETC_20150317_006637	Ishtaka Plateau
@@ -6729,7 +6729,7 @@ ETC_20150317_006725	Pelena Site
 ETC_20150317_006726	Leipsna Chapel Site
 ETC_20150317_006727	Peddler Camping Ground
 ETC_20150317_006728	Abandoned Farm
-ETC_20150317_006729	Camp of Apiarist
+ETC_20150317_006729	Lager of Apiarist
 ETC_20150317_006730	Karsta Hall Site
 ETC_20150317_006731	Negyvas Field
 ETC_20150317_006732	Beacon
@@ -6773,8 +6773,8 @@ ETC_20150317_006769	Vulvini Farm
 ETC_20150317_006770	Hoga Road
 ETC_20150317_006771	Abandoned Bee Farm
 ETC_20150317_006772	Arkllui Crossroads
-ETC_20150317_006773	1st Beekeeper Camp
-ETC_20150317_006774	2nd Beekeeper Camp
+ETC_20150317_006773	1st Beekeeper Lager
+ETC_20150317_006774	2nd Beekeeper Lager
 ETC_20150317_006775	Vaskas Dorf
 ETC_20150317_006776	Palama Cliff
 ETC_20150317_006777	Stulr Road
@@ -7302,7 +7302,7 @@ ETC_20150317_007298	Klein Schatztruhe
 ETC_20150317_007299	Velheider
 ETC_20150317_007300	Monsters have appeared near Rafflesia.
 ETC_20150317_007301	Hoglan
-ETC_20150317_007302	Zubehör Shop
+ETC_20150317_007302	Zubehör Laden
 ETC_20150317_007303	Miscellaneous Items
 ETC_20150317_007304	Skip Tutorial
 ETC_20150317_007305	Use Druid Attributes
@@ -7460,7 +7460,7 @@ ETC_20150317_007456	Basic Session
 ETC_20150317_007457	Quest Hitme Reward
 ETC_20150317_007458	Run away from the monster-safe area
 ETC_20150317_007459	Make 
-ETC_20150317_007460	Attached Effect
+ETC_20150317_007460	Attached Effekt
 ETC_20150317_007461	Trap Box
 ETC_20150317_007462	Crystal Mine Diary
 ETC_20150317_007463	Create code
@@ -7762,7 +7762,7 @@ ETC_20150317_007758	Release the souls bound to the altar
 ETC_20150317_007759	Testing Drug Experiment to scattered monsters
 ETC_20150317_007760	Collect flowers
 ETC_20150317_007761	Offer the flowers to the altar to comfort the soul
-ETC_20150317_007762	Donate the appropriate silver to altar
+ETC_20150317_007762	Donate the appropriate Silber to altar
 ETC_20150317_007763	Besiege the monsters attracted to the altar 
 ETC_20150317_007764	Collect Reed Dewdrops
 ETC_20150317_007765	Remove the monster summon circle
@@ -7981,7 +7981,7 @@ ETC_20150317_007977	Monsters will disappear automatically if there are no player
 ETC_20150317_007978	N/A
 ETC_20150317_007979	1 hour for each mission
 ETC_20150317_007980	N/A
-ETC_20150317_007981	Set Shop Sell Count 
+ETC_20150317_007981	Set Laden Sell Count 
 ETC_20150317_007982	Session Object Smart Gen
 ETC_20150317_007983	Smart Mongen
 ETC_20150317_007984	N/A
@@ -8805,10 +8805,10 @@ ETC_20150317_008801	The Potential of an item decreases by player trading, adding
 ETC_20150317_008802	Chat Window-Tipp
 ETC_20150317_008803	Press Enter to open the chat window and press Enter again to close it.
 ETC_20150317_008804	Megaphone-Tipp
-ETC_20150317_008805	Entering /y before your chat allows you to broadcast your message. Requires the Megaphone item.
+ETC_20150317_008805	Entering /y before your chat allows you to broadcast your message. Benötigt the Megaphone item.
 ETC_20150317_008806	Repair-Tipp
 ETC_20150317_008807	You can repair equipment with low durability through the Blacksmith NPC located in a city.
-ETC_20150317_008808	Shop System-Tipp
+ETC_20150317_008808	Laden System-Tipp
 ETC_20150317_008809	You can buy and sell items through the merchants NPCs located in the city.
 ETC_20150317_008810	Return-Tipp
 ETC_20150317_008811	You can return to the quest NPC immediately by using the Backspace key or by pressing the 'Go Back' button.
@@ -9020,7 +9020,7 @@ ETC_20150317_009016	Target to Friendly Forces
 ETC_20150317_009017	Mark of Friendly Forces Probability
 ETC_20150317_009018	[arg1]%% as probability
 ETC_20150317_009019	Target Enemies
-ETC_20150317_009020	Special Effect 2
+ETC_20150317_009020	Special Effekt 2
 ETC_20150317_009021	[Wert1] during Sekunden [Wert2] [Wert3]
 ETC_20150317_009022	Application Time
 ETC_20150317_009023	{#050505} yourself
@@ -9120,7 +9120,7 @@ ETC_20150317_009116	Ludas Rafflesia
 ETC_20150317_009117	Paladin Master's Follower
 ETC_20150317_009118	Gras Attrappe
 ETC_20150317_009119	Peteurisi
-ETC_20150317_009120	Trigger of Hidden Shop Creation
+ETC_20150317_009120	Trigger of Hidden Laden Creation
 ETC_20150317_009121	Jibyu Ridimed
 ETC_20150317_009122	invisible NPC
 ETC_20150317_009123	Jibyu Zigri
@@ -9173,7 +9173,7 @@ ETC_20150317_009169	Vubbe Jäger
 ETC_20150317_009170	Mitris Eye Jäger
 ETC_20150317_009171	Ghost Rüstung Jäger
 ETC_20150317_009172	Specter Jäger
-ETC_20150317_009173	Equipment Trade Point Shop
+ETC_20150317_009173	Equipment Trade Point Laden
 ETC_20150317_009174	Soul Peak_1_2
 ETC_20150317_009175	[Ruteelero Master]{nl} Kamiya
 ETC_20150317_009176	[Squire Master]{nl} Justina Legwyn
@@ -9557,7 +9557,7 @@ ETC_20150323_009553	Casket
 ETC_20150323_009554	Green Eldigo
 ETC_20150323_009555	Gremlin
 ETC_20150323_009556	Vasilisk
-ETC_20150323_009557	Refreshment Table
+ETC_20150323_009557	 Erfrischungstisch
 ETC_20150323_009558	Pink Root Mole
 ETC_20150323_009559	Srautas Gorge
 ETC_20150323_009560	Nefritas Cliff
@@ -9613,7 +9613,7 @@ ETC_20150323_009609	White Tree Forest
 ETC_20150323_009610	Maple Forest
 ETC_20150323_009611	Grynas Trails
 ETC_20150323_009612	Kateen Forest
-ETC_20150323_009613	Grynas Training Camp
+ETC_20150323_009613	Grynas Training Lager
 ETC_20150323_009614	Grynas Hills
 ETC_20150323_009615	Greene Manor
 ETC_20150323_009616	Farm Area
@@ -9805,7 +9805,7 @@ ETC_20150323_009802	Movement Speed will be increased by 1 for 30 mins.
 ETC_20150323_009803	Use multiple skills to suppress overkill.
 ETC_20150323_009804	Use Status Points obtained through leveling up {nl}    and upgrade your character's abilities.
 ETC_20150323_009805	Elementalist
-ETC_20150323_009806	Vynas Camp
+ETC_20150323_009806	Vynas Lager
 ETC_20150323_009807	Ryskus City
 ETC_20150323_009808	Maskuote Narthex
 ETC_20150323_009809	Taika Cliff
@@ -9827,7 +9827,7 @@ ETC_20150323_009824	Old Food Storage
 ETC_20150323_009825	Sekio Trail
 ETC_20150323_009826	Ramus Crossroads
 ETC_20150323_009827	Restricted Area
-ETC_20150323_009828	Tenant Farmer Lodge
+ETC_20150323_009828	Tenant Farmer Hütte
 ETC_20150323_009829	Zalaum Farmland
 ETC_20150323_009830	Farm Waterway
 ETC_20150323_009831	Tylila Path
@@ -10019,8 +10019,8 @@ ETC_20150323_010016	Karten-Synthese
 ETC_20150323_010017	Gib deine persönlichen Grüße ein
 ETC_20150323_010018	Barracke ansehen
 ETC_20150323_010019	Spiel starten
-ETC_20150323_010020	User Buy-in Shop
-ETC_20150323_010021	Buff Shop
+ETC_20150323_010020	User Einkaufsladen
+ETC_20150323_010021	Buff Laden
 ETC_20150323_010022	Crafter is still using the skill.
 ETC_20150323_010023	Gegenstand refinement has been completed.
 ETC_20150323_010024	Verbrauchen
@@ -10072,15 +10072,15 @@ ETC_20150323_010069	How could you... do that to me!
 ETC_20150323_010070	We were your colleagues and you betrayed us!
 ETC_20150323_010071	You can run faster for 30 Sekunden because of the Sanctum's Blessing!
 ETC_20150323_010072	Spende 100 Silber
-ETC_20150323_010073	Donate 500 silver
-ETC_20150323_010074	Donate 1000 silver
+ETC_20150323_010073	Donate 500 Silber
+ETC_20150323_010074	Donate 1000 Silber
 ETC_20150323_010075	You can run faster for 60 Sekunden because of the Sanctum's Blessing!
 ETC_20150323_010076	You can run faster for 120 Sekunden because of the Sanctum's Blessing!
-ETC_20150323_010077	Donated 100 silver
-ETC_20150323_010078	Donated 500 silver
-ETC_20150323_010079	Donated 1000 silver
-ETC_20150323_010080	Donated 40 silver
-ETC_20150323_010081	Donated 50 silver
+ETC_20150323_010077	Donated 100 Silber
+ETC_20150323_010078	Donated 500 Silber
+ETC_20150323_010079	Donated 1000 Silber
+ETC_20150323_010080	Donated 40 Silber
+ETC_20150323_010081	Donated 50 Silber
 ETC_20150323_010082	Your attack has increased because of the Sanctum's Blessing!
 ETC_20150323_010083	Detected a monster that swallowed a Badge!{nl}Press the V key to use the Symbol of Faith!
 ETC_20150323_010084	Monster polluting the Sanctum
@@ -10205,9 +10205,9 @@ ETC_20150323_010202	Gladly give
 ETC_20150323_010203	It's a waste of money
 ETC_20150323_010204	Give them to him so you can closely take a look at them
 ETC_20150323_010205	Don't give to them since you may get stolen
-ETC_20150323_010206	Given 5000 silver
+ETC_20150323_010206	Given 5000 Silber
 ETC_20150323_010207	It is impossible to give, if money is requested
-ETC_20150323_010208	Given 2000 silver
+ETC_20150323_010208	Given 2000 Silber
 ETC_20150323_010209	Cannot give any money
 ETC_20150323_010210	Give
 ETC_20150323_010211	Will never give any
@@ -10399,7 +10399,7 @@ ETC_20150323_010396	The spirit of the pilgrim in wrath*
 ETC_20150323_010397	The diary of someone
 ETC_20150323_010398	Forest of Prayer Notice
 ETC_20150323_010399	Pile of fallen leaves
-ETC_20150323_010400	Shop Stand
+ETC_20150323_010400	Laden Stand
 ETC_20150323_010401	Tree of Faith Notice
 ETC_20150323_010402	Dallas' Body
 ETC_20150323_010403	Pot of boiling medicine
@@ -10448,7 +10448,7 @@ ETC_20150401_010445	Grape Ellum
 ETC_20150401_010446	Farm Keposeed
 ETC_20150401_010447	Guards Graveyard
 ETC_20150401_010448	2nd Demon Prison
-ETC_20150401_010449	Royal Mausoleum Workers Lodge
+ETC_20150401_010449	Royal Mausoleum Workers Hütte
 ETC_20150401_010450	Royal Mausoleum Guard
 ETC_20150401_010451	Royal Mausoleum Storage
 ETC_20150401_010452	Residence of the Fallen Legwyn Family
@@ -10478,7 +10478,7 @@ ETC_20150401_010475	Detect the Astral Body's force
 ETC_20150401_010476	Eyes to see the Astral Body
 ETC_20150401_010477	Get rid of the Bleak Shadow
 ETC_20150401_010478	The monsters weaken along with the Bleak Shadow. 
-ETC_20150401_010479	Effect of antigravity
+ETC_20150401_010479	Effekt of antigravity
 ETC_20150401_010480	Feels lighter.
 ETC_20150401_010481	Trace of Starlight
 ETC_20150401_010482	Seems like it can light something.
@@ -10558,8 +10558,8 @@ ETC_20150401_010555	Finished cooking food
 ETC_20150401_010556	Charge amount: {Wert}
 ETC_20150401_010557	Repair has been completed
 ETC_20150401_010558	The gem is higher than the seller's skill
-ETC_20150401_010559	Squire Shop
-ETC_20150401_010560	Edelstein Roasting Shop
+ETC_20150401_010559	Squire Laden
+ETC_20150401_010560	Edelstein Roasting Laden
 ETC_20150401_010561	Offering items that can only be sold in town.
 ETC_20150401_010562	Repairing
 ETC_20150401_010563	Repairing Weapon
@@ -10629,7 +10629,7 @@ ETC_20150401_010626	Activating
 ETC_20150401_010627	Evil Energy Purifier activated!
 ETC_20150401_010628	Purifying the evil energy within
 ETC_20150401_010629	Sekunden.
-ETC_20150401_010630	Completed purifying Magi. {nl}The energy of light is permeating the Royal Mausoleum Workers Lodge
+ETC_20150401_010630	Completed purifying Magi. {nl}The energy of light is permeating the Royal Mausoleum Workers Hütte
 ETC_20150401_010631	Barrier of the chapel is released!
 ETC_20150401_010632	Altar is already activated.
 ETC_20150401_010633	Critical power of light is activated in the monsters of the chapel.
@@ -10717,7 +10717,7 @@ ETC_20150406_010714	Dye(Pink)
 ETC_20150406_010715	Dye(Black)
 ETC_20150406_010716	Encroaching Mind
 ETC_20150406_010717	Hauberk is encroaching the mind!
-ETC_20150406_010718	Base Camp
+ETC_20150406_010718	Basislager
 ETC_20150406_010719	Turn back, face the enemy and fire the gun.
 ETC_20150406_010720	Astral Tower Celestial Globe
 ETC_20150406_010721	Astral Tower Hourglass
@@ -10752,7 +10752,7 @@ ETC_20150406_010749	Make jerky in the Drying Room
 ETC_20150406_010750	Destroy the magic circle with the Magie Stone of Blessing
 ETC_20150406_010751	No!
 ETC_20150406_010752	Rezept - Dunkel Bastard Schwer
-ETC_20150406_010753	The Refreshment Table can only be set up near the Base Camp.
+ETC_20150406_010753	The  Erfrischungstisch can only be set up near the Basislager.
 ETC_20150406_010754	Only one base camp can be set up.
 ETC_20150406_010755	Rubbed and removed the nasty energy.
 ETC_20150406_010756	This must be the strange energy.
@@ -11109,13 +11109,13 @@ ETC_20150414_011106	Falconer Advancement
 ETC_20150414_011107	Dispeller Crafting attribute benötigt
 ETC_20150414_011108	Pfeilherstellung
 ETC_20150414_011109	Benötigt die Fähigkeit Pfeilherstellung
-ETC_20150414_011110	Base Camp does not exist.
+ETC_20150414_011110	Basislager does not exist.
 ETC_20150414_011111	{Auto_1} benötigt
 ETC_20150414_011112	Cannot set up an offering box in this area.
 ETC_20150414_011113	A new patch is available. The client will shut down for the update.
 ETC_20150414_011114	You can set up only one refreshment table.
 ETC_20150414_011115	You cannot mount this Begleiter.
-ETC_20150414_011116	Restart from the Base Camp
+ETC_20150414_011116	Restart from the Basislager
 ETC_20150414_011117	Please check your purchase quantity.
 ETC_20150414_011118	Frequently warped region
 ETC_20150414_011119	The region where battle is intense
@@ -11251,7 +11251,7 @@ ETC_20150428_011248	Besiege Helgasercle, who is occupying the Mage Tower!
 ETC_20150428_011249	Besiege Bearkaras for Simon Shaw!
 ETC_20150428_011250	The Stone Whale guarding Hauberk has woken up. {nl}Besiege the Stone Whale!
 ETC_20150428_011251	Aaaagh!
-ETC_20150428_011252	The Tree of Faith came to life again as the Spring of Silence was purified!{nl}But an evil energy is felt from the Peddler Camp!
+ETC_20150428_011252	The Tree of Faith came to life again as the Spring of Silence was purified!{nl}But an evil energy is felt from the Peddler Lager!
 ETC_20150428_011253	Besiege Monster rund um epitaph!
 ETC_20150428_011254	Besiege Demon Lord Blut!
 ETC_20150428_011255	Besiege Demon Lord Nuaele!
@@ -11435,11 +11435,11 @@ ETC_20150428_011432	Rezept - Superior Key Pendant
 ETC_20150428_011433	Rezept - Sage Necklace
 ETC_20150428_011434	Rezept - Superior Rune Bracelet
 ETC_20150428_011435	Rezept - Star Bracelet
-ETC_20150428_011436	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings". {nl}2) You can buy Lodge skins using iCoins by clicking "Change Lodge".{nl}3) You select your desired channel from the Lodge.
+ETC_20150428_011436	FAQ : Hütte{nl}1) You can change the name of your lodge by clicking "Hütte Settings". {nl}2) You can buy Hütte skins using iCoins by clicking "Change Hütte".{nl}3) You select your desired channel from the Hütte.
 ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
-ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Lodge before entering the world.
+ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Hütte before entering the world.
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a Lagerfeuer, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a Lagerfeuer. {nl} HP, SP, STA is restored quicker when you use a Lagerfeuer.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Starts decreasing a little bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the effects of your equipment.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Gegenstand Merchant in any town. {nl}3) Silber is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
@@ -11462,11 +11462,11 @@ ETC_20150428_011459	Pistol
 ETC_20150428_011460	Artifact
 ETC_20150428_011461	Select a character that you want to bring along your Begleiter with.
 ETC_20150428_011462	You do not have the required class to buy this Begleiter.
-ETC_20150428_011463	Move Base Camp
+ETC_20150428_011463	Move Basislager
 ETC_20150428_011464	Available
 ETC_20150428_011465	Unavailable
 ETC_20150428_011466	Quit Game.
-ETC_20150428_011467	Return to the Lodge.
+ETC_20150428_011467	Return to the Hütte.
 ETC_20150428_011468	Returning to the Login Screen...
 ETC_20150428_011469	Period: {day 1} ~ {day 2} {nl} the first rank:
 ETC_20150428_011470	Area {count1} times move{nl} the Sekunde rank:
@@ -11481,9 +11481,9 @@ ETC_20150428_011478	Area {count2} player combat disabled
 ETC_20150428_011479	to {count1} player combat disabled {nl} the Sekunde rank:
 ETC_20150428_011480	to {count2} player combat disabled {nl} the third rank:
 ETC_20150428_011481	to {count3} player combat disabled
-ETC_20150428_011482	Area {count1} silver obtained {nl} the Sekunde rank:
-ETC_20150428_011483	Area {count2} silver obtained {nl} the third rank:
-ETC_20150428_011484	Area {count3} silver obtained
+ETC_20150428_011482	Area {count1} Silber obtained {nl} the Sekunde rank:
+ETC_20150428_011483	Area {count2} Silber obtained {nl} the third rank:
+ETC_20150428_011484	Area {count3} Silber obtained
 ETC_20150428_011485	Area {count1} times form the party {nl} the Sekunde rank:
 ETC_20150428_011486	Area {count2} times form the party {nl} the third rank:
 ETC_20150428_011487	Area {count3} times form the party
@@ -11494,9 +11494,9 @@ ETC_20150428_011491	Team {character2} of
 ETC_20150428_011492	{count2} enhancement{nl} the third rank:
 ETC_20150428_011493	Team {character3} of
 ETC_20150428_011494	{count3} enhancement
-ETC_20150428_011495	{character1} of team obtained {count1}silver{nl} the Sekunde rank:
-ETC_20150428_011496	{character2} of team obtained {count2}silver{nl} the third rank:
-ETC_20150428_011497	{character3} of team obtained {count3}silver
+ETC_20150428_011495	{character1} of team obtained {count1}Silber{nl} the Sekunde rank:
+ETC_20150428_011496	{character2} of team obtained {count2}Silber{nl} the third rank:
+ETC_20150428_011497	{character3} of team obtained {count3}Silber
 ETC_20150428_011498	You cannot abandon a quest unless it is in progress or incomplete.
 ETC_20150428_011499	Warp Movement Area Ranking
 ETC_20150428_011500	Monster Kill Area Ranking
@@ -11883,7 +11883,7 @@ ETC_20150714_011880	Protect the portal
 ETC_20150714_011881	Kubas Formation
 ETC_20150714_011882	Changing to Kubas Formation
 ETC_20150714_011883	Erhöhe block chance.
-ETC_20150714_011884	Gegenstand Jackpot Effect
+ETC_20150714_011884	Gegenstand Jackpot Effekt
 ETC_20150714_011885	Immobile
 ETC_20150714_011886	Revelations : Conflict
 ETC_20150714_011887	Revelations : The Hidden Side
@@ -11922,7 +11922,7 @@ ETC_20150714_011919	Atsilke Altar
 ETC_20150714_011920	Neviena Altar Area
 ETC_20150714_011921	Great Corridor Crossroads
 ETC_20150714_011922	Melstis Sanctum
-ETC_20150714_011923	Research Camp
+ETC_20150714_011923	Research Lager
 ETC_20150714_011924	Ramybe Hills
 ETC_20150714_011925	Atskra Sanctum
 ETC_20150714_011926	Bokshta Ruins
@@ -12179,7 +12179,7 @@ ETC_20150714_012176	Colleague NPC that is following
 ETC_20150714_012177	Monastery Defense Object NPC
 ETC_20150714_012178	The proportion of Rezept sales
 ETC_20150714_012179	The proportion of Rezept purchases
-ETC_20150714_012180	Shadow, Skill Effect * offset
+ETC_20150714_012180	Shadow, Skill Effekt * offset
 ETC_20150714_012181	It will disappear when it moves further away from the anvil
 ETC_20150714_012182	Warning Message will be appear when it gets far from the anvil
 ETC_20150714_012183	At Hawk Roost Ani Change Term Time 
@@ -12239,7 +12239,7 @@ ETC_20150714_012236	Gruppe (2vs2)
 ETC_20150714_012237	Gruppe (3vs3)
 ETC_20150714_012238	Gruppe (5vs5)
 ETC_20150714_012239	 /cardbattle 
-ETC_20150714_012240	Edelstein Roasting Shop
+ETC_20150714_012240	Edelstein Roasting Laden
 ETC_20150714_012241	Incorrect combination.
 ETC_20150714_012242	Loading...
 ETC_20150714_012243	Failed to read it. Please try again later.
@@ -12249,7 +12249,7 @@ ETC_20150714_012246	The error from the server has occurred so it restored automa
 ETC_20150714_012247	Befestigt Gegenstände
 ETC_20150714_012248	Do you want to give this item to {PC}?
 ETC_20150714_012249	Du hast Gegenstände erhalten.
-ETC_20150714_012250	You are too close to the Base Camp.
+ETC_20150714_012250	You are too close to the Basislager.
 ETC_20150714_012251	You are far away from the refreshment table.
 ETC_20150714_012252	{nl}The gem's level decreases upon extraction.{nl}Are you sure you want to extract a gem? 
 ETC_20150714_012253	Maximaler Physischer Angriff
@@ -12263,7 +12263,7 @@ ETC_20150714_012260	Maximal Magieangriff
 ETC_20150714_012261	Fügt deinem Begleiter {Wert} Kritrate hinzu
 ETC_20150714_012262	Fügt deinem Begleiter {Wert} Ausweichen hinzu
 ETC_20150714_012263	You don't have the attribute to mount this Begleiter.
-ETC_20150714_012264	Rückkehr zum Haus
+ETC_20150714_012264	Rückkehr zum Hütte
 ETC_20150714_012265	Normaler Angriff
 ETC_20150714_012266	{Name} mag mich!
 ETC_20150714_012267	Du kannst nur Karten benutzen.
@@ -12434,7 +12434,7 @@ ETC_20150714_012431	Call out the name
 ETC_20150714_012432	Recalled a number!{nl}
 ETC_20150714_012433	The seal of Archon has been weakened
 ETC_20150714_012434	 Sekunden remaining
-ETC_20150714_012435	The purification of the evil energy has been completed!{nl}Light energy has spread throughout the Royal Mausoleum Workers Lodge!
+ETC_20150714_012435	The purification of the evil energy has been completed!{nl}Light energy has spread throughout the Royal Mausoleum Workers Hütte!
 ETC_20150714_012436	The barrier at the Management Office has been removed!
 ETC_20150714_012437	The altar has already been activated
 ETC_20150714_012438	The light power, that is lethal to the monsters at the chapel area, has been activated
@@ -12666,7 +12666,7 @@ ETC_20150714_012663	Earth Property
 ETC_20150714_012664	Ice Property
 ETC_20150714_012665	Dark Property
 ETC_20150714_012666	Gender Property
-ETC_20150714_012667	Lodge theme changed.
+ETC_20150714_012667	Hütte theme changed.
 ETC_20150714_012668	Liken!
 ETC_20150714_012669	Cancel Like
 ETC_20150714_012670	The other party rejected 
@@ -12699,7 +12699,7 @@ ETC_20150714_012696	You do not have enough Stumpy Tree Branches
 ETC_20150714_012697	It was an empty box
 ETC_20150714_012698	The sap hasn't been fully filled yet
 ETC_20150714_012699	You've found the monsters! Bericht an Lint!
-ETC_20150714_012700	You are heading towards Saugas Camp{nl}The merchant and the historian are in danger!
+ETC_20150714_012700	You are heading towards Saugas Lager{nl}The merchant and the historian are in danger!
 ETC_20150714_012701	Ask him if he has any antidote
 ETC_20150714_012702	Ask him if he has any medicine
 ETC_20150714_012703	It is already removed
@@ -13122,8 +13122,8 @@ ETC_20150714_013119	Portal Power Generator
 ETC_20150714_013120	Schilt Amplifier
 ETC_20150714_013121	Petrification Detector Sample
 ETC_20150714_013122	Isolated Laboratory
-ETC_20150714_013123	Outside of Isolation Camp
-ETC_20150714_013124	Petrifying Frost Effect
+ETC_20150714_013123	Outside of Isolation Lager
+ETC_20150714_013124	Petrifying Frost Effekt
 ETC_20150714_013125	Magical Steam
 ETC_20150714_013126	Monster Genx
 ETC_20150714_013127	Demons' Sealed Sphere
@@ -13632,13 +13632,13 @@ ETC_20150729_013629	Goddess Zemyna, the Goddess of Earth..
 ETC_20150729_013630	The delegates were sieged by the Werewolf{nl}Besiege the Werewolf!
 ETC_20150729_013631	Special Scent
 ETC_20150729_013632	The Jewel of Prominence is unstable.
-ETC_20150729_013633	Barrier Effect : STR
+ETC_20150729_013633	Barrier Effekt : STR
 ETC_20150729_013634	Receiving increased STR from the activated barrier.
-ETC_20150729_013635	Barrier Effect : CON
+ETC_20150729_013635	Barrier Effekt : CON
 ETC_20150729_013636	Receiving increased CON from the activated barrier.
-ETC_20150729_013637	Barrier Effect : INT
+ETC_20150729_013637	Barrier Effekt : INT
 ETC_20150729_013638	Receiving increased INT from the activated barrier.
-ETC_20150729_013639	Barrier Effect : DEX
+ETC_20150729_013639	Barrier Effekt : DEX
 ETC_20150729_013640	Receiving increased DEX from the activated barrier.
 ETC_20150729_013641	Using Spirits
 ETC_20150729_013642	You feel exhausted and keep losing Stamina.
@@ -13799,9 +13799,9 @@ ETC_20150729_013796	You can use the Market through the Market Manager.
 ETC_20150729_013797	You can look at items offered by other players, and purchase items from the list.
 ETC_20150729_013798	You can also put up your items to sell.
 ETC_20150729_013799	{img mouseclick_right 40 40} on the item you want to sell from your inventory, set a quantity and its selling price.
-ETC_20150729_013800	{nl}{nl}[Buy-in Shop] Press {img F1 40 40} to open the Information window and click on Character to open Buy-in Shop.
+ETC_20150729_013800	{nl}{nl}[Einkaufsladen] Press {img F1 40 40} to open the Information window and click on Character to open Einkaufsladen.
 ETC_20150729_013801	Select the items you need, then set a quantity and price for other players to sell items to you.
-ETC_20150729_013802	The Buy-in Shop will remain even if you log off from the server.
+ETC_20150729_013802	The Einkaufsladen will remain even if you log off from the server.
 ETC_20150729_013803	Verwende Teleport um dich schnell an einen Ort deiner Wahl zu bewegen.
 ETC_20150729_013804	is used to warp between Göttin Statuen when activated.
 ETC_20150729_013805	{nl}{nl}Du kannst eine aktive Göttin Statue verwenden um dich zu anderen aktiven Göttin Statue zu teleportieren.
@@ -14009,7 +14009,7 @@ ETC_20150729_014006	My Rank
 ETC_20150729_014007	Kill Rank
 ETC_20150729_014008	Schaden Rank
 ETC_20150729_014009	Mouse Mode may not be feasible for Swordsman, Cleric type classes.
-ETC_20150729_014010	Team Battle League Shop
+ETC_20150729_014010	Team Battle League Laden
 ETC_20150729_014011	When you cancel the game, the ticket will be expired. Do you want to continue?
 ETC_20150729_014012	Team Battle League has started. Participate via Adventure Journal Ranking Page.
 ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want to continue?
@@ -14051,13 +14051,13 @@ ETC_20150730_014048	Period : {day1} ~{day2}
 ETC_20150730_014049	{rank} :
 ETC_20150730_014050	Team {Character}
 ETC_20150730_014051	{count} Enhancement
-ETC_20150730_014052	Team's {character} obtained {count} silver
+ETC_20150730_014052	Team's {character} obtained {count} Silber
 ETC_20150730_014053	{nl}{rank} :
 ETC_20150730_014054	area moved {count} times
 ETC_20150730_014055	area defeated {count}
 ETC_20150730_014056	area {count} incapable of combat
 ETC_20150730_014057	to {count} incapable of combat
-ETC_20150730_014058	area {count} obtained silver
+ETC_20150730_014058	area {count} obtained Silber
 ETC_20150730_014059	area formed a party {count}
 ETC_20150730_014060	You've obtained the parts of the detector from the monsters!
 ETC_20150730_014061	You haven't explored all regions in Crystal Mine yet!
@@ -14088,13 +14088,13 @@ ETC_20150803_014085	The curse of the magical device
 ETC_20150803_014086	{nl} {nl}Der Name und Memo des hergestellten Gegenstandes kannst du im Tooltip sehen.
 ETC_20150803_014087	Klaipeda's 
 ETC_20150803_014088	 ermöglichen es dir dich zu anderen Orten zu teleportieren.
-ETC_20150803_014089	You can set various settings for the team which your character belongs to at the Lodge.
-ETC_20150803_014090	Wenn du die Haus-Einstellungen auswählst, kannst du deinen Team-Name ändern.
-ETC_20150803_014091	When you select Change Lodge, the list of Lodges will appear. When you click on a Lodge, you can preview it.
-ETC_20150803_014092	You can create up to 5 characters with the basic Lodge. The number of characters you can create depends on which Lodge you have.
-ETC_20150803_014093	{nl} {nl}There is a Messages Box at the lower right side of your Lodge. You can check messages by selecting it.
+ETC_20150803_014089	You can set various settings for the team which your character belongs to at the Hütte.
+ETC_20150803_014090	Wenn du die Hütte-Einstellungen auswählst, kannst du deinen Team-Name ändern.
+ETC_20150803_014091	When you select Change Hütte, the list of Lodges will appear. When you click on a Hütte, you can preview it.
+ETC_20150803_014092	You can create up to 5 characters with the basic Hütte. The number of characters you can create depends on which Hütte you have.
+ETC_20150803_014093	{nl} {nl}There is a Messages Box at the lower right side of your Hütte. You can check messages by selecting it.
 ETC_20150803_014094	Alle Gegenstände oder Geld welche in den Nachrichten enthalten sind, können mit {img mouseclick_right 40 40} abgeholt werden.
-ETC_20150803_014095	{nl} {nl}With {img mouseclick_right 40 40}, you can visit the Lodge of other users who you met in the game.
+ETC_20150803_014095	{nl} {nl}With {img mouseclick_right 40 40}, you can visit the Hütte of other users who you met in the game.
 ETC_20150803_014096	Bildschirmaufnahme
 ETC_20150803_014097	Tree of Savior bietet eine Bildschirmaufnahme-Funktion.
 ETC_20150803_014098	Du kannst mit der Druck-Taste einen Screenshot machen.
@@ -14310,7 +14310,7 @@ ETC_20150918_014307	Eminent's Magie Circle
 ETC_20150918_014308	Activate the designated devices
 ETC_20150918_014309	Making Do With What You Have
 ETC_20150918_014310	Recharge the demonic power using the vitalities of monsters
-ETC_20150918_014311	Protect the Camp
+ETC_20150918_014311	Protect the Lager
 ETC_20150918_014312	How to Overcome Severe Coldness
 ETC_20150918_014313	The creator of the flame
 ETC_20150918_014314	Military Mail
@@ -14479,7 +14479,7 @@ ETC_20150918_014476	Rezept - Tyla Plate Leggings
 ETC_20150918_014477	Rezept - Tyla Plattenrüstung
 ETC_20150918_014478	Rezept - Karacha Dagger
 ETC_20150918_014479	Rezept - Venom
-ETC_20150918_014480	You can only construct one Base Camp. Do you want to create a new one by deleting the previous one?
+ETC_20150918_014480	You can only construct one Basislager. Do you want to create a new one by deleting the previous one?
 ETC_20150918_014481	Bitte wähle eine Startstadt.
 ETC_20150918_014482	equipment repaired by you
 ETC_20150918_014483	equipment repaired by you
@@ -14761,7 +14761,7 @@ ETC_20151001_014758	My powers... end here.
 ETC_20151001_014759	Va..Vakarine!!!!
 ETC_20151001_014760	Curse you all!!!
 ETC_20151001_014761	Kedorlaomer Merchant's Benefit
-ETC_20151001_014762	PR Notice : Join Kedorlaomer Merchants!{nl}Benefit Effect : Temporary increase in attack and magic attack!
+ETC_20151001_014762	PR Notice : Join Kedorlaomer Merchants!{nl}Benefit Effekt : Temporary increase in attack and magic attack!
 ETC_20151001_014763	For display of 2 hour buff icon
 ETC_20151001_014764	For running 2 hour
 ETC_20151001_014765	Corpse
@@ -14880,7 +14880,7 @@ ETC_20151001_014877	Transferred Packet Log
 ETC_20151001_014878	Received Packet Log
 ETC_20151001_014879	Incorrect value. Please refer to the following information.
 ETC_20151001_014880	Developmental Information
-ETC_20151001_014881	Kingdom Camp
+ETC_20151001_014881	Kingdom Lager
 ETC_20151001_014882	Reama Klein Square
 ETC_20151001_014883	Mailruma Steeple
 ETC_20151001_014884	Nucisto collapsed Area
@@ -14901,7 +14901,7 @@ ETC_20151001_014898	Camping Ground
 ETC_20151001_014899	Skaika Supply Route
 ETC_20151001_014900	First Almol Work Place
 ETC_20151001_014901	Work Management Office
-ETC_20151001_014902	Ulksh Camp
+ETC_20151001_014902	Ulksh Lager
 ETC_20151001_014903	Sekunde Almol Work Place
 ETC_20151001_014904	Nubarsk Cliff
 ETC_20151001_014905	Paumeti Rest Area
@@ -15672,9 +15672,9 @@ ETC_20151016_015669	Ugh! They again...!
 ETC_20151016_015670	What! Demons!
 ETC_20151016_015671	There they are!
 ETC_20151016_015672	You check it with Monocle.
-ETC_20151016_015673	Cozy Lodge
+ETC_20151016_015673	Cozy Hütte
 ETC_20151016_015674	Kedoran Merchant Alliance Benefit
-ETC_20151016_015675	PR Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and magic attack!
+ETC_20151016_015675	PR Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effekt : Temporary increase in attack and magic attack!
 ETC_20151016_015676	Drowsy Ferret
 ETC_20151016_015677	Observe
 ETC_20151016_015678	The ferret has been already observed.
@@ -15712,7 +15712,7 @@ ETC_20151016_015709	Pamatas Pillar
 ETC_20151016_015710	Dales Empty Lot
 ETC_20151016_015711	Liugas Access Road
 ETC_20151016_015712	Usas Hill
-ETC_20151016_015713	Hurauga Camp
+ETC_20151016_015713	Hurauga Lager
 ETC_20151016_015714	Majiva Grave Field
 ETC_20151016_015715	Rahova Camping Ground
 ETC_20151016_015716	Hibi Crossroads
@@ -16193,7 +16193,7 @@ ETC_20151022_016190	Spirits overlapped
 ETC_20151022_016191	Spirits are coming.
 ETC_20151022_016192	Sadhu's Energy
 ETC_20151022_016193	When you hunt for the monster that is haunted by this energy, you will be able to absorb that spirit.
-ETC_20151022_016194	Barbarian's Potion Effect
+ETC_20151022_016194	Barbarian's Potion Effekt
 ETC_20151022_016195	Your powers have been reduced by half due to the Barbarian's Training Potion effect.
 ETC_20151022_016196	Chill Air Trap
 ETC_20151022_016197	You've been trapped by the Chill Air trap that protects the device
@@ -16201,7 +16201,7 @@ ETC_20151022_016198	Mokuton
 ETC_20151022_016199	You've failed Back Buffer Rute.
 ETC_20151022_016200	You've failed Stencil Rute.
 ETC_20151022_016201	authdata that corresponds to Steam ID can not be found.
-ETC_20151022_016202	Wrong Effect Component Name. Check the registered name from effectlist.xml.
+ETC_20151022_016202	Wrong Effekt Component Name. Check the registered name from effectlist.xml.
 ETC_20151022_016203	Failed to Decrypt the token that you received from Steam Server.
 ETC_20151022_016204	The user ticket info received from Steam Server is wrong.
 ETC_20151022_016205	The user secret info received from Steam Server is wrong.
@@ -16212,7 +16212,7 @@ ETC_20151022_016209	Crystal Mine Mission
 ETC_20151022_016210	Catacombs Mission
 ETC_20151022_016211	Fencer
 ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly hit successive strikes on their enemy. 
-ETC_20151022_016213	Nestospa Camp
+ETC_20151022_016213	Nestospa Lager
 ETC_20151022_016214	Anastospa Camping Ground
 ETC_20151022_016215	Iborarul Empty Lot
 ETC_20151022_016216	Fencer Master
@@ -16454,7 +16454,7 @@ ETC_20151022_016451	Kräutersammler Tales
 ETC_20151022_016452	Bracken Forest 63_2
 ETC_20151022_016453	Collapsed residential quarters notice board
 ETC_20151022_016454	Cannolis Light Completion
-ETC_20151022_016455	Owl Effect
+ETC_20151022_016455	Owl Effekt
 ETC_20151022_016456	3cm lake 83
 ETC_20151022_016457	3cm Lake 83
 ETC_20151022_016458	Magi
@@ -16582,7 +16582,7 @@ ETC_20151102_016579	We came to investigate...
 ETC_20151102_016580	Namott
 ETC_20151102_016581	Namott Heilig Weihwasser: Dämon Monster erscheint nicht
 ETC_20151102_016582	Reduced Ice property resistance
-ETC_20151102_016583	Psychokinesis Scroll's Effect
+ETC_20151102_016583	Psychokinesis Scroll's Effekt
 ETC_20151102_016584	You're currently affected by the Psychokinesis Scroll.
 ETC_20151102_016585	Pearl Powder
 ETC_20151102_016586	Soul - Attack
@@ -17814,7 +17814,7 @@ ETC_20151224_017810	Sekta Forest
 ETC_20151224_017811	Oasseu Memorial
 ETC_20151224_017812	Maven Abby
 ETC_20151224_017813	Unused-Siauliai
-ETC_20151224_017814	Haus
+ETC_20151224_017814	Hütte
 ETC_20151224_017815	Opening Zone
 ETC_20151224_017816	Laima Directing
 ETC_20151224_017817	Gilden-Mission
@@ -18111,10 +18111,10 @@ ETC_20151224_018107	{nl} {nl}When both sides completed selecting their cards, th
 ETC_20151224_018108	Die Gewinn-Bedingungen sind folgende: Anzahl der Beine, Größe, Gewicht und die Anzahl der Sterne.
 ETC_20151224_018109	{nl} {nl}Wenn die Bedingung entschieden wurde, wird der Gewinner/Verlierer basierend auf der Karte enthaltenen Informationen bekannt gegeben.
 ETC_20151224_018110	Auf diese Weise kannst du Karten erhalten und diese als Material verwenden um andere Karten zu verbessern und die Sterne zu erhöhen.
-ETC_20151224_018111	Du kannst die Einstellungen deines Teams im Haus ändern.
-ETC_20151224_018112	Wenn du Haus ändern auswählst, kommt eine Liste von Häusern. Wenn du dann auf Vorschau klickst, kannst du sie dir ansehen.
-ETC_20151224_018113	Du kannst 5 Charaktere in deinem Basis-Haus erstellen, sollte dies nicht reichen, kannst du weitere Charakterplätze mit TP kaufen.
-ETC_20151224_018114	{nl} {nl}Es gibt eine Nachrichten-Box in deinem Haus,  welche du öffnen kannst.
+ETC_20151224_018111	Du kannst die Einstellungen deines Teams im Hütte ändern.
+ETC_20151224_018112	Wenn du Hütte ändern auswählst, kommt eine Liste von Häusern. Wenn du dann auf Vorschau klickst, kannst du sie dir ansehen.
+ETC_20151224_018113	Du kannst 5 Charaktere in deinem Basis-Hütte erstellen, sollte dies nicht reichen, kannst du weitere Charakterplätze mit TP kaufen.
+ETC_20151224_018114	{nl} {nl}Es gibt eine Nachrichten-Box in deinem Hütte,  welche du öffnen kannst.
 ETC_20151224_018115	{nl} {nl}Mit {img mouseclick_right 40 40}, kannst du Häuser von anderen Spielern besuchen.
 ETC_20151224_018116	A Centurion gathers characters together that come within its formation to control them.{nl} {nl}A Centurion will be able to control the characters until they go out of the formation, and characters can always step out of the formation if they want to. 
 ETC_20151224_018117	You can go on missions with your party members through the Mercenary Post in Fedimian.
@@ -18144,17 +18144,17 @@ ETC_20151224_018140	Du kannst ein Lagerfeuer verwenden wenn du {img SPACE 40 40}
 ETC_20151224_018141	If you are granted with the effects of a Token, you are able to trade items with other players who also have the same effects of a Token.
 ETC_20151224_018142	[Trade] You can use the trade feature to select the trade after doing {img mouseclick_right 40 40} to the character for the trade.
 ETC_20151224_018143	You can register items in the trade list by dragging the tradable items from your inventory.
-ETC_20151224_018144	{nl} {nl}If you are granted with the effects of a Token, you can open a [Buy-in Shop]
+ETC_20151224_018144	{nl} {nl}If you are granted with the effects of a Token, you can open a [Einkaufsladen]
 ETC_20151224_018145	in towns and cities.
-ETC_20151224_018146	Buy-in Shop
+ETC_20151224_018146	Einkaufsladen
 ETC_20151224_018147	You can open the shop through the Character Settings tab by pressing {img F1 40 40}.
 ETC_20151224_018148	{nl} {nl}After setting the shop name and the price per unit of the items you want, press the triangular button to confirm.
-ETC_20151224_018149	If the registration for the wanted items is completed, you can open the Buy-in Shop using the button below.
-ETC_20151224_018150	{nl} {nl}Other players are able to sell their items through the opened the Buy-in Shop.
-ETC_20151224_018151	A player who has their Buy-in Shop open cannot move, however, the shop stays open if you logout.
+ETC_20151224_018149	If the registration for the wanted items is completed, you can open the Einkaufsladen using the button below.
+ETC_20151224_018150	{nl} {nl}Other players are able to sell their items through the opened the Einkaufsladen.
+ETC_20151224_018151	A player who has their Einkaufsladen open cannot move, however, the shop stays open if you logout.
 ETC_20151224_018152	If you clear the seat, you can check the trade information using the trade history. If you don't want to trade, close the below
 ETC_20151224_018153	Close
-ETC_20151224_018154	 Close the User Buy-in Shop to press the button.
+ETC_20151224_018154	 Close the User Einkaufsladen to press the button.
 ETC_20151224_018155	Du erhältst verschiedene Effekte nach Verwendung eines Token.
 ETC_20151224_018156	You can buy a Token through NPC Leticia.
 ETC_20151224_018157	Wenn du einen Token verwendest, betrifft dessen Auswirkungen all deine Charaktere auf einem Server für 30 Tage.
@@ -18324,7 +18324,7 @@ ETC_20151224_018320	Gaulu Slope
 ETC_20151224_018321	Shabby Cabin
 ETC_20151224_018322	Orsha Migration Office
 ETC_20151224_018323	Randoluma Rest Place
-ETC_20151224_018324	Temporary Settler Camp
+ETC_20151224_018324	Temporary Settler Lager
 ETC_20151224_018325	Amzina Fork
 ETC_20151224_018326	Cabin of Lumberjack
 ETC_20151224_018327	Karolis Cradle
@@ -18336,7 +18336,7 @@ ETC_20151224_018332	Vishikas Great Hall
 ETC_20151224_018333	Drava Chapel Lot
 ETC_20151224_018334	Ishitrinti Altar
 ETC_20151224_018335	Jeneuam Corridor
-ETC_20151224_018336	Temporary Camp
+ETC_20151224_018336	Temporary Lager
 ETC_20151224_018337	Lataso Stream
 ETC_20151224_018338	Nesuga Klein Corridor
 ETC_20151224_018339	Melda Inner Court
@@ -18425,7 +18425,7 @@ ETC_20151224_018421	Government Ruins
 ETC_20151224_018422	Fortress Uphill
 ETC_20151224_018423	Merahin Courtyard
 ETC_20151224_018424	Odaginkas Vacant Lot
-ETC_20151224_018425	Construction Camp
+ETC_20151224_018425	Construction Lager
 ETC_20151224_018426	Field(Dirt)
 ETC_20151224_018427	Deathweaver for Directing
 ETC_20151224_018428	Nuodai Rondo
@@ -18681,9 +18681,9 @@ ETC_20151224_018677	Enrolled Ability Count in pc_nonbattle.xml
 ETC_20151224_018678	Call Count with the history list
 ETC_20151224_018679	Market Gegenstand List Count per one page
 ETC_20151224_018680	Sell Gegenstand List Count per one page 
-ETC_20151224_018681	A minimum silver price when enrolls the token to the market
+ETC_20151224_018681	A minimum Silber price when enrolls the token to the market
 ETC_20151224_018682	1 Day
-ETC_20151224_018683	A maximum silver price when enrolls the token to the market
+ETC_20151224_018683	A maximum Silber price when enrolls the token to the market
 ETC_20151224_018684	Adjust the market maximum price
 ETC_20151224_018685	Whether you would register it at market or not
 ETC_20151224_018686	The monsters that are created on the fields, lifeTIme when nothing gets input;
@@ -18691,7 +18691,7 @@ ETC_20151224_018687	A maximum TP count provided by free
 ETC_20151224_018688	Limited Time can rollback with free
 ETC_20151224_018689	Charge free TP every 7200 Sekunden (2h)
 ETC_20151224_018690	Storage Expansion Price
-ETC_20151224_018691	Silber Commission for Shop Skills
+ETC_20151224_018691	Silber Commission for Laden Skills
 ETC_20151224_018692	Storage Expansion Count
 ETC_20151224_018693	TP will be charged for changing your Team Name
 ETC_20151224_018694	TP will be charged for changing your Character Name
@@ -19121,8 +19121,8 @@ ETC_20151224_019117	Rezept - Tribal Chief Head Decoration
 ETC_20151224_019118	Rezept - Cat Ears 
 ETC_20151224_019119	Rezept - Cannon
 ETC_20151224_019120	Rezept - Superior Cannon
-ETC_20151224_019121	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings".{nl}2) You can purchase Lodge skins using TP by clicking "Change Lodge".{nl}3) You can select a channel from the Lodge.
-ETC_20151224_019122	Enter '/y' in the chat window to send a world message. Requires a Megaphone.
+ETC_20151224_019121	FAQ : Hütte{nl}1) You can change the name of your lodge by clicking "Hütte Settings".{nl}2) You can purchase Hütte skins using TP by clicking "Change Hütte".{nl}3) You can select a channel from the Hütte.
+ETC_20151224_019122	Enter '/y' in the chat window to send a world message. Benötigt a Megaphone.
 ETC_20151224_019123	Level Reset
 ETC_20151224_019124	/guildinvite
 ETC_20151224_019125	The client has been shutdown due to a display driver error.{nl}Please contact the manufacturer for assistance
@@ -19137,7 +19137,7 @@ ETC_20151224_019133	You cannot use the word {Word}.
 ETC_20151224_019134	The character name must be at least %s bytes.
 ETC_20151224_019135	The character name must be less than %s bytes.
 ETC_20151224_019136	The current amount of players joined has been exceeded.
-ETC_20151224_019137	You have reached the maximum amount{nl}of characters in this Lodge{nl}Do you want to purchase a character slot?
+ETC_20151224_019137	You have reached the maximum amount{nl}of characters in this Hütte{nl}Do you want to purchase a character slot?
 ETC_20151224_019138	You cannot dismount your companion while using a skill.
 ETC_20151224_019139	The name must be less than {LEN} bytes.
 ETC_20151224_019140	Preis des Gegenstandes kann nicht abgeschätzt werden, solange es keine weiteren im Auktionshaus gibt.
@@ -19146,7 +19146,7 @@ ETC_20151224_019142	Wrong equipment. Please check the title.
 ETC_20151224_019143	You've received the item.
 ETC_20151224_019144	It is applied with the reconnection.
 ETC_20151224_019145	You do not have the required Zombie for this skill.
-ETC_20151224_019146	You do not have enough silver for the owner's Angebotebox
+ETC_20151224_019146	You do not have enough Silber for the owner's Angebotebox
 ETC_20151224_019147	You do not have enough points.
 ETC_20151224_019148	Maximum Level
 ETC_20151224_019149	Do you want to revive this companion? {Price} will be charged.
@@ -19154,7 +19154,7 @@ ETC_20151224_019150	You can only use this while in Rest Mode.
 ETC_20151224_019151	You cannot delete this character{nl}because it has items equipped.
 ETC_20151224_019152	Do you want to use {TP} TP{nl}to expand {SLOT} slots?
 ETC_20151224_019153	Your skill level is not high enough.
-ETC_20151224_019154	You have reached the maximum amount of characters in this Lodge{nl}Please try again after deleting an existing character.
+ETC_20151224_019154	You have reached the maximum amount of characters in this Hütte{nl}Please try again after deleting an existing character.
 ETC_20151224_019155	Loading the intro...
 ETC_20151224_019156	Möchtest du noch einmal das Intro sehen?
 ETC_20151224_019157	Aktuelle Position
@@ -19168,7 +19168,7 @@ ETC_20151224_019164	Reset the number of entrances to instanced dungeons and Merc
 ETC_20151224_019165	Start the game from the homepage and remove Protection Mode and connect to the game again.
 ETC_20151224_019166	You cannot use this here.
 ETC_20151224_019167	Enter a name for your Angebotebox.
-ETC_20151224_019168	Your silver has been lost as a penalty for dying.
+ETC_20151224_019168	Your Silber has been lost as a penalty for dying.
 ETC_20151224_019169	{nl}The gem's level decreases upon extraction.{nl}Are you sure you want to extract a gem?{nl}(However, a monster gem and a Lv1 gem or below will disappear.) 
 ETC_20151224_019170	You need to sit down to craft.
 ETC_20151224_019171	Haar-Zubehör
@@ -19704,7 +19704,7 @@ ETC_20151224_019700	The guild master used{nl}{SkillName}{nl}Will you accept?
 ETC_20151224_019701	Gildenmeister
 ETC_20151224_019702	{PC} is already affiliated with another guild.
 ETC_20151224_019703	You need to be a {Name} in order to create a guild.
-ETC_20151224_019704	{Price} silver will be charged to create a guild.
+ETC_20151224_019704	{Price} Silber will be charged to create a guild.
 ETC_20151224_019705	You cannot disband a guild while you are at war.
 ETC_20151224_019706	Crops can be grown and companions can be raised only in this field.
 ETC_20151224_019707	The war against the {GuildName} guild has begun.
@@ -19723,17 +19723,17 @@ ETC_20151224_019719	Ein Gebieteboss wird in kürze erscheinen.
 ETC_20151224_019720	You cannot move to the guild member's instanced dungeon or mission.
 ETC_20151224_019721	Erhöht die Gilden EXP-Punkte durch verwenden von Gegenständen.
 ETC_20151224_019722	Gegenstand erfolgreich registriert.{nl}Bitte warte etwa 30 Minuten bis 2 Stunden um deinen Gegenstand ohne Tokens im Auktionshaus anzuzeigen.
-ETC_20151224_019723	{Price} silver is required for the registration fee. The buff will disappear when you register this to the Market. Do you want to register it?
+ETC_20151224_019723	{Price} Silber is required for the registration fee. The buff will disappear when you register this to the Market. Do you want to register it?
 ETC_20151224_019724	You cannot purchase items registered to the same account.
 ETC_20151224_019725	The sales period has passed. Please retrieve your item.
 ETC_20151224_019726	Your item will be registered to the Market List after {TIME}.
 ETC_20151224_019727	Your item will be moved to the cabinet after {TIME}.
-ETC_20151224_019728	A minimum of {Price} silver is required to register an item.
+ETC_20151224_019728	A minimum of {Price} Silber is required to register an item.
 ETC_20151224_019729	Wenn du diesen Gegenstand{nl}kaufst, reduziert sich das Potenzial um 1.{nl} Willst du kaufen?
 ETC_20151224_019730	The item's minimum price has changed. Please enter again.
 ETC_20151224_019731	The item's maximum price has changed. Please enter again.
-ETC_20151224_019732	{Price} silver will be required to register this item.{nl}Do you want to continue?
-ETC_20151224_019733	The price must be at least 100 silver.
+ETC_20151224_019732	{Price} Silber will be required to register this item.{nl}Do you want to continue?
+ETC_20151224_019733	The price must be at least 100 Silber.
 ETC_20151224_019734	The amount will be changed automatically based on the minimum unit price.
 ETC_20151224_019735	This skill cannot be registered.
 ETC_20151224_019736	Humanoid
@@ -19748,7 +19748,7 @@ ETC_20151224_019744	Verbessern oder weiterentwickeln im Preis inbegriffen. Wills
 ETC_20151224_019745	A play time limit of {TimeStr} has been set as part of the shutdown law.
 ETC_20151224_019746	Excessive gaming can negatively affect your health.
 ETC_20151224_019747	You have been playing for {Time} hour(s).
-ETC_20151224_019748	Are you sure you want to cancel learning this attribute? The spent silver will not be refunded.
+ETC_20151224_019748	Are you sure you want to cancel learning this attribute? The spent Silber will not be refunded.
 ETC_20151224_019749	Fähigkeit lernen abgebrochen.
 ETC_20151224_019750	Kann Gegegstand nicht ausrüsten.
 ETC_20151224_019751	There are not enough members. (%d/%d)
@@ -19767,8 +19767,8 @@ ETC_20151224_019763	You have obtained a reward for the Gruppe Quest achievement.
 ETC_20151224_019764	You have obtained a reward for the Capable Adventurer achievement.
 ETC_20151224_019765	Could not find ClassType, Name, Tactics, SimpleAI, Dialog, Enter, Leave in the Search Results.
 ETC_20151224_019766	Would you like to hire a Helper?{nl}Consumes 1 TP per minute{nl} {img medal 32 32}
-ETC_20151224_019767	{s16}{Auto_1}{Auto_2} Set Effect : 
-ETC_20151224_019768	Would you like to change your hairstyle? (Requires 100 TP)
+ETC_20151224_019767	{s16}{Auto_1}{Auto_2} Set Effekt : 
+ETC_20151224_019768	Would you like to change your hairstyle? (Benötigt 100 TP)
 ETC_20151224_019769	Nachrichten-Einstellungen
 ETC_20151224_019770	{@st59} When checked, quest objectives will appear on the right side of your screen. {nl}Up to 5 quest objectives can be displayed{/}
 ETC_20151224_019771	(TP{Auto_1} Consumed)
@@ -19843,7 +19843,7 @@ ETC_20151224_019839	Erhöhe Market listing to {COUNT}
 ETC_20151224_019840	Train {COUNT} attributes simultaneously
 ETC_20151224_019841	Erhoehe Bewegungsgeschwindigkeit um {COUNT}
 ETC_20151224_019842	Your Token has already been activated.
-ETC_20151224_019843	Premium goodies have arrived in your Lodge.{nl}Please retrieve them at your Lodge.
+ETC_20151224_019843	Premium goodies have arrived in your Hütte.{nl}Please retrieve them at your Hütte.
 ETC_20151224_019844	 den Gegenstand
 ETC_20151224_019845	Charakter
 ETC_20151224_019846	Server Team
@@ -19866,7 +19866,7 @@ ETC_20151224_019862	Erhöhe EXP beim töten von Monstern
 ETC_20151224_019863	You cannot buy the currently equipped hairstyle.
 ETC_20151224_019864	Arrange PC Logout
 ETC_20151224_019865	Mercenary Employment
-ETC_20151224_019866	TP Shop Purchase
+ETC_20151224_019866	TP Laden Purchase
 ETC_20151224_019867	Stat Reset
 ETC_20151224_019868	Request
 ETC_20151224_019869	Instant Warp
@@ -19874,7 +19874,7 @@ ETC_20151224_019870	Character Name Change
 ETC_20151224_019871	Random Box
 ETC_20151224_019872	Stat Reset
 ETC_20151224_019873	Storage Expansion
-ETC_20151224_019874	Lodge Skin Purchase
+ETC_20151224_019874	Hütte Skin Purchase
 ETC_20151224_019875	Change Team Name
 ETC_20151224_019876	Undo Skill
 ETC_20151224_019877	Team Slot Purchase
@@ -20028,9 +20028,9 @@ ETC_20151224_020024	The Chapparition who failed to destroy the altar is escaping
 ETC_20151224_020025	Completed [Returning Crisis] Event
 ETC_20151224_020026	Failed [Returning Crisis]{nl}The Chapparition managed to escaped.
 ETC_20151224_020027	Wähle Belohnung
-ETC_20151224_020028	Objective completed!{nl}Move to Royal Mausoleum Workers Lodge
-ETC_20151224_020029	There are monsters coming out from the Royal Mausoleum Workers Lodge
-ETC_20151224_020030	Gorgon is coming out from the Royal Mausoleum Workers Lodge
+ETC_20151224_020028	Objective completed!{nl}Move to Royal Mausoleum Workers Hütte
+ETC_20151224_020029	There are monsters coming out from the Royal Mausoleum Workers Hütte
+ETC_20151224_020030	Gorgon is coming out from the Royal Mausoleum Workers Hütte
 ETC_20151224_020031	The hidden monsters are rushing in
 ETC_20151224_020032	Objective completed!{nl}Move to Royal Mausoleum Constructors' Chapel
 ETC_20151224_020033	The first objective will start soon{nl}The Demon Summon Stone seems to be releasing the spell to absorb!
@@ -20208,14 +20208,14 @@ ETC_20160224_020204	Nevellet Quarry's Treasure Jäger
 ETC_20160224_020205	Open 150 treasure chests in Nevellet Quarry
 ETC_20160224_020206	Nevellet Quarry's Treasure Jäger (3)
 ETC_20160224_020207	Oil Sack Collector
-ETC_20160224_020208	Light 60 lamps in the Royal Mausoleum Workers Lodge
-ETC_20160224_020209	Royal Mausoleum Workers Lodge Lamp
+ETC_20160224_020208	Light 60 lamps in the Royal Mausoleum Workers Hütte
+ETC_20160224_020209	Royal Mausoleum Workers Hütte Lamp
 ETC_20160224_020210	Church Lamplighter
-ETC_20160224_020211	Light 180 lamps in the Royal Mausoleum Workers Lodge
-ETC_20160224_020212	Royal Mausoleum Workers Lodge Lamp (2)
+ETC_20160224_020211	Light 180 lamps in the Royal Mausoleum Workers Hütte
+ETC_20160224_020212	Royal Mausoleum Workers Hütte Lamp (2)
 ETC_20160224_020213	Lamp Maniac
-ETC_20160224_020214	Light 360 lamps in the Royal Mausoleum Workers Lodge
-ETC_20160224_020215	Royal Mausoleum Workers Lodge Lamp (3)
+ETC_20160224_020214	Light 360 lamps in the Royal Mausoleum Workers Hütte
+ETC_20160224_020215	Royal Mausoleum Workers Hütte Lamp (3)
 ETC_20160224_020216	Fledgling Mercenary
 ETC_20160224_020217	Progress in a daily quest 25 times
 ETC_20160224_020218	Daily Quest (1)
@@ -20440,7 +20440,7 @@ ETC_20160224_020436	DEX {img green_up_arrow 16 16} 25
 ETC_20160224_020437	Lolopanther Plate Set
 ETC_20160224_020438	HP Recovery {img green_up_arrow 16 16} 100
 ETC_20160224_020439	STR {img green_up_arrow 16 16} 25
-ETC_20160224_020440	Max silver allowed to users upon item drop
+ETC_20160224_020440	Max Silber allowed to users upon item drop
 ETC_20160224_020441	Nexon Internet Cafe additional EXP
 ETC_20160224_020442	Event Scene Quest normal monster drop rate 1/10
 ETC_20160224_020443	Leave this value as 1 to use a new NGS source
@@ -20554,17 +20554,17 @@ ETC_20160224_020550	Male characters cannot equip this{nl}Please check the requir
 ETC_20160224_020551	Female characters cannot equip this{nl}Please check the required{nl}gender in the description
 ETC_20160224_020552	Game access is currently restricted{nl}due to a server maintenance or other reasons.{nl}For more details, please contact{nl}customer service through the homepage.
 ETC_20160224_020553	You are currently infusing magic into an item. Please try again later.
-ETC_20160224_020554	You have exceeded the amount of silver you can carry.
+ETC_20160224_020554	You have exceeded the amount of Silber you can carry.
 ETC_20160224_020555	You have exceeded the maximum amount of registrations.
 ETC_20160224_020556	Up to 2 times with Token benefits
-ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slot(s) for {Silber} silver?
+ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slot(s) for {Silber} Silber?
 ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	This item cannot be awakened.
 ETC_20160224_020560	When awakening an item, your magic scroll and the item's current awakened options will disappear. Do you still want to proceed?
 ETC_20160224_020561	{nl}Dies in dein Tagebuch eintragen?
 ETC_20160224_020562	No Options
 ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
-ETC_20160224_020564	You cannot carry more than {MAX} silver.
+ETC_20160224_020564	You cannot carry more than {MAX} Silber.
 ETC_20160224_020565	Einlösbar bis [{Time}] 
 ETC_20160224_020566	Unexpirable
 ETC_20160224_020567	Hide
@@ -20670,7 +20670,7 @@ ETC_20160224_020666	Force Kick
 ETC_20160224_020667	Go to
 ETC_20160224_020668	This character cannot receive Likes.
 ETC_20160224_020669	You might lose some of your gems when you become incapable of combat in this current area.
-ETC_20160224_020670	You might lose some of your silver and gems when you become incapable of combat in this current area.
+ETC_20160224_020670	You might lose some of your Silber and gems when you become incapable of combat in this current area.
 ETC_20160224_020671	Would you like to spectate this game?
 ETC_20160224_020672	Current Points
 ETC_20160224_020673	Total Points Cost
@@ -20717,7 +20717,7 @@ ETC_20160224_020713	Earth Tower Notice Board
 ETC_20160224_020714	[Rune Caster Master]{nl}      Shelly Pennington
 ETC_20160224_020715	Team 2 wins
 ETC_20160224_020716	Team 1 wins
-ETC_20160224_020717	Gorkas came running from the Royal Mausoleum Workers Lodge!{nl}Besiege Gorkas!
+ETC_20160224_020717	Gorkas came running from the Royal Mausoleum Workers Hütte!{nl}Besiege Gorkas!
 ETC_20160224_020718	Tormenta has appeared
 ETC_20160224_020719	Besiege the escaped demons from the Demon Prison
 ETC_20160224_020720	Velpede has blocked the entry of the Demon Prison{nl}Besiege Velpede!
@@ -20979,7 +20979,7 @@ ETC_20160310_020973	Research Material Warehouse
 ETC_20160310_020974	Temporary Research Facility
 ETC_20160310_020975	Menka Knoll
 ETC_20160310_020976	Angis Trail
-ETC_20160310_020977	Altes Camp
+ETC_20160310_020977	Altes Lager
 ETC_20160310_020978	Juice Collection Site
 ETC_20160310_020979	Grigalius Vacant Lot
 ETC_20160310_020980	Seed Depository
@@ -20988,7 +20988,7 @@ ETC_20160310_020982	Siltas Vacant Lot
 ETC_20160310_020983	Ownerless Reclaimed Land
 ETC_20160310_020984	Pamesti Dorf
 ETC_20160310_020985	Abandoned Farm
-ETC_20160310_020986	Operations Camp
+ETC_20160310_020986	Operations Lager
 ETC_20160310_020987	Herb Broker Tent
 ETC_20160310_020988	Stebbe's Groom
 ETC_20160310_020989	Atvira Oratory
@@ -21011,7 +21011,7 @@ ETC_20160310_021005	Principal Laboratory
 ETC_20160310_021006	Old Temporary Workshop
 ETC_20160310_021007	Minkatos Forkroad
 ETC_20160310_021008	Spega Springs
-ETC_20160310_021009	Soldier's Camp
+ETC_20160310_021009	Soldier's Lager
 ETC_20160310_021010	Sielvartas Forest Road
 ETC_20160310_021011	Abandoned Mine Entrance
 ETC_20160310_021012	Ars Refuge
@@ -21056,7 +21056,7 @@ ETC_20160310_021050	Collect information from the refugees
 ETC_20160310_021051	Search the Suspicious Pouch
 ETC_20160310_021052	Find Necromancer Lemija
 ETC_20160310_021053	Lead Lemija to the body of Adomas
-ETC_20160310_021054	Search the tracks left by the soldiers at the Soldier's Camp
+ETC_20160310_021054	Search the tracks left by the soldiers at the Soldier's Lager
 ETC_20160310_021055	Absorb the magic indwelling in the Frozen Soldier
 ETC_20160310_021056	Go to Faustas' Hideout with Lemija
 ETC_20160310_021057	Deliver the letter
@@ -21105,8 +21105,8 @@ ETC_20160310_021099	You have been caught by a Frozen Soldier
 ETC_20160310_021100	You have failed to protect Lemija
 ETC_20160310_021101	Absorbing Magie
 ETC_20160310_021102	There is not much absorbed magic remaining
-ETC_20160310_021103	Let's go towards the Soldier's Camp.
-ETC_20160310_021104	The seal here is too strong.{nl}Let's go around to the Soldier's Camp.
+ETC_20160310_021103	Let's go towards the Soldier's Lager.
+ETC_20160310_021104	The seal here is too strong.{nl}Let's go around to the Soldier's Lager.
 ETC_20160310_021105	You have failed to protect Lucienne.
 ETC_20160310_021106	Lucienne failed to concentrate on mixing the reagent
 ETC_20160310_021107	Using Reagent
@@ -21357,7 +21357,7 @@ ETC_20160323_021351	The magic circle has already been created here
 ETC_20160323_021352	Using the Magie Searching Stone
 ETC_20160323_021353	You can't transform while doing a quest in this region.
 ETC_20160323_021354	Guild member {Name} received {Gegenstand} (x{Count}) from the Guild Storage. 
-ETC_20160323_021355	You've received an item from the Guild Storage. Retrieve the item in your Lodge.
+ETC_20160323_021355	You've received an item from the Guild Storage. Retrieve the item in your Hütte.
 ETC_20160323_021356	You can't use this item in other Guild Hangouts.
 ETC_20160323_021357	You can only place one Lagerfeuer.{nl}The previous Lagerfeuer has been removed.
 ETC_20160323_021358	Du kannst das verkaufen.

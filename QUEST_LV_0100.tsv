@@ -16,7 +16,7 @@ QUEST_LV_0100_20150317_000015	It was peaceful not too long ago, but now they are
 QUEST_LV_0100_20150317_000016	Even so, I felt uneasy...{nl}Who knew that they'd attack in such an absurd manner?
 QUEST_LV_0100_20150317_000017	The rations are in the First Supply Warehouse, which you can get to using the road {nl}on the upper side. Please bring back whatever leftovers you find... 
 QUEST_LV_0100_20150317_000018	I wrote down who Sparnas is. Maybe it will be useful in the future.{nl}Though I may not appear so right now, I was a biologist four years ago.
-QUEST_LV_0100_20150317_000019	Please pass this report to Luders.{nl}He is probably at the Center Supply Camp.
+QUEST_LV_0100_20150317_000019	Please pass this report to Luders.{nl}He is probably at the Center Supply Lager.
 QUEST_LV_0100_20150317_000020	Officer Luders
 QUEST_LV_0100_20150317_000021	Ah, you must be the so called Revelator. Nice to meet you.{nl}Is this Blak's report?{nl}
 QUEST_LV_0100_20150317_000022	Hmm... Is that so?{nl}It appears they simply destroyed the supplies and ran away. But even if Chupacabras had wings, {nl}surely they can't do something like that.{nl}
@@ -158,7 +158,7 @@ QUEST_LV_0100_20150317_000157	Niels sent you too?{nl}I am not going. I have to r
 QUEST_LV_0100_20150317_000158	I guess what I saw was an illusion.{nl}I must reward you for protecting a mineralogist like me.{nl}
 QUEST_LV_0100_20150317_000159	Yes.{nl}Bring me my archives from Niels.
 QUEST_LV_0100_20150317_000160	Jonas told you to bring his archives?{nl}Okay. In return, please bring him some medicine.{nl}
-QUEST_LV_0100_20150317_000161	The medicine will help him ease his mind.{nl}Davio at the right side of the Excavation Camp has the medicine.
+QUEST_LV_0100_20150317_000161	The medicine will help him ease his mind.{nl}Davio at the right side of the Excavation Lager has the medicine.
 QUEST_LV_0100_20150317_000162	Jonas is the head of the family that protects the Royal Mausoleum of the Great King Zachariel.{nl}He was once very healthy, but these days he is old and weak.{nl}
 QUEST_LV_0100_20150317_000163	It was after Jonas went out to a visit with his servant.{nl}Jonas was found with dementia and the servant has gone missing even until today.
 QUEST_LV_0100_20150317_000164	Please take good care of Jonas.{nl}It would be a big problem if he got hurt.
@@ -552,7 +552,7 @@ QUEST_LV_0100_20150317_000551	Just how many things are hiding in this canyon?{nl
 QUEST_LV_0100_20150317_000552	According to the old records, the king erased the stonemason's memories using magic to {nl}protect the Royal Mausoleum. I think it's amazing that he erased only those memories.
 QUEST_LV_0100_20150317_000553	Liaison Officer Nian
 QUEST_LV_0100_20150317_000554	You saw, right? That's why I told you not to touch it.{nl}Because of this, we received an order to withdraw from this place.{nl}
-QUEST_LV_0100_20150317_000555	Well, if I am to be involved in this, can you at least do me a favor?{nl}Tell Adelle at the Excavation Team Camp to watch out for these kind of stones.
+QUEST_LV_0100_20150317_000555	Well, if I am to be involved in this, can you at least do me a favor?{nl}Tell Adelle at the Excavation Team Lager to watch out for these kind of stones.
 QUEST_LV_0100_20150317_000556	We are looking for a stone with peculiar carvings.{nl}If you happen to come upon such a stone, please notify us instead of touching it.
 QUEST_LV_0100_20150317_000557	Historian Adelle
 QUEST_LV_0100_20150317_000558	A stone? I might know of it.{nl}Do you want to to know what kind of stone it is?
@@ -1286,7 +1286,7 @@ QUEST_LV_0100_20150317_001285	The goddess and the demons... Zachariel's Royal Ma
 QUEST_LV_0100_20150317_001286	Morkus Jonas
 QUEST_LV_0100_20150317_001287	That guy the Old Man kept talking about, is he going to come at all??
 QUEST_LV_0100_20150317_001288	The old man told us.{nl}When you go against your destiny, that also is a part of your destiny.{nl}Maybe the reason why we are trying hard is because that's our destiny.
-QUEST_LV_0100_20150317_001289	How come no one remembers him.{nl}The man with silver hair... Hmm...
+QUEST_LV_0100_20150317_001289	How come no one remembers him.{nl}The man with Silber hair... Hmm...
 QUEST_LV_0100_20150317_001290	An unknown event that is being plotted by an unknown person...{nl}This is really scary...
 QUEST_LV_0100_20150317_001291	It's time for me to push forward with my research, but I can't focus at all.{nl}Moreover, where did my assistant go...
 QUEST_LV_0100_20150317_001292	Without Airine, I would have died.{nl}Of course, I really appreciate for your help.
@@ -1423,10 +1423,10 @@ QUEST_LV_0100_20150317_001422	Everything happened so fast, and nobody knew what 
 QUEST_LV_0100_20150317_001423	The destruction of the capital was just the beginning. {nl}Medzio Diena was simply a prelude to the catastrophes coming ahead. {nl}
 QUEST_LV_0100_20150317_001424	Monstrous plants sprouted up all over and began devouring people.{nl}Everyone started running, but before I knew it I was the only person left.{nl}
 QUEST_LV_0100_20150317_001425	Enough. Don't ask any more questions. {nl}I... don't want to think about it anymore.
-QUEST_LV_0100_20150317_001426	The Excavation Camp on Zachariel's Royal Mausoleum is past here.{nl}You can freely enter, but please be careful not to disturb the people doing research.
-QUEST_LV_0100_20150317_001427	The one in charge of this Excavation Camp is Niels.{nl}If you have something regarding the research group, look for him in the camp.
+QUEST_LV_0100_20150317_001426	The Excavation Lager on Zachariel's Royal Mausoleum is past here.{nl}You can freely enter, but please be careful not to disturb the people doing research.
+QUEST_LV_0100_20150317_001427	The one in charge of this Excavation Lager is Niels.{nl}If you have something regarding the research group, look for him in the camp.
 QUEST_LV_0100_20150317_001428	We won't block anyone's entrance past here, but we can't guarantee one's safety.
-QUEST_LV_0100_20150317_001429	The researchers here receive support from the kingdom.{nl}The person in charge is Niels, so if you have any questions talk to him at the Excavation Camp.
+QUEST_LV_0100_20150317_001429	The researchers here receive support from the kingdom.{nl}The person in charge is Niels, so if you have any questions talk to him at the Excavation Lager.
 QUEST_LV_0100_20150317_001430	The Royal Mausoleum should be protected.{nl}If it can't be protected, it will be destroyed itself.
 QUEST_LV_0100_20150317_001431	Fedimian is a very old city, and is surrounded by countless ruins and wonders. {nl}This includes the Mage Tower, the Cursed City and the Great Cathedral.
 QUEST_LV_0100_20150317_001432	Hundreds of years ago an archmage by the name of Agailla Flurry built that tower. {nl}Much of the magic used today saw their beginnings within that tower, and haven't changed {nl}much since.
@@ -1462,7 +1462,7 @@ QUEST_LV_0100_20150317_001461	The adventure can continue if I get my diary back.
 QUEST_LV_0100_20150317_001462	Long time no see. {nl}I have a favor to ask you. Can you help?{nl}
 QUEST_LV_0100_20150317_001463	I want to put a monument up for my dead colleague.{nl}But I don't have any materials or tools.
 QUEST_LV_0100_20150317_001464	Thank you. The Klaipeda blacksmith should sell the tools.{nl}But first, I'd like to ask you to bring me boulders from High Winding Road {nl}that are known for their excellent quality.
-QUEST_LV_0100_20150317_001465	Tools for stonemasons? {nl}10,000 silver will do.{nl}{nl}
+QUEST_LV_0100_20150317_001465	Tools for stonemasons? {nl}10,000 Silber will do.{nl}{nl}
 QUEST_LV_0100_20150317_001466	I just figured out how I'm going to make it.{nl}I will make it quick, so please wait.
 QUEST_LV_0100_20150317_001467	It's finished. Place it at the entrance of the Royal Mausoleum at Overlooking Crossroads.{nl}Maybe this can provide enough consolation.
 QUEST_LV_0100_20150317_001468	I keep thinking about my colleague.{nl}I'll never see him again, right...
@@ -1707,14 +1707,14 @@ QUEST_LV_0100_20150317_001706	Now proceed to the Thorn Forest again.{nl}Somebody
 QUEST_LV_0100_20150317_001707	Please do not forget your valuable experiences here.{nl}Don't be afraid, please proceed.
 QUEST_LV_0100_20150317_001708	You woke me up to take the test.
 QUEST_LV_0100_20150317_001709	I've been waiting for you. I'm the Swordsman Master, the one who will help you.{nl}I'm not sure if you know about attribute training. {nl}
-QUEST_LV_0100_20150317_001710	Attributes can give additional abilities to stats and skills. {nl}You can learn attributes from each class master by paying them silver.
+QUEST_LV_0100_20150317_001710	Attributes can give additional abilities to stats and skills. {nl}You can learn attributes from each class master by paying them Silber.
 QUEST_LV_0100_20150317_001711	You'll be able to fight easier if you learn attributes. {nl}
 QUEST_LV_0100_20150317_001712	You've come to the right place. I'm the Wizard Master. {nl}I'm going to teach you about attribute training. {nl}
-QUEST_LV_0100_20150317_001713	Attributes can give additional abilities to stats and skills. {nl}You can learn attributes from each class master by paying them silver. 
+QUEST_LV_0100_20150317_001713	Attributes can give additional abilities to stats and skills. {nl}You can learn attributes from each class master by paying them Silber. 
 QUEST_LV_0100_20150317_001714	Does everything about attributes make sense? Now you'll be able to fight the enemies easier.
 QUEST_LV_0100_20150317_001715	How you become strong depends on what choice you make. {nl}It differs depending on your choice and thoughts.
 QUEST_LV_0100_20150317_001716	Good to see you. I am the Archer Master. {nl}Do you know about attribute training? {nl}
-QUEST_LV_0100_20150317_001717	Attributes can give additional abilities to stats and skills. {nl}You can learn attributes from each class master by paying them silver. 
+QUEST_LV_0100_20150317_001717	Attributes can give additional abilities to stats and skills. {nl}You can learn attributes from each class master by paying them Silber. 
 QUEST_LV_0100_20150317_001718	Mastering these attributes will help your skills in combat.
 QUEST_LV_0100_20150317_001719	Willpower is the force that creates magic power. {nl}For a Wizard, there is no stronger weapon. 
 QUEST_LV_0100_20150317_001720	The archer gives an arrow as a present, but the enemy take it as death.
@@ -1741,9 +1741,9 @@ QUEST_LV_0100_20150317_001740	People are still suffering from the wounds within 
 QUEST_LV_0100_20150317_001741	I am sorry, but can you please find my companion, Badat.{nl}I haven't heard anything from him since he left to do some research.
 QUEST_LV_0100_20150317_001742	I don't know where he went.{nl}But he will be in danger without protection from mercenaries.
 QUEST_LV_0100_20150317_001743	Gorath was looking for me?{nl}I am sorry. I just need to find the rest of my research materials.
-QUEST_LV_0100_20150317_001744	Thanks. I was thinking that the Tontus may have swallowed them.{nl}I promise that I will return to the Excavation Camp if you find them for me.
+QUEST_LV_0100_20150317_001744	Thanks. I was thinking that the Tontus may have swallowed them.{nl}I promise that I will return to the Excavation Lager if you find them for me.
 QUEST_LV_0100_20150317_001745	I remember the most of it, but those are really important research materials.{nl}They contain the information on how we could enter into the Mausoleum and etc.
-QUEST_LV_0100_20150317_001746	So this is all? Hmm...{nl}Thanks for finding them. I will now return to the Excavation Camp.
+QUEST_LV_0100_20150317_001746	So this is all? Hmm...{nl}Thanks for finding them. I will now return to the Excavation Lager.
 QUEST_LV_0100_20150317_001747	Monsters will gain nothing by stealing these research materials.{nl}And yet, there are many people claiming that they lost their materials. Isn't it strange?
 QUEST_LV_0100_20150317_001748	So you want to be our apprentice, eh?{nl}Do you know who we are?
 QUEST_LV_0100_20150317_001749	We should ask for more when we are in times like this.{nl}I don't know what they are looking for, {nl}but they pay a lot when something is discovered at the Royal Mausoleum.{nl}{nl}
@@ -1765,7 +1765,7 @@ QUEST_LV_0100_20150317_001764	Because of your assistance, the study went well.{n
 QUEST_LV_0100_20150317_001765	Ho. As I expected.{nl}The one I am looking for should be marked.
 QUEST_LV_0100_20150317_001766	I am smarter than you guys think!{nl}Do you think I am gonna get deceived by you guys?
 QUEST_LV_0100_20150317_001767	It is a real honor to be chosen as a member of the research team, but I am afraid of making {nl}mistakes.
-QUEST_LV_0100_20150317_001768	A man with silver hair requested something of me, what was it?{nl}Or was it blonde hair?
+QUEST_LV_0100_20150317_001768	A man with Silber hair requested something of me, what was it?{nl}Or was it blonde hair?
 QUEST_LV_0100_20150317_001769	Foreseeing Owl
 QUEST_LV_0100_20150317_001770	Necroventer has obstructed the road to the Thorn Forest. {nl} You must defeat the Necroventer to enter the Thorn Forest.
 QUEST_LV_0100_20150317_001771	Corrupted Owl Sculpture
@@ -1880,7 +1880,7 @@ QUEST_LV_0100_20150317_001879	Rexipher? I am not sure.{nl}Are you sure that's th
 QUEST_LV_0100_20150317_001880	He must have a lot of courage if he runs around with the name Rexipher. 
 QUEST_LV_0100_20150317_001881	Hold on for a minute. I've seen this before from a book.{nl}Wasn't Rexipher a Demon Lord who is part of the army of Vaiga, the Demon King?
 QUEST_LV_0100_20150317_001882	Using the name of a demon, that doesn't look like they have good intentions.
-QUEST_LV_0100_20150317_001883	Rexipher?{nl} The one with silver hair, wearing a robe?
+QUEST_LV_0100_20150317_001883	Rexipher?{nl} The one with Silber hair, wearing a robe?
 QUEST_LV_0100_20150317_001884	He is a crazy person who can control monsters.{nl}He's the reason I'm wounded like this, and he also destroyed the altar which I used for research.{nl}
 QUEST_LV_0100_20150317_001885	First, go to the Chesed Altar. {nl}He is also going for the Gedulah Altar.
 QUEST_LV_0100_20150317_001886	Good. As it should be. {nl}First, destroy the Royal Mausoleum Defense Device at Sesija Entrance.
@@ -1959,7 +1959,7 @@ QUEST_LV_0100_20150317_001958	Kadumel the Tyrant, Premier Eminent the Chancellor
 QUEST_LV_0100_20150317_001959	There are many artifacts here that praise the heroes of that time.{nl}And there are countless side stories about them as well.
 QUEST_LV_0100_20150317_001960	When you use the stone on Infroburks and defeat them, they will automatically come to me.{nl}I will look forward to getting them.
 QUEST_LV_0100_20150317_001961	She is the most impressive archer in history.{nl}She defeated Ruklys, who was a traitor and a great swordsman, with a single arrow.{nl}
-QUEST_LV_0100_20150317_001962	That's why there are archers who are willing to put Groß sums of silver into purchasing items {nl}that are related to her. She is like a goddess to us archers.
+QUEST_LV_0100_20150317_001962	That's why there are archers who are willing to put Groß sums of Silber into purchasing items {nl}that are related to her. She is like a goddess to us archers.
 QUEST_LV_0100_20150317_001963	There was a priest named Maven in the past.{nl}He is the person who built the Great Cathedral.{nl}
 QUEST_LV_0100_20150317_001964	Maven lived for a long time and had three disciples.{nl}The first one was Ruklys and the Sekunde one was Lydia Schaffen.{nl}
 QUEST_LV_0100_20150317_001965	And when Lydia Schaffen grew old, Agailla Flurry became the last disciple.{nl}As the other two disciples were, Agailla Flurry was a great person.
@@ -2403,7 +2403,7 @@ QUEST_LV_0100_20150317_002402	Something Fishy
 QUEST_LV_0100_20150317_002403	I'll take a look for you
 QUEST_LV_0100_20150317_002404	The Bishop's Dream of the Revelation
 QUEST_LV_0100_20150317_002405	I have come with the revelation
-QUEST_LV_0100_20150317_002406	Camp Crisis
+QUEST_LV_0100_20150317_002406	Lager Crisis
 QUEST_LV_0100_20150317_002407	I didn't see anything like that
 QUEST_LV_0100_20150317_002408	Not really my problem
 QUEST_LV_0100_20150317_002409	Threats of the Eastern Woods
@@ -2415,7 +2415,7 @@ QUEST_LV_0100_20150317_002414	I'll defeat the Chupacabra
 QUEST_LV_0100_20150317_002415	You should take care of it yourself
 QUEST_LV_0100_20150317_002416	The role of Aras' Troops
 QUEST_LV_0100_20150317_002417	Sentinel's Favor (2)
-QUEST_LV_0100_20150317_002418	I'll get the Supplies Camp back
+QUEST_LV_0100_20150317_002418	I'll get the Supplies Lager back
 QUEST_LV_0100_20150317_002419	Not as Intended (3)
 QUEST_LV_0100_20150317_002420	I'll defeat the Groß Gray Chupacabra
 QUEST_LV_0100_20150317_002421	Not as Intended (4)
@@ -2488,7 +2488,7 @@ QUEST_LV_0100_20150317_002487	I'll accept your request
 QUEST_LV_0100_20150317_002488	Ich bin beschäftigt
 QUEST_LV_0100_20150317_002489	Extracting/#SITGROPESET2/3.5/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002490	In their Honor (2)
-QUEST_LV_0100_20150317_002491	I'll pay 10,000 silver
+QUEST_LV_0100_20150317_002491	I'll pay 10,000 Silber
 QUEST_LV_0100_20150317_002492	Tell him that it's too expensive
 QUEST_LV_0100_20150317_002493	In their Honor (3)
 QUEST_LV_0100_20150317_002494	I'll go there
@@ -3825,7 +3825,7 @@ QUEST_LV_0100_20150317_003824	Crafting Rüstung (3)
 QUEST_LV_0100_20150317_003825	Crafting Rüstung (4)
 QUEST_LV_0100_20150317_003826	Sprich mit the Sentinel
 QUEST_LV_0100_20150317_003827	Ask the Sentinel for directions to Klaipeda.
-QUEST_LV_0100_20150317_003828	Sprich mit Knight Titas in Western Forest Camp
+QUEST_LV_0100_20150317_003828	Sprich mit Knight Titas in Western Forest Lager
 QUEST_LV_0100_20150317_003829	Ask Sir Titas what's blocking the way to Klaipeda.
 QUEST_LV_0100_20150317_003830	Ask Knight Titas for directions to Klaipeda
 QUEST_LV_0100_20150317_003831	Ask Knight Titas about the current situation.
@@ -3901,9 +3901,9 @@ QUEST_LV_0100_20150317_003900	Sprich mit Knight Commander Uska
 QUEST_LV_0100_20150317_003901	Knight Commander Uska is looking for people who came to Klaipeda after witnessing the dream of goddess. Meet Sir Uska and tell him about the Dream of Revelation.
 QUEST_LV_0100_20150317_003902	Knight Commander Uska is looking for people who came to Klaipeda after witnessing the dream of goddess. Meet Sir Uska and tell him about the Dream of Revelation.
 QUEST_LV_0100_20150317_003903	When ready, talk to Sir Uska about going to the Crystal Mine as told by the goddess in the bishop's dream.
-QUEST_LV_0100_20150317_003904	Go to the Eastern Woods Base Camp
-QUEST_LV_0100_20150317_003905	The Eastern Woods Base Camp seems to be in danger because of monster accumulation. Let's go and have a look.
-QUEST_LV_0100_20150317_003906	Besiege the Poata in the Eastern Woods Base Camp
+QUEST_LV_0100_20150317_003904	Go to the Eastern Woods Basislager
+QUEST_LV_0100_20150317_003905	The Eastern Woods Basislager seems to be in danger because of monster accumulation. Let's go and have a look.
+QUEST_LV_0100_20150317_003906	Besiege the Poata in the Eastern Woods Basislager
 QUEST_LV_0100_20150317_003907	Poata appeared to defend the Baby Poata. Besiege the Poata that suddenly appeared.
 QUEST_LV_0100_20150317_003908	Sprich mit Knight Aras
 QUEST_LV_0100_20150317_003909	You defeated the Poata threatening Aras. Report back to him about it. 
@@ -3920,13 +3920,13 @@ QUEST_LV_0100_20150317_003919	Hunt Chupacabras
 QUEST_LV_0100_20150317_003920	Walk around the woods and defeat the Chupacabras endangering the soldiers.
 QUEST_LV_0100_20150317_003921	Return and report to the Sentinel
 QUEST_LV_0100_20150317_003922	Bericht an den Eastern Woods Sentinel that the Chupacabras have been exterminated.
-QUEST_LV_0100_20150317_003923	Listen to the Sentinel about the Supplies Camp
-QUEST_LV_0100_20150317_003924	Listen to the Sentinel about the monster that attacked the Supplies Camp.
-QUEST_LV_0100_20150317_003925	Reclaim the Supplies Camp
-QUEST_LV_0100_20150317_003926	Besiege the monsters occupying the Supplies Camp.
+QUEST_LV_0100_20150317_003923	Listen to the Sentinel about the Supplies Lager
+QUEST_LV_0100_20150317_003924	Listen to the Sentinel about the monster that attacked the Supplies Lager.
+QUEST_LV_0100_20150317_003925	Reclaim the Supplies Lager
+QUEST_LV_0100_20150317_003926	Besiege the monsters occupying the Supplies Lager.
 QUEST_LV_0100_20150317_003927	Report back to the Outpost Sentinel
-QUEST_LV_0100_20150317_003928	Bericht an Outpost Sentinel that you've taken back the Supplies Camp.
-QUEST_LV_0100_20150317_003929	Besiege the Chupacabras in the Supplies Camp
+QUEST_LV_0100_20150317_003928	Bericht an Outpost Sentinel that you've taken back the Supplies Lager.
+QUEST_LV_0100_20150317_003929	Besiege the Chupacabras in the Supplies Lager
 QUEST_LV_0100_20150317_003930	Obtain information about Chupacabras from the Supply Officer
 QUEST_LV_0100_20150317_003931	Listen to the information about Chupacabras from the Supply Officer.
 QUEST_LV_0100_20150317_003932	Besiege the Groß Gray Chupacabras
@@ -4064,7 +4064,7 @@ QUEST_LV_0100_20150317_004063	Found the keys! Return to Morkus and talk to him.
 QUEST_LV_0100_20150317_004064	Collect %s from spatial chasms
 QUEST_LV_0100_20150317_004065	Sprich mit the Supply Officer in the farm. He seems to have a problem. 
 QUEST_LV_0100_20150317_004066	Retrieve the supply boxes
-QUEST_LV_0100_20150317_004067	The monsters took all the supplies to be sent to the village. Retrieve the supply boxes that the monsters stole around the Supplies Camp.
+QUEST_LV_0100_20150317_004067	The monsters took all the supplies to be sent to the village. Retrieve the supply boxes that the monsters stole around the Supplies Lager.
 QUEST_LV_0100_20150317_004068	Give the supply boxes to the Supply Officer
 QUEST_LV_0100_20150317_004069	Please bring the collected supply boxes to the Supply Officer.
 QUEST_LV_0100_20150317_004070	Examine the barrier stone in Closed Area
@@ -4083,7 +4083,7 @@ QUEST_LV_0100_20150317_004082	You were able to get the supplies left. Take it to
 QUEST_LV_0100_20150317_004083	Besiege Siaulago eyeing the supplies
 QUEST_LV_0100_20150317_004084	Looks like Soldier Blak has something to say about the monsters that raided the warehous. Sprich mit him again.
 QUEST_LV_0100_20150317_004085	Give Soldier Blak's Bericht an Officer Liudas
-QUEST_LV_0100_20150317_004086	Soldier Blak wants to give the report to Officer Liudas. Deliver the report to Officer Liudas in Central Supplies Camp.
+QUEST_LV_0100_20150317_004086	Soldier Blak wants to give the report to Officer Liudas. Deliver the report to Officer Liudas in Central Supplies Lager.
 QUEST_LV_0100_20150317_004087	Sprich mit Soldier York
 QUEST_LV_0100_20150317_004088	Soldier York is breathing heavily. Sprich mit him.
 QUEST_LV_0100_20150317_004089	Besiege the Siaulamb Lagoon
@@ -4094,7 +4094,7 @@ QUEST_LV_0100_20150317_004093	Adjutant General Paulina seems angry. Sprich mit h
 QUEST_LV_0100_20150317_004094	Retrieving the supplies stolen by the Siaulambs in each warehouse
 QUEST_LV_0100_20150317_004095	Polyna states that the stolen supplies must be retrieved. Get back the supplies from the Siaulambs nearby each warehouse. 
 QUEST_LV_0100_20150317_004096	Deliver to Adjutant General Paulina
-QUEST_LV_0100_20150317_004097	Retrieved much of the stolen supplies. Give it to Adjutant General Volda in Central Supplies Camp.
+QUEST_LV_0100_20150317_004097	Retrieved much of the stolen supplies. Give it to Adjutant General Volda in Central Supplies Lager.
 QUEST_LV_0100_20150317_004098	Collect %s from Siaulamb Shaman
 QUEST_LV_0100_20150317_004099	Sprich mit Officer Luders
 QUEST_LV_0100_20150317_004100	Ready to hunt Sparnas. Sprich mit Officer Luders.
@@ -4112,8 +4112,8 @@ QUEST_LV_0100_20150317_004111	Sprich mit Archivist Jonas
 QUEST_LV_0100_20150317_004112	You were proven to be the right person by the Eye of the Great King. Sprich mit Archivist Jonas.
 QUEST_LV_0100_20150317_004113	Light the signal fire
 QUEST_LV_0100_20150317_004114	Archivist Jonas wants to light up a signal fire to let the families know that the chosen one has come. Light up the signal at the top of the valley.
-QUEST_LV_0100_20150317_004115	Return to Liaison Officer Niels at the Excavation Camp
-QUEST_LV_0100_20150317_004116	Seems like the signal fire was lit well. Return to Niels at the Excavation Camp. 
+QUEST_LV_0100_20150317_004115	Return to Liaison Officer Niels at the Excavation Lager
+QUEST_LV_0100_20150317_004116	Seems like the signal fire was lit well. Return to Niels at the Excavation Lager. 
 QUEST_LV_0100_20150317_004117	Archivist Jonas wasn't the only problem troubling Niels. Help Niels again. 
 QUEST_LV_0100_20150317_004118	Find Mercenary Mirta
 QUEST_LV_0100_20150317_004119	Niels is worried as he hasn't heard back from Historian Kepeck. {nl}Mercenary Mirta went to look for Kepek and he is also missing. {nl}Try to look for Mercenary Mirta first. 
@@ -4397,7 +4397,7 @@ QUEST_LV_0100_20150317_004396	Besiege Necroventer
 QUEST_LV_0100_20150317_004397	Sprich mit Archaeologist Laudi
 QUEST_LV_0100_20150317_004398	Archaeologist Laudi is looking for someone who is stronger than anyone. Sprich mit Archaeologist Laudi.
 QUEST_LV_0100_20150317_004399	Obtain the Relic Fragment by defeating Denoptic
-QUEST_LV_0100_20150317_004400	Laudi said that he can not continue his research due to the charcoal-eating Denoptic. Bring him the Relic Fragment that haven't been digested inside Denoptic beyond Apynys Camp. When you survey the charcoal, Denoptic should appear.
+QUEST_LV_0100_20150317_004400	Laudi said that he can not continue his research due to the charcoal-eating Denoptic. Bring him the Relic Fragment that haven't been digested inside Denoptic beyond Apynys Lager. When you survey the charcoal, Denoptic should appear.
 QUEST_LV_0100_20150317_004401	Give the Relic Fragment to Archaeologist Laudi
 QUEST_LV_0100_20150317_004402	There was a Relic Fragment inside Denoptic's stomach. Take it to Archaeologist Laudi.
 QUEST_LV_0100_20150317_004403	Obtain %s after defeating Denoptic
@@ -5921,7 +5921,7 @@ QUEST_LV_0100_20150317_005920	Volda says we should defeat the brush trap balls t
 QUEST_LV_0100_20150317_005921	Besiege the remnants of Siaulambs
 QUEST_LV_0100_20150317_005922	Found the pouch full of brush trap balls and the Siaulambs went mad and start to attack. Besiege all the Siaulambs.
 QUEST_LV_0100_20150317_005923	Defeated all remnanats of Siaulambds but there is no place to burn the brash trap balls. Give it to Volda. 
-QUEST_LV_0100_20150317_005924	You must give Moody's report to Officer Liudas. Return to Liudas in Central Supplies Camp and talk to him.
+QUEST_LV_0100_20150317_005924	You must give Moody's report to Officer Liudas. Return to Liudas in Central Supplies Lager and talk to him.
 QUEST_LV_0100_20150317_005925	Check the monster in Amzina Curved Path
 QUEST_LV_0100_20150317_005926	Liudas says he got a report about a Groß monster showing up. Check the monster in Amzina Curved Path. 
 QUEST_LV_0100_20150317_005927	The Groß monster in A,zina rooked Road was Tutu, not Sparnas. Report about it to Liudas. 
@@ -5981,7 +5981,7 @@ QUEST_LV_0100_20150317_005980	Gorath is asking you to find his lost friends. His
 QUEST_LV_0100_20150317_005981	Found Badat. Sprich mit him so that he can return safely.
 QUEST_LV_0100_20150317_005982	Historian Badat seems to be looking for something. Sprich mit him.
 QUEST_LV_0100_20150317_005983	Finding Historian Badat's research.
-QUEST_LV_0100_20150317_005984	Historian Badat says he'll return to the Excavation Camp when he finds his research materials. Hunt Tontus and get back the research materials for Badat.
+QUEST_LV_0100_20150317_005984	Historian Badat says he'll return to the Excavation Lager when he finds his research materials. Hunt Tontus and get back the research materials for Badat.
 QUEST_LV_0100_20150317_005985	Give the research materials quickly so that Badat can return to camp/
 QUEST_LV_0100_20150317_005986	Obtain %s by defeating Tontus
 QUEST_LV_0100_20150317_005987	Besiege Tontus and retrieve the research material
@@ -6020,7 +6020,7 @@ QUEST_LV_0100_20150317_006019	Mausoleum Guardians are hoarding the pieces of the
 QUEST_LV_0100_20150317_006020	Collected all pieces of the slate. Sprich mit the Guardian's Stone Statue.
 QUEST_LV_0100_20150317_006021	Besiege the Guardian and get %s
 QUEST_LV_0100_20150317_006022	Retrieve Pieces of Royal Slate
-QUEST_LV_0100_20150317_006023	Liaison Officer Niels say Jonas' family is looking for you. Sprich mit Ahylas in the Excavation Camp.
+QUEST_LV_0100_20150317_006023	Liaison Officer Niels say Jonas' family is looking for you. Sprich mit Ahylas in the Excavation Lager.
 QUEST_LV_0100_20150317_006024	Collect the Shiny Tree Sap.
 QUEST_LV_0100_20150317_006025	Ahylas needs to prepare the legacy of Great King Zachariel for the chosen one. He needs the Shiny Tree Sap which is called the tears of Goddess Zemyna. Go to Zeme Highland to obtain the sap. 
 QUEST_LV_0100_20150317_006026	Sprich mit Ahylas
@@ -6901,7 +6901,7 @@ QUEST_LV_0100_20150511_006900	Retrieve the Research Materials from Varkis' lost 
 QUEST_LV_0100_20150511_006901	Adventurer Varkis told you that monsters stole the bag and ran away. Retrieve his diary by finding the bag at way below the Serno Highland.
 QUEST_LV_0100_20150511_006902	Go to the camp of adventurer, Varkis
 QUEST_LV_0100_20150511_006903	The gigantic monster was defeated, but Varkis passed away. Returnto his camp with the diary.
-QUEST_LV_0100_20150511_006904	Go to Camp of Varkis
+QUEST_LV_0100_20150511_006904	Go to Lager of Varkis
 QUEST_LV_0100_20150511_006905	Varkis passed away. Return to the camp where Varkis used to reside and meet his spirit.
 QUEST_LV_0100_20150511_006906	Collect Varkis' Research Materials at Dykyne Fork
 QUEST_LV_0100_20150511_006907	It seems that Varkis still has some regrets concerning the research that he used to do when he was alive. Collect his materials at Dykyne Fork.
@@ -6935,7 +6935,7 @@ QUEST_LV_0100_20150714_006934	My soul is shredded and trapped in the seal. {nl}B
 QUEST_LV_0100_20150714_006935	The Heilig Ark that I am a part of is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Heilig Ark.
 QUEST_LV_0100_20150714_006936	We Watchers love to fight.{nl}The Pantos were not this reckless before. {nl}Surely it's because the demons are starting to march in.
 QUEST_LV_0100_20150714_006937	If possible, I want you to defeat the Wild Carnivore as well.{nl}It has become corrupted with demonic energy and I let it be any longer.
-QUEST_LV_0100_20150714_006938	Tools for stonemasons? {nl}That'll be 10,000 silver.{nl}{nl}
+QUEST_LV_0100_20150714_006938	Tools for stonemasons? {nl}That'll be 10,000 Silber.{nl}{nl}
 QUEST_LV_0100_20150714_006939	Welcome.
 QUEST_LV_0100_20150714_006940	It was made a long time ago, but it can cut through any type of stone.
 QUEST_LV_0100_20150714_006941	You'll need to find the keys capable of releasing the last seal.{nl}This scroll will open up spatial chasms. Be careful because it's unpredictable what can come out {nl}of the chasms.
@@ -7003,7 +7003,7 @@ QUEST_LV_0100_20150714_007002	The objects are useless to me now...{nl}Okay. Mayb
 QUEST_LV_0100_20150714_007003	I don't have regrets anymore... but, be careful about that man.
 QUEST_LV_0100_20150714_007004	Let's see, while I am cleaning this...{nl}Sorry, but can you take care of the tablet at Gruitis Hall with the brush and rubbing tools I brought?
 QUEST_LV_0100_20150714_007005	Will be wandering when the string of the destiny disconnects...{nl}It must mean Goddess Laima... But there's a rumor that she appeared... It's complicated.
-QUEST_LV_0100_20150714_007006	When someone is born with a silver spoon in his mouth, life will be good for him.
+QUEST_LV_0100_20150714_007006	When someone is born with a Silber spoon in his mouth, life will be good for him.
 QUEST_LV_0100_20150714_007007	{nl}What, what the hell...
 QUEST_LV_0100_20150714_007008	It's too soon to give up now.{nl}When I went to Vseio Cliffs, I saw one more tablet.{nl}
 QUEST_LV_0100_20150714_007009	However, it seems that normal ink won't catch well on it due to the mosses.{nl}Craute Grass juice should solve that problem. But I forgot to bring some as I came back.
@@ -8206,7 +8206,7 @@ QUEST_LV_0100_20151001_008205	Too bad that Gesti wasn't killed, but still you di
 QUEST_LV_0100_20151001_008206	Without Airine, I would have died.{nl}Of course, I really appreciate for your help.
 QUEST_LV_0100_20151001_008207	It's all my fault.{nl}Schmid is dead.. what can I do alone...
 QUEST_LV_0100_20151001_008208	Prayers and ceremonies are not the only ways of serving the goddess. {nl}Serving the world through physical training is also an important mission of the cleric. 
-QUEST_LV_0100_20151001_008209	There are two ways to connect with the goddess. {nl}An ardent belief for her, and the sound of silver dropping into her offering box. Just those two. 
+QUEST_LV_0100_20151001_008209	There are two ways to connect with the goddess. {nl}An ardent belief for her, and the sound of Silber dropping into her offering box. Just those two. 
 QUEST_LV_0100_20151001_008210	The magic to control time is the essence of all magics.{nl}These are Agailla Flurry's words.
 QUEST_LV_0100_20151001_008211	I heard a Revelator defeated the Demon Lord ransacking the Royal Mausoleum.{nl}As a person undergoing training, I am ashamed that I couldn't go out and fight.
 QUEST_LV_0100_20151001_008212	The bishop is praying in closure. {nl}When you are ready, please go to Aras in the Eastern Woods.
@@ -8404,7 +8404,7 @@ QUEST_LV_0100_20151001_008403	I'm at loss for any word.
 QUEST_LV_0100_20151001_008404	{nl}Albinas? He is one of Anastopas? That can't be. {nl}Bring that person here. I need to check for myself. 
 QUEST_LV_0100_20151001_008405	Are you saying that Albinas guy is missing? {nl}It's getting out of hand. {nl}I'm sure Anastos won't do such a thing. 
 QUEST_LV_0100_20151001_008406	{nl}Anyway, our priority then is to restore this sanctuary. {nl}You did this so you should be responsible for it. {nl}There are rocks over there. 
-QUEST_LV_0100_20151001_008407	{nl}This sanctuary was also made of the rocks here so collect some rocks. {nl}And the Nestos Camp is over there. {nl}You'll find someone named Eduinas . {nl}Ask him to polish the rocks to use as materials for restoring the sanctuary. 
+QUEST_LV_0100_20151001_008407	{nl}This sanctuary was also made of the rocks here so collect some rocks. {nl}And the Nestos Lager is over there. {nl}You'll find someone named Eduinas . {nl}Ask him to polish the rocks to use as materials for restoring the sanctuary. 
 QUEST_LV_0100_20151001_008408	If he finds out you did this to the sanctuary, he won't polish the rocks easily. {nl}But that's a price you have to pay and you should be responsbile for it. 
 QUEST_LV_0100_20151001_008409	Still not done yet? 
 QUEST_LV_0100_20151001_008410	Eduinas
@@ -8416,7 +8416,7 @@ QUEST_LV_0100_20151001_008415	Done. Now, don't ever do that again.
 QUEST_LV_0100_20151001_008416	You brought it. {nl}Now let's begin the restoration. 
 QUEST_LV_0100_20151001_008417	Done. It's a good thing it wasn't totally destroyed. {nl}I apologize for being angry at you a while ago. Seeing the sanctuary destroyed was upsetting. {nl}But it's not total nonsense. {nl}Anastos and Nestos may be in conflict of interests but we do not invade each other's territory. 
 QUEST_LV_0100_20151001_008418	{nl}But you mentioned someone from Anastos that I don't even know as the reason behind destroying the sanctuary so I couldn't hold my anger. {nl}Anyway, at least you restored it...
-QUEST_LV_0100_20151001_008419	{nl}But it strange. I have never heard of that name...{nl}Anastos Camp is in the northern side so why don't you go there and ask. {nl}It really is strange. 
+QUEST_LV_0100_20151001_008419	{nl}But it strange. I have never heard of that name...{nl}Anastos Lager is in the northern side so why don't you go there and ask. {nl}It really is strange. 
 QUEST_LV_0100_20151001_008420	Gedas
 QUEST_LV_0100_20151001_008421	Don't bother me if you don't have any business. {nl}Ah... I really need that...
 QUEST_LV_0100_20151001_008422	{nl}Hey, can you find it for me? {nl}My research materials. {nl}The monsters took them all from me...
@@ -9121,7 +9121,7 @@ QUEST_LV_0100_20151001_009120	Damijonas is angry and is telling that their sanct
 QUEST_LV_0100_20151001_009121	Restore the sanctum
 QUEST_LV_0100_20151001_009122	Albinas wasn't there. Please first go back to Damijonas.
 QUEST_LV_0100_20151001_009123	Obtain the materials for the repair
-QUEST_LV_0100_20151001_009124	Damijonas is saying there's no one who has told about us like that so he can't trust. He has suggested to restore the sanctum first. If you obtain some stones that can be used to restore the sanctum, bring them to Nestos Camp. They will turn them into the materials for the restoration.
+QUEST_LV_0100_20151001_009124	Damijonas is saying there's no one who has told about us like that so he can't trust. He has suggested to restore the sanctum first. If you obtain some stones that can be used to restore the sanctum, bring them to Nestos Lager. They will turn them into the materials for the restoration.
 QUEST_LV_0100_20151001_009125	Ask Eduinas
 QUEST_LV_0100_20151001_009126	You've obtained all the stones that could be used for materials. As Damijonas told you, ask Eduinas to polish them to be used for the restoration of the sanctum.
 QUEST_LV_0100_20151001_009127	Sprich mit Eduinas
@@ -9645,7 +9645,7 @@ QUEST_LV_0100_20151016_009644	I am at a loss for words.{nl}Albinas? A member of 
 QUEST_LV_0100_20151016_009645	Bring him to me! {nl}I must see for myself!
 QUEST_LV_0100_20151016_009646	You'll take responsibility and restore the tombstone?{nl}I really don't like you, but if you're willing to do that, I guess I've got no choice.
 QUEST_LV_0100_20151016_009647	I'm only agreeing to this for the goddess' sake.{nl}Luckily there are lots of stones around here.{nl}
-QUEST_LV_0100_20151016_009648	Obtain some suitable stone blocks and go find Eduinas at the Nestos Camp over there.{nl}
+QUEST_LV_0100_20151016_009648	Obtain some suitable stone blocks and go find Eduinas at the Nestos Lager over there.{nl}
 QUEST_LV_0100_20151016_009649	Eduinas will not be happy if he knows that you've done this to the tombstone.{nl}Get ready to take responsibility for that at the very least.
 QUEST_LV_0100_20151016_009650	Are you almost done yet? If you're going to take responsibility, you should get hustlin'.{nl}Don't just linger around here wasting time.
 QUEST_LV_0100_20151016_009651	Who are you?{nl}And what is this rock you've got here?
@@ -10138,7 +10138,7 @@ QUEST_LV_0100_20151016_010137	Damijonas is still furious about the fact that the
 QUEST_LV_0100_20151016_010138	The scolding from Damijonas was a long and harsh one. But it's finished now. Ask him what you can do.
 QUEST_LV_0100_20151016_010139	Restoring the Tombstone
 QUEST_LV_0100_20151016_010140	Tell Damijonas, you will restore the tombstone.
-QUEST_LV_0100_20151016_010141	Obtain some stones that can be used to restore the tombstone, bring them to Nestos Camp. They will turn them into the materials for the restoration
+QUEST_LV_0100_20151016_010141	Obtain some stones that can be used to restore the tombstone, bring them to Nestos Lager. They will turn them into the materials for the restoration
 QUEST_LV_0100_20151016_010142	Now, ask Gedas what would be the final step.
 QUEST_LV_0100_20151016_010143	Deliver the News to Eduinas
 QUEST_LV_0100_20151016_010144	You need to tell Eduinas what happened so far. Go to Eduinas.
@@ -11262,15 +11262,15 @@ QUEST_LV_0100_20151224_011261	Being a Psychokino is something wonderful. I guara
 QUEST_LV_0100_20151224_011262	Could you gather Desmodus' Tail Pins in the Tenet Chapel B1?{nl}They break easily so, it's very hard to secure one.
 QUEST_LV_0100_20151224_011263	Perfect. The tail pins are all fully intact.{nl}Study under me and you will see why this is amazing.
 QUEST_LV_0100_20151224_011264	The power to trust yourself. Everlasting self-confidence.{nl}That is the most important thing in projecting your will unto the reality.{nl}It is the essence of being a Psychokino and the force that runs the world.
-QUEST_LV_0100_20151224_011265	Sapper's skills, ay? Of course, the lesson fee is entailed.{nl}No, no, not to me. To the Cleric Master in Klaipeda. In the form of a donation.{nl}1,000 silver might be enough.
-QUEST_LV_0100_20151224_011266	Have you forgotten about a proper amount of donation?{nl}Well... usually it's 1,000 silver.
-QUEST_LV_0100_20151224_011267	Are you talking about the book written by Lydia Schaffen?{nl}I am wiling to give it to you for 1,000 silver.
-QUEST_LV_0100_20151224_011268	I am deeply sorry to ask you to do this but...{nl}1,000 silver would it the bill.{nl}
-QUEST_LV_0100_20151224_011269	1,000 silver... That's right.{nl}Here's the book as I promised.
-QUEST_LV_0100_20151224_011270	The Sekunde book of Lydia Schaffen, you seek?{nl}1,000 silver would be the price.
-QUEST_LV_0100_20151224_011271	I guess 1,000 silver would be enough.{nl}I heard it is the fair market price.
-QUEST_LV_0100_20151224_011272	The book in my possession? You want it?{nl}Well, okay. For 1,000 silver I am willing to part ways with it.
-QUEST_LV_0100_20151224_011273	Around 1,000 silver would be enough.{nl}You can pay it for me, right?
+QUEST_LV_0100_20151224_011265	Sapper's skills, ay? Of course, the lesson fee is entailed.{nl}No, no, not to me. To the Cleric Master in Klaipeda. In the form of a donation.{nl}1,000 Silber might be enough.
+QUEST_LV_0100_20151224_011266	Have you forgotten about a proper amount of donation?{nl}Well... usually it's 1,000 Silber.
+QUEST_LV_0100_20151224_011267	Are you talking about the book written by Lydia Schaffen?{nl}I am wiling to give it to you for 1,000 Silber.
+QUEST_LV_0100_20151224_011268	I am deeply sorry to ask you to do this but...{nl}1,000 Silber would it the bill.{nl}
+QUEST_LV_0100_20151224_011269	1,000 Silber... That's right.{nl}Here's the book as I promised.
+QUEST_LV_0100_20151224_011270	The Sekunde book of Lydia Schaffen, you seek?{nl}1,000 Silber would be the price.
+QUEST_LV_0100_20151224_011271	I guess 1,000 Silber would be enough.{nl}I heard it is the fair market price.
+QUEST_LV_0100_20151224_011272	The book in my possession? You want it?{nl}Well, okay. For 1,000 Silber I am willing to part ways with it.
+QUEST_LV_0100_20151224_011273	Around 1,000 Silber would be enough.{nl}You can pay it for me, right?
 QUEST_LV_0100_20151224_011274	The most important thing for a true Priest is to trust the goddesses and prove it to them.{nl}Please exorcise the evil spirit from a soldier in the name of the goddesses.
 QUEST_LV_0100_20151224_011275	Well done. I think I have gathered enough material.{nl}Now that the urgent research has been concluded. {nl}Let's resume our training, shall we?
 QUEST_LV_0100_20151224_011276	The reality bending at my will. Actualizing it through thoughts alone...{nl}The intensity depends on how much you believe in yourself.{nl}
@@ -11293,7 +11293,7 @@ QUEST_LV_0100_20151224_011292	If our mission goes as planned, then we will have 
 QUEST_LV_0100_20151224_011293	The stream mentioned in the revelation starts at above the Veja Ravine. {nl}Well then, may the blessings of goddesses be with you.
 QUEST_LV_0100_20151224_011294	Will this world be peaceful when we meet again? I hope it will.
 QUEST_LV_0100_20151224_011295	It's all my fault.{nl}Schmid is dead... what can I do alone...
-QUEST_LV_0100_20151224_011296	There are two ways to connect with the goddesses. {nl}An ardent belief for her, and the sound of silver dropping into her offering box. {nl}Just those two. 
+QUEST_LV_0100_20151224_011296	There are two ways to connect with the goddesses. {nl}An ardent belief for her, and the sound of Silber dropping into her offering box. {nl}Just those two. 
 QUEST_LV_0100_20151224_011297	I am relieved to hear that my friend was able to go back safely.{nl}I was worried because of the stories that Molich is wandering around.
 QUEST_LV_0100_20151224_011298	Did you hear about the Revelator who stopped the Demon Queen at the Tenet Church?{nl}
 QUEST_LV_0100_20151224_011299	It would have been better if she was killed for good, but she is the Demon Queen after all... {nl}Someone that even the Paladin Master wasn't able to defeat. {nl}That is awesome enough.
@@ -11316,7 +11316,7 @@ QUEST_LV_0100_20151224_011315	It's a good thing some Revelator stopped it.
 QUEST_LV_0100_20151224_011316	Hergasercle was an incarnation of obsession. {nl}The chain of obsession was broken thanks to the Revelator,{nl}but its soul is not something that can be saved. 
 QUEST_LV_0100_20151224_011317	So the Tzedej Altar has been attacked too?{nl}Regardless, we will still have a chance if we protect the other altars.
 QUEST_LV_0100_20151224_011318	This map is useless to me now, without my colleague.{nl}Please pray that my colleague goes to the goddess safely.
-QUEST_LV_0100_20151224_011319	Tools for stonemasons? {nl}That'll be 3,000 silver.
+QUEST_LV_0100_20151224_011319	Tools for stonemasons? {nl}That'll be 3,000 Silber.
 QUEST_LV_0100_20151224_011320	Our family has been waiting for your appearance for a long time.{nl}A very long time, indeed... {nl}Now, this is the moment of fulfilling our family's duty, destiny and desire.{nl}
 QUEST_LV_0100_20151224_011321	This old withered man has no regret left on this earthly plane {nl}and is eager to return to the arms of the goddess.{nl}Please, hurry and light the signal at the top with this igniter.
 QUEST_LV_0100_20151224_011322	Yep. That's Canyon Apynys, alright.{nl}I am worried about the side effects, but I hope they go away soon.
@@ -11579,16 +11579,16 @@ QUEST_LV_0100_20151224_011578	You've had them last night as well? Oh that's... n
 QUEST_LV_0100_20151224_011579	I'm a bit worried since there are so many people from other villages coming to Orsha.{nl}I don't know how many migration orders they have issued...{nl}
 QUEST_LV_0100_20151224_011580	If you're bored of just waiting around, try asking Mayor Romanas about whats going on.{nl}He said that he's going to meet the lord of Orsha soon.{nl}
 QUEST_LV_0100_20151224_011581	Greetings. I'm the Swordsman Klassenmeister.{nl}Do you know how attribute training works?{nl}
-QUEST_LV_0100_20151224_011582	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying silver to each respective master.
+QUEST_LV_0100_20151224_011582	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying Silber to each respective master.
 QUEST_LV_0100_20151224_011583	You'll be able to fare better in combat if you learn attributes.
 QUEST_LV_0100_20151224_011584	Welcome. I'm the Wizard Klassenmeister.{nl}I've been waiting to teach you about attribute training.{nl}
-QUEST_LV_0100_20151224_011585	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying silver to each respective master.
+QUEST_LV_0100_20151224_011585	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying Silber to each respective master.
 QUEST_LV_0100_20151224_011586	Do you understand how attributes work?{nl}You'll now be able to deal with enemies more easily.
 QUEST_LV_0100_20151224_011587	Hello. I am the Archer Klassenmeister.{nl}Do you happen to know anything about attribute training?{nl}
-QUEST_LV_0100_20151224_011588	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying silver to each respective master.
+QUEST_LV_0100_20151224_011588	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying Silber to each respective master.
 QUEST_LV_0100_20151224_011589	Did you get the hang of how attributes work?{nl}You can have combat go your way by using the right attributes.
 QUEST_LV_0100_20151224_011590	I see that a follower of the goddesses has come to see me.{nl}Greetings, I am the Cleric Klassenmeister.{nl}Do you know anything of attribute training?{nl}
-QUEST_LV_0100_20151224_011591	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying silver to each respective master.
+QUEST_LV_0100_20151224_011591	Attributes can assign additional abilities to stats and skills.{nl}You can learn attributes by paying Silber to each respective master.
 QUEST_LV_0100_20151224_011592	Do you understand how attributes work?{nl}You will be able to handle enemies with ease if you learn attributes.
 QUEST_LV_0100_20151224_011593	Oh yes, Accessory Merchant Ronesa said that she had a present that she really wants to give  you.{nl}Why don't you stop by?
 QUEST_LV_0100_20151224_011594	You can get there by going straight left of here.
@@ -12074,7 +12074,7 @@ QUEST_LV_0100_20151224_012073	I may simply be working for the lord of Orsha for 
 QUEST_LV_0100_20151224_012074	I don't know if I am willing to keep working as a Tracer after this.{nl}I mean, demons...
 QUEST_LV_0100_20151224_012075	I've heard that you found the person that we failed to find.{nl}I don't know if I have ever been more embarrassed as a Tracer before.
 QUEST_LV_0100_20151224_012076	There are so many monsters even near Orsha...{nl}Can you imagine what it is like further away?
-QUEST_LV_0100_20151224_012077	Ach ja, du hast erwähnt dass du Bürgermeister Romanas suchst oder nicht?{nl}Der Bürgermeister nahm vor einer Weile mit Layla Kurs auf das Temporäre Siedler-Camp.{nl}
+QUEST_LV_0100_20151224_012077	Ach ja, du hast erwähnt dass du Bürgermeister Romanas suchst oder nicht?{nl}Der Bürgermeister nahm vor einer Weile mit Layla Kurs auf das Temporäre Siedler-Lager.{nl}
 QUEST_LV_0100_20151224_012078	Ist es vielleicht möglich diese Gras-Blatt-Salbe Layla zu geben?{nl}Meine Beine zittern immer noch nach dieser Tortur...
 QUEST_LV_0100_20151224_012079	Tracking has never been this hard before.{nl}There are monsters near Orsha that I have never even seen before.
 QUEST_LV_0100_20151224_012080	Impressive. You saved the bishop...{nl}Well, I at least get some satisfaction in knowing that I was right.
@@ -12088,7 +12088,7 @@ QUEST_LV_0100_20151224_012087	I am so glad that Priest Pranas is safe.{nl}Reward
 QUEST_LV_0100_20151224_012088	You literally saved my live.{nl}I wouldn't have been able to go anywhere near Orsha if you hadn't saved Priest Pranas.
 QUEST_LV_0100_20151224_012089	Please don't tell anyone about the investigations that we are conducting here.{nl}There will be an uproar if the refugees coming to Orsha find out.
 QUEST_LV_0100_20151224_012090	This is... Did Brophen ask you to give this to me?{nl}Thank you very much.{nl}
-QUEST_LV_0100_20151224_012091	Mayor Romanas went ahead towards the Temporary Settler Camp.{nl}I was here waiting for Brophen.{nl}
+QUEST_LV_0100_20151224_012091	Mayor Romanas went ahead towards the Temporary Settler Lager.{nl}I was here waiting for Brophen.{nl}
 QUEST_LV_0100_20151224_012092	Oh, by the way, I've overheard Brophen going on about this.{nl}Have you heard about Skill Points?{nl}
 QUEST_LV_0100_20151224_012093	I've heard that you can use them to learn new skills or enhance skills you've already learned.{nl}I'm sure it will help you in combat if you carefully choose what to invest in.
 QUEST_LV_0100_20151224_012094	You've begun to become quite a celebrity.{nl}Rumors about you that were whispered outside the city can now be heard everywhere.
@@ -13457,7 +13457,7 @@ QUEST_LV_0100_20151224_013456	Guild Event
 QUEST_LV_0100_20151224_013457	Mercenary Post Collection Mission
 QUEST_LV_0100_20151224_013458	Accept the mission
 QUEST_LV_0100_20151224_013459	I won't accept the mission since I'm busy
-QUEST_LV_0100_20151224_013460	I'll pay 3,000 silver
+QUEST_LV_0100_20151224_013460	I'll pay 3,000 Silber
 QUEST_LV_0100_20151224_013461	Prison Scout
 QUEST_LV_0100_20151224_013462	I'm curious, I'll have a look
 QUEST_LV_0100_20151224_013463	The light beads disappeared over the slope!{nl}Turn around and go up Bonewide Cliff.
@@ -13788,13 +13788,13 @@ QUEST_LV_0100_20151224_013787	The materials for the test are ready. Go talk to t
 QUEST_LV_0100_20151224_013788	The Linker Klassenmeister says that if you're really talented you should have the eyes to find the World Behind at Tenet Church 1F. Go into this world, find a book there and bring it to the Linker Klassenmeister.
 QUEST_LV_0100_20151224_013789	Give the book to the Linker Klassenmeister
 QUEST_LV_0100_20151224_013790	You found the book in the World Behind and successfully passed the test. As proof of this, take the book to the Linker Klassenmeister.
-QUEST_LV_0100_20151224_013791	This amount is not enough to offer the Cleric Master. Please collect 1,000 silver in donations to deliver to the Cleric Master.
-QUEST_LV_0100_20151224_013792	You have collected 1,000 silver in donations for the Cleric Master. Deliver the donations to the Cleric Master in Klaipeda.
-QUEST_LV_0100_20151224_013793	The book requested by the Quarrel Shooter Master belongs to the Jäger Master. Collect 1,000 silver to purchase the book from her.
-QUEST_LV_0100_20151224_013794	You have enough silver to purchase the book. Obtain it from the Jäger Master for 1,000 silver and deliver it to the Quarrel Shooter Master.
-QUEST_LV_0100_20151224_013795	The book requested by the Archer Master belongs to the Jäger Master. Collect 1,000 silver to purchase the book from her.
-QUEST_LV_0100_20151224_013796	You have enough silver to purchase the book. Obtain it from the Jäger Master for 1,000 silver and deliver it to the Archer Master.
-QUEST_LV_0100_20151224_013797	The book requested by the Ranger Master belongs to the Jäger Master. Collect 1,000 silver to purchase the book from her.
+QUEST_LV_0100_20151224_013791	This amount is not enough to offer the Cleric Master. Please collect 1,000 Silber in donations to deliver to the Cleric Master.
+QUEST_LV_0100_20151224_013792	You have collected 1,000 Silber in donations for the Cleric Master. Deliver the donations to the Cleric Master in Klaipeda.
+QUEST_LV_0100_20151224_013793	The book requested by the Quarrel Shooter Master belongs to the Jäger Master. Collect 1,000 Silber to purchase the book from her.
+QUEST_LV_0100_20151224_013794	You have enough Silber to purchase the book. Obtain it from the Jäger Master for 1,000 Silber and deliver it to the Quarrel Shooter Master.
+QUEST_LV_0100_20151224_013795	The book requested by the Archer Master belongs to the Jäger Master. Collect 1,000 Silber to purchase the book from her.
+QUEST_LV_0100_20151224_013796	You have enough Silber to purchase the book. Obtain it from the Jäger Master for 1,000 Silber and deliver it to the Archer Master.
+QUEST_LV_0100_20151224_013797	The book requested by the Ranger Master belongs to the Jäger Master. Collect 1,000 Silber to purchase the book from her.
 QUEST_LV_0100_20151224_013798	Go see the Hoplite Klassenmeister at the West Siauliai Woods.
 QUEST_LV_0100_20151224_013799	To the Hoplite Klassenmeister, his most cherished spear is a source of pride. Enhance a piece of spear-type equipment up to level 6. Do this on any spear-type weapon.
 QUEST_LV_0100_20151224_013800	Report the results to the Hoplite Klassenmeister
@@ -14251,8 +14251,8 @@ QUEST_LV_0100_20151224_014250	Brophen sagt du kannst deine Statuspunkte leveln u
 QUEST_LV_0100_20151224_014251	Du fühlst dich nach der verwendung des Statuspunktes. Sprich wieder mit dem Siedler Brophen.
 QUEST_LV_0100_20151224_014252	Von Siedler Brophen hast du gelernt wie man Statuspunkte verwendet. Sprich wieder mit Siedler Brophen und finde heraus was als nächstes zu tun ist.
 QUEST_LV_0100_20151224_014253	Deliver Grass Leaf Ointment to Settler Layla
-QUEST_LV_0100_20151224_014254	Settler Brophen says Settler Layla might know where the mayor is. He also asked you to deliver some grass leaf ointment to her. On your way to the Temporary Settler Camp, go see Layla and give her the grass leaf ointment.
-QUEST_LV_0100_20151224_014255	Settler Layla says Mayor Romanas is headed to the Temporary Settler Camp. Go and talk to Mayor Romanas.
+QUEST_LV_0100_20151224_014254	Settler Brophen says Settler Layla might know where the mayor is. He also asked you to deliver some grass leaf ointment to her. On your way to the Temporary Settler Lager, go see Layla and give her the grass leaf ointment.
+QUEST_LV_0100_20151224_014255	Settler Layla says Mayor Romanas is headed to the Temporary Settler Lager. Go and talk to Mayor Romanas.
 QUEST_LV_0100_20151224_014256	Mayor Romanas believes in your talent and will make sure you're admitted into Orsha immediately. Officer Lutas is looking for you; go find him at the Orsha Migration Office.
 QUEST_LV_0100_20151224_014257	Officer Lutas is processing the settlers' entrance into Orsha but the task feels endless. Sprich mit Officer Lutas again.
 QUEST_LV_0100_20151224_014258	A Poata suddenly appeared at the entrance to Orsha and it's threatening the settlers! Besiege the Poata and make the entrance to Orsha safe again.{nl}{nl}A Poata suddenly appeared at the entrance to Orsha and it's threatening the settlers! Besiege the Poata and make the entrance to Orsha safe again.

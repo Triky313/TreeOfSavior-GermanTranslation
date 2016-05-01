@@ -2650,7 +2650,7 @@ ITEM_20150317_002649	Gray Yukopus Leaf
 ITEM_20150317_002650	Fallenlem Fragment 
 ITEM_20150317_002651	Obtained from Fallenlems. 
 ITEM_20150317_002652	Silber Bar 
-ITEM_20150317_002653	A bullion made of silver. Clearly worth a lot. 
+ITEM_20150317_002653	A bullion made of Silber. Clearly worth a lot. 
 ITEM_20150317_002654	Black Market Seal 
 ITEM_20150317_002655	White Mucus 
 ITEM_20150317_002656	Florr 
@@ -5371,7 +5371,7 @@ ITEM_20150714_005370	Special Ink
 ITEM_20150714_005371	Ink obtained from the Alchemist Master. 
 ITEM_20150714_005372	A rubbing of a tombstone. The thread of fate will break and thou shalt wander. 
 ITEM_20150714_005373	A rubbing of a tombstone. The walls of the king shall outlive him. 
-ITEM_20150714_005374	A rubbing of a tombstone. Life is easy when one is born with a silver spoon in their mouth. 
+ITEM_20150714_005374	A rubbing of a tombstone. Life is easy when one is born with a Silber spoon in their mouth. 
 ITEM_20150714_005375	A rubbing of a tombstone. After even death fades there will yet be a world. 
 ITEM_20150714_005376	Important Tombstone Rubbing 
 ITEM_20150714_005377	A rubbing of a tombstone given to you by the aspiring Oracle Adrijus at Nuoridin Falls. It says, "After even death fades there will yet be a world". It was written by another Oracle-in-training a long time ago, so the importance isn't clear yet. 
@@ -5576,7 +5576,7 @@ ITEM_20150717_005575	This arrow would kill your enemies.
 ITEM_20150717_005576	It is required for the owner to have powerful strength. But you feel like this when you see the carrying out arrow.
 ITEM_20150717_005577	Fixed Bogen
 ITEM_20150717_005578	If you are specialized in crossbows instead of bows, then this is a good equipment to help you become more advanced.
-ITEM_20150717_005579	In the old days, the majority of the body from this equipment was made by silver. The silver products were famous in Fedimian.
+ITEM_20150717_005579	In the old days, the majority of the body from this equipment was made by Silber. The Silber products were famous in Fedimian.
 ITEM_20150717_005580	There is a theory that the person who improved this weapon like this is Evoniphon. But, that's just a groundless rumor.
 ITEM_20150717_005581	A weapon designed to deal great damage with small projectile and projectiles.
 ITEM_20150717_005582	It is easier to handle than it seems.
@@ -5591,7 +5591,7 @@ ITEM_20150717_005590	Unlike the different weapons of same names, this name is re
 ITEM_20150717_005591	Beasts who are not from this world absolutely love the pain and suffering from this.
 ITEM_20150717_005592	There are traces of it being used for other purposes. But even ordinary equipment can show the divinity of the goddesses.
 ITEM_20150717_005593	Many priests, wizards and warriors use this personally as an advantage in battle. Although, this weapon is not officially supported by the Royal Army.
-ITEM_20150717_005594	It has a form to display the unique character of this town, but the material is not silver.
+ITEM_20150717_005594	It has a form to display the unique character of this town, but the material is not Silber.
 ITEM_20150717_005595	Don't worry about the damage of this rune, just give it your all with your strikes and hits.
 ITEM_20150717_005596	Someone told this weapon have more thorns. But, the thorns of this weapon is proper now like the building has a one lighting rod.
 ITEM_20150717_005597	Test this on all solid targets. This includes: monsters, shields, locked doors and all other kinds of locks.
@@ -5748,7 +5748,7 @@ ITEM_20150717_005747	It was originally made for Miners working in the dark under
 ITEM_20150717_005748	This necklace protected its owner until his last moments. We hope the new owner of this necklace always receives the protection from it.
 ITEM_20150717_005749	Since Medzio Diena, new monsters brought new skills that were used to craft items such as this. It is a premier product.
 ITEM_20150717_005750	It contains a royal grace from Goddess Zemyna who did not enjoy fighting. It provides users with an amazing defense effect, but it isn't good during attacks.
-ITEM_20150717_005751	Klaipeda has been known for its handicrafts. Fedimian handicrafts has evolved from using silver to other materials, but Klaipeda handicrafts has always been related to the use of crystals.
+ITEM_20150717_005751	Klaipeda has been known for its handicrafts. Fedimian handicrafts has evolved from using Silber to other materials, but Klaipeda handicrafts has always been related to the use of crystals.
 ITEM_20150717_005752	You might think it's an ordinary item made of light wood, but wood isn't ordinary in this world.
 ITEM_20150717_005753	That the Vubbes are using this equipment proves that a very strong existence is behind them. Some people think that it could be Mirtis. 
 ITEM_20150717_005754	The people who've equipped it before said their SPR goes up. As a result, it is true that their resistance to magic increases.
@@ -5795,9 +5795,9 @@ ITEM_20150717_005794	Rambear Claws appear in the Petrified City of Verkti Square
 ITEM_20150717_005795	Cough Medicine
 ITEM_20150717_005796	A seal has a power to suppress the evil spirits made by Valius.
 ITEM_20150717_005797	Velheider Voucher
-ITEM_20150717_005798	Can be used to exchange for a Velheider through the Begleiter Shop.
+ITEM_20150717_005798	Can be used to exchange for a Velheider through the Begleiter Laden.
 ITEM_20150717_005799	Hawk Voucher
-ITEM_20150717_005800	Can be used to exchange for a Hawk through the Begleiter Shop.
+ITEM_20150717_005800	Can be used to exchange for a Hawk through the Begleiter Laden.
 ITEM_20150717_005801	Petrified Detector Activation Core
 ITEM_20150717_005802	Activation Core of petrified detector requested by Cryomancer Kostas. It is broken.
 ITEM_20150717_005803	Old Oilsack
@@ -5858,7 +5858,7 @@ ITEM_20150729_005857	Since Medzio Diena, many equipment crafted from new materia
 ITEM_20150729_005858	Standard armor given to Kingdom Guards prior to Medzio Diena.
 ITEM_20150729_005859	Since its inauguration prior to Medzio Diena, the Cryomancer Master has stopped the tradition of awarding this pendant to people. Now this pendant must be either obtained or crafted by users themselves.
 ITEM_20150729_005860	Many new magical items that uses the power of monsters have been invented since Medzio Diena.
-ITEM_20150729_005861	- [Lightning Shock Effect] 15% chance to deal 405 magic damage on enemies when taking damage from Lightning property attacks
+ITEM_20150729_005861	- [Lightning Shock Effekt] 15% chance to deal 405 magic damage on enemies when taking damage from Lightning property attacks
 ITEM_20150729_005862	This item has been crafted with various poisons since its origin and, with Medzio Diena, materials have become even easier to find.
 ITEM_20150729_005863	Originally from demons who passed the recipe down to the Vubbes, this recipe was released by human warriors who stole it from the Vubbes.
 ITEM_20150729_005864	- [Plant Sammlung] effect{nl}, when defeat Plant types - Herb items can be dropped when [Plant Sammlung] is stacked 15 times
@@ -5981,7 +5981,7 @@ ITEM_20150803_005980	Monster Essence
 ITEM_20150803_005981	Certification Ticket
 ITEM_20150803_005982	Something helpful to safely pass the magic device
 ITEM_20150803_005983	Musty-smelling Book
-ITEM_20150803_005984	A book used by a soldier from Ruklys Camp in the past. This and that is written in it.
+ITEM_20150803_005984	A book used by a soldier from Ruklys Lager in the past. This and that is written in it.
 ITEM_20150803_005985	Schadend Book
 ITEM_20150803_005986	Ring
 ITEM_20150803_005987	A ring obtained from a soldier's relics
@@ -6769,8 +6769,8 @@ ITEM_20150918_006768	A powder contained the spirit of holy purification gave by 
 ITEM_20150918_006769	Remains tied to the contract with the demons. Not free even in death.
 ITEM_20150918_006770	The skeleton that is tied to the contract of the demons. It can't be free even after the death.
 ITEM_20150918_006771	A seal that has the power to supress all the magical power that Valius created in his lifetime. 
-ITEM_20150918_006772	Can be exchanged for a Velheider at the Begleiter Shop
-ITEM_20150918_006773	Can be exchanged for a hawk at the Begleiter Shop.
+ITEM_20150918_006772	Can be exchanged for a Velheider at the Begleiter Laden
+ITEM_20150918_006773	Can be exchanged for a hawk at the Begleiter Laden.
 ITEM_20150918_006774	The seal of Legwyn Family. It broke long time ago so only parts of it are remaining.
 ITEM_20150918_006775	An unknown kingdom's military flag. The flag is too damaged to make out which army's it is.
 ITEM_20150918_006776	A relic of one who died with such strong regret that you can still feel it. It is unknown what kind of person the owner was, or when and how that person died.
@@ -8912,7 +8912,7 @@ ITEM_20151224_008911	Sammlung: Overlong Bridge Valley
 ITEM_20151224_008912	Sammlung: Akmens Ridge
 ITEM_20151224_008913	Sammlung: Tiltas Valley
 ITEM_20151224_008914	Sammlung: Gytis Settlement Area
-ITEM_20151224_008915	Sammlung: Royal Mausoleum Workers Lodge
+ITEM_20151224_008915	Sammlung: Royal Mausoleum Workers Hütte
 ITEM_20151224_008916	Sammlung: Royal Mausoleum Constructors' Chapel
 ITEM_20151224_008917	Sammlung: Royal Mausoleum Storage
 ITEM_20151224_008918	Sammlung: Rukas Plateau
@@ -10120,7 +10120,7 @@ ITEM_20160224_010119	Increases defense of the Dark property against characters b
 ITEM_20160224_010120	Rosemary
 ITEM_20160224_010121	Lavender
 ITEM_20160224_010122	Basis Silber Chest
-ITEM_20160224_010123	Contains silver. This item will be removed after the server maintenance of March 4th.
+ITEM_20160224_010123	Contains Silber. This item will be removed after the server maintenance of March 4th.
 ITEM_20160224_010124	Intermediate Silber Chest
 ITEM_20160224_010125	Advanced Silber Chest
 ITEM_20160224_010126	Settlement Support Trank
@@ -10328,7 +10328,7 @@ ITEM_20160310_010327	An old backpack that reacts to the magic detector. It conta
 ITEM_20160310_010328	Arnim Coral Piece
 ITEM_20160310_010329	A peculiar-looking piece of coral. It is said to have come from a never-before-seen species. Investigate nearby corals.
 ITEM_20160320_010330	Hoglan Begleiter Voucher 
-ITEM_20160320_010331	Use this voucher in exchange for a Hoglan companion at the Begleiter Shop.
+ITEM_20160320_010331	Use this voucher in exchange for a Hoglan companion at the Begleiter Laden.
 ITEM_20160323_010332	Ribbon Arm Band
 ITEM_20160323_010333	Critti Cannon
 ITEM_20160323_010334	Vista Cannon
@@ -10358,23 +10358,23 @@ ITEM_20160323_010357	Silber-Amboss
 ITEM_20160323_010358	Lege ein Ausrüstungsteil auf den Amboss und schlag drauf um die Qualität zu verbessern. Der Gegenstand kann ohne weitere Silberkosten verbessert werden.{nl}Rechtsklick zum verwenden.
 ITEM_20160323_010359	It may be small, but big enough to feel the pain. Obtained from Tontus.
 ITEM_20160323_010360	Demono Amulet
-ITEM_20160323_010361	[Effect] 0.8% chance to inflict 8640 additional damage against Devil-Type Ziele
+ITEM_20160323_010361	[Effekt] 0.8% chance to inflict 8640 additional damage against Devil-Type Ziele
 ITEM_20160323_010362	Augalo Amulet
-ITEM_20160323_010363	[Effect] 0.8% chance to inflict 8640 additional damage against Pflanzen-Type Ziele
+ITEM_20160323_010363	[Effekt] 0.8% chance to inflict 8640 additional damage against Pflanzen-Type Ziele
 ITEM_20160323_010364	Perejimo Amulet
-ITEM_20160323_010365	[Effect] 0.8% chance to inflict 8640 additional damage against Mutant-Type Ziele
+ITEM_20160323_010365	[Effekt] 0.8% chance to inflict 8640 additional damage against Mutant-Type Ziele
 ITEM_20160323_010366	Zveries Amulet
-ITEM_20160323_010367	[Effect] 0.8% chance to inflict 8640 additional damage against Beast-Type Ziele
+ITEM_20160323_010367	[Effekt] 0.8% chance to inflict 8640 additional damage against Beast-Type Ziele
 ITEM_20160323_010368	Vabalo Amulet
-ITEM_20160323_010369	[Effect] 0.8% chance to inflict 8640 additional damage against Insekt-Type Ziele
+ITEM_20160323_010369	[Effekt] 0.8% chance to inflict 8640 additional damage against Insekt-Type Ziele
 ITEM_20160323_010370	Magijos Amulet
-ITEM_20160323_010371	[Effect] 5% chance to increase magic amplification by 152 for 30 Sekunden upon a critical
+ITEM_20160323_010371	[Effekt] 5% chance to increase magic amplification by 152 for 30 Sekunden upon a critical
 ITEM_20160323_010372	Vinies Amulet
-ITEM_20160323_010373	[Effect] 15% chance to inflict [Bleeding] for 3 Sekunden when using [Hieb]-type attacks
+ITEM_20160323_010373	[Effekt] 15% chance to inflict [Bleeding] for 3 Sekunden when using [Hieb]-type attacks
 ITEM_20160323_010374	Palemidas Amulet
-ITEM_20160323_010375	[Effect] 5% chance to decrease defense by 50% for 3 Sekunden when using [Stab]-type attacks
+ITEM_20160323_010375	[Effekt] 5% chance to decrease defense by 50% for 3 Sekunden when using [Stab]-type attacks
 ITEM_20160323_010376	Pertraukos Amulet
-ITEM_20160323_010377	[Effect] 5% chance to inflict [Stun] for 0.5 Sekunden when using [Schlag]-type attacks
+ITEM_20160323_010377	[Effekt] 5% chance to inflict [Stun] for 0.5 Sekunden when using [Schlag]-type attacks
 ITEM_20160323_010378	Blue Orb: Brown Socket Archer
 ITEM_20160323_010379	Red Orb: Brown Socket Archer
 ITEM_20160323_010380	Strange Map

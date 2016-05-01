@@ -1435,7 +1435,7 @@ SKILL_20150317_001434	Deprotected Zone
 SKILL_20150317_001435	Create magic circle that continuously decrease the defense of target.
 SKILL_20150317_001436	Defense: -#{CaptionRatio}#{nl}Per Stack: -#{CaptionRatio2}#{nl}Magie Circle Dauer: #{CaptionTime}# Sekunden
 SKILL_20150317_001437	Divine Might
-SKILL_20150317_001438	Create magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
+SKILL_20150317_001438	Create magic circle that increases skill level of target. Effekt is gone when used and cannot be overlapped.
 SKILL_20150317_001439	Skill Level: +#{SkillFactor}#{nl}Dauer: 10 Sekunden {nl}Magie Circle Dauer: 20 Sekunden
 SKILL_20150317_001440	Summon torch and increase HP recovery in the vicinity.
 SKILL_20150317_001441	HP recovery ability increases {nl}Torch duration #{CaptionTime}# Sekunden
@@ -1449,7 +1449,7 @@ SKILL_20150317_001448	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl} Create a magic cir
 SKILL_20150317_001449	Angriff #{SkillAtkAdd}#{nl}Angriff #{CaptionRatio}# times {nl}Magie circle Duration 30 Sekunden
 SKILL_20150317_001450	Divine Stigma
 SKILL_20150317_001451	Mark monster. The player that kills the monster will get increased STR and INT.
-SKILL_20150317_001452	STR, INT: +#{CaptionRatio}#{nl}Effect Dauer: 30 Sekunden{nl}Stigma Dauer: #{CaptionRatio2}# Sekunden
+SKILL_20150317_001452	STR, INT: +#{CaptionRatio}#{nl}Effekt Dauer: 30 Sekunden{nl}Stigma Dauer: #{CaptionRatio2}# Sekunden
 SKILL_20150317_001453	Melstis
 SKILL_20150317_001454	Create magic circle that retains buffs for party members.
 SKILL_20150317_001455	Max. duration 20 Sekunden {nl} #{CaptionRatio}#% of SP consumed per Sekunde
@@ -1478,7 +1478,7 @@ SKILL_20150317_001477	{#993399}{ol}[Magie] - [Dark]{/}{/}{nl}Schaden enemies aff
 SKILL_20150317_001478	Angriff #{SkillAtkAdd}#{nl}Angriff bonus on 3rd attack #{CaptionRatio}#times ~ #{CaptionRatio2}#times
 SKILL_20150317_001479	Tet Mamak La
 SKILL_20150317_001480	Lure zombies to target area.
-SKILL_20150317_001481	Requires a summoned zombie{nl}Maximum Level: 1
+SKILL_20150317_001481	Benötigt a summoned zombie{nl}Maximum Level: 1
 SKILL_20150317_001482	Zombify
 SKILL_20150317_001483	Create a magic circle on the ground. Enemies killed in the circle rise as zombies.
 SKILL_20150317_001484	Magie Circle Dauer: #{CaptionTime}# {nl}Maximum Zombie Summons: #{CaptionRatio}#
@@ -1559,7 +1559,7 @@ SKILL_20150317_001558	{#6644FF}{ol}[Divine]{/}{/}Attribute{nl}#{SkillFactor}#% +
 SKILL_20150317_001559	Dispeller Crafting
 SKILL_20150317_001560	Simony
 SKILL_20150317_001561	Craft Booster
-SKILL_20150317_001562	Spell Shop
+SKILL_20150317_001562	Spell Laden
 SKILL_20150317_001563	Indulgentia
 SKILL_20150317_001564	Oblation
 SKILL_20150317_001565	Telepath
@@ -1655,7 +1655,7 @@ SKILL_20150317_001654	Calm down and stop moving.
 SKILL_20150317_001655	Gift
 SKILL_20150317_001656	Erhöht attack, while defense is decreased.
 SKILL_20150317_001657	Transparent
-SKILL_20150317_001658	Transparent Status Effect.
+SKILL_20150317_001658	Transparent Status Effekt.
 SKILL_20150317_001659	Recover HP every 3 Sekunden.
 SKILL_20150317_001660	monster Hold
 SKILL_20150317_001661	Monster hold script link
@@ -1678,7 +1678,7 @@ SKILL_20150317_001677	Player RAISEUP
 SKILL_20150317_001678	When attacked nach an enemy, attack is increased while defense is decreased.
 SKILL_20150317_001679	Frozen
 SKILL_20150317_001680	Actor Frozen
-SKILL_20150317_001681	Destroy Camp
+SKILL_20150317_001681	Destroy Lager
 SKILL_20150317_001682	Decreased Defense.
 SKILL_20150317_001683	Suction
 SKILL_20150317_001684	Reflection
@@ -1703,7 +1703,7 @@ SKILL_20150317_001702	Reflect Shield
 SKILL_20150317_001703	Reflect all attacks for a certain mal.
 SKILL_20150317_001704	Fever Time! Erhöht attack nach 5 per combo
 SKILL_20150317_001705	Causes Fear and Confusion
-SKILL_20150317_001706	Flu Flu Effect
+SKILL_20150317_001706	Flu Flu Effekt
 SKILL_20150317_001707	Fear Outbreak
 SKILL_20150317_001708	Oil Stains
 SKILL_20150317_001709	You'll be in big trouble if attacked with Feuer-Eigenschaft attacks.
@@ -3043,9 +3043,9 @@ SKILL_20150323_003042	Pommel Beat
 SKILL_20150323_003043	Double Slash
 SKILL_20150323_003044	Skull Swing
 SKILL_20150323_003045	Open item durability repair shop
-SKILL_20150323_003046	Base Camp
+SKILL_20150323_003046	Basislager
 SKILL_20150323_003047	Set up a base camp for your party members. A personal shop can be used along with increasements for your buff durations.
-SKILL_20150323_003048	Refreshment Table
+SKILL_20150323_003048	 Erfrischungstisch
 SKILL_20150323_003049	Snow Rolling
 SKILL_20150323_003050	Swell Brain
 SKILL_20150323_003051	Rain
@@ -3156,7 +3156,7 @@ SKILL_20150401_003155	Open shop to repair equipments. Gegenstand can be repaired
 SKILL_20150401_003156	Repairs over #{CaptionRatio}# durability
 SKILL_20150401_003157	You're holding the enemy tied on rope. You can also hold the boss monsters.
 SKILL_20150401_003158	Max. duration 10 Sekunden
-SKILL_20150401_003159	Base Camp
+SKILL_20150401_003159	Basislager
 SKILL_20150401_003160	Set up a base camp in a field. Gruppe members can use the base camp for personal storage and can freely warp to it.
 SKILL_20150401_003161	Duration #{CaptionRatio}# hours
 SKILL_20150401_003162	Set up a refreshment table where you can share food with party members. It can be set up nearnach a base camp and it will disbanded when the base camp is disbanded.
@@ -3203,7 +3203,7 @@ SKILL_20150401_003202	Let it rain in a targeted area. The rain provides various 
 SKILL_20150401_003203	Summon demon of Grimore
 SKILL_20150401_003204	Summon demon type boss {nl}registered to Grimore
 SKILL_20150401_003205	Order devils to move and attack.
-SKILL_20150401_003206	Requires Summoned Devil{nl}Maximum Level: 1
+SKILL_20150401_003206	Benötigt Summoned Devil{nl}Maximum Level: 1
 SKILL_20150401_003207	Rutee on top of Grimore Demon.
 SKILL_20150401_003208	Enables you to use a Devil's skill
 SKILL_20150401_003209	Mutate Grimore Demon to the demon registered as sub.
@@ -3324,7 +3324,7 @@ SKILL_20150401_003323	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Shortly stretc
 SKILL_20150401_003324	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Gather force and shoot forward. Target hit is pushed back and receives damage.
 SKILL_20150401_003325	Schlag damage 30%~50%{nl}Consume #{CaptionRatio}# SP per 0.5 Sekunden
 SKILL_20150401_003326	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Throw coin to attack enemy. Max SP of target decrease temporarily.
-SKILL_20150401_003327	Angriff #{SkillAtkAdd}#{nl}Duration #{CaptionRatio}# Sekunden{nl}Use #{CaptionRatio2}# silver
+SKILL_20150401_003327	Angriff #{SkillAtkAdd}#{nl}Duration #{CaptionRatio}# Sekunden{nl}Use #{CaptionRatio2}# Silber
 SKILL_20150401_003328	Temporarily defense against damage.
 SKILL_20150401_003329	Long range projectile, can defend magic
 SKILL_20150401_003330	Make a despeller that can block harmful magic and effects.
@@ -3886,7 +3886,7 @@ SKILL_20150414_003885	Creates a dispeller that blocks harmful magic or effects.
 SKILL_20150414_003886	Craft your skill into a scroll that anyone can use.
 SKILL_20150414_003887	Open a shop to sell your skills with beneficial effects.
 SKILL_20150414_003888	Use a ritual to cure allies with a Lv2 status ailment or to inflict damage on enemies.
-SKILL_20150414_003889	Angriff #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Use 500 silver
+SKILL_20150414_003889	Angriff #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Use 500 Silber
 SKILL_20150414_003890	Open an Angebotebox to receive donations from allies. Can only be opened nearnach a Goddess Statue.
 SKILL_20150414_003891	Extend the duration of harmful effects applied to an enemy.
 SKILL_20150414_003892	Penetrate into the mind of an enemy in front of you to control it.
@@ -3964,13 +3964,13 @@ SKILL_20150414_003963	Magie Pfeil: Verbessern
 SKILL_20150414_003964	Schaden of [Magie Pfeil] increase pro{nl}Fähigkeits-Level.
 SKILL_20150414_003965	Magie Pfeil: Verbessern 2
 SKILL_20150414_003966	Enhanced the damage of [Magie Pfeil] to Fletcher's 3. Rang standards.
-SKILL_20150414_003967	Refreshment Table: Salad
+SKILL_20150414_003967	 Erfrischungstisch: Salad
 SKILL_20150414_003968	Duration of [Install Distribution Table] Salad increase nach a minute per level.
-SKILL_20150414_003969	Refreshment Table: Sandwich
+SKILL_20150414_003969	 Erfrischungstisch: Sandwich
 SKILL_20150414_003970	Duration of [Install Distribution Table] Sandwich increase nach a minute per level.
-SKILL_20150414_003971	Refreshment Table: Soup
+SKILL_20150414_003971	 Erfrischungstisch: Soup
 SKILL_20150414_003972	Duration of [Install Distribution Table] Soupincrease nach a minute per level.
-SKILL_20150414_003973	Refreshment Table: Yogurt
+SKILL_20150414_003973	 Erfrischungstisch: Yogurt
 SKILL_20150414_003974	Duration of [Install Distribution Table] Yogurt increase nach a minute per level.
 SKILL_20150414_003975	High Guard: Erhöht Defense
 SKILL_20150414_003976	Defense of [High Guard] increases nach 1 pro{nl}Fähigkeits-Level.
@@ -4045,7 +4045,7 @@ SKILL_20150428_004044	{#339999}{ol}[Bind]{/}{/} Dauer: #{CaptionTime}# Sekunden
 SKILL_20150428_004045	Temporarily enlarge the your and party members' hands that are carrying sword and shield.
 SKILL_20150428_004046	Physisch/Magie Defense +#{CaptionRatio}# for Shield{nl}Physisch/Magie Defense + #{CaptionRatio2}# for Schwert{nl}No effect with other subweapons{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150428_004047	Summon Demon type boss{nl}Demon power +#{CaptionRatio}#% {nl}Additional Demon damage #{CaptionRatio2}#
-SKILL_20150428_004048	Effect applies #{CaptionRatio}# times
+SKILL_20150428_004048	Effekt applies #{CaptionRatio}# times
 SKILL_20150428_004049	Back masking range100{nl}Cannot back mask for 10Sekunden in target area{nl}Use 1 Piece of Dimension
 SKILL_20150428_004050	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Launches an arrow that splits into multiple pieces and ricochets to nearnach enemies.
 SKILL_20150428_004051	Blocks ranged projectiles: #{CaptionRatio}#{nl}Pavise Dauer: #{CaptionTime}# Sekunden
@@ -4212,7 +4212,7 @@ SKILL_20150714_004211	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRat
 SKILL_20150714_004212	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Defense: +#{CaptionRatio}#{nl}Ziele: 10{nl}Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Heilig Water
 SKILL_20150714_004213	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150714_004214	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Bonus on 3rd attack: x#{CaptionRatio}# ~ x#{CaptionRatio2}#
-SKILL_20150714_004215	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Requires Summoned Zombie
+SKILL_20150714_004215	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Benötigt Summoned Zombie
 SKILL_20150714_004216	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Summoned zombie required{nl}Max. explosion #{SkillSR}#
 SKILL_20150714_004217	Attribut-Schaden: #{CaptionRatio2}#%{nl}Additional Schaden: +#{CaptionRatio}#
 SKILL_20150714_004218	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Number of Blocks: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 3 Oak Wood
@@ -4220,14 +4220,14 @@ SKILL_20150714_004219	Attribut-Schaden: #{CaptionTime}#%{nl}Out of Body Range: #
 SKILL_20150714_004220	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Maximum Dauer: 5 Sekunden
 SKILL_20150714_004221	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Verbraucht 2 Stamina
 SKILL_20150714_004222	Attacks per Hit: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Verbraucht #{CaptionRatio}# SP per 0.5 Sekunde
-SKILL_20150714_004223	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Dauer: #{CaptionRatio}# Sekunden{nl}Verbraucht #{CaptionRatio2}# silver
-SKILL_20150714_004224	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Attacks #{CaptionRatio}# enemies{nl}Cures the entire party{nl}Cures #{CaptionRatio}# allies{nl}Verbraucht 500 silver
+SKILL_20150714_004223	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Dauer: #{CaptionRatio}# Sekunden{nl}Verbraucht #{CaptionRatio2}# Silber
+SKILL_20150714_004224	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Attacks #{CaptionRatio}# enemies{nl}Cures the entire party{nl}Cures #{CaptionRatio}# allies{nl}Verbraucht 500 Silber
 SKILL_20150714_004225	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Dauer: #{CaptionRatio}# Sekunden
 SKILL_20150714_004226	Additional damage according to the number attacks
-SKILL_20150714_004227	Schaden Effect
+SKILL_20150714_004227	Schaden Effekt
 SKILL_20150714_004228	Receive damage after an effect
 SKILL_20150714_004229	Spread the new buff received to allies
-SKILL_20150714_004230	Right Hand is enlarged. Effect applies according to the sub weapon types
+SKILL_20150714_004230	Right Hand is enlarged. Effekt applies according to the sub weapon types
 SKILL_20150714_004231	Inflicts the target with [Betäubung], but decreases your maximum HP.
 SKILL_20150714_004232	Gohang
 SKILL_20150714_004233	Number of buff you can receive will increase.
@@ -4367,10 +4367,10 @@ SKILL_20150714_004366	Steed Charge: Critical
 SKILL_20150714_004367	Applies critical on [Steed Charge] on enemies afflicted with [Slow]. 
 SKILL_20150714_004368	Increases the count of [Weapon Maintenance] nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20150714_004369	Increases the count of [Rüstung Maintenance] nach 1 pro{nl}Fähigkeits-Level.
-SKILL_20150714_004370	Increases the duration of salad from [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
-SKILL_20150714_004371	Increases the duration of sandwich from [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
-SKILL_20150714_004372	Increases the duration of soup from [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
-SKILL_20150714_004373	Increases the duration of yogurt from [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20150714_004370	Increases the duration of salad from [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20150714_004371	Increases the duration of sandwich from [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20150714_004372	Increases the duration of soup from [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20150714_004373	Increases the duration of yogurt from [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
 SKILL_20150714_004374	Arrest: Defense Weakened
 SKILL_20150714_004375	Decreases the physical defense of an enemy affected nach [Arrest] um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004376	Repair: Service
@@ -4690,8 +4690,8 @@ SKILL_20150714_004689	Erhöht die Schadensausteilung an einem{nl}Feind mit [Indu
 SKILL_20150714_004690	Adds 1 target per attribute level to the applied effects of [Discerning Evil].
 SKILL_20150714_004691	Oblation: Indulgentia Speciality
 SKILL_20150714_004692	Increases the attack of Indulgentia based on the number of items in the Angebotebox.
-SKILL_20150714_004693	Spell Shop: Duration
-SKILL_20150714_004694	When you endow the effect that is registered at [Spell Shop] to your colleague, the duration will be increased. Duration will increase nach 3 mins pro{nl}Fähigkeits-Level.
+SKILL_20150714_004693	Spell Laden: Duration
+SKILL_20150714_004694	When you endow the effect that is registered at [Spell Laden] to your colleague, the duration will be increased. Duration will increase nach 3 mins pro{nl}Fähigkeits-Level.
 SKILL_20150714_004695	Pardoner: Donation
 SKILL_20150714_004696	Donation is possible through the Pardoner Master. The donation amount varies slightly each mal.
 SKILL_20150714_004697	Erhöht die Schadensausteilung an einem{nl}Feind mit [Carnivory] um 1% pro{nl}Fähigkeits-Level.
@@ -4731,7 +4731,7 @@ SKILL_20150717_004730	SP Absorption
 SKILL_20150717_004731	SP Absorption Status
 SKILL_20150717_004732	Status from receiving SP Absorption
 SKILL_20150717_004733	Silber erhöht
-SKILL_20150717_004734	Erhöht amount of silver dropped from enemies.
+SKILL_20150717_004734	Erhöht amount of Silber dropped from enemies.
 SKILL_20150717_004735	Erhöht magic defense 
 SKILL_20150717_004736	Decreased magic defense, increased physical defense 
 SKILL_20150717_004737	Movement speed decrease
@@ -4843,10 +4843,10 @@ SKILL_20150717_004842	Increases the instant death chance of [Turn Undead] in pro
 SKILL_20150717_004843	Schaden that will be reflected off from [Iron Skin] will be added 20% of Physisch ATK pro{nl}Fähigkeits-Level.
 SKILL_20150717_004844	Enemies hit nach [Palm Schlag] will be afflicted with [Bleeding] for 8 Sekunden. Increases the duration of [Bleeding] nach 1 Sekunde pro{nl}Fähigkeits-Level. Bleeding damage is proportional to the character's physical attack.
 SKILL_20150717_004845	Craft a dispeller to prevent from getting harmful effects. Craft Dispeller is only possible in Rest Mode.
-SKILL_20150717_004846	Increases the duration of [Spell Shop] nach 5 minutes pro Fähigkeits-Level, wenn you endow a registered effect to your ally.
+SKILL_20150717_004846	Increases the duration of [Spell Laden] nach 5 minutes pro Fähigkeits-Level, wenn you endow a registered effect to your ally.
 SKILL_20150717_004847	Nearnach enemies receive Heilig damage equal to [attribute level] when using [Arcane Energy]
 SKILL_20150717_004848	Increases the duration of [Forecast] nach 2 Sekunden pro{nl}Fähigkeits-Level.
-SKILL_20150717_004849	A monster that is transformed nach [Change] will have the Gegenstand Jackpot Effect with a 0.05% chance pro{nl}Fähigkeits-Level.
+SKILL_20150717_004849	A monster that is transformed nach [Change] will have the Gegenstand Jackpot Effekt with a 0.05% chance pro{nl}Fähigkeits-Level.
 SKILL_20150717_004850	Temporarily enlarge your party member's offhand, increasing attack if it is equipped with a shield or dagger.
 SKILL_20150717_004851	Shield, Physisch/Magie Defense: +#{CaptionRatio}#{nl}Dagger, Physisch/Magie Angriff: +#{CaptionRatio2}#{nl}No other effect when equipping a Sekundeary weapon{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150717_004852	Attribut-Schaden: #{CaptionRatio}#%{nl}Throw Count: #{CaptionRatio2}#{nl}Caltrops Dauer: #{CaptionTime}# Sekunden{nl}{#339999}{ol}[Slow]{/}{/}Dauer: 10 Sekunden
@@ -4962,7 +4962,7 @@ SKILL_20150729_004961	STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Verbraucht 3
 SKILL_20150729_004962	Transmits #{CaptionRatio}# of INT
 SKILL_20150729_004963	Magie Circle Dauer: #{CaptionTime}# Sekunden
 SKILL_20150729_004964	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Verbraucht 1 Stamina
-SKILL_20150729_004965	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Verbraucht #{CaptionRatio2}# silver
+SKILL_20150729_004965	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Verbraucht #{CaptionRatio2}# Silber
 SKILL_20150729_004966	Change the item dropped from an enemy to a different item. You will be notified when an item is changed.
 SKILL_20150729_004967	Changes a dropped item{nl}Maximum Level: 1
 SKILL_20150729_004968	All defense lost, Physisch DEF is 0
@@ -5120,7 +5120,7 @@ SKILL_20150918_005119	Stone Skin
 SKILL_20150918_005120	Increases you and your party members' block for a given duration.
 SKILL_20150918_005121	Block: +#{CaptionRatio}#{nl}Dauer: 35 Sekunden
 SKILL_20150918_005122	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Instruct your summoned zombies to celebrate. The zombies will deal little damage to anything they touch.
-SKILL_20150918_005123	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Maximum Dauer: 10 Sekunden{nl}Requires Summoned Zombie
+SKILL_20150918_005123	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Maximum Dauer: 10 Sekunden{nl}Benötigt Summoned Zombie
 SKILL_20150918_005124	Plant a glyph on the ground symbolizing Baron Samedi, the loa of death. Increases the maximum HP and movement speed of you and your zombies nearnach the glyph. Only half of the effect applies to you.
 SKILL_20150918_005125	You will set the pattern which represent Ogu which is the Rwa of Power on the ground. STR of the zombies nearnach this pattern will be increased.
 SKILL_20150918_005126	Zombie Capsule
@@ -5278,7 +5278,7 @@ SKILL_20151001_005277	Increases the attack of the summoned Skeleton Soldier nach
 SKILL_20151001_005278	Create Shoggoth: Enlargement
 SKILL_20151001_005279	Increases the chance of enlarging the size and maximum HP of the summoned Shoggoth um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151001_005280	Combustion: Using Silber
-SKILL_20151001_005281	Creates an explosion using 200 silver when there are no nearnach dropped items.
+SKILL_20151001_005281	Creates an explosion using 200 Silber when there are no nearnach dropped items.
 SKILL_20151001_005282	Deals 20% additional damage to Flying-type monsters when equipped with a [Zweihand-Bogen].
 SKILL_20151001_005283	Armbrust Mastery
 SKILL_20151001_005284	Ignores enemy defense nach 5% pro Fähigkeits-Level, wenn equipped with a [Einhand-Bogen].
@@ -5892,7 +5892,7 @@ SKILL_20151224_005891	Maximum Purchases: #{CaptionRatio}#
 SKILL_20151224_005892	Able to register skills that consume items{nl}Additional Dauer: #{CaptionRatio}# minutes
 SKILL_20151224_005893	Decatose
 SKILL_20151224_005894	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Angriff an enemy nach collecting money to offer to the gods. Enemies, with the exception of boss monsters, can be instantly killed at a 10% chance and the offered money can be picked back up again.
-SKILL_20151224_005895	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Verbraucht #{CaptionRatio}# silver
+SKILL_20151224_005895	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Verbraucht #{CaptionRatio}# Silber
 SKILL_20151224_005896	Dauer: #{CaptionRatio}# Sekunden{nl}Maximum Level: 1
 SKILL_20151224_005897	{#993399}{ol}[Magie] - [Heilig]{/}{/}{nl}Temporarily creates a magic circle that grants a healing factor. HP will be quickly recovered if you or your allies take damage from an enemy inside the magic circle.
 SKILL_20151224_005898	Dauer: #{CaptionTime}# Sekunden{nl}HP Recovery: #{CaptionRatio}#
@@ -5923,7 +5923,7 @@ SKILL_20151224_005922	Makes the attacks of party members have the Heilig propert
 SKILL_20151224_005923	Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Gyslotis
 SKILL_20151224_005924	Deploy Capella
 SKILL_20151224_005925	Deploys a temporary sacellum with a wrapped cloak. The caster and party members are able to simultaneously receive the effects of the caster's Aspersion, Monstrance, Blessing, Sacrament, Stone Skin.
-SKILL_20151224_005926	Cappella Dauer: #{CaptionRatio}# Sekunden{nl}Effect Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht 1 Cape
+SKILL_20151224_005926	Cappella Dauer: #{CaptionRatio}# Sekunden{nl}Effekt Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht 1 Cape
 SKILL_20151224_005927	Magnus Exorcismus
 SKILL_20151224_005928	Transforms the Exorcise Magie Circle in front of the caster into an enormous pillar of exorcism. This divine pillar of light continues to damage nearnach enemies.
 SKILL_20151224_005929	Aspergillum
@@ -6028,10 +6028,10 @@ SKILL_20151224_006027	Enemies hit nach [Slithering] become vulnerable to [Schlag
 SKILL_20151224_006028	Targe Smash: Remove Knockback
 SKILL_20151224_006029	[Targe Smash] no longer knocks enemies back.
 SKILL_20151224_006030	Increases your block penetration nach 10% pro Fähigkeits-Level, wenn equipped with a [Zweihand-Speer].
-SKILL_20151224_006031	Increases the duration of Salad of [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
-SKILL_20151224_006032	Increases the duration of Sandwich of [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
-SKILL_20151224_006033	Increases the duration of Soup of [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
-SKILL_20151224_006034	Increases the duration of Yogurt of [Refreshment Table] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20151224_006031	Increases the duration of Salad of [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20151224_006032	Increases the duration of Sandwich of [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20151224_006033	Increases the duration of Soup of [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
+SKILL_20151224_006034	Increases the duration of Yogurt of [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
 SKILL_20151224_006035	Pistol Shot: Verbessern
 SKILL_20151224_006036	Erhöht die Schadensausteilung an einem{nl}Feind mit [Pistol Shot] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151224_006037	Decreases damage taken from x3 to x2 while [Double Pay Earn] aktiv ist.
@@ -6211,7 +6211,7 @@ SKILL_20160224_006210	{#993399}{ol}[Magie]{/}{/}Creates a temporary magic circle
 SKILL_20160224_006211	Giant Size Dauer: #{CaptionTime}# Sekunden{nl}Magie Circle Dauer: 10 Sekunden{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
 SKILL_20160224_006212	{#993399}{ol}[Magie]{/}{/}Charges a frontal divine magic attack unleashed in a straight line.
 SKILL_20160224_006213	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
-SKILL_20160224_006214	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
+SKILL_20160224_006214	Resistance Effekt Chance: +#{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
 SKILL_20160224_006215	Ziele in stabiler Haltung auf einen{nl}Feind. Erhöht den Schaden von Geschoss-Eigenschafts-Angriffen.
 SKILL_20160224_006216	Angriff: +#{CaptionRatio}#%{nl}Zusäzlicher Attribut-Schaden: #{CaptionRatio2}#{nl}Dauer: 15 Sekunden
 SKILL_20160224_006217	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Bomb Dauer: 2 Sekunden
