@@ -2590,7 +2590,7 @@ ETC_20150317_002587	Adjust Rim Blow
 ETC_20150317_002588	Schließe Schussstrafe
 ETC_20150317_002589	Schnitzerangriff
 ETC_20150317_002590	Gilde verlassen
-ETC_20150317_002591	In Party einladen
+ETC_20150317_002591	In Gruppe einladen
 ETC_20150317_002592	Gruppenerstellung fehlgeschlagen
 ETC_20150317_002593	The name of the party already exists
 ETC_20150317_002594	Leave the party
@@ -2601,19 +2601,19 @@ ETC_20150317_002598	Set of access rights
 ETC_20150317_002599	Cannot join anymore
 ETC_20150317_002600	The party has acquired {Auto_1} EXP
 ETC_20150317_002601	Gruppenlevel hat sich erhöht zu {Auto_1}
-ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press the button to join
+ETC_20150317_002602	{Auto_1} Gruppe Raid has started {nl} Press the button to join
 ETC_20150317_002603	Joined {Auto_1}'s party
 ETC_20150317_002604	Created {Auto_1} party
 ETC_20150317_002605	{Inviter} has invited you to a party.{nl}Would you like to join?
 ETC_20150317_002606	{PC} is already a member of a party
-ETC_20150317_002607	Du bist kein Mitglied der Party
+ETC_20150317_002607	Du bist kein Mitglied der Gruppe
 ETC_20150317_002608	Do you want to leave this party?
 ETC_20150317_002609	Your party leader wants to disband the party {nl} Are you sure you want to disband the party?
 ETC_20150317_002610	The party has been disbanded
 ETC_20150317_002611	{@st41b} If you are not a member of a party, check the information below to create a new one {/}
 ETC_20150317_002612	{@st41} Worte des Dankes {/}
 ETC_20150317_002613	{@st41} Name {/}
-ETC_20150317_002614	{@st43} Party Settings {/}
+ETC_20150317_002614	{@st43} Gruppeneinstellungen {/}
 ETC_20150317_002615	{@st41} Member Limit {/}
 ETC_20150317_002616	{@st41b} Max {/}
 ETC_20150317_002617	{@st41} Entry Limit{/}
@@ -2641,22 +2641,22 @@ ETC_20150317_002638	{Receiver} can no longer receive iCoin for today.
 ETC_20150317_002639	Fluid body of {Auto_1}
 ETC_20150317_002640	Du hast nicht genug iCoin.
 ETC_20150317_002641	The mike cannot exceed {MaxByte} bytes.
-ETC_20150317_002642	Diese Party existiert nicht.
-ETC_20150317_002643	Aus Party entfernen
+ETC_20150317_002642	Diese Gruppe existiert nicht.
+ETC_20150317_002643	Aus Gruppe entfernen
 ETC_20150317_002644	Verlassen
-ETC_20150317_002645	Party Info
-ETC_20150317_002646	Zum Party-Leader machen
-ETC_20150317_002647	hat die Party-Anfrage abgelehnt.
-ETC_20150317_002648	Willst du dieser Party beitreten?
+ETC_20150317_002645	Gruppen Info
+ETC_20150317_002646	Zum Gruppen-Leader machen
+ETC_20150317_002647	hat die Gruppen-Anfrage abgelehnt.
+ETC_20150317_002648	Willst du dieser Gruppe beitreten?
 ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
-ETC_20150317_002650	Du bist bereits in einer Party.
-ETC_20150317_002651	Du bist zurzeit in keiner Party.
+ETC_20150317_002650	Du bist bereits in einer Gruppe.
+ETC_20150317_002651	Du bist zurzeit in keiner Gruppe.
 ETC_20150317_002652	Alle
 ETC_20150317_002653	There are not enough party members.
 ETC_20150317_002654	Available time of next quest
 ETC_20150317_002655	Quest can be progressed.
 ETC_20150317_002656	Reconnection wait time
-ETC_20150317_002657	Party Quest is possible.
+ETC_20150317_002657	Gruppen Quest ist möglich.
 ETC_20150317_002658	Only the party leader can do this.
 ETC_20150317_002659	All members must come to {MapName} to begin the Quest.
 ETC_20150317_002660	Not all members are not together.
@@ -2664,11 +2664,11 @@ ETC_20150317_002661	Members of party quest have been met. The quest will be avai
 ETC_20150317_002662	hat die Gruppe verlassen.
 ETC_20150317_002663	Normal
 ETC_20150317_002664	Schreien
-ETC_20150317_002665	Party
+ETC_20150317_002665	Gruppe
 ETC_20150317_002666	To {Who} and {Count} others
 ETC_20150317_002667	Chat-Raum-Liste
 ETC_20150317_002668	This user does not exist.
-ETC_20150317_002669	Party Quest Area
+ETC_20150317_002669	Gruppen Quest Area
 ETC_20150317_002670	This user does not exist or is offline.
 ETC_20150317_002671	Enter the player's Team Name to invite.
 ETC_20150317_002672	{TargetName} and {Count} others
@@ -2896,11 +2896,11 @@ ETC_20150317_002893	Freunde die bei TOS sind
 ETC_20150317_002894	Freunde die kein TOS spielen
 ETC_20150317_002895	Jemand den du kennen keonntest
 ETC_20150317_002896	Wir sind zusammen
-ETC_20150317_002897	Geformte Party
+ETC_20150317_002897	Geformte Gruppe
 ETC_20150317_002898	Gehandelt
 ETC_20150317_002899	Blockliste
 ETC_20150317_002900	Zusammen gespielte Zeit {Count} 
-ETC_20150317_002901	Zusammen in eine Party {Count} mal
+ETC_20150317_002901	Zusammen in eine Gruppe {Count} mal
 ETC_20150317_002902	Gehandelt {Count} mal
 ETC_20150317_002903	Bereits in deiner Blockliste.
 ETC_20150317_002904	Gib den Team-Name an den du blocken willst.
@@ -3466,7 +3466,7 @@ ETC_20150317_003461	Wow, this tree just won't budge!
 ETC_20150317_003462	Whew... when is the shift?
 ETC_20150317_003463	If I don't, then who would?!
 ETC_20150317_003464	Collected the moss
-ETC_20150317_003465	Collecting
+ETC_20150317_003465	Einsammeln
 ETC_20150317_003466	Collected discolored grass
 ETC_20150317_003467	Vubbe Fighter Melinas
 ETC_20150317_003468	[Troops Advance] should be started in order to pass through
@@ -4720,7 +4720,7 @@ ETC_20150317_004715	Chat
 ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
 ETC_20150317_004718	Normaler Chat
-ETC_20150317_004719	Party Chat
+ETC_20150317_004719	Gruppen Chat
 ETC_20150317_004720	Group
 ETC_20150317_004721	In Chat einladen
 ETC_20150317_004722	System
@@ -5636,7 +5636,7 @@ ETC_20150317_005631	Romuva
 ETC_20150317_005632	Inflicts 20% additional damage against demons!
 ETC_20150317_005633	Evil Energy Corruption
 ETC_20150317_005634	This monster has been corrupted by the evil energy!
-ETC_20150317_005635	Scattered Stairs Party Buff
+ETC_20150317_005635	Scattered Stairs Gruppen Buff
 ETC_20150317_005636	Erhöhe attack by 150
 ETC_20150317_005637	Mahogany tree single floor forest party buff
 ETC_20150317_005638	Erhöhe defense by 100
@@ -5955,14 +5955,14 @@ ETC_20150317_005950	Bybora's Wings
 ETC_20150317_005951	You can get this from an NPC.
 ETC_20150317_005952	You can create a party to play with other players.
 ETC_20150317_005953	Approach the character to make a party and left click of mouse
-ETC_20150317_005954	Party Invite
+ETC_20150317_005954	Gruppe Invite
 ETC_20150317_005955	You can create a party to select.
 ETC_20150317_005956	Creating a party is only possible when you aren't in a party.{nl} A party will be automatically created after the other player accepts the party invite.
 ETC_20150317_005957	Click the party's portrait of the left top in order to see the information of the invited character
 ETC_20150317_005958	Gruppeninfo
 ETC_20150317_005959	You can check it with
 ETC_20150317_005960	or can check quickly to use shortcut {img F6 25 25} key.
-ETC_20150317_005961	Party Info of
+ETC_20150317_005961	Gruppe Info of
 ETC_20150317_005962	You can manage the party more efficiently in the tab.
 ETC_20150317_005963	You can change the following settings: quest sharing, EXP distribution, item distribution and conditions to join the party.
 ETC_20150317_005964	Click on the portrait of your party members to manage them.
@@ -8429,7 +8429,7 @@ ETC_20150317_008425	Rezept - Dark Zauberstab
 ETC_20150317_008426	Rezept - Grim Zauberstab
 ETC_20150317_008427	Rezept - Skull Zauberstab
 ETC_20150317_008428	Rezept - Didel Shaman Zauberstab
-ETC_20150317_008429	Rezept - Party Mang Zauberstab
+ETC_20150317_008429	Rezept - Gruppe Mang Zauberstab
 ETC_20150317_008430	Rezept - Rampa Zauberstab
 ETC_20150317_008431	Rezept - Vestia Zauberstab
 ETC_20150317_008432	Rezept - Serfence
@@ -8840,9 +8840,9 @@ ETC_20150317_008836	Quest-Tipp
 ETC_20150317_008837	Drücke F5 um Informationen über deine laufenden Quests zu sehen.
 ETC_20150317_008838	Gruppen-Tipp
 ETC_20150317_008839	Drücke F6 um deine Gruppe zu sehen.
-ETC_20150317_008840	Party Request-Tipp
+ETC_20150317_008840	Gruppen Request-Tipp
 ETC_20150317_008841	Right-click on another player's character to send a party request. When a request is accepted, you can play together in a party.
-ETC_20150317_008842	Public Party List-Tipp
+ETC_20150317_008842	Public Gruppen List-Tipp
 ETC_20150317_008843	Shows the list of current parties in the game. Click on the list to join the party.
 ETC_20150317_008844	Friends List-Tipp
 ETC_20150317_008845	Drücke F7 um deine Freundesliste zu sehen.
@@ -8933,7 +8933,7 @@ ETC_20150317_008929	Start Field Events
 ETC_20150317_008930	Reset Field Event conditions
 ETC_20150317_008931	Skill Point Up
 ETC_20150317_008932	Learn Skills
-ETC_20150317_008933	Reset Raid Party time
+ETC_20150317_008933	Reset Raid Gruppe time
 ETC_20150317_008934	Remove monsters
 ETC_20150317_008935	Toggle NPC Hide
 ETC_20150317_008936	NPC Function Name
@@ -8947,7 +8947,7 @@ ETC_20150317_008943	SmartGen Infinite Creation in current place
 ETC_20150317_008944	Test Effects
 ETC_20150317_008945	Effektname
 ETC_20150317_008946	Stat Initialization
-ETC_20150317_008947	Test Party Track (forced)
+ETC_20150317_008947	Test Gruppe Track (forced)
 ETC_20150317_008948	Change PC Quest Progress
 ETC_20150317_008949	Search Quest
 ETC_20150317_008950	Grass
@@ -9756,7 +9756,7 @@ ETC_20150323_009752	You've robbed 10 treasure chests.
 ETC_20150323_009753	Treasure Jäger : Master
 ETC_20150323_009754	You've robbed 100 treasure chests.
 ETC_20150323_009755	Hanaming Kill Count
-ETC_20150323_009757	Party Quest Count
+ETC_20150323_009757	Gruppen-Quest Count
 ETC_20150323_009758	Altar Group Buff
 ETC_20150323_009759	Purification Contribution
 ETC_20150323_009760	Contributed in purifying evil energy
@@ -10920,10 +10920,10 @@ ETC_20150414_010917	Spider Web
 ETC_20150414_010918	Highlanders are tough fighters who use two-handed swords. They make enemies collide against each other or against terrain, so they are great for handling multiple enemies.
 ETC_20150414_010919	Centurions command the battle with formations. They control their allies and use different formations depending on the situation.
 ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins a Corsair's party becomes a pirate.
-ETC_20150414_010921	Attack, Party
+ETC_20150414_010921	Attack, Gruppe
 ETC_20150414_010922	Doppelsoeldners are mercenaries who endure high risk for high rewards. They dangerously expose themselves to enemies to receive high attack power or high EXP.
 ETC_20150414_010923	Squires are warriors who support their allies. They support by repairing and enhancing others' weapons, or by setting up a base camp to aid their team.
-ETC_20150414_010924	Unterstützung, Crafting, Party
+ETC_20150414_010924	Unterstützung, Crafting, Gruppe
 ETC_20150414_010925	Angriff, Unterstützung
 ETC_20150414_010926	Alchemists use Alchimie to enhance gems and synthesize or craft items.
 ETC_20150414_010927	Sorcerers summon and control spirits to fight enemies, or even to use as mounts.
@@ -11281,7 +11281,7 @@ ETC_20150428_011278	Der Weg des Handwerkers
 ETC_20150428_011279	Töte 1,000 Spieler
 ETC_20150428_011280	Stelle 100 mal etwas her
 ETC_20150428_011281	Frisurfarbe - Weiß
-ETC_20150428_011282	Fortschritt in einer Party-Quest 25 mal
+ETC_20150428_011282	Fortschritt in einer Gruppe-Quest 25 mal
 ETC_20150428_011283	Einführung in die Herstellung
 ETC_20150428_011284	Frisurfarbe - Blau
 ETC_20150428_011285	Vervollständige die Owl Burial Grund-Quest
@@ -11353,7 +11353,7 @@ ETC_20150428_011350	Melody Crystal
 ETC_20150428_011351	King Zachariel's Spirit
 ETC_20150428_011352	Buy Sapper Items
 ETC_20150428_011353	Buy Chronomancer Items
-ETC_20150428_011354	Party Mission
+ETC_20150428_011354	Gruppe Mission
 ETC_20150428_011355	Sprich mit Fedimian Mercenary Post Receptionist Ramda to join a party event mission.
 ETC_20150428_011356	Eliminate the helper
 ETC_20150428_011357	Check the Eyes of the Great King
@@ -11446,7 +11446,7 @@ ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced u
 ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" through the game settings when using a joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
-ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
+ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Gruppe Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
 ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON stat after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
 ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click on the +, - buttons on the minimap to zoom in and zoom out. {nl}2) Click on the M button on the minimap or press the M key to view the full map of the zone (Zone Map) you are in. {nl}3) Press the N key on your keyboard to view the entire World Map.
 ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.
@@ -11503,7 +11503,7 @@ ETC_20150428_011500	Monster Kill Area Ranking
 ETC_20150428_011501	Revelator Combat Disabled Area Ranking
 ETC_20150428_011502	Revelator Combat Disabled Monster Ranking
 ETC_20150428_011503	Acquired Silber Area Ranking
-ETC_20150428_011504	Party Organization Area Ranking
+ETC_20150428_011504	Gruppe Organization Area Ranking
 ETC_20150428_011505	Gegenstand Enhancement Ranking
 ETC_20150428_011506	Acquired Silber Revelator Ranking
 ETC_20150428_011507	Observing the shattered statue
@@ -12080,7 +12080,7 @@ ETC_20150714_012077	Es ist ein Spieler mit einem ähnlichen Niveau in der Nähe.
 ETC_20150714_012078	A party of a similar level to you has requested that you join them. Join this party! 
 ETC_20150714_012079	You've found a fellow player whom you've played with before. {nl}You could invite this player to your party again!
 ETC_20150714_012080	A player whom you've played with before is inviting you to their party again. Join this party again!
-ETC_20150714_012081	Party Quest 
+ETC_20150714_012081	Gruppen-Quest 
 ETC_20150714_012082	A random quest will be selected for all party members who meet the required criteria.
 ETC_20150714_012083	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing was found!:5
 ETC_20150714_012084	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole Roots were disconnected!!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/NPCDead
@@ -12197,7 +12197,7 @@ ETC_20150714_012194	The shortest term (mins) to recommend a user to a party
 ETC_20150714_012195	Whenever there's a Like, additional points will be given 
 ETC_20150714_012196	Per 1 trade
 ETC_20150714_012197	Per 1 whisper
-ETC_20150714_012198	Per 1 Group/Party Chat
+ETC_20150714_012198	Per 1 Group/Gruppen Chat
 ETC_20150714_012199	Per 1 party matching rejection (not used)
 ETC_20150714_012200	Cancel after Like
 ETC_20150714_012201	Quickly withdraw after entering the party (has not been used)
@@ -12681,9 +12681,9 @@ ETC_20150714_012678	Kauf Punkte
 ETC_20150714_012679	The name of the party is either too long or too short.
 ETC_20150714_012680	The party of {FamilyName}
 ETC_20150714_012681	Gruppe#
-ETC_20150714_012682	Enter Party Name
-ETC_20150714_012683	The Party Name already exists.
-ETC_20150714_012684	Enter Party description.
+ETC_20150714_012682	Enter Gruppenname
+ETC_20150714_012683	The Gruppenname already exists.
+ETC_20150714_012684	Enter Gruppe description.
 ETC_20150714_012685	You discovered nothing
 ETC_20150714_012686	You've matched Lydia Schaffen's tombstone fragments{nl}Let's read the tombstone again
 ETC_20150714_012687	Not enough tombstone fragments
@@ -13148,7 +13148,7 @@ ETC_20150714_013145	[Amanda Tomb Robbers]{nl}  Hubertas
 ETC_20150714_013146	[Royal Army]{nl}  Gofden
 ETC_20150714_013147	[Knights of Kaliss]{nl}Cryomancer Kostas
 ETC_20150714_013148	[Amanda Tomb Robbers]{nl}   Rudolfas
-ETC_20150714_013149	Petrified Royal Army Advance Party
+ETC_20150714_013149	Petrified Royal Army Advance Gruppe
 ETC_20150714_013150	Discarded Petrification Detector
 ETC_20150714_013151	Bellas Grass
 ETC_20150714_013152	Amanda Tomb Robbers' Crate
@@ -13301,12 +13301,12 @@ ETC_20150717_013298	Du kannst Erfolge durch Charakter-Aktivitäten erlangen und 
 ETC_20150717_013299	You can see your characer's achievements by pressing {img F1 40 40} to open the Character window, and going to the Achievements tab.
 ETC_20150717_013300	Du kannst Belohnungen für jeden Erfolg erhalten, den du abschließt.
 ETC_20150717_013301	Gruppen-Einstellungen
-ETC_20150717_013302	Press {img F6 40 40} to open the Party window.
-ETC_20150717_013303	You can form a party by pressing the Create Party button. You must not currently be in a party to form a new one.
+ETC_20150717_013302	Press {img F6 40 40} to open the Gruppe window.
+ETC_20150717_013303	You can form a party by pressing the Create Gruppe button. You must not currently be in a party to form a new one.
 ETC_20150717_013304	You can set your play style and party members in Members tab.
-ETC_20150717_013305	This information will be used when you use Search Party function.
-ETC_20150717_013306	You can enjoy Party Events with other party members.
-ETC_20150717_013307	In Settings, you can set the Party Name, Party Description, Gegenstand and EXP distribution rules, etc.
+ETC_20150717_013305	This information will be used when you use Search Gruppe function.
+ETC_20150717_013306	You can enjoy Gruppe Events with other party members.
+ETC_20150717_013307	In Settings, you can set the Gruppe Name, Gruppe Description, Gegenstand and EXP distribution rules, etc.
 ETC_20150717_013308	You can check the list of public parties on the right.
 ETC_20150717_013309	You can select the party you like to join from the list of Public Parties.
 ETC_20150717_013310	Im Monster-Interface kannst du das Monster-Level, Name, HP, etc. sehen. 
@@ -13501,7 +13501,7 @@ ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced u
 ETC_20150717_013499	Karten-Battle-Tipp
 ETC_20150717_013500	in dem Chatmenü
 ETC_20150717_013501	Du kannst ein Karten-Battle mit einem anderen Spieler starten
-ETC_20150717_013502	/Party Einladung
+ETC_20150717_013502	/Gruppe Einladung
 ETC_20150717_013503	/Freund hinzufügen
 ETC_20150717_013504	/Block
 ETC_20150717_013505	Dein Name darf keine 16 Zeichen überschreiten {nl}inklusive Leerzeichen.
@@ -13734,10 +13734,10 @@ ETC_20150729_013731	Dein Charakter wird sterben, wenn er 0 HP erreicht hat.
 ETC_20150729_013732	. {nl}{nl}Die Haltbarkeit ausgestattet Ausrüstung wird drastisch verringern wenn ein Charakter nicht in der Lage zu überleben.
 ETC_20150729_013733	{nl}{nl}Gems in your inventory will be dropped when you die inside a dungeon.
 ETC_20150729_013734	Um mit anderen Spielern zu spielen kannst du eine Gruppe erstellen.
-ETC_20150729_013735	Press {img F6 40 40} to open the Party window.{nl}{nl}Click on the 'Create' button to make a party.
-ETC_20150729_013736	You can set up your own play style and preferences through the party settings.{nl}{nl}This information will be used when you use the Search Party Member function.
+ETC_20150729_013735	Press {img F6 40 40} to open the Gruppe window.{nl}{nl}Click on the 'Create' button to make a party.
+ETC_20150729_013736	You can set up your own play style and preferences through the party settings.{nl}{nl}This information will be used when you use the Search Gruppe Member function.
 ETC_20150729_013737	When you find players that match your set up criteria, {nl}{img mouseclick_right 40 40} to invite the player to your party.
-ETC_20150729_013738	You can enjoy Party Events with other party members.
+ETC_20150729_013738	You can enjoy Gruppe Events with other party members.
 ETC_20150729_013739	You can join each other's content and features when certain conditions are met.
 ETC_20150729_013740	You can freely set up a party name, description, Gegenstand and EXP Priority and other various options.
 ETC_20150729_013741	You can check the list of Public Parties on the right side of the screen.
@@ -13756,7 +13756,7 @@ ETC_20150729_013753	Zerstöre einen Baumwurzel-Kristall und erhalte Ausdauer.
 ETC_20150729_013754	Stamina of all the players nearby will be restored when you destroy a Tree Root Crystal.
 ETC_20150729_013755	Team Battle League
 ETC_20150729_013756	Team Battle League is a 5:5 team battle among players.
-ETC_20150729_013757	If Party and all party members press accept, system will search for opponents. When matching opponent party is found, you will move to battle zone to begin the battle.
+ETC_20150729_013757	If Gruppe and all party members press accept, system will search for opponents. When matching opponent party is found, you will move to battle zone to begin the battle.
 ETC_20150729_013758	You need to win two of three matches to win.
 ETC_20150729_013759	Stelle Gegenstände mit speziellen Rezepten her.
 ETC_20150729_013760	Du kannst Rezepte von Monstern, Läden und Quests erhalten.
@@ -13910,10 +13910,10 @@ ETC_20150729_013907	Big Bright Thorny Flower
 ETC_20150729_013908	Monk3 Down
 ETC_20150729_013909	Monk4 Down
 ETC_20150729_013910	Carpet
-ETC_20150729_013911	When Party Leader accepts the boss hunting mission, go to the area with your party members to start the boss hunting.
-ETC_20150729_013912	When Party Leader accepts the mission, you can go to Fedimian Mercenary Reception Office to start the mission with your party members. When the party members are all gathered, Party Leader should talk to the receptionist, Ramda to move to the mission location to start the mission.
-ETC_20150729_013913	When Party Leader accepts the party quest, party members can also receive the quest. After receiving the party quest, move to to the quest location to start the quest.
-ETC_20150729_013914	When Party Leader accepts Team Battle League, you can compete against other parties by forming a team with your party members. After accepting, please wait until your opponent is selected.
+ETC_20150729_013911	When Gruppe Leader accepts the boss hunting mission, go to the area with your party members to start the boss hunting.
+ETC_20150729_013912	When Gruppe Leader accepts the mission, you can go to Fedimian Mercenary Reception Office to start the mission with your party members. When the party members are all gathered, Gruppe Leader should talk to the receptionist, Ramda to move to the mission location to start the mission.
+ETC_20150729_013913	When Gruppe Leader accepts the party quest, party members can also receive the quest. After receiving the party quest, move to to the quest location to start the quest.
+ETC_20150729_013914	When Gruppe Leader accepts Team Battle League, you can compete against other parties by forming a team with your party members. After accepting, please wait until your opponent is selected.
 ETC_20150729_013915	DoTimeAction:Collecting:2:SITGROPE:None
 ETC_20150729_013916	DoTimeAction:Extracting the core of the Monster:3:SITGROPE:None
 ETC_20150729_013917	Notice:NOTICE_Dm_!:You haven't obtained anything:5/NPCDead
@@ -14277,7 +14277,7 @@ ETC_20150918_014274	This demon is losing its vitality to the bone that is endowe
 ETC_20150918_014275	When you catch it, you will accumulate lots of EXP points
 ETC_20150918_014276	Du kannst das Gruppen-Fenster mit {img F6 40 40} öffnen.{nl} {nl}Wenn du keiner Gruppe angehörst, drücke den 'Gruppe erstellen'-Knopf um eine neue Gruppe zu erstellen.
 ETC_20150918_014277	Du kannst dir einen Namen und eine Beschreibung für deine Gruppe aussuchen. Die Beschreibung wird den Gruppenmitgliedern als Information angezeigt.{nl} {nl}Wenn du den Knopf Gruppen-Einladungs-Tag einfügen klickst, wird ein Tag im Chat-Fenster angezeigt.
-ETC_20150918_014278	Each content will be exposed in the Party Event tab whenever you fulfill certain requirements, and you'll be able to participate in them with your party members.
+ETC_20150918_014278	Each content will be exposed in the Gruppe Event tab whenever you fulfill certain requirements, and you'll be able to participate in them with your party members.
 ETC_20150918_014279	In den Einstellungen können die Regeln für die Verteilung von Gegenständen und EXP eingestellt werden. Zusammen mit den Gruppen-Rekrutierungs-Einstellungen.
 ETC_20150918_014280	Auf der rechten Seite des Gruppen-Interfaces kannst du die Spielerliste und Gruppenliste sehen.
 ETC_20150918_014281	Die Spielerliste und Gruppenliste wird aktualisiert, wenn du die Rekrutier-Einstellungen bearbeitest.
@@ -15071,7 +15071,7 @@ ETC_20151001_015068	You have found the divine object!
 ETC_20151001_015069	You have fired the disposable signal bomb.{nl}Besiege the demons that are chasing!
 ETC_20151001_015070	You have defeated the demons that were caught by the signal bomb!
 ETC_20151001_015071	You have set the signal trap.{nl}Protect it until the demons get lured to it!
-ETC_20151001_015072	Someone is calling you from up there
+ETC_20151001_015072	Jemand ruft dich von dort oben
 ETC_20151001_015073	You've obtained the black herb
 ETC_20151001_015074	You can only use it at Sutatis Trade Route
 ETC_20151001_015075	Die you monster!
@@ -15082,7 +15082,7 @@ ETC_20151001_015079	Tell me again!
 ETC_20151001_015080	You are saying he is your friend and you don't know where is he buried?
 ETC_20151001_015081	Let's see who is right!
 ETC_20151001_015082	Doesn't seem to be Gailus Legwyn.
-ETC_20151001_015083	Checking the Unknown Tombstone
+ETC_20151001_015083	Prüfe den unbekannten Grabstein
 ETC_20151001_015084	Why are you disturbing my sleep and who are you?
 ETC_20151001_015085	How rude of you to wake me up!
 ETC_20151001_015086	Are you a friend of Erikas?
@@ -15095,7 +15095,7 @@ ETC_20151001_015092	Rubbing the Spirit Incenses
 ETC_20151001_015093	You have found a vassal of the Legwyn Family
 ETC_20151001_015094	The Legwyns are calling me!
 ETC_20151001_015095	You have handed over the object of Grizina to Irmantas
-ETC_20151001_015096	Hey! Over here!
+ETC_20151001_015096	Hay! Hier drüben!
 ETC_20151001_015097	Hurry.{nl}His life depends on you..
 ETC_20151001_015098	We can call out Harugal now.
 ETC_20151001_015099	Be the food for Hohens
@@ -16300,7 +16300,7 @@ ETC_20151022_016297	You will soon move to the character selection.
 ETC_20151022_016298	Grimoire
 ETC_20151022_016299	Necronomicon
 ETC_20151022_016300	Can only be used in towns.
-ETC_20151022_016301	Number of Party Quest participated : {count} / {max}{nl}from party
+ETC_20151022_016301	Number of Gruppe Quest participated : {count} / {max}{nl}from party
 ETC_20151022_016302	You are doing a quest!
 ETC_20151022_016303	You've obtained all necessary breathes
 ETC_20151022_016304	You can't see any peculiarities anymore
@@ -19206,7 +19206,7 @@ ETC_20151224_019202	You already have this item.
 ETC_20151224_019203	Male Costume
 ETC_20151224_019204	Female Costume
 ETC_20151224_019205	You don't have any quests to move to in the area.
-ETC_20151224_019206	Party Quest Count : {count} / {max}{nl}
+ETC_20151224_019206	Gruppe Quest Count : {count} / {max}{nl}
 ETC_20151224_019207	A quest has been selected!
 ETC_20151224_019208	Cannot find the NPC.
 ETC_20151224_019209	Today's Correct Answers : {DAYPLAYCOUNT} {nl} Remaining Attempts : {COUNT}{nl}The range you can select in between is {MIN} ~ {MAX}.{nl}Please select it within the specified range. 
@@ -19396,8 +19396,8 @@ ETC_20151224_019392	Shooting the flare
 ETC_20151224_019393	You have to defeat it under the basic state which of it has no reinforcement effect!
 ETC_20151224_019394	Suche nach einer Gruppe
 ETC_20151224_019395	You are already in a party. Do you want to leave this party?
-ETC_20151224_019396	Searching for a party...{nl}You'll automatically enter upon completion.
-ETC_20151224_019397	You've found a party. You will be entering the game in a moment.
+ETC_20151224_019396	Suche nach einer Gruppe...{nl}Du trittst automatisch der Instanz bei.
+ETC_20151224_019397	Du hast eine Gruppe gefunden. Du trittst in einem Moment dem Spiel bei.
 ETC_20151224_019398	The candle is not lit soon
 ETC_20151224_019399	You've exploded the bag of Tranceherb Incense{nl}It can be exploded two more times
 ETC_20151224_019400	You've exploded the bag of Tranceherb Incense{nl}It can be exploded one more time
@@ -19763,7 +19763,7 @@ ETC_20151224_019759	You have already obtained the achievement reward.
 ETC_20151224_019760	You have obtained a reward for the Wipe out the Hanamings! achievement.
 ETC_20151224_019761	You have obtained a reward for the Introduction to Crafting achievement.
 ETC_20151224_019762	You have obtained a reward for the Unexpected Test achievement.
-ETC_20151224_019763	You have obtained a reward for the Party Quest achievement.
+ETC_20151224_019763	You have obtained a reward for the Gruppe Quest achievement.
 ETC_20151224_019764	You have obtained a reward for the Capable Adventurer achievement.
 ETC_20151224_019765	Could not find ClassType, Name, Tactics, SimpleAI, Dialog, Enter, Leave in the Search Results.
 ETC_20151224_019766	Would you like to hire a Helper?{nl}Consumes 1 TP per minute{nl} {img medal 32 32}
@@ -20225,13 +20225,13 @@ ETC_20160224_020221	Daily Quest (2)
 ETC_20160224_020222	Rota's Trusted Mercenary
 ETC_20160224_020223	Progress in a daily quest 300 times
 ETC_20160224_020224	Daily Quest (3)
-ETC_20160224_020225	Party Quest (1)
+ETC_20160224_020225	Gruppen Quest (1)
 ETC_20160224_020226	Reassured Ally
 ETC_20160224_020227	Progress in a party quest 100 times
-ETC_20160224_020228	Party Quest (2)
+ETC_20160224_020228	Gruppen Quest (2)
 ETC_20160224_020229	Trustworthy Ally
 ETC_20160224_020230	Progress in a party quest 300 times
-ETC_20160224_020231	Party Quest (3)
+ETC_20160224_020231	Gruppen Quest (3)
 ETC_20160224_020232	Daily Quest Count
 ETC_20160224_020233	First Alphabet Event
 ETC_20160224_020234	Sicarius Gimmick
@@ -20296,7 +20296,7 @@ ETC_20160224_020292	No callback designated in sprite event.
 ETC_20160224_020293	Failed to create key frame.
 ETC_20160224_020294	Unable to create aditional key frame immediately.
 ETC_20160224_020295	Defined textures twice.
-ETC_20160224_020296	Party-related error.
+ETC_20160224_020296	Gruppe-related error.
 ETC_20160224_020297	Wert already exists.
 ETC_20160224_020298	Error occurred in text line-break function.
 ETC_20160224_020299	Incorrect col value in advlistbox maxrowcol properties.
@@ -20319,7 +20319,7 @@ ETC_20160224_020315	Failed to load PVP world state. Processing as failed match.
 ETC_20160224_020316	Failed to close under PVP Game Room close request. Refer to corresponding room data.
 ETC_20160224_020317	Invalid PVP MapID.
 ETC_20160224_020318	Failed to load friend account ID.
-ETC_20160224_020319	Invalid Party Type found.
+ETC_20160224_020319	Invalid Gruppe Type found.
 ETC_20160224_020320	An error occurred while reading wholdDicID.xml.
 ETC_20160224_020321	Failed to read translation data.
 ETC_20160224_020322	Failed to reset ImcDic.
@@ -20574,7 +20574,7 @@ ETC_20160224_020570	[Premium] Male Hairstyle
 ETC_20160224_020571	[Premium] Female Hairstyle
 ETC_20160224_020572	Open one more time
 ETC_20160224_020573	You do not have any card.
-ETC_20160224_020574	Personal : {count}/{max} Quests Completed{nl}Party : 
+ETC_20160224_020574	Personal : {count}/{max} Quests Completed{nl}Gruppe : 
 ETC_20160224_020575	Besiegte {MONSTER}
 ETC_20160224_020576	Proceed with this number combination?
 ETC_20160224_020577	Continue
@@ -21228,7 +21228,7 @@ ETC_20160323_021222	Erfreuliches Token bringt all deinen Charakteren auf einem S
 ETC_20160323_021223	90 TP [Event]
 ETC_20160323_021224	Benutze und erhalte 90 TP.
 ETC_20160323_021225	Lucky 100 Package
-ETC_20160323_021226	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - Party Horn{nl} - 100 TP{nl} - 100 TP
+ETC_20160323_021226	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - Gruppe Horn{nl} - 100 TP{nl} - 100 TP
 ETC_20160323_021227	Dellam Sandbank
 ETC_20160323_021228	Polybba Marshlands
 ETC_20160323_021229	Kranta Skerries
@@ -21379,7 +21379,7 @@ ETC_20160323_021373	TP Exchange Ticket
 ETC_20160323_021374	Gilden-Belohnung
 ETC_20160323_021375	1st Standing Server Belohnung
 ETC_20160323_021376	Free TP + {Wert} until the next refresh of the weekly standings
-ETC_20160323_021377	Re-enter Auto Party Matching
+ETC_20160323_021377	Re-enter Auto Gruppe Matching
 ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?
 ETC_20160323_021379	[Alchemist Master]{nl}
 ETC_20160323_021380	Collector
