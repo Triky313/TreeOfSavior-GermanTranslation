@@ -382,7 +382,7 @@ ETC_20150317_000381	Ginklas
 ETC_20150317_000382	Stone Whale
 ETC_20150317_000383	Tutu
 ETC_20150317_000384	Yonazolem
-ETC_20150317_000385	Master Genie
+ETC_20150317_000385	Klassenmeister Genie
 ETC_20150317_000386	Biteregina
 ETC_20150317_000387	Iltiswort
 ETC_20150317_000388	Giant Red Wood Goblin
@@ -1142,10 +1142,10 @@ ETC_20150317_001141	Fedimian Territory
 ETC_20150317_001142	City
 ETC_20150317_001143	Klaipeda Region
 ETC_20150317_001144	Klaipeda
-ETC_20150317_001145	Highlander Master's Training Hall
-ETC_20150317_001146	Bokor Master's Home
-ETC_20150317_001147	Pyromancer Master's Lab
-ETC_20150317_001148	Mercenary Post 
+ETC_20150317_001145	Highlander Klassenmeister's Training Hall
+ETC_20150317_001146	Bokor Klassenmeister's Home
+ETC_20150317_001147	Pyromancer Klassenmeister's Lab
+ETC_20150317_001148	Söldnerposten
 ETC_20150317_001149	Royal Territory
 ETC_20150317_001150	Orsha
 ETC_20150317_001151	West Siauliai Woods
@@ -2144,10 +2144,10 @@ ETC_20150317_002143	Searching for a sheet of paper
 ETC_20150317_002144	Found a sheet in the Wizard's book!
 ETC_20150317_002145	Couldn't find a sheet in the Wizard's book
 ETC_20150317_002146	Emotional Owl Statue
-ETC_20150317_002147	The Schwer Master has appeared! Try looking around
-ETC_20150317_002148	The Wizard Master has appeared! Try looking around
-ETC_20150317_002149	The Archer Master has appeared! Try looking around
-ETC_20150317_002150	The Cleric Master has appeared! Try looking around
+ETC_20150317_002147	The Schwer Klassenmeister has appeared! Try looking around
+ETC_20150317_002148	The Wizard Klassenmeister has appeared! Try looking around
+ETC_20150317_002149	The Archer Klassenmeister has appeared! Try looking around
+ETC_20150317_002150	The Cleric Klassenmeister has appeared! Try looking around
 ETC_20150317_002151	Dandel: Dandel: 51 / Dandel: Dandel: 51 / Dandel: Dandel: 51 / zigri_purple: Black Zigri: 54
 ETC_20150317_002152	Chasm Wendigo
 ETC_20150317_002153	What kind of place is Fedimian?
@@ -5188,7 +5188,7 @@ ETC_20150317_005183	Besiege Shadowgaler
 ETC_20150317_005184	Besiege Minotaur!
 ETC_20150317_005185	Minotaur
 ETC_20150317_005186	Remarkable Vubbe Fighter
-ETC_20150317_005187	Besiege the Oracle Master!
+ETC_20150317_005187	Besiege the Oracle Klassenmeister!
 ETC_20150317_005188	Oh, you're here!
 ETC_20150317_005189	What's the occasion?
 ETC_20150317_005190	What?!
@@ -5204,7 +5204,7 @@ ETC_20150317_005199	Don't come closer!
 ETC_20150317_005200	Besiege the aggressive Harpia!
 ETC_20150317_005201	Besiege Reaverpede!
 ETC_20150317_005202	I will not go easy on you!
-ETC_20150317_005203	Besiege the Rogue Master!
+ETC_20150317_005203	Besiege the Rogue Klassenmeister!
 ETC_20150317_005204	Here I go!
 ETC_20150317_005205	Besiege Rocktortuga and obtain the natural agate stone!
 ETC_20150317_005206	Besiege Schwarzer Reiter!
@@ -5494,7 +5494,7 @@ ETC_20150317_005489	The One Who Successfully Overkilled
 ETC_20150317_005490	Erreiche 100 Overkills
 ETC_20150317_005491	Overkill Beginner
 ETC_20150317_005492	Erreiche 500 Overkills
-ETC_20150317_005493	Overkill Master
+ETC_20150317_005493	Overkill Klassenmeister
 ETC_20150317_005494	Erreiche 1,000 Overkills
 ETC_20150317_005495	Overkill God
 ETC_20150317_005496	Erreiche 3,000 Overkills
@@ -5939,8 +5939,8 @@ ETC_20150317_005934	You can open the Skill window by pressing {img F3 40 40}.
 ETC_20150317_005935	Click the {img skillup 40 40} button to raise the level of a skill.
 ETC_20150317_005936	The skill level will increase after you click 'Apply'.
 ETC_20150317_005937	Skills learned are added to the keyboard slot.
-ETC_20150317_005938	Learn attributes from Master NPCs to make your character stronger.
-ETC_20150317_005939	You can learn the attributes from Master NPC of each class.
+ETC_20150317_005938	Learn attributes from Klassenmeister NPCs to make your character stronger.
+ETC_20150317_005939	You can learn the attributes from Klassenmeister NPC of each class.
 ETC_20150317_005940	{nl} {nl} You need Silber to learn attributes. Also, each attribute requires time to master. {nl} {nl}
 ETC_20150317_005941	Attributes can be used after they have been mastered.
 ETC_20150317_005942	{nl} {nl} Attributes are automatically added when you start learning. Only one attribute can be trained at a time.{nl} {nl}
@@ -6127,7 +6127,7 @@ ETC_20150317_006123	status.
 ETC_20150317_006124	 status will allow you to choose a revival method.
 ETC_20150317_006125	Magie Amulets can be attached to weapons to enhance them.
 ETC_20150317_006126	Installing
-ETC_20150317_006127	and
+ETC_20150317_006127	 und 
 ETC_20150317_006128	You can attach a Magie Amulet to an item.
 ETC_20150317_006129	Magie Amulet slots may vary by piece of equipment.
 ETC_20150317_006130	The attached Magie Amulet can't be removed.
@@ -6418,7 +6418,7 @@ ETC_20150317_006414	Blacksmith Street
 ETC_20150317_006415	Traces of a meeting place
 ETC_20150317_006416	Front Yard
 ETC_20150317_006417	Petrified Garden
-ETC_20150317_006418	Master Craftsman's Street
+ETC_20150317_006418	Klassenmeister Craftsman's Street
 ETC_20150317_006419	Commercial District
 ETC_20150317_006420	Watchtower
 ETC_20150317_006421	Gerove Workshop Site
@@ -6979,7 +6979,7 @@ ETC_20150317_006975	Vacenin
 ETC_20150317_006976	Bokor Disciple (Male 1)
 ETC_20150317_006977	Bokor Disciple (Male 2)
 ETC_20150317_006978	Bokor Disciple (Female)
-ETC_20150317_006979	2D Jäger Master
+ETC_20150317_006979	2D Jäger Klassenmeister
 ETC_20150317_006980	Bokor Mama
 ETC_20150317_006981	Dorf Gentleman 3
 ETC_20150317_006982	Dorf Gentleman 4
@@ -7010,7 +7010,7 @@ ETC_20150317_007006	City Equipment Merchant
 ETC_20150317_007007	City Gegenstand Merchant
 ETC_20150317_007008	City Middle-aged Man
 ETC_20150317_007009	Gegenstand Merchant 1
-ETC_20150317_007010	Jäger Master(data exchange benötigt)
+ETC_20150317_007010	Jäger Klassenmeister(data exchange benötigt)
 ETC_20150317_007011	Desk
 ETC_20150317_007012	Stone rolling
 ETC_20150317_007013	Hiding Monster Box
@@ -7201,8 +7201,8 @@ ETC_20150317_007197	Paladin Follower no instrument c3
 ETC_20150317_007198	Summon Magie Dolls
 ETC_20150317_007199	Florijonas
 ETC_20150317_007200	Begleiter Trader
-ETC_20150317_007201	Elementalist Master
-ETC_20150317_007202	Doppelsoeldner Master
+ETC_20150317_007201	Elementalist Klassenmeister
+ETC_20150317_007202	Doppelsoeldner Klassenmeister
 ETC_20150317_007203	Baby Panto
 ETC_20150317_007204	Crystal Basket
 ETC_20150317_007205	Sleeping Nepenthes
@@ -7242,7 +7242,7 @@ ETC_20150317_007238	Fedimian South Wagon
 ETC_20150317_007239	Female Follower of Austeja 2
 ETC_20150317_007240	Chemist
 ETC_20150317_007241	Pub Waitress
-ETC_20150317_007242	Sleep Stone Master
+ETC_20150317_007242	Sleep Stone Klassenmeister
 ETC_20150317_007243	Machinery
 ETC_20150317_007244	Research Leader
 ETC_20150317_007245	Warp Portal
@@ -7637,7 +7637,7 @@ ETC_20150317_007633	Sekunde Shield of Fedimian
 ETC_20150317_007634	Third Shield of Fedimian
 ETC_20150317_007635	Treat the injured people
 ETC_20150317_007636	Find the document related with Naktis
-ETC_20150317_007637	Bokor Master's Answer
+ETC_20150317_007637	Bokor Klassenmeister's Answer
 ETC_20150317_007638	Open Pyromancer's Box
 ETC_20150317_007639	Crazy but Faithful Archivist
 ETC_20150317_007640	Request of the Archivist (2)
@@ -7704,7 +7704,7 @@ ETC_20150317_007700	Sparnas dominated a brewery
 ETC_20150317_007701	Lost Search Tool
 ETC_20150317_007702	Sow Seeds
 ETC_20150317_007703	Charge the orb with holy magic
-ETC_20150317_007704	Demon Master Tautreemas Sealed 
+ETC_20150317_007704	Demon Klassenmeister Tautreemas Sealed 
 ETC_20150317_007705	Treat the addled Revelators
 ETC_20150317_007706	Suspicious Pot (1)
 ETC_20150317_007707	Suspicious Pot (2)
@@ -7717,18 +7717,18 @@ ETC_20150317_007713	Suspicious Box (2)
 ETC_20150317_007714	Suspicious Woodpiles
 ETC_20150317_007715	Suspicious Wheelchair
 ETC_20150317_007716	Tattoo of Shaiman Shaw
-ETC_20150317_007717	Demon Master Howbuck (1)
-ETC_20150317_007718	Demon Master Howbuck (2)
+ETC_20150317_007717	Demon Klassenmeister Howbuck (1)
+ETC_20150317_007718	Demon Klassenmeister Howbuck (2)
 ETC_20150317_007719	Gabija rescue
 ETC_20150317_007720	Cable Car Near Miss (1)
 ETC_20150317_007721	Cable Car near miss (2)
 ETC_20150317_007722	Retrieve the lever handle latches
 ETC_20150317_007723	Lure Baby Pantos with sugar beets
 ETC_20150317_007724	To Repair a Cable Car (2)
-ETC_20150317_007725	Find the Paladin Master again (1)
-ETC_20150317_007726	Mission of the Paladin Master
+ETC_20150317_007725	Find the Paladin Klassenmeister again (1)
+ETC_20150317_007726	Mission of the Paladin Klassenmeister
 ETC_20150317_007727	Verification Schaden (1)
-ETC_20150317_007728	Pick the herb asked by Cleric Master
+ETC_20150317_007728	Pick the herb asked by Cleric Klassenmeister
 ETC_20150317_007729	Offer worship to the Statue der Göttin Vakarine in Fedimian
 ETC_20150317_007730	Manage the Statue der Göttin Vakarine in Fedimian
 ETC_20150317_007731	Manage the Statue der Göttin Vakarine in Klaipeda
@@ -8813,11 +8813,11 @@ ETC_20150317_008809	You can buy and sell items through the merchants NPCs locate
 ETC_20150317_008810	Return-Tipp
 ETC_20150317_008811	You can return to the quest NPC immediately by using the Backspace key or by pressing the 'Go Back' button.
 ETC_20150317_008812	Attributes-Tipp
-ETC_20150317_008813	You can learn class specific attributes from the Master NPCs. Look for them in each area.
+ETC_20150317_008813	You can learn class specific attributes from the Klassenmeister NPCs. Look for them in each area.
 ETC_20150317_008814	Shiny Monster-Tipp
 ETC_20150317_008815	Shiny Monsters can drop items up to more than ten times than normal monsters.
 ETC_20150317_008816	Dorf-Tipp
-ETC_20150317_008817	Various merchants and Master NPCs for classes can be found in a village.
+ETC_20150317_008817	Various merchants and Klassenmeister NPCs for classes can be found in a village.
 ETC_20150317_008818	Warp move_1-Tipp
 ETC_20150317_008819	You can move to other areas through the Statue der Göttin Vakarine.
 ETC_20150317_008820	Warp move_2-Tipp
@@ -8865,7 +8865,7 @@ ETC_20150317_008861	The durability of equipped items decreases once the characte
 ETC_20150317_008862	Advancement-Tipp
 ETC_20150317_008863	You can advance to the same or a different class once you've reached the maximum class level.
 ETC_20150317_008864	Missions-Tipp
-ETC_20150317_008865	Use the mission item purchased from the Mercenary Post to open a portal to take on a mission.
+ETC_20150317_008865	Use the mission item purchased from the Söldnerposten to open a portal to take on a mission.
 ETC_20150317_008866	Gebiet-Boss-Tipp
 ETC_20150317_008867	A Gebiet-Boss kann manchmal in bestimmten Bereichen erscheinen.
 ETC_20150317_008868	Elemental Properties-Tipp
@@ -9060,22 +9060,22 @@ ETC_20150317_009056	Zubehör Merchant
 ETC_20150317_009057	Announcement (Great Cathedral ad)
 ETC_20150317_009058	Ladies excited
 ETC_20150317_009059	Manage the hide and seek
-ETC_20150317_009060	Highlander Master Room
-ETC_20150317_009061	Pyromancer Master Room
+ETC_20150317_009060	Highlander Klassenmeister Room
+ETC_20150317_009061	Pyromancer Klassenmeister Room
 ETC_20150317_009062	Advancement Quest Trigger of Cryomancer
 ETC_20150317_009063	Holiday Guide
-ETC_20150317_009064	Mercenary Post Manager Rota
+ETC_20150317_009064	Söldnerposten Manager Rota
 ETC_20150317_009065	Hoplite 4th Advancement
 ETC_20150317_009066	Klein Cathedral Ground First Floor
-ETC_20150317_009067	Paladin Master Follower (A)
-ETC_20150317_009068	Paladin Master Follower (B)
-ETC_20150317_009069	Paladin Master Follower (D)
+ETC_20150317_009067	Paladin Klassenmeister Follower (A)
+ETC_20150317_009068	Paladin Klassenmeister Follower (B)
+ETC_20150317_009069	Paladin Klassenmeister Follower (D)
 ETC_20150317_009070	Basement Temple Central Barrier
 ETC_20150317_009071	Lv2 Schatztruhe
 ETC_20150317_009072	Klein Cathedral Underground Sekunde Floor
 ETC_20150317_009073	Klein Cathedral Ground Sekunde Floor
 ETC_20150317_009074	Central Barrier
-ETC_20150317_009075	Paladin Master Follower (F)
+ETC_20150317_009075	Paladin Klassenmeister Follower (F)
 ETC_20150317_009076	Reading Desk illegible
 ETC_20150317_009077	Reading Desk
 ETC_20150317_009078	Dragon Ascent
@@ -9117,7 +9117,7 @@ ETC_20150317_009113	Magie Pot
 ETC_20150317_009114	Philcass Raffly
 ETC_20150317_009115	Jibyu Raffly
 ETC_20150317_009116	Ludas Rafflesia
-ETC_20150317_009117	Paladin Master's Follower
+ETC_20150317_009117	Paladin Klassenmeister's Follower
 ETC_20150317_009118	Gras Attrappe
 ETC_20150317_009119	Peteurisi
 ETC_20150317_009120	Trigger of Hidden Laden Creation
@@ -9175,21 +9175,21 @@ ETC_20150317_009171	Ghost Rüstung Jäger
 ETC_20150317_009172	Specter Jäger
 ETC_20150317_009173	Equipment Trade Point Laden
 ETC_20150317_009174	Soul Peak_1_2
-ETC_20150317_009175	[Ruteelero Master]{nl} Kamiya
-ETC_20150317_009176	[Squire Master]{nl} Justina Legwyn
-ETC_20150317_009177	[Thaumaturge Master]{nl} Larisa
-ETC_20150317_009178	[Elementalist Master]{nl} Wican Celestic
-ETC_20150317_009179	[Scout Master]{nl} Recon Rimgaile
-ETC_20150317_009180	[Sadhu Master]{nl} Agota Hanska
-ETC_20150317_009181	[Wugushi Master]{nl} Wor Pat
-ETC_20150317_009182	[Rogue Master]{nl}         Gema
+ETC_20150317_009175	[Ruteelero Klassenmeister]{nl} Kamiya
+ETC_20150317_009176	[Squire Klassenmeister]{nl} Justina Legwyn
+ETC_20150317_009177	[Thaumaturge Klassenmeister]{nl} Larisa
+ETC_20150317_009178	[Elementalist Klassenmeister]{nl} Wican Celestic
+ETC_20150317_009179	[Scout Klassenmeister]{nl} Recon Rimgaile
+ETC_20150317_009180	[Sadhu Klassenmeister]{nl} Agota Hanska
+ETC_20150317_009181	[Wugushi Klassenmeister]{nl} Wor Pat
+ETC_20150317_009182	[Rogue Klassenmeister]{nl}         Gema
 ETC_20150317_009183	[Gegenstand Merchant]{nl}            Anna
 ETC_20150317_009184	[Equipment Merchant]{nl}                   Yorgis
-ETC_20150317_009185	[Hackapell Master]{nl} Flint Boulder
-ETC_20150317_009186	[Druid Master]{nl}   Gina Greene
+ETC_20150317_009185	[Hackapell Klassenmeister]{nl} Flint Boulder
+ETC_20150317_009186	[Druid Klassenmeister]{nl}   Gina Greene
 ETC_20150317_009187	[Officer]{nl} Dalrine
-ETC_20150317_009188	[Pyromancer Master]{nl} Abreh Melinn
-ETC_20150317_009189	[Highlander Master]{nl}       Douglas Black
+ETC_20150317_009188	[Pyromancer Klassenmeister]{nl} Abreh Melinn
+ETC_20150317_009189	[Highlander Klassenmeister]{nl}       Douglas Black
 ETC_20150317_009190	Highlander Hidden Quest
 ETC_20150317_009191	Practice Post (Fire)
 ETC_20150317_009192	Practice Post (Poison)
@@ -9200,23 +9200,23 @@ ETC_20150317_009196	[Ausrüstungshändler]{nl}                 Dunkel
 ETC_20150317_009197	[Zubehörhändler]{nl}              Ronesa
 ETC_20150317_009198	Klaipeda Goddess Statue
 ETC_20150317_009199	[Schmied]{nl}       Zaras
-ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
-ETC_20150317_009201	[Cryomancer Master]{nl}    Aleister Crowley
-ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler
-ETC_20150317_009203	[Ranger Master]{nl}       Nemoken
-ETC_20150317_009204	[Swordsman Master]{nl}              Rashua
-ETC_20150317_009205	[Wizard Master]{nl}        Lucia
-ETC_20150317_009206	[Archer Master]{nl} Edmundas Tiller
-ETC_20150317_009207	[Cleric Master]{nl}       Rozalija
-ETC_20150317_009208	[Priest Master]{nl}       Boruble
-ETC_20150317_009209	[Krivis Master]{nl}       Herkus
+ETC_20150317_009200	[Peltasta Klassenmeister]{nl}     Maria Leed
+ETC_20150317_009201	[Cryomancer Klassenmeister]{nl}    Aleister Crowley
+ETC_20150317_009202	[Quarrel Shooter Klassenmeister]{nl}              Ream Toiler
+ETC_20150317_009203	[Ranger Klassenmeister]{nl}       Nemoken
+ETC_20150317_009204	[Swordsman Klassenmeister]{nl}              Rashua
+ETC_20150317_009205	[Wizard Klassenmeister]{nl}        Lucia
+ETC_20150317_009206	[Archer Klassenmeister]{nl} Edmundas Tiller
+ETC_20150317_009207	[Cleric Klassenmeister]{nl}       Rozalija
+ETC_20150317_009208	[Priest Klassenmeister]{nl}       Boruble
+ETC_20150317_009209	[Krivis Klassenmeister]{nl}       Herkus
 ETC_20150317_009210	[Auktionator]{nl} Demares
 ETC_20150317_009211	[Auktionshaus Manager]{nl}             Logi
 ETC_20150317_009212	[Begleiter Trader]{nl}            Christina
 ETC_20150317_009213	[Officer]{nl} Dortina
 ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
 ETC_20150317_009215	[Klaipeda's Magie Association]{nl}                              Henrika
-ETC_20150317_009216	[Bokor Master]{nl}Mama Marie Lavoie
+ETC_20150317_009216	[Bokor Klassenmeister]{nl}Mama Marie Lavoie
 ETC_20150317_009217	Scripture of Prediction
 ETC_20150317_009218	Scripture of Earth
 ETC_20150317_009219	Scripture of Rest
@@ -9246,7 +9246,7 @@ ETC_20150317_009242	Central Pillar 6
 ETC_20150317_009243	Central Pillar 7
 ETC_20150317_009244	Central Pillar 8
 ETC_20150317_009245	2F
-ETC_20150317_009246	[Alchemist Master]{nl}            Vaidotas
+ETC_20150317_009246	[Alchemist Klassenmeister]{nl}            Vaidotas
 ETC_20150317_009247	Entrance Purifier
 ETC_20150317_009248	Central Purifier
 ETC_20150317_009249	Passage Purifier
@@ -9335,10 +9335,10 @@ ETC_20150317_009331	Dead Guard
 ETC_20150317_009332	Petrified Tomb Robber
 ETC_20150317_009333	Brazier
 ETC_20150317_009334	Petrifying Monster
-ETC_20150317_009335	Mission of Paladin Master Q
+ETC_20150317_009335	Mission of Paladin Klassenmeister Q
 ETC_20150317_009336	Tree Guard Post Barrier
 ETC_20150317_009337	Pumpura Hill Barrier
-ETC_20150317_009338	[Paladin Master] {nl} Valentinas Naimon
+ETC_20150317_009338	[Paladin Klassenmeister] {nl} Valentinas Naimon
 ETC_20150317_009339	Tenet Church First Floor
 ETC_20150317_009340	Romuva Altar
 ETC_20150317_009341	Romuva Altar Place
@@ -9346,14 +9346,14 @@ ETC_20150317_009342	Summoning Magie Circle
 ETC_20150317_009343	Klein Hive
 ETC_20150317_009344	Source of Corruption
 ETC_20150317_009345	HUEVILLAGE_58_3_MQ04_Trigger for return
-ETC_20150317_009346	[Dievdirbys Master]{nl}      Sculptor Tesla
+ETC_20150317_009346	[Dievdirbys Klassenmeister]{nl}      Sculptor Tesla
 ETC_20150317_009347	Wood Sap Container
 ETC_20150317_009348	Sleeping Upent
 ETC_20150317_009349	Barrel of Explosives
 ETC_20150317_009350	Suspicious Greenery
 ETC_20150317_009351	Old Well
 ETC_20150317_009352	Old Tent
-ETC_20150317_009353	Master Altar Barrier
+ETC_20150317_009353	Klassenmeister Altar Barrier
 ETC_20150317_009354	Demon Barrier
 ETC_20150317_009355	For effects of Circle Arrested
 ETC_20150317_009356	Owl Track
@@ -9370,7 +9370,7 @@ ETC_20150317_009366	ThaumaturgeElementalist5thAdvancementTrigger
 ETC_20150317_009367	npc_paladin_follower3_2/Wandering Merchant/HIDDENSHOP_KATYN13/2130/238/-613/315
 ETC_20150317_009368	Caved Area
 ETC_20150317_009369	The quest for the hidden trigger(for skill checks)
-ETC_20150317_009370	Schwer Master
+ETC_20150317_009370	Schwer Klassenmeister
 ETC_20150317_009371	Dead Corpsman
 ETC_20150317_009372	Scattered Supplies
 ETC_20150317_009373	For summon an owl
@@ -9423,7 +9423,7 @@ ETC_20150317_009419	Disciple's Corpse
 ETC_20150317_009420	Pilgrim's Way Grass
 ETC_20150317_009421	Dead Disciple
 ETC_20150317_009422	Ruklys Memorial Stone
-ETC_20150317_009423	[Cataphract Master]{nl}    Memet Culag
+ETC_20150317_009423	[Cataphract Klassenmeister]{nl}    Memet Culag
 ETC_20150317_009424	Pile of Firewood
 ETC_20150317_009425	Unique Lithograph
 ETC_20150317_009426	Buried Remains
@@ -9431,12 +9431,12 @@ ETC_20150317_009427	Sorcerer, Chronomancer 5th Advancement trigger
 ETC_20150317_009428	Jar of Sacrifice
 ETC_20150317_009429	Destroyed inscription wreckage
 ETC_20150317_009430	Military Backpack
-ETC_20150317_009431	[Fletcher Master]{nl}Visvaldas Black
+ETC_20150317_009431	[Fletcher Klassenmeister]{nl}Visvaldas Black
 ETC_20150317_009432	Abandoned Luggage
 ETC_20150317_009433	Abandoned Bag
 ETC_20150317_009434	Old Chest
-ETC_20150317_009435	[Pardoner Master]{nl}Mistes Goldmund
-ETC_20150317_009436	[Sorcerer Master]{nl}Dame Circe
+ETC_20150317_009435	[Pardoner Klassenmeister]{nl}Mistes Goldmund
+ETC_20150317_009436	[Sorcerer Klassenmeister]{nl}Dame Circe
 ETC_20150317_009437	For the 4th Pardoner Advancement
 ETC_20150317_009438	For the 4th Sorcerer Advancement
 ETC_20150317_009439	Eyes of the Great King
@@ -9493,9 +9493,9 @@ ETC_20150317_009489	Shabby wooden box
 ETC_20150317_009490	Recapture the Eastern Woods (7)
 ETC_20150317_009491	Aras' Commission (6)
 ETC_20150317_009492	Minenarbeiter Dorf Entry (2)
-ETC_20150317_009493	[Sapper Master]{nl} Leonard Quicktongue
-ETC_20150317_009494	[Jäger Master]{nl}    Fiona Ieva
-ETC_20150317_009495	[Barbarian Master]{nl} Walder Junnot
+ETC_20150317_009493	[Sapper Klassenmeister]{nl} Leonard Quicktongue
+ETC_20150317_009494	[Hunter Klassenmeister]{nl}    Fiona Ieva
+ETC_20150317_009495	[Barbarian Klassenmeister]{nl} Walder Junnot
 ETC_20150317_009496	For the 4th Bokor Advancement
 ETC_20150317_009497	Hidden trigger for 5th advancement of Wizard, Pyromancer, Cryomancer
 ETC_20150317_009498	Rankis Seal Tower
@@ -9513,13 +9513,13 @@ ETC_20150317_009509	Crystal Mine unseal track
 ETC_20150317_009510	Versorgungskiste
 ETC_20150317_009511	Wagon Explosion
 ETC_20150317_009512	Hidden house of Krivis
-ETC_20150317_009513	[Psychokino Master]{nl} Ili Terid
-ETC_20150317_009514	[Linker Master]{nl} Winona Ende
+ETC_20150317_009513	[Psychokino Klassenmeister]{nl} Ili Terid
+ETC_20150317_009514	[Linker Klassenmeister]{nl} Winona Ende
 ETC_20150317_009515	Hidden trigger for 5th advancement Psychokino_Linker_Alchemist
 ETC_20150317_009516	Minenmanager Brinker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss Golem Trigger
-ETC_20150317_009519	[Hoplite Master]{nl}    Adidas Baylor
+ETC_20150317_009519	[Hoplite Klassenmeister]{nl}    Adidas Baylor
 ETC_20150317_009520	For Krivis' 4th advancement quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
 ETC_20150317_009522	Maggot
@@ -9753,7 +9753,7 @@ ETC_20150323_009749	Lucky Guy
 ETC_20150323_009750	You've robbed 1 treasure chest.
 ETC_20150323_009751	Treasure Jäger : Beginner
 ETC_20150323_009752	You've robbed 10 treasure chests.
-ETC_20150323_009753	Treasure Jäger : Master
+ETC_20150323_009753	Treasure Jäger : Klassenmeister
 ETC_20150323_009754	You've robbed 100 treasure chests.
 ETC_20150323_009755	Hanaming Kill Count
 ETC_20150323_009757	Gruppen-Quest Count
@@ -10316,7 +10316,7 @@ ETC_20150323_010313	This does not look like a medicine pouch
 ETC_20150323_010314	Soldier who was left behind
 ETC_20150323_010315	Making antidote
 ETC_20150323_010316	Antidote complete! {nl}Give it to Gytis.
-ETC_20150323_010317	Collected all materials. {nl}Mix it into the medicine Jäger Master gave you, to make the antidote.
+ETC_20150323_010317	Collected all materials. {nl}Mix it into the medicine Jäger Klassenmeister gave you, to make the antidote.
 ETC_20150323_010318	Deliver the antidote
 ETC_20150323_010319	Successfully delivered
 ETC_20150323_010320	Failed to deliver
@@ -10403,8 +10403,8 @@ ETC_20150323_010400	Laden Stand
 ETC_20150323_010401	Tree of Faith Notice
 ETC_20150323_010402	Dallas' Body
 ETC_20150323_010403	Pot of boiling medicine
-ETC_20150323_010404	[Chronomancer Master]{nl} Lucid Winterspoon
-ETC_20150323_010405	[Elementalist Master]{nl} Wican Celestic
+ETC_20150323_010404	[Chronomancer Klassenmeister]{nl} Lucid Winterspoon
+ETC_20150323_010405	[Elementalist Klassenmeister]{nl} Wican Celestic
 ETC_20150323_010406	Pile of wood
 ETC_20150323_010407	Farmland49_2
 ETC_20150323_010408	Sack
@@ -10513,7 +10513,7 @@ ETC_20150401_010510	Aurelius
 ETC_20150401_010511	Fedimian Gegenstand Merchant
 ETC_20150401_010512	Fedimian Equipment Merchant
 ETC_20150401_010513	Fedimian Blacksmith
-ETC_20150401_010514	Fedimian Mercenary Post Manager
+ETC_20150401_010514	Fedimian Söldnerposten Manager
 ETC_20150401_010515	Fedimian Zubehör Merchant
 ETC_20150401_010516	Fedimian Manager
 ETC_20150401_010517	Fedimian Dorf Lady
@@ -10798,7 +10798,7 @@ ETC_20150406_010795	The fragment of Nuaele's seal was originally mine. I'll go t
 ETC_20150406_010796	He betrayed? That's absurd.
 ETC_20150406_010797	I can feel it calling..
 ETC_20150406_010798	I can feel a familiar energy..
-ETC_20150406_010799	Sprich mit the Bokor Master!
+ETC_20150406_010799	Sprich mit the Bokor Klassenmeister!
 ETC_20150406_010800	Successfully collected the grape roots
 ETC_20150406_010801	Poison is flowing from the touched grapes.
 ETC_20150406_010802	A Tama hiding near the roots appeared
@@ -11197,7 +11197,7 @@ ETC_20150414_011194	About the Purification
 ETC_20150414_011195	About the Mobilizing Power
 ETC_20150414_011196	About the Baron
 ETC_20150414_011197	You cannot set up a base camp in this area.
-ETC_20150414_011198	[Oracle Master]{nl}Apolonjia Barbora
+ETC_20150414_011198	[Oracle Klassenmeister]{nl}Apolonjia Barbora
 ETC_20150414_011199	[Lagerwächter]{nl}             Rita
 ETC_20150414_011200	Mysterious Box of Legwyn Family
 ETC_20150414_011201	Chapel Altar
@@ -11210,7 +11210,7 @@ ETC_20150414_011207	Klein Dimensional Crack
 ETC_20150414_011208	Unstable Magie Circle
 ETC_20150414_011209	Spell Device
 ETC_20150414_011210	Pilgrim Mathas' Corpse ★
-ETC_20150414_011211	[Falconer Master]{nl} Genklas Metai
+ETC_20150414_011211	[Falconer Klassenmeister]{nl} Genklas Metai
 ETC_20150414_011212	Search Skill Trigger
 ETC_20150428_011213	Night Maiden
 ETC_20150428_011214	Demon Lord Nuaele
@@ -11354,7 +11354,7 @@ ETC_20150428_011351	King Zachariel's Spirit
 ETC_20150428_011352	Buy Sapper Items
 ETC_20150428_011353	Buy Chronomancer Items
 ETC_20150428_011354	Gruppe Mission
-ETC_20150428_011355	Sprich mit Fedimian Mercenary Post Receptionist Ramda to join a party event mission.
+ETC_20150428_011355	Sprich mit Fedimian Söldnerposten Receptionist Ramda to join a party event mission.
 ETC_20150428_011356	Eliminate the helper
 ETC_20150428_011357	Check the Eyes of the Great King
 ETC_20150428_011358	Activate the first sealed device
@@ -11443,7 +11443,7 @@ ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by cli
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a Lagerfeuer, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a Lagerfeuer. {nl} HP, SP, STA is restored quicker when you use a Lagerfeuer.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Starts decreasing a little bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the effects of your equipment.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Gegenstand Merchant in any town. {nl}3) Silber is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
+ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from the Highlander Klassenmeister and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" through the game settings when using a joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Gruppe Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
@@ -11508,7 +11508,7 @@ ETC_20150428_011505	Gegenstand Enhancement Ranking
 ETC_20150428_011506	Acquired Silber Revelator Ranking
 ETC_20150428_011507	Observing the shattered statue
 ETC_20150428_011508	The Reagent does not seem to be properly made!{nl}Tell Gracius.
-ETC_20150428_011509	It seems to be returning to the original sanctuary.{nl}Find the Priest Master.
+ETC_20150428_011509	It seems to be returning to the original sanctuary.{nl}Find the Priest Klassenmeister.
 ETC_20150428_011510	Das Siegel wurde freigelassen.
 ETC_20150428_011511	Unable to release the seal because you are missing the Great King's key.
 ETC_20150428_011512	Failed to protect the statue!
@@ -11591,8 +11591,8 @@ ETC_20150428_011588	Altar-bound Pilgrim's Soul
 ETC_20150428_011589	Merge-bound Soul
 ETC_20150428_011590	Wastebasket
 ETC_20150428_011591	Hidden Schatztruhe
-ETC_20150428_011592	[Monk Master]{nl} Olfas Grimm
-ETC_20150428_011593	[Schwarzer Reiter Master]{nl} Warsis Creak
+ETC_20150428_011592	[Monk Klassenmeister]{nl} Olfas Grimm
+ETC_20150428_011593	[Schwarzer Reiter Klassenmeister]{nl} Warsis Creak
 ETC_20150511_011594	Return to the creation site
 ETC_20150511_011595	DoTimeAction:Picking Niole roots:1:WEEDING:None
 ETC_20150511_011596	Activate the 1st sealed device
@@ -11785,7 +11785,7 @@ ETC_20150714_011782	Defend until the Contract of Flesh has finished burning!
 ETC_20150714_011783	Contract of Flesh
 ETC_20150714_011784	Thanks. Now, they can meet the goddesses.
 ETC_20150714_011785	May the goddesses bless you in the future.
-ETC_20150714_011786	Besiege Master Genie and release the Contract of Spirit!
+ETC_20150714_011786	Besiege Klassenmeister Genie and release the Contract of Spirit!
 ETC_20150714_011787	The Heilig Sphere has been activated!
 ETC_20150714_011788	Defend against attacks from Naktis' servants until the transformation scroll is complete!
 ETC_20150714_011789	This is a restricted area!
@@ -11896,7 +11896,7 @@ ETC_20150714_011893	Uodegos Dock
 ETC_20150714_011894	Flooded District
 ETC_20150714_011895	Sky Tower
 ETC_20150714_011896	Vienti Fortress
-ETC_20150714_011897	Master's Hideout
+ETC_20150714_011897	Klassenmeister's Hideout
 ETC_20150714_011898	Liduna Hall
 ETC_20150714_011899	Room of Lamentation
 ETC_20150714_011900	Maras Stone Chamber
@@ -12336,7 +12336,7 @@ ETC_20150714_012333	The crops that were withered are lively again{nl}Tell this t
 ETC_20150714_012334	The flame was extinguished
 ETC_20150714_012335	You've obtained a Dandel Wing! Put it into the flame and maintain the fire!
 ETC_20150714_012336	You have placed the pot. The monsters are gathering towards it!
-ETC_20150714_012337	You should put the sanctum back to its original position{nl}Go meet with the Priest Master
+ETC_20150714_012337	You should put the sanctum back to its original position{nl}Go meet with the Priest Klassenmeister
 ETC_20150714_012338	Read
 ETC_20150714_012339	You can only make the rubbing after defeating all monsters 
 ETC_20150714_012340	Poisonous effect is present!
@@ -12545,7 +12545,7 @@ ETC_20150714_012542	You have found the seed pouch of Weiss
 ETC_20150714_012543	Nothing was found
 ETC_20150714_012544	Bag doesn't seem to have medicine
 ETC_20150714_012545	Antidote completed!{nl}Hand it over to Gytis
-ETC_20150714_012546	The materials have been all collected{nl}Put the ingredients to the medicine that Jäger Master gave to you to make the antidote
+ETC_20150714_012546	The materials have been all collected{nl}Put the ingredients to the medicine that Jäger Klassenmeister gave to you to make the antidote
 ETC_20150714_012547	Something doesn't feel right!
 ETC_20150714_012548	You can't attack due to magical protective shell
 ETC_20150714_012549	Magical summon crystals are giving the monsters greater power
@@ -13272,7 +13272,7 @@ ETC_20150717_013269	Track a quest by marking the checkbox.
 ETC_20150717_013270	Manage skills with skill points gained on level up.
 ETC_20150717_013271	Press {img F3 40 40} to open your Skill window.
 ETC_20150717_013272	Nach dem lernen eines Skills, wird dieser in der Schnellauswahlleiste angezeigt. Diese kannst du nach deinem Belieben verändern.
-ETC_20150717_013273	Learn attributes by visiting the Class Master NPC of a specific Class.
+ETC_20150717_013273	Learn attributes by visiting the Class Klassenmeister NPC of a specific Class.
 ETC_20150717_013274	Learning attributes will cost Silber and time. {nl} {nl}
 ETC_20150717_013275	You can use the attribute after you've learned it, {nl}but other attributes cannot be learned while you are learning. 
 ETC_20150717_013276	Fähigkeiten die du bereits beherrscht, kannst du aufgelistet im Skill-Fenster finden.
@@ -13286,7 +13286,7 @@ ETC_20150717_013283	You can upgrade each ability by using Status Points.
 ETC_20150717_013284	You can preview the effects from the screen below.
 ETC_20150717_013285	Weiterentwicklung
 ETC_20150717_013286	You can advance to another class when your Class Level has reached 15.
-ETC_20150717_013287	After selecting another class to advance to, you will receive an advancement quest from the Class Master. Complete the quest to advance further.
+ETC_20150717_013287	After selecting another class to advance to, you will receive an advancement quest from the Class Klassenmeister. Complete the quest to advance further.
 ETC_20150717_013288	Once you begin the advancement quest, you cannot change your class until the next advancement.
 ETC_20150717_013289	Wenn du Rang 2 erreicht hast, kannst du Fähigkeiten erlernen.
 ETC_20150717_013290	 von dem Klassen-Meister.
@@ -13445,8 +13445,8 @@ ETC_20150717_013442	Empty NPC for Petrified City
 ETC_20150717_013443	NPC_Kepa_Temporal Use
 ETC_20150717_013444	Hidden Trigger for Petrifying Frost
 ETC_20150717_013445	Boss Hunting Mission
-ETC_20150717_013446	Request Office Mission
-ETC_20150717_013447	Sprich mit Fedimian Mercenary Post Receptionist Ramda at the Mercenary Post to request a mission.
+ETC_20150717_013446	Auftrags Missionen
+ETC_20150717_013447	Sprich mit Fedimian Söldnerposten Receptionist Ramda at the Söldnerposten to request a mission.
 ETC_20150717_013448	DoTimeAction:Looking for the parts:3:SITGROPE:None
 ETC_20150717_013449	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead
 ETC_20150717_013450	Notice:NOTICE_Dm_!:You didn't find anything!:5/NPCDead
@@ -13563,7 +13563,7 @@ ETC_20150717_013560	Let's take a rest for a while
 ETC_20150717_013561	An old book is there
 ETC_20150717_013562	Explosive
 ETC_20150717_013563	Removing the explosive
-ETC_20150717_013564	You've found a Dud Bomb!{nl}Talk with the Sapper Master to know more about this explosive
+ETC_20150717_013564	You've found a Dud Bomb!{nl}Talk with the Sapper Klassenmeister to know more about this explosive
 ETC_20150717_013565	You've found a Dud Bomb!{nl}Use the Tool Box to remove the Dud Bomb
 ETC_20150717_013566	You've removed the Dud Bomb!
 ETC_20150717_013567	Using the tool box
@@ -13922,9 +13922,9 @@ ETC_20150729_013919	The Secret of the Chamber - Wizard type_Conditions
 ETC_20150729_013920	The Secret of the Chamber - Archer type_Conditions
 ETC_20150729_013921	The Secret of the Chamber - Cleric type_Conditions
 ETC_20150729_013922	Obtain Young Leaves from wild grass
-ETC_20150729_013923	Dievdirbys Master's story
-ETC_20150729_013924	Necromancer Master's story
-ETC_20150729_013925	Chronomancer Master's story
+ETC_20150729_013923	Dievdirbys Klassenmeister's story
+ETC_20150729_013924	Necromancer Klassenmeister's story
+ETC_20150729_013925	Chronomancer Klassenmeister's story
 ETC_20150729_013926	Cremate the revived body
 ETC_20150729_013927	Cross Srautas Gorge to go to Gele Plateau
 ETC_20150729_013928	Get rid of the strange aura (1)
@@ -14019,18 +14019,18 @@ ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} Erhöht Physischen Angriff, Kritischer Angriff und die maximale Tragkraft{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
-ETC_20150729_014020	[Doppelsoeldner Master]{nl}          Guerra
+ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}          Guerra
 ETC_20150729_014021	Field Gen x
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
-ETC_20150729_014024	[Centurion Master]{nl}       Krajicek
-ETC_20150729_014025	[Corsair Master]{nl}    Hayraven
+ETC_20150729_014024	[Centurion Klassenmeister]{nl}       Krajicek
+ETC_20150729_014025	[Corsair Klassenmeister]{nl}    Hayraven
 ETC_20150729_014026	Outside
 ETC_20150729_014027	2 Area
 ETC_20150729_014028	Grave Keeper Sigis
 ETC_20150729_014029	Soaring Coffin
 ETC_20150729_014030	Grave Keeper's Chest
-ETC_20150729_014031	[Necromancer Master]{nl}      Loretta Nimbus
+ETC_20150729_014031	[Necromancer Klassenmeister]{nl}      Loretta Nimbus
 ETC_20150730_014032	Maggot
 ETC_20150730_014033	Sienakal Graveyard
 ETC_20150730_014034	As the treasure box opened, faint Petrifying Frost poured out!{nl}Avoid the Petrifying Frost and defeat the monsters!
@@ -14108,7 +14108,7 @@ ETC_20150803_014105	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTI
 ETC_20150803_014106	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
 ETC_20150803_014107	DoTimeAction:Collecting:1:WEEDING:None
 ETC_20150803_014108	Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/Notice:NOTICE_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
-ETC_20150803_014109	Give a present to Scout Master secretly without being caught
+ETC_20150803_014109	Give a present to Scout Klassenmeister secretly without being caught
 ETC_20150803_014110	Give the demons the slip by using temporary flare
 ETC_20150803_014111	Collect Red Leaves
 ETC_20150803_014112	Lure the demons by setting leaf bombs
@@ -14128,9 +14128,9 @@ ETC_20150803_014125	The core of the crystal reacted irregularly and Romor appear
 ETC_20150803_014126	You've obtained the keepsakes from the monsters!
 ETC_20150803_014127	Defend against the curse of the terminal!
 ETC_20150803_014128	Putting it secretly into the pocket
-ETC_20150803_014129	You've put it secretly into the pocket of Scout Master
-ETC_20150803_014130	Since Scout Master suspects you,{nl}try again little later!
-ETC_20150803_014131	Try from the back of Scout Master!
+ETC_20150803_014129	You've put it secretly into the pocket of Scout Klassenmeister
+ETC_20150803_014130	Since Scout Klassenmeister suspects you,{nl}try again little later!
+ETC_20150803_014131	Try from the back of Scout Klassenmeister!
 ETC_20150803_014132	What are you doing?
 ETC_20150803_014133	What, now?
 ETC_20150803_014134	You've told Amanda about the circumstances
@@ -14550,7 +14550,7 @@ ETC_20150918_014547	You've installed the small plant suppressing device
 ETC_20150918_014548	You've failed to send it
 ETC_20150918_014549	There are no objects to make with the parts you have at the moment
 ETC_20150918_014550	This is the place where the Resounding Bomb is already set
-ETC_20150918_014551	You've found the unexploded bomb!{nl}Talk with Sapper Master who knows well about bombs
+ETC_20150918_014551	You've found the unexploded bomb!{nl}Talk with Sapper Klassenmeister who knows well about bombs
 ETC_20150918_014552	Found the unexploded bomb!{nl}Use the toolbox to eliminate the unexploded bomb
 ETC_20150918_014553	Evil Thoughts Stone
 ETC_20150918_014554	The corpse of the believer that fell down
@@ -14643,7 +14643,7 @@ ETC_20150918_014640	Using the Absorption Scroll
 ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
-ETC_20150918_014644	[Rogue Master]{nl}       Gema
+ETC_20150918_014644	[Rogue Klassenmeister]{nl}       Gema
 ETC_20150918_014645	[Gegenstand Merchant]{nl}    Muras
 ETC_20150918_014646	[Equipment Merchant]{nl}    Yorgis
 ETC_20150918_014647	[Schmied]{nl}       Anna
@@ -15106,8 +15106,8 @@ ETC_20151001_015103	You have defeated the demons that were lured!
 ETC_20151001_015104	Ugh...
 ETC_20151001_015105	Ugh, the wound worsened...
 ETC_20151001_015106	The monster appeared underneath the gravestone!
-ETC_20151001_015107	Found the Pardoner Master's book!
-ETC_20151001_015108	This does not seems to be the book of the Pardoner Master
+ETC_20151001_015107	Found the Pardoner Klassenmeister's book!
+ETC_20151001_015108	This does not seems to be the book of the Pardoner Klassenmeister
 ETC_20151001_015109	Setting Romuva of Purification
 ETC_20151001_015110	As you set the Romuva of Purification, the demonic power has weakened
 ETC_20151001_015111	This is the place where Romuva of Purification is already standing!
@@ -16069,7 +16069,7 @@ ETC_20151022_016066	Yellow Dumaro
 ETC_20151022_016067	Blue Wendigo
 ETC_20151022_016068	White Wendigo
 ETC_20151022_016069	Brown Wendigo
-ETC_20151022_016070	Schwer Pell Master
+ETC_20151022_016070	Schwer Pell Klassenmeister
 ETC_20151022_016071	Brown Terra Imp
 ETC_20151022_016072	Lapa Archer
 ETC_20151022_016073	Gosaru
@@ -16144,7 +16144,7 @@ ETC_20151022_016141	Pay Taxes 50 Times
 ETC_20151022_016142	Noblesse Oblige
 ETC_20151022_016143	Paid all the taxes.
 ETC_20151022_016144	Pay Taxes 100 Times
-ETC_20151022_016145	Enhancement Master
+ETC_20151022_016145	Enhancement Klassenmeister
 ETC_20151022_016146	Enhance 1,000 times successfully
 ETC_20151022_016147	Shovel King
 ETC_20151022_016148	Shovel 1,000 times successfully
@@ -16215,7 +16215,7 @@ ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly h
 ETC_20151022_016213	Nestospa Lager
 ETC_20151022_016214	Anastospa Camping Ground
 ETC_20151022_016215	Iborarul Empty Lot
-ETC_20151022_016216	Fencer Master
+ETC_20151022_016216	Fencer Klassenmeister
 ETC_20151022_016217	Elevator01
 ETC_20151022_016218	Elevator02
 ETC_20151022_016219	BonfireQ1
@@ -16445,7 +16445,7 @@ ETC_20151022_016442	[Cleric Klassenmeister]{nl}     Tamara Easton
 ETC_20151022_016443	[Krivis Klassenmeister]{nl}     Mellinda Dicherin
 ETC_20151022_016444	[Priest Klassenmeister]{nl}                Boira
 ETC_20151022_016445	[Bokor Klassenmeister]{nl}      Bobo Icelin
-ETC_20151022_016446	[Sadhu Master]{nl}Agota Hanska
+ETC_20151022_016446	[Sadhu Klassenmeister]{nl}Agota Hanska
 ETC_20151022_016447	[Paladin Klassenmeister]{nl}      Sylvia Naimon
 ETC_20151022_016448	Flameholder
 ETC_20151022_016449	Boss Manager
@@ -16467,7 +16467,7 @@ ETC_20151022_016464	[Kedoran Merchant Alliance]{nl}     Edita
 ETC_20151022_016465	[Kedoran Merchant Alliance]{nl} Margellius
 ETC_20151022_016466	[Kedoran Merchant Alliance]{nl}     Gerda
 ETC_20151022_016467	[Kedoran Merchant Alliance]{nl}   Serapinas
-ETC_20151022_016468	[Fencer Master]{nl}  Sorscha Hutton
+ETC_20151022_016468	[Fencer Klassenmeister]{nl}  Sorscha Hutton
 ETC_20151022_016469	[Barbarian Klassenmeister]{nl}        Twinhal Koreont
 ETC_20151022_016470	[Dievdirbys Klassenmeister]{nl}        Zenoa Gallant
 ETC_20151022_016471	Padded Leg Herb
@@ -16895,10 +16895,10 @@ ETC_20151102_016892	Use Quarrel Shooter Attributes
 ETC_20151102_016893	Hoplite Attributes
 ETC_20151102_016894	Barbarian Attributes
 ETC_20151102_016895	Use Cataphract Attributes
-ETC_20151102_016896	Pyromancer Sub-Master's Advice
-ETC_20151102_016897	Psychokino Master's Advice
-ETC_20151102_016898	Psychokino Master's Advice
-ETC_20151102_016899	Linker Master's Advice
+ETC_20151102_016896	Pyromancer Sub-Klassenmeister's Advice
+ETC_20151102_016897	Psychokino Klassenmeister's Advice
+ETC_20151102_016898	Psychokino Klassenmeister's Advice
+ETC_20151102_016899	Linker Klassenmeister's Advice
 ETC_20151102_016900	Besiege small-sized monster
 ETC_20151102_016901	Besiege medium-sized monster
 ETC_20151102_016902	Besiege Groß-sized monster
@@ -17392,16 +17392,16 @@ ETC_20151102_017389	Namott Sculpture
 ETC_20151102_017390	[Wizard Klassenmeister]{nl}Dejamis
 ETC_20151102_017391	[Pyromancer Klassenmeister]{nl}Cathy Naimos
 ETC_20151102_017392	[Cryomancer Klassenmeister]{nl}Octavia Iflynn
-ETC_20151102_017393	[Psychokino Master]{nl}Ili Terid
-ETC_20151102_017394	[Linker Master]{nl}Winona Ende
+ETC_20151102_017393	[Psychokino Klassenmeister]{nl}Ili Terid
+ETC_20151102_017394	[Linker Klassenmeister]{nl}Winona Ende
 ETC_20151102_017395	[Thaumaturge Klassenmeister]{nl}Diemer Fallon
-ETC_20151102_017396	[Elementalist Master]{nl}Wican Celestic
+ETC_20151102_017396	[Elementalist Klassenmeister]{nl}Wican Celestic
 ETC_20151102_017397	[Archer Klassenmeister]{nl}Gunnison
 ETC_20151102_017398	[Ranger Klassenmeister]{nl}Sheba
 ETC_20151102_017399	[Quarrel Shooter Klassenmeister]{nl}Shorris
 ETC_20151102_017400	[Sapper Klassenmeister]{nl}Zubin Katal
 ETC_20151102_017401	[Jäger Klassenmeister]{nl}Belkin Vellon
-ETC_20151102_017402	[Wugushi Master]{nl}Wor Pat
+ETC_20151102_017402	[Wugushi Klassenmeister]{nl}Wor Pat
 ETC_20151102_017403	[Scout Klassenmeister]{nl}Suina
 ETC_20151102_017404	Experiment Victim (1)
 ETC_20151102_017405	Experiment Victim (2)
@@ -17448,7 +17448,7 @@ ETC_20151224_017445	Poisoned Kepa
 ETC_20151224_017446	It has a poison like the Chinency. However, its poison has a lower effect than the Chinency.
 ETC_20151224_017447	It is a demon form that the souls touched with Evil. The main different is that It has been corrupted to mix demon's soul not human's soul became evil.
 ETC_20151224_017448	Goddess Austeja has been hard to look over the mission, after that, these monsters have been appeared beyond the goddess' power.
-ETC_20151224_017449	Dionia gained the strong spell by Demon Master Bramble. So, it seems originaly transformed to monsters from plants, but it maybe think belong to demons.
+ETC_20151224_017449	Dionia gained the strong spell by Demon Klassenmeister Bramble. So, it seems originaly transformed to monsters from plants, but it maybe think belong to demons.
 ETC_20151224_017450	Dionia is known for his wisdom is week, but he tends to show an affection for his spore only. It's quite strange situation considering the Plant-types.
 ETC_20151224_017451	Almost Golem in the world originally crafted for good purposes, but now, They have been working caused by the evil spirit.
 ETC_20151224_017452	Ellaganos is created with the strong power and form, after the unique undead which mixed with the dead and stone used at the grave over many years.
@@ -17480,7 +17480,7 @@ ETC_20151224_017477	It is not bad that the deformed monsters are like these numb
 ETC_20151224_017478	Despite its appearance, these creatures are not hollow on the inside.
 ETC_20151224_017479	Sorcerers changed these humans who were once a wizard after shown interest in the demon realm.
 ETC_20151224_017480	A lesser demon summoned by its demonic superiors to invade towers.
-ETC_20151224_017481	It was created to protect humans by Dievdirbys Master, but it has been the harmful monsters to change the characteristtics.
+ETC_20151224_017481	It was created to protect humans by Dievdirbys Klassenmeister, but it has been the harmful monsters to change the characteristtics.
 ETC_20151224_017482	Old Status that Goddess' divinity left from here will absorb the demons.
 ETC_20151224_017483	The number of Bagworms is no longer increasing, yet its current population is enough not to worry about extinction.
 ETC_20151224_017484	This kind of monster won't be discovered anymore. But, the number of these monsters that currently exist seems to indicate that there is no worry about extinction.
@@ -17676,7 +17676,7 @@ ETC_20151224_017673	It is certain that Infrogalas is close to Gaigalas, but we h
 ETC_20151224_017674	Imprisoned Infrogalas Archer
 ETC_20151224_017675	A monster that the sorcerers of the devil realm called out using noir. There's a rumor that they use the spirits in the forest after capturing them, but that has yet to be confirmed.
 ETC_20151224_017676	It is not uncommon that the stone statues that are engraved with magical power or parts of architectures move to harm humans. After Medzio Diena, there's no one who think that could be a bit strange.
-ETC_20151224_017677	Cryomancer Master Aleister Crowley
+ETC_20151224_017677	Cryomancer Klassenmeister Aleister Crowley
 ETC_20151224_017678	Until the year after Medzio Diena, people thought that the monsters that turned from the crops that haven't been harvested would not appear again if harvesters were careful. However, they lost their hope when the monsters started growing by themselves. Pumpleflap is an example of this.
 ETC_20151224_017679	Some places in the devil realm are filled with these floating objects in the sky.
 ETC_20151224_017680	Jukotail doesn't walk on it's tail. It is floating in the air and it's insides is empty. But, we don't know if their insides are emptied within a short period of time after it's death.
@@ -18117,15 +18117,15 @@ ETC_20151224_018113	Du kannst 5 Charaktere in deinem Basis-Hütte erstellen, sol
 ETC_20151224_018114	{nl} {nl}Es gibt eine Nachrichten-Box in deinem Hütte,  welche du öffnen kannst.
 ETC_20151224_018115	{nl} {nl}Mit {img mouseclick_right 40 40}, kannst du Häuser von anderen Spielern besuchen.
 ETC_20151224_018116	A Centurion gathers characters together that come within its formation to control them.{nl} {nl}A Centurion will be able to control the characters until they go out of the formation, and characters can always step out of the formation if they want to. 
-ETC_20151224_018117	You can go on missions with your party members through the Mercenary Post in Fedimian.
+ETC_20151224_018117	Du kannst durch den Söldnerposten in Fedimian mit deinen Gruppenmitgliedern auf Missionen gehen.
 ETC_20151224_018118	is located on the left of the merchant.
-ETC_20151224_018119	The Mercenary Post is only available for those who are in a party. Let's go to the Mercenary Post with a party.
-ETC_20151224_018120	{nl} {nl}through Receptionist Liam
-ETC_20151224_018121	Can process.
-ETC_20151224_018122	Only the party leader can accept the party quest. The receptionist Liam recommends the quests based on the party members' progress of the party quest.
-ETC_20151224_018123	You can process the daily quests of each area through the receptionist Ramda
-ETC_20151224_018124	Cannot process.
-ETC_20151224_018125	There are limited number of times for performing.
+ETC_20151224_018119	Der Söldnerposten ist nur für Gruppen verfügbar. Auf geht’s zum Söldnerposten mit einer Gruppe.
+ETC_20151224_018120	{nl}{nl}Durch Rezeptionist Liam kann eine 
+ETC_20151224_018121	 erledigt werden.
+ETC_20151224_018122	Nur der Gruppenleiter kann eine Gruppen-Quest annehmen. Der Rezeptionist Liam empfiehlt die Gruppen-Quests anhand der Gruppenmitglieder zu erledigen.
+ETC_20151224_018123	Du kannst die Täglichen Quests für jedes Gebiet bei Rezeptionistin Ramda annehmen.
+ETC_20151224_018124	 können bei ihm nicht angenommen werden.
+ETC_20151224_018125	können nur ein bestimmtes mal widerholt werden.
 ETC_20151224_018126	Lager
 ETC_20151224_018127	Du kannst nicht benötigte oder wertvolle Gegenstände in dein Lager packen.
 ETC_20151224_018128	Du kannst dein Lager beim Lagerwächter in der Stadt aufsuchen.
@@ -18196,7 +18196,7 @@ ETC_20151224_018192	Wugushi - Poison Pot
 ETC_20151224_018193	A Wugushi is an archer that specializes in using poison.
 ETC_20151224_018194	When you advance to a Wugushi, the Poison Pot located at the bottom right side of your screen,
 ETC_20151224_018195	You are able to craft poison and use them with your skills as a Wugushi.{nl}The ingredients of the poison can be: Poison Liquid or the loot from Insekt-type monsters. 
-ETC_20151224_018196	{nl} {nl}Poison Liquid can be purchased from the Wugushi Master or Wugushi Klassenmeister.
+ETC_20151224_018196	{nl} {nl}Poison Liquid can be purchased from the Wugushi Klassenmeister or Wugushi Klassenmeister.
 ETC_20151224_018197	Cannot find a GUID of the item in the inven.
 ETC_20151224_018198	Cannot load the barrack PC. Check the information.
 ETC_20151224_018199	Failed to initialize the Nexon NGS.
@@ -18442,7 +18442,7 @@ ETC_20151224_018438	Orsha Soldier Male1
 ETC_20151224_018439	Orsha Soldier Male2
 ETC_20151224_018440	TP Trader Leticia
 ETC_20151224_018441	Klein Wooden Chest
-ETC_20151224_018442	Plague Doctor Master
+ETC_20151224_018442	Plague Doctor Klassenmeister
 ETC_20151224_018443	Orsha Soldier Female 2
 ETC_20151224_018444	Orsha Soldier Female 3
 ETC_20151224_018445	Orsha Soldier Female 4
@@ -18542,7 +18542,7 @@ ETC_20151224_018538	Lesser Panda
 ETC_20151224_018539	Gilde erstellen
 ETC_20151224_018540	Kaufe Gilden-Waren
 ETC_20151224_018541	Informiere dich über Scrolls
-ETC_20151224_018542	Informiere dich über den Chaplain Master
+ETC_20151224_018542	Informiere dich über den Chaplain Klassenmeister
 ETC_20151224_018543	Verwende Dragoon Attributes
 ETC_20151224_018544	Verwende Warlock Attributes
 ETC_20151224_018545	Verwende Featherfoot Attributes
@@ -18605,7 +18605,7 @@ ETC_20151224_018601	Recharge the demon power using the vitalities of monsters
 ETC_20151224_018602	Light the fire on the flameholder using the complete flame jewel
 ETC_20151224_018603	Eliminate the Monsters or Demons while holding up the shield
 ETC_20151224_018604	Cure the refugees that fell down
-ETC_20151224_018605	Collect the monster souls which are injected with the Sadu Master's spirit
+ETC_20151224_018605	Collect the monster souls which are injected with the Sadu Klassenmeister's spirit
 ETC_20151224_018606	Search the stuff that will trigger the the defense spell
 ETC_20151224_018607	The first magic bead charged
 ETC_20151224_018608	The Sekunde magic bead charged
@@ -18985,8 +18985,8 @@ ETC_20151224_018981	Einhand-Speer Pistol
 ETC_20151224_018982	Rapier Pistol
 ETC_20151224_018983	Rezept - Protection Barrier Crystal
 ETC_20151224_018984	A Rezept to create a Protection Barrier Crystal
-ETC_20151224_018985	Rezept - Scout Master's Special Medicine
-ETC_20151224_018986	A Rezept to create the Scout Master's special medicine
+ETC_20151224_018985	Rezept - Scout Klassenmeister's Special Medicine
+ETC_20151224_018986	A Rezept to create the Scout Klassenmeister's special medicine
 ETC_20151224_018987	Rezept - Letter Scroll
 ETC_20151224_018988	A Rezept to reveal the hidden letters on the empty scroll
 ETC_20151224_018989	Rezept - Demion Schwer
@@ -19164,7 +19164,7 @@ ETC_20151224_019160	You cannot use the Warpstone right now.
 ETC_20151224_019161	Contains words that cannot be used.
 ETC_20151224_019162	While a shop is open, you cannot delete your character.
 ETC_20151224_019163	Unlimited access to instanced dungeons for 3 days
-ETC_20151224_019164	Reset the number of entrances to instanced dungeons and Mercenary Post missions
+ETC_20151224_019164	Reset the number of entrances to instanced dungeons and Söldnerposten missions
 ETC_20151224_019165	Start the game from the homepage and remove Protection Mode and connect to the game again.
 ETC_20151224_019166	You cannot use this here.
 ETC_20151224_019167	Enter a name for your Angebotebox.
@@ -19888,29 +19888,29 @@ ETC_20151224_019884	Hairstyle17
 ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[TP Händler]{nl}      Leticia
-ETC_20151224_019888	[Templar Master]{nl}Knight Commander Uska
-ETC_20151224_019889	[Cryomancer Master]{nl}  Aleister Crowley
+ETC_20151224_019888	[Templar Klassenmeister]{nl}Knight Commander Uska
+ETC_20151224_019889	[Cryomancer Klassenmeister]{nl}  Aleister Crowley
 ETC_20151224_019890	[Schmied]{nl}    Ilanai
 ETC_20151224_019891	[Ausrüstungshändler]{nl}      Jura
 ETC_20151224_019892	  [Lord of Orsha]{nl}    Inesa Hamondale
 ETC_20151224_019893	[Orsha Bishop]{nl}        Urbonas
 ETC_20151224_019894	[Gegenstandshändler]{nl}             Alf
 ETC_20151224_019895	[Zubehörhändler]{nl}           Jurus
-ETC_20151224_019896	[Hoplite Master]{nl}        Aidas Valor
+ETC_20151224_019896	[Hoplite Klassenmeister]{nl}        Aidas Valor
 ETC_20151224_019897	[Paladin Klassenmeister]{nl}        Silvia Naimon
 ETC_20151224_019898	[Wizard Klassenmeister]{nl}          Dejamis
 ETC_20151224_019899	[Pyromancer Klassenmeister]{nl}        Cathy Naimos
 ETC_20151224_019900	[Cryomancer Klassenmeister]{nl}       Octavia Ifflyn
-ETC_20151224_019901	[Psychokino Master]{nl}       Ili Terid
-ETC_20151224_019902	[Linker Master]{nl}    Winona Ende
+ETC_20151224_019901	[Psychokino Klassenmeister]{nl}       Ili Terid
+ETC_20151224_019902	[Linker Klassenmeister]{nl}    Winona Ende
 ETC_20151224_019903	[Thaumaturge Klassenmeister]{nl}          Diemer Fallon
-ETC_20151224_019904	[Elementalist Master]{nl}         Wican Celestic
+ETC_20151224_019904	[Elementalist Klassenmeister]{nl}         Wican Celestic
 ETC_20151224_019905	[Archer Klassenmeister]{nl}         Gunnison
 ETC_20151224_019906	[Ranger Klassenmeister]{nl}            Sheba
 ETC_20151224_019907	[Quarrel Shooter Klassenmeister]{nl}                 Shorris
 ETC_20151224_019908	[Sapper Klassenmeister]{nl}     Zubin Katal
 ETC_20151224_019909	[Hunter Klassenmeister]{nl}       Belkin Vellon
-ETC_20151224_019910	[Wugushi Master]{nl}          Wor Pat
+ETC_20151224_019910	[Wugushi Klassenmeister]{nl}          Wor Pat
 ETC_20151224_019911	[Scout Klassenmeister]{nl}          Suina
 ETC_20151224_019912	[Begleiter Trader]{nl}            Taurus
 ETC_20151224_019913	[Auktionshaus Manager]{nl}         Tilliana
@@ -19947,24 +19947,24 @@ ETC_20151224_019943	Broken Demonic Power Supply Device
 ETC_20151224_019944	Soggy Book
 ETC_20151224_019945	       [Knights of Kaliss]{nl}Alchemist Salliamornas
 ETC_20151224_019946	[Amanda Tomb Robbers]{nl}        Amanda
-ETC_20151224_019947	  [Cannoneer Master]{nl}Eda Saker Bazaras
-ETC_20151224_019948	[Musketeer Master]{nl}      Alloden Marzarine
+ETC_20151224_019947	  [Cannoneer Klassenmeister]{nl}Eda Saker Bazaras
+ETC_20151224_019948	[Musketeer Klassenmeister]{nl}      Alloden Marzarine
 ETC_20151224_019949	Upper Underground Prison Dungeon Entrance
 ETC_20151224_019950	Mind Control Tower
 ETC_20151224_019951	Black Spirit
 ETC_20151224_019952	Charged Device
 ETC_20151224_019953	Temporary
 ETC_20151224_019954	[Kedoran Merchant Alliance]{nl}     Merrisa
-ETC_20151224_019955	[Sorcerer Master]{nl}    Dame Circe
+ETC_20151224_019955	[Sorcerer Klassenmeister]{nl}    Dame Circe
 ETC_20151224_019956	Fallen Legwyn Family Dungeon-Tafel
 ETC_20151224_019957	Fencer Schwer Pell
-ETC_20151224_019958	[Dragoon Master]{nl}  Valeska Himil
-ETC_20151224_019959	[Kabbalist Master]{nl}    Libgar Hippathia
+ETC_20151224_019958	[Dragoon Klassenmeister]{nl}  Valeska Himil
+ETC_20151224_019959	[Kabbalist Klassenmeister]{nl}    Libgar Hippathia
 ETC_20151224_019960	[Plague Doctor]{nl}Philip Aurellius
 ETC_20151224_019961	[Ruteelero Klassenmeister]{nl}            Trogen
-ETC_20151224_019962	[Cataphract Master]{nl}           Dirk Drigg
-ETC_20151224_019963	[Thaumaturge Master]{nl}         Larisa
-ETC_20151224_019964	[Scout Master]{nl}    Recon Rimgaile
+ETC_20151224_019962	[Cataphract Klassenmeister]{nl}           Dirk Drigg
+ETC_20151224_019963	[Thaumaturge Klassenmeister]{nl}         Larisa
+ETC_20151224_019964	[Scout Klassenmeister]{nl}    Recon Rimgaile
 ETC_20151224_019965	[Wugushi Klassenmeister]{nl}          May Patt
 ETC_20151224_019966	Canyon Gilden-Mission
 ETC_20151224_019967	[Elementalist Klassenmeister]{nl}              Zeddie Berrant
@@ -19978,11 +19978,11 @@ ETC_20151224_019974	Somebody's Diary
 ETC_20151224_019975	[Psychokino Klassenmeister]{nl}          Cielle Gudan
 ETC_20151224_019976	[Linker Klassenmeister]{nl}      Rutedie Kuska
 ETC_20151224_019977	[Hoplite Klassenmeister]{nl}        Vysiege Thurmore
-ETC_20151224_019978	[Shinobi Master]{nl}  Yura Swanjone
-ETC_20151224_019979	Shinobi Master Trigger
+ETC_20151224_019978	[Shinobi Klassenmeister]{nl}  Yura Swanjone
+ETC_20151224_019979	Shinobi Klassenmeister Trigger
 ETC_20151224_019980	Revived Follower
-ETC_20151224_019981	[Warlock Master]{nl}Melanie Melachim
-ETC_20151224_019982	[Featherfoot Master]{nl}  Kyoll Lurawa
+ETC_20151224_019981	[Warlock Klassenmeister]{nl}Melanie Melachim
+ETC_20151224_019982	[Featherfoot Klassenmeister]{nl}  Kyoll Lurawa
 ETC_20151224_019983	The mission will end after 10 minutes.
 ETC_20151224_019984	The mission will end after 5 minutes.
 ETC_20151224_019985	Open the portal to go the den of monsters by collecting yellow spirits
@@ -20275,7 +20275,7 @@ ETC_20160224_020271	There are rumors of a Mothstem appearing among the pilgrims 
 ETC_20160224_020272	The evil energy gathered at Kateen Forest is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Besiege the Blue Woodspirit and protect the soldiers.
 ETC_20160224_020273	The demons invading the Mage Tower are building up their forces. Besiege the Fire Lord that's occupying Mage Tower 2F to demoralize the demons.
 ETC_20160224_020274	Creation Turned Askew
-ETC_20160224_020275	The Dievdirbys Master received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
+ETC_20160224_020275	The Dievdirbys Klassenmeister received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
 ETC_20160224_020276	In A Forgotten Place
 ETC_20160224_020277	A letter arrived from Historian Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Royal Mausoleum of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
 ETC_20160224_020278	Demon Uprising
@@ -20566,7 +20566,7 @@ ETC_20160224_020562	No Options
 ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
 ETC_20160224_020564	You cannot carry more than {MAX} Silber.
 ETC_20160224_020565	Einlösbar bis [{Time}] 
-ETC_20160224_020566	Unexpirable
+ETC_20160224_020566	Noch nicht abgelaufen
 ETC_20160224_020567	Hide
 ETC_20160224_020568	Show
 ETC_20160224_020569	Stat
@@ -20714,7 +20714,7 @@ ETC_20160224_020710	Injured Refugee
 ETC_20160224_020711	Team Battle League{nl}     Valis
 ETC_20160224_020712	[Kedoran Merchant Alliance]{nl}  Relic Collector
 ETC_20160224_020713	Earth Tower Notice Board
-ETC_20160224_020714	[Rune Caster Master]{nl}      Shelly Pennington
+ETC_20160224_020714	[Rune Caster Klassenmeister]{nl}      Shelly Pennington
 ETC_20160224_020715	Team 2 wins
 ETC_20160224_020716	Team 1 wins
 ETC_20160224_020717	Gorkas came running from the Royal Mausoleum Workers Hütte!{nl}Besiege Gorkas!
@@ -21381,12 +21381,12 @@ ETC_20160323_021375	1st Standing Server Belohnung
 ETC_20160323_021376	Free TP + {Wert} until the next refresh of the weekly standings
 ETC_20160323_021377	Re-enter Auto Gruppe Matching
 ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?
-ETC_20160323_021379	[Alchemist Master]{nl}
+ETC_20160323_021379	[Alchemist Klassenmeister]{nl}
 ETC_20160323_021380	Collector
 ETC_20160323_021381	Plateau Zuckerrübenstängel
-ETC_20160323_021382	[Hoplite Master]{nl}    Aidas Valor
+ETC_20160323_021382	[Hoplite Klassenmeister]{nl}    Aidas Valor
 ETC_20160323_021383	3F Purifier
-ETC_20160323_021384	[Barbarian Master]{nl}      Walder Junnot
+ETC_20160323_021384	[Barbarian Klassenmeister]{nl}      Walder Junnot
 ETC_20160323_021385	Catch the Hanaming before the other players!
 ETC_20160323_021386	The battle has begun!{nl}Destroy you opponent's Gildenturm.
 ETC_20160329_021387	{nl}Reduces Potential when equipped.{nl}{nl}Number of Magie Amulets that can be equipped: {Remain}
