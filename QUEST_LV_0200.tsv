@@ -4448,7 +4448,7 @@ QUEST_LV_0200_20150323_004447	The Suspicious Dagger (1)
 QUEST_LV_0200_20150323_004448	The Suspicious Dagger (2)
 QUEST_LV_0200_20150323_004449	I will go see the Ranger Master
 QUEST_LV_0200_20150323_004450	I will go there later
-QUEST_LV_0200_20150323_004451	Antidote (2)
+QUEST_LV_0200_20150323_004451	Gegengift (2)
 QUEST_LV_0200_20150323_004452	Solve the problem
 QUEST_LV_0200_20150323_004453	Tell him about the conditions
 QUEST_LV_0200_20150323_004454	Monster Preying on Military Supplies (1)
@@ -8144,11 +8144,11 @@ QUEST_LV_0200_20150714_008147	Tell him that you would persuade Marko
 QUEST_LV_0200_20150714_008148	Tell him that we should give up
 QUEST_LV_0200_20150714_008149	Everyone Ready?
 QUEST_LV_0200_20150714_008150	Tell him that you would hand them over to him
-QUEST_LV_0200_20150714_008151	Unknown Poison (1)
+QUEST_LV_0200_20150714_008151	Unknown Gift (1)
 QUEST_LV_0200_20150714_008152	Tell him that you would come back fast
 QUEST_LV_0200_20150714_008153	Tell him that it will be better to move to a city
-QUEST_LV_0200_20150714_008154	Unknown Poison (2)
-QUEST_LV_0200_20150714_008155	Unknown Poison (3)
+QUEST_LV_0200_20150714_008154	Unknown Gift (2)
+QUEST_LV_0200_20150714_008155	Unknown Gift (3)
 QUEST_LV_0200_20150714_008156	The Last Material One More Time
 QUEST_LV_0200_20150714_008157	Tell him that you would gather them quickly
 QUEST_LV_0200_20150714_008158	Tell him that you need some time to prepare
@@ -8449,7 +8449,7 @@ QUEST_LV_0200_20150714_008452	You've accepted his suggestion. Now, ask Adrijus h
 QUEST_LV_0200_20150714_008453	How to Eat a Kepa
 QUEST_LV_0200_20150714_008454	Sprich mit Adrijus at The Central Sanctum
 QUEST_LV_0200_20150714_008455	Collect the materials Adrijus requested of you
-QUEST_LV_0200_20150714_008456	Obtain acidic body fluid by throwing Red Poison Bottles at monsters and diluent from the Fedimian Gegenstand Merchant.
+QUEST_LV_0200_20150714_008456	Obtain acidic body fluid by throwing Red Gift Bottles at monsters and diluent from the Fedimian Gegenstand Merchant.
 QUEST_LV_0200_20150714_008457	Hand them over to Adrijus
 QUEST_LV_0200_20150714_008458	Hand over the acidic body fluid and the diluting solution to Adrijus
 QUEST_LV_0200_20150714_008459	Collect %s by throwing red poison bottles at the monsters
@@ -8598,7 +8598,7 @@ QUEST_LV_0200_20150714_008601	Senior Monk Marko is trying his best to retake the
 QUEST_LV_0200_20150714_008602	Sprich mit the monks
 QUEST_LV_0200_20150714_008603	Marko wants you to tell the monks who were sent to the lower area that the Hunters are participating. Meet the monks and talk to them.
 QUEST_LV_0200_20150714_008604	A young monk has collapsed, causing Marko to be very nervous. Jäger Natasha may know a way to improve the status of the young monk.
-QUEST_LV_0200_20150714_008605	Unidentified Poison
+QUEST_LV_0200_20150714_008605	Unidentified Gift
 QUEST_LV_0200_20150714_008606	Jäger Natasha asked your help to find out the ingredients of the poison. Ask her how you could help.
 QUEST_LV_0200_20150714_008607	Collect Chafperor Thorn Venom
 QUEST_LV_0200_20150714_008608	Natasha wants you to bring the samples of three deadly poisons. Please obtain Chafperor Thorn Venom, Toxic Thorn Tree Stump Sap, and Spring Water Venom.
@@ -9800,12 +9800,12 @@ QUEST_LV_0200_20151102_009803	Real Experiences of Elementalist [Elementalist Adv
 QUEST_LV_0200_20151102_009804	What should I do?
 QUEST_LV_0200_20151102_009805	Sapper's Proven Abilities [Sapper Advancement]
 QUEST_LV_0200_20151102_009806	This and That [Jäger Advancement]
-QUEST_LV_0200_20151102_009807	Living Poison [Wugushi Advancement]
+QUEST_LV_0200_20151102_009807	Living Gift [Wugushi Advancement]
 QUEST_LV_0200_20151102_009808	Teach me
 QUEST_LV_0200_20151102_009809	Reconnaissance Duty at Mage Tower [Scout Advancement]
 QUEST_LV_0200_20151102_009810	Controlling Magie Test [Thaumaturge Advancement]
 QUEST_LV_0200_20151102_009811	The Attitude towards the Dark Property [Elementalist Advancement]
-QUEST_LV_0200_20151102_009812	The Master of Poison [Wugushi Advancement]
+QUEST_LV_0200_20151102_009812	The Master of Gift [Wugushi Advancement]
 QUEST_LV_0200_20151102_009813	The Battle Abilities of Scout [Scout Advancement]
 QUEST_LV_0200_20151102_009814	Read all magic books of Psychokino
 QUEST_LV_0200_20151102_009815	Psychokino Master told you that when you read all Psychokino magic books at Mage Tower, it would greatly help you. Come back after reading each Psychokino magic book on each floor.

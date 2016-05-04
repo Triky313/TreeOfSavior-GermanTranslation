@@ -36,7 +36,7 @@ QUEST_JOBSTEP_20150317_000035	Barbarian Master
 QUEST_JOBSTEP_20150317_000036	You can understand an opponent's abilities by facing them sword to sword. {nl}Prove to me that you are a true warrior, and I will lead you in becoming a real Barbarian. 
 QUEST_JOBSTEP_20150317_000037	You indeed qualify as a warrior. {nl}I will make you become a true Barbarian. 
 QUEST_JOBSTEP_20150317_000038	I understand that you want to be stronger with a spear. {nl}Complete the mission I assign to you, and I will teach you my spearmanship.
-QUEST_JOBSTEP_20150317_000039	Please bring me Groll Leder from Spineheart Dale, Chafperor Poison Darts from the Fallen Worry Forest, and Jukopus Black Powder from Minenarbeiter Dorf.
+QUEST_JOBSTEP_20150317_000039	Please bring me Groll Leder from Spineheart Dale, Chafperor Gift Darts from the Fallen Worry Forest, and Jukopus Black Powder from Minenarbeiter Dorf.
 QUEST_JOBSTEP_20150317_000040	I understand your will to become stronger. {nl}I also see that you may have what it takes to be good with spears.
 QUEST_JOBSTEP_20150317_000041	Psychokino Master
 QUEST_JOBSTEP_20150317_000042	If you want to understand Psychokino, then how about you work as my assistant?{nl}I will guarantee you that it is an attractive job.
@@ -430,7 +430,7 @@ QUEST_JOBSTEP_20150317_000429	If you say so, there is a way.{nl}If you could def
 QUEST_JOBSTEP_20150317_000430	I'm following the traces of Evoniphons.{nl}Recent information says that they tested something in the Cathedral.{nl}
 QUEST_JOBSTEP_20150317_000431	Go to the Cathedral right away and get a sample of Moya's fluid. {nl}We'll should know something after examining it.
 QUEST_JOBSTEP_20150317_000432	I'll give you this flare since you're a novice. {nl}It'll help you find the monsters efficiently.
-QUEST_JOBSTEP_20150317_000433	Poison is a two-sided blade, so you should be careful with it. {nl}Especially if you get a finger cut while using poison..
+QUEST_JOBSTEP_20150317_000433	Gift is a two-sided blade, so you should be careful with it. {nl}Especially if you get a finger cut while using poison..
 QUEST_JOBSTEP_20150317_000434	I assume you've come to learn something from me because you have the ability. {nl}To win a duel against me.
 QUEST_JOBSTEP_20150317_000435	Go to the vacant area above the stairs and wait. {nl}I'll be there after finishing this up.
 QUEST_JOBSTEP_20150317_000436	You're faster than you look. {nl}I will teach you my skills from now on, so come anytime.
@@ -1213,7 +1213,7 @@ QUEST_JOBSTEP_20150317_001212	Complete the Mission of an Alchemist [Alchemist Ad
 QUEST_JOBSTEP_20150317_001213	Lens of the Stars [Quarrel Shooter Advancement]
 QUEST_JOBSTEP_20150317_001214	I'll do you this favor
 QUEST_JOBSTEP_20150317_001215	Sounds suspicious, I'll have to decline
-QUEST_JOBSTEP_20150317_001216	Poison Betrayal [Ranger Advancement]
+QUEST_JOBSTEP_20150317_001216	Gift Betrayal [Ranger Advancement]
 QUEST_JOBSTEP_20150317_001217	I will accept the commission
 QUEST_JOBSTEP_20150317_001218	Sprich mit the Barbarian Master
 QUEST_JOBSTEP_20150317_001219	Find the Barbarian Master in East Siauliai Woods.
@@ -1759,7 +1759,7 @@ QUEST_JOBSTEP_20150317_001758	Collect the composite poison
 QUEST_JOBSTEP_20150317_001759	The Wugushi Master gave you an assignment to collect the poison. Collect the poison from Stoulets in the Great Cathedral using temporal tube.
 QUEST_JOBSTEP_20150317_001760	Deliver it to the Wugushi Master
 QUEST_JOBSTEP_20150317_001761	Gathered enough combined poison. Give it to the Wugushi Master,
-QUEST_JOBSTEP_20150317_001762	Get Combined Poison
+QUEST_JOBSTEP_20150317_001762	Get Combined Gift
 QUEST_JOBSTEP_20150317_001763	Go to the Scout Master
 QUEST_JOBSTEP_20150317_001764	Meet the Scout Master in Fedimian
 QUEST_JOBSTEP_20150317_001765	Use Flares to detect monsters and defeat them
@@ -2708,7 +2708,7 @@ QUEST_JOBSTEP_20150714_002707	You have a bad habit on your body, but there's a r
 QUEST_JOBSTEP_20150714_002708	You want to learn skills from me?{nl}I will think about it, if you collect the wood I am looking for.
 QUEST_JOBSTEP_20150714_002709	The level of the strongest Jäger... I am not sure if you could follow well.{nl}I will give you an assignment. Hunt for various types of monsters.
 QUEST_JOBSTEP_20150714_002710	Duckies from Sunset Flag Forest, Black Drakes from the 5th floor of Mage Tower, and Kowaks from Forest of Prayer.{nl}It will not be easy to find them.
-QUEST_JOBSTEP_20150714_002711	If you want to be a stronger Wugushi, I will give you an assignment.{nl}Collect special Poison from Bites in Saknis Plains.
+QUEST_JOBSTEP_20150714_002711	If you want to be a stronger Wugushi, I will give you an assignment.{nl}Collect special Gift from Bites in Saknis Plains.
 QUEST_JOBSTEP_20150714_002712	It is hard to get away from the attraction of poison. I am one of those people.{nl}Okay, then shall we start?
 QUEST_JOBSTEP_20150714_002713	It is your assignment to hunt for the monsters that are hidden.{nl}The location is Apsimesti Crossroads. {nl}You should do it if you want to become a stronger Scount. Don't you think so?
 QUEST_JOBSTEP_20150714_002714	You've done it easily.{nl}Okay then, shall me move on to the Intensified stage?{nl}

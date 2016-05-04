@@ -1413,7 +1413,7 @@ ITEM_20150317_001412	Shine Bracelet
 ITEM_20150317_001413	According to the wearers of this item, one feels as though their life force and vitality are overflowing. 
 ITEM_20150317_001414	Battle Bracelet 
 ITEM_20150317_001415	This bracelet has sadly been used for more battles between humans in the past than battles against monsters. 
-ITEM_20150317_001416	Poison Bangle 
+ITEM_20150317_001416	Gift Bangle 
 ITEM_20150317_001417	This item has been manufactured with various poisons since its origin and, with the Great Plant Cataclysm, materials have become even easier to find. 
 ITEM_20150317_001418	Plants Bracelet 
 ITEM_20150317_001419	After quickly discovering the weaknesses of the Plants, the Winterspoon family has openly been sharing ways to use this information with people. 
@@ -1793,7 +1793,7 @@ ITEM_20150317_001792	Stellt HP und SP alle 2 Sekunden wieder her. {nl}744 HP and
 ITEM_20150317_001793	STA +5 Trank 
 ITEM_20150317_001794	Erhöht deine Ausdauer um 5.
 ITEM_20150317_001795	Red Kepa Piece 
-ITEM_20150317_001796	Inflicts periodic Poison Schaden (Lv1) to the monster when used. 
+ITEM_20150317_001796	Inflicts periodic Gift Schaden (Lv1) to the monster when used. 
 ITEM_20150317_001797	Can be only used on Beast-type monsters. 
 ITEM_20150317_001798	HP Wiederherstellungs-Trank (Klein) 
 ITEM_20150317_001799	SP Wiederherstellungs-Trank (Klein) 
@@ -1803,7 +1803,7 @@ ITEM_20150317_001802	Bewegungsgeschwindigkeits-Trank
 ITEM_20150317_001803	Erhöht die Bewegungsgeschwindigkeit um 5 für 180 Sekunden.{nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit 
 ITEM_20150317_001804	Teleport-Scroll 
 ITEM_20150317_001805	Du kannst dich zu allen aktiven Goddess Statue teleportieren. Deine aktueller Standort wird bei der Goddess Statue gespeichert. 
-ITEM_20150317_001806	Begleiter Food 
+ITEM_20150317_001806	Begleiter Essen 
 ITEM_20150317_001807	Restores Velheider's Stamina by 30.
 ITEM_20150317_001808	Varnalesa 
 ITEM_20150317_001809	Restores 32~35 SP. Easy to acquire.{nl}Rechtsklick zum verwenden. 
@@ -1872,7 +1872,7 @@ ITEM_20150317_001871	Klaipeda Teleport Scroll
 ITEM_20150317_001872	Teleports you to Klaipeda. {nl}Rechtsklick zum verwenden. 
 ITEM_20150317_001873	iCoin Box
 ITEM_20150317_001874	Contains 1 iCoin. {nl}Rechtsklick zum verwenden. 
-ITEM_20150317_001875	Cures the [Poison] status ailment. 
+ITEM_20150317_001875	Heilt den Status [Gift]. 
 ITEM_20150317_001876	Velheider's Food 
 ITEM_20150317_001877	Velheider's favorite food. Completely restores your companion's HP and restores their Stamina by 30. 
 ITEM_20150317_001878	Hoglan's Food 
@@ -2319,7 +2319,7 @@ ITEM_20150317_002318	Altered Sauga Core
 ITEM_20150317_002319	Core that has been modified for greater output. {nl}Obtained from Saugas. 
 ITEM_20150317_002320	Dandel Crystal 
 ITEM_20150317_002321	This crystal formation found inside the plant comes from the solidification of its sap. {nl}Obtained from Dandels. 
-ITEM_20150317_002322	Bagworm Poison 
+ITEM_20150317_002322	Bagworm Gift 
 ITEM_20150317_002323	Not suitable for drinking! {nl}Obtained from Bagworms. 
 ITEM_20150317_002324	Broadhead Pfeil 
 ITEM_20150317_002325	An arrowhead used for hunting. It has a broad edge to assist in hunting. 
@@ -2427,8 +2427,8 @@ ITEM_20150317_002426	This heart is blessed with a great life force, but cursed w
 ITEM_20150317_002427	Glizardon Tail 
 ITEM_20150317_002428	Pure Crystal 
 ITEM_20150317_002429	A gemstone carried by many powerful monsters in the Crystal Mine. {nl}Obtained from Carapace and Specter Monarch. 
-ITEM_20150317_002430	Firewood 
-ITEM_20150317_002431	Used to start a campfire. You can start a campfire while sitting. 
+ITEM_20150317_002430	Brennholz 
+ITEM_20150317_002431	Verwenden um ein Lagerfeuer zu machen. Du kannst ein Lagerfeuer machen wenn du sitzt.
 ITEM_20150317_002432	Lapas Resin 
 ITEM_20150317_002433	Judas Crystal 
 ITEM_20150317_002434	Seed Oil 
@@ -2496,7 +2496,7 @@ ITEM_20150317_002495	Once ripped, it cannot be repaired. {nl}Obtained from Drake
 ITEM_20150317_002496	Drape Poisoned Needle 
 ITEM_20150317_002497	Lafsave Leaf 
 ITEM_20150317_002498	Obtained from Lafsaves. 
-ITEM_20150317_002499	Rafflesia Poison Extract 
+ITEM_20150317_002499	Rafflesia Gift Extract 
 ITEM_20150317_002500	Obtained from Black Rafflesias. 
 ITEM_20150317_002501	Rambear Bones 
 ITEM_20150317_002502	Ravinelarvae Acid Sap 
@@ -2877,7 +2877,7 @@ ITEM_20150317_002876	Great King's Key
 ITEM_20150317_002877	A key used for releasing the seal of Great King Zachariel. 
 ITEM_20150317_002878	Groll's Leder 
 ITEM_20150317_002879	One of the task requirements by the Hoplite Master. Looks extremely sturdy. 
-ITEM_20150317_002880	Chafperor's Poison Dart 
+ITEM_20150317_002880	Chafperor's Gift Dart 
 ITEM_20150317_002881	One of the task requirements by the Hoplite Master. It would be fatal to be stabbed by it. 
 ITEM_20150317_002882	Jukopus' Black Powder 
 ITEM_20150317_002883	One of the task requirements by the Hoplite Master. It scatters at the slightest breath. 
@@ -3017,7 +3017,7 @@ ITEM_20150317_003016	A pouch full of strange pills. These  fills Vubbes with cou
 ITEM_20150317_003017	Astral Tower Lens 
 ITEM_20150317_003018	A telescope lens used at the Astral Tower. 
 ITEM_20150317_003019	Bat Venom Sample 
-ITEM_20150317_003020	Poison sample from bats. 
+ITEM_20150317_003020	Gift sample from bats. 
 ITEM_20150317_003021	Strangely Engraved Stone
 ITEM_20150317_003022	A stone carried by the Hogmas. It attracts monsters. 
 ITEM_20150317_003023	Hogma Amulet
@@ -3184,7 +3184,7 @@ ITEM_20150317_003183	Loot Bag
 ITEM_20150317_003184	The Saugas store their loot in bags. They share their loot equally. 
 ITEM_20150317_003185	Archaeologist Token 
 ITEM_20150317_003186	A very ancient looking token of an archaeologist. 
-ITEM_20150317_003187	Woodfung Poison 
+ITEM_20150317_003187	Woodfung Gift 
 ITEM_20150317_003188	The highly toxic poison of a Woodfung. It releases this poison into the air when frightened. 
 ITEM_20150317_003189	Bucket 
 ITEM_20150317_003190	Valley Bomb (Disposable) 
@@ -3413,7 +3413,7 @@ ITEM_20150317_003412	Grime-Encrusted Tree
 ITEM_20150317_003413	There is a clear sound coming from one of these trees. Let's knock on the tree and investigate.
 ITEM_20150317_003414	Simple Tube
 ITEM_20150317_003415	A simple tube that can shoot a neruotoxin dart.
-ITEM_20150317_003416	Synthetic Poison
+ITEM_20150317_003416	Synthetic Gift
 ITEM_20150317_003417	A special poison made from a Stoulet's bodily fluids. It only reacts with the neurotoxin dart used with the Simple Tube. 
 ITEM_20150317_003418	Phalanx Tactics
 ITEM_20150317_003419	An easy tactic made for beginner Centurions, it is nonetheless difficult to remember without practice. 
@@ -4112,7 +4112,7 @@ ITEM_20150323_004111	A bottle that is 1/3 full with a Keposeed's evil energy
 ITEM_20150323_004112	A bottle that is 2/3 full with a Keposeed's evil energy
 ITEM_20150323_004113	A bottle filled with a Keposeed's evil energy
 ITEM_20150323_004114	Sekunde Empty Bottle 
-ITEM_20150323_004115	Poison Bottle
+ITEM_20150323_004115	Gift Bottle
 ITEM_20150323_004116	A bottle filled with poison gathered from monsters given by Wizard Apprentice Limas.
 ITEM_20150323_004117	Klein Stone Statue's Head 
 ITEM_20150323_004118	The head of a small stone statue. 
@@ -4138,8 +4138,8 @@ ITEM_20150323_004137	Wooden Stick
 ITEM_20150323_004138	A wooden stick cut from nearby fences.
 ITEM_20150323_004139	Stone
 ITEM_20150323_004140	Hard stone obtained from monsters.
-ITEM_20150323_004141	Monster's Poison Jar.
-ITEM_20150323_004142	Full Poison Jar 
+ITEM_20150323_004141	Monster's Gift Jar.
+ITEM_20150323_004142	Full Gift Jar 
 ITEM_20150323_004143	A jar full of a monster's poison. 
 ITEM_20150323_004144	Plow ★
 ITEM_20150323_004145	Plow
@@ -4215,8 +4215,8 @@ ITEM_20150323_004214	Drake Horn Piece
 ITEM_20150323_004215	A piece of a horn obtained from the body of the Drake. Give it to the private officer as evidence. 
 ITEM_20150323_004216	Stolen Grain Bag
 ITEM_20150323_004217	A stolen bag of grain that the soldiers at Shaton Farm took as a bribe. 
-ITEM_20150323_004218	Druid's Antidote 
-ITEM_20150323_004219	Druid's special Antidote to neutralize the poison of grapes.
+ITEM_20150323_004218	Druid's Gegengift 
+ITEM_20150323_004219	Druid's special Gegengift to neutralize the poison of grapes.
 ITEM_20150323_004220	Obedience Stick
 ITEM_20150323_004221	A wooden branch containing Druidic powers. It is said that it can subdue monsters. 
 ITEM_20150323_004222	Druid's Empty Stone Bogenl 
@@ -4239,20 +4239,20 @@ ITEM_20150323_004238	Tough Orange Sakmoli Stem
 ITEM_20150323_004239	Pink Chupaluka Heart
 ITEM_20150323_004240	Pyromancer's Requested Monster Sample 
 ITEM_20150323_004241	Pyromancer's Research Material 
-ITEM_20150323_004242	Frenzy Antidote 
+ITEM_20150323_004242	Frenzy Gegengift 
 ITEM_20150323_004243	Magie Circle Inscribed Leder 
 ITEM_20150323_004244	Fragment from when you destroyed the altar. 
 ITEM_20150323_004245	Jäger Master's Detox Solvent
 ITEM_20150323_004246	Ridimed Leaf 
 ITEM_20150323_004247	An ingredient to make an antidote 
-ITEM_20150323_004248	Mysterious Poison 
-ITEM_20150323_004249	Poison which came out of an unidentified dagger. 
+ITEM_20150323_004248	Mysterious Gift 
+ITEM_20150323_004249	Gift which came out of an unidentified dagger. 
 ITEM_20150323_004250	A scarecrow created by Louise 
 ITEM_20150323_004251	Monster Suppression Device 
 ITEM_20150323_004252	Apparatus for suppressing plant growth. 
 ITEM_20150323_004253	Klein Plant Control Device 
 ITEM_20150323_004254	A plant control device given to you by Researcher Gareth.
-ITEM_20150323_004255	Antidote Rezept
+ITEM_20150323_004255	Gegengift Rezept
 ITEM_20150323_004256	An atidote recipe written by the Jäger Master.
 ITEM_20150323_004257	Black Ridimed Essence
 ITEM_20150323_004258	Vermilion Sharkmolly Essence 
@@ -4762,7 +4762,7 @@ ITEM_20150414_004761	A seed pouch stolen by monsters. There are nibble marks on 
 ITEM_20150414_004762	An unidentifiable lump of meat. Smells fishy. 
 ITEM_20150414_004763	A small Goddess Statue restored by refusing its lost, scattered fragments piece by piece. 
 ITEM_20150414_004764	Wizard's Urn 
-ITEM_20150414_004765	Dry Firewood 
+ITEM_20150414_004765	Dry Brennholz 
 ITEM_20150414_004766	Thoroughly dried firewood. 
 ITEM_20150414_004767	Well-seasoned timber that would make a strong fence. 
 ITEM_20150414_004768	A dagger which was placed on top of a piece of leather carved with a magic circle. Something about it feels ominous. 
@@ -4786,7 +4786,7 @@ ITEM_20150414_004785	A monster sample requested by the Pyromancer. It is still w
 ITEM_20150414_004786	An antidote that can heal the poisoned miners. The Jäger Master knows the recipe. 
 ITEM_20150414_004787	Leder carved with an unknown symbol. It looks like a magic circle. 
 ITEM_20150414_004788	A Trank obtained from the Jäger Master. It makes an antidote when mixed with a Rimedeed Leaf.  
-ITEM_20150414_004789	Poison from an unidentified dagger. It seems to be related with the leather marked with a magic circle. 
+ITEM_20150414_004789	Gift from an unidentified dagger. It seems to be related with the leather marked with a magic circle. 
 ITEM_20150414_004790	A device that controls the growth of monsters. It seems to also work on crops. 
 ITEM_20150414_004791	An antidote recipe written by the Jäger Master. Combine the detoxifying solvent with the Rimedeed Leaf. 
 ITEM_20150414_004792	Charlotte's Special Trank 
@@ -5286,7 +5286,7 @@ ITEM_20150714_005285	Carcashu Seeds
 ITEM_20150714_005286	Glizardon Horn 
 ITEM_20150714_005287	Varb Hard Shell 
 ITEM_20150714_005288	Zinutekas Strong Horn 
-ITEM_20150714_005289	Monster Poison 
+ITEM_20150714_005289	Monster Gift 
 ITEM_20150714_005290	Varb Resin 
 ITEM_20150714_005291	Zinutekas Tail Fragment 
 ITEM_20150714_005292	Boowook Activation Core 
@@ -5351,7 +5351,7 @@ ITEM_20150714_005350	Pas-de-warp order to give you the future master. Sanctuary 
 ITEM_20150714_005351	Monster have collected a variety of tools stolen from humans. It should be possible to find a rubbing tool here when searching properly. 
 ITEM_20150714_005352	Monster Leder Paper 
 ITEM_20150714_005353	A thin membrane that can be used as a substitute for paper. 
-ITEM_20150714_005354	Red Poison Bottle 
+ITEM_20150714_005354	Red Gift Bottle 
 ITEM_20150714_005355	It can turn body fluids into acids. Be careful not to touch it. 
 ITEM_20150714_005356	Acidic Body Fluid 
 ITEM_20150714_005357	Body fluid of a monster that has turned into an acid. Handle it carefully. 
@@ -6409,7 +6409,7 @@ ITEM_20150918_006408	A special oil to burn the Owl Sculpture which has unfortuna
 ITEM_20150918_006409	A wheat box containing a small number of grains. The box has been ripped apart.
 ITEM_20150918_006410	A pocket which contains the strange medicine. When the Vubbes consume it, they become brave, but if humans consume it, they will have stomachache.
 ITEM_20150918_006411	A telescope lens used at the Astral Tower.
-ITEM_20150918_006412	Poison sample from bats.
+ITEM_20150918_006412	Gift sample from bats.
 ITEM_20150918_006413	A stone carried by the Hogmas. It attracts monsters.
 ITEM_20150918_006414	Friedka believes that this amulet is the key to the ruin's secrets.
 ITEM_20150918_006415	Supplies of the unit which Lynt is a part of. A Wendigo ran away with it.
@@ -6910,7 +6910,7 @@ ITEM_20150918_006909	An antidote that can heal the poisoned miners. The Jäger M
 ITEM_20150918_006910	Leder carved with an unknown symbol. It looks like a magic circle.
 ITEM_20150918_006911	A Trank obtained from the Jäger Master. It makes an antidote when mixed with a Ridimed Leaf.
 ITEM_20150918_006912	An ingredient to make an antidote
-ITEM_20150918_006913	Poison from an unidentified dagger. It seems to be related with the leather marked with a magic circle.
+ITEM_20150918_006913	Gift from an unidentified dagger. It seems to be related with the leather marked with a magic circle.
 ITEM_20150918_006914	A scarecrow created by Louise
 ITEM_20150918_006915	A device that controls the growth of monsters. It seems to also work on crops.
 ITEM_20150918_006916	An antidote recipe written by the Jäger Master. Combine the detoxifying solvent with the Ridimed Leaf.
@@ -7589,7 +7589,7 @@ ITEM_20151022_007588	Blue Orb: Catacombs Candle Spider
 ITEM_20151022_007589	Blue Orb: Catacombs Mushcarfung
 ITEM_20151022_007590	Blue Orb: Catacombs Maggot
 ITEM_20151022_007591	Blue Orb: Catacombs Leaf Bug
-ITEM_20151022_007592	Blue Orb: Cronewt Poison Needler
+ITEM_20151022_007592	Blue Orb: Cronewt Gift Needler
 ITEM_20151022_007593	Blue Orb: Spoiled Coliflower Archer
 ITEM_20151022_007594	Blue Orb: Tontus
 ITEM_20151022_007595	Blue Orb: Dandel
@@ -7967,7 +7967,7 @@ ITEM_20151022_007966	Red Orb: Catacombs Candle Spider
 ITEM_20151022_007967	Red Orb: Catacombs Mushcarfung
 ITEM_20151022_007968	Red Orb: Catacombs Maggot
 ITEM_20151022_007969	Red Orb: Catacombs Leaf Bug
-ITEM_20151022_007970	Red Orb: Cronewt Poison Needler
+ITEM_20151022_007970	Red Orb: Cronewt Gift Needler
 ITEM_20151022_007971	Red Orb: Spoiled Coliflower Archer
 ITEM_20151022_007972	Red Orb: Tontus
 ITEM_20151022_007973	Red Orb: Dandel
@@ -8411,8 +8411,8 @@ ITEM_20151102_008410	Flask that can hold in spiritual powers.
 ITEM_20151102_008411	Bomb material wanted by the Sapper Klassenmeister. Not sure if it actually can be used to make a bomb.
 ITEM_20151102_008412	Jäger's Pass
 ITEM_20151102_008413	A symbol that shows that you've passed the Jäger's test.
-ITEM_20151102_008414	Wugushi Poison
-ITEM_20151102_008415	Poison formed during the process of decay of a dead body.
+ITEM_20151102_008414	Wugushi Gift
+ITEM_20151102_008415	Gift formed during the process of decay of a dead body.
 ITEM_20151102_008416	Crystal of Twisted Souls
 ITEM_20151102_008417	A crystal formed from a fusion between a monster and a grudging soul.
 ITEM_20151102_008418	Shard of Chaotic Emotions
@@ -8564,7 +8564,7 @@ ITEM_20151224_008563	Both the attack and defense are good.
 ITEM_20151224_008564	Wreech Bogen
 ITEM_20151224_008565	Superior Wreech Bogen
 ITEM_20151224_008566	This bow has been used by hunters for a long time and the use of the bow has been increased after Medzio Diena.
-ITEM_20151224_008567	 - 2% chance to inflict [Poison] on an enemy for 20 Sekunden with a Basis attack
+ITEM_20151224_008567	 - 2% chance to inflict [Gift] on an enemy for 20 Sekunden with a Basis attack
 ITEM_20151224_008568	Soldier's Short Bogen
 ITEM_20151224_008569	Marksman
 ITEM_20151224_008570	 - Attacks will reduce an enemy's critical resistance by {img red_down_arrow 16 16} 8 for 20 Sekunden (Max Stacks: 20)
@@ -8784,8 +8784,8 @@ ITEM_20151224_008783	Fire Property Resistance Trank
 ITEM_20151224_008784	Increases your Fire property resistance by 30 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 90 Sekunden.
 ITEM_20151224_008785	Ice Property Resistance Trank
 ITEM_20151224_008786	Increases your Ice property resistance by 30 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 90 Sekunden.
-ITEM_20151224_008787	Poison Property Resistance Trank
-ITEM_20151224_008788	Increases your Poison property resistance by 30 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 90 Sekunden.
+ITEM_20151224_008787	Gift Property Resistance Trank
+ITEM_20151224_008788	Increases your Gift property resistance by 30 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 90 Sekunden.
 ITEM_20151224_008789	Earth Property Resistance Trank
 ITEM_20151224_008790	Increases your Earth property resistance by 30 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 90 Sekunden.
 ITEM_20151224_008791	Lightning Property Resistance Trank
@@ -9602,7 +9602,7 @@ ITEM_20151224_009601	An orb that can detect the flow of spells. Who could have m
 ITEM_20151224_009602	A flask for collecting spiritual energy. It feels a bit creepy.
 ITEM_20151224_009603	Delmore Outskirts Gun Powder
 ITEM_20151224_009604	Gun powder made in the outskirts of Delmore, requested by the Sapper Klassenmeister. Where could the civilians have gone?
-ITEM_20151224_009605	Wugushi Poison Bottle
+ITEM_20151224_009605	Wugushi Gift Bottle
 ITEM_20151224_009606	A bottle that can carry poison extracted from corpses. Uhm... What?
 ITEM_20151224_009607	A jar that can capture poisonous monsters.
 ITEM_20151224_009608	A record book used by Scouts for reconnaissance missions. Obvious eraser marks can be seen.
@@ -9889,7 +9889,7 @@ ITEM_20160224_009888	Lightning Siege Bogen
 ITEM_20160224_009889	Vienie Sniper Bogen
 ITEM_20160224_009890	Earth Skull Bogen
 ITEM_20160224_009891	Lumas Bogen
-ITEM_20160224_009892	Poison Wooden Compound Bogen
+ITEM_20160224_009892	Gift Wooden Compound Bogen
 ITEM_20160224_009893	Futere Tag Bogen
 ITEM_20160224_009894	Vienie Rogue Bogen
 ITEM_20160224_009895	Hunting Wreech Bogen
@@ -10070,7 +10070,7 @@ ITEM_20160224_010069	Gibt 2420348 Charakter EXP und 1863667 Klassen EXP. {nl}Rec
 ITEM_20160224_010070	Set up a structure that increases magic attack by 30 for 24 hours to all guild members. Can only be set up in the Guild Hangout.
 ITEM_20160224_010071	Set up a structure that increases physical attack by 30 for 24 hours to all guild members. Can only be set up in the Guild Hangout.
 ITEM_20160224_010072	The Academy provides an effect that increases the INT of all guild members. Can only be used in the Guild Hangout.
-ITEM_20160224_010073	Basis Antidote
+ITEM_20160224_010073	Basis Gegengift
 ITEM_20160224_010074	Warm Bread Roll
 ITEM_20160224_010075	Strange Trank
 ITEM_20160224_010076	Attack Boost Trank: Stab
@@ -10085,8 +10085,8 @@ ITEM_20160224_010084	Attack Boost Trank: Fire
 ITEM_20160224_010085	Increases attack of the Fire property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010086	Attack Boost Trank: Ice
 ITEM_20160224_010087	Increases attack of the Ice property against characters by 5% for 5 minutes. Stacks up to 10 times.
-ITEM_20160224_010088	Attack Boost Trank: Poison
-ITEM_20160224_010089	Increases attack of the Poison property against characters by 5% for 5 minutes. Stacks up to 10 times.
+ITEM_20160224_010088	Attack Boost Trank: Gift
+ITEM_20160224_010089	Increases attack of the Gift property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010090	Attack Boost Trank: Lightning
 ITEM_20160224_010091	Increases attack of the Lightning property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010092	Attack Boost Trank: Earth
@@ -10107,8 +10107,8 @@ ITEM_20160224_010106	Defense Boost Trank: Fire
 ITEM_20160224_010107	Increases defense of the Fire property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010108	Defense Boost Trank: Ice
 ITEM_20160224_010109	Increases defense of the Ice property against characters by 5% for 5 minutes. Stacks up to 10 times.
-ITEM_20160224_010110	Defense Boost Trank: Poison
-ITEM_20160224_010111	Increases defense of the Poison property against characters by 5% for 5 minutes. Stacks up to 10 times.
+ITEM_20160224_010110	Defense Boost Trank: Gift
+ITEM_20160224_010111	Increases defense of the Gift property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010112	Defense Boost Trank: Lightning
 ITEM_20160224_010113	Increases defense of the Lightning property against characters by 5% for 5 minutes. Stacks up to 10 times.
 ITEM_20160224_010114	Defense Boost Trank: Earth

@@ -1013,7 +1013,7 @@ ETC_20150317_001012	Orange Infrorocktor
 ETC_20150317_001013	Big Black Griba
 ETC_20150317_001014	Black Desmodus
 ETC_20150317_001015	Black Wood Goblin
-ETC_20150317_001016	Poison Pot
+ETC_20150317_001016	Gift Pot
 ETC_20150317_001017	Mischievous Spion
 ETC_20150317_001018	Corroded Shtayim
 ETC_20150317_001019	Hungry Lauzinute
@@ -1026,7 +1026,7 @@ ETC_20150317_001025	It has been said that Helgasercle was made by the servants o
 ETC_20150317_001026	Abysmal Pawndel
 ETC_20150317_001027	Hard Golemlet
 ETC_20150317_001028	Schwer Pell (Fire)
-ETC_20150317_001029	Schwer Pell (Poison)
+ETC_20150317_001029	Schwer Pell (Gift)
 ETC_20150317_001030	Schwer Pell (Lightning)
 ETC_20150317_001031	Schwer Pell (Earth)
 ETC_20150317_001032	Creepy Chapparition
@@ -1090,7 +1090,7 @@ ETC_20150317_001089	Old Orange Hook
 ETC_20150317_001090	Orange Crabil
 ETC_20150317_001091	Orange Canceril
 ETC_20150317_001092	Orange Merog Shaman
-ETC_20150317_001093	Green Merog Poison Stinger
+ETC_20150317_001093	Green Merog Gift Stinger
 ETC_20150317_001094	Orange Hamming
 ETC_20150317_001095	Orange Mushcaria
 ETC_20150317_001096	Orange Stone Whale
@@ -1142,8 +1142,8 @@ ETC_20150317_001141	Fedimian Territory
 ETC_20150317_001142	City
 ETC_20150317_001143	Klaipeda Region
 ETC_20150317_001144	Klaipeda
-ETC_20150317_001145	Highlander Klassenmeister's Training Hall
-ETC_20150317_001146	Bokor Klassenmeister's Home
+ETC_20150317_001145	Highlander Klassenmeister's Trainingshalle
+ETC_20150317_001146	Bokor Klassenmeister's Haus
 ETC_20150317_001147	Pyromancer Klassenmeister's Lab
 ETC_20150317_001148	Söldnerposten
 ETC_20150317_001149	Royal Territory
@@ -2377,7 +2377,7 @@ ETC_20150317_002376	First space
 ETC_20150317_002377	Sekunde space 
 ETC_20150317_002378	Third space 
 ETC_20150317_002379	Fourth space 
-ETC_20150317_002380	Firewood
+ETC_20150317_002380	Brennholz
 ETC_20150317_002381	Please lead to the goddess.
 ETC_20150317_002382	Absorbed the energy of the guardian
 ETC_20150317_002383	Moving.
@@ -4780,12 +4780,12 @@ ETC_20150317_004775	There is no PC
 ETC_20150317_004776	I drink a visible pollen stimulants
 ETC_20150317_004777	Matsum appeared from the thorn flowers!
 ETC_20150317_004778	Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum_Big: Meshumuma: 51
-ETC_20150317_004779	Regarding the five goddesses
-ETC_20150317_004780	Über Goddess Ausrine
-ETC_20150317_004781	Über Goddess Laima
-ETC_20150317_004782	Über Goddess Gabija
-ETC_20150317_004783	Über Goddess Zemyna
-ETC_20150317_004784	Über Goddess Vakarine
+ETC_20150317_004779	Hinsichtlich der Fünf Göttinnen
+ETC_20150317_004780	Über Göttin Ausrine
+ETC_20150317_004781	Über Göttin Laima
+ETC_20150317_004782	Über Göttin Gabija
+ETC_20150317_004783	Über Göttin Zemyna
+ETC_20150317_004784	Über Göttin Vakarine
 ETC_20150317_004785	Informiere dich über Medzio Diena
 ETC_20150317_004786	Frag was als nächstest passiert
 ETC_20150317_004787	Du hast einen Hebelgriff Riegel gefunden!
@@ -5027,20 +5027,20 @@ ETC_20150317_005022	The Mausoleum lanterns are being attacked by the guardians!
 ETC_20150317_005023	Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Speerman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	Herstellung
-ETC_20150317_005026	A Revelator?
-ETC_20150317_005027	Ask about the current situation
-ETC_20150317_005028	Ask about Medzio Diena
-ETC_20150317_005029	Ask about the disappearance of the goddesses
-ETC_20150317_005030	Ask what happened
-ETC_20150317_005031	I think you forgot to mention the Goddess Laima
-ETC_20150317_005032	You found a map with the King's Seal!
+ETC_20150317_005026	Ein Prophet?
+ETC_20150317_005027	Frage nach der aktuellen Situation
+ETC_20150317_005028	Frage nach Medzio Diena
+ETC_20150317_005029	Informiere dich über das Verschwinden der Göttinnen
+ETC_20150317_005030	Frag was passiert ist
+ETC_20150317_005031	Ich glaube du hast vergessen Göttin Laima zu erwähnen
+ETC_20150317_005032	Du hast eine Karte mit dem Königssiegel gefunden!
 ETC_20150317_005033	The villagers were demons. {nl}Escape through the portal at Grassy Brookside!
-ETC_20150317_005034	About the Mage Tower
-ETC_20150317_005035	About the Cursed City
-ETC_20150317_005036	About Fedimian
+ETC_20150317_005034	Über den Mage Tower
+ETC_20150317_005035	Über die Cursed City
+ETC_20150317_005036	Über Fedimian
 ETC_20150317_005037	About the Great Cathedral
-ETC_20150317_005038	Red
-ETC_20150317_005039	Blue
+ETC_20150317_005038	Rot
+ETC_20150317_005039	Blau
 ETC_20150317_005040	Diagonal Stripe Pattern
 ETC_20150317_005041	Long forms
 ETC_20150317_005042	Carvings
@@ -5710,7 +5710,7 @@ ETC_20150317_005705	Test Reagent's Potency Generation
 ETC_20150317_005706	Kampfunfähig
 ETC_20150317_005707	Stinging pain.
 ETC_20150317_005708	You've been pricked by the Razorfen.
-ETC_20150317_005709	Thorn Poison
+ETC_20150317_005709	Thorn Gift
 ETC_20150317_005710	Life Drain
 ETC_20150317_005711	Confusion
 ETC_20150317_005712	Rewind Time
@@ -5800,14 +5800,14 @@ ETC_20150317_005795	Max Angriff
 ETC_20150317_005796	Strength Decrease
 ETC_20150317_005797	Your strength has decreased.
 ETC_20150317_005798	Slowed movement and mental strength is reduced.
-ETC_20150317_005799	Poison Cloud
+ETC_20150317_005799	Gift Cloud
 ETC_20150317_005800	A state of continuous equipment damage.
 ETC_20150317_005801	Giftwolke.
 ETC_20150317_005802	Blood Dots Stimulation
 ETC_20150317_005803	Erhöhe attack, decreased defense.
 ETC_20150317_005804	Great Gegenstand
 ETC_20150317_005805	Obtain great items
-ETC_20150317_005806	Poison Coating
+ETC_20150317_005806	Gift Coating
 ETC_20150317_005807	Coated a weapon with poison.
 ETC_20150317_005808	Recovered HP.
 ETC_20150317_005809	Eye of Death
@@ -5865,8 +5865,8 @@ ETC_20150317_005860	During throw
 ETC_20150317_005861	During throw
 ETC_20150317_005862	Receiving continuous [Flame] damage
 ETC_20150317_005863	HP Restricted
-ETC_20150317_005864	Poison Bleeding
-ETC_20150317_005865	Create Poison Field
+ETC_20150317_005864	Gift Bleeding
+ETC_20150317_005865	Create Gift Field
 ETC_20150317_005866	Paereomyun Collection
 ETC_20150317_005867	Get rid of the Vubbe tribe!
 ETC_20150317_005868	Get rid of the Vubbe tribe for test!
@@ -7387,8 +7387,8 @@ ETC_20150317_007383	Wind Schaden +%d
 ETC_20150317_007384	Wind Resistance +%d
 ETC_20150317_007385	Schaden over Time +%d
 ETC_20150317_007386	Schaden over Time Resistance +%d
-ETC_20150317_007387	Poison Schaden +%d
-ETC_20150317_007388	Poison Resistance +%d
+ETC_20150317_007387	Gift Schaden +%d
+ETC_20150317_007388	Gift Resistance +%d
 ETC_20150317_007389	Magie Schaden +%d
 ETC_20150317_007390	Magie Resistance +%d
 ETC_20150317_007391	Dark Schaden +%d
@@ -8601,7 +8601,7 @@ ETC_20150317_008597	Rezept - Iron Bangle
 ETC_20150317_008598	Rezept - Crystal Bangle
 ETC_20150317_008599	Rezept - Shine Bracelet
 ETC_20150317_008600	Rezept - Battle Bracelet
-ETC_20150317_008601	Rezept - Poison Bangle
+ETC_20150317_008601	Rezept - Gift Bangle
 ETC_20150317_008602	Rezept - Plants Bracelet
 ETC_20150317_008603	Rezept - Control Bangle
 ETC_20150317_008604	Rezept - Jäger Bangle
@@ -8869,7 +8869,7 @@ ETC_20150317_008865	Use the mission item purchased from the Söldnerposten to op
 ETC_20150317_008866	Gebiet-Boss-Tipp
 ETC_20150317_008867	A Gebiet-Boss kann manchmal in bestimmten Bereichen erscheinen.
 ETC_20150317_008868	Elemental Properties-Tipp
-ETC_20150317_008869	Monsters have 1 of the 6 elemental properties: Fire, Ice, Earth, Dark, Poison, or Lightning.
+ETC_20150317_008869	Monsters have 1 of the 6 elemental properties: Fire, Ice, Earth, Dark, Gift, or Lightning.
 ETC_20150317_008870	Resistance-Tipp
 ETC_20150317_008871	Attacking with countering properties on monsters can cause more damage.
 ETC_20150317_008872	Archer-Tipp
@@ -8885,9 +8885,9 @@ ETC_20150317_008881	The physical defense increases when a Warrior-type class lev
 ETC_20150317_008882	Cleric-Tipp
 ETC_20150317_008883	The placed magic circles on the ground from a Cleric may not be effective on flying-type monsters.
 ETC_20150317_008884	The SP and SP recovery increases when a Cleric-type class levels up.
-ETC_20150317_008885	Press the CTRL key to lock a target.
-ETC_20150317_008886	Press the Alt key to stop movement immediately.
-ETC_20150317_008887	Press the Space bar key during a battle to face your current target.
+ETC_20150317_008885	Drück STRG um ein Ziel zu fokusieren.
+ETC_20150317_008886	Drück die Alt-Taste um die Bewegung sofort zu stoppen.
+ETC_20150317_008887	Drücke die Leertaste um dein aktuelles Ziel anzusehen.
 ETC_20150317_008888	When mounting a companion, your character's stats will increase in proportion to the ability of the companion.
 ETC_20150317_008889	Karte Synthesis (Coming Soon)
 ETC_20150317_008890	Pfeil Crafting attribute benötigt.
@@ -8896,24 +8896,24 @@ ETC_20150317_008892	Adds 2 item quality levels
 ETC_20150317_008893	Search for a particular level
 ETC_20150317_008894	Cheat starting settings
 ETC_20150317_008895	Search for NPC coordinates
-ETC_20150317_008896	Search Player
-ETC_20150317_008897	Search NPC
+ETC_20150317_008896	Such Spieler
+ETC_20150317_008897	Such-NPC
 ETC_20150317_008898	(null) NPC (1)
-ETC_20150317_008899	Change Layer
+ETC_20150317_008899	Wechsle Layer
 ETC_20150317_008900	Layer Wert
-ETC_20150317_008901	Check current layer
+ETC_20150317_008901	Prüfe aktuellen Layer
 ETC_20150317_008902	Lock Skill off
 ETC_20150317_008903	Search
-ETC_20150317_008904	Change Quest Progress
+ETC_20150317_008904	Ändere Quest-Verlauf
 ETC_20150317_008905	Quest Empfohlen Level
 ETC_20150317_008906	Quest Status
-ETC_20150317_008907	Quest ClassName
-ETC_20150317_008908	Base level up
-ETC_20150317_008909	Target Level
+ETC_20150317_008907	Quest Klassenname
+ETC_20150317_008908	Basis level up
+ETC_20150317_008909	Ziel Level
 ETC_20150317_008910	Go to test_zonemove.xml coordinates
 ETC_20150317_008911	ClassName Xml
-ETC_20150317_008912	Open All UI
-ETC_20150317_008913	Press Enter to Close Dialog
+ETC_20150317_008912	Öffne alle UI
+ETC_20150317_008913	Drück Enter um den Dialog zu schließen.
 ETC_20150317_008914	Check Main Session properties
 ETC_20150317_008915	Property Name
 ETC_20150317_008916	Check the properties of a particular session.
@@ -8923,18 +8923,18 @@ ETC_20150317_008919	Modify Wert
 ETC_20150317_008920	Edit Properties of a particular session
 ETC_20150317_008921	Distance between the coordinates
 ETC_20150317_008922	Propagation direction between the coordinates
-ETC_20150317_008923	Remove Group Buff
-ETC_20150317_008924	Show FPS
-ETC_20150317_008925	PvP Mode
-ETC_20150317_008926	Delete inventory items
-ETC_20150317_008927	Field Events
+ETC_20150317_008923	Entferne Gruppen-Buff
+ETC_20150317_008924	Zeige FPS
+ETC_20150317_008925	PvP Modus
+ETC_20150317_008926	Lösche Inventar-Gegenstände
+ETC_20150317_008927	Gebiet-Events
 ETC_20150317_008928	Event Type
 ETC_20150317_008929	Start Field Events
 ETC_20150317_008930	Reset Field Event conditions
 ETC_20150317_008931	Skill Point Up
-ETC_20150317_008932	Learn Skills
+ETC_20150317_008932	Lerne Skills
 ETC_20150317_008933	Reset Raid Gruppe time
-ETC_20150317_008934	Remove monsters
+ETC_20150317_008934	Entferne Monster
 ETC_20150317_008935	Toggle NPC Hide
 ETC_20150317_008936	NPC Function Name
 ETC_20150317_008937	Test Quest Tracking
@@ -8949,27 +8949,27 @@ ETC_20150317_008945	Effektname
 ETC_20150317_008946	Stat Initialization
 ETC_20150317_008947	Test Gruppe Track (forced)
 ETC_20150317_008948	Change PC Quest Progress
-ETC_20150317_008949	Search Quest
-ETC_20150317_008950	Grass
+ETC_20150317_008949	Suche Quest
+ETC_20150317_008950	Gras
 ETC_20150317_008951	Soil
 ETC_20150317_008952	Gravel
 ETC_20150317_008953	Sand
 ETC_20150317_008954	Iron
-ETC_20150317_008955	Ice
+ETC_20150317_008955	Eis
 ETC_20150317_008956	Lava
-ETC_20150317_008957	Poison Pot
+ETC_20150317_008957	Gift Pot
 ETC_20150317_008958	Resistance
 ETC_20150317_008959	Threat
-ETC_20150317_008960	Critical Rate
-ETC_20150317_008961	Movement Speed
-ETC_20150317_008962	Range
-ETC_20150317_008963	Critical Attack
-ETC_20150317_008964	Critical Defense
+ETC_20150317_008960	Kritrate
+ETC_20150317_008961	Bewegungsgeschwindigkeit
+ETC_20150317_008962	Reichweite
+ETC_20150317_008963	Kritischer Angriff
+ETC_20150317_008964	Kritische Verteidigung
 ETC_20150317_008965	HP Regeneration
 ETC_20150317_008966	SP Regeneration
 ETC_20150317_008967	Max HP
 ETC_20150317_008968	Max SP
-ETC_20150317_008969	Description
+ETC_20150317_008969	Beschreibung
 ETC_20150317_008970	Skill type
 ETC_20150317_008971	For skill type
 ETC_20150317_008972	Offensive Skill
@@ -8980,7 +8980,7 @@ ETC_20150317_008976	{#Fcff00}Buff
 ETC_20150317_008977	For buff
 ETC_20150317_008978	{#050505}Skill of giving harmful effects
 ETC_20150317_008979	{#050505}Skill of giving good buffs
-ETC_20150317_008980	Range [Wert]
+ETC_20150317_008980	Reichweite [Wert]
 ETC_20150317_008981	Output of Min ~ Max Reichweite
 ETC_20150317_008982	Output of Max Reichweite
 ETC_20150317_008983	{#050505}Attack {#050505}
@@ -9009,18 +9009,18 @@ ETC_20150317_009005	{#050505}Selber
 ETC_20150317_009006	{#050505}Enemies
 ETC_20150317_009007	{#050505}Friendly Forces
 ETC_20150317_009008	{#050505}Neutral Forces
-ETC_20150317_009009	Cooldown
-ETC_20150317_009010	Cooldown: [Wert]
+ETC_20150317_009009	Abklingzeit
+ETC_20150317_009010	Abklingzeit: [Wert]
 ETC_20150317_009011	HP Consumption
 ETC_20150317_009012	HP Consumption: [Wert]
 ETC_20150317_009013	SP Consumption: [Wert]
-ETC_20150317_009014	Special Effects
-ETC_20150317_009015	Special Effects: [Wert]
+ETC_20150317_009014	Spezialeffekte
+ETC_20150317_009015	Spezialeffekte: [Wert]
 ETC_20150317_009016	Target to Friendly Forces
 ETC_20150317_009017	Mark of Friendly Forces Probability
 ETC_20150317_009018	[arg1]%% as probability
 ETC_20150317_009019	Target Enemies
-ETC_20150317_009020	Special Effekt 2
+ETC_20150317_009020	Spezialeffekt 2
 ETC_20150317_009021	[Wert1] during Sekunden [Wert2] [Wert3]
 ETC_20150317_009022	Application Time
 ETC_20150317_009023	{#050505} yourself
@@ -9036,7 +9036,7 @@ ETC_20150317_009032	Angriff: [Wert]
 ETC_20150317_009033	Special Effects: [Wert2] chance for [Wert3] [Wert5]
 ETC_20150317_009034	Buff
 ETC_20150317_009035	Debuff
-ETC_20150317_009036	sec.
+ETC_20150317_009036	sek.
 ETC_20150317_009037	{#0006ff} to me
 ETC_20150317_009038	{#ff3300} to enemies
 ETC_20150317_009039	Self Effects
@@ -9055,8 +9055,8 @@ ETC_20150317_009051	Ohrring
 ETC_20150317_009052	Brief description
 ETC_20150317_009053	Model set
 ETC_20150317_009054	Größe
-ETC_20150317_009055	Equipment Merchant
-ETC_20150317_009056	Zubehör Merchant
+ETC_20150317_009055	Ausrüstungshändler
+ETC_20150317_009056	Zubehörhändler
 ETC_20150317_009057	Announcement (Great Cathedral ad)
 ETC_20150317_009058	Ladies excited
 ETC_20150317_009059	Manage the hide and seek
@@ -9176,7 +9176,7 @@ ETC_20150317_009172	Specter Jäger
 ETC_20150317_009173	Equipment Trade Point Laden
 ETC_20150317_009174	Soul Peak_1_2
 ETC_20150317_009175	[Ruteelero Klassenmeister]{nl} Kamiya
-ETC_20150317_009176	[Squire Klassenmeister]{nl} Justina Legwyn
+ETC_20150317_009176	[Squire Klassenmeister]{nl}   Justina Legwyn
 ETC_20150317_009177	[Thaumaturge Klassenmeister]{nl} Larisa
 ETC_20150317_009178	[Elementalist Klassenmeister]{nl} Wican Celestic
 ETC_20150317_009179	[Scout Klassenmeister]{nl} Recon Rimgaile
@@ -9186,18 +9186,18 @@ ETC_20150317_009182	[Rogue Klassenmeister]{nl}         Gema
 ETC_20150317_009183	[Gegenstand Merchant]{nl}            Anna
 ETC_20150317_009184	[Equipment Merchant]{nl}                   Yorgis
 ETC_20150317_009185	[Hackapell Klassenmeister]{nl} Flint Boulder
-ETC_20150317_009186	[Druid Klassenmeister]{nl}   Gina Greene
+ETC_20150317_009186	[Druid Klassenmeister]{nl}     Gina Greene
 ETC_20150317_009187	[Officer]{nl} Dalrine
 ETC_20150317_009188	[Pyromancer Klassenmeister]{nl} Abreh Melinn
 ETC_20150317_009189	[Highlander Klassenmeister]{nl}       Douglas Black
 ETC_20150317_009190	Highlander Hidden Quest
 ETC_20150317_009191	Practice Post (Fire)
-ETC_20150317_009192	Practice Post (Poison)
+ETC_20150317_009192	Practice Post (Gift)
 ETC_20150317_009193	Practice Post (Lightning)
 ETC_20150317_009194	Practice Post (Earth)
 ETC_20150317_009195	[Gegenstandshändler]{nl}         Mirina
 ETC_20150317_009196	[Ausrüstungshändler]{nl}                 Dunkel
-ETC_20150317_009197	[Zubehörhändler]{nl}              Ronesa
+ETC_20150317_009197	[Zubehörhändlerin]{nl}              Ronesa
 ETC_20150317_009198	Klaipeda Goddess Statue
 ETC_20150317_009199	[Schmied]{nl}       Zaras
 ETC_20150317_009200	[Peltasta Klassenmeister]{nl}     Maria Leed
@@ -9212,7 +9212,7 @@ ETC_20150317_009208	[Priest Klassenmeister]{nl}       Boruble
 ETC_20150317_009209	[Krivis Klassenmeister]{nl}       Herkus
 ETC_20150317_009210	[Auktionator]{nl} Demares
 ETC_20150317_009211	[Auktionshaus Manager]{nl}             Logi
-ETC_20150317_009212	[Begleiter Trader]{nl}            Christina
+ETC_20150317_009212	[Begleiterhändler]{nl}          Christina
 ETC_20150317_009213	[Officer]{nl} Dortina
 ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
 ETC_20150317_009215	[Klaipeda's Magie Association]{nl}                              Henrika
@@ -9424,7 +9424,7 @@ ETC_20150317_009420	Pilgrim's Way Grass
 ETC_20150317_009421	Dead Disciple
 ETC_20150317_009422	Ruklys Memorial Stone
 ETC_20150317_009423	[Cataphract Klassenmeister]{nl}    Memet Culag
-ETC_20150317_009424	Pile of Firewood
+ETC_20150317_009424	Pile of Brennholz
 ETC_20150317_009425	Unique Lithograph
 ETC_20150317_009426	Buried Remains
 ETC_20150317_009427	Sorcerer, Chronomancer 5th Advancement trigger
@@ -9777,7 +9777,7 @@ ETC_20150323_009774	Possession
 ETC_20150323_009775	This monster holds a part of Hauberk.
 ETC_20150323_009776	Fainted Scorpio
 ETC_20150323_009777	Scorpio has fainted!
-ETC_20150323_009778	Recharge Poison
+ETC_20150323_009778	Recharge Gift
 ETC_20150323_009779	The pot absorbed the monster's poison!
 ETC_20150323_009780	Absorbed!
 ETC_20150323_009781	Monster's Divine Flame
@@ -9973,7 +9973,7 @@ ETC_20150323_009970	Move to Kvailas Forest through Gate Route and Sirdgela Fores
 ETC_20150323_009971	Move to Gele Plateau
 ETC_20150323_009972	Gytis Settlement Area Phenomenon(1)
 ETC_20150323_009973	Gytis Settlement Area Phenomenon(2)
-ETC_20150323_009974	Antidote(1)
+ETC_20150323_009974	Gegengift(1)
 ETC_20150323_009975	Get Ridimed Leaf
 ETC_20150323_009976	Cure the poisoned people
 ETC_20150323_009977	Louise's Farmland(1)
@@ -10013,7 +10013,7 @@ ETC_20150323_010010	Throw the stones to destroy the magic circle
 ETC_20150323_010011	Collect the farmers' signatures on the Compact
 ETC_20150323_010012	Lager-Nutzungsgebühr
 ETC_20150323_010013	While getting on the Begleiter, your node height was too high to establish a link 
-ETC_20150323_010014	Rezept - Antidote
+ETC_20150323_010014	Rezept - Gegengift
 ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Karten-Synthese
 ETC_20150323_010017	Gib deine persönlichen Grüße ein
@@ -10087,7 +10087,7 @@ ETC_20150323_010084	Monster polluting the Sanctum
 ETC_20150323_010085	A monster that swallowed the badge has appeared!
 ETC_20150323_010086	Your attack is increased for 10 Sekunden because of the Sanctum's Blessing!
 ETC_20150323_010087	Obtained Divine Aura for 10 Sekunden because of the Sanctum's Blessing!
-ETC_20150323_010088	Poison spurted out!
+ETC_20150323_010088	Gift spurted out!
 ETC_20150323_010089	You cannot give an offer nor receive blessings!
 ETC_20150323_010090	Restored HP because of the Sanctum's Blessing!
 ETC_20150323_010091	A Tree Ambulo living off of the reed root appeared!
@@ -10315,7 +10315,7 @@ ETC_20150323_010312	Picking up the Bag
 ETC_20150323_010313	This does not look like a medicine pouch
 ETC_20150323_010314	Soldier who was left behind
 ETC_20150323_010315	Making antidote
-ETC_20150323_010316	Antidote complete! {nl}Give it to Gytis.
+ETC_20150323_010316	Gegengift complete! {nl}Give it to Gytis.
 ETC_20150323_010317	Collected all materials. {nl}Mix it into the medicine Jäger Klassenmeister gave you, to make the antidote.
 ETC_20150323_010318	Deliver the antidote
 ETC_20150323_010319	Successfully delivered
@@ -10800,7 +10800,7 @@ ETC_20150406_010797	I can feel it calling..
 ETC_20150406_010798	I can feel a familiar energy..
 ETC_20150406_010799	Sprich mit the Bokor Klassenmeister!
 ETC_20150406_010800	Successfully collected the grape roots
-ETC_20150406_010801	Poison is flowing from the touched grapes.
+ETC_20150406_010801	Gift is flowing from the touched grapes.
 ETC_20150406_010802	A Tama hiding near the roots appeared
 ETC_20150406_010803	You have successfully tamed the frog!
 ETC_20150406_010804	You already have a trained frog!
@@ -10864,7 +10864,7 @@ ETC_20150414_010861	Digo
 ETC_20150414_010862	Clothes rack
 ETC_20150414_010863	Normal Type
 ETC_20150414_010864	Flame Type
-ETC_20150414_010865	Poison Needle Type
+ETC_20150414_010865	Gift Needle Type
 ETC_20150414_010866	Web Type
 ETC_20150414_010867	Pillar Type
 ETC_20150414_010868	Footrest Type
@@ -11217,7 +11217,7 @@ ETC_20150428_011214	Demon Lord Nuaele
 ETC_20150428_011215	Poisonous Insekt
 ETC_20150428_011216	Explosion Trap
 ETC_20150428_011217	Fire Trap
-ETC_20150428_011218	Poison Trap
+ETC_20150428_011218	Gift Trap
 ETC_20150428_011219	Movement Restriction Trap
 ETC_20150428_011220	Pillar Trap
 ETC_20150428_011221	Reduced Movement Trap
@@ -11440,7 +11440,7 @@ ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your charac
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Hütte before entering the world.
-ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a Lagerfeuer, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a Lagerfeuer. {nl} HP, SP, STA is restored quicker when you use a Lagerfeuer.{nl}4) Other functions will be added in the near future.
+ETC_20150428_011441	FAQ : Ruhemodus{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a Lagerfeuer, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Brennholz" to create a Lagerfeuer. {nl} HP, SP, STA is restored quicker when you use a Lagerfeuer.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Starts decreasing a little bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the effects of your equipment.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Gegenstand Merchant in any town. {nl}3) Silber is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from the Highlander Klassenmeister and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
@@ -11449,7 +11449,7 @@ ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" t
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Gruppe Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
 ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON stat after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
 ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click on the +, - buttons on the minimap to zoom in and zoom out. {nl}2) Click on the M button on the minimap or press the M key to view the full map of the zone (Zone Map) you are in. {nl}3) Press the N key on your keyboard to view the entire World Map.
-ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.
+ETC_20150428_011450	Drücke STRG um das Ziel zu fixieren oder nicht (An/Aus).
 ETC_20150428_011451	Hire as Helper
 ETC_20150428_011452	Dismiss Helper
 ETC_20150428_011453	Your search query must contain at least {LEN} characters.
@@ -11576,10 +11576,10 @@ ETC_20150428_011573	Gained confidence from defeating monster.{nl} Use the Demon 
 ETC_20150428_011574	Picked up the paper off the floor. You can read it in your inventory.
 ETC_20150428_011575	Picked up the book on the floor. You can read it in your inventory.
 ETC_20150428_011576	Picked up the plate on the floor. You can examine it in your inventory.
-ETC_20150428_011577	Red Crystal
-ETC_20150428_011578	Blue Crystal
-ETC_20150428_011579	Yellow Crystal
-ETC_20150428_011580	Adventurer's Journal
+ETC_20150428_011577	Roter Kristall
+ETC_20150428_011578	Blauer Kristall
+ETC_20150428_011579	Gelber Kristall
+ETC_20150428_011580	Tagebuch
 ETC_20150428_011581	Abandoned Journal
 ETC_20150428_011582	Key Thief
 ETC_20150428_011583	Great King Zachariel's Coffin
@@ -11605,11 +11605,11 @@ ETC_20150511_011602	Besiegst du sie alle?
 ETC_20150511_011603	Uh..!
 ETC_20150511_011604	What a curious creature!
 ETC_20150511_011605	What happened..!
-ETC_20150511_011606	The red crystal is activating!
-ETC_20150511_011607	The blue crystal is activating!
-ETC_20150511_011608	The yellow crystal is activating!
-ETC_20150511_011609	The crystal is not ready yet.
-ETC_20150511_011610	The crystal is already activating.
+ETC_20150511_011606	Der rote Kristall ist aktiviert!
+ETC_20150511_011607	Der blaue Kristall ist aktiviert!
+ETC_20150511_011608	Der gelbe Kristall ist aktiviert!
+ETC_20150511_011609	Der Kristall ist noch nicht bereit!
+ETC_20150511_011610	Der Kristall ist bereits aktiviert.
 ETC_20150714_011611	Shader Test
 ETC_20150714_011612	Box
 ETC_20150714_011613	Mine Predator
@@ -11712,7 +11712,7 @@ ETC_20150714_011709	Guardian Spider
 ETC_20150714_011710	Echad Magician
 ETC_20150714_011711	Kepa Raider Magician
 ETC_20150714_011712	Brown Socket Archer
-ETC_20150714_011713	Cronewt Poison Needler
+ETC_20150714_011713	Cronewt Gift Needler
 ETC_20150714_011714	Corrupt Deadborn Scap
 ETC_20150714_011715	Corrupt Deadborn Scap Archer
 ETC_20150714_011716	Spoiled Coliflower Archer
@@ -11862,9 +11862,9 @@ ETC_20150714_011859	Petrifying
 ETC_20150714_011860	You body is becoming stiff due to the Petrifying Frost! Get out of here quickly!
 ETC_20150714_011861	Petrified
 ETC_20150714_011862	You've been petrified!
-ETC_20150714_011863	Demonic Stone - SP Recovery
+ETC_20150714_011863	Demonic Stone - SP Erholung
 ETC_20150714_011864	You've obtained the effect of increasing SP recovery amount from the destroyed magic crystal.
-ETC_20150714_011865	Demonic Stone - HP Recovery
+ETC_20150714_011865	Demonic Stone - HP Erholung
 ETC_20150714_011866	You've obtained the effect of increasing HP recovery amount from the destroyed magic crystal.
 ETC_20150714_011867	Demonic Stone - Recover Stamina
 ETC_20150714_011868	You've obtained the effect of increasing Stamina recovery amount from the destroyed magic crystal.
@@ -12544,7 +12544,7 @@ ETC_20150714_012541	You already have a tamed frog!
 ETC_20150714_012542	You have found the seed pouch of Weiss
 ETC_20150714_012543	Nothing was found
 ETC_20150714_012544	Bag doesn't seem to have medicine
-ETC_20150714_012545	Antidote completed!{nl}Hand it over to Gytis
+ETC_20150714_012545	Gegengift completed!{nl}Hand it over to Gytis
 ETC_20150714_012546	The materials have been all collected{nl}Put the ingredients to the medicine that Jäger Klassenmeister gave to you to make the antidote
 ETC_20150714_012547	Something doesn't feel right!
 ETC_20150714_012548	You can't attack due to magical protective shell
@@ -12660,7 +12660,7 @@ ETC_20150714_012657	Event Requirement
 ETC_20150714_012658	It is already in progress. Click on Cancel if you want it to stop.
 ETC_20150714_012659	This item that you have added to craft is enhanced. Are you sure you want to use it as material?
 ETC_20150714_012660	Lightning Property
-ETC_20150714_012661	Poison Property
+ETC_20150714_012661	Gift Property
 ETC_20150714_012662	Fire Property
 ETC_20150714_012663	Earth Property
 ETC_20150714_012664	Ice Property
@@ -13602,7 +13602,7 @@ ETC_20150717_013599	There is an instant shop registered {nl}Register instant sho
 ETC_20150717_013600	You have lit the Lagerfeuer!
 ETC_20150717_013601	It is already on fire!
 ETC_20150717_013602	[Gegenstandshändler]{nl}     Anna
-ETC_20150717_013603	[Gegenstandshändler]{nl}      Mirina
+ETC_20150717_013603	[Gegenstandshändler]{nl}          Mirina
 ETC_20150717_013604	Spell Control Magie Circle
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	The corpse of the Royal Army Guard
@@ -14009,7 +14009,7 @@ ETC_20150729_014006	My Rank
 ETC_20150729_014007	Kill Rank
 ETC_20150729_014008	Schaden Rank
 ETC_20150729_014009	Mouse Mode may not be feasible for Swordsman, Cleric type classes.
-ETC_20150729_014010	Team Battle League Laden
+ETC_20150729_014010	Team Battle Liga Laden
 ETC_20150729_014011	When you cancel the game, the ticket will be expired. Do you want to continue?
 ETC_20150729_014012	Team Battle League has started. Participate via Adventure Journal Ranking Page.
 ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want to continue?
@@ -14019,7 +14019,7 @@ ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} Erhöht Physischen Angriff, Kritischer Angriff und die maximale Tragkraft{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
-ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}          Guerra
+ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}               Guerra
 ETC_20150729_014021	Field Gen x
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
@@ -14643,14 +14643,14 @@ ETC_20150918_014640	Using the Absorption Scroll
 ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
-ETC_20150918_014644	[Rogue Klassenmeister]{nl}       Gema
-ETC_20150918_014645	[Gegenstand Merchant]{nl}    Muras
-ETC_20150918_014646	[Equipment Merchant]{nl}    Yorgis
+ETC_20150918_014644	[Rogue Klassenmeister]{nl}           Gema
+ETC_20150918_014645	[Gegenstandshändler]{nl}       Muras
+ETC_20150918_014646	[Ausrüstungshändler]{nl}       Yorgis
 ETC_20150918_014647	[Schmied]{nl}       Anna
-ETC_20150918_014648	[Market Manager]{nl}     Molun
-ETC_20150918_014649	[Storage Keeper]{nl}      Zadan
+ETC_20150918_014648	[Auktionshaus Manager]{nl}        Molun
+ETC_20150918_014649	[Lagerwächter]{nl}        Zadan
 ETC_20150918_014650	Underground Catacombs Dungeon-Tafel
-ETC_20150918_014651	[Zubehör Merchant]{nl}   Joana
+ETC_20150918_014651	[Zubehörhändler]{nl}      Joana
 ETC_20150918_014652	Bomb Box
 ETC_20150918_014653	Underground Chapel Dungeon-Tafel
 ETC_20150918_014654	Crisp Grass Pile
@@ -16811,7 +16811,7 @@ ETC_20151102_016808	Ruteelin Edelstein
 ETC_20151102_016809	Leafly Edelstein
 ETC_20151102_016810	Doyor Edelstein
 ETC_20151102_016811	Blue Fragaras Edelstein
-ETC_20151102_016812	Cronewt Poison Needler Edelstein
+ETC_20151102_016812	Cronewt Gift Needler Edelstein
 ETC_20151102_016813	Earth Shredded Edelstein
 ETC_20151102_016814	Earth Hallowventer Edelstein
 ETC_20151102_016815	Hogma Shaman Edelstein
@@ -17364,7 +17364,7 @@ ETC_20151102_017361	Collected relic
 ETC_20151102_017362	The relic was destroyed while you were collecting it
 ETC_20151102_017363	Preparing relic
 ETC_20151102_017364	Prepared relic
-ETC_20151102_017365	Poison the Bracken Cannon Soldier's meal
+ETC_20151102_017365	Gift the Bracken Cannon Soldier's meal
 ETC_20151102_017366	Edmundas is not here{nl}Try searching a different location
 ETC_20151102_017367	You caught up with someone who looks like Edmundas
 ETC_20151102_017368	Found Edmundas.{nl}Report back to Rose about the situation
@@ -18192,11 +18192,11 @@ ETC_20151224_018188	Necromancer is a class that utilizes magic involving the dea
 ETC_20151224_018189	When you advance to a Necromancer, at the bottom right side of your screen
 ETC_20151224_018190	Only Animal, Plant and Mutant-type cards can be registered onto the Necronomicon with a maximum of four cards.{nl}At the bottom of the Necronomicon, you can view the number of fragments that you've collected so far.
 ETC_20151224_018191	{nl} {nl}The stats of the summoned Shoggoth will change depending on the cards that are registered onto the Necronomicon.
-ETC_20151224_018192	Wugushi - Poison Pot
+ETC_20151224_018192	Wugushi - Gift Pot
 ETC_20151224_018193	A Wugushi is an archer that specializes in using poison.
-ETC_20151224_018194	When you advance to a Wugushi, the Poison Pot located at the bottom right side of your screen,
-ETC_20151224_018195	You are able to craft poison and use them with your skills as a Wugushi.{nl}The ingredients of the poison can be: Poison Liquid or the loot from Insekt-type monsters. 
-ETC_20151224_018196	{nl} {nl}Poison Liquid can be purchased from the Wugushi Klassenmeister or Wugushi Klassenmeister.
+ETC_20151224_018194	When you advance to a Wugushi, the Gift Pot located at the bottom right side of your screen,
+ETC_20151224_018195	You are able to craft poison and use them with your skills as a Wugushi.{nl}The ingredients of the poison can be: Gift Liquid or the loot from Insekt-type monsters. 
+ETC_20151224_018196	{nl} {nl}Gift Liquid can be purchased from the Wugushi Klassenmeister or Wugushi Klassenmeister.
 ETC_20151224_018197	Cannot find a GUID of the item in the inven.
 ETC_20151224_018198	Cannot load the barrack PC. Check the information.
 ETC_20151224_018199	Failed to initialize the Nexon NGS.
@@ -19175,7 +19175,7 @@ ETC_20151224_019171	Haar-Zubehör
 ETC_20151224_019172	Dolch
 ETC_20151224_019173	Cannon
 ETC_20151224_019174	Rifle
-ETC_20151224_019175	Poison Pot
+ETC_20151224_019175	Gift Pot
 ETC_20151224_019176	Charakter welcher Gegenstände erhält
 ETC_20151224_019177	You cannot lock an already locked item.
 ETC_20151224_019178	Nur männlich
@@ -19889,7 +19889,7 @@ ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[TP Händler]{nl}      Leticia
 ETC_20151224_019888	[Templar Klassenmeister]{nl}Knight Commander Uska
-ETC_20151224_019889	[Cryomancer Klassenmeister]{nl}  Aleister Crowley
+ETC_20151224_019889	[Cryomancer Klassenmeister]{nl}           Aleister Crowley
 ETC_20151224_019890	[Schmied]{nl}    Ilanai
 ETC_20151224_019891	[Ausrüstungshändler]{nl}      Jura
 ETC_20151224_019892	  [Lord of Orsha]{nl}    Inesa Hamondale
@@ -19972,7 +19972,7 @@ ETC_20151224_019968	Historic Site Ruins Dungeon
 ETC_20151224_019969	Lumber Pile
 ETC_20151224_019970	Lost Packckage
 ETC_20151224_019971	Unidentified Dust
-ETC_20151224_019972	Firewood
+ETC_20151224_019972	Brennholz
 ETC_20151224_019973	Scared Settler
 ETC_20151224_019974	Somebody's Diary
 ETC_20151224_019975	[Psychokino Klassenmeister]{nl}          Cielle Gudan
@@ -20255,7 +20255,7 @@ ETC_20160224_020251	Physical Enhancement
 ETC_20160224_020252	Increases attack and defense and increases damage inflicted/reduces damage received for specific skills.
 ETC_20160224_020253	Stronger Hieb property attacks.
 ETC_20160224_020254	Pollen
-ETC_20160224_020255	Nuodai Poison
+ETC_20160224_020255	Nuodai Gift
 ETC_20160224_020256	Through the Path of Fire
 ETC_20160224_020257	Goddess Gabija delivered a message through Grita. The specimens created by the wizards from the past fell in the hands of the demons, causing mayhem inside the tower. Goddess Gabija asks for the help of the Revelators to gain control of the specimens.
 ETC_20160224_020258	After the end of Mirtis' reign over the Crystal Mine, the Temple Shooter is calling back the Vubbes. {nl}Besiege the Temple Shooter and make the Crystal Mine safe again.
@@ -20462,7 +20462,7 @@ ETC_20160224_020458	Rezept - Attack Boost Potion: Schlag
 ETC_20160224_020459	Rezept - Attack Boost Potion: Missile
 ETC_20160224_020460	Rezept - Attack Boost Potion: Fire
 ETC_20160224_020461	Rezept - Attack Boost Potion: Ice
-ETC_20160224_020462	Rezept - Attack Boost Potion: Poison
+ETC_20160224_020462	Rezept - Attack Boost Potion: Gift
 ETC_20160224_020463	Rezept - Attack Boost Potion: Lightning
 ETC_20160224_020464	Rezept - Attack Boost Potion: Earth
 ETC_20160224_020465	Rezept - Attack Boost Potion: Heilig
@@ -20473,7 +20473,7 @@ ETC_20160224_020469	Rezept - Defense Boost Potion: Schlag
 ETC_20160224_020470	Rezept - Defense Boost Potion: Missile
 ETC_20160224_020471	Rezept - Defense Boost Potion: Fire
 ETC_20160224_020472	Rezept - Defense Boost Potion: Ice
-ETC_20160224_020473	Rezept - Defense Boost Potion: Poison
+ETC_20160224_020473	Rezept - Defense Boost Potion: Gift
 ETC_20160224_020474	Rezept - Defense Boost Potion: Lightning
 ETC_20160224_020475	Rezept - Defense Boost Potion: Earth
 ETC_20160224_020476	Rezept - Defense Boost Potion: Heilig
@@ -20672,9 +20672,9 @@ ETC_20160224_020668	This character cannot receive Likes.
 ETC_20160224_020669	You might lose some of your gems when you become incapable of combat in this current area.
 ETC_20160224_020670	You might lose some of your Silber and gems when you become incapable of combat in this current area.
 ETC_20160224_020671	Would you like to spectate this game?
-ETC_20160224_020672	Current Points
-ETC_20160224_020673	Total Points Cost
-ETC_20160224_020674	Level Dependent
+ETC_20160224_020672	Aktuelle Punkte
+ETC_20160224_020673	Gesamte Punktekosten
+ETC_20160224_020674	Level-Abhängig
 ETC_20160224_020675	You have exceeded the daily amount allowed to purchase.
 ETC_20160224_020676	Daily Amount : {Count}
 ETC_20160224_020677	Team Battle League Champion

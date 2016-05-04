@@ -509,7 +509,7 @@ UI_20150317_000508	{@st43}PvP Gewinn/Verlierrate{/}
 UI_20150317_000509	{@st59}Schließen{/}
 UI_20150317_000510	{@sti5}Gesamte Anzahl an Käufen : %s{/}
 UI_20150317_000511	{@sti5}Gesamte Anzahl : %s{/}
-UI_20150317_000512	{@st41b} Käufe
+UI_20150317_000512	{@st41b} Kaufen
 UI_20150317_000513	{@st43}Materialien für Crafting-Items erhalten!
 UI_20150317_000514	{@st43}Meisterwerk{/}
 UI_20150317_000515	{@st41}Alle löschen
@@ -622,7 +622,7 @@ UI_20150317_000621	{@st59}Laden schließen{/}
 UI_20150317_000622	{@st59}Erste Seite{/}
 UI_20150317_000623	{@st59}Nächste Seite{/}
 UI_20150317_000624	{@st59}Letzte Seite{/}
-UI_20150317_000625	{@st41b}Zurücksetzen{/}
+UI_20150317_000625	{@st41b} Zurücksetzen {/}
 UI_20150317_000626	{@st59}Warenkorb zurücksetzen{/}
 UI_20150317_000627	{@st41b}Bestätigen{/}
 UI_20150317_000628	{@st59}Transaktion bestätigen{/}
@@ -2118,7 +2118,7 @@ UI_20160224_002117	{@st41c}%sm{/}
 UI_20160224_002118	Temple Shooter sammelt die Vubbes zurück zur Crystal Mine, das ist nun keine Mirtis-Regel.{nl}Besiege Temple Shooter und helfe erneut dabei Crystal Mine zu einem sicheren Ort zu machen.
 UI_20160224_002119	{@st41c}Kapitel %s{/}
 UI_20160224_002120	Name & Klasse
-UI_20160224_002121	{@st41b}Refresh
+UI_20160224_002121	{@st41b}Aktualisieren
 UI_20160224_002122	Zeige letzte Historie
 UI_20160224_002123	Zuschauen
 UI_20160224_002124	{#000000}%s W{/}
