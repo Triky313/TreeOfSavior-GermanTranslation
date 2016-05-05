@@ -3192,7 +3192,7 @@ SKILL_20150401_003191	Angriff + #{CaptionRatio}#% {nl}Defense - #{CaptionRatio}#
 SKILL_20150401_003192	Temporarily grants a high resistance to being affected nach knock back, knock down or staggered.
 SKILL_20150401_003193	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Use back of sword to smack down enemy.
 SKILL_20150401_003194	Kill the enemy within set attack counts for additional EXP and rewards. But damage and Incapable of combate penalty also increases while the effects last.
-SKILL_20150401_003195	Angriff Limit: #{CaptionRatio}#{nl}2x EXP & Drop Rate
+SKILL_20150401_003195	Angriff Limit: #{CaptionRatio}#{nl}Doppel EXP & Beute-Rate
 SKILL_20150401_003196	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Deeply pierce a collapsed enemy.
 SKILL_20150401_003197	{#DD5500}{ol}[Physisch] - [Hieb]{/}{/}{nl}Quickly rotate to damage nearnach enemies.
 SKILL_20150401_003198	Grow target's right hand and increase defense.
@@ -4240,7 +4240,7 @@ SKILL_20150714_004239	Ani Change when damaged
 SKILL_20150714_004240	Buff Duration of allies has stopped.
 SKILL_20150714_004241	Ani Change when free mal
 SKILL_20150714_004242	Reflect the close enemies.
-SKILL_20150714_004243	Number of buff you can receive
+SKILL_20150714_004243	Erhöht maximale Anzahl der möglichen Buffs.
 SKILL_20150714_004244	The duration mal of beneficial buffs has stopped.
 SKILL_20150714_004245	Skill cooldown decreased nach 20%
 SKILL_20150714_004246	Dash Run
@@ -5957,7 +5957,7 @@ SKILL_20151224_005956	Hidden State
 SKILL_20151224_005957	Reduced crafting mal.
 SKILL_20151224_005958	Cyclone: Resistance
 SKILL_20151224_005959	Erhöht harmful effect resistance rate
-SKILL_20151224_005960	Erhöht recovery amount and recovery rate of HP, SP and STA.
+SKILL_20151224_005960	Erhöht Erholungsmenge und Erholungsrate für HP, SP und STA.
 SKILL_20151224_005961	Erhöht magic amplification at the cost of reducing HP recovery rate to 0
 SKILL_20151224_005962	Erhöht INT
 SKILL_20151224_005963	Erhöht defense

@@ -2265,7 +2265,7 @@ ETC_20150317_002264	Blessed from Sanctum, it is able to make a power attack duri
 ETC_20150317_002265	Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
 ETC_20150317_002266	Worship the Goddess Statue
 ETC_20150317_002267	Verwende Teleport
-ETC_20150317_002268	Worshiping
+ETC_20150317_002268	Verehren
 ETC_20150317_002269	Picking up flowers for offering
 ETC_20150317_002270	Plucked the flower!
 ETC_20150317_002271	I lost in the fragrance of flowers.
@@ -4966,7 +4966,7 @@ ETC_20150317_004961	Exploration Site
 ETC_20150317_004962	Searching
 ETC_20150317_004963	You found the Exploration site.
 ETC_20150317_004964	You found the first tombstone fragment!
-ETC_20150317_004965	Collecting the fragment
+ETC_20150317_004965	Sammle das Fragment ein
 ETC_20150317_004966	You obtained Dusty Fragment!
 ETC_20150317_004967	Anzünden
 ETC_20150317_004968	 x TreeAmbulo sap obtained!
@@ -5612,7 +5612,7 @@ ETC_20150317_005607	Velakaras' attack has increased.
 ETC_20150317_005608	Possessed Activated Stone
 ETC_20150317_005609	You can destroy the Seal!
 ETC_20150317_005610	Sandstone Powder Effekt
-ETC_20150317_005611	Erhoehe Angriff
+ETC_20150317_005611	Erhöhte Angriffskraft
 ETC_20150317_005612	Together, we have nothing to fear!
 ETC_20150317_005613	A holy aura envelopes this monster!
 ETC_20150317_005614	Fog of Light
@@ -9205,7 +9205,7 @@ ETC_20150317_009201	[Cryomancer Klassenmeister]{nl}    Aleister Crowley
 ETC_20150317_009202	[Quarrel Shooter Klassenmeister]{nl}              Ream Toiler
 ETC_20150317_009203	[Ranger Klassenmeister]{nl}       Nemoken
 ETC_20150317_009204	[Swordsman Klassenmeister]{nl}              Rashua
-ETC_20150317_009205	[Wizard Klassenmeister]{nl}        Lucia
+ETC_20150317_009205	[Wizard Klassenmeister]{nl}            Lucia
 ETC_20150317_009206	[Archer Klassenmeister]{nl} Edmundas Tiller
 ETC_20150317_009207	[Cleric Klassenmeister]{nl}       Rozalija
 ETC_20150317_009208	[Priest Klassenmeister]{nl}       Boruble
@@ -10403,8 +10403,8 @@ ETC_20150323_010400	Laden Stand
 ETC_20150323_010401	Tree of Faith Notice
 ETC_20150323_010402	Dallas' Body
 ETC_20150323_010403	Pot of boiling medicine
-ETC_20150323_010404	[Chronomancer Klassenmeister]{nl} Lucid Winterspoon
-ETC_20150323_010405	[Elementalist Klassenmeister]{nl} Wican Celestic
+ETC_20150323_010404	[Chronomancer Klassenmeister]{nl}    Lucid Winterspoon
+ETC_20150323_010405	[Elementalist Klassenmeister]{nl}    Wican Celestic
 ETC_20150323_010406	Pile of wood
 ETC_20150323_010407	Farmland49_2
 ETC_20150323_010408	Sack
@@ -11210,7 +11210,7 @@ ETC_20150414_011207	Klein Dimensional Crack
 ETC_20150414_011208	Unstable Magie Circle
 ETC_20150414_011209	Spell Device
 ETC_20150414_011210	Pilgrim Mathas' Corpse ★
-ETC_20150414_011211	[Falconer Klassenmeister]{nl} Genklas Metai
+ETC_20150414_011211	[Falconer Klassenmeister]{nl}       Genklas Metai
 ETC_20150414_011212	Search Skill Trigger
 ETC_20150428_011213	Night Maiden
 ETC_20150428_011214	Demon Lord Nuaele
@@ -14019,7 +14019,7 @@ ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} Erhöht Physischen Angriff, Kritischer Angriff und die maximale Tragkraft{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
-ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}               Guerra
+ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}                    Guerra
 ETC_20150729_014021	Field Gen x
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
@@ -14644,13 +14644,13 @@ ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
 ETC_20150918_014644	[Rogue Klassenmeister]{nl}           Gema
-ETC_20150918_014645	[Gegenstandshändler]{nl}       Muras
-ETC_20150918_014646	[Ausrüstungshändler]{nl}       Yorgis
+ETC_20150918_014645	[Gegenstandshändler]{nl}           Muras
+ETC_20150918_014646	[Ausrüstungshändler]{nl}           Yorgis
 ETC_20150918_014647	[Schmied]{nl}       Anna
-ETC_20150918_014648	[Auktionshaus Manager]{nl}        Molun
-ETC_20150918_014649	[Lagerwächter]{nl}        Zadan
+ETC_20150918_014648	[Auktionshaus Manager]{nl}              Molun
+ETC_20150918_014649	[Lagerwächter]{nl}         Zadan
 ETC_20150918_014650	Underground Catacombs Dungeon-Tafel
-ETC_20150918_014651	[Zubehörhändler]{nl}      Joana
+ETC_20150918_014651	[Zubehörhändler]{nl}         Joana
 ETC_20150918_014652	Bomb Box
 ETC_20150918_014653	Underground Chapel Dungeon-Tafel
 ETC_20150918_014654	Crisp Grass Pile
@@ -20711,7 +20711,7 @@ ETC_20160224_020707	Cranto Tent
 ETC_20160224_020708	Soldier
 ETC_20160224_020709	Injured Soldier
 ETC_20160224_020710	Injured Refugee
-ETC_20160224_020711	Team Battle League{nl}     Valis
+ETC_20160224_020711	Team Battle Liga{nl}    Valis
 ETC_20160224_020712	[Kedoran Merchant Alliance]{nl}  Relic Collector
 ETC_20160224_020713	Earth Tower Notice Board
 ETC_20160224_020714	[Rune Caster Klassenmeister]{nl}      Shelly Pennington
