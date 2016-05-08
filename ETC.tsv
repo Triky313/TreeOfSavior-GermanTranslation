@@ -259,7 +259,7 @@ ETC_20150317_000258	Its body vanishes if you stay away from it for a long time.
 ETC_20150317_000259	Old Hook
 ETC_20150317_000260	It used its hook on a Groß monster to come over from the demon realm, and has underwent a lot of change.
 ETC_20150317_000261	Stumpy Tree
-ETC_20150317_000262	Even though there are less logging activities, the monsters that originated from the stumps continue to show up. They appear to be formed out of the residues of Plant-type monsters.
+ETC_20150317_000262	Even though there are less logging activities, the monsters that originated from the stumps continue to show up. They appear to be formed out of the residues of Plant-Type monsters.
 ETC_20150317_000263	Catacomb Gravegolem
 ETC_20150317_000264	Root Mole
 ETC_20150317_000265	Poiming
@@ -601,7 +601,7 @@ ETC_20150317_000600	A monster which is said to be created by demons using the Ch
 ETC_20150317_000601	Ellomago
 ETC_20150317_000602	It is both filthy in nature and surly in its appearance.
 ETC_20150317_000603	Ellogua
-ETC_20150317_000604	It is fierce against other monsters and humans, more so especially with Insekt-type monsters.
+ETC_20150317_000604	It is fierce against other monsters and humans, more so especially with Insekt-Type monsters.
 ETC_20150317_000605	Groll
 ETC_20150317_000606	Amphibians that have branched out and evolved to be able to hunt in arid areas, travelers should be wary of them.
 ETC_20150317_000607	Wendigo
@@ -2804,7 +2804,7 @@ ETC_20150317_002801	Magiedurchdringung
 ETC_20150317_002802	Gegenstand EXP
 ETC_20150317_002803	Schuss-Distanz
 ETC_20150317_002804	Geschwindigkeit
-ETC_20150317_002805	Angriff gegen Insekt-type Ziele
+ETC_20150317_002805	Angriff gegen Insekt-Type Ziele
 ETC_20150317_002806	Erd-Eigenschaft Angriff
 ETC_20150317_002807	Erd-Eigenschaft Widerstand
 ETC_20150317_002808	Physischer Schaden when mounted
@@ -3016,7 +3016,7 @@ ETC_20150317_003011	Available during the tagging game
 ETC_20150317_003012	Cannot be used by the tagger
 ETC_20150317_003013	Current Ice status
 ETC_20150317_003014	Available in West Siauliai Woods
-ETC_20150317_003015	There are no [Beast-type] monsters nearby!
+ETC_20150317_003015	There are no [Beast-Type] monsters nearby!
 ETC_20150317_003016	Ride on
 ETC_20150317_003017	Using
 ETC_20150317_003018	First reaction: Movement speed decrease
@@ -4154,7 +4154,7 @@ ETC_20150317_004149	Do you want hire a mercenary? {nl}Consumes iCoin per minute 
 ETC_20150317_004150	Verbrauchbar
 ETC_20150317_004151	Potion
 ETC_20150317_004152	Möglich
-ETC_20150317_004153	{s18}{Auto_1}{Auto_2} Set Effekt:
+ETC_20150317_004153	{s18}{Auto_1}{Auto_2}Set Effekt:
 ETC_20150317_004154	(Ausgerüstet)
 ETC_20150317_004155	(Nicht ausgerüstet)
 ETC_20150317_004156	Waffen
@@ -6019,7 +6019,7 @@ ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking o
 ETC_20150317_006015	Statuspunkte
 ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magie Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Präzision, Evasion and Kritchance {nl}
+ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Widerstand and max Inventory Weight {nl} {nl} INT: Increase in Magie Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Präzision, Evasion and Kritchance {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
 ETC_20150317_006022	Convenience
@@ -7363,36 +7363,36 @@ ETC_20150317_007359	Max SP +%d
 ETC_20150317_007360	Präzision +%d
 ETC_20150317_007361	Defense +%d
 ETC_20150317_007362	Defense +%d
-ETC_20150317_007363	Critical Schaden Resistance +%d
+ETC_20150317_007363	Critical Schaden Widerstand +%d
 ETC_20150317_007364	Ausweichen +%d
-ETC_20150317_007365	Devil-type +%d
-ETC_20150317_007366	Devil-type Resistance +%d
-ETC_20150317_007367	Plant-type +%d
-ETC_20150317_007368	Plant-type Resistance +%d
-ETC_20150317_007369	Mutant-type +%d
-ETC_20150317_007370	Mutant-type Resistance +%d
-ETC_20150317_007371	Beast-type +%d
-ETC_20150317_007372	Beast-type Resistance +%d
+ETC_20150317_007365	Devil-Type +%d
+ETC_20150317_007366	Devil-Type Widerstand +%d
+ETC_20150317_007367	Plant-Type +%d
+ETC_20150317_007368	Plant-Type Widerstand +%d
+ETC_20150317_007369	Mutant-Type +%d
+ETC_20150317_007370	Mutant-Type Widerstand +%d
+ETC_20150317_007371	Beast-Type +%d
+ETC_20150317_007372	Beast-Type Widerstand +%d
 ETC_20150317_007373	Stich Schaden +%d
-ETC_20150317_007374	Stich Resistance +%d
+ETC_20150317_007374	Stich Widerstand +%d
 ETC_20150317_007375	Hieb Schaden +%d
-ETC_20150317_007376	Hieb Resistance +%d
+ETC_20150317_007376	Hieb Widerstand +%d
 ETC_20150317_007377	Schlag Schaden +%d
-ETC_20150317_007378	Schlag Resistance +%d
+ETC_20150317_007378	Schlag Widerstand +%d
 ETC_20150317_007379	Fire Schaden +%d
-ETC_20150317_007380	Fire Resistance +%d
+ETC_20150317_007380	Fire Widerstand +%d
 ETC_20150317_007381	Ice Schaden +%d
-ETC_20150317_007382	Ice Resistance +%d
+ETC_20150317_007382	Ice Widerstand +%d
 ETC_20150317_007383	Wind Schaden +%d
-ETC_20150317_007384	Wind Resistance +%d
+ETC_20150317_007384	Wind Widerstand +%d
 ETC_20150317_007385	Schaden over Time +%d
-ETC_20150317_007386	Schaden over Time Resistance +%d
+ETC_20150317_007386	Schaden over Time Widerstand +%d
 ETC_20150317_007387	Gift Schaden +%d
-ETC_20150317_007388	Gift Resistance +%d
+ETC_20150317_007388	Gift Widerstand +%d
 ETC_20150317_007389	Magie Schaden +%d
-ETC_20150317_007390	Magie Resistance +%d
+ETC_20150317_007390	Magie Widerstand +%d
 ETC_20150317_007391	Dark Schaden +%d
-ETC_20150317_007392	Dark Resistance +%d
+ETC_20150317_007392	Dark Widerstand +%d
 ETC_20150317_007393	I_force011_green #head
 ETC_20150317_007394	Vubbe Hunting
 ETC_20150317_007395	Field Boss hunting
@@ -7622,8 +7622,8 @@ ETC_20150317_007618	Third Scroll to save the reference
 ETC_20150317_007619	Fifth Scroll to save the reference
 ETC_20150317_007620	First Scroll to save the reference
 ETC_20150317_007621	Treat Patient from Minenarbeiter Dorf
-ETC_20150317_007622	Achieved Lv. 6 enhancement on spear-type equipment
-ETC_20150317_007623	Achieved Lv. 6 enhancement on shield-type equipment
+ETC_20150317_007622	Achieved Lv. 6 enhancement on spear-Type equipment
+ETC_20150317_007623	Achieved Lv. 6 enhancement on shield-Type equipment
 ETC_20150317_007624	Track
 ETC_20150317_007625	Recapture the Eastern Woods (1)
 ETC_20150317_007626	1 sheet of Magie Research Reference 
@@ -7992,19 +7992,19 @@ ETC_20150317_007988	Lightning Property Schaden ▲30
 ETC_20150317_007989	Zega Set
 ETC_20150317_007990	Verteidigung ▲6
 ETC_20150317_007991	Magie Set
-ETC_20150317_007992	Additional Darkness Property Schaden +30
+ETC_20150317_007992	Additional Dunkel-Eigenschaft Schaden +30
 ETC_20150317_007993	Jude Set
 ETC_20150317_007994	Bewegungsgeschwindigkeit +5
 ETC_20150317_007995	Ismin Set
-ETC_20150317_007996	Fire Property Resistance +15
+ETC_20150317_007996	Feuer-Eigenschaft Widerstand +15
 ETC_20150317_007997	Poratore Set
-ETC_20150317_007998	Heilig Property Schaden +168 {nl} Dark Property Schaden +168
+ETC_20150317_007998	Heilig Property Schaden +168 {nl} Dunkel-Eigenschaft Schaden +168
 ETC_20150317_007999	Cafrisun Set
 ETC_20150317_008000	HP Erholung +16
 ETC_20150317_008001	Alle Stats +1
-ETC_20150317_008002	Earth Property Schaden +12
+ETC_20150317_008002	Erd-Eigenschaft Schaden +12
 ETC_20150317_008003	Riena Set
-ETC_20150317_008004	Fire Property Resistance +16
+ETC_20150317_008004	Feuer-Eigenschaft Widerstand +16
 ETC_20150317_008005	N/A
 ETC_20150317_008006	N/A
 ETC_20150317_008007	N/A
@@ -8870,21 +8870,21 @@ ETC_20150317_008866	Gebiet-Boss-Tipp
 ETC_20150317_008867	A Gebiet-Boss kann manchmal in bestimmten Bereichen erscheinen.
 ETC_20150317_008868	Elemental Properties-Tipp
 ETC_20150317_008869	Monsters have 1 of the 6 elemental properties: Fire, Ice, Earth, Dark, Gift, or Lightning.
-ETC_20150317_008870	Resistance-Tipp
+ETC_20150317_008870	Widerstand-Tipp
 ETC_20150317_008871	Attacking with countering properties on monsters can cause more damage.
 ETC_20150317_008872	Archer-Tipp
 ETC_20150317_008873	Press and hold the attack button to continuously attack the enemy in target. You can also move while attacking using the arrow keys.
 ETC_20150317_008874	An archer's arrow attacks have a maximum range. Higher damage can be made when you shoot from a distance.
-ETC_20150317_008875	The accuracy and evasion increases when an Archer-type class levels up.
+ETC_20150317_008875	The accuracy and evasion increases when an Archer-Type class levels up.
 ETC_20150317_008876	The basic range attack of Archers cause more damage to flying monsters.
 ETC_20150317_008877	Wizard-Tipp
 ETC_20150317_008878	When Wizard type classes are attacked during skill casting, the skill can be canceled.
-ETC_20150317_008879	The magic defense increases when a Wizard-type class levels up.
+ETC_20150317_008879	The magic defense increases when a Wizard-Type class levels up.
 ETC_20150317_008880	Warrior-Tipp
-ETC_20150317_008881	The physical defense increases when a Warrior-type class levels up.
+ETC_20150317_008881	The physical defense increases when a Warrior-Type class levels up.
 ETC_20150317_008882	Cleric-Tipp
-ETC_20150317_008883	The placed magic circles on the ground from a Cleric may not be effective on flying-type monsters.
-ETC_20150317_008884	The SP and SP recovery increases when a Cleric-type class levels up.
+ETC_20150317_008883	The placed magic circles on the ground from a Cleric may not be effective on flying-Type monsters.
+ETC_20150317_008884	The SP and SP recovery increases when a Cleric-Type class levels up.
 ETC_20150317_008885	Drück STRG um ein Ziel zu fokusieren.
 ETC_20150317_008886	Drück die Alt-Taste um die Bewegung sofort zu stoppen.
 ETC_20150317_008887	Drücke die Leertaste um dein aktuelles Ziel anzusehen.
@@ -8958,7 +8958,7 @@ ETC_20150317_008954	Iron
 ETC_20150317_008955	Eis
 ETC_20150317_008956	Lava
 ETC_20150317_008957	Gift Pot
-ETC_20150317_008958	Resistance
+ETC_20150317_008958	Widerstand
 ETC_20150317_008959	Threat
 ETC_20150317_008960	Kritrate
 ETC_20150317_008961	Bewegungsgeschwindigkeit
@@ -9203,12 +9203,12 @@ ETC_20150317_009199	[Schmied]{nl}       Zaras
 ETC_20150317_009200	[Peltasta Klassenmeister]{nl}     Maria Leed
 ETC_20150317_009201	[Cryomancer Klassenmeister]{nl}    Aleister Crowley
 ETC_20150317_009202	[Quarrel Shooter Klassenmeister]{nl}              Ream Toiler
-ETC_20150317_009203	[Ranger Klassenmeister]{nl}       Nemoken
+ETC_20150317_009203	[Ranger Klassenmeister]{nl}          Nemoken
 ETC_20150317_009204	[Swordsman Klassenmeister]{nl}              Rashua
 ETC_20150317_009205	[Wizard Klassenmeister]{nl}            Lucia
 ETC_20150317_009206	[Archer Klassenmeister]{nl} Edmundas Tiller
-ETC_20150317_009207	[Cleric Klassenmeister]{nl}       Rozalija
-ETC_20150317_009208	[Priest Klassenmeister]{nl}       Boruble
+ETC_20150317_009207	[Cleric Klassenmeister]{nl}         Rozalija
+ETC_20150317_009208	[Priest Klassenmeister]{nl}         Boruble
 ETC_20150317_009209	[Krivis Klassenmeister]{nl}       Herkus
 ETC_20150317_009210	[Auktionator]{nl} Demares
 ETC_20150317_009211	[Auktionshaus Manager]{nl}             Logi
@@ -11002,9 +11002,9 @@ ETC_20150414_010999	Borrow Farming Tools - Pitchfork
 ETC_20150414_011000	Borrow Farming Tools - Sickle
 ETC_20150414_011001	Hunt monsters and get meat
 ETC_20150414_011002	Watcher Set
-ETC_20150414_011003	Angriff gegen Devil-type +6
-ETC_20150414_011004	Angriff gegen Devil-type +8
-ETC_20150414_011005	1% chance of attack against Devil-type +157 for 30 Sekunden when using normal attack
+ETC_20150414_011003	Angriff gegen Devil-Type +6
+ETC_20150414_011004	Angriff gegen Devil-Type +8
+ETC_20150414_011005	1% chance of attack against Devil-Type +157 for 30 Sekunden when using normal attack
 ETC_20150414_011006	Level limit to hide PlayEffectToGround
 ETC_20150414_011007	Rezept - Crude Kaskara
 ETC_20150414_011008	Rezept - Aras' Falchion
@@ -11378,9 +11378,9 @@ ETC_20150428_011375	Gives additional Earth property damage when receiving Earth 
 ETC_20150428_011376	Earth Lederrüstung Set
 ETC_20150428_011377	Earth Plattenrüstung Set
 ETC_20150428_011378	Legwyn Family's Cloth Rüstung Set
-ETC_20150428_011379	Dark Property Resistance +10
+ETC_20150428_011379	Dunkel-Eigenschaft Widerstand +10
 ETC_20150428_011380	SPR +6
-ETC_20150428_011381	1% chance of recovering 200 SP for 5 Sekunden when attacked by a Devil-type enemy
+ETC_20150428_011381	1% chance of recovering 200 SP for 5 Sekunden when attacked by a Devil-Type enemy
 ETC_20150428_011382	Legwyn Family's Lederrüstung Set
 ETC_20150428_011383	Legwyn Family's Plattenrüstung Set
 ETC_20150428_011384	Control EXP of monster job.
@@ -12661,10 +12661,10 @@ ETC_20150714_012658	It is already in progress. Click on Cancel if you want it to
 ETC_20150714_012659	This item that you have added to craft is enhanced. Are you sure you want to use it as material?
 ETC_20150714_012660	Lightning Property
 ETC_20150714_012661	Gift Property
-ETC_20150714_012662	Fire Property
-ETC_20150714_012663	Earth Property
+ETC_20150714_012662	Feuer-Eigenschaft
+ETC_20150714_012663	Erd-Eigenschaft
 ETC_20150714_012664	Ice Property
-ETC_20150714_012665	Dark Property
+ETC_20150714_012665	Dunkel-Eigenschaft
 ETC_20150714_012666	Gender Property
 ETC_20150714_012667	Hütte theme changed.
 ETC_20150714_012668	Liken!
@@ -13096,7 +13096,7 @@ ETC_20150714_013093	Buff upon conversation with progression NPC
 ETC_20150714_013094	Simultaneously started quest upon conversation with progression NPC(no starting lines)
 ETC_20150714_013095	NPC lines upon completion
 ETC_20150714_013096	Started quest upon completion(has starting lines)
-ETC_20150714_013097	Selection-type given item upon completion
+ETC_20150714_013097	Selection-Type given item upon completion
 ETC_20150714_013098	Basic given item upon completion
 ETC_20150714_013099	Target class only given item upon completion
 ETC_20150714_013100	Deleted item upon completion
@@ -13593,7 +13593,7 @@ ETC_20150717_013590	Gesamte Ausrüstung
 ETC_20150717_013591	This game is rated ESRB Teen.
 ETC_20150717_013592	There is no empty slot
 ETC_20150717_013593	When you are mounted on a companion, card duels are not possible.
-ETC_20150717_013594	Mouse Mode may not be feasible{nl}for Swordsman and Cleric-type classes.
+ETC_20150717_013594	Mouse Mode may not be feasible{nl}for Swordsman and Cleric-Type classes.
 ETC_20150717_013595	Gegenstand distribution has been changed to {Change}.
 ETC_20150717_013596	EXP distribution has been changed to {Change}.
 ETC_20150717_013597	Quest Sharing has been changed to {Change}.
@@ -13667,9 +13667,9 @@ ETC_20150729_013664	Explodes upon death.
 ETC_20150729_013665	Widerstand
 ETC_20150729_013666	Waffenschaden
 ETC_20150729_013667	Potential decrease when using physical attack
-ETC_20150729_013668	Pfeil Resistance
+ETC_20150729_013668	Pfeil Widerstand
 ETC_20150729_013669	Erhöhe resistance against arrow attacks.
-ETC_20150729_013670	Property Resistance
+ETC_20150729_013670	Property Widerstand
 ETC_20150729_013671	Magie resistance increase based on property
 ETC_20150729_013672	Level Up
 ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
@@ -13699,7 +13699,7 @@ ETC_20150729_013696	Nur Bereiche die du entdeckt hast werden angezeigt. Unentdec
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Verwende Statuspunkte welche du durch das leveln erhälst um deine Fähigkeiten zu verbessern.
 ETC_20150729_013699	Drücke {img F1 40 40} um die Charakter-Information zu öffnen und mehr über deinen Charakter zu erfahren.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magie Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magie Defense and Block Penetration {nl} {nl} DEX : Increase in Präzision, Evasion and Kritchance {nl}
+ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Widerstand and Max Inventory Weight {nl} {nl} INT : Increase in Magie Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magie Defense and Block Penetration {nl} {nl} DEX : Increase in Präzision, Evasion and Kritchance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	Du kannst die Skills deines Charakters im Skill-Fenster bearbeiten.
 ETC_20150729_013703	Drücke {img F3 40 40} um das Skill-Fenster zu öffnen.
@@ -14019,7 +14019,7 @@ ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} Erhöht Physischen Angriff, Kritischer Angriff und die maximale Tragkraft{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
-ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}                    Guerra
+ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}                       Guerra
 ETC_20150729_014021	Field Gen x
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
@@ -14040,7 +14040,7 @@ ETC_20150730_014037	Schadens will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magie Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magie Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Präzision, Evasion and Critical Rate{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Widerstand and Max Weight{nl} {nl}- INT : Increase in Magie Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magie Defense, Block Penetration and Widerstand to harmful effects{nl} {nl}- DEX : Increase in Präzision, Evasion and Critical Rate{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14189,21 +14189,21 @@ ETC_20150804_014186	Zachariel's Epitaph
 ETC_20150807_014187	AoE Angriffsanzahl {img red_up_arrow 16 16} 2
 ETC_20150807_014188	Lightning Property Attack {img red_up_arrow 16 16} 30
 ETC_20150807_014189	Defense {img red_up_arrow 16 16} 6
-ETC_20150807_014190	Dark Property Attack {img red_up_arrow 16 16} 30
+ETC_20150807_014190	Dunkel-Eigenschaft Attack {img red_up_arrow 16 16} 30
 ETC_20150807_014191	Movement Speed {img red_up_arrow 16 16} 5
-ETC_20150807_014192	Fire Property Resistance {img red_up_arrow 16 16} 15
-ETC_20150807_014193	Heilig Property Attack {img red_up_arrow 16 16} 168{nl}Dark Property Attack {img red_up_arrow 16 16} 168
+ETC_20150807_014192	Feuer-Eigenschaft Widerstand {img red_up_arrow 16 16} 15
+ETC_20150807_014193	Heilig Property Attack {img red_up_arrow 16 16} 168{nl}Dunkel-Eigenschaft Attack {img red_up_arrow 16 16} 168
 ETC_20150807_014194	HP Recovery {img red_up_arrow 16 16} 16
 ETC_20150807_014195	All Stats {img red_up_arrow 16 16} 1
-ETC_20150807_014196	Additional Earth Property Attack {img red_up_arrow 16 16} 12
-ETC_20150807_014197	Fire Property Resistance {img red_up_arrow 16 16} 16
-ETC_20150807_014198	Angriff gegen Devil-type Ziele {img red_up_arrow 16 16} 6
-ETC_20150807_014199	Angriff gegen Devil-type Ziele {img red_up_arrow 16 16} 8 for 30 Sekunden at a 1% chance when using basic attacks
-ETC_20150807_014200	1% chance of increased attack against Devil-type Ziele by {img red_up_arrow 16 16} 157 for 30 Sekunden
+ETC_20150807_014196	Additional Erd-Eigenschaft Attack {img red_up_arrow 16 16} 12
+ETC_20150807_014197	Feuer-Eigenschaft Widerstand {img red_up_arrow 16 16} 16
+ETC_20150807_014198	Angriff gegen Devil-Type Ziele {img red_up_arrow 16 16} 6
+ETC_20150807_014199	Angriff gegen Devil-Type Ziele {img red_up_arrow 16 16} 8 for 30 Sekunden at a 1% chance when using basic attacks
+ETC_20150807_014200	1% chance of increased attack against Devil-Type Ziele by {img red_up_arrow 16 16} 157 for 30 Sekunden
 ETC_20150807_014201	All Stats {img red_up_arrow 16 16} 3
 ETC_20150807_014202	CON {img red_up_arrow 16 16} 5
 ETC_20150807_014203	STA {img red_up_arrow 16 16} 10
-ETC_20150807_014204	Dark Property Resistance {img red_up_arrow 16 16} 10
+ETC_20150807_014204	Dunkel-Eigenschaft Widerstand {img red_up_arrow 16 16} 10
 ETC_20150807_014205	SPR {img red_up_arrow 16 16} 6
 ETC_20150807_014206	Group Settings {img white_right_arrow 18 18}
 ETC_20150807_014207	{@st41b}Fold {img red_up_arrow 16 16} 
@@ -14352,22 +14352,22 @@ ETC_20150918_014349	The Tomb Robber in History
 ETC_20150918_014350	Traitor's Diary
 ETC_20150918_014351	Light Plate Set
 ETC_20150918_014352	AoE Angriffsanzahl {img green_up_arrow 16 16} 1
-ETC_20150918_014353	Defense {img green_up_arrow 16 16} 6
-ETC_20150918_014354	Dark Property Attack {img green_up_arrow 16 16} 30
-ETC_20150918_014355	Movement Speed {img green_up_arrow 16 16} 5
-ETC_20150918_014356	Fire Property Attack {img green_up_arrow 16 16} 15
-ETC_20150918_014357	Heilig Property Attack {img green_up_arrow 16 16}168{nl}Darkness Property Attack {img green_up_arrow 16 16} 168
+ETC_20150918_014353	Verteidigung {img green_up_arrow 16 16} 6
+ETC_20150918_014354	Dunkel-Eigenschaft Angriff {img green_up_arrow 16 16} 30
+ETC_20150918_014355	Bewegungsgeschwindigkeit {img green_up_arrow 16 16} 5
+ETC_20150918_014356	Feuer-Eigenschaft Attack {img green_up_arrow 16 16} 15
+ETC_20150918_014357	Heilig Property Attack {img green_up_arrow 16 16}168{nl}Dunkel-Eigenschaft Attack {img green_up_arrow 16 16} 168
 ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16} 16
 ETC_20150918_014359	All Stats {img green_up_arrow 16 16} 1
-ETC_20150918_014360	Earth Property Additional Schaden {img green_up_arrow 16 16} 12
-ETC_20150918_014361	Fire Property Resistance {img green_up_arrow 16 16} 16
-ETC_20150918_014362	Angriff gegen Devil-type Ziele {img green_up_arrow 16 16} 6
-ETC_20150918_014363	Angriff gegen Devil-type Ziele {img green_up_arrow 16 16} 8
-ETC_20150918_014364	1% chance to gain 30 Sekunden of increased attack against Devil-type Ziele by {img green_up_arrow 16 16} 157 
-ETC_20150918_014365	All Stats {img green_up_arrow 16 16} 3
+ETC_20150918_014360	Erd-Eigenschaft Additional Schaden {img green_up_arrow 16 16} 12
+ETC_20150918_014361	Feuer-Eigenschaft Widerstand {img green_up_arrow 16 16} 16
+ETC_20150918_014362	Angriff gegen Devil-Type Ziele {img green_up_arrow 16 16} 6
+ETC_20150918_014363	Angriff gegen Devil-Type Ziele {img green_up_arrow 16 16} 8
+ETC_20150918_014364	1% chance to gain 30 Sekunden of increased attack against Devil-Type Ziele by {img green_up_arrow 16 16} 157 
+ETC_20150918_014365	Alle Stats {img green_up_arrow 16 16} 3
 ETC_20150918_014366	CON {img green_up_arrow 16 16} 5
-ETC_20150918_014367	Stamina {img green_up_arrow 16 16} 10
-ETC_20150918_014368	Darkness Property Resistance {img green_up_arrow 16 16} 10
+ETC_20150918_014367	Ausdauer {img green_up_arrow 16 16} 10
+ETC_20150918_014368	Dunkel-Eigenschaft Widerstand {img green_up_arrow 16 16} 10
 ETC_20150918_014369	SPR {img green_up_arrow 16 16} 6
 ETC_20150918_014370	Agvenipa Set
 ETC_20150918_014371	[Backstab] Attack x4{nl}Evasion {img red_down_arrow 16 16} 188
@@ -14375,8 +14375,8 @@ ETC_20150918_014372	Bokor Zombie Count
 ETC_20150918_014373	blowSound volume except for my character
 ETC_20150918_014374	Character Advancement Rank Limit
 ETC_20150918_014375	Event Scene Quest normal monster drop rate 10/1
-ETC_20150918_014376	Instanced Dungeon Reset Time 9 AM
-ETC_20150918_014377	Hey! Help me!
+ETC_20150918_014376	Dungeon Rücksetz-Zeit 9 AM
+ETC_20150918_014377	Hay! Hilf mir!
 ETC_20150918_014378	local buf = GetBuffByName(self, "BrambleRage");  local over = GetOver(buf);  return over + 1 .. " times summoning is starting.";
 ETC_20150918_014379	Rezept - Escanciu Schwer
 ETC_20150918_014380	Rezept - Krag Schwer
@@ -14645,12 +14645,12 @@ ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
 ETC_20150918_014644	[Rogue Klassenmeister]{nl}           Gema
 ETC_20150918_014645	[Gegenstandshändler]{nl}           Muras
-ETC_20150918_014646	[Ausrüstungshändler]{nl}           Yorgis
+ETC_20150918_014646	[Ausrüstungshändler]{nl}            Yorgis
 ETC_20150918_014647	[Schmied]{nl}       Anna
 ETC_20150918_014648	[Auktionshaus Manager]{nl}              Molun
-ETC_20150918_014649	[Lagerwächter]{nl}         Zadan
+ETC_20150918_014649	[Lagerwächter]{nl}          Zadan
 ETC_20150918_014650	Underground Catacombs Dungeon-Tafel
-ETC_20150918_014651	[Zubehörhändler]{nl}         Joana
+ETC_20150918_014651	[Zubehörhändler]{nl}           Joana
 ETC_20150918_014652	Bomb Box
 ETC_20150918_014653	Underground Chapel Dungeon-Tafel
 ETC_20150918_014654	Crisp Grass Pile
@@ -16902,10 +16902,10 @@ ETC_20151102_016899	Linker Klassenmeister's Advice
 ETC_20151102_016900	Besiege small-sized monster
 ETC_20151102_016901	Besiege medium-sized monster
 ETC_20151102_016902	Besiege Groß-sized monster
-ETC_20151102_016903	Fire Property Monster
+ETC_20151102_016903	Feuer-Eigenschaft Monster
 ETC_20151102_016904	Ice Property Monster
 ETC_20151102_016905	Lightning Property Monster
-ETC_20151102_016906	Earth Property Monster
+ETC_20151102_016906	Erd-Eigenschaft Monster
 ETC_20151102_016907	Chest in the Castlefield 65_1
 ETC_20151102_016908	Chest in the Castlefield 65_2
 ETC_20151102_016909	Chest in the Castlefield 65_3
@@ -17485,7 +17485,7 @@ ETC_20151224_017482	Old Status that Goddess' divinity left from here will absorb
 ETC_20151224_017483	The number of Bagworms is no longer increasing, yet its current population is enough not to worry about extinction.
 ETC_20151224_017484	This kind of monster won't be discovered anymore. But, the number of these monsters that currently exist seems to indicate that there is no worry about extinction.
 ETC_20151224_017485	It used its hook on a Groß monster to come over from the demon realm and has gone through a lot of change.
-ETC_20151224_017486	Even though there are less logging activities, the monsters that originated from the stumps continue to show up. They appear to be formed out of the residues of Plant-type monsters.
+ETC_20151224_017486	Even though there are less logging activities, the monsters that originated from the stumps continue to show up. They appear to be formed out of the residues of Plant-Type monsters.
 ETC_20151224_017487	The eyesight is not bad unlike its name.
 ETC_20151224_017488	A subspecies of the Hanaming. Recently found and currently still in research.
 ETC_20151224_017489	Demon Lord Mirtis said the man was his servant. Some say it was a clone of her...
@@ -17549,7 +17549,7 @@ ETC_20151224_017546	This monster appears in the regions of the kingdom where the
 ETC_20151224_017547	Kirmeleech sucks the blood of either monsters or demons since humans are too small to them. However, they do attack humans, so it's actually not important whether they suck blood from humans or not.
 ETC_20151224_017548	Even the demons who caused Medzio Diena don't know whether Magburks around them would turn out like that.
 ETC_20151224_017549	Naktis has three sisters who are Demon Lords and they are all related to the Demon Queen Gesti.
-ETC_20151224_017550	Most Plant-type monsters used to be threatening to small animals, but they became bigger after Medzio Diena and became threatening to humans as well.
+ETC_20151224_017550	Most Plant-Type monsters used to be threatening to small animals, but they became bigger after Medzio Diena and became threatening to humans as well.
 ETC_20151224_017551	Some people are not giving up and are trying to tame bird monsters. If they succeed, they would help a lot in battles and transportations.
 ETC_20151224_017552	There's a rumor going around that Ironbaum used to be the target of practice for the demons. Regardless of what their origin is, they are threats to us now.
 ETC_20151224_017553	For the last several years, the Vubbe society became severely differentiated and complicated.
@@ -17574,17 +17574,17 @@ ETC_20151224_017571	Compared to the goddesses, the demons either grow or create 
 ETC_20151224_017572	Legend has it that this is an object of the ancient devil whose identity is unknown. According to that legend, even Giltine didn't want to fight against it.
 ETC_20151224_017573	Hogma is smarter than the Vubbes so they use tools, but due to its strong instinct, it tends to make mistakes and hardly makes any progress.
 ETC_20151224_017574	Among the Hogmas, there is someone who obtained the abilities through experiences. But, a sorcerer is not free from the instinct of a Hogma.
-ETC_20151224_017575	It is a Beast-type monster whose origin can be easily identified from its appearance and its name.
+ETC_20151224_017575	It is a Beast-Type monster whose origin can be easily identified from its appearance and its name.
 ETC_20151224_017576	It hasn't been discovered yet from which inanimate being this monster tranformed from.
 ETC_20151224_017577	It was rare that Hydra encounter with humans before Medzio Diena, but whenever they were encountered, they were really hard to fight against. However, its immortality has disappeared so you would be able to kill it if you are competent enough.
 ETC_20151224_017578	It likes to hide in dark places or deep forests. It is timid so it only appears and attacks when it thinks the opponent is weak.
 ETC_20151224_017579	When it succeeds in suppressing an opponent, it has the tendency to paralyze the opponent and suck the body fluid of the opponent at a slow pace. After it increases its size, it attacks small-sized opponents to relieve its aggression and not to fulfill its hunger.
-ETC_20151224_017580	Initially, many people underestimated Colimencia, a strong Plant-type monster, since it was in a state of inactivity, but they received severe damage.
+ETC_20151224_017580	Initially, many people underestimated Colimencia, a strong Plant-Type monster, since it was in a state of inactivity, but they received severe damage.
 ETC_20151224_017581	It is not well known since it didn't interact many times with humans, but this demon has both the cruelity and sense of humor.
 ETC_20151224_017582	It is fortunate that there aren't many cases that the host became a monster, but it's a difficult phenomenon to understand.
 ETC_20151224_017583	Though it is a legend that cannot be confirmed, but Harpeia used to follow Goddess Laima instead of the demons.
 ETC_20151224_017584	Humans and monsters have the tendency to harass others that are weaker than them.
-ETC_20151224_017585	The demons are trying to give Manticen a great power so it can control other Insekt-type monsters.
+ETC_20151224_017585	The demons are trying to give Manticen a great power so it can control other Insekt-Type monsters.
 ETC_20151224_017586	The seeds that dropped from leaf molds combined with larvas and turned into monsters. Of course, they weren't discovered before Medzio Diena.
 ETC_20151224_017587	They are the demons who took care of the garden of high-ranked demons and fruit trees. After Giltine decided to fight against the goddesses, they now participate in battles. Like most other demons, what they do and their battle skills and all are unrelated.
 ETC_20151224_017588	Chupacabras appear simultaneously in various places and are threatening many lives and crops.
@@ -17614,7 +17614,7 @@ ETC_20151224_017611	There are many birds that cannot fly after they've transform
 ETC_20151224_017612	The fragments or the broken pieces of Golem are reborn with new forms. Rublem is one of those.
 ETC_20151224_017613	It is a monster that was transformed from the plants that grew from stones which the humans threw away after refining them on Medzio Diena.
 ETC_20151224_017614	There is a variety of demonic soldiers in the demon realm. Their positions and ranks are not well known. The first record of Fallenlem came out from Agailla Flurry's biography.
-ETC_20151224_017615	Among Plant-type monsters, exceptionally, they show tribunal characteristics. In an academic point of view, many people wonder whether they would possess more sociality.
+ETC_20151224_017615	Among Plant-Type monsters, exceptionally, they show tribunal characteristics. In an academic point of view, many people wonder whether they would possess more sociality.
 ETC_20151224_017616	They consume either small animals or insects. Nevertheless, they show hostility to the animals that are bigger than them, so anyone who encounters with them should be careful.
 ETC_20151224_017617	Although they are small, they are already hosts. Of course, they will keep growing.
 ETC_20151224_017618	It is uncertain which roles Belegg is responsible for and whether they are just moving magical creatures.
@@ -18185,17 +18185,17 @@ ETC_20151224_018181	Sorcerer - Grimoire
 ETC_20151224_018182	A Sorcerer is a wizard who summons devils.
 ETC_20151224_018183	When you advance to a Sorcerer, a button will be displayed
 ETC_20151224_018184	on the bottom right side of your screen.
-ETC_20151224_018185	Only Devil-type cards can be registered onto the Grimoire, and you can select between main and Sekundeary cards.
+ETC_20151224_018185	Only Devil-Type cards can be registered onto the Grimoire, and you can select between main and Sekundeary cards.
 ETC_20151224_018186	{nl} {nl}Depending on the cards that are registered on Grimoire, the stats of the devils will be changed.
 ETC_20151224_018187	Necromancer - Necronomicon
 ETC_20151224_018188	Necromancer is a class that utilizes magic involving the dead by using corpses.
 ETC_20151224_018189	When you advance to a Necromancer, at the bottom right side of your screen
-ETC_20151224_018190	Only Animal, Plant and Mutant-type cards can be registered onto the Necronomicon with a maximum of four cards.{nl}At the bottom of the Necronomicon, you can view the number of fragments that you've collected so far.
+ETC_20151224_018190	Only Animal, Plant and Mutant-Type cards can be registered onto the Necronomicon with a maximum of four cards.{nl}At the bottom of the Necronomicon, you can view the number of fragments that you've collected so far.
 ETC_20151224_018191	{nl} {nl}The stats of the summoned Shoggoth will change depending on the cards that are registered onto the Necronomicon.
 ETC_20151224_018192	Wugushi - Gift Pot
 ETC_20151224_018193	A Wugushi is an archer that specializes in using poison.
 ETC_20151224_018194	When you advance to a Wugushi, the Gift Pot located at the bottom right side of your screen,
-ETC_20151224_018195	You are able to craft poison and use them with your skills as a Wugushi.{nl}The ingredients of the poison can be: Gift Liquid or the loot from Insekt-type monsters. 
+ETC_20151224_018195	You are able to craft poison and use them with your skills as a Wugushi.{nl}The ingredients of the poison can be: Gift Liquid or the loot from Insekt-Type monsters. 
 ETC_20151224_018196	{nl} {nl}Gift Liquid can be purchased from the Wugushi Klassenmeister or Wugushi Klassenmeister.
 ETC_20151224_018197	Cannot find a GUID of the item in the inven.
 ETC_20151224_018198	Cannot load the barrack PC. Check the information.
@@ -18573,7 +18573,7 @@ ETC_20151224_018569	Release the left Seal Candlestick's barrier
 ETC_20151224_018570	Release the right Seal Candlestick's barrier
 ETC_20151224_018571	Follow the light bead from the Owl Sculpture in Bastymosi Field
 ETC_20151224_018572	Recharge the demonic power to the ice parts by killing the monsters
-ETC_20151224_018573	Achieved Lv. 1 enhancement on a crossbow-type equipment
+ETC_20151224_018573	Achieved Lv. 1 enhancement on a crossbow-Type equipment
 ETC_20151224_018574	Besiege the monsters by placing the Kondensierter Firestone
 ETC_20151224_018575	Uppercut the monsters by using Psychokino's Scroll
 ETC_20151224_018576	Besiege the monsters within the range of the magic detection district
@@ -18666,8 +18666,8 @@ ETC_20151224_018662	Physische Verteidigung {img green_up_arrow 16 16} 5
 ETC_20151224_018663	Physische Verteidigung {img green_up_arrow 16 16} 10
 ETC_20151224_018664	Ausweichen {img green_up_arrow 16 16} 15
 ETC_20151224_018665	Grynas Set
-ETC_20151224_018666	Dark Property Resistance {img green_up_arrow 16 16} 10
-ETC_20151224_018667	Dark Property Resistance {img green_up_arrow 16 16} 20
+ETC_20151224_018666	Dunkel-Eigenschaft Widerstand {img green_up_arrow 16 16} 10
+ETC_20151224_018667	Dunkel-Eigenschaft Widerstand {img green_up_arrow 16 16} 20
 ETC_20151224_018668	HP {img green_up_arrow 16 16}1020
 ETC_20151224_018669	{img green_up_arrow 16 16} 6 magic defense, {img red_down_arrow 16 16} 6 physical defense for 30 Sekunden with every basic and physical attack{nl}Increases Heilig and Dark property attack equal to 7.5% magic defense for 10 Sekunden when stacked 20 times
 ETC_20151224_018670	Minimum Combo Count
@@ -19767,7 +19767,7 @@ ETC_20151224_019763	You have obtained a reward for the Gruppe Quest achievement.
 ETC_20151224_019764	You have obtained a reward for the Capable Adventurer achievement.
 ETC_20151224_019765	Could not find ClassType, Name, Tactics, SimpleAI, Dialog, Enter, Leave in the Search Results.
 ETC_20151224_019766	Would you like to hire a Helper?{nl}Consumes 1 TP per minute{nl} {img medal 32 32}
-ETC_20151224_019767	{s16}{Auto_1}{Auto_2} Set Effekt : 
+ETC_20151224_019767	{s16}{Auto_1}{Auto_2}Set Effekt : 
 ETC_20151224_019768	Would you like to change your hairstyle? (Benötigt 100 TP)
 ETC_20151224_019769	Nachrichten-Einstellungen
 ETC_20151224_019770	{@st59} When checked, quest objectives will appear on the right side of your screen. {nl}Up to 5 quest objectives can be displayed{/}
@@ -20425,14 +20425,14 @@ ETC_20160224_020421	Following Battle NPC
 ETC_20160224_020422	Virtov Set
 ETC_20160224_020423	Ice Property Attack {img green_up_arrow 16 16} 12
 ETC_20160224_020424	Ice Property Attack {img green_up_arrow 16 16} 26
-ETC_20160224_020425	Stich-type Defense {img green_up_arrow 16 16} 25
+ETC_20160224_020425	Stich-Type Defense {img green_up_arrow 16 16} 25
 ETC_20160224_020426	Virtov Leder Set
-ETC_20160224_020427	Schlag-type Defense {img green_up_arrow 16 16} 25
+ETC_20160224_020427	Schlag-Type Defense {img green_up_arrow 16 16} 25
 ETC_20160224_020428	Virtov Plate Set
-ETC_20160224_020429	Hieb-type Defense {img green_up_arrow 16 16} 25
+ETC_20160224_020429	Hieb-Type Defense {img green_up_arrow 16 16} 25
 ETC_20160224_020430	Lolopanther Set
 ETC_20160224_020431	SP Recovery {img green_up_arrow 16 16} 100
-ETC_20160224_020432	Earth Property Attack {img green_up_arrow 16 16} 42
+ETC_20160224_020432	Erd-Eigenschaft Attack {img green_up_arrow 16 16} 42
 ETC_20160224_020433	INT {img green_up_arrow 16 16} 25
 ETC_20160224_020434	Lolopanther Leder Set
 ETC_20160224_020435	Critical Rate {img green_up_arrow 16 16} 46
@@ -20659,8 +20659,8 @@ ETC_20160224_020655	The item currently equipped is enchanted and cannot be awake
 ETC_20160224_020656	Storing an item in Team Storage{nl}reduces its Potential.{nl}However, it does not reduce when taking it out.{nl}Do you still want to store it?
 ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of items you can trade.{nl}Do you still want to store it?
 ETC_20160224_020658	You've exhausted your available trades.
-ETC_20160224_020659	Schlag-type
-ETC_20160224_020660	Schlag-type Defense
+ETC_20160224_020659	Schlag-Type
+ETC_20160224_020660	Schlag-Type Defense
 ETC_20160224_020661	Verzaubern
 ETC_20160224_020662	Diese Sammlung teilst du dir mit deinem Team.{nl}Der Gegenstand kann nicht zurückgenommen werden nachdem er einmal{nl}hinzugefügt wurde.{nl}Wirklich hinzufügen? 
 ETC_20160224_020663	You have already registered this recipe.
@@ -20711,7 +20711,7 @@ ETC_20160224_020707	Cranto Tent
 ETC_20160224_020708	Soldier
 ETC_20160224_020709	Injured Soldier
 ETC_20160224_020710	Injured Refugee
-ETC_20160224_020711	Team Battle Liga{nl}    Valis
+ETC_20160224_020711	Team Battle Liga{nl}      Valis
 ETC_20160224_020712	[Kedoran Merchant Alliance]{nl}  Relic Collector
 ETC_20160224_020713	Earth Tower Notice Board
 ETC_20160224_020714	[Rune Caster Klassenmeister]{nl}      Shelly Pennington
