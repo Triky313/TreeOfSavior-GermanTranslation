@@ -8844,36 +8844,36 @@ ETC_20150317_008840	Gruppen Request-Tipp
 ETC_20150317_008841	Right-click on another player's character to send a party request. When a request is accepted, you can play together in a party.
 ETC_20150317_008842	Public Gruppen List-Tipp
 ETC_20150317_008843	Shows the list of current parties in the game. Click on the list to join the party.
-ETC_20150317_008844	Friends List-Tipp
+ETC_20150317_008844	Freundeslisten-Tipp
 ETC_20150317_008845	Drücke F7 um deine Freundesliste zu sehen.
 ETC_20150317_008846	Pose-Tipp
-ETC_20150317_008847	Press F8 to apply a pose or add a macro.
+ETC_20150317_008847	Drücke F8 um eine Pose zu verwenden oder ein Makro hinzuzufügen.
 ETC_20150317_008848	Begleiter Info-Tipp
 ETC_20150317_008849	Drücke F9 um den aktuellen Status deines Begleiters zu sehen.
-ETC_20150317_008850	Help-Tipp
+ETC_20150317_008850	Hilfe-Tipp
 ETC_20150317_008851	Drücke F10 um die Hilfe zu öffnen.
 ETC_20150317_008852	Begleiter-Tipp
-ETC_20150317_008853	You can adopt and train your companion through the Begleiter Trader NPC.
-ETC_20150317_008854	Player Trading-Tipp
-ETC_20150317_008855	Right-click on another player to send trade requests.
-ETC_20150317_008856	Area Map-Tipp
-ETC_20150317_008857	Press M to view the current area map.
-ETC_20150317_008858	World Map-Tipp
-ETC_20150317_008859	Press N to view the world map.
+ETC_20150317_008853	Du kannst einen Begleiter beim Händler NPC adoptieren oder trainieren.
+ETC_20150317_008854	Spielerhandel-Tipp
+ETC_20150317_008855	Rechtsklick auf einen anderen Spieler um ihn eine Handelsanfrage zu senden.
+ETC_20150317_008856	Gebietskarte-Tipp
+ETC_20150317_008857	Drücke M um die Gebietskarte zu öffnen.
+ETC_20150317_008858	Weltkarte-Tipp
+ETC_20150317_008859	Drücke N um die Weltkarte zu öffnen.
 ETC_20150317_008860	Resurrection-Tipp
 ETC_20150317_008861	The durability of equipped items decreases once the character becomes incapable of combat.
-ETC_20150317_008862	Advancement-Tipp
-ETC_20150317_008863	You can advance to the same or a different class once you've reached the maximum class level.
+ETC_20150317_008862	Aufstieg-Tipp
+ETC_20150317_008863	Du kannst in derselben Klasse oder einer anderen Aufsteigen wenn du das maximale Klassen-Level erreicht hast.
 ETC_20150317_008864	Missions-Tipp
-ETC_20150317_008865	Use the mission item purchased from the Söldnerposten to open a portal to take on a mission.
+ETC_20150317_008865	Verwende den Missions-Gegenstand vom Söldnerposten um ein Portal zu einer Mission zu öffnen. 
 ETC_20150317_008866	Gebiet-Boss-Tipp
-ETC_20150317_008867	A Gebiet-Boss kann manchmal in bestimmten Bereichen erscheinen.
-ETC_20150317_008868	Elemental Properties-Tipp
-ETC_20150317_008869	Monsters have 1 of the 6 elemental properties: Fire, Ice, Earth, Dark, Gift, or Lightning.
+ETC_20150317_008867	Ein Gebiet-Boss kann manchmal in bestimmten Bereichen erscheinen.
+ETC_20150317_008868	Elementar Eigenschafts-Tipp
+ETC_20150317_008869	Monster haben eines der folgenden 6 Element-Eigenschaften: Feuer, Eis, Erde, Dunkel, Gift oder Blitz.
 ETC_20150317_008870	Widerstand-Tipp
-ETC_20150317_008871	Attacking with countering properties on monsters can cause more damage.
+ETC_20150317_008871	Angriffe mit Konter-Eigenschaften können an Monstern mehr Schaden anrichten.
 ETC_20150317_008872	Archer-Tipp
-ETC_20150317_008873	Press and hold the attack button to continuously attack the enemy in target. You can also move while attacking using the arrow keys.
+ETC_20150317_008873	Drücke und halte die Angriffs-Taste um das anvisierte Ziel anzugreifen. Du kannst dich auch während des Angriffs mit den Pfeiltasten bewegen.
 ETC_20150317_008874	An archer's arrow attacks have a maximum range. Higher damage can be made when you shoot from a distance.
 ETC_20150317_008875	The accuracy and evasion increases when an Archer-Type class levels up.
 ETC_20150317_008876	The basic range attack of Archers cause more damage to flying monsters.
