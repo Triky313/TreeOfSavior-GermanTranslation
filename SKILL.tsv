@@ -1668,7 +1668,7 @@ SKILL_20150317_001667	Rage
 SKILL_20150317_001668	Become enraged. Increases STR, Physisch Angriff and Movement Speed., but decreases INT, Physisch and Magie Defense.
 SKILL_20150317_001669	Cursed a target.
 SKILL_20150317_001670	Natural recovery impossible, magic defense decreases.
-SKILL_20150317_001671	Addiction Aurora
+SKILL_20150317_001671	Süchtige Aura
 SKILL_20150317_001672	Spreads Gift to nearnach enemies. Limited running and item usage.
 SKILL_20150317_001673	Growth
 SKILL_20150317_001674	Confusion
@@ -6356,3 +6356,4 @@ SKILL_20160323_006355	Carnivory: Dauer
 SKILL_20160323_006356	Erhöht die Dauer von [Carnivory] um 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20160329_006357	Maximale Dauer: #{CaptionRatio2}# Sekunden{nl}+#{CaptionRatio}#% blocken während Skill andauert{nl}Dauer: 15 Sekunden
 SKILL_20160425_006358	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden{nl}
+SKILL_20160426_006359	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use 
