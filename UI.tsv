@@ -2184,4 +2184,4 @@ UI_20160426_002183	{/}{b}{s20}Begleiter{/}{s43}{@st43}%s{/}
 UI_20160426_002184	{/}Löscht in {b}{s20}%s Sekunden.{/}
 UI_20160426_002185	{s18}{ol}{#ffffcc}Nein{/}
 UI_20160426_002186	{s18}{ol}{#ffffcc}Abbrechen{/}
-UI_20160509_002187	Nur Token-Nutzer haben Zugang zum Team-Lager. Gegenstände, die gehandelt werden können, können hier abgelegt werden.
+UI_20160509_002187	Nur Token-Nutzer haben Zugang zum Team-Lager. Gegenstände, die gehandelt{nl}werden können, können hier abgelegt werden.
