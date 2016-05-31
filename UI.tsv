@@ -2185,3 +2185,11 @@ UI_20160426_002184	{/}Löscht in {b}{s20}%s Sekunden.{/}
 UI_20160426_002185	{s18}{ol}{#ffffcc}Nein{/}
 UI_20160426_002186	{s18}{ol}{#ffffcc}Abbrechen{/}
 UI_20160509_002187	Nur Token-Nutzer haben Zugang zum Team-Lager. Gegenstände, die gehandelt{nl}werden können, können hier abgelegt werden.
+UI_20160520_002188	Kaufe TP
+UI_20160520_002189	{@st42}TP Kauf
+UI_20160520_002190	{@st43}{s22}Steam Inventar Gegenstand
+UI_20160520_002191	{@st45tw2}TP Kauf{/}
+UI_20160520_002192	Gegebene TP
+UI_20160520_002193	{@st49}Verwenden{/}
+UI_20160520_002194	{@st42}Gildenkrieg
+UI_20160520_002195	Für neutral erklärt
