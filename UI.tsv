@@ -2193,3 +2193,7 @@ UI_20160520_002192	Gegebene TP
 UI_20160520_002193	{@st49}Verwenden{/}
 UI_20160520_002194	{@st42}Gildenkrieg
 UI_20160520_002195	Für neutral erklärt
+UI_20160603_002196	{@st66b}Skill Control Speed (%s){/}
+UI_20160613_002197	{@st42}If both parties are using Tokens,{nl}tradable equipment items will not become untradable.{nl}{#FFFF00}Consumables and material items will become{nl}untradable regardless of Token use.{/}
+UI_20160613_002198	{@st59}Close{/}
+UI_20160613_002199	{@st43}{s22}Team Level %s{/}
