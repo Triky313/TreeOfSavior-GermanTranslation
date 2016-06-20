@@ -1497,7 +1497,7 @@ ETC_20150317_001496	This room does not exist. {nl}Please refresh the Room List.
 ETC_20150317_001497	You cannot enter the room as there is no empty slot.
 ETC_20150317_001498	You cannot move as there is no empty slot in the alliance.
 ETC_20150317_001499	You cannot close any more slots of the alliance.
-ETC_20150317_001500	You do not have enough players to start the mission.
+ETC_20150317_001500	Du hast nicht genug players to start the mission.
 ETC_20150317_001501	This warp location has been successfully saved.
 ETC_20150317_001502	This warp point has already been saved.
 ETC_20150317_001503	The server end is not completed {nl}or you have logged in from another computer. {nl}End the connection.
@@ -1512,7 +1512,7 @@ ETC_20150317_001511	You have exceeded the number of players for the team.
 ETC_20150317_001512	Currently I chose Zone waypoint
 ETC_20150317_001513	You cannot create a room as the level does not match the level requirement of the game.
 ETC_20150317_001514	{s18}{ol}{#ffffcc} Maximum number of characters reached. {nl} To create a new character, you must first delete an existing character.
-ETC_20150317_001515	You do not have enough character points.{nl}You can earn character points through quests or missions.
+ETC_20150317_001515	Du hast nicht genug character points.{nl}You can earn character points through quests or missions.
 ETC_20150317_001516	Leader is unable to learn this stance. {nl}Please check available job to obtain the stance in Stance promotion description.
 ETC_20150317_001517	This stance has already been obtained.
 ETC_20150317_001518	You cannot use this stance yet.
@@ -1617,7 +1617,7 @@ ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	Es sind keine 24 Stunden nach der letzten Namensänderung vergangen
 ETC_20150317_001618	Kann nicht mehr als {Auto_1} bytes
 ETC_20150317_001619	Charaktername
-ETC_20150317_001620	You do not have enough materials.
+ETC_20150317_001620	Du hast nicht genug materials.
 ETC_20150317_001621	{S18}{ol}{#ffffcc}Connecting to the server...
 ETC_20150317_001622	This item cannot be discarded.
 ETC_20150317_001623	{@st46} Congratulations! Your character level has increased.
@@ -1676,7 +1676,7 @@ ETC_20150317_001675	You have been been banned by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / Channel {ChNo})
 ETC_20150317_001677	This skill cannot be crafted.
 ETC_20150317_001678	{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl} {nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click 
-ETC_20150317_001679	You do not have enough Potential to enhance this item
+ETC_20150317_001679	Du hast nicht genug Potential to enhance this item
 ETC_20150317_001680	This item cannot be enhanced
 ETC_20150317_001681	Can no longer be enhanced
 ETC_20150317_001682	Only items with a Potential of over 0 can be enhanced.
@@ -2089,7 +2089,7 @@ ETC_20150317_002088	Frage wo
 ETC_20150317_002089	ist okay
 ETC_20150317_002090	You cannot see whether the monsters are near the center of the altar or not!
 ETC_20150317_002091	Sowing Seeds
-ETC_20150317_002092	You do not have enough space in your inventory!
+ETC_20150317_002092	Du hast nicht genug space in your inventory!
 ETC_20150317_002093	Nothing was found.
 ETC_20150317_002094	Spring Star herb is already around the area.
 ETC_20150317_002095	You found Spring Light Grass!
@@ -3005,7 +3005,7 @@ ETC_20150317_003004	You must complete the West Siauliai Woods quest in order to 
 ETC_20150317_003005	Found an Archaeologist's Token!
 ETC_20150317_003006	Did not find anything.
 ETC_20150317_003007	Tombstone of Lydia Schaffen completed. {nl} Let's read the tombstone again.
-ETC_20150317_003008	You do not have enough tombstone pieces.
+ETC_20150317_003008	Du hast nicht genug tombstone pieces.
 ETC_20150317_003009	Quest completed!
 ETC_20150317_003010	Tried to open the box but couldn't.
 ETC_20150317_003011	Available during the tagging game
@@ -3235,7 +3235,7 @@ ETC_20150317_003234	BroadMSG reception
 ETC_20150317_003235	Receive UI events
 ETC_20150317_003236	Cast
 ETC_20150317_003237	Ritual of Blessing
-ETC_20150317_003238	You do not have enough sacrifices for the ceremony
+ETC_20150317_003238	Du hast nicht genug sacrifices for the ceremony
 ETC_20150317_003239	In front of [Forgotten Sanctuary]
 ETC_20150317_003240	Press to proceed with the blessing ceremony
 ETC_20150317_003241	Required! {nl} can be obtained from the Carved Owl nearby
@@ -3370,7 +3370,7 @@ ETC_20150317_003369	Mother Pokubu
 ETC_20150317_003370	Failed to protect the Goddess Statue!
 ETC_20150317_003371	Making disguise cover
 ETC_20150317_003372	Installed the disguise cover
-ETC_20150317_003373	You do not have enough short tree leaves
+ETC_20150317_003373	Du hast nicht genug short tree leaves
 ETC_20150317_003374	Checking the Contents
 ETC_20150317_003375	 is not sufficient!
 ETC_20150317_003376	Wiping with scaffold
@@ -3577,7 +3577,7 @@ ETC_20150317_003576	Lass uns eine Gruppe machen!
 ETC_20150317_003577	You can only give EXP to low level players
 ETC_20150317_003578	Gave {Auto_2} EXP to {Auto_1}.
 ETC_20150317_003579	{S20}{ol}{#ff1100} Received {Auto_2} EXP from {Auto_1}.{/}{/}{/}
-ETC_20150317_003580	You do not have enough EXP
+ETC_20150317_003580	Du hast nicht genug EXP
 ETC_20150317_003581	Call session when there is no SessionObject XML. Call value:
 ETC_20150317_003582	Faster Movement Speed
 ETC_20150317_003583	Increase CON by +2
@@ -4236,7 +4236,7 @@ ETC_20150317_004235	{@st55_b}{b}Belohnung{/}
 ETC_20150317_004236	{@st55_c}Experience:
 ETC_20150317_004237	Waiting for the other player to accept.
 ETC_20150317_004238	You cannot trade already equipped items.
-ETC_20150317_004239	You do not have enough funds.
+ETC_20150317_004239	Du hast nicht genug funds.
 ETC_20150317_004240	{Auto_1}: Level {Auto_2} {Auto_3}
 ETC_20150317_004241	{@st49} Speichern
 ETC_20150317_004242	{@st49} Wählen
@@ -4555,7 +4555,7 @@ ETC_20150317_004554	TxGiveItem function
 ETC_20150317_004555	TxTakeItem function
 ETC_20150317_004556	Completed Quests
 ETC_20150317_004557	Activation of script of the first play
-ETC_20150317_004558	You do not have enough iCoins...
+ETC_20150317_004558	Du hast nicht genug iCoins...
 ETC_20150317_004559	Change Hairstyle
 ETC_20150317_004560	Failed to change hairstyle
 ETC_20150317_004561	Name/
@@ -4710,7 +4710,7 @@ ETC_20150317_004709	{@st42b} My Adventure
 ETC_20150317_004710	Special compensation
 ETC_20150317_004711	{S20}{#050505} Attacke:
 ETC_20150317_004712	{S20}{#050505} Verteidigung:
-ETC_20150317_004713	You do not have enough Silber.
+ETC_20150317_004713	Du hast nicht genug Silber.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
 ETC_20150317_004715	Chat
 ETC_20150317_004716	{@st61} Normal Chat
@@ -4873,7 +4873,7 @@ ETC_20150317_004872	You have exceeded the maximum amount of active daily request
 ETC_20150317_004873	Start request
 ETC_20150317_004874	In order to start request
 ETC_20150317_004875	Bitte verwende den Gegenstand
-ETC_20150317_004876	You do not have enough Silber
+ETC_20150317_004876	Du hast nicht genug Silber
 ETC_20150317_004877	Insufficient iCoins
 ETC_20150317_004878	This item is not enough
 ETC_20150317_004879	Start the next step
@@ -10814,7 +10814,7 @@ ETC_20150406_010815	Red Resonance Crystal (500 Crystal Fragments)
 ETC_20150406_010816	Blue Resonance Crystal (500 Crystal Fragments)
 ETC_20150406_010817	Yellow Resonance Crystal (500 Crystal Fragments)
 ETC_20150406_010818	Growth Enhancement Crystal (1,000 Crystal Fragments)
-ETC_20150406_010819	You do not have enough crystal fragments.
+ETC_20150406_010819	Du hast nicht genug crystal fragments.
 ETC_20150406_010820	Vibrate the magic crystal. (20 Crystal Fragments)
 ETC_20150406_010821	Stop.
 ETC_20150406_010822	Opening inventory.
@@ -11431,9 +11431,9 @@ ETC_20150428_011432	Rezept - Superior Key Pendant
 ETC_20150428_011433	Rezept - Sage Necklace
 ETC_20150428_011434	Rezept - Superior Rune Bracelet
 ETC_20150428_011435	Rezept - Star Bracelet
-ETC_20150428_011436	FAQ : Hütte{nl}1) You can change the name of your lodge by clicking "Hütte Settings". {nl}2) You can buy Hütte skins using iCoins by clicking "Change Hütte".{nl}3) You select your desired channel from the Hütte.
-ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
-ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
+ETC_20150428_011436	FAQ : Hütte{nl}1) Du kannst den Namen deiner Hütte ändern indem du auf "Hütte-Einstellungen" klickst. {nl}2) Du kannst Hütten-Skins mit iCoins kaufen indem du auf "Hütte ändern" klickst.{nl}3) Wähle den gewünschten Channel deiner Hütte.
+ETC_20150428_011437	FAQ : Charakter HP, SP, STA {nl}1) Du kannst deine Charakter Informationen auf der oberen linken Seite des Bildschirms überprüfen. {nl}2) STA: Das ist Ausdauer. Wenn dein STA auf 0 ist kannst du nur noch gehen und nicht mehr laufen. {nl} STA wird außerdem zum Lernen bestimmter Fähigkeiten benötigt. {nl} STA kann durch das zerstören von Baumwurzel Kristallen oder mit Ausdauerpillen zurückgewonnen werden. {nl} Ausdauerpillen können gekauft, durch Quests oder das besiegen von Boss Monstern erlangt werden.
+ETC_20150428_011438	FAQ : Charakter Level & Klassen Level{nl}1) Du kannst im unterm Teil des Bildschirms die Informationen überprüfen. {nl}2) Charakter Level: Das ist das Level deines Charakters. {nl}3) Klassen Level: Das ist das Level der Klasse die du gewählt hast. {nl} Du kannst zur nächsten Klasse aufrücken wenn du Klassen Level 15 erreicht hast.
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Hütte before entering the world.
 ETC_20150428_011441	FAQ : Ruhemodus{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a Lagerfeuer, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Brennholz" to create a Lagerfeuer. {nl} HP, SP, STA is restored quicker when you use a Lagerfeuer.{nl}4) Other functions will be added in the near future.
@@ -11441,9 +11441,9 @@ ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Starts decre
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Gegenstand Merchant in any town. {nl}3) Silber is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from the Highlander Klassenmeister and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
-ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" through the game settings when using a joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
-ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Gruppe Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
-ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON stat after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
+ETC_20150428_011446	FAQ : System Menü{nl}1) Du kannst die Spieleinstellungen in "Joypad UI Mode" ändern wenn du einen Controller verwendest. {nl}2) Du kannst im "Low-spec-Modus" spielen wenn dein PC niedrige Systemanforderungen besitzt.
+ETC_20150428_011447	FAQ : Chatten{nl}1) Rufen: Gib "/y " vor einer Nachricht ein um deine Nachricht allen Spielern zu zeigen. {nl} However, the "Megaphone" item is required to do so. {nl}2) Gruppe Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
+ETC_20150428_011448	FAQ : Inventar Gewicht{nl}1) Zeigt das Gewicht der Gegenstände an welche du tragen kannst. {nl}2) Deine Tragekraft erhöht sich um 5 wenn du nach einem Level Aufstieg den CON Stat verbwesserst. {nl}3) Wenn dein Charakter Übergewicht hat, wird er nur noch langsam gehen, unabhängig von deinem STA.
 ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click on the +, - buttons on the minimap to zoom in and zoom out. {nl}2) Click on the M button on the minimap or press the M key to view the full map of the zone (Zone Map) you are in. {nl}3) Press the N key on your keyboard to view the entire World Map.
 ETC_20150428_011450	Drücke STRG um das Ziel zu fixieren oder nicht (An/Aus).
 ETC_20150428_011451	Hire as Helper
@@ -11456,10 +11456,10 @@ ETC_20150428_011457	Einhand Blunt Weapon
 ETC_20150428_011458	Einhand-Speer
 ETC_20150428_011459	Pistol
 ETC_20150428_011460	Artifact
-ETC_20150428_011461	Select a character that you want to bring along your Begleiter with.
+ETC_20150428_011461	Wähle ein Zeichen welches du deinem Begleiter mit auf den Weg geben willst.
 ETC_20150428_011462	You do not have the required class to buy this Begleiter.
-ETC_20150428_011463	Move Basislager
-ETC_20150428_011464	Available
+ETC_20150428_011463	Bewege Basislager
+ETC_20150428_011464	Verfügbar
 ETC_20150428_011465	Unavailable
 ETC_20150428_011466	Quit Game.
 ETC_20150428_011467	Return to the Hütte.
@@ -11483,7 +11483,7 @@ ETC_20150428_011484	Area {count3} Silber obtained
 ETC_20150428_011485	Area {count1} times form the party {nl} the Sekunde rank:
 ETC_20150428_011486	Area {count2} times form the party {nl} the third rank:
 ETC_20150428_011487	Area {count3} times form the party
-ETC_20150428_011488	The first rank:
+ETC_20150428_011488	Der erste Rank:
 ETC_20150428_011489	Team {character1} of
 ETC_20150428_011490	{count1} enhancement{nl} the Sekunde rank:
 ETC_20150428_011491	Team {character2} of
@@ -11509,7 +11509,7 @@ ETC_20150428_011510	Das Siegel wurde freigelassen.
 ETC_20150428_011511	Unable to release the seal because you are missing the Great King's key.
 ETC_20150428_011512	Failed to protect the statue!
 ETC_20150428_011513	You need to defeat the monsters to open the box!
-ETC_20150428_011514	No!
+ETC_20150428_011514	Nein!
 ETC_20150428_011515	Activating the Altar
 ETC_20150428_011516	Yellow Maggot Eggs
 ETC_20150428_011517	Usable only inside the Royal Mausoleum Constructors' Chapel.
@@ -11552,9 +11552,9 @@ ETC_20150428_011553	The Helper was let go.
 ETC_20150428_011554	You've already hired a Helper.
 ETC_20150428_011555	Can only be added through the Magie Association NPC.
 ETC_20150428_011556	This cannot be used while moving.
-ETC_20150428_011557	You do not have enough SP.
-ETC_20150428_011558	You do not have enough STA.
-ETC_20150428_011559	You do not have enough HP.
+ETC_20150428_011557	Du hast nicht genug SP.
+ETC_20150428_011558	Du hast nicht genug STA.
+ETC_20150428_011559	Du hast nicht genug HP.
 ETC_20150428_011560	There is no target in sight.
 ETC_20150428_011561	The skill items are insufficient.
 ETC_20150428_011562	[Moving Validation Error] Too fast.
@@ -12691,7 +12691,7 @@ ETC_20150714_012692	You don't have enough power sources
 ETC_20150714_012693	You've turned off the guardian device of the native troops
 ETC_20150714_012694	This guardian device of the native troops is turned off
 ETC_20150714_012695	You've set the camouflage curtain
-ETC_20150714_012696	You do not have enough Stumpy Tree Branches
+ETC_20150714_012696	Du hast nicht genug Stumpy Tree Branches
 ETC_20150714_012697	It was an empty box
 ETC_20150714_012698	The sap hasn't been fully filled yet
 ETC_20150714_012699	You've found the monsters! Bericht an Lint!
@@ -19142,8 +19142,8 @@ ETC_20151224_019142	Wrong equipment. Please check the title.
 ETC_20151224_019143	You've received the item.
 ETC_20151224_019144	It is applied with the reconnection.
 ETC_20151224_019145	You do not have the required Zombie for this skill.
-ETC_20151224_019146	You do not have enough Silber for the owner's Angebotebox
-ETC_20151224_019147	You do not have enough points.
+ETC_20151224_019146	Du hast nicht genug Silber for the owner's Angebotebox
+ETC_20151224_019147	Du hast nicht genug points.
 ETC_20151224_019148	Maximum Level
 ETC_20151224_019149	Do you want to revive this companion? {Price} will be charged.
 ETC_20151224_019150	You can only use this while in Rest Mode.
@@ -19622,32 +19622,32 @@ ETC_20151224_019622	You have received the Achievement Score.
 ETC_20151224_019623	You are already received the Achievement Score.
 ETC_20151224_019624	You can no longer receive the Achievement Score.
 ETC_20151224_019625	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
-ETC_20151224_019626	Guild Request
-ETC_20151224_019627	Failed to create a guild
-ETC_20151224_019628	Left the guild
-ETC_20151224_019629	Enter Guild Description
-ETC_20151224_019630	Joined {Auto_1}'s guild
-ETC_20151224_019631	Created the {Auto_1} guild
-ETC_20151224_019632	{Inviter}{nl}has sent you a party invite.{nl}Would you like to join?
+ETC_20151224_019626	Gilden Anfrage
+ETC_20151224_019627	Das erstellen einer Gilde ist fehlgeschlagen
+ETC_20151224_019628	Verlasse die Gilde
+ETC_20151224_019629	Gildenbeschreibung anzeigen
+ETC_20151224_019630	Du bist der Gilde {Auto_1} beigetreten.
+ETC_20151224_019631	Erstelle die Gilde {Auto_1}
+ETC_20151224_019632	{Inviter}{nl}hat dir eine Party-Einladung gesendet.{nl}Möchtest du beitreten?
 ETC_20151224_019633	{PC} is already in a party.
-ETC_20151224_019634	You are not in a party and in a guild.
-ETC_20151224_019635	Are you sure you want to leave this guild?
-ETC_20151224_019636	Are you sure you want to disband this guild?
-ETC_20151224_019637	Disbanded
-ETC_20151224_019638	Give TP
-ETC_20151224_019639	There is no TP for you to gift.
+ETC_20151224_019634	Du bist in keiner Party und Gilde.
+ETC_20151224_019635	Bist du sicher dass du die Gilde verlassen willst?
+ETC_20151224_019636	Bist du sicher dass du diese Gilde auflösen willst?
+ETC_20151224_019637	Aufgelöst
+ETC_20151224_019638	Gibt TP
+ETC_20151224_019639	Es gibt keine TP für dich als Geschenk.
 ETC_20151224_019640	Enter the amount of TP you want to gift.
 ETC_20151224_019641	You've received {Count} TP from {Giver}.
 ETC_20151224_019642	You've gifted {Count} TP to {Receiver}.
-ETC_20151224_019643	You do not have enough TP.
-ETC_20151224_019644	has declined your request.
-ETC_20151224_019645	Do you want to join?
-ETC_20151224_019646	You are already joined.
-ETC_20151224_019647	You do not have enough members.
-ETC_20151224_019648	Only the leader can do this.
+ETC_20151224_019643	Du hast nicht genug TP.
+ETC_20151224_019644	hat deine Anfrage abgelehnt.
+ETC_20151224_019645	Mächtest du beitreten?
+ETC_20151224_019646	Du bist bereits beigetreten.
+ETC_20151224_019647	Du hast nicht genug Mitglieder.
+ETC_20151224_019648	Nur der Anführer kann das.
 ETC_20151224_019649	{Inviter}{nl}has invited you to a guild.{nl}Would you like to join?
-ETC_20151224_019650	You are not in a guild.
-ETC_20151224_019651	Request to open the Gegenstand Dungeon
+ETC_20151224_019650	Du bist in keiner Gilde.
+ETC_20151224_019651	Anfrage zum öffnen des Gegenstand Dungeons
 ETC_20151224_019652	This user is already trading in the dungeon.
 ETC_20151224_019653	Would you like to prepare the Gegenstand Dungeon for {nl}{Name}?
 ETC_20151224_019654	The other player declined the dungeon creation.
@@ -19657,9 +19657,9 @@ ETC_20151224_019657	The maximum amount of members who can enter the instanced du
 ETC_20151224_019658	Gilden-Mitglied: ({Cur}/{Max} - Online: {On})
 ETC_20151224_019659	Titel wechseln
 ETC_20151224_019660	Auflösung
-ETC_20151224_019661	Go to Hangout
-ETC_20151224_019662	Harvest
-ETC_20151224_019663	Are you sure you want to remove it?
+ETC_20151224_019661	Zum abhängen gehen
+ETC_20151224_019662	Ernte
+ETC_20151224_019663	Bist du sicher dass du das entfernen möchtest?
 ETC_20151224_019664	You cannot plant crops anymore.
 ETC_20151224_019665	You cannot train your companion anymore.
 ETC_20151224_019666	Go to the Tower outside
@@ -19669,15 +19669,15 @@ ETC_20151224_019669	Set to usage by guild members only
 ETC_20151224_019670	Baby
 ETC_20151224_019671	Return to Nature
 ETC_20151224_019672	Bring to Begleiter
-ETC_20151224_019673	Next Gildenturm
+ETC_20151224_019673	Nächster Gildenturm
 ETC_20151224_019674	Place the {Name} item to raise Guild EXP.
 ETC_20151224_019675	Available Attribute Points 
 ETC_20151224_019676	Declare War
 ETC_20151224_019677	Are you sure you want to declare a war?
 ETC_20151224_019678	Entferne Tower
 ETC_20151224_019679	The possible time to declare the war
-ETC_20151224_019680	Guild Event (Coming Soon)
-ETC_20151224_019681	Only available on channel 1.
+ETC_20151224_019680	Gilden Event (Coming Soon)
+ETC_20151224_019681	Nur in Channel 1 verfügbar.
 ETC_20151224_019682	You cannot create it nearby other objects.
 ETC_20151224_019683	Only the guild master is able to use it.
 ETC_20151224_019684	Betrete Spiel
@@ -19687,12 +19687,12 @@ ETC_20151224_019687	The enemies have failed to protect the Goddess Statue in rou
 ETC_20151224_019688	The guild {GuildName} has won.
 ETC_20151224_019689	You already joined this game. You are able to join the next game.
 ETC_20151224_019690	The game will start after {Time}.
-ETC_20151224_019691	Winner Reward
-ETC_20151224_019692	Loser Reward
-ETC_20151224_019693	Mining...
+ETC_20151224_019691	Gewinner Belohnung
+ETC_20151224_019692	Verlierer Belohnung
+ETC_20151224_019693	Bergbau...
 ETC_20151224_019694	You cannot mine here.
 ETC_20151224_019695	Only guild members with the mining skill can mine.
-ETC_20151224_019696	Failed to mine ore.
+ETC_20151224_019696	Fehler beim abbauen von Erz.
 ETC_20151224_019697	All ore sites are depleted.
 ETC_20151224_019698	Currently Online: {Cur}/{Max}
 ETC_20151224_019699	Do you want to use{nl}{SkillName}?
@@ -19735,7 +19735,7 @@ ETC_20151224_019735	This skill cannot be registered.
 ETC_20151224_019736	Humanoid
 ETC_20151224_019737	{TP} TP will be charged to purchase this Character/Begleiter Slot{nl}Would you like to purchase?
 ETC_20151224_019738	Do you want to use {TP} TP to change your Team Name?
-ETC_20151224_019739	You do not have enough Character/Begleiter slots.{nl}
+ETC_20151224_019739	Du hast nicht genug Character/Begleiter slots.{nl}
 ETC_20151224_019740	Do you want to use {TP} TP to change your Character Name?
 ETC_20151224_019741	You've failed to accept the friend request.
 ETC_20151224_019742	You've failed to decline the friend request.
