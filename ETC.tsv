@@ -2078,10 +2078,10 @@ ETC_20150317_002077	Fainted Black Maize
 ETC_20150317_002078	Can't use the containers due to strong odor of blood.
 ETC_20150317_002079	You obtained a Languid Herb!
 ETC_20150317_002080	Suche
-ETC_20150317_002081	Found some usable explosives!
+ETC_20150317_002081	Brauchbaren Sprengstoff gefunden!
 ETC_20150317_002082	This barrel looks suspicious!{nl} Get away from it!
-ETC_20150317_002083	Obtained the bucket
-ETC_20150317_002084	I already have a bucket
+ETC_20150317_002083	Beschaffe den Eimer
+ETC_20150317_002084	Ich habe bereits einen Eimer
 ETC_20150317_002085	Took the long rope
 ETC_20150317_002086	You already have long ropes
 ETC_20150317_002087	There is something rotten in the well
@@ -2127,7 +2127,7 @@ ETC_20150317_002126	Who is the next shift?
 ETC_20150317_002127	Damn it! Cutting a tree while thinking of a guy is wrong!
 ETC_20150317_002128	Do not come close! You'll get hurt!
 ETC_20150317_002129	Whoa.. That was tiresome ~
-ETC_20150317_002130	Hidden Desk
+ETC_20150317_002130	Versteckter Schreibtisch
 ETC_20150317_002131	Zemyna
 ETC_20150317_002132	Ausrine
 ETC_20150317_002133	Vakarine
@@ -2167,25 +2167,25 @@ ETC_20150317_002166	You opened the treasure chest and the Hogmas are charging in
 ETC_20150317_002167	There is no Hogma Battle Boss to use the scroll on.
 ETC_20150317_002168	You cannot use it while another quest event is in progress
 ETC_20150317_002169	Seems like it's nothing
-ETC_20150317_002170	No response
-ETC_20150317_002171	I wonder why these are here
+ETC_20150317_002170	Keine Antwort
+ETC_20150317_002171	Ich wundere mich warum sie hier sind
 ETC_20150317_002172	It seems like there's no use looking around
 ETC_20150317_002173	Just continue going
-ETC_20150317_002174	Observing broken statue
+ETC_20150317_002174	Untersuchen zerbrochene Statue
 ETC_20150317_002175	Picked up an old necklace!
 ETC_20150317_002176	Threw the necklace back!
-ETC_20150317_002177	Observing
+ETC_20150317_002177	Untersuchen
 ETC_20150317_002178	Putting it back in place
 ETC_20150317_002179	Seems like a keepsake with a story
 ETC_20150317_002180	Feels like you have to hang the necklace on the grave of the Unknown Soldier
 ETC_20150317_002181	Monsters emerged around the treasure chest!
-ETC_20150317_002182	Observing the potholes
+ETC_20150317_002182	Untersuchen der Schlaglöcher
 ETC_20150317_002183	You collected some precious truffles!
-ETC_20150317_002184	Only 50% of the ember is left!
-ETC_20150317_002185	Only 40% of the ember is left!
-ETC_20150317_002186	Only 30% of the ember is left!
-ETC_20150317_002187	Only 20% of the ember is left!
-ETC_20150317_002188	Only 10% of the ember is left!!
+ETC_20150317_002184	Nur 50% der Glut sind übrig!
+ETC_20150317_002185	Nur 40% der Glut sind übrig!
+ETC_20150317_002186	Nur 30% der Glut sind übrig!
+ETC_20150317_002187	Nur 20% der Glut sind übrig!
+ETC_20150317_002188	Nur 10% der Glut sind übrig!!
 ETC_20150317_002189	Obtained a Wooden Pfeil! Throw them into the fire to keep it burning!
 ETC_20150317_002190	Throwing in a Wooden Pfeil
 ETC_20150317_002191	Investigating the stone pillar
@@ -2197,8 +2197,8 @@ ETC_20150317_002196	This pole has already been found!
 ETC_20150317_002197	Collecting the light stem of reed
 ETC_20150317_002198	Did collect the light steom of reed but you are slashed over the reed leaf!
 ETC_20150317_002199	The wound as the reed leaf was bleeding.
-ETC_20150317_002200	Make a grave
-ETC_20150317_002201	Making a grave for Liliya
+ETC_20150317_002200	Mache ein Grube
+ETC_20150317_002201	Mach' eine Grube für Liliya
 ETC_20150317_002202	Discarding the music box
 ETC_20150317_002203	Discarded it into the place.
 ETC_20150317_002204	Looking through the pile of grass
@@ -21841,7 +21841,7 @@ ETC_20160530_021840	Du kannst die Funktion in diesem Gebiet nicht anfragen.
 ETC_20160530_021841	Möchtest du kaufen {ProductName}?				
 ETC_20160530_021842	Failed to create mission instance due to exceeded server capacity. Please try again later.
 ETC_20160603_021843		젬스쿨 프리미엄 PC 인증이 실패하였습니다. 다음 에러 정보를 참조하세요.				
-ETC_20160603_021844		스팀 인벤토리 로직 오류. 프로그래머에게 문의하세요.				
+ETC_20160603_021844		Steambestandslogikfehler. Bitte kontaktiere den Programmierer.
 ETC_20160603_021845		사용 시 16 TP를 획득합니다. 사용하여 캐릭터 인벤토리에서 수령 시 청약철회가 불가능 합니다.				
 ETC_20160603_021846		사용 시 33 TP를 획득합니다. 사용하여 캐릭터 인벤토리에서 수령 시 청약철회가 불가능 합니다.				
 ETC_20160603_021847		사용 시 49 TP를 획득합니다. 사용하여 캐릭터 인벤토리에서 수령 시 청약철회가 불가능 합니다.				
@@ -21862,7 +21862,7 @@ ETC_20160603_021861		사용 시 1650 TP를 획득합니다. 사용하여 캐릭�
 ETC_20160603_021862		사용 시 3300 TP를 획득합니다. 사용하여 캐릭터 인벤토리에서 수령 시 청약철회가 불가능 합니다.				
 ETC_20160603_021863		사용 시 6600 TP를 획득합니다. 사용하여 캐릭터 인벤토리에서 수령 시 청약철회가 불가능 합니다.				
 ETC_20160603_021864		1 TP[증정용]				
-ETC_20160603_021865		사용 시 1 TP를 획득합니다.				
+ETC_20160603_021865		사용 시 1 TP를 획득합니다.
 ETC_20160603_021866		2 TP[증정용]				
 ETC_20160603_021867		사용 시 2 TP를 획득합니다.				
 ETC_20160603_021868		3 TP[증정용]				
@@ -21963,8 +21963,22 @@ ETC_20160603_021962		3300 TP[증정용]
 ETC_20160603_021963		사용 시 3300 TP를 획득합니다.				
 ETC_20160603_021964		6600 TP[증정용]				
 ETC_20160603_021965		사용 시 6600 TP를 획득합니다.				
-ETC_20160603_021966	Skill cancel cooldown settings, time unit: ms (for testing)			
-ETC_20160603_021967	Steam DLC Funktion Status			
-ETC_20160613_021968	Minimum level required for trading			
-ETC_20160613_021969	Cannot be redeemed by Family Sharing accounts.				
-ETC_20160613_021970		HTTP 통신 데이터를 읽는데 실패하였습니다.	
+ETC_20160603_021966	Skill cancel cooldown settings, time unit: ms (for testing)
+ETC_20160603_021967	Steam DLC Funktion Status
+ETC_20160613_021968	Mindestlevel für den Handel erforderlich
+ETC_20160613_021969	Cannot be redeemed by Family Sharing accounts.
+ETC_20160617_021970	Fehler beim lesen von HTTP-Verbindungsdaten.
+ETC_20160617_021971	Please insert the amount of Talt you wish to use.
+ETC_20160617_021972	Failed to reincarnate.{nl}This monster will no longer be reincarnated.
+ETC_20160617_021973	Europäisch
+ETC_20160617_021974	Braid Ponytail
+ETC_20160622_021975	Fehler beim erhalten der IP-Adresse.
+ETC_20160622_021976	Möchtest du diesen Handel wirklich melden?
+ETC_20160622_021977	Du hast diesen Handel gemeldet.
+ETC_20160622_021978	Du hast diesen Handel bereits gemeldet.
+ETC_20160622_021979	Dieser Gegenstand kann nicht gekauft werden.
+ETC_20160622_021980	Dieser Gegenstand wurde genommen.
+ETC_20160622_021981	Premium Gegenstand
+ETC_20160704_021982	Purchase Bokor Items	보코르 물품 구입
+ETC_20160704_021983	You cannot create Zombies without the Zombify Skill	좀비만들기 스킬이 없어 좀비를 생성할 수 없습니다.
+ETC_20160704_021984	You have created the maximum amount of Zombies and cannot create more.	좀비 최대 생성수에 도달하여 좀비를 생성할 수 없습니다.
