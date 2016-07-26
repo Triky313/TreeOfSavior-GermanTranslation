@@ -242,7 +242,7 @@ ETC_20150317_000241	A lesser demon summoned by its demonic superiors to invade t
 ETC_20150317_000242	Green Drake
 ETC_20150317_000243	These lesser demons come in countless types due to their populous numbers.
 ETC_20150317_000244	Black Drake
-ETC_20150317_000245	This species was once fairly rare; however, in recent times, their numbers have greatly increased.
+ETC_20150317_000245	This species was once fairly rare; however, in recent mal, their numbers have greatly increased.
 ETC_20150317_000246	Big Cockatrice
 ETC_20150317_000247	The Big Cockatrice is quite dangerous, as its glare and breath can petrify any opponent. Engaging this creature should not be taken lightly.
 ETC_20150317_000248	Green Cockat
@@ -443,7 +443,7 @@ ETC_20150317_000442	Treegool
 ETC_20150317_000443	Upon transforming into a monster with a hardened wood body and no leaves, Treegool supplants its former photosynthetic diet with hunting.
 ETC_20150317_000444	Cyst
 ETC_20150317_000445	Ammon
-ETC_20150317_000446	Existing since ancient times, Ammon has harmed countless people and monsters.
+ETC_20150317_000446	Existing since ancient mal, Ammon has harmed countless people and monsters.
 ETC_20150317_000447	Operor
 ETC_20150317_000448	While it has maintained its original form, Operor has developed severely aggressive and violent behavior.
 ETC_20150317_000449	Chafperor
@@ -1530,7 +1530,7 @@ ETC_20150317_001529	This character is already in your Friends List. {nl}The requ
 ETC_20150317_001530	You have sent the message of a friend request to the character. {nl}Wait for 30 Sekunden to accept the request.
 ETC_20150317_001531	The friend request timed out. The request was canceled.
 ETC_20150317_001532	Cannot enter as the number of players exceeded.
-ETC_20150317_001533	Attempt to reconnect %02d times...
+ETC_20150317_001533	Attempt to reconnect %02d mal...
 ETC_20150317_001534	Your account has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.
 ETC_20150317_001535	Your character has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.
 ETC_20150317_001536	You don't have enough of the {ItemName}.
@@ -3084,7 +3084,7 @@ ETC_20150317_003083	Successfully crafted.
 ETC_20150317_003084	{Auto_1} minutes {Auto_2} Sekunden remaining to craft the item
 ETC_20150317_003085	{Auto_1} Sekunden remaining to craft the item
 ETC_20150317_003086	Gegenstand successfully crafted
-ETC_20150317_003087	{Auto_1} times left to create item
+ETC_20150317_003087	{Auto_1} mal left to create item
 ETC_20150317_003088	Is already generated
 ETC_20150317_003089	No session
 ETC_20150317_003090	Created Friend session 01
@@ -5501,15 +5501,15 @@ ETC_20150317_005500	Besiege 300 boss Monster.
 ETC_20150317_005501	Boss Jäger
 ETC_20150317_005502	Besiege 500 boss Monster.
 ETC_20150317_005503	The Walking Dead
-ETC_20150317_005504	Achieved by resurrecting at least 100 times using iCoin.
+ETC_20150317_005504	Achieved by resurrecting at least 100 mal using iCoin.
 ETC_20150317_005505	Handwerker-Anfänger
-ETC_20150317_005506	Succeeded crafting 10 times. Feels pretty good.
+ETC_20150317_005506	Succeeded crafting 10 mal. Feels pretty good.
 ETC_20150317_005507	Handwerker-Lehrling
-ETC_20150317_005508	Succeeded crafting 50 times. Getting more used to crafting.
+ETC_20150317_005508	Succeeded crafting 50 mal. Getting more used to crafting.
 ETC_20150317_005509	Handwerker-Experte
-ETC_20150317_005510	Succeeded crafting 100 times. Slowly building up wealth.
+ETC_20150317_005510	Succeeded crafting 100 mal. Slowly building up wealth.
 ETC_20150317_005511	Handwerker-Gott
-ETC_20150317_005512	Succeeded crafting 300 times. No words can describe this feeling.
+ETC_20150317_005512	Succeeded crafting 300 mal. No words can describe this feeling.
 ETC_20150317_005513	Herausforderer
 ETC_20150317_005514	Schlage 3 Spieler K.O.
 ETC_20150317_005515	Gladiator
@@ -5523,10 +5523,10 @@ ETC_20150317_005522	Monster Energie
 ETC_20150317_005523	Spiele 7 Tage.
 ETC_20150317_005524	Dae-Gil
 ETC_20150317_005525	Dae-Gil Stalker
-ETC_20150317_005526	Annoyed Dae-Gil 100 times.
+ETC_20150317_005526	Annoyed Dae-Gil 100 mal.
 ETC_20150317_005527	Hair
 ETC_20150317_005528	Cause I'm Special
-ETC_20150317_005529	Visited beauty salon 3 times
+ETC_20150317_005529	Visited beauty salon 3 mal
 ETC_20150317_005530	Treasure Jäger
 ETC_20150317_005531	Gained 20 treasure boxes from tomb raiding.
 ETC_20150317_005532	Turnier
@@ -5987,7 +5987,7 @@ ETC_20150317_005986	Destroying a Tree Root Crystal recovers your Stamina.
 ETC_20150317_005987	There are many Tree Root Crystals in every field.
 ETC_20150317_005988	The Stamina of all the players around you will be replenished if you destroy the Tree Root Crystals.
 ETC_20150317_005989	Overheat
-ETC_20150317_005990	Some particular skills may overheat when used over a certain number of times.
+ETC_20150317_005990	Some particular skills may overheat when used over a certain number of mal.
 ETC_20150317_005991	If Overheat is triggered, that skill goes on cool-down and you will be unable to use it for a while.
 ETC_20150317_005992	Overheat will trigger when the gauge on the skill icon at the bottom is fully charged.
 ETC_20150317_005993	To prevent skills from overheating, you can alternate between using power attacks and basic attacks.
@@ -6064,7 +6064,7 @@ ETC_20150317_006064	After using the Anvil, select the item for the Gegenstand En
 ETC_20150317_006065	From the Gegenstand Enhancement window, when you click the 
 ETC_20150317_006066	 button, an  
 ETC_20150317_006067	 will appear. Hit the 
-ETC_20150317_006068	 three times to enhance your equipment.
+ETC_20150317_006068	 three mal to enhance your equipment.
 ETC_20150317_006069	A successful enhancement will increase the main attributes of an equipment.
 ETC_20150317_006070	 will not decrease.
 ETC_20150317_006071	When the item fails to enhance, its stats will be reset and 
@@ -7157,7 +7157,7 @@ ETC_20150317_007157	Empty NPC
 ETC_20150317_007158	Siauliai Tent
 ETC_20150317_007159	Siauliai Fence
 ETC_20150317_007160	Galley Plateau
-ETC_20150317_007161	Empty NPC 2 times
+ETC_20150317_007161	Empty NPC 2 mal
 ETC_20150317_007162	Giltine
 ETC_20150317_007163	Mission Gate
 ETC_20150317_007164	Saule Goddess 2
@@ -8811,7 +8811,7 @@ ETC_20150317_008811	You can return to the quest NPC immediately by using the Bac
 ETC_20150317_008812	Attributes-Tipp
 ETC_20150317_008813	You can learn class specific attributes from the Klassenmeister NPCs. Look for them in each area.
 ETC_20150317_008814	Shiny Monster-Tipp
-ETC_20150317_008815	Shiny Monsters can drop items up to more than ten times than normal monsters.
+ETC_20150317_008815	Shiny Monsters can drop items up to more than ten mal than normal monsters.
 ETC_20150317_008816	Dorf-Tipp
 ETC_20150317_008817	Various merchants and Klassenmeister NPCs for classes can be found in a village.
 ETC_20150317_008818	Warp move_1-Tipp
@@ -9735,11 +9735,11 @@ ETC_20150323_009735	Du hast 30 Boss-Monster besiegt
 ETC_20150323_009736	Du hast 50 Boss-Monster besiegt
 ETC_20150323_009737	Meister Boss-Jaeger
 ETC_20150323_009738	You've defeated 200 Boss Monsters
-ETC_20150323_009739	You've completed over 20 times of resurrecting with iCoin.
-ETC_20150323_009740	You've succeeded crafting 3 times. You feel like you've benefited.
-ETC_20150323_009741	You've succeeded crafting 10 times. Now, you feel comfortable when you craft.
-ETC_20150323_009742	You've succeeded crafting 30 times. You can see your assets are increasing.
-ETC_20150323_009743	You've succeeded crafting 100 times. No words are needed.
+ETC_20150323_009739	You've completed over 20 mal of resurrecting with iCoin.
+ETC_20150323_009740	You've succeeded crafting 3 mal. You feel like you've benefited.
+ETC_20150323_009741	You've succeeded crafting 10 mal. Now, you feel comfortable when you craft.
+ETC_20150323_009742	You've succeeded crafting 30 mal. You can see your assets are increasing.
+ETC_20150323_009743	You've succeeded crafting 100 mal. No words are needed.
 ETC_20150323_009744	Hairstyle Color1
 ETC_20150323_009745	Let's change the hair
 ETC_20150323_009746	Hairstyle Color2
@@ -11465,9 +11465,9 @@ ETC_20150428_011466	Quit Game.
 ETC_20150428_011467	Return to the Hütte.
 ETC_20150428_011468	Returning to the Login Screen...
 ETC_20150428_011469	Period: {day 1} ~ {day 2} {nl} the first rank:
-ETC_20150428_011470	Area {count1} times move{nl} the Sekunde rank:
-ETC_20150428_011471	Area {count2} times move{nl} the third rank:
-ETC_20150428_011472	Area {count2} times move
+ETC_20150428_011470	Area {count1} mal move{nl} the Sekunde rank:
+ETC_20150428_011471	Area {count2} mal move{nl} the third rank:
+ETC_20150428_011472	Area {count2} mal move
 ETC_20150428_011473	Area {count1} kill {nl} the Sekunde rank:
 ETC_20150428_011474	Area {count2} kill {nl} the third rank:
 ETC_20150428_011475	Area {count2} kill
@@ -11480,9 +11480,9 @@ ETC_20150428_011481	to {count3} player combat disabled
 ETC_20150428_011482	Area {count1} Silber obtained {nl} the Sekunde rank:
 ETC_20150428_011483	Area {count2} Silber obtained {nl} the third rank:
 ETC_20150428_011484	Area {count3} Silber obtained
-ETC_20150428_011485	Area {count1} times form the party {nl} the Sekunde rank:
-ETC_20150428_011486	Area {count2} times form the party {nl} the third rank:
-ETC_20150428_011487	Area {count3} times form the party
+ETC_20150428_011485	Area {count1} mal form the party {nl} the Sekunde rank:
+ETC_20150428_011486	Area {count2} mal form the party {nl} the third rank:
+ETC_20150428_011487	Area {count3} mal form the party
 ETC_20150428_011488	Der erste Rank:
 ETC_20150428_011489	Team {character1} of
 ETC_20150428_011490	{count1} enhancement{nl} the Sekunde rank:
@@ -11820,13 +11820,13 @@ ETC_20150714_011821	Are you okay?
 ETC_20150714_011822	It is that way.
 ETC_20150714_011823	Where did that sound come from?
 ETC_20150714_011824	When you sell scrolls, you make more contributions.
-ETC_20150714_011825	Contributed 10 times
+ETC_20150714_011825	Contributed 10 mal
 ETC_20150714_011826	Regular Pardoner
 ETC_20150714_011827	Your Dispeller is popular among people.
-ETC_20150714_011828	Contributed 50 times
+ETC_20150714_011828	Contributed 50 mal
 ETC_20150714_011829	Senior Pardoner
 ETC_20150714_011830	The benefits you received by contributing are countless, right?
-ETC_20150714_011831	Contributed 100 times
+ETC_20150714_011831	Contributed 100 mal
 ETC_20150714_011832	The Greatest Heir
 ETC_20150714_011833	Dieser Titel wird Spielern vergeben, welche die Hauptgeschichte von Tiltas Valley abgeschlossen haben.
 ETC_20150714_011834	Tenant's Friend
@@ -12441,7 +12441,7 @@ ETC_20150714_012442	Magical power was fully absorbed
 ETC_20150714_012443	The monster already used a token
 ETC_20150714_012444	You've received the effects of the Schilt's token
 ETC_20150714_012445	You deceived the guards
-ETC_20150714_012446	Of all times, it has to be this...
+ETC_20150714_012446	Of all mal, it has to be this...
 ETC_20150714_012447	I will go there right away
 ETC_20150714_012448	You guys again!
 ETC_20150714_012449	Relaying the state of affairs
@@ -12883,10 +12883,10 @@ ETC_20150714_012884	Conditional expression
 ETC_20150714_012885	Rank(Basic class 1)
 ETC_20150714_012886	Check Condition
 ETC_20150714_012887	1 time
-ETC_20150714_012888	5 times
-ETC_20150714_012889	4 times
-ETC_20150714_012890	3 times
-ETC_20150714_012891	2 times
+ETC_20150714_012888	5 mal
+ETC_20150714_012889	4 mal
+ETC_20150714_012890	3 mal
+ETC_20150714_012891	2 mal
 ETC_20150714_012892	Check function number
 ETC_20150714_012893	Skill/prior level
 ETC_20150714_012894	Above job level
@@ -12895,7 +12895,7 @@ ETC_20150714_012896	Below Achievement Point
 ETC_20150714_012897	Above Achievement Point
 ETC_20150714_012898	NPC first-come-first-serve acceptance
 ETC_20150714_012899	Battlefield current status
-ETC_20150714_012900	6 times
+ETC_20150714_012900	6 mal
 ETC_20150714_012901	Number of Skills
 ETC_20150714_012902	Above value
 ETC_20150714_012903	Below value
@@ -12928,10 +12928,10 @@ ETC_20150714_012929	Production monster modification
 ETC_20150714_012930	Check layer conditions for monster kills
 ETC_20150714_012931	Above map explored %
 ETC_20150714_012932	Above reputation points
-ETC_20150714_012933	10 times
-ETC_20150714_012934	9 times
-ETC_20150714_012935	8 times
-ETC_20150714_012936	7 times
+ETC_20150714_012933	10 mal
+ETC_20150714_012934	9 mal
+ETC_20150714_012935	8 mal
+ETC_20150714_012936	7 mal
 ETC_20150714_012937	Above MHP value
 ETC_20150714_012938	Above DEF value
 ETC_20150714_012939	Above ATK value
@@ -13323,7 +13323,7 @@ ETC_20150717_013324	Restoring Naturally is very slow compared to other methods, 
 ETC_20150717_013325	[Restore by Potion] Restore HP/SP/STA immediately using various potions.
 ETC_20150717_013326	[Destroy Tree Root Crystal] Destroy the Tree Root Crystal to restore the Stamina of all nearby characters.
 ETC_20150717_013327	PvP is a team match under the name of Team Battle League.
-ETC_20150717_013328	You can join at certain times when you have a party of five members.
+ETC_20150717_013328	You can join at certain mal when you have a party of five members.
 ETC_20150717_013329	You will transfer to the battle area when an opponent party is found.
 ETC_20150717_013330	First to win 3 rounds win the Team Battle League.
 ETC_20150717_013331	You can check the recipe and the materials it requires in your inventory.
@@ -13347,7 +13347,7 @@ ETC_20150717_013348	 can be purchased from the Gegenstand Merchant or obtained f
 ETC_20150717_013349	Press {img mouseclick_right 40 40} on the anvil, then select an equipment item to open the Enhancement window. Select
 ETC_20150717_013350	 und 
 ETC_20150717_013351	 will appear. Hit the 
-ETC_20150717_013352	 three times to enhance the item.
+ETC_20150717_013352	 three mal to enhance the item.
 ETC_20150717_013353	When enhancing a weapon beyond +5, Potential will be consumed on failure and its effects will be reset. The item will be destroyed when Potential drops to zero.
 ETC_20150717_013354	Verbesserungsstrafen treten für Rüstung, Armbänder und Halsketten am +1 auf.
 ETC_20150717_013355	Du kannst keinen Gegenstand mit 0 Haltbarkeit verwenden.
@@ -14049,7 +14049,7 @@ ETC_20150730_014050	Team {Character}
 ETC_20150730_014051	{count} Enhancement
 ETC_20150730_014052	Team's {character} obtained {count} Silber
 ETC_20150730_014053	{nl}{rank} :
-ETC_20150730_014054	area moved {count} times
+ETC_20150730_014054	area moved {count} mal
 ETC_20150730_014055	area defeated {count}
 ETC_20150730_014056	area {count} incapable of combat
 ETC_20150730_014057	to {count} incapable of combat
@@ -14373,7 +14373,7 @@ ETC_20150918_014374	Character Advancement Rank Limit
 ETC_20150918_014375	Event Scene Quest normal monster drop rate 10/1
 ETC_20150918_014376	Dungeon Rücksetz-Zeit 9 AM
 ETC_20150918_014377	Hay! Hilf mir!
-ETC_20150918_014378	local buf = GetBuffByName(self, "BrambleRage");  local over = GetOver(buf);  return over + 1 .. " times summoning is starting.";
+ETC_20150918_014378	local buf = GetBuffByName(self, "BrambleRage");  local over = GetOver(buf);  return over + 1 .. " mal summoning is starting.";
 ETC_20150918_014379	Rezept - Escanciu Schwer
 ETC_20150918_014380	Rezept - Krag Schwer
 ETC_20150918_014381	Rezept - Pilgrim Schwer
@@ -14609,7 +14609,7 @@ ETC_20150918_014610	Zufall
 ETC_20150918_014611	Individual
 ETC_20150918_014612	Teilen
 ETC_20150918_014613	Unshared
-ETC_20150918_014614	You have exceeded the number of times that you can participate in an instanced dungeon for today.
+ETC_20150918_014614	You have exceeded the number of mal that you can participate in an instanced dungeon for today.
 ETC_20150918_014615	You do not meet the level requirement of this instanced dungeon
 ETC_20150918_014616	Besiege Matsums that are rushing in!
 ETC_20150918_014617	Treasure Vubbe has appeared!
@@ -14772,9 +14772,9 @@ ETC_20151001_014773	{img emoticon_0010 30 30} Surprised
 ETC_20151001_014774	{img emoticon_0016 30 30} Crying
 ETC_20151001_014775	{img emoticon_0007 30 30} Love
 ETC_20151001_014776	{img emoticon_0006 30 30} Hello
-ETC_20151001_014777	A conditional sentence selected should be true at all times.
-ETC_20151001_014778	A conditional sentence selected should be true at all times. Please refer to the following information.
-ETC_20151001_014779	A conditional sentence selected should be true at all times. Close the program.
+ETC_20151001_014777	A conditional sentence selected should be true at all mal.
+ETC_20151001_014778	A conditional sentence selected should be true at all mal. Please refer to the following information.
+ETC_20151001_014779	A conditional sentence selected should be true at all mal. Close the program.
 ETC_20151001_014780	Failed to reset the table. Please refer to the previous log about the following information and file load failure.
 ETC_20151001_014781	Failed to reset the server. Close the program.
 ETC_20151001_014782	Nexon AuthCheck has failed. Please check the error code table that corresponds with the error code of authCheck.h.
@@ -16141,12 +16141,12 @@ ETC_20151022_016142	Noblesse Oblige
 ETC_20151022_016143	Paid all the taxes.
 ETC_20151022_016144	Pay Taxes 100 Times
 ETC_20151022_016145	Enhancement Klassenmeister
-ETC_20151022_016146	Enhance 1,000 times successfully
+ETC_20151022_016146	Enhance 1,000 mal successfully
 ETC_20151022_016147	Shovel King
-ETC_20151022_016148	Shovel 1,000 times successfully
+ETC_20151022_016148	Shovel 1,000 mal successfully
 ETC_20151022_016149	indun
 ETC_20151022_016150	Talt, My Love
-ETC_20151022_016151	Enter an instanced dungeon 500 times
+ETC_20151022_016151	Enter an instanced dungeon 500 mal
 ETC_20151022_016152	Glug Glug Glug
 ETC_20151022_016153	Use 10,000 Potions
 ETC_20151022_016154	Enhancement Success
@@ -17496,7 +17496,7 @@ ETC_20151224_017497	This monster belongs to the group of the Infro Rocktor.
 ETC_20151224_017498	The research to find out why some Kepas transformed to like this is progressing. Even the research to see if it was edible, but still, nothing is certain.
 ETC_20151224_017499	Poata is trying to find chances to showoff to the demons to obtain more power from the monsters originated plants.
 ETC_20151224_017500	A monster that returned from the dead, accurately saying it is a monster that resurrected into a demon after it died.
-ETC_20151224_017501	A monster that already existed before Medzio Diena. It used to have a liking towards humans in the past, but that feeling has faded away in the current times.
+ETC_20151224_017501	A monster that already existed before Medzio Diena. It used to have a liking towards humans in the past, but that feeling has faded away in the current mal.
 ETC_20151224_017502	Basically, It was born in the cold region, after Medzio Diena, it is actively working around because spotted in many areas.
 ETC_20151224_017503	Current Ginklas is caught by madness, so there is no chance to show his original rationality.
 ETC_20151224_017504	It is not yet clear why Stone Whale has a form of Whale even it mutated from mininals.
@@ -17534,12 +17534,12 @@ ETC_20151224_017535	Many monsters created lots of diverse transformations on Med
 ETC_20151224_017536	Beowolfs have been drifting diverse worlds from a long time ago. They don't belong to any world and they think Medzio Diena will be a good chance for them.
 ETC_20151224_017537	Due to their cute appearances, many people tried to tame Tinis, but they never succeeded.
 ETC_20151224_017538	A small form of Golem that is harmful to humans because it receives evil influences.
-ETC_20151224_017539	Ammon has been existing from the ancient times and killed many people.
+ETC_20151224_017539	Ammon has been existing from the ancient mal and killed many people.
 ETC_20151224_017540	Before it was discovered that it was a transformation of a plant, there was speculation that it could be some monster's larva.
 ETC_20151224_017541	You shouldn't misunderstand Woodin that doesn't move as a good stump.
 ETC_20151224_017542	According to a legend, Minos spent all its life by just fighting. This is because some Demon Lords used them as their servants to check on other Demon Lords.
 ETC_20151224_017543	They are servants and body guards to the Demon Lords.
-ETC_20151224_017544	It is not sure whether worgs interact with human spirits or they are one of the wolf species from the ancient times.
+ETC_20151224_017544	It is not sure whether worgs interact with human spirits or they are one of the wolf species from the ancient mal.
 ETC_20151224_017545	People used to think that they were influenced on Medzio Diena, but they grew up.
 ETC_20151224_017546	This monster appears in the regions of the kingdom where the climate is not adequate for cacti.
 ETC_20151224_017547	Kirmeleech sucks the blood of either monsters or demons since humans are too small to them. However, they do attack humans, so it's actually not important whether they suck blood from humans or not.
@@ -17555,7 +17555,7 @@ ETC_20151224_017556	Although its name is similar, it is not related to the monst
 ETC_20151224_017557	The Great King Zachariel destroyed the majority of his documents since he was worried about any intrusion. Therefore, we don't know if Tomb Maiden was created by humans.
 ETC_20151224_017558	It is the creation of magic that mages and humans frequently used to protect their treasures.
 ETC_20151224_017559	In theory, this monster's creation is similar to Dullahan. However, the combined object is not a shield.
-ETC_20151224_017560	Rexipher tried many times to infiltrate into the royal tomb. He didn't succeed the infiltration, but he was able to make a monster called Kubas.
+ETC_20151224_017560	Rexipher tried many mal to infiltrate into the royal tomb. He didn't succeed the infiltration, but he was able to make a monster called Kubas.
 ETC_20151224_017561	This info might not be useful to you in real battles, but this monster is very weak against other demons.
 ETC_20151224_017562	It is such a pity that many spirits held hands with the strong spirits since Medzio Diena. There are opinions that strategic negotiations should take place from now on.
 ETC_20151224_017563	The demons are controlling the strong ones among the creatures that turned into monsters on Medzio Diena. Gorgon used to exist even before Medzio Diena, but it's form and the habit is different from the past.
@@ -17576,7 +17576,7 @@ ETC_20151224_017577	It was rare that Hydra encounter with humans before Medzio D
 ETC_20151224_017578	It likes to hide in dark places or deep forests. It is timid so it only appears and attacks when it thinks the opponent is weak.
 ETC_20151224_017579	When it succeeds in suppressing an opponent, it has the tendency to paralyze the opponent and suck the body fluid of the opponent at a slow pace. After it increases its size, it attacks small-sized opponents to relieve its aggression and not to fulfill its hunger.
 ETC_20151224_017580	Initially, many people underestimated Colimencia, a strong Plant-Type monster, since it was in a state of inactivity, but they received severe damage.
-ETC_20151224_017581	It is not well known since it didn't interact many times with humans, but this demon has both the cruelity and sense of humor.
+ETC_20151224_017581	It is not well known since it didn't interact many mal with humans, but this demon has both the cruelity and sense of humor.
 ETC_20151224_017582	It is fortunate that there aren't many cases that the host became a monster, but it's a difficult phenomenon to understand.
 ETC_20151224_017583	Though it is a legend that cannot be confirmed, but Harpeia used to follow Goddess Laima instead of the demons.
 ETC_20151224_017584	Humans and monsters have the tendency to harass others that are weaker than them.
@@ -17638,7 +17638,7 @@ ETC_20151224_017639	Marionette is a monster that looks familiar, but brings fear
 ETC_20151224_017640	This monster who betrayed Goddess Gabija can be called the heretic of the spirits.
 ETC_20151224_017641	It is a demons' pest that came to our world from the demon realm. They are disgusting creatures among us demons as well.
 ETC_20151224_017642	You shouldn't just think of it as a beast of the demons. This monster is actually intelligent!
-ETC_20151224_017643	A long time ago, there were times that they were tamed and mounted by humans.
+ETC_20151224_017643	A long time ago, there were mal that they were tamed and mounted by humans.
 ETC_20151224_017644	This monster is the creation of the Demon Lord Naktis who almost reaches the level of an actual Demon Lord.
 ETC_20151224_017645	Succubus is currently under the command of the Demon Lord Naktis, but she isn't quite optimistic about Naktis.
 ETC_20151224_017646	It is sad that we cannot see animals like Rabbees in their appearances from the past.
@@ -17929,7 +17929,7 @@ ETC_20151224_017929	Erfahrener Abenteurer
 ETC_20151224_017930	Erhalten 4000 Gimmick-Leistungspunkte
 ETC_20151224_017931	Fähiger Abenteurer
 ETC_20151224_017932	Erhalten 9000 Gimmick-Leistungspunkte
-ETC_20151224_017933	Resurrected 1,000 times using Soul Crystals
+ETC_20151224_017933	Resurrected 1,000 mal using Soul Crystals
 ETC_20151224_017934	Erhalte 50 Schätze aus Schatztruhen
 ETC_20151224_017935	Erhalte 150 Schätze aus Schatztruhen
 ETC_20151224_017936	Erhalte 300 Schätze aus Schatztruhen
@@ -18254,7 +18254,7 @@ ETC_20151224_018254	Benutze und erhalte 30 TP.{nl}Dieser Gegenstand kann nach Ve
 ETC_20151224_018255	Benutze und erhalte 100 TP.{nl}Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
 ETC_20151224_018256	Benutze und erhalte 200 TP.{nl}Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
 ETC_20151224_018257	Benutze und erhalte 300 TP.{nl}Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
-ETC_20151224_018258	Token: 7 Days [Event]
+ETC_20151224_018258	Token: 7 Tage [Event]
 ETC_20151224_018259	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 7 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018260	Premium Awakening Stone
 ETC_20151224_018261	Megaphone 50x Box
@@ -18280,7 +18280,7 @@ ETC_20151224_018280	Token: 6 Stunden [Event]
 ETC_20151224_018281	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 6 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018282	Token: 12 Stunden [Event]
 ETC_20151224_018283	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 12 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
-ETC_20151224_018284	Token: 3 Days [Event]
+ETC_20151224_018284	Token: 3 Tage [Event]
 ETC_20151224_018285	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 3 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018286	Skill Reset Potion
 ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current skill points.
@@ -18665,7 +18665,7 @@ ETC_20151224_018665	Grynas Set
 ETC_20151224_018666	Dunkel-Eigenschaft Widerstand {img green_up_arrow 16 16} 10
 ETC_20151224_018667	Dunkel-Eigenschaft Widerstand {img green_up_arrow 16 16} 20
 ETC_20151224_018668	HP {img green_up_arrow 16 16}1020
-ETC_20151224_018669	{img green_up_arrow 16 16} 6 magic defense, {img red_down_arrow 16 16} 6 physical defense for 30 Sekunden with every basic and physical attack{nl}Increases Heilig and Dark property attack equal to 7.5% magic defense for 10 Sekunden when stacked 20 times
+ETC_20151224_018669	{img green_up_arrow 16 16} 6 magic defense, {img red_down_arrow 16 16} 6 physical defense for 30 Sekunden with every basic and physical attack{nl}Increases Heilig and Dark property attack equal to 7.5% magic defense for 10 Sekunden when stacked 20 mal
 ETC_20151224_018670	Minimum Combo Count
 ETC_20151224_018671	When you set this value to 1, the log about NGS will be remained as info log.
 ETC_20151224_018672	Count per one wiki ranking page
@@ -19211,11 +19211,11 @@ ETC_20151224_019211	Please select a number within the range of {MIN} ~ {MAX}.
 ETC_20151224_019212	The correct answer is bigger than {INPUT}.
 ETC_20151224_019213	The correct answer is smaller than {INPUT}.
 ETC_20151224_019214	This number has already been selected.{nl} Please select again from {MIN} ~ {MAX}.
-ETC_20151224_019215	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
+ETC_20151224_019215	You've completed {DAYPLAYCOUNT} mal out of {DAYMAXCOUNT} today.
 ETC_20151224_019216	 is the correct answer.
 ETC_20151224_019217	Remaining Attempts : {COUNT}{nl}Please select {DIGIT} different numbers between 0 ~ 9.
 ETC_20151224_019218	All matching numbers: {STRIKE}{nl}Correct answer number count : {BALL}{nl}Wrong answer number count : {OUT}
-ETC_20151224_019219	Today's Successes : {DAYPLAYCOUNT}{nl}You've succeeded {COUNT} times!
+ETC_20151224_019219	Today's Successes : {DAYPLAYCOUNT}{nl}You've succeeded {COUNT} mal!
 ETC_20151224_019220	Remaining Attempts : {nl}You've failed.{nl}The correct answer is {VALUE}.
 ETC_20151224_019221	The number to find : {NEXT}
 ETC_20151224_019222	You've found all the numbers
@@ -19367,8 +19367,8 @@ ETC_20151224_019367	Casting the curse with the Incantation Tools
 ETC_20151224_019368	All monsters around are cursed
 ETC_20151224_019369	Using the mysterious orb
 ETC_20151224_019370	The wrong result came out{nl}Please use the mysterious orb!
-ETC_20151224_019371	You will restart because you've failed 3 times
-ETC_20151224_019372	You've misattakced {count}times!{nl}Attack with timming of shining light
+ETC_20151224_019371	You will restart because you've failed 3 mal
+ETC_20151224_019372	You've misattakced {count}mal!{nl}Attack with timming of shining light
 ETC_20151224_019373	You've found the safe place without the monster's attack!
 ETC_20151224_019374	You've damaged by monsters!{nl}After killing monsters, you have moving to the safe place to avoid the monster's attack
 ETC_20151224_019375	Collecting Flower Leaf
@@ -19387,7 +19387,7 @@ ETC_20151224_019387	The light beads disppeared to Sudetas Valley.{nl}Chase after
 ETC_20151224_019388	You've defeated the trapped monster
 ETC_20151224_019389	Smoky Greenery
 ETC_20151224_019390	Move by using the Hidden Chamber Entrance portal!
-ETC_20151224_019391	You have to refill {need} more times
+ETC_20151224_019391	You have to refill {need} more mal
 ETC_20151224_019392	Shooting the flare
 ETC_20151224_019393	You have to defeat it under the basic state which of it has no reinforcement effect!
 ETC_20151224_019394	Suche nach einer Gruppe
@@ -19395,14 +19395,14 @@ ETC_20151224_019395	You are already in a party. Do you want to leave this party?
 ETC_20151224_019396	Suche nach einer Gruppe...{nl}Du trittst automatisch der Instanz bei.
 ETC_20151224_019397	Du hast eine Gruppe gefunden. Du trittst in einem Moment dem Spiel bei.
 ETC_20151224_019398	The candle is not lit soon
-ETC_20151224_019399	You've exploded the bag of Tranceherb Incense{nl}It can be exploded two more times
+ETC_20151224_019399	You've exploded the bag of Tranceherb Incense{nl}It can be exploded two more mal
 ETC_20151224_019400	You've exploded the bag of Tranceherb Incense{nl}It can be exploded one more time
 ETC_20151224_019401	You've used all the bags of Tranceherb Incense
 ETC_20151224_019402	You cannot destroy the totem before you defeat the Ferret Marauder.
 ETC_20151224_019403	The Earth Flower seed has been destroyed!
 ETC_20151224_019404	There are no ferrets nearby{nl}Rescue the girl now!
 ETC_20151224_019405	You've failed the quest{nl}Move to the entrance to restart the quest
-ETC_20151224_019406	{REMAIN} times remaining
+ETC_20151224_019406	{REMAIN} mal remaining
 ETC_20151224_019407	Failed{nl}Please retry again
 ETC_20151224_019408	You've successed the Make a Pair Monsters
 ETC_20151224_019409	Challenge
@@ -19410,8 +19410,8 @@ ETC_20151224_019410	Checking Cube
 ETC_20151224_019411	Make a Pair of Monsters to find the hidden monsters in Cube
 ETC_20151224_019412	You can try the Make a Pair of Monsters using collapsed obelisk
 ETC_20151224_019413	You're already progressing the Make a Pair of Monsters
-ETC_20151224_019414	Make a Pair of Monsters{nl}Available Times: {COUNT}times{nl}Do you want to try?
-ETC_20151224_019415	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
+ETC_20151224_019414	Make a Pair of Monsters{nl}Available Times: {COUNT}mal{nl}Do you want to try?
+ETC_20151224_019415	You've completed {DAYPLAYCOUNT} mal out of {DAYMAXCOUNT} today.
 ETC_20151224_019416	Cube should be opened with 2, so can be progressed
 ETC_20151224_019417	Receiving the rewards
 ETC_20151224_019418	You've failed to destoy the barrier stone during the limited time
@@ -19570,7 +19570,7 @@ ETC_20151224_019570	It is that 제느암 Corridor!
 ETC_20151224_019571	The protection shield is weakening because of the monster attacks
 ETC_20151224_019572	Give a Basic Klein HP Potion
 ETC_20151224_019573	You've found a traveling merchant!{nl}Tell the traveling merchant of Rose's location
-ETC_20151224_019574	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
+ETC_20151224_019574	You've completed {DAYPLAYCOUNT} mal out of {DAYMAXCOUNT} today.
 ETC_20151224_019575	Charging the launcher
 ETC_20151224_019576	Purified the evil spirit!
 ETC_20151224_019577	You receive a beneficial effect because you purified the evil spirit!
@@ -19594,7 +19594,7 @@ ETC_20151224_019594	Move to the the place to push the boat
 ETC_20151224_019595	You are already received the rewards
 ETC_20151224_019596	You cannot receive the rewards
 ETC_20151224_019597	You have received the rewards
-ETC_20151224_019598	You've used {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
+ETC_20151224_019598	You've used {DAYPLAYCOUNT} mal out of {DAYMAXCOUNT} today.
 ETC_20151224_019599	Hurry up!
 ETC_20151224_019600	You've dedicated 1 Blue Cronewt Leder as an offering
 ETC_20151224_019601	You've dedicated 10 Blue Cronewt Leathers as an offering
@@ -19621,7 +19621,7 @@ ETC_20151224_019621	Ughh...
 ETC_20151224_019622	You have received the Achievement Score.
 ETC_20151224_019623	You are already received the Achievement Score.
 ETC_20151224_019624	You can no longer receive the Achievement Score.
-ETC_20151224_019625	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
+ETC_20151224_019625	You've completed {DAYPLAYCOUNT} mal out of {DAYMAXCOUNT} today.
 ETC_20151224_019626	Gilden Anfrage
 ETC_20151224_019627	Das erstellen einer Gilde ist fehlgeschlagen
 ETC_20151224_019628	Verlasse die Gilde
@@ -19753,7 +19753,7 @@ ETC_20151224_019753	You don't have enough points. You need a minimum of {Point} 
 ETC_20151224_019754	Der Name ist zu lang oder zu kurz.
 ETC_20151224_019755	{Name} is requesting to join.
 ETC_20151224_019756	Würdest du gerne mitmachen?
-ETC_20151224_019757	You can enter {COUNT} times per day.
+ETC_20151224_019757	You can enter {COUNT} mal per day.
 ETC_20151224_019758	The Unlimited Instanced Dungeon Entries Voucher is in use.
 ETC_20151224_019759	You have already obtained the achievement reward.
 ETC_20151224_019760	You have obtained a reward for the Wipe out the Hanamings! achievement.
@@ -20151,13 +20151,13 @@ ETC_20160224_020151	1st Alphabet Event Conqueror
 ETC_20160224_020152	You successfully completed the alphabet collecting event.
 ETC_20160224_020153	Moving Device
 ETC_20160224_020154	Novice Rider
-ETC_20160224_020155	Ride transport devices 100 times
+ETC_20160224_020155	Ride transport devices 100 mal
 ETC_20160224_020156	Enjoyable Moving Device
 ETC_20160224_020157	Experienced Rider
-ETC_20160224_020158	Ride transport devices 300 times
+ETC_20160224_020158	Ride transport devices 300 mal
 ETC_20160224_020159	Familiar Transport Device
 ETC_20160224_020160	Tired Rider
-ETC_20160224_020161	Ride transport devices 600 times
+ETC_20160224_020161	Ride transport devices 600 mal
 ETC_20160224_020162	Boring Transport Device
 ETC_20160224_020163	Sicarius Scouter
 ETC_20160224_020164	Open 25 secret chests in Sicarius
@@ -20168,13 +20168,13 @@ ETC_20160224_020168	Sicarius Treasure Jäger
 ETC_20160224_020169	Open 150 secret chests in Sicarius
 ETC_20160224_020170	Sicarius' Secret Chests (3)
 ETC_20160224_020171	Legwyn Lamplighter
-ETC_20160224_020172	Light Magie Astral Lamp 50 times
+ETC_20160224_020172	Light Magie Astral Lamp 50 mal
 ETC_20160224_020173	Astral Lamp of the Legwyn Family Residence
 ETC_20160224_020174	Starlight Collector
-ETC_20160224_020175	Light Magie Astral Lamp 150 times
+ETC_20160224_020175	Light Magie Astral Lamp 150 mal
 ETC_20160224_020176	Astral Lamp of the Legwyn Family Residence (2)
 ETC_20160224_020177	Starlight Transporter
-ETC_20160224_020178	Light Magie Astral Lamp 300 times
+ETC_20160224_020178	Light Magie Astral Lamp 300 mal
 ETC_20160224_020179	Astral Lamp of the Legwyn Family Residence (3)
 ETC_20160224_020180	Demon Prison Scouter
 ETC_20160224_020181	Open 35 treasure chests with a blue crystal in Demon Prison
@@ -20213,20 +20213,20 @@ ETC_20160224_020213	Lamp Maniac
 ETC_20160224_020214	Light 360 lamps in the Royal Mausoleum Workers Hütte
 ETC_20160224_020215	Royal Mausoleum Workers Hütte Lamp (3)
 ETC_20160224_020216	Fledgling Mercenary
-ETC_20160224_020217	Progress in a daily quest 25 times
+ETC_20160224_020217	Progress in a daily quest 25 mal
 ETC_20160224_020218	Daily Quest (1)
 ETC_20160224_020219	Veteran Mercenary
-ETC_20160224_020220	Progress in a party quest 100 times
+ETC_20160224_020220	Progress in a party quest 100 mal
 ETC_20160224_020221	Daily Quest (2)
 ETC_20160224_020222	Rota's Trusted Mercenary
-ETC_20160224_020223	Progress in a daily quest 300 times
+ETC_20160224_020223	Progress in a daily quest 300 mal
 ETC_20160224_020224	Daily Quest (3)
 ETC_20160224_020225	Gruppen Quest (1)
 ETC_20160224_020226	Reassured Ally
-ETC_20160224_020227	Progress in a party quest 100 times
+ETC_20160224_020227	Progress in a party quest 100 mal
 ETC_20160224_020228	Gruppen Quest (2)
 ETC_20160224_020229	Trustworthy Ally
-ETC_20160224_020230	Progress in a party quest 300 times
+ETC_20160224_020230	Progress in a party quest 300 mal
 ETC_20160224_020231	Gruppen Quest (3)
 ETC_20160224_020232	Daily Quest Count
 ETC_20160224_020233	First Alphabet Event
@@ -20384,7 +20384,7 @@ ETC_20160224_020384	Reaction time after clicking OBB TEST
 ETC_20160224_020385	Processing overtime log
 ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
 ETC_20160224_020387	Convent Auto Matching
-ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20160224_020388	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Rechtsklick zum verwenden.
 ETC_20160224_020390	Verzauberungsrolle
 ETC_20160224_020391	Fügt zufällige Werte dem Haar-Kostüm hinzu.{nl}Es können bis zu 3 Werte hinzugefügt werden.{nl}Du kannst diesen Gegenstand nicht auf ein ausgerüsteten Gegenstand verwenden.{nl}Rechtsklick zum verwenden.
@@ -20393,14 +20393,14 @@ ETC_20160224_020393	Benutze und erhalte 100 TP.
 ETC_20160224_020394	Verzauberungsrolle 20x Box
 ETC_20160224_020395	Contains 20 Enchant Scrolls. Rechtsklick zum verwenden.
 ETC_20160224_020396	Stat Reset Potion
-ETC_20160224_020397	50 Days Open Commemoration Package
-ETC_20160224_020398	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Puppe{nl} - 150 TP [Event]
+ETC_20160224_020397	50 Tage Open Commemoration Package
+ETC_20160224_020398	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 500 TP{nl} - 10x Verzauberungs-Rolle{nl} - Hairstyle Accessory - Popolion Puppe{nl} - 150 TP [Event]
 ETC_20160224_020399	Benutze und erhalte 500 TP.
 ETC_20160224_020400	150 TP [Event]
 ETC_20160224_020401	Benutze und erhalte 150 TP.
 ETC_20160224_020402	Token [Event]
-ETC_20160224_020403	Token: 15 Days [Event]
-ETC_20160224_020404	Contains a variety of special benefits for all your characters in this server for 15 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20160224_020403	Token: 15 Tage [Event]
+ETC_20160224_020404	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 15 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20160224_020405	Earth Tower Entrance
 ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Goddess Zemyna
@@ -20552,7 +20552,7 @@ ETC_20160224_020552	Game access is currently restricted{nl}due to a server maint
 ETC_20160224_020553	You are currently infusing magic into an item. Please try again later.
 ETC_20160224_020554	You have exceeded the amount of Silber you can carry.
 ETC_20160224_020555	You have exceeded the maximum amount of registrations.
-ETC_20160224_020556	Up to 2 times with Token benefits
+ETC_20160224_020556	Up to 2 mal with Token benefits
 ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slot(s) for {Silber} Silber?
 ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	This item cannot be awakened.
@@ -20677,7 +20677,7 @@ ETC_20160224_020677	Team Battle League Champion
 ETC_20160224_020678	Team Battle League, rank {Rank}
 ETC_20160224_020679	Rank {Rank} or higher are allowed.
 ETC_20160224_020680	Incapable of combat.
-ETC_20160224_020681	You can enter up to {COUNT} times. Resets daily at {HOUR} AM EST.
+ETC_20160224_020681	You can enter up to {COUNT} mal. Resets daily at {HOUR} AM EST.
 ETC_20160224_020682	(+{COUNT} extra entry for users with Token benefits)
 ETC_20160224_020683	Collect tree leaves
 ETC_20160224_020684	Acquired corroded tree leaves!
@@ -21174,7 +21174,7 @@ ETC_20160315_021172	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 200 
 ETC_20160315_021173	You can enter this server by purchasing DLC.
 ETC_20160317_021174	Grand Translator
 ETC_20160317_021175	An honorable title only bestowed upon those who participated in the Great Translation movement.
-ETC_20160317_021176	Contains a variety of special benefits for all your characters in this server for 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 1 Extra-Eintritt für Missionen und Dungeons
+ETC_20160317_021176	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 1 Extra-Eintritt für Missionen und Dungeons
 ETC_20160317_021177	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Puppe
 ETC_20160317_021178	Benutze und erhalte 360 TP.
 ETC_20160317_021179	Benutze und erhalte 230 TP.
@@ -21182,7 +21182,7 @@ ETC_20160317_021180	Benutze und erhalte 110 TP.
 ETC_20160317_021181	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Puppe
 ETC_20160317_021182	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 110 TP
 ETC_20160317_021183	2 additional Dungeon and Mission entries
-ETC_20160317_021184	Contains a variety of special benefits for all your characters in this server for 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 2 extra instance entries for missions and dungeons
+ETC_20160317_021184	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 2 extra instance entries for missions and dungeons
 ETC_20160320_021185	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 650 TP{nl} - Token (60 Tage){nl} - Haarschmuck - Popolion Puppe{nl} - Haarschmuck - Hanaming Puppe{nl} - Hoglan Begleiter Voucher{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
 ETC_20160320_021186	Benutze und erhalte 650 TP.
 ETC_20160320_021187	Benutze und erhalte 380 TP.
@@ -21757,32 +21757,32 @@ ETC_20160425_021755	Du kannst Fähigkeiten sofort erlernen
 ETC_20160425_021756	Token Aktiviert
 ETC_20160425_021757	Token Deaktiviert
 ETC_20160426_021758	Begleiter
-ETC_20160426_021759	Verwende einen Token um all deinen Charakteren auf einem Server für 30 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
-ETC_20160426_021760	Verwende einen Token um all deinen Charakteren auf einem Server für 7 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
-ETC_20160426_021761	Verwende einen Token um all deinen Charakteren auf einem Server für 5 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160426_021762	Verwende einen Token um all deinen Charakteren auf einem Server für 1 Tag. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160426_021763	Verwende einen Token um all deinen Charakteren auf einem Server für 3 Stunden. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160426_021764	Verwende einen Token um all deinen Charakteren auf einem Server für 6 Stunden. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160426_021765	Verwende einen Token um all deinen Charakteren auf einem Server für 12 Stunden. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160426_021766	Verwende einen Token um all deinen Charakteren auf einem Server für 3 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160426_021767	Verwende einen Token um all deinen Charakteren auf einem Server für 30 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times
-ETC_20160426_021768	Verwende einen Token um all deinen Charakteren auf einem Server für 15 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160426_021759	Verwende einen Token um all deinen Charakteren auf einem Server für 30 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +30% EXP von der Monsterjagd{nl} - Able to use Premium Gestures{nl} - Erhöht maximalen Buff-Zähler{nl} - Anzahl möglicher persönlicher Handel 30 mal{nl} - 1 zusätzlicher Instanz Eintrag für Missionen und Dungeons
+ETC_20160426_021760	Verwende einen Token um all deinen Charakteren auf einem Server für 7 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Able to use Premium Gestures{nl} - Erhöht maximalen Buff-Zähler{nl} - Anzahl möglicher persönlicher Handel 30 mal{nl} - 1 zusätzlicher Instanz Eintrag für Missionen und Dungeons
+ETC_20160426_021761	Verwende einen Token um all deinen Charakteren auf einem Server für 5 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
+ETC_20160426_021762	Verwende einen Token um all deinen Charakteren auf einem Server für 1 Tag. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
+ETC_20160426_021763	Verwende einen Token um all deinen Charakteren auf einem Server für 3 Stunden. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
+ETC_20160426_021764	Verwende einen Token um all deinen Charakteren auf einem Server für 6 Stunden. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
+ETC_20160426_021765	Verwende einen Token um all deinen Charakteren auf einem Server für 12 Stunden. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
+ETC_20160426_021766	Verwende einen Token um all deinen Charakteren auf einem Server für 3 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
+ETC_20160426_021767	Verwende einen Token um all deinen Charakteren auf einem Server für 30 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures{nl} - Anzahl möglicher persönlicher Handel 30 mal
+ETC_20160426_021768	Verwende einen Token um all deinen Charakteren auf einem Server für 15 Tage Vorteile zu bringen. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30%{img white_right_arrow 16 16}10%){nl} - Möglichkeit bis zu 9 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +20% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
 ETC_20160503_021769	Verbinden mit der DB fehlgeschlagen. Gezwungen die Verbindung zum Server zu trennen. Bitte überprüfe deine ODBC oder Verbindungseinstellungen.
 ETC_20160503_021770	Überzeugungs-Skill Lv 1
 ETC_20160503_021771	Das Frettchen startet Angriffe.
 ETC_20160509_021772	Verwende einen Token um Fähigkeiten ohne Trainingszeit zu erlernen.
 ETC_20160509_021773	Verwende einen Token um bis zu 10 Gegenstände in das Auktionshaus zu stellen.
-ETC_20160512_021774	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160513_021776	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160512_021774	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30% {img white_right_arrow 16 16} 10%){nl} - Möglichkeit bis zu 10 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +30% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
+ETC_20160513_021776	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30% {img white_right_arrow 16 16} 10%){nl} - Möglichkeit bis zu 10 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +30% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures{nl} - 1 zusätzlicher Instanz Eintrag für Missionen und Dungeons
 ETC_20160520_021777	Collection: Never Seen Before
 ETC_20160520_021778	Ash Blonde Dye
 ETC_20160520_021779	A subtle golden color is the best to attract attention. Rechtsklick zum verwenden. Check the Character Settings tab for the registered color.
 ETC_20160520_021780	Ruby Wine Dye
 ETC_20160520_021781	Fiery and fierce red like ruby. Rechtsklick zum verwenden. Check the Character Settings tab for the registered color.
-ETC_20160520_021782	Instanced Dungeon Reset Voucher: 14 Days
+ETC_20160520_021782	Instanced Dungeon Reset Voucher: 14 Tage
 ETC_20160520_021783	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 14 days.
-ETC_20160520_021784	EXP Tome: 14 Days
-ETC_20160520_021785	Applies various effects to your character for 1 hour. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20160520_021784	EXP Tome: 14 Tage
+ETC_20160520_021785	Applies various effects to your character for 1 hour. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP von der Monsterjagd{nl} - Doubled STA recovery rate
 ETC_20160520_021786	30 TP [Event]
 ETC_20160520_021787	Use to obtain 30 TP.
 ETC_20160520_021788	Instanced Dungeon Reset Voucher: 1 Minute
@@ -21801,30 +21801,30 @@ ETC_20160520_021800	Hammer of Dismantlement
 ETC_20160520_021801	A mystical hammer that can dismantle things it touches. It is a material used for transcendental removal.
 ETC_20160520_021802	Spell Rod
 ETC_20160520_021803	Rods spawning all around will absorb spells. Used in transcendental removal.
-ETC_20160520_021804	Premium Awakening Stone (14 Days)
-ETC_20160520_021805	Stat Reset Potion (14 Days)
+ETC_20160520_021804	Premium Awakening Stone (14 Tage)
+ETC_20160520_021805	Stat Reset Potion (14 Tage)
 ETC_20160520_021806	Laima Package
-ETC_20160520_021807	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 7 Days (Event) x1 {nl} - EXP Tome x3 {nl} – Highly Condensed HP Potion x100 {nl} - Highly Condensed SP Potion x100 {nl} - Urgent Repair Kit x3 {nl} - Warp Scroll x10 {nl} - Soul Crystal x5 {nl} - Instanced Dungeon Reset Voucher x1 {nl} – Megaphone x10
+ETC_20160520_021807	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 7 Tage (Event) x1 {nl} - EXP Tome x3 {nl} – Highly Condensed HP Potion x100 {nl} - Highly Condensed SP Potion x100 {nl} - Urgent Repair Kit x3 {nl} - Warp Scroll x10 {nl} - Soul Crystal x5 {nl} - Instanced Dungeon Reset Voucher x1 {nl} – Megaphone x10
 ETC_20160520_021808	Benefit UPUP! Package
-ETC_20160520_021809	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 30 Days x1{nl} - Sardine x15 {nl} – Penguin Egg x1
+ETC_20160520_021809	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 30 Tage x1{nl} - Sardine x15 {nl} – Penguin Egg x1
 ETC_20160520_021810	Sardine Bundle
 ETC_20160520_021811	Rechtsklick zum verwenden. Contains Sardine x5.
 ETC_20160520_021812	Trump Swordsman Package (Male)
-ETC_20160520_021813	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Costume (Male) x1{nl} - Major Spade Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021813	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Costume (Male) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021814	Trump Swordsman Package (Female)
-ETC_20160520_021815	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Costume (Female) x1{nl} - Major Spade Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021815	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Costume (Female) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021816	Trump Magician Package (Male)
-ETC_20160520_021817	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Costume (Male) x1{nl} - Diamond Magician Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021817	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Costume (Male) x1{nl} - Diamond Magician Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021818	Trump Magician Package (Female)
-ETC_20160520_021819	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Costume (Female) x1{nl} - Queen Diamond's Tiara x1{nl} - Enchant Scroll x40
+ETC_20160520_021819	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Costume (Female) x1{nl} - Queen Diamond's Tiara x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021820	Trump Archer Package (Male)
-ETC_20160520_021821	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Costume (Male) x1{nl} - Clover Feather Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021821	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Costume (Male) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021822	Trump Archer Package (Female)
-ETC_20160520_021823	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Costume (Female) x1{nl} - Clover Feather Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021823	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Costume (Female) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021824	Trump Cleric Package (Male)
-ETC_20160520_021825	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Costume (Male) x1{nl} - Sailor Heart Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021825	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Costume (Male) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021826	Trump Cleric Package (Female)
-ETC_20160520_021827	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Costume (Female) x1{nl} - Sailor Heart Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021827	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Costume (Female) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021828	Penguin
 ETC_20160520_021829	Steam Inventar Verwendbarkeit
 ETC_20160520_021830	Neutrale Zeit (sek)
@@ -21979,6 +21979,8 @@ ETC_20160622_021978	Du hast diesen Handel bereits gemeldet.
 ETC_20160622_021979	Dieser Gegenstand kann nicht gekauft werden.
 ETC_20160622_021980	Dieser Gegenstand wurde genommen.
 ETC_20160622_021981	Premium Gegenstand
-ETC_20160704_021982	Purchase Bokor Items	보코르 물품 구입
-ETC_20160704_021983	You cannot create Zombies without the Zombify Skill	좀비만들기 스킬이 없어 좀비를 생성할 수 없습니다.
-ETC_20160704_021984	You have created the maximum amount of Zombies and cannot create more.	좀비 최대 생성수에 도달하여 좀비를 생성할 수 없습니다.
+ETC_20160704_021982	Purchase Bokor Items
+ETC_20160704_021983	You cannot create Zombies without the Zombify Skill.
+ETC_20160704_021984	You have created the maximum amount of Zombies and cannot create more.
+ETC_20160711_021985	You cannot store any more since you have exceeded the maximum amount of {MAX}.
+ETC_20160711_021986	You must be higher than Rank 2 to deposit or withdraw silver.
