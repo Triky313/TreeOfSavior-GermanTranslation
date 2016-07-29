@@ -1680,8 +1680,8 @@ UI_20150714_001679	Quest-Teilung : {#2c140c}%s{/}
 UI_20150714_001680	EXP Verteilung : {#2c140c}%s{/}
 UI_20150714_001681	Gegenstand Verteilung : {#2c140c}%s{/}
 UI_20150714_001682	Hattest du eine gute Zeit mit dieser Gruppe?
-UI_20150714_001683	{@st42} erhalten %s nach %s
-UI_20150714_001684	{@st42} erhalten %s nach %s
+UI_20150714_001683	{@st42} erhalten %s durch %s
+UI_20150714_001684	{@st42} %s verbessert %s
 UI_20150714_001685	Memo :%s
 UI_20150714_001686	{@st59}Füge das Material dem Fenster hinzu.{/}
 UI_20150714_001687	{@st66b}Preis : %s{/}
