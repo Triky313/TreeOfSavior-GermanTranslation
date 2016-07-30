@@ -1,10 +1,10 @@
 ETC_20150317_000001	Kepa
-ETC_20150317_000002	The Kepa is not a strong monster. However, attacking it recklessly may bring you to tears.
+ETC_20150317_000002	Der Kepa ist kein starkes Monster. Jedoch ist es rücksichtslos, Angriffe können sie zum Weinen bringen.
 ETC_20150317_000003	Groß Kepa
 ETC_20150317_000004	There are people who try to eat the Groß Kepa sometimes. Don't let them.
 ETC_20150317_000005	Red Kepa
 ETC_20150317_000006	Contrary to popular belief, it's the Red Kepas that are most similar to the original Kepa.
-ETC_20150317_000007	Poisoned Kepa
+ETC_20150317_000007	Verseuchter Kepa
 ETC_20150317_000008	Monster
 ETC_20150317_000009	Hamming
 ETC_20150317_000010	Despite its tough skin, the Hamming is a fairly feeble monster.
@@ -3750,20 +3750,20 @@ ETC_20150317_003749	Quest finished directing 2222222, layer objects EventName:
 ETC_20150317_003750	Quest finished directing 333333, PC Current Layer:
 ETC_20150317_003751	Quest finished production
 ETC_20150317_003752	Quest finished directing change layer Goals: 0
-ETC_20150317_003753	Current layer:
+ETC_20150317_003753	Aktueller Layer:
 ETC_20150317_003754	Quest finished presentation layer before change
-ETC_20150317_003755	The end of the track
-ETC_20150317_003756	Insufficient items
-ETC_20150317_003757	Your inventory is full. You can not receive any more items! {nl}
+ETC_20150317_003755	Das Ende der Strecke
+ETC_20150317_003756	Ungenügend Gegenstände
+ETC_20150317_003757	Dein Inventar ist voll. Du kannst keine weiteren Gegenstände erhalten! {nl}
 ETC_20150317_003758	Open the Kiro Instant Laden and empty your inventory
-ETC_20150317_003759	An empty slot in your inventory is required
+ETC_20150317_003759	Ein freier Platz im Inventar ist erforderlich
 ETC_20150317_003760	Exceeds the cumulative value per slot.
 ETC_20150317_003761	Cannot take all items when deleting quest equipment. Count is negative
 ETC_20150317_003762	Transaction error because item count is less than count set
 ETC_20150317_003763	Quest PCLoopAnim third argument is not a number column
-ETC_20150317_003764	Current defense {@st53}
-ETC_20150317_003765	{/}is {@st54}
-ETC_20150317_003766	Thick clothes
+ETC_20150317_003764	Aktuelle Verteidigung {@st53}
+ETC_20150317_003765	{/}ist {@st54}
+ETC_20150317_003766	Dicke Kleidung
 ETC_20150317_003767	wearing at least {/} armor will be of help
 ETC_20150317_003768	Thick Overclothes
 ETC_20150317_003769	wearing at least {/} armor will be of help
@@ -3776,9 +3776,9 @@ ETC_20150317_003775	Tastatur
 ETC_20150317_003776	zu erhöhende Werte
 ETC_20150317_003777	zu lernende Attribute
 ETC_20150317_003778	Dein Klassen-Level hat sich erhöht
-ETC_20150317_003779	to learn skills
-ETC_20150317_003780	Monster regen success:
-ETC_20150317_003781	No monster regens nearby
+ETC_20150317_003779	zu lernende Skills
+ETC_20150317_003780	Monster regen Erfolg:
+ETC_20150317_003781	Kein Monster Regens in der Nähe
 ETC_20150317_003782	Zone does not have special regen and set regen
 ETC_20150317_003783	Klasse
 ETC_20150317_003784	nach Level
@@ -3809,29 +3809,29 @@ ETC_20150317_003808	Transaction error
 ETC_20150317_003809	This can only be used when the quest is progress or in standby mode. Current state:
 ETC_20150317_003810	Quest Starting Map:
 ETC_20150317_003811	Start NPC:
-ETC_20150317_003812	 activated {nl}
-ETC_20150317_003813	 Use this to warp anywhere!
+ETC_20150317_003812	 aktiviert {nl}
+ETC_20150317_003813	Verwende dies um irgendwohin zu warpen!
 ETC_20150317_003814	You have not activated any other Goddess Statue, so you cannot teleport yet.
-ETC_20150317_003815	The rest of the area
-ETC_20150317_003816	Rest of the camp
+ETC_20150317_003815	Der Rest des Bereiches
+ETC_20150317_003816	Der Rest des Lagers
 ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
 ETC_20150317_003818	Basic Quest Information
 ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
-ETC_20150317_003821	Repetitive
-ETC_20150317_003822	Endless loop
-ETC_20150317_003823	Sprich mit NPC
-ETC_20150317_003824	Gegenstand acquired
+ETC_20150317_003821	Wiederholend
+ETC_20150317_003822	Endlosschleife
+ETC_20150317_003823	Sprich mit dem NPC
+ETC_20150317_003824	Gegenstand erlangt
 ETC_20150317_003825	Verwende Items
-ETC_20150317_003826	of area
-ETC_20150317_003827	enter range
+ETC_20150317_003826	des Bereichs
+ETC_20150317_003827	Reichweite eingeben
 ETC_20150317_003828	Automatically complete from quest session object when goal is achieved
 ETC_20150317_003829	Nicht
 ETC_20150317_003830	Quest Pre-requisite
 ETC_20150317_003831	Spot
 ETC_20150317_003832	Within range
-ETC_20150317_003833	All of satisfaction (AND)
-ETC_20150317_003834	Only one satisfied (OR)
+ETC_20150317_003833	Alle zufrieden (AND)
+ETC_20150317_003834	Nur einer zufrieden (OR)
 ETC_20150317_003835	at least
 ETC_20150317_003836	Begin within time
 ETC_20150317_003837	Day checked within
@@ -3848,7 +3848,7 @@ ETC_20150317_003847	Change to the standby complete when talking to NPC
 ETC_20150317_003848	Quest complete at once (receive reward and complete quest)
 ETC_20150317_003849	ea
 ETC_20150317_003850	Quest In Progress
-ETC_20150317_003851	when quest (complete standby-> complete)
+ETC_20150317_003851	wen Quest (komplett Standby-> komplett)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
@@ -3858,21 +3858,21 @@ ETC_20150317_003857	Check how many quests are in progress. You can have up to 10
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
 ETC_20150317_003860	Gegenstand to delete when giving up quest is more than item in inventory
-ETC_20150317_003861	Delete quantity
-ETC_20150317_003862	In inventory
+ETC_20150317_003861	Menge löschen
+ETC_20150317_003862	Im Inventar
 ETC_20150317_003863	SCR_SEL_LIST selection Dlg UI of PC occurs if a nil sel Dialg:
 ETC_20150317_003864	Unable to acquire quest item because your inventory is full!
 ETC_20150317_003865	Acquired quest item
 ETC_20150317_003866	Quest enrolled in the Session object QuestMapPointViewTerms
 ETC_20150317_003867	Quest enrolled in the Session object QuestMonViewTerms
-ETC_20150317_003868	Already used
+ETC_20150317_003868	Bereits verwendet
 ETC_20150317_003869	Goddess' Blessing{nl}Increases Skill Point by 1
 ETC_20150317_003870	You have already been blessed by the goddess
 ETC_20150317_003871	Unable to move to the warp area, as it doesn't exist
-ETC_20150317_003872	Through the NPC
-ETC_20150317_003873	Moving to
-ETC_20150317_003874	Knockback
-ETC_20150317_003875	No Location
+ETC_20150317_003872	Durch den NPC
+ETC_20150317_003873	Bewege zu
+ETC_20150317_003874	Rückstoß
+ETC_20150317_003875	Kein Standort
 ETC_20150317_003876	it tag monster does not appear
 ETC_20150317_003877	You have completed a guild request. Return to receive a reward.
 ETC_20150317_003878	After successfully defeating a monster, move around to automatically obtain items
@@ -3886,18 +3886,18 @@ ETC_20150317_003885	The bomb was installed successfully
 ETC_20150317_003886	Up to me
 ETC_20150317_003887	Attempted to make
 ETC_20150317_003888	Script Mongolia log
-ETC_20150317_003889	Create Collection
-ETC_20150317_003890	Message Test
+ETC_20150317_003889	Erstelle eine Sammlung
+ETC_20150317_003890	Nachricht Test
 ETC_20150317_003891	Global Gen impossible:
 ETC_20150317_003892	Global Gen available
 ETC_20150317_003893	Hehehe... Oh, how much I have longed for this moment!
 ETC_20150317_003894	Finally, my moment of revenge!
 ETC_20150317_003895	That's... a human!
-ETC_20150317_003896	My little ones. They're humans!!!
+ETC_20150317_003896	Meine Kleinen. Sie sind Menschen!!!
 ETC_20150317_003897	Wirklich?
 ETC_20150317_003898	Sieht gut aus
 ETC_20150317_003899	Woohoo!
-ETC_20150317_003900	Move!
+ETC_20150317_003900	Bewegung!
 ETC_20150317_003901	Ende!
 ETC_20150317_003902	Ich brauche menschliches Blut!
 ETC_20150317_003903	I am trying to use a non-registered monster. ClassName:
@@ -3922,9 +3922,9 @@ ETC_20150317_003921	Entferne Effekt
 ETC_20150317_003922	Add knockback +
 ETC_20150317_003923	Please click the desired location to move on the map.
 ETC_20150317_003924	Sichere Zone
-ETC_20150317_003925	No move
-ETC_20150317_003926	Drop
-ETC_20150317_003927	Shortage
+ETC_20150317_003925	Nicht bewegen
+ETC_20150317_003926	Wegwerfen
+ETC_20150317_003927	Knappheit
 ETC_20150317_003928	Key of the Puzzle Box
 ETC_20150317_003929	It is available to have in the inventory!
 ETC_20150317_003930	Enter the three-digit number that is different in the chat window
@@ -3937,12 +3937,12 @@ ETC_20150317_003936	No number matched the nearby boxes
 ETC_20150317_003937	Acquisition Buff
 ETC_20150317_003938	Enter a number between 0 and 10000 into the chat window
 ETC_20150317_003939	In operation. Enter a number between 0 and 10000 into the chat window
-ETC_20150317_003940	Lower
-ETC_20150317_003941	Higher
+ETC_20150317_003940	Niedriger
+ETC_20150317_003941	Höher
 ETC_20150317_003942	The number entered is not between 0 and 10000
 ETC_20150317_003943	2. Besiege the crowd monsters
 ETC_20150317_003944	Chalk for Scribbles
-ETC_20150317_003945	Available in this inventory!
+ETC_20150317_003945	Vorhanden in diesem Inventar!
 ETC_20150317_003946	Write the scribble information in a chat window
 ETC_20150317_003947	Prohibition Scribbles
 ETC_20150317_003948	3. Put the desired message into the chat window
@@ -3960,13 +3960,13 @@ ETC_20150317_003959	Hi-Lo game 1
 ETC_20150317_003960	Write Board Posts 1
 ETC_20150317_003961	Acquisition Experiences
 ETC_20150317_003962	The cost of the required enhancement is negative
-ETC_20150317_003963	Enhancement Stage of Objective
+ETC_20150317_003963	Enhancement Stufe of Objective
 ETC_20150317_003964	Purchase Price of item
 ETC_20150317_003965	Necessary cost
 ETC_20150317_003966	The refund cost is negative
 ETC_20150317_003967	Consumption Expense
 ETC_20150317_003968	Progress percent
-ETC_20150317_003969	Refund Cost
+ETC_20150317_003969	Kostenrückerstattung  
 ETC_20150317_003970	You should build it in the entrance of the local tomb
 ETC_20150317_003971	You cannot place the purification stone here!
 ETC_20150317_003972	This monster is currently intoxicated.
@@ -3976,9 +3976,9 @@ ETC_20150317_003975	Can be used near the purifier in District 5!
 ETC_20150317_003976	Cannot be used yet
 ETC_20150317_003977	This can only be used inside the Crystal Mine
 ETC_20150317_003978	Level of antidote is lower!
-ETC_20150317_003979	You are not poisoned
+ETC_20150317_003979	Du bist nicht vergiftet
 ETC_20150317_003980	Applying Spell disturbance
-ETC_20150317_003981	None Golem
+ETC_20150317_003981	Kein Golem
 ETC_20150317_003982	Available in front of the burning bush!
 ETC_20150317_003983	Purified the body fluid of Matsum
 ETC_20150317_003984	Can be used in front of the weak thorns!
@@ -3992,7 +3992,7 @@ ETC_20150317_003991	Possible use!
 ETC_20150317_003992	Available in Thorn Forest!
 ETC_20150317_003993	React material of monster on Thorn forest
 ETC_20150317_003994	This can only be used on a monster!
-ETC_20150317_003995	Monsters that are confused
+ETC_20150317_003995	Monster, die verwirrt sind
 ETC_20150317_003996	Matsum Magie Piece
 ETC_20150317_003997	Available in front of the thorns with blocked stone!
 ETC_20150317_003998	No Red Vubbe Archer to apply
@@ -4010,7 +4010,7 @@ ETC_20150317_004009	The piece of the monument is not enough.
 ETC_20150317_004010	The effect of the magic jar has weakened.
 ETC_20150317_004011	The powerful magic absorption device is charging
 ETC_20150317_004012	When checking {Auto_1}'s quest, the actor information on {Auto_2} is coming down not PC.
-ETC_20150317_004013	to PC
+ETC_20150317_004013	zum PC
 ETC_20150317_004014	There is no session object.
 ETC_20150317_004015	There is no main session
 ETC_20150317_004016	Property values
@@ -4028,8 +4028,8 @@ ETC_20150317_004027	The column value of quest of Succ_EqItemName1 should be set 
 ETC_20150317_004028	Succ_EqItemName of quest
 ETC_20150317_004029	The column value needs to be set up.
 ETC_20150317_004030	No other closing conditions
-ETC_20150317_004031	Must be
-ETC_20150317_004032	as follows.
+ETC_20150317_004031	Muss sein
+ETC_20150317_004032	wie folgt.
 ETC_20150317_004033	The column of Quest of QuestName4 should be not None
 ETC_20150317_004034	The column of Quest of QuestName3 should be not None
 ETC_20150317_004035	The column of Quest of QuestName2 should be not None
@@ -4071,38 +4071,38 @@ ETC_20150317_004070	in the QuestProgressCheck.xml file
 ETC_20150317_004071	Does not exist.
 ETC_20150317_004072	The value is
 ETC_20150317_004073	The format does not fit in.
-ETC_20150317_004074	Column of Quest Succ_MonKill_ItemGive6 should be none
-ETC_20150317_004075	Column of Quest Succ_MonKillCount6 must be greater than 0.
-ETC_20150317_004076	Column of Quest Succ_MonKill_ItemGive5 should be none
-ETC_20150317_004077	Column of Quest Succ_MonKillCount5 must be greater than 0.
-ETC_20150317_004078	Column of Quest Succ_MonKill_ItemGive4 should be none
-ETC_20150317_004079	Column of Quest Succ_MonKillCount4 must be greater than 0.
-ETC_20150317_004080	Column of Quest Succ_MonKill_ItemGive3 should be none
-ETC_20150317_004081	Column of Quest Succ_MonKillCount3 must be greater than 0.
-ETC_20150317_004082	Column of Quest Succ_MonKill_ItemGive2 should be none
-ETC_20150317_004083	Column of Quest Succ_MonKillCount2 must be greater than 0.
-ETC_20150317_004084	Column of Quest Succ_MonKill_ItemGive1 should be none
-ETC_20150317_004085	Column of Quest Succ_MonKillCount1 must be greater than 0.
+ETC_20150317_004074	Quest-Spalte Succ_MonKill_ItemGive6 sollte keine sein
+ETC_20150317_004075	Quest-Spalte Succ_MonKillCount6 muss größer sein als 0.
+ETC_20150317_004076	Quest-Spalte Succ_MonKill_ItemGive5 sollte keine sein
+ETC_20150317_004077	Quest-Spalte Succ_MonKillCount5 muss größer sein als 0.
+ETC_20150317_004078	Quest-Spalte Succ_MonKill_ItemGive4 sollte keine sein
+ETC_20150317_004079	Quest-Spalte Succ_MonKillCount4 muss größer sein als 0.
+ETC_20150317_004080	Quest-Spalte Succ_MonKill_ItemGive3 sollte keine sein
+ETC_20150317_004081	Quest-Spalte Succ_MonKillCount3 muss größer sein als 0.
+ETC_20150317_004082	Quest-Spalte Succ_MonKill_ItemGive2 sollte keine sein
+ETC_20150317_004083	Quest-Spalte Succ_MonKillCount2 muss größer sein als 0.
+ETC_20150317_004084	Quest-Spalte Succ_MonKill_ItemGive1 sollte keine sein
+ETC_20150317_004085	Quest-Spalte Succ_MonKillCount1 muss größer sein als 0.
 ETC_20150317_004086	Quest
 ETC_20150317_004087	There is no session object in the PC
-ETC_20150317_004088	Column of Quest Succ_OverKill_ItemGive6 should be None
-ETC_20150317_004089	Column of Quest Succ_OverKillCount6 must be greater than 0.
-ETC_20150317_004090	Column of Quest Succ_OverKill_ItemGive5 should be None
-ETC_20150317_004091	Column of Quest Succ_OverKillCount5 must be greater than 0.
-ETC_20150317_004092	Column of Quest Succ_OverKill_ItemGive4 should be None
-ETC_20150317_004093	Column of Quest Succ_OverKillCount4 must be greater than 0.
-ETC_20150317_004094	Column of Quest Succ_OverKill_ItemGive3 should be None
-ETC_20150317_004095	Column of Quest Succ_OverKillCount3 must be greater than 0.
-ETC_20150317_004096	Column of Quest Succ_OverKill_ItemGive2 should be None
-ETC_20150317_004097	Column of Quest Succ_OverKillCount2 must be greater than 0.
-ETC_20150317_004098	Column of Quest Succ_OverKill_ItemGive1 should be None
-ETC_20150317_004099	Column of Quest Succ_OverKillCount1 must be greater than 0.
-ETC_20150317_004100	Wert of Succ_InvItemCount4 column of quest must be greater than 0
-ETC_20150317_004101	Column of Quest Succ_InvItemCount3 must be greater than 0.
-ETC_20150317_004102	Column of Quest Succ_InvItemCount2 must be greater than 0.
-ETC_20150317_004103	Column of Quest Succ_InvItemCount1 must be greater than 0.
-ETC_20150317_004104	Succ_InvItemCount of Quest
-ETC_20150317_004105	The column value must be greater than 0.
+ETC_20150317_004088	Quest-Spalte Succ_OverKill_ItemGive6 sollte keine sein
+ETC_20150317_004089	Quest-Spalte Succ_OverKillCount6 muss größer sein als 0.
+ETC_20150317_004090	Quest-Spalte Succ_OverKill_ItemGive5 sollte keine sein
+ETC_20150317_004091	Quest-Spalte Succ_OverKillCount5 muss größer sein als 0.
+ETC_20150317_004092	Quest-Spalte Succ_OverKill_ItemGive4 sollte keine sein
+ETC_20150317_004093	Quest-Spalte Succ_OverKillCount4 muss größer sein als 0.
+ETC_20150317_004094	Quest-Spalte Succ_OverKill_ItemGive3 sollte keine sein
+ETC_20150317_004095	Quest-Spalte Succ_OverKillCount3 muss größer sein als 0.
+ETC_20150317_004096	Quest-Spalte Succ_OverKill_ItemGive2 sollte keine sein
+ETC_20150317_004097	Quest-Spalte Succ_OverKillCount2 muss größer sein als 0.
+ETC_20150317_004098	Quest-Spalte Succ_OverKill_ItemGive1 sollte keine sein
+ETC_20150317_004099	Quest-Spalte Succ_OverKillCount1 muss größer sein als 0.
+ETC_20150317_004100	Wert von Succ_InvItemCount4 Quest-Spalte muss größer sein als 0
+ETC_20150317_004101	Quest-Spalte Succ_InvItemCount3 muss größer sein als 0.
+ETC_20150317_004102	Quest-Spalte Succ_InvItemCount2 muss größer sein als 0.
+ETC_20150317_004103	Quest-Spalte Succ_InvItemCount1 muss größer sein als 0.
+ETC_20150317_004104	Succ_InvItemCount von Quest
+ETC_20150317_004105	The column value muss größer sein als 0.
 ETC_20150317_004106	{Auto_1} exploration person
 ETC_20150317_004107	{Auto_1} We explored all the areas.
 ETC_20150317_004108	Check whether work or not
@@ -4117,12 +4117,12 @@ ETC_20150317_004116	You cannot set the default value of the slide
 ETC_20150317_004117	The number value of the current table:
 ETC_20150317_004118	Output the control set
 ETC_20150317_004119	Turning the value to original due to an error
-ETC_20150317_004120	You cannot change the value
+ETC_20150317_004120	Du kannst den Wert nicht ändern
 ETC_20150317_004121	Entfernen
-ETC_20150317_004122	Unlock the window
-ETC_20150317_004123	Creating a new window
-ETC_20150317_004124	Changing the Window Properties
-ETC_20150317_004125	Delete window
+ETC_20150317_004122	Entsperre das Fenster
+ETC_20150317_004123	Erstelle ein neues Fenster
+ETC_20150317_004124	Ändere die Fenster-Eigenschaften
+ETC_20150317_004125	Lösche Fenster
 ETC_20150317_004126	Verbleibende Zeit: 
 ETC_20150317_004127	I will not restore HP and SP.
 ETC_20150317_004128	Erhöht die STR und INT.
@@ -4133,10 +4133,10 @@ ETC_20150317_004132	{@st42b}View Bounding Box{/}
 ETC_20150317_004133	Hütte besuchen
 ETC_20150317_004134	Character Info
 ETC_20150317_004135	Inspection Component
-ETC_20150317_004136	Check default attributes
-ETC_20150317_004137	Check use skills
+ETC_20150317_004136	Überprüfe Standardeigenschaften
+ETC_20150317_004137	Prüfe verwendete Skills
 ETC_20150317_004138	Animation List
-ETC_20150317_004139	I see BTREE
+ETC_20150317_004139	Ich sehe BTREE
 ETC_20150317_004140	View Server Location
 ETC_20150317_004141	View Node
 ETC_20150317_004142	XAC texture path
@@ -4175,36 +4175,36 @@ ETC_20150317_004174	Your inventory is full. {nl}
 ETC_20150317_004175	Erweiterung{/}{/} or
 ETC_20150317_004176	Sell{/}{/}to {nl}key instant shops
 ETC_20150317_004177	You have a few enhancement materials.{nl}
-ETC_20150317_004178	Try enhancing an item.
-ETC_20150317_004179	Upgradeable{nl}There are items.{nl}
-ETC_20150317_004180	Use a potion to restore your HP.
-ETC_20150317_004181	{nl} Shortcut: {#0000FF}
-ETC_20150317_004182	Use a potion to recover your SP.
-ETC_20150317_004183	Use a potion to recover your Stamina.
+ETC_20150317_004178	Versuche einen Gegenstand zu verbessern.
+ETC_20150317_004179	Verbesserbar{nl}Es gibt Gegenstände.{nl}
+ETC_20150317_004180	Verwende einen Trank um deine HP wiederherzustellen.
+ETC_20150317_004181	{nl} Abkürzung: {#0000FF}
+ETC_20150317_004182	Verwende einen Trank um deine SP wiederherzustellen.
+ETC_20150317_004183	Verwende einen Trank um deine Ausdauer wiederherzustellen.
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} by leveling up.
 ETC_20150317_004185	Click on the 'Apply' button{nl}after increasing your stats.
 ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU}Right-click the anvil to enhance items.
 ETC_20150317_004187	{s18}{#001100}Items sold in Instant Shops are more{nl}expensive than in the regular ones.
 ETC_20150317_004188	The number of links cannot surpass 3.
-ETC_20150317_004189	{@st43} My Page{/}
-ETC_20150317_004190	{@st43} Guest Book{/}
-ETC_20150317_004191	{@st43} Private Store {/}
-ETC_20150317_004192	{@st43} Purchase Request {/}
-ETC_20150317_004193	{@st43} Mercenary Contract {/}
-ETC_20150317_004194	{@st43} Action Pose {/}
+ETC_20150317_004189	{@st43} Meine Seite{/}
+ETC_20150317_004190	{@st43} Gästebuch{/}
+ETC_20150317_004191	{@st43} Privates Geschäft {/}
+ETC_20150317_004192	{@st43} Kaufanfrage {/}
+ETC_20150317_004193	{@st43} Söldner Vertrag {/}
+ETC_20150317_004194	{@st43} Action-Pose {/}
 ETC_20150317_004195	{@st42}{b}{#ff9900} Mystagogue:
 ETC_20150317_004196	] Lernt Fähigkeit... (
-ETC_20150317_004197	Remaining minutes)
+ETC_20150317_004197	Verbleibende Minuten)
 ETC_20150317_004198	] Attribute will be learned soon! (1 minute)
 ETC_20150317_004199	 Minute(n) benötigt
 ETC_20150317_004200	 Sekunden erforderlich
 ETC_20150317_004201	{@st42b} Silber
 ETC_20150317_004202	{@st42_yellow}{s16} Maximal Level
 ETC_20150317_004203	{@st42_yellow}{s16} Lernt Fähigkeit...
-ETC_20150317_004204	You have obtained the [{Auto_1}] achievement.
+ETC_20150317_004204	Du hast [{Auto_1}] Belohnung erhalten.
 ETC_20150317_004205	Auktionsliste
-ETC_20150317_004206	Cabinet
-ETC_20150317_004207	Recording Video
+ETC_20150317_004206	Kabinett
+ETC_20150317_004207	Aufnahme Video
 ETC_20150317_004208	Are you sure you want to change your hairstyle? (Benötigt 100 iCoins)
 ETC_20150317_004209	 d
 ETC_20150317_004210	 h
@@ -4220,17 +4220,17 @@ ETC_20150317_004219	{@st41} Shortcut
 ETC_20150317_004220	{@st41} Geste
 ETC_20150317_004221	{@st41} Chat
 ETC_20150317_004222	{@st41} Combo-Einstellungen
-ETC_20150317_004223	{@st41} Battle Cry
+ETC_20150317_004223	{@st41} Kampfschrei
 ETC_20150317_004224	{@st41b}Erstellen{/}
 ETC_20150317_004225	{@st41}Kreierung{/}
-ETC_20150317_004226	{@st41}Move {/}
+ETC_20150317_004226	{@st41}Bewegen {/}
 ETC_20150317_004227	{@st41}Verwenden {/}
 ETC_20150317_004228	Due to a system error, cheat cannot be used.
 ETC_20150317_004229	Cheat List
 ETC_20150317_004230	Run Script
 ETC_20150317_004231	Enter name
 ETC_20150317_004232	Please select at least one
-ETC_20150317_004233	{@st41} Gesture List
+ETC_20150317_004233	{@st41} Gestenliste
 ETC_20150317_004234	 [Main] 
 ETC_20150317_004235	{@st55_b}{b}Belohnung{/}
 ETC_20150317_004236	{@st55_c}Experience:
@@ -4241,15 +4241,15 @@ ETC_20150317_004240	{Auto_1}: Level {Auto_2} {Auto_3}
 ETC_20150317_004241	{@st49} Speichern
 ETC_20150317_004242	{@st49} Wählen
 ETC_20150317_004243	} Hello there
-ETC_20150317_004244	{@st41b} Fold ??
-ETC_20150317_004245	{@st41b} View details
-ETC_20150317_004246	{s22} Do you want to discard?
+ETC_20150317_004244	{@st41b} Falten ??
+ETC_20150317_004245	{@st41b} Zeige Details
+ETC_20150317_004246	{s22} Willst du wegwerfen?
 ETC_20150317_004247	Bist du sicher dass du [
 ETC_20150317_004248	] wegwerfen willst?
 ETC_20150317_004249	{#FFFF00}{s20}{ol}{b}Gegenstand Acquisition:
 ETC_20150317_004250	{Auto_1} min {Auto_2} Sekunden
 ETC_20150317_004251	Hit
-ETC_20150317_004252	Death
+ETC_20150317_004252	Tod
 ETC_20150317_004253	Place the material
 ETC_20150317_004254	Reset Selection
 ETC_20150317_004255	Save Group
@@ -22310,13 +22310,13 @@ ETC_20160718_022309	You cannot repurchase colors.
 ETC_20160718_022310	This item has expired.
 ETC_20160718_022311	This item is not expired.
 ETC_20160718_022312	Items that have expired cannot be equipped.
-ETC_20160718_022313	Stage {Count} Transcendence Damage Increase
-ETC_20160718_022314	Stage {Count} Transcendence Physical Defense Increase
-ETC_20160718_022315	Stage {Count} Transcendence Accuracy Increase
-ETC_20160718_022316	Stage {Count} Transcendence Evasion Increase
-ETC_20160718_022317	Stage {Count} Transcendence Magical Amplification Increase
-ETC_20160718_022318	Stage {Count} Transcendence CON Increase
-ETC_20160718_022319	Stage {Count} Transcendence Magical Defense Increase
+ETC_20160718_022313	Stufe {Count} Transcendence Damage Increase
+ETC_20160718_022314	Stufe {Count} Transcendence Physical Defense Increase
+ETC_20160718_022315	Stufe {Count} Transcendence Accuracy Increase
+ETC_20160718_022316	Stufe {Count} Transcendence Evasion Increase
+ETC_20160718_022317	Stufe {Count} Transcendence Magical Amplification Increase
+ETC_20160718_022318	Stufe {Count} Transcendence CON Increase
+ETC_20160718_022319	Stufe {Count} Transcendence Magical Defense Increase
 ETC_20160718_022320	You cannot trade Transcended items.
 ETC_20160718_022321	The item has expired or cannot be registered.
 ETC_20160718_022322	You cannot transform into this monster.
@@ -22527,23 +22527,23 @@ ETC_20160718_022526	You have already received a reward for this raid!
 ETC_20160718_022527	{MONSTER} is being summoned.{nl}It will be sumoned in channels 1 and 2 at West Siauliai Woods and Lemprasa Pond in 5 minutes.{nl}Our power is not enough to stop it.
 ETC_20160718_022528	You were unable to stop the summoning spell.{nl}The monster will soon appear in channel 1 and 2 at West Siauliai Woods and Lemprasa Pond.{nl}Protect these areas!
 ETC_20160718_022529	You have defeated the boss summoned by Warpulis.{nl}You can receive a participation reward and one chance to open the treasure chest from the Event Reward Volunteer.
-ETC_20160718_022530	{STEP} stage {nl}Gesture: {img {ICON} 50 50}
-ETC_20160718_022531	{nl}Time Left: {SEC} seconds
+ETC_20160718_022530	{STEP} Stufe {nl}Gesten: {img {ICON} 50 50}
+ETC_20160718_022531	{nl}Verbleibende Zeit: {SEC} Sekunden
 ETC_20160718_022532	Interact to get your event reward!{nl}Time left: {TIME}
-ETC_20160718_022533	Stage {STEP} {nl}Gesture:
-ETC_20160718_022534	Success!!
-ETC_20160718_022535	You already completed this stage!
-ETC_20160718_022536	You must perform all the gestures in the correct order.{nl}Event failed!
-ETC_20160718_022537	You correctly performed all the gestures!{nl}Receive your reward from the even helper!
-ETC_20160718_022538	This stage's gestures are
+ETC_20160718_022533	Stufe {STEP} {nl}Geste:
+ETC_20160718_022534	Erfolg!!
+ETC_20160718_022535	Du hast diese Stufe bereits abgeschlossen!
+ETC_20160718_022536	Du musst alle Gesten in der richtigen Reihenfolge ausfühen.{nl}Event gescheitert!
+ETC_20160718_022537	Alle Gesten korrekt ausgeführt!{nl}Erhalte deine Belohnung vom Helfer.
+ETC_20160718_022538	Diese Stufe Gesten sind
 ETC_20160718_022539	.
-ETC_20160718_022540	Selected reward type is nonexistent!
-ETC_20160718_022541	Selected gesture
-ETC_20160718_022542	is nonexistent!
-ETC_20160718_022543	Gesture:
-ETC_20160718_022544	{nl}Reward : {REWARD}{nl}Flashmob Event selected!
+ETC_20160718_022540	Ausgewählte Belohnungs-Typ existiert nicht!
+ETC_20160718_022541	Wähle Geste
+ETC_20160718_022542	existiert nicht!
+ETC_20160718_022543	Geste:
+ETC_20160718_022544	{nl}Belohnung : {REWARD}{nl}Flashmob Event ausgewählt!
 ETC_20160718_022545	The event is starting soon!{nl}Interact to apply for the event!{nl}Time Left: {TIME}
-ETC_20160718_022546	Stage {STEP}'s gestures are
+ETC_20160718_022546	Stufe {STEP}'s Gesten sind
 ETC_20160718_022547	!
 ETC_20160718_022548	The toxic gases make it hard to look at the tombstone.
 ETC_20160718_022549	You must be a higher level to use this device.
@@ -22904,18 +22904,18 @@ ETC_20160723_022903	Schlüssel für eine mit Gems : {KEYCOUNT} {TEXT}
 ETC_20160723_022904	Schlüssel für eine mit Power-up Gegenständen : {KEYCOUNT} {TEXT}	
 ETC_20160723_022905	{TEXT} Du hast einen Goldenen Schlüssel erhalten!
 ETC_20160723_022906	Lege die Kugel in den Würfel!
-ETC_20160723_022907	Destroy the moving crystal!		
+ETC_20160723_022907	Zerstöre den sich bewegenden Kristall!
 ETC_20160723_022908	Place the Red Orb in the Cube!{nl}The Orb will drop to the floor if attacked
 ETC_20160723_022909	Defeat the Key monster that is hiding near monsters that look alike!
 ETC_20160723_022910	Repel monsters from the altar for 30 seconds!{nl}You must stop the monsters from absorbing power from the altar	30
-ETC_20160723_022911	Defeat Boss Monster XXX!
-ETC_20160723_022912	Passed Stage {STEP}{nl} Acquired {POINT} PVP points!
-ETC_20160723_022913	Stage {STEP} treasure chest
-ETC_20160723_022914	Stage {STEP} treasure chest reward{nl}{TEXT}
-ETC_20160723_022915	You have activated them in the wrong order{nl}Activate them in the order in which the lights blink
-ETC_20160723_022916	The enhancement effectiveness of anvils
+ETC_20160723_022911	Besiege Boss Monster XXX!
+ETC_20160723_022912	Bestanden Stufe {STEP}{nl} Erlangt {POINT} PVP Punkte!
+ETC_20160723_022913	Stufe {STEP} treasure chest
+ETC_20160723_022914	Stufe {STEP} treasure chest reward{nl}{TEXT}
+ETC_20160723_022915	Du hast sie in der falschen Reihenfolge aktiviert{nl}Aktiviere sie in der Reihenfolge in der die Lichter blinken.
+ETC_20160723_022916	Die Verbesserungs Wirksamkeit von Ambossen
 ETC_20160723_022917	erhöhte sich um
-ETC_20160723_022918	The Card's level has reached it's maximum point.
+ETC_20160723_022918	Das Karten-Level hat die maximalen Punkte erreicht.
 ETC_20160723_022919	The {OBJ} is being activated.			
 ETC_20160723_022920	Someone is trying to activate the {OBJ}.			
 ETC_20160723_022921	The {GN} Team has activated the {Obj}.
