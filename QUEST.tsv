@@ -1,13 +1,13 @@
-QUEST_20150317_000001	Please select the user requiring a quest update.
+QUEST_20150317_000001	Bitte wähle den Benutzer, erfordert ein Quest-Update.
 QUEST_20150317_000002	Statue der Göttin Vakarine
-QUEST_20150317_000003	Please select a territory.
-QUEST_20150317_000004	Select
-QUEST_20150317_000005	Please select an item.
-QUEST_20150317_000006	Select Group
-QUEST_20150317_000007	Please select a cheat start group.
-QUEST_20150317_000008	Select Zone
-QUEST_20150317_000009	Please select a starting zone.
-QUEST_20150317_000010	Select Advancement
+QUEST_20150317_000003	Bitte wähle ein Gebiet.
+QUEST_20150317_000004	Wähle
+QUEST_20150317_000005	Bitte wähle einen Gegenstand.
+QUEST_20150317_000006	Wähle Gruppe
+QUEST_20150317_000007	Bitte wähle eine bevorteilte Start Gruppe.
+QUEST_20150317_000008	Wähle Zone
+QUEST_20150317_000009	Bitte wähle eine Startzone.
+QUEST_20150317_000010	Wähle Aufstieg
 QUEST_20150317_000011	Bitte wähle eine Klasse.
 QUEST_20150317_000012	Bokor Master
 QUEST_20150317_000013	So you are curious about this stone slate. {nl}If you wish, I shall show you the will of its creator.
@@ -38,12 +38,12 @@ QUEST_20150317_000037	Willkommen!{nl}Du suchst nach einem Reisebegleiter, nicht 
 QUEST_20150317_000038	You can make your companions watch you fight or train special attributes. {nl}Earn enough affection, and you can even buy some cool equipment!
 QUEST_20150317_000039	Raising your companion's affection will increase riding stamina and evasion! {nl}So what do you think? Is that enough to make you consider one?
 QUEST_20150317_000040	The box requires a matching key.
-QUEST_20150317_000041	Select Quest
+QUEST_20150317_000041	Wähle Quest
 QUEST_20150317_000042	Modify Quest Status
 QUEST_20150317_000043	Force start?
-QUEST_20150317_000044	Items to be deleted
-QUEST_20150317_000045	Select GenType
-QUEST_20150317_000046	Select Coordinates
+QUEST_20150317_000044	Gegenstände zum löschen
+QUEST_20150317_000045	Wähle GenType
+QUEST_20150317_000046	Wähle Koordinaten
 QUEST_20150317_000047	Knight Titas
 QUEST_20150317_000048	If so, go see Knight Commander Uska in Klaipeda. {nl}But first, I have an important errand I would like to run you by, so follow me.
 QUEST_20150317_000049	It would be nice if I could find a moment to relax...
@@ -360,7 +360,7 @@ QUEST_20150317_000359	Why me... Why this... Argh! Please help me... {nl}No... Ju
 QUEST_20150317_000360	What was she looking for even when she was dying? {nl}There's definitely a tragic story behind all this.
 QUEST_20150317_000361	I don't know what the Lord of Demons was thinking... but I believe, after leaving me alive, {nl}she was trying to get a clue for what she is looking for from the people on their pilgrimage. {nl}Ah, I'm so dizzy...
 QUEST_20150317_000362	About to be exploded.
-QUEST_20150317_000363	Select the amount of contribution.
+QUEST_20150317_000363	Wähle the amount of contribution.
 QUEST_20150317_000364	Planned amount of contribution.
 QUEST_20150317_000365	Incorrect amount of contribution. Nothing happens. (Balloon Message)
 QUEST_20150317_000366	Did you put in the wrong amount of contribution? {nl}Nothing happened. Try again.
@@ -562,7 +562,7 @@ QUEST_20150317_000561	This is the Crystal Mine. {nl}Violators of the rules below
 QUEST_20150317_000562	1. Always wear a helmet and protective gear. {nl}2. Do not enter restricted areas. {nl}3. Never carry flammable objects. {nl}4. If you see any monsters, do not fight them and file a report immediately.
 QUEST_20150317_000563	Also, we are hiring young men and families who wish to migrate. {nl} - Safe workplace, healthy happiness! Crystal Mine Youth Association
 QUEST_20150317_000564	Compass
-QUEST_20150317_000565	Select Information
+QUEST_20150317_000565	Wähle Information
 QUEST_20150317_000566	Warnung
 QUEST_20150317_000567	This is the entrance to Kateen Forest. {nl}Traveling is ill-advised because of the vicious monsters inhabiting the area.
 QUEST_20150317_000568	We are carrying out an operation to reach the Gate Route. {nl}Dangerous monsters are beyond here, so travelers should be careful. {nl} - Commander Julian
@@ -2923,7 +2923,7 @@ QUEST_20151102_002930	Psychokino Tome Volume 5
 QUEST_20151102_002931	Psychokino's Potential
 QUEST_20151102_002932	After the lord's migration has fallen, the people of the south are heading towards Orsha.{nl}If you're an adventurer who has recently started traveling, head to camping area on the east.{nl}There should be people who are able to guide you.
 QUEST_20151102_002933	I saw Orsha from a slope on the way here from a town.{nl}The splendor surrounded by a castle wall I've seen as a kid has disappeared,{nl}and now coiled with trees with the size of a house.{nl}I wonder how long you can last in such a place.
-QUEST_20151102_002934	It's obviously Intelligence for the Wizard and its branch.{nl}However, you also need to remember Spirit to cast spells frequently.{nl}Select well between balance and concentration.
+QUEST_20151102_002934	It's obviously Intelligence for the Wizard and its branch.{nl}However, you also need to remember Spirit to cast spells frequently.{nl}Wähle well between balance and concentration.
 QUEST_20151102_002935	It's obviously Strength for the Archer and its branch.{nl}However, you cannot forget nimble Dexterity.{nl}It's best to think ahead of what to become.
 QUEST_20151102_002936	It's obviously Intelliegence for the Cleric and its branch.{nl}However, you may also require Strength or Spirit.{nl}It's best to think ahead of what to become.
 QUEST_20151102_002937	Only if our town also had an inn for merchants to stay and rest.{nl}We could've prepared beforehand...{nl}After spending so long at an inlet of a valley, we got to suffer for not knowing the world affairs.
@@ -3572,10 +3572,10 @@ QUEST_20151224_003579	Today is my lucky day.{nl}Not only have I almost found whe
 QUEST_20151224_003580	There is no need for I, Marnox, to step forward.
 QUEST_20151224_003581	Unbelievably, the piece of lead turned into gold in front of Modestas after a flash of suspicious light. The alchemist impudently said the following.{nl}[Now you owe me a gold bar, so make sure you bring it to me.]{nl}Modestas protested and argued, but the alchemist had never explicitly stated that what he was holding was made of lead.{nl}
 QUEST_20151224_003582	Mage Tower Guild Dungeon
-QUEST_20151224_003583	Select Guild Event
+QUEST_20151224_003583	Wähle Guild Event
 QUEST_20151224_003584	Please select a Guild Event
-QUEST_20151224_003585	Select Event
-QUEST_20151224_003586	Select the event you want to use
+QUEST_20151224_003585	Wähle Event
+QUEST_20151224_003586	Wähle the event you want to use
 QUEST_20151224_003587	Do you want to enter this Guild Event dungeon?
 QUEST_20151224_003588	Abandon Event
 QUEST_20151224_003589	There is an ongoing Guild Event. Do you wish to abandon it?
@@ -3887,11 +3887,11 @@ QUEST_20160329_003894	Cure-all Medicine
 QUEST_20160329_003895	Spirit-carrying Monster
 QUEST_20160329_003896	Verblassender Geist 
 QUEST_20160329_003897	Sammle Gegengift-Probe
-QUEST_20160718_003898	Select the user who requires NPC Hide/Unhide.
+QUEST_20160718_003898	Wähle the user who requires NPC Hide/Unhide.
 QUEST_20160718_003899	Essence Purifier
 QUEST_20160718_003900	Use Flame Crystal
-QUEST_20160718_003901	Select Ally to Summon
-QUEST_20160718_003902	Select Destination for Ally
+QUEST_20160718_003901	Wähle Ally to Summon
+QUEST_20160718_003902	Wähle Destination for Ally
 QUEST_20160718_003903	Event Reward Volunteer
 QUEST_20160718_003904	Thank you for participating in the defense against Warpulis' raid.
 QUEST_20160718_003905	I have nothing more to give you at the moment.
@@ -4055,3 +4055,19 @@ QUEST_20160718_004062	Gathered black stones.
 QUEST_20160718_004063	Gathering wild ginger plant.
 QUEST_20160718_004064	Gathered wild ginger plant.
 QUEST_20160718_004065	Picking up black stones.
+QUEST_20160723_004066	Event Notice Board
+QUEST_20160723_004067	Please come back tomorrow after 6 a.m. EDT.
+QUEST_20160723_004068	Are you prepared to search for the hidden treasure chests?{nl}Read the quest information for clues on where it could be hidden.
+QUEST_20160723_004069	You are in the middle of an event quest.{nl}Search for the hidden treasure chest by reading the quest information.
+QUEST_20160723_004070	You have found a suspicious looking area.{nl}Do you wish to search the area?
+QUEST_20160723_004071	You have completed all of the event quests.{nl}Thank you for participating in the event.
+QUEST_20160723_004072	You have found the hidden event item.
+QUEST_20160723_004073	Resident in search of a box
+QUEST_20160723_004074	Have you by any chance seen an expensive-looking box nearby?{nl}Would you please bring it to me if you do find it?
+QUEST_20160723_004075	Thank you so much for finding it!{nl}This isn't much, but it is a sign of my appreciation.
+QUEST_20160723_004076	There is a lost item.{nl}Try looking for it's owner.
+QUEST_20160723_004077	There are no lost items today.{nl}Please come back tomorrow.
+QUEST_20160723_004078	Someone seems to be looking for a box at West Siauliai Woods.
+QUEST_20160723_004079	There are events taking place.{nl}Please choose an event that you wish to participate in.
+QUEST_20160723_004080	Expensive-looking Box
+QUEST_20160723_004081	Do you really wish to use it?{nl}You will complete the event quest once you use it.

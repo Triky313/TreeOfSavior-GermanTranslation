@@ -17,13 +17,13 @@ SKILL_20150317_000016	[Bushspider] Physisch, Schlag, Erd-Eigenschaft, Angriff 1 
 SKILL_20150317_000017	[Fragaras] Quick bite
 SKILL_20150317_000018	[Fragaras] Groß Chomp
 SKILL_20150317_000019	[Fragaras] Normaler Angriff, Konisch AoE
-SKILL_20150317_000020	Basis normale Attacke
+SKILL_20150317_000020	Basis normaler Angriff
 SKILL_20150317_000021	[Meduja] Magie, Magie, Blitz-Eigenschaft Angriff 1 mal
 SKILL_20150317_000022	[Gribaru] Physisch, Hieb, Blitz-Eigenschaft Angriff 1 mal
 SKILL_20150317_000023	[Gribaru] Physisch, Hieb, Blitz-Eigenschaft Knock-back Angriff Angriff 1 mal
 SKILL_20150317_000024	[Bite] Physisch, Stich, Gift-Eigenschaft Angriff 1 mal,
 SKILL_20150317_000025	[Banshee] Magie, Magie, Eis-Eigenschaft, Breath Angriff 1 mal
-SKILL_20150317_000026	[Banshee] Magie, Magie, Eis-Eigenschaft, Ice Spieß
+SKILL_20150317_000026	[Banshee] Magie, Magie, Eis-Eigenschaft, Eis Spieß
 SKILL_20150317_000027	[Mini Griba] Physisch, Schlag, Blitz-Eigenschaft, Zweihand Schlag 1 mal
 SKILL_20150317_000028	[Big Griba] Physisch, Schlag, Blitz-Eigenschaft, Smash 1 mal
 SKILL_20150317_000029	[Big Griba] Physisch, Schlag, Blitz-Eigenschaft,Spread Gift 1 mal
@@ -55,9 +55,9 @@ SKILL_20150317_000054	[Griba] Physisch, Schlag, Eis-Eigenschaft Angriff 1 mal
 SKILL_20150317_000055	[Griba] Magie, Magie, Eis-Eigenschaft Angriff 1 mal
 SKILL_20150317_000056	[Old Kepa] Normaler Angriff, Konisch AoE
 SKILL_20150317_000057	[Tree Ghost] Einhand Schlag
-SKILL_20150317_000058	[Tree Ghost] Zweihand clap
-SKILL_20150317_000059	[Tree Ghost] Stampfen ground
-SKILL_20150317_000060	[Cockatrice] Magie, Magie, Feuer-Eigenschaft, Fume Fire 3 times
+SKILL_20150317_000058	[Tree Ghost] Zweihand Klatsche
+SKILL_20150317_000059	[Tree Ghost] Boden Stampfen
+SKILL_20150317_000060	[Cockatrice] Magie, Magie, Feuer-Eigenschaft, Fume Feuer 3 times
 SKILL_20150317_000061	[Zinute] Physisch Stich Feuer-Eigenschaft Angriff 1 mal
 SKILL_20150317_000062	[Zinute] Physisch Hieb Feuer-Eigenschaft Angriff 1 mal
 SKILL_20150317_000063	[Tontulia] Physisch Schlag Blitz-Eigenschaft Angriff 1 mal
@@ -177,14 +177,14 @@ SKILL_20150317_000176	Meteor Bang
 SKILL_20150317_000177	Normaler Angriff
 SKILL_20150317_000178	Smack Down
 SKILL_20150317_000179	Smack down and damage enemies while pushing them away.
-SKILL_20150317_000180	Missile attack
-SKILL_20150317_000181	AOS turret attack
-SKILL_20150317_000182	[Woodman] attack
-SKILL_20150317_000183	Salamander attack
+SKILL_20150317_000180	Missile Angriff
+SKILL_20150317_000181	AOS turret Angriff
+SKILL_20150317_000182	[Woodman] Angriff
+SKILL_20150317_000183	Salamander Angriff
 SKILL_20150317_000184	[Vubbe Miner] Physisch, Hieb, Erd-Eigenschaft, Swing Pickaxe
 SKILL_20150317_000185	Hall statue attack
 SKILL_20150317_000186	Hall statue skill
-SKILL_20150317_000187	Priest attack 1
+SKILL_20150317_000187	Priest Angriff 1
 SKILL_20150317_000188	Priest skill 1
 SKILL_20150317_000189	[Green Apparition] Magie, Magie, Blitz-Eigenschaft, Angriff 1 mal
 SKILL_20150317_000190	Angriff Statue 1
@@ -320,7 +320,7 @@ SKILL_20150317_000319	[Ellogua] Physisch, Stich, Blitz-Eigenschaft Angriff
 SKILL_20150317_000320	[Ellogua] Range, Magie, Blitz-Eigenschaft Shoot
 SKILL_20150317_000321	[Wendigo] Physisch Hieb Feuer-Eigenschaft Angriff
 SKILL_20150317_000322	[Lizardman] Physisch, Schlag, Blitz-Eigenschaft, March in and Headbutt Angriff
-SKILL_20150317_000323	[Kepari] Magie, Magie, Feuer-Eigenschaft Angriff Fire Debuff
+SKILL_20150317_000323	[Kepari] Magie, Magie, Feuer-Eigenschaft Angriff Feuer Debuff
 SKILL_20150317_000324	[Kodomor] Physisch, Schlag, Gift-Eigenschaft Angriff
 SKILL_20150317_000325	[Kowak] Physisch, Schlag, Erd-Eigenschaft Angriff
 SKILL_20150317_000326	[Groll] Physisch, Stich, Gift-Eigenschaft, Rauch attack
@@ -338,7 +338,7 @@ SKILL_20150317_000337	[Old Hook] Physisch, Hieb, Erd-Eigenschaft, Angriff
 SKILL_20150317_000338	[Old Hook] Physisch, Hieb, Erd-Eigenschaft, Smash Angriff
 SKILL_20150317_000339	[Old Hook] Physisch, Hieb, Erd-Eigenschaft, Rotation Angriff
 SKILL_20150317_000340	[Varv] Physisch, Schlag, Gift-Eigenschaft, Angriff
-SKILL_20150317_000341	[Phyracon] Magie, Magie, Feuer-Eigenschaft, Fire Shooting Angriff 3 times
+SKILL_20150317_000341	[Phyracon] Magie, Magie, Feuer-Eigenschaft, Feuer Shooting Angriff 3 times
 SKILL_20150317_000342	[Phyracon] Physisch, Schlag, Feuer-Eigenschaft, Angriff
 SKILL_20150317_000343	[Phyracon] Magie, Magie, Feuer-Eigenschaft, Flame Fume Angriff 2 times
 SKILL_20150317_000344	[Red Old Hook] Physisch, Hieb, Feuer-Eigenschaft, Rotation Angriff
@@ -356,10 +356,10 @@ SKILL_20150317_000355	[Raflower] Physisch, Stich, Gift-Eigenschaft, Tentacle Ang
 SKILL_20150317_000356	[Raflower] Physisch, Stich, Gift-Eigenschaft, Tentacle Angriff
 SKILL_20150317_000357	[Vubbe Wizard] Magie, Magie, Feuer-Eigenschaft, Energy Bolt
 SKILL_20150317_000358	[Vubbe Wizard] Magie, Magie, Feuer-Eigenschaft, Reflect Shield Buff
-SKILL_20150317_000359	[Vubbe Fire Wizard] Magie, Magie, Feuer-Eigenschaft, Range Fireball Angriff
-SKILL_20150317_000360	[Vubbe Fire Wizard] Magie, Magie, Feuer-Eigenschaft, Fire Pillar Angriff
-SKILL_20150317_000361	[Vubbe Ice Wizard] Magie, Magie, Eis-Eigenschaft, Range Ice Bolt Angriff
-SKILL_20150317_000362	[Vubbe Ice Wizard] Magie, Magie, Eis-Eigenschaft, Refreezer Wave Angriff
+SKILL_20150317_000359	[Vubbe Feuer Wizard] Magie, Magie, Feuer-Eigenschaft, Range Fireball Angriff
+SKILL_20150317_000360	[Vubbe Feuer Wizard] Magie, Magie, Feuer-Eigenschaft, Feuer Pillar Angriff
+SKILL_20150317_000361	[Vubbe Eis Wizard] Magie, Magie, Eis-Eigenschaft, Range Eis Bolt Angriff
+SKILL_20150317_000362	[Vubbe Eis Wizard] Magie, Magie, Eis-Eigenschaft, Refreezer Wave Angriff
 SKILL_20150317_000363	[Vubbe Shaman] Magie, Magie, Dunkel-Eigenschaft, Heal Floor Skill
 SKILL_20150317_000364	[Vubbe Shaman] Magie, Magie, Dunkel-Eigenschaft, Floor Skill
 SKILL_20150317_000365	[Shredded] Magie, Magie, Dunkel-Eigenschaft, Teleport to pc and Angriff
@@ -388,7 +388,7 @@ SKILL_20150317_000387	[Seedmia] Physisch, Schlag, Gift-Eigenschaft, Angriff
 SKILL_20150317_000388	[Seedmia] Physisch, Schlag, Gift-Eigenschaft, 1 Range Angriff
 SKILL_20150317_000389	[Glock] Physisch, Hieb, Dunkel-Eigenschaft Angriff
 SKILL_20150317_000390	[Glock] Magie, Magie, Dunkel-Eigenschaft Angriff
-SKILL_20150317_000391	[Wupent] Physisch, Hieb, Eis-Eigenschaft Angriff Ice Debuff
+SKILL_20150317_000391	[Wupent] Physisch, Hieb, Eis-Eigenschaft Angriff Eis Debuff
 SKILL_20150317_000392	[Wupent] Physisch, Hieb, Eis-Eigenschaft Angriff
 SKILL_20150317_000393	[Ruteelin] Physisch, Hieb, Dunkel-Eigenschaft Angriff
 SKILL_20150317_000394	[Ruteelin] Physisch, Hieb, Dunkel-Eigenschaft Straight Range Angriff
@@ -477,7 +477,7 @@ SKILL_20150317_000476	[Black Big Gribaru] Physisch, Schlag, Dunkel-Eigenschaft A
 SKILL_20150317_000477	[Black Big Gribaru] Magie, Magie, Dunkel-Eigenschaft Angriff
 SKILL_20150317_000478	[Black Desmodus] Physisch, Stich, Dunkel-Eigenschaft Angriff
 SKILL_20150317_000479	[Rubblem] Physisch, Schlag, Erd-Eigenschaft Angriff
-SKILL_20150317_000480	[Matsum] Magie, Schlag, Feuer-Eigenschaft. Fire ball Summon
+SKILL_20150317_000480	[Matsum] Magie, Schlag, Feuer-Eigenschaft. Feuer ball Summon
 SKILL_20150317_000481	[Pawndel] Physisch, Hieb, Dunkel-Eigenschaft Angriff 2 times
 SKILL_20150317_000482	[Dionia] Physisch Neutral Schlag
 SKILL_20150317_000483	[Dionia] Magie Gift-Eigenschaft Schlag
@@ -758,8 +758,8 @@ SKILL_20150317_000757	[Netherbovine] Magie Dunkel-Eigenschaft Magie
 SKILL_20150317_000758	[Yonazolem Monster Summon]
 SKILL_20150317_000759	[Field Chaparition]Basic Normal Dark
 SKILL_20150317_000760	[Field Chaparition]Magie Normal Dark
-SKILL_20150317_000761	[Field Kerberos]Basic Normal Fire
-SKILL_20150317_000762	[Field Kerberos]Magie Magie Fire
+SKILL_20150317_000761	[Field Kerberos]Basic Normal Feuer
+SKILL_20150317_000762	[Field Kerberos]Magie Magie Feuer
 SKILL_20150317_000763	[Poata] Physisch Gift-Eigenschaft Schlag
 SKILL_20150317_000764	[Poata] Physisch Gift-Eigenschaft Monster Summon
 SKILL_20150317_000765	[Red Vubbe Fighter] Physisch Feuer-Eigenschaft Schlag
@@ -814,8 +814,8 @@ SKILL_20150317_000813	Public_Test 4
 SKILL_20150317_000814	Mischief 4
 SKILL_20150317_000815	Public_Test 5
 SKILL_20150317_000816	Mischief 5
-SKILL_20150317_000817	Ice paster
-SKILL_20150317_000818	{#993399}{ol}[Magie] - [Ice] - [Schlag]{/}{/}{nl}Summon huge snowball and damage nearnach enemies.
+SKILL_20150317_000817	Eis paster
+SKILL_20150317_000818	{#993399}{ol}[Magie] - [Eis] - [Schlag]{/}{/}{nl}Summon huge snowball and damage nearnach enemies.
 SKILL_20150317_000819	Angriff: #{SkillAtkAdd}#{nl}Splash: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150317_000820	Hoplite
 SKILL_20150317_000821	In development
@@ -853,7 +853,7 @@ SKILL_20150317_000852	[Throneweaver Karte] Magie Gift-Eigenschaft Schlag
 SKILL_20150317_000853	[Biteregina Karte] Physisch Neutral Stich
 SKILL_20150317_000854	[Chapparition Karte] Magie Dunkel-Eigenschaft Magie
 SKILL_20150317_000855	[Mummyghast Karte] Physisch Dunkel-Eigenschaft Magie
-SKILL_20150317_000856	Ice Breath
+SKILL_20150317_000856	Eis Breath
 SKILL_20150317_000857	[Ironbaum Karte] Physisch Feuer-Eigenschaft Schlag
 SKILL_20150317_000858	[Gorgon Karte] Magie Dunkel-Eigenschaft Stich
 SKILL_20150317_000859	[Drapeliun Karte] Physisch Dunkel-Eigenschaft Stich
@@ -978,14 +978,14 @@ SKILL_20150317_000977	Montano
 SKILL_20150317_000978	{#DD5500}{ol}[Physisch] - [Hieb]{/}{/}{nl} Uses a strong attack on the lower part of a target.
 SKILL_20150317_000979	Angriff #{SkillAtkAdd}#{nl}{#339999}{ol}[Betäubung]{/}{/} Duration 7 Sekunden
 SKILL_20150317_000980	Targe Smash
-SKILL_20150317_000981	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl} Inflicts damage nach strongly smashing your shield to the target. Has a high chance to inflict the Darkness status effect to the target.
+SKILL_20150317_000981	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl} Inflicts damage nach strongly smashing your shield to the target. Has a high chance to inflict the Dunkel status effect to the target.
 SKILL_20150317_000982	Angriff: #{SkillAtkAdd}#{nl}{#339999}{ol}[Blind]{/}{/} Dauer: 3 Sekunden{nl}Splash: #{SkillSR}#
 SKILL_20150317_000983	Shield Push
 SKILL_20150317_000984	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl} Use your shield to interfere with an enemy.{nl} Inflicts the Unbalanced status effect to the target. 
 SKILL_20150317_000985	Angriff #{SkillAtkAdd}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration 5 Sekunden
 SKILL_20150317_000986	Impaler
 SKILL_20150317_000987	{#DD5500}{ol}[Stich]{/}{/}{nl}Impales a small monster with a spear. Using this skill while a monster is skewered inflicts damage.
-SKILL_20150317_000988	Earth Wave
+SKILL_20150317_000988	Erde Wave
 SKILL_20150317_000989	{#DDD300}{ol}[Schlag]{/}{/}{nl}Gather up power and use your weapon to attack the enemy nach smashing it to the ground.
 SKILL_20150317_000990	Trot
 SKILL_20150317_000991	Erhöht deine Bewegungsgeschwindigkeit.
@@ -1073,9 +1073,9 @@ SKILL_20150317_001072	Inflicts sleep upon targets. Enemies will awake upon takin
 SKILL_20150317_001073	{#339999}{ol}[Sleep]{/}{/} Dauer: #{SkillFactor}# Sekunden{nl}Angriff Threshold: #{CaptionRatio}#
 SKILL_20150317_001074	Reflect Shield
 SKILL_20150317_001075	Creates a protective shield that reflects the amplified damage to the target.
-SKILL_20150317_001076	Schaden Reflection: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Reflects #{CaptionRatio2}# times
+SKILL_20150317_001076	Schaden Reflection: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Reflektiert #{CaptionRatio2}# times
 SKILL_20150317_001077	Earthquake
-SKILL_20150317_001078	{#993399}{ol}[Magie] - [Earth]{/}{/}{nl} Inflicts damage on an enemy nach creating a powerful earthquake in front of you.
+SKILL_20150317_001078	{#993399}{ol}[Magie] - [Erde]{/}{/}{nl} Inflicts damage on an enemy nach creating a powerful earthquake in front of you.
 SKILL_20150317_001079	Surespell
 SKILL_20150317_001080	Skills being cast cannot be interrupted nach enemy attacks.
 SKILL_20150317_001081	Dauer: #{CaptionTime}# Sekunden
@@ -1086,38 +1086,38 @@ SKILL_20150317_001085	Quick Cast
 SKILL_20150317_001086	Cast Time decreased.
 SKILL_20150317_001087	Cast Time: -#{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150317_001088	Fireball
-SKILL_20150317_001089	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl} Summons a stationary fireball. You can blow it up nach hitting it with a sword attack.
+SKILL_20150317_001089	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl} Summons a stationary fireball. You can blow it up nach hitting it with a sword attack.
 SKILL_20150317_001090	Angriff: #{SkillAtkAdd}#{nl}Angriff Count: #{SkillSR}#{nl}Dauer: #{CaptionTime}# Sekunden
-SKILL_20150317_001091	Fire Wall
-SKILL_20150317_001092	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl} Creates a flame barrier inflicting damage to nearnach enemies.
-SKILL_20150317_001093	Angriff #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Angriff #{CaptionRatio2}# times{nl}Duration 15 Sekunden
-SKILL_20150317_001094	Enchant Fire
-SKILL_20150317_001095	Grants Fire property to the target. Additional damage applies to your basic attack.
+SKILL_20150317_001091	Feuer Wall
+SKILL_20150317_001092	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl} Creates a flame barrier inflicting damage to nearnach enemies.
+SKILL_20150317_001093	Angriff #{SkillAtkAdd}#{nl}#{CaptionRatio}# Feuer Wall #{nl}Angriff #{CaptionRatio2}# times{nl}Duration 15 Sekunden
+SKILL_20150317_001094	Enchant Feuer
+SKILL_20150317_001095	Grants Feuer property to the target. Additional damage applies to your basic attack.
 SKILL_20150317_001096	Feuer-Eigenschaft Angriff: +#{CaptionRatio}#{nl}Additional Schaden: +#{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150317_001097	Flare
-SKILL_20150317_001098	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl} Inflicts damage nach exploding the enemy affected nach a status effect. This excludes both petrified and frozen status effects.
+SKILL_20150317_001098	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl} Inflicts damage nach exploding the enemy affected nach a status effect. This excludes both petrified and frozen status effects.
 SKILL_20150317_001099	Angriff #{SkillAtkAdd}#
-SKILL_20150317_001100	Fire Pillar
-SKILL_20150317_001101	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Summon a fire pillar to damage a target.
+SKILL_20150317_001100	Feuer Pillar
+SKILL_20150317_001101	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Summon a fire pillar to damage a target.
 SKILL_20150317_001102	Angriff: #{SkillAtkAdd}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150317_001103	Hell Breath
-SKILL_20150317_001104	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl} Continuously burn enemies with a cone of fire.
+SKILL_20150317_001104	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl} Continuously burn enemies with a cone of fire.
 SKILL_20150317_001105	Angriff #{SkillAtkAdd}#{nl}Consume #{CaptionRatio}#% SP per 0.5 Sekunden
-SKILL_20150317_001106	Ice Bolt
-SKILL_20150317_001107	{#993399}{ol}[Magie] - [Ice] - [Stich]{/}{/}{nl} Inflicts damage to a target nach launching a bolt of ice and has a chance to freeze the the target.
+SKILL_20150317_001106	Eis Bolt
+SKILL_20150317_001107	{#993399}{ol}[Magie] - [Eis] - [Stich]{/}{/}{nl} Inflicts damage to a target nach launching a bolt of ice and has a chance to freeze the the target.
 SKILL_20150317_001108	Angriff #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 3 Sekunden
-SKILL_20150317_001109	Ice Spieß
-SKILL_20150317_001110	{#993399}{ol}[Magie] - [Ice] - [Stich] {/} {/}} {nl} Inflicts damage to a target nach launching a wave of ice and has a chance to freeze the target.
+SKILL_20150317_001109	Eis Spieß
+SKILL_20150317_001110	{#993399}{ol}[Magie] - [Eis] - [Stich] {/} {/}} {nl} Inflicts damage to a target nach launching a wave of ice and has a chance to freeze the target.
 SKILL_20150317_001111	Angriff #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 4 Sekunden
 SKILL_20150317_001112	Create a barrier of ice with a chance to freeze enemies.
-SKILL_20150317_001113	Ice Wall #{CaptionRatio}# {nl}{#339999}{ol}[Ice]{/}{/}{nl} Duration 3 Sekunden {nl} Ice Wall Duration 10 Sekunden
-SKILL_20150317_001114	Ice Blast
-SKILL_20150317_001115	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl} Inflicts damage nach shattering a frozen target.
-SKILL_20150317_001116	{#339999}{ol}[Ice]{/}{/} Attacks to Ziele #{SkillAtkAdd}#
+SKILL_20150317_001113	Eis Wall #{CaptionRatio}# {nl}{#339999}{ol}[Eis]{/}{/}{nl} Duration 3 Sekunden {nl} Eis Wall Duration 10 Sekunden
+SKILL_20150317_001114	Eis Blast
+SKILL_20150317_001115	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl} Inflicts damage nach shattering a frozen target.
+SKILL_20150317_001116	{#339999}{ol}[Eis]{/}{/} Attacks to Ziele #{SkillAtkAdd}#
 SKILL_20150317_001117	Create a wall of ice to temporarily defend yourself against attacks from enemies.
-SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Ice]{/}{/}Rate 50% {nl} {#339999}{ol}[Ice]{/}{/}Duration 3 Sekunden
+SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Eis]{/}{/}Rate 50% {nl} {#339999}{ol}[Eis]{/}{/}Duration 3 Sekunden
 SKILL_20150317_001119	Gust
-SKILL_20150317_001120	Creates a gust of wind that pushes the target away. Inflicts damage on targets that are frozen or nearnach an Ice Wall.
+SKILL_20150317_001120	Creates a gust of wind that pushes the target away. Inflicts damage on targets that are frozen or nearnach an Eis Wall.
 SKILL_20150317_001121	Frost Pillar
 SKILL_20150317_001122	Summons a tree of ice on the ground that pulls nearnach enemies in and has a chance of freezing them.
 SKILL_20150317_001123	Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden
@@ -1183,12 +1183,12 @@ SKILL_20150317_001182	Stone Curse
 SKILL_20150317_001183	Petrify target.
 SKILL_20150317_001184	Dauer: #{CaptionTime}# Sekunden{nl}Splash: #{CaptionRatio}#
 SKILL_20150317_001185	Hail
-SKILL_20150317_001186	{#993399}{ol}[Magie] - [Ice]{/}{/}{n}Shards of ice fall upon the targeted area and damage enemies.
+SKILL_20150317_001186	{#993399}{ol}[Magie] - [Eis]{/}{/}{n}Shards of ice fall upon the targeted area and damage enemies.
 SKILL_20150317_001187	Prominence
-SKILL_20150317_001188	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Swathes of fire appear around you. Fire randomly moves and damage enemies.
+SKILL_20150317_001188	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Swathes of fire appear around you. Feuer randomly moves and damage enemies.
 SKILL_20150317_001189	Angriff #{SkillAtkAdd}#{nl}Duration 15 Sekunden
 SKILL_20150317_001190	Meteor
-SKILL_20150317_001191	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Drop a meteor on the targeted area to damage enemies.
+SKILL_20150317_001191	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Drop a meteor on the targeted area to damage enemies.
 SKILL_20150317_001192	Angriff #{SkillAtkAdd}#{nl}Cast Time #{CaptionTime}# Sekunden{nl}Splash #{SkillSR}#
 SKILL_20150317_001193	Summoning
 SKILL_20150317_001194	Summon spirits that follow you.
@@ -1201,7 +1201,7 @@ SKILL_20150317_001200	Quicken
 SKILL_20150317_001201	Give buff that increases movement speed to 1 ally.
 SKILL_20150317_001202	Reincarnate
 SKILL_20150317_001203	Respawns the monster immediately after it is killed.
-SKILL_20150317_001204	{#6644FF}{ol}[Fire]{/}{/}Attribute {nl} Angriff #{SkillFactor}#% + #{SkillAtkAdd} per 0.5 Sekunden# damage {nl} Duration 10 Sekunden {nl}Consume #{{nl} SpendSP}# SP
+SKILL_20150317_001204	{#6644FF}{ol}[Feuer]{/}{/}Attribute {nl} Angriff #{SkillFactor}#% + #{SkillAtkAdd} per 0.5 Sekunden# damage {nl} Duration 10 Sekunden {nl}Consume #{{nl} SpendSP}# SP
 SKILL_20150317_001205	Stop
 SKILL_20150317_001206	Monsters hold their current state. All monsters in the area will stop their actions.
 SKILL_20150317_001207	Slow
@@ -1254,8 +1254,8 @@ SKILL_20150317_001253	All the enemies of the target region are gathered together
 SKILL_20150317_001254	Duration #{CaptionTime}# Sekunden, Defend 6 times, Maximum Ziele: #{CaptionRatio}#
 SKILL_20150317_001255	Surround target with powerful energy. Inflict damage to those nearnach target.
 SKILL_20150317_001256	Angriffsrate #{SkillFactor}#, Splash #{SkillSR}#
-SKILL_20150317_001257	Drop meteor around and inflict [Fire] damage on enemies.
-SKILL_20150317_001258	[Fire] [Schlag] Schaden + #{SkillFactor}#{nl} meteor count #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} consumption SP #{SpendSP}#
+SKILL_20150317_001257	Drop meteor around and inflict [Feuer] damage on enemies.
+SKILL_20150317_001258	[Feuer] [Schlag] Schaden + #{SkillFactor}#{nl} meteor count #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} consumption SP #{SpendSP}#
 SKILL_20150317_001259	Freeze enemy.
 SKILL_20150317_001260	Countdown
 SKILL_20150317_001261	Turn back mal of allies. HP, SP, STA, Skill cool
@@ -1270,7 +1270,7 @@ SKILL_20150317_001269	Multi Shot
 SKILL_20150317_001270	{#DD5500}{ol}[Physisch] - [Geschoss]{/}{/}{nl}Charge up and then quickly launch multiple shots at a targeted area.
 SKILL_20150317_001271	Angriff: #{SkillAtkAdd}#{nl}Number of Shots: #{CaptionRatio}#
 SKILL_20150317_001272	Full Draw
-SKILL_20150317_001273	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Fire a shot that can skewer enemies together.
+SKILL_20150317_001273	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Feuer a shot that can skewer enemies together.
 SKILL_20150317_001274	Angriff: #{SkillAtkAdd}#{nl}{#339999}{ol}[Schräg]{/}{/} Dauer: #{CaptionTime}# Sekunden
 SKILL_20150317_001275	Kneeling Shot
 SKILL_20150317_001276	{#DD5500}{ol}[Physisch] - [Stich]{/}{/} {nl}Kneel to increase attack speed, damage, and range.
@@ -1279,7 +1279,7 @@ SKILL_20150317_001278	Swift Step
 SKILL_20150317_001279	Erhöht movement speed while attacking.
 SKILL_20150317_001280	Bewegungsschuss Bewegungsgeschwindigkeit: +#{SkillFactor}#%{nl}Verteidigung: -#{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150317_001281	Oblique Shot
-SKILL_20150317_001282	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Fire an arrow that bounces off of the target to hit an adjacent enemy.
+SKILL_20150317_001282	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Feuer an arrow that bounces off of the target to hit an adjacent enemy.
 SKILL_20150317_001283	Angriff #{SkillAtkAdd}#{nl}Abprallender Pfeilschaden #{CaptionRatio}#%
 SKILL_20150317_001284	Barrage
 SKILL_20150317_001285	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Shoot 5 arrows forward in an arc towards the ground.
@@ -1312,9 +1312,9 @@ SKILL_20150317_001311	Stone Picking
 SKILL_20150317_001312	Pick up stone projectiles found on the field. Cannot be obtained in town.
 SKILL_20150317_001313	Stone Bullets zu erlangen: #{SkillFactor}#
 SKILL_20150317_001314	Stone Shot
-SKILL_20150317_001315	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to become afflicted with [Betäubung].
+SKILL_20150317_001315	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl}Feuer stone bullet and push away enemy. The target has a chance to become afflicted with [Betäubung].
 SKILL_20150317_001316	Angriff #{SkillAtkAdd}#{nl}{#339999}{ol}[Betäubung]{/}{/} Duration #{CaptionRatio2}# Sekunden{nl}Use 1 stone bullet
-SKILL_20150317_001317	Rapid Fire
+SKILL_20150317_001317	Rapid Feuer
 SKILL_20150317_001318	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
 SKILL_20150317_001319	Angriff: #{SkillAtkAdd}#{nl}Maximale Ladezeit: #{CaptionTime}# Sekunden
 SKILL_20150317_001320	Broom Trap
@@ -1416,7 +1416,7 @@ SKILL_20150317_001415	Saber Bash
 SKILL_20150317_001416	Cavalry Charge
 SKILL_20150317_001417	Horse Tackle
 SKILL_20150317_001418	Blank Ammunition
-SKILL_20150317_001419	Concentrated Fire
+SKILL_20150317_001419	Concentrated Feuer
 SKILL_20150317_001420	Pommel Angriff
 SKILL_20150317_001421	Weakening
 SKILL_20150317_001422	Caracole
@@ -1445,7 +1445,7 @@ SKILL_20150317_001444	Ally's Critical Angriff: +#{CaptionRatio}#{nl}Enemy's Crit
 SKILL_20150317_001445	Daino
 SKILL_20150317_001446	Erhöht number of beneficial buffs that a user can have at any one mal.
 SKILL_20150317_001447	Max. count +#{SkillFactor}#{nl}Duration 200 Sekunden
-SKILL_20150317_001448	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl} Create a magic circle circle that summons lightning to strike anything within it.
+SKILL_20150317_001448	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl} Create a magic circle circle that summons lightning to strike anything within it.
 SKILL_20150317_001449	Angriff #{SkillAtkAdd}#{nl}Angriff #{CaptionRatio}# times {nl}Magie circle Duration 30 Sekunden
 SKILL_20150317_001450	Divine Stigma
 SKILL_20150317_001451	Mark monster. The player that kills the monster will get increased STR and INT.
@@ -1509,7 +1509,7 @@ SKILL_20150317_001508	Carve Angriff
 SKILL_20150317_001509	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Angriff the target nach using a carving knife. Plant-type monsters take additional bonus damage and may drop statue materials.
 SKILL_20150317_001510	Angriff #{SkillAtkAdd}#{nl}Additional damage +#{CaptionRatio}#
 SKILL_20150317_001511	Carve Owl
-SKILL_20150317_001512	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl} Summon the owl statue to attack targets located in front of it.
+SKILL_20150317_001512	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl} Summon the owl statue to attack targets located in front of it.
 SKILL_20150317_001513	Angriff: #{SkillAtkAdd}#{nl}Block Count: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 2 Oak Wood
 SKILL_20150317_001514	Carve World Tree
 SKILL_20150317_001515	Carve a statue of the holy tree to silence nearnach enemies.
@@ -1540,8 +1540,8 @@ SKILL_20150317_001539	Conversion
 SKILL_20150317_001540	Create magic circle that has a chance of converting enemies into allies when they are damaged inside the circle.
 SKILL_20150317_001541	Magie circle duration 10 Sekunden
 SKILL_20150317_001542	Resist Elements
-SKILL_20150317_001543	Erhöht Fire, Ice, and Heilig resistances of target.
-SKILL_20150317_001544	Fire resistance +#{CaptionRatio}#{nl}Ice resistance +#{CaptionRatio}#{nl}Heilig resistance +#{CaptionRatio}#{nl}Buff duration #{CaptionTime}# Sekunden
+SKILL_20150317_001543	Erhöht Feuer, Eis, and Heilig resistances of target.
+SKILL_20150317_001544	Feuer resistance +#{CaptionRatio}#{nl}Eis resistance +#{CaptionRatio}#{nl}Heilig resistance +#{CaptionRatio}#{nl}Buff duration #{CaptionTime}# Sekunden
 SKILL_20150317_001545	Turn Undead
 SKILL_20150317_001546	Chance on hit of instantly killing demon and mutant type enemies.
 SKILL_20150317_001547	Maximum Extinction: #{CaptionRatio}#
@@ -1617,14 +1617,14 @@ SKILL_20150317_001616	Veringer Bewegungsgeschwindigkeit.
 SKILL_20150317_001617	Frozen
 SKILL_20150317_001618	Frozen solid.
 SKILL_20150317_001619	Ignite
-SKILL_20150317_001620	Fire lit up because of the oil.
+SKILL_20150317_001620	Feuer lit up because of the oil.
 SKILL_20150317_001621	Resurrection After Effects
 SKILL_20150317_001622	The after effect of being revived. Decreased most of your combat skills.
 SKILL_20150317_001623	Erhöht Bewegungsgeschwindigkeit
 SKILL_20150317_001624	Erhöht Bewegungsgeschwindigkeit.
 SKILL_20150317_001625	Shock wave
 SKILL_20150317_001626	Feuer
-SKILL_20150317_001627	Periodically receiving Fire damage.
+SKILL_20150317_001627	Periodically receiving Feuer damage.
 SKILL_20150317_001628	Hold
 SKILL_20150317_001629	Unmovable.
 SKILL_20150317_001630	Fixed Movement Speed
@@ -1726,10 +1726,10 @@ SKILL_20150317_001725	During each attack, their threat level will increase.
 SKILL_20150317_001726	Hooked to enemy's provocation!
 SKILL_20150317_001727	Veringert Verteidigung.
 SKILL_20150317_001728	Receive damage after a while
-SKILL_20150317_001729	Continuously receive Fire damage.
+SKILL_20150317_001729	Continuously receive Feuer damage.
 SKILL_20150317_001730	Nearnach party members stats increased.
 SKILL_20150317_001731	Movement speed and the max. HP of party members will increase.
-SKILL_20150317_001732	Fire Pillar
+SKILL_20150317_001732	Feuer Pillar
 SKILL_20150317_001733	Blinded.
 SKILL_20150317_001734	Infection
 SKILL_20150317_001735	Infected.
@@ -1796,7 +1796,7 @@ SKILL_20150317_001795	Explode the zombies.
 SKILL_20150317_001796	Erhöht range and attack.
 SKILL_20150317_001797	Swift Step
 SKILL_20150317_001798	Temporarily increased movement speed while attacking.
-SKILL_20150317_001799	Receive Fire damage.
+SKILL_20150317_001799	Receive Feuer damage.
 SKILL_20150317_001800	Erhöht splash.
 SKILL_20150317_001801	Reduces SP cost.
 SKILL_20150317_001802	Erhöht critical rate, reduced evasion
@@ -1829,9 +1829,9 @@ SKILL_20150317_001828	In silence.
 SKILL_20150317_001829	Change INT and CON stats.
 SKILL_20150317_001830	Number of buff you can receive will increase.
 SKILL_20150317_001831	Erhöht attack, Reduces attack speed.
-SKILL_20150317_001832	Ice Blast
-SKILL_20150317_001833	Receive Ice property damage.
-SKILL_20150317_001834	Erhöht Fire, Ice, Lightning properties resistance.
+SKILL_20150317_001832	Eis Blast
+SKILL_20150317_001833	Receive Eis-Eigenschaftschaden.
+SKILL_20150317_001834	Erhöht Feuer, Eis, Blitz properties resistance.
 SKILL_20150317_001835	Converted.
 SKILL_20150317_001836	Instantly kills a Devil-type monster.
 SKILL_20150317_001837	Enhanced Angriff
@@ -1848,9 +1848,9 @@ SKILL_20150317_001847	Agility is temporarily increased significantly
 SKILL_20150317_001848	Spirit attack: defense decrease
 SKILL_20150317_001849	Flame attack increased.
 SKILL_20150317_001850	Erhöht Stich damage
-SKILL_20150317_001851	Enchant Fire
-SKILL_20150317_001852	Decreased Fire property resistance.
-SKILL_20150317_001853	Fire property added to your attacks
+SKILL_20150317_001851	Enchant Feuer
+SKILL_20150317_001852	Decreased Feuer property resistance.
+SKILL_20150317_001853	Feuer property added to your attacks
 SKILL_20150317_001854	Rage
 SKILL_20150317_001855	Erhöht damage and SP cost
 SKILL_20150317_001856	Hangman's Knot: Splash
@@ -1911,7 +1911,7 @@ SKILL_20150317_001910	HP Erholung
 SKILL_20150317_001911	Medusa
 SKILL_20150317_001912	STA will not be consumed for a certain mal.
 SKILL_20150317_001913	Cafrisun's Power
-SKILL_20150317_001914	+12 additional Earth property damage when attacking
+SKILL_20150317_001914	+12 additional Erd-Eigenschaftschaden when attacking
 SKILL_20150317_001915	Erhöht recovery amount and recovery rate of HP, SP and STA.
 SKILL_20150317_001916	Recover HP per Sekunde. Total 500 HP for 5 Sekunden.
 SKILL_20150317_001917	HP, SP Erholung
@@ -1929,7 +1929,7 @@ SKILL_20150317_001928	Erhöht attack against Mutant-type monsters.
 SKILL_20150317_001929	Activated Woodspirit Karte
 SKILL_20150317_001930	Continuously recovers HP.
 SKILL_20150317_001931	Activated Magbirk Karte
-SKILL_20150317_001932	Erhöht Fire property resistance.
+SKILL_20150317_001932	Erhöht Feuer property resistance.
 SKILL_20150317_001933	Activated Deadborn Karte
 SKILL_20150317_001934	Activated Denoptic Karte
 SKILL_20150317_001935	Activated Moldyhorn Karte
@@ -1947,7 +1947,7 @@ SKILL_20150317_001946	Erhöht critical damage.
 SKILL_20150317_001947	Activated Rikaus Karte
 SKILL_20150317_001948	Continuously recovers SP.
 SKILL_20150317_001949	Activated Cerberos Karte
-SKILL_20150317_001950	Erhöht Fire property attack.
+SKILL_20150317_001950	Erhöht Feuer property attack.
 SKILL_20150317_001951	Activated Carapace Karte
 SKILL_20150317_001952	Activated Yonazolem Karte
 SKILL_20150317_001953	Erhöht Dark property attack.
@@ -1977,8 +1977,8 @@ SKILL_20150317_001976	Mace Mastery
 SKILL_20150317_001977	Proficient in using Mace-type items.{nl}(+5% damage per level when equipped with a Mace-type item)
 SKILL_20150317_001978	Survival Instinct
 SKILL_20150317_001979	Erhöht attack when your HP is below 40%.{nl}Level 1 only. You can only learn it once!
-SKILL_20150317_001980	Ice Speer
-SKILL_20150317_001981	Adds additional damage to frozen enemies when attacking with Ice Bolt.{nl}(Adds 25% per level)
+SKILL_20150317_001980	Eis Speer
+SKILL_20150317_001981	Adds additional damage to frozen enemies when attacking with Eis Bolt.{nl}(Adds 25% per level)
 SKILL_20150317_001982	Rupture Blow
 SKILL_20150317_001983	Has a chance of inflicting damage with an explosion on nearnach enemies when attacking with Schlag-attacks. (5% chance of activating per level)
 SKILL_20150317_001984	Rupture
@@ -2021,7 +2021,7 @@ SKILL_20150317_002020	Lv.1 Rotation mal + # {IncrWert1} # Sekunden {nl} Lv.2 Rot
 SKILL_20150317_002021	Nether Web
 SKILL_20150317_002022	Number of attacks Telekinesis can do increases. {nl} (Erhöht as much as level.)
 SKILL_20150317_002023	Ignite
-SKILL_20150317_002024	Amount of damage is doubled when attacking enemy under Slow with Fire Ball.
+SKILL_20150317_002024	Amount of damage is doubled when attacking enemy under Slow with Feuer Ball.
 SKILL_20150317_002025	Speer Blow has a chance to stun.{nl} (Erhöht nach 5% per level.)
 SKILL_20150317_002026	Surprise Angriff
 SKILL_20150317_002027	Additional critical chance against stunned enemies. {nl} (Basic chance of 30% + 5% added per level.)
@@ -2166,27 +2166,27 @@ SKILL_20150317_002165	Schlag type attacks do 20% more damage to enemies sufferin
 SKILL_20150317_002166	Quick Cast: Magie Schaden
 SKILL_20150317_002167	Magie damage of next attack increases nach 10% pro Fähigkeits-Level, wenn [Quick Cast] aktiv ist.
 SKILL_20150317_002168	Fireball: Burn Debuff
-SKILL_20150317_002169	Enemies hit nach[Fire Ball] have a 10% chance per Fähigkeits-Level of suffering from [Flame] for 5 Sekunden.
-SKILL_20150317_002170	Fire Wall: Erhöht Feuer-Eigenschaft Buff
-SKILL_20150317_002171	Feuer-Eigenschaft attack increases nach 5 per Fähigkeits-Level for 5 Sekunden when allies step on [Fire Wall].
+SKILL_20150317_002169	Enemies hit nach[Feuer Ball] have a 10% chance per Fähigkeits-Level of suffering from [Flame] for 5 Sekunden.
+SKILL_20150317_002170	Feuer Wall: Erhöht Feuer-Eigenschaft Buff
+SKILL_20150317_002171	Feuer-Eigenschaft attack increases nach 5 per Fähigkeits-Level for 5 Sekunden when allies step on [Feuer Wall].
 SKILL_20150317_002172	Hell Breath: Directional Rotation
 SKILL_20150317_002173	You can can change directions when using [Hell Breath].
 SKILL_20150317_002174	Hell Breath: Knockback
 SKILL_20150317_002175	Enemies hit with [Hell Breathe] is pushed away at 10% chance pro{nl}Fähigkeits-Level.
-SKILL_20150317_002176	Enchant Fire: Erhöht Feuer-Eigenschaft Resistance
-SKILL_20150317_002177	Erhöht and decreases your Fire property resistance and Ice property resistance nach 5 per level respectively, when using [Enchant Fire].
-SKILL_20150317_002178	Enchanted Fire: Fire attribute resistance decrease
-SKILL_20150317_002179	Fire Resistance of enemy within range of [Enchant Fire] decrease nach 10% per Fähigkeits-Level for 5 Sekunden.
-SKILL_20150317_002180	Fire Pillar: Pull
-SKILL_20150317_002181	Pulls nearnach enemies with [Fire Pillar]. A higher Fähigkeits-Level increases the range of enemies pulled.
-SKILL_20150317_002182	Stab Mastery: Fire
+SKILL_20150317_002176	Enchant Feuer: Erhöht Feuer-Eigenschaft Resistance
+SKILL_20150317_002177	Erhöht and decreases your Feuer property resistance and Eis property resistance nach 5 per level respectively, when using [Enchant Feuer].
+SKILL_20150317_002178	Enchanted Feuer: Feuer attribute resistance decrease
+SKILL_20150317_002179	Feuer Resistance of enemy within range of [Enchant Feuer] decrease nach 10% per Fähigkeits-Level for 5 Sekunden.
+SKILL_20150317_002180	Feuer Pillar: Pull
+SKILL_20150317_002181	Pulls nearnach enemies with [Feuer Pillar]. A higher Fähigkeits-Level increases the range of enemies pulled.
+SKILL_20150317_002182	Stab Mastery: Feuer
 SKILL_20150317_002183	When equipped with a [Stab], the character's fire element attack increases nach 5 pro{nl}Fähigkeits-Level.
-SKILL_20150317_002184	Ice Bolt: Chance of Freeze
-SKILL_20150317_002185	Chance of enemy hit nach [Ice Bolt] to [Freeze] increases um 10% pro{nl}Fähigkeits-Level.
+SKILL_20150317_002184	Eis Bolt: Chance of Freeze
+SKILL_20150317_002185	Chance of enemy hit nach [Eis Bolt] to [Freeze] increases um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002186	Gust: Collision Schaden
 SKILL_20150317_002187	Enemy receive 50% of magic attack as damage when hitting wall after being pushed away with [Gust].
-SKILL_20150317_002188	Ice Blast: Splash Freeze
-SKILL_20150317_002189	Enemies hit with [Ice Blast] can be affected nach [Freeze] with a 10% chance pro{nl}Fähigkeits-Level.
+SKILL_20150317_002188	Eis Blast: Splash Freeze
+SKILL_20150317_002189	Enemies hit with [Eis Blast] can be affected nach [Freeze] with a 10% chance pro{nl}Fähigkeits-Level.
 SKILL_20150317_002190	Telekinesis: Forced move
 SKILL_20150317_002191	Inflicts damage equal to 20% magic attack per level to nearnach enemies when moving with [Telekinesis].
 SKILL_20150317_002192	Psychic Pressure: Betäubung
@@ -2200,7 +2200,7 @@ SKILL_20150317_002199	Physische Verteidigung of enemy drawn in skill [Gravity Po
 SKILL_20150317_002200	Raise: Groß Monsters
 SKILL_20150317_002201	[Raise] applies to Groß-type monsters.
 SKILL_20150317_002202	Physisch Link: Defense
-SKILL_20150317_002203	Erhöht physical defense equal to [connected party members + Fähigkeits-Level] when [Physisch Link] aktiv ist.
+SKILL_20150317_002203	Erhöht physische Verteidigung equal to [connected party members + Fähigkeits-Level] when [Physisch Link] aktiv ist.
 SKILL_20150317_002204	Hangman's Knot: Additional Schaden
 SKILL_20150317_002205	Enemies receive 20% of magic damage pro Fähigkeits-Level, wenn attacked with [Hangman's Knot].
 SKILL_20150317_002206	Umbilical Cord: Remaining Defense
@@ -2232,7 +2232,7 @@ SKILL_20150317_002231	Enemies attacked with [Hail] falls under [Freeze] at a 5% 
 SKILL_20150317_002232	Meteor: Evasion
 SKILL_20150317_002233	Evasion increase nach 10 pro Fähigkeits-Level, wenn charging [Meteor].
 SKILL_20150317_002234	Elementalist: Resistance
-SKILL_20150317_002235	Fire, Ice, and Lightning Resistances increase nach 5 pro{nl}Fähigkeits-Level.
+SKILL_20150317_002235	Feuer, Eis, and Blitz Resistances increase nach 5 pro{nl}Fähigkeits-Level.
 SKILL_20150317_002236	Quicken: Kritrate
 SKILL_20150317_002237	Critical chance for [Quicken] increases nach 5% per Fähigkeits-Level, while evasion is reduced um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002238	Slow : Kritische Verteidigung
@@ -2282,7 +2282,7 @@ SKILL_20150317_002281	Number of targets revived nach [Resurrection] increases na
 SKILL_20150317_002282	Blunt Mastery: Betäubung
 SKILL_20150317_002283	Enemies attacked with [Schlag] type basic attacks have a 2% chance per Fähigkeits-Level of being Stunned.
 SKILL_20150317_002284	Krivis: Feuer-Eigenschaft Resistance
-SKILL_20150317_002285	Charakter Fire Resistance increases nach 5 per Fähigkeits-Level while Dark Resistance decreases nach 3 pro{nl}Fähigkeits-Level.
+SKILL_20150317_002285	Charakter Feuer Resistance increases nach 5 per Fähigkeits-Level while Dark Resistance decreases nach 3 pro{nl}Fähigkeits-Level.
 SKILL_20150317_002286	Zalciai: Intelligence
 SKILL_20150317_002287	Applies a transformation of STR to INT when [Zalciai] is applied to Cleric-type classes.
 SKILL_20150317_002288	Divine Stigma: Intelligence
@@ -2330,7 +2330,7 @@ SKILL_20150317_002329	Recovers 5% of max. HP pro Fähigkeits-Level, wenn using [
 SKILL_20150317_002330	Out of Body Basic Angriff: Enemy Defense Weakened
 SKILL_20150317_002331	Enemies hit with normal attack in spirit state falls under [Defense Weakening] nach 5% chance pro{nl}Fähigkeits-Level.
 SKILL_20150317_002332	Resist Elements: Resist
-SKILL_20150317_002333	Fire, Ice, and Lightning resistances increase nach 5 and Gift, Earth resistance decreases nach 5 pro Fähigkeits-Level, wenn using [Resists Elements]
+SKILL_20150317_002333	Feuer, Eis, and Blitz resistances increase nach 5 and Gift, Erde resistance decreases nach 5 pro Fähigkeits-Level, wenn using [Resists Elements]
 SKILL_20150317_002334	Barrier: Stich damage
 SKILL_20150317_002335	Erhöht the Stich damage of allies within the range of [Barrier] nach 10% per level.
 SKILL_20150317_002336	Barrier: Heilig Schaden
@@ -2367,8 +2367,8 @@ SKILL_20150317_002366	Scatter Caltrops: Bleeding
 SKILL_20150317_002367	Enemies are inflicted with [Bleed] at an 8% chance pro Fähigkeits-Level, wenn stepping on caltrops.
 SKILL_20150317_002368	Stone Shot: Betäubung
 SKILL_20150317_002369	Erhöht the chance of stun from [Stone Shot] nach 5% per level.
-SKILL_20150317_002370	Rapid Fire: Directional Rotation
-SKILL_20150317_002371	You can change directions while charging [Rapid Fire] (Not possible when shooting)
+SKILL_20150317_002370	Rapid Feuer: Directional Rotation
+SKILL_20150317_002371	You can change directions while charging [Rapid Feuer] (Not possible when shooting)
 SKILL_20150317_002372	Stone Picking: Quantity
 SKILL_20150317_002373	Fixes the number of stone bullets picked nach [Stone Picking] to be [skill level].
 SKILL_20150317_002374	Broom Trap: Revolutions Count
@@ -2437,8 +2437,8 @@ SKILL_20150317_002436	Flu Flu: Debuff Count
 SKILL_20150317_002437	Number of enemies affected nach [Flu Flu] increases nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20150317_002438	Crossfire: Burn
 SKILL_20150317_002439	There is a 10% chance per Fähigkeits-Level of any monster hit nach [Crossfire] being inflicted with [image] and taking 5% of your Physisch attack for 5 Sekunden.
-SKILL_20150317_002440	Rute Mastery: Ice
-SKILL_20150317_002441	When wearig a [Rute], Ice element attack is increased nach 5 pro{nl}Fähigkeits-Level.
+SKILL_20150317_002440	Rute Mastery: Eis
+SKILL_20150317_002441	When wearig a [Rute], Eis element attack is increased nach 5 pro{nl}Fähigkeits-Level.
 SKILL_20150317_002442	Rush: Betäubung
 SKILL_20150317_002443	Enemies pushed away nach [Rush] are inflicted with [Betäubung] for 2 Sekunden at a 5% chance pro{nl}Fähigkeits-Level.
 SKILL_20150317_002444	Impaler: Double Schaden
@@ -2506,8 +2506,8 @@ SKILL_20150317_002505	Scatter Caltrops: Verbessern
 SKILL_20150317_002506	Erhöht den Schaden von [Scatter Caltrops] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002507	Stone Shot: Verbessern
 SKILL_20150317_002508	Erhöht den Schaden von [Stone Shot] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002509	Rapid Fire: Verbessern
-SKILL_20150317_002510	Erhöht den Schaden von [Rapid Fire] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002509	Rapid Feuer: Verbessern
+SKILL_20150317_002510	Erhöht den Schaden von [Rapid Feuer] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002511	Energy Bolt: Verbessern
 SKILL_20150317_002512	Erhöht den Schaden von [Energy Bolt] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002513	Magie Missile: Verbessern
@@ -2516,20 +2516,20 @@ SKILL_20150317_002515	Earthquake: Verbessern
 SKILL_20150317_002516	Erhöht den Schaden von [Earthquake] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002517	Fireball: Verbessern
 SKILL_20150317_002518	Erhöht den Schaden von [Fireball] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002519	Fire Wall: Verbessern
-SKILL_20150317_002520	Erhöht den Schaden von [Fire Wall] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002519	Feuer Wall: Verbessern
+SKILL_20150317_002520	Erhöht den Schaden von [Feuer Wall] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002521	Flare: Verbessern
 SKILL_20150317_002522	Erhöht den Schaden von [Flare] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002523	Hell Breath: Verbessern
 SKILL_20150317_002524	Erhöht den Schaden von [Hell Breath] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002525	Fire Pillar: Verbessern
-SKILL_20150317_002526	Erhöht den Schaden von [Fire Pillar] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002527	Ice Bolt: Verbessern
-SKILL_20150317_002528	Erhöht den Schaden von [Ice Bolt] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002529	Ice Spieß: Verbessern
-SKILL_20150317_002530	Erhöht den Schaden von [Ice Spieß] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002531	Ice Blast: Verbessern
-SKILL_20150317_002532	Erhöht den Schaden von [Ice Blast] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002525	Feuer Pillar: Verbessern
+SKILL_20150317_002526	Erhöht den Schaden von [Feuer Pillar] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002527	Eis Bolt: Verbessern
+SKILL_20150317_002528	Erhöht den Schaden von [Eis Bolt] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002529	Eis Spieß: Verbessern
+SKILL_20150317_002530	Erhöht den Schaden von [Eis Spieß] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002531	Eis Blast: Verbessern
+SKILL_20150317_002532	Erhöht den Schaden von [Eis Blast] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002533	Cure: Verbessern
 SKILL_20150317_002534	Erhöht den Schaden von [Cure] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002535	Heal: Verbessern
@@ -2578,8 +2578,8 @@ SKILL_20150317_002577	Carve Owl: Verbessern
 SKILL_20150317_002578	Erhöht den Schaden von [Carve Owl] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002579	Cross Guard: Verbessern
 SKILL_20150317_002580	Erhöht the defense of [Cross Guard] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002581	Enchant Fire: Verbessern
-SKILL_20150317_002582	Erhöht the damage on Fire property of [Enchant Fire] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002581	Enchant Feuer: Verbessern
+SKILL_20150317_002582	Erhöht the damage on Feuer property of [Enchant Feuer] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002583	Kneeling Shot: Verbessern
 SKILL_20150317_002584	Erhöht the physical attack of [Kneeling Shot] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002585	Steady Aim: Verbessern
@@ -2650,36 +2650,36 @@ SKILL_20150317_002649	Deprotected Zone: Verbessern 2
 SKILL_20150317_002650	Enhanced the defense debuff effect of [Deprotected Zone] to Cleric's 2. Rang standards.
 SKILL_20150317_002651	Deprotected Zone: Verbessern 3
 SKILL_20150317_002652	Enhanced the defense debuff effect of [Deprotected Zone] to Cleric's 3. Rang standards.
-SKILL_20150317_002653	Fire Ball: Verbessern 2
+SKILL_20150317_002653	Feuer Ball: Verbessern 2
 SKILL_20150317_002654	Enhanced the damage of [Fireball] to Pyromancer's 2. Rang standards.
-SKILL_20150317_002655	Fire Ball: Verbessern 3
+SKILL_20150317_002655	Feuer Ball: Verbessern 3
 SKILL_20150317_002656	Enhanced the damage of [Fireball] to Pyromancer's 3. Rang standards.
-SKILL_20150317_002657	Fire Wall: Verbessern 2
-SKILL_20150317_002658	Enhanced the damage of [Fire Wall] to Pyromancer's 2. Rang standards.
-SKILL_20150317_002659	Fire Wall: Verbessern 3
-SKILL_20150317_002660	Enhanced the damage of [Fire Wall] to Pyromancer's 3. Rang standards.
+SKILL_20150317_002657	Feuer Wall: Verbessern 2
+SKILL_20150317_002658	Enhanced the damage of [Feuer Wall] to Pyromancer's 2. Rang standards.
+SKILL_20150317_002659	Feuer Wall: Verbessern 3
+SKILL_20150317_002660	Enhanced the damage of [Feuer Wall] to Pyromancer's 3. Rang standards.
 SKILL_20150317_002661	Flare: Verbessern 2
 SKILL_20150317_002662	Enhanced the damage of [Flare] to Pyromancer's 2. Rang standards.
 SKILL_20150317_002663	Flare: Verbessern 3
 SKILL_20150317_002664	Enhanced the damage of [Flare] to Pyromancer's 3. Rang standards.
-SKILL_20150317_002665	Enchant Fire: Verbessern 2
-SKILL_20150317_002666	Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancer's 2. Rang standards.
-SKILL_20150317_002667	Enchant Fire: Verbessern 3
-SKILL_20150317_002668	Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancer's 3. Rang standards.
-SKILL_20150317_002669	Fire Pillar: Verbessern 2
-SKILL_20150317_002670	Enhanced the damage of [Fire Pillar] to Pyromancer's 3. Rang standards.
-SKILL_20150317_002671	Ice Bolt: Verbessern 2
-SKILL_20150317_002672	Enhanced the damage of [Ice Bolt] to Cryomancer's 2. Rang standards.
-SKILL_20150317_002673	Ice Bolt: Verbessern 3
-SKILL_20150317_002674	Enhanced the damage of [Ice Bolt] to Cryomancer's 3. Rang standards.
-SKILL_20150317_002675	Ice Spieß: Verbessern 2
-SKILL_20150317_002676	Enhanced the damage of [Ice Spieß] to Cryomancer's 2. Rang standards.
-SKILL_20150317_002677	Ice Spieß: Verbessern 3
-SKILL_20150317_002678	Enhanced the damage of [Ice Spieß] to Cryomancer's 3. Rang standards.
-SKILL_20150317_002679	Ice Blast: Verbessern 2
-SKILL_20150317_002680	Enhanced the damage of [Ice Blast] to Cryomancer's 2. Rang standards.
-SKILL_20150317_002681	Ice Blast: Verbessern 3
-SKILL_20150317_002682	Enhanced the damage of [Ice Blast] to Cryomancer's 3. Rang standards.
+SKILL_20150317_002665	Enchant Feuer: Verbessern 2
+SKILL_20150317_002666	Enhanced the Feuer property attack increase effect of [Enchant Feuer] to Pyromancer's 2. Rang standards.
+SKILL_20150317_002667	Enchant Feuer: Verbessern 3
+SKILL_20150317_002668	Enhanced the Feuer property attack increase effect of [Enchant Feuer] to Pyromancer's 3. Rang standards.
+SKILL_20150317_002669	Feuer Pillar: Verbessern 2
+SKILL_20150317_002670	Enhanced the damage of [Feuer Pillar] to Pyromancer's 3. Rang standards.
+SKILL_20150317_002671	Eis Bolt: Verbessern 2
+SKILL_20150317_002672	Enhanced the damage of [Eis Bolt] to Cryomancer's 2. Rang standards.
+SKILL_20150317_002673	Eis Bolt: Verbessern 3
+SKILL_20150317_002674	Enhanced the damage of [Eis Bolt] to Cryomancer's 3. Rang standards.
+SKILL_20150317_002675	Eis Spieß: Verbessern 2
+SKILL_20150317_002676	Enhanced the damage of [Eis Spieß] to Cryomancer's 2. Rang standards.
+SKILL_20150317_002677	Eis Spieß: Verbessern 3
+SKILL_20150317_002678	Enhanced the damage of [Eis Spieß] to Cryomancer's 3. Rang standards.
+SKILL_20150317_002679	Eis Blast: Verbessern 2
+SKILL_20150317_002680	Enhanced the damage of [Eis Blast] to Cryomancer's 2. Rang standards.
+SKILL_20150317_002681	Eis Blast: Verbessern 3
+SKILL_20150317_002682	Enhanced the damage of [Eis Blast] to Cryomancer's 3. Rang standards.
 SKILL_20150317_002683	Shield Lob: Verbessern
 SKILL_20150317_002684	Erhöht den Schaden von [Shield Lob] pro{nl}Fähigkeits-Level.
 SKILL_20150317_002685	Rim Blow: Verbessern 2
@@ -2754,9 +2754,9 @@ SKILL_20150317_002753	Stone Shot: Verbessern 2
 SKILL_20150317_002754	Enhanced the damage of [Stone Shot] to Quarrel Shooter's 2. Rang standards.
 SKILL_20150317_002755	Stone Shot: Verbessern 3
 SKILL_20150317_002756	Enhanced the damage of [Stone Shot] to Quarrel Shooter's 3. Rang standards.
-SKILL_20150317_002757	Rapid Fire: Verbessern 2
-SKILL_20150317_002758	Enhanced the damage of [Rapid Fire] to Quarrel Shooter's 2. Rang standards.
-SKILL_20150317_002759	Enhanced the damage of [Rapid Fire] to Quarrel Shooter's 3. Rang standards.
+SKILL_20150317_002757	Rapid Feuer: Verbessern 2
+SKILL_20150317_002758	Enhanced the damage of [Rapid Feuer] to Quarrel Shooter's 2. Rang standards.
+SKILL_20150317_002759	Enhanced the damage of [Rapid Feuer] to Quarrel Shooter's 3. Rang standards.
 SKILL_20150317_002760	Zaibas: Verbessern 2
 SKILL_20150317_002761	Enhanced the damage of [Zaibas] to Krivis' 2. Rang standards.
 SKILL_20150317_002762	Zaibas: Verbessern 3
@@ -2991,12 +2991,12 @@ SKILL_20150317_002990	Embowel: Verbessern 3
 SKILL_20150317_002991	Enhanced the damage of [Embowel] to Barbarian's 3. Rang standards.
 SKILL_20150317_002992	Stomping Kick: Verbessern
 SKILL_20150317_002993	Erhöht den Schaden von [Stomping Kick] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002994	Earth Wave: Verbessern
-SKILL_20150317_002995	Erhöht den Schaden von [Earth Wave] pro{nl}Fähigkeits-Level.
-SKILL_20150317_002996	Earth Wave: Verbessern 2
-SKILL_20150317_002997	Enhanced the damage of [Earth Wave] to Cataphract's 2. Rang standards.
-SKILL_20150317_002998	Earth Wave: Verbessern 3
-SKILL_20150317_002999	Enhanced the damage of [Earth Wave] to Cataphract's 3. Rang standards.
+SKILL_20150317_002994	Erde Wave: Verbessern
+SKILL_20150317_002995	Erhöht den Schaden von [Erde Wave] pro{nl}Fähigkeits-Level.
+SKILL_20150317_002996	Erde Wave: Verbessern 2
+SKILL_20150317_002997	Enhanced the damage of [Erde Wave] to Cataphract's 2. Rang standards.
+SKILL_20150317_002998	Erde Wave: Verbessern 3
+SKILL_20150317_002999	Enhanced the damage of [Erde Wave] to Cataphract's 3. Rang standards.
 SKILL_20150317_003000	Steed Charge: Verbessern
 SKILL_20150317_003001	Erhöht den Schaden von [Steed Charge] pro{nl}Fähigkeits-Level.
 SKILL_20150317_003002	Steed Charge: Verbessern 2
@@ -3097,7 +3097,7 @@ SKILL_20150323_003096	Elementalist: Resistance
 SKILL_20150323_003097	Carve World Tree: Pull
 SKILL_20150323_003098	Pull enemies within range of [Carve World Tree]
 SKILL_20150323_003099	Resist Elements: Resistance
-SKILL_20150323_003100	Erhöht the Fire, Ice and Lightning properties while decreasing the Gift and Earth properties when using [Resist Elements] nach 5 per Fähigkeits-Level respectively. 
+SKILL_20150323_003100	Erhöht the Feuer, Eis and Blitz properties while decreasing the Gift and Erde properties when using [Resist Elements] nach 5 per Fähigkeits-Level respectively. 
 SKILL_20150323_003101	Enhanced the damage of [Meteor] to Elementalist's 2. Rang standards.
 SKILL_20150323_003102	Enhanced the damage of [Meteor] to Elementalist's 3. Rang standards.
 SKILL_20150323_003103	Enhanced the damage of [Prominence] to Elementalist's 2. Rang standards.
@@ -3117,7 +3117,7 @@ SKILL_20150323_003116	Use [Thrust] on stunned enemies for additional Bleed effec
 SKILL_20150323_003117	Cross Guard: Debuff
 SKILL_20150323_003118	Enemies blocked nach [Cross Guard] temporarily become vulnerable to stab attacks.
 SKILL_20150323_003119	Feuer-Eigenschaft: Explosion
-SKILL_20150323_003120	Using Fire property attacks to finish enemies will cause an explosion and splash damage.
+SKILL_20150323_003120	Using Feuer property attacks to finish enemies will cause an explosion and splash damage.
 SKILL_20150323_003121	Eis-Eigenschaft: Slow
 SKILL_20150323_003122	Using Eis-Eigenschaft attacks to finish enemies will slow down nearnach enemies.
 SKILL_20150323_003123	Deprotected Zone: Schwert Angriff
@@ -3250,11 +3250,11 @@ SKILL_20150401_003249	Decrease weapon potential to open item dungeon. Weapon's p
 SKILL_20150401_003250	Each weapon has different dungeons{nl}and potential effects
 SKILL_20150401_003251	Angriff #{SkillAtkAdd}#{nl}/Abprallender Pfeilangriff #{CaptionRatio}#%
 SKILL_20150401_003252	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Shoot arrows that push away enemy.
-SKILL_20150401_003253	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Fire two arrows simultaneusly.
+SKILL_20150401_003253	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Feuer two arrows simultaneusly.
 SKILL_20150401_003254	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Using this attack to kill enemy will cause arrows to flick nearnach the enemy.
 SKILL_20150401_003255	Collect stone bullets in field. Cannot be collected in town.
 SKILL_20150401_003256	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Destroy pavise to damage target in front.
-SKILL_20150401_003257	Angriff #{SkillAtkAdd}#{nl}Can destroy Ice Wall, Dirty Wall
+SKILL_20150401_003257	Angriff #{SkillAtkAdd}#{nl}Can destroy Eis Wall, Dirty Wall
 SKILL_20150401_003258	Move quickly towards target and shoot arrow.
 SKILL_20150401_003259	Hide installation from enemies
 SKILL_20150401_003260	Vestreihende Zeit: #{CaptionRatio}# Minute(n)
@@ -3482,8 +3482,8 @@ SKILL_20150401_003481	Magie Pfeil: Verbessern 2
 SKILL_20150401_003482	Schaden of [Magie Pfeil] is enhanced to Fletcher Circle 3.
 SKILL_20150401_003483	Divine Machine Pfeil: Verbessern
 SKILL_20150401_003484	Schaden of [Gather Corpse] Erhöht pro{nl}Fähigkeits-Level.
-SKILL_20150401_003485	Concentrated Fire: Verbessern
-SKILL_20150401_003486	Schaden of [Concentrated Fire] Erhöht pro{nl}Fähigkeits-Level.
+SKILL_20150401_003485	Concentrated Feuer: Verbessern
+SKILL_20150401_003486	Schaden of [Concentrated Feuer] Erhöht pro{nl}Fähigkeits-Level.
 SKILL_20150401_003487	Caracole: Verbessern
 SKILL_20150401_003488	Schaden of [Caracole] Erhöht pro{nl}Fähigkeits-Level.
 SKILL_20150401_003489	Limacon: Verbessern
@@ -3553,7 +3553,7 @@ SKILL_20150406_003552	Pouncing
 SKILL_20150406_003553	Install base camp in field. Gruppe members can sue the base camp for personal storage and can freely warp to base camp.
 SKILL_20150406_003554	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Use Iron Hook to pull enemy. Enemy receives damage every mal it is pulled.
 SKILL_20150406_003555	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Use back of sword to hit smash enemy.
-SKILL_20150406_003556	{#993399}{ol}[Magie] - [Ice] - [Schlag]{/}{/}{nl}Summon huge snowball and damage nearnach enemies.
+SKILL_20150406_003556	{#993399}{ol}[Magie] - [Eis] - [Schlag]{/}{/}{nl}Summon huge snowball and damage nearnach enemies.
 SKILL_20150406_003557	Summon Servant
 SKILL_20150406_003558	{#993399}{ol}[Magie]{/}{/}{nl}Collect corpse fragments when monsters are killed using this attack.
 SKILL_20150406_003559	Angriff #{SkillAtkAdd}#{nl}Collect corpse fragment of each monster type
@@ -3593,7 +3593,7 @@ SKILL_20150406_003592	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Gather power t
 SKILL_20150406_003593	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Throw coin to attack target. Max. SP of targets hit will temporarily decrease.
 SKILL_20150406_003594	{#993399}{ol}[Magie] - [Heilig]{/}{/}{nl}Heals target and party members while damaging enemy.
 SKILL_20150406_003595	Angriff #{SkillAtkAdd}#{nl}Angriff #{CaptionRatio}# enemies{nl}Heall all party members{nl}Heal #{CaptionRatio}# allies{nl}
-SKILL_20150406_003596	Reflects close ranged attacks.
+SKILL_20150406_003596	Reflektiert close ranged attacks.
 SKILL_20150406_003597	Gradually decreases your maximum HP.
 SKILL_20150406_003598	Nullifies all attacks.
 SKILL_20150406_003599	Use sword while moving forward
@@ -3677,19 +3677,19 @@ SKILL_20150414_003676	Makes an enemy fall asleep. The enemy awakens once you've 
 SKILL_20150414_003677	Creates a protective shield that reflects the amplified damage back to an enemy.
 SKILL_20150414_003678	{#993399}{ol}[Magie]{/}{/}{nl}Continuously attack enemies with magic bullets.
 SKILL_20150414_003679	Reduces the casting mal of skills.
-SKILL_20150414_003680	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous flame damage.
-SKILL_20150414_003681	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Creates a wall of flames that continuously damages approaching enemies.
-SKILL_20150414_003682	Temporarily grants the Fire property to you and your party member's attacks.
-SKILL_20150414_003683	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Inflicts damage nach exploding a burning enemy.
-SKILL_20150414_003684	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Summons a pillar of fire to inflict damage on enemies.
-SKILL_20150414_003685	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Angriff nach continuously fuming fire forward to enemies. Deals continuous flame damage to enemies.
-SKILL_20150414_003686	{#993399}{ol}[Magie] - [Ice] - [Stich]{/}{/}{nl}Launches a bolt of ice to an enemy that inflicts damage and has a chance to freeze the enemy.
-SKILL_20150414_003687	{#993399}{ol}[Magie] - [Ice] - [Stich]{/}{/}}{nl}Spurt ice thorns and attack enemies in front with chance of freezing.
+SKILL_20150414_003680	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous flame damage.
+SKILL_20150414_003681	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Creates a wall of flames that continuously damages approaching enemies.
+SKILL_20150414_003682	Temporarily grants the Feuer property to you and your party member's attacks.
+SKILL_20150414_003683	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Inflicts damage nach exploding a burning enemy.
+SKILL_20150414_003684	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Summons a pillar of fire to inflict damage on enemies.
+SKILL_20150414_003685	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Angriff nach continuously fuming fire forward to enemies. Deals continuous flame damage to enemies.
+SKILL_20150414_003686	{#993399}{ol}[Magie] - [Eis] - [Stich]{/}{/}{nl}Launches a bolt of ice to an enemy that inflicts damage and has a chance to freeze the enemy.
+SKILL_20150414_003687	{#993399}{ol}[Magie] - [Eis] - [Stich]{/}{/}}{nl}Spurt ice thorns and attack enemies in front with chance of freezing.
 SKILL_20150414_003688	Creates a wall of ice that confines an enemy with a chance of freezing nearnach enemies.
-SKILL_20150414_003689	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Smack frozen enemies in front. Can freeze one more enemy nearnach.
+SKILL_20150414_003689	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Smack frozen enemies in front. Can freeze one more enemy nearnach.
 SKILL_20150414_003690	Create ice tent to block and freeze enemy.
 SKILL_20150414_003691	Create strong wind to push away target. Use on frozen enemies to attack neanach enemies.
-SKILL_20150414_003692	{#993399}{ol}[Magie] - [Ice] - [Schlag]{/}{/}{nl}Ride on huge snowball and smash enemy.
+SKILL_20150414_003692	{#993399}{ol}[Magie] - [Eis] - [Schlag]{/}{/}{nl}Ride on huge snowball and smash enemy.
 SKILL_20150414_003693	{#993399}{ol}[Magie]{/}{/}{nl}Concentrate on the the tip of your hand to inflict continuous damage with psychokinesis.
 SKILL_20150414_003694	{#993399}{ol}[Magie]{/}{/}{nl}Use psychokinesis to capture a target in front and throw it around.{nl}Inflicts damage nach throwing the captured target in a direction using your arrow keys.
 SKILL_20150414_003695	Swaps your position with that of the enemy.
@@ -3709,11 +3709,11 @@ SKILL_20150414_003708	Change your INT and CON.
 SKILL_20150414_003709	Control the enemy's magic circle.
 SKILL_20150414_003710	Enlarge the size of your and party members' hand holding shield and sub weapon to increase defense.
 SKILL_20150414_003711	Enlarge the size of you and your party members' heads to increase INT.
-SKILL_20150414_003712	{#993399}{ol}[Magie] - [Lightning]{/}{/}{nl}Release a surge of electricity to attack enemies in front of you.
+SKILL_20150414_003712	{#993399}{ol}[Magie] - [Blitz]{/}{/}{nl}Release a surge of electricity to attack enemies in front of you.
 SKILL_20150414_003713	Temporarily petrify an enemy.
-SKILL_20150414_003714	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Drop chunks of ice to continuously inflict damage on enemies.
-SKILL_20150414_003715	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Summons Prominence. The summoned Prominence goes back and forth randomly, inflicting damage to targets.
-SKILL_20150414_003716	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Drop meteors on the targeted area to inflict damage to an enemy.
+SKILL_20150414_003714	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Drop chunks of ice to continuously inflict damage on enemies.
+SKILL_20150414_003715	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Summons Prominence. The summoned Prominence goes back and forth randomly, inflicting damage to targets.
+SKILL_20150414_003716	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Drop meteors on the targeted area to inflict damage to an enemy.
 SKILL_20150414_003717	Summon the devil of card inserted in Grimore. Grimore can only equip Devil type monster card.
 SKILL_20150414_003718	Order the summoned devil from the Grimoire to move and attack in a targeted area.
 SKILL_20150414_003719	Take control of the summoned devil from the Grimoire nach riding it on top of its head.
@@ -3829,7 +3829,7 @@ SKILL_20150414_003828	Creates a magic circle that increases the skill level of a
 SKILL_20150414_003829	Summon a holy torch to improve the HP recovery rate of nearnach allies.
 SKILL_20150414_003830	Creates a magic circle that increases the critical abilities of allies or decreases the critical abilities of enemies.
 SKILL_20150414_003831	Erhöht the number of beneficial effects that you and your party members can receive.
-SKILL_20150414_003832	{#993399}{ol}[Magie] - [Lightning]{/}{/}{nl}Creates a magic circle that calls down bolts of lightning on an enemy using the God of Thunder's power.
+SKILL_20150414_003832	{#993399}{ol}[Magie] - [Blitz]{/}{/}{nl}Creates a magic circle that calls down bolts of lightning on an enemy using the God of Thunder's power.
 SKILL_20150414_003833	Engraves a stigma on an enemy. Erhöht the STR and INT of you and your party members when the engraved enemy has been defeated.
 SKILL_20150414_003834	Creates a magic circle that temporarily maintains the beneficial effects of you and your party members.
 SKILL_20150414_003835	{#993399}{ol}[Magie] - [Heilig]{/}{/}{nl}Sprinkle holy water to increase the defense of you and your allies as well as inflict damage to enemies.
@@ -3848,11 +3848,11 @@ SKILL_20150414_003847	Install a Samedi pattern that represents death noir on the
 SKILL_20150414_003848	Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magie]{/}{/}{nl}Detonates zombies near the targeted area and deals damage to nearnach enemies.
 SKILL_20150414_003850	Carve a statue of Vakarine, the goddess of the Evening Star. {nl}You may warp to other areas through the Goddess Statue.
-SKILL_20150414_003851	Carves a statue of Zemyna, the goddess of Earth.{nl}Verringert the SP cost for allies who are within the radius of the Goddess Statue.
+SKILL_20150414_003851	Carves a statue of Zemyna, the goddess of Erde.{nl}Verringert the SP cost for allies who are within the radius of the Goddess Statue.
 SKILL_20150414_003852	SP: -#{CaptionRatio}#{nl}Statue Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht 4 Pine Wood
 SKILL_20150414_003853	Carve a statue of Laima, the goddess of fate.{nl}Verringert the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20150414_003854	Cooldown Dauer: -#{CaptionRatio}#%{nl}Statue Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht 4 Cedar Wood
-SKILL_20150414_003855	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Carves an Owl Sculpture that attacks enemies in front of you.
+SKILL_20150414_003855	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Carves an Owl Sculpture that attacks enemies in front of you.
 SKILL_20150414_003856	Angriff: #{SkillAtkAdd}#{nl}Block Count: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Use 3 Oak Wood
 SKILL_20150414_003857	Carve a divine World Tree that silences nearnach enemies.
 SKILL_20150414_003858	Statue Duration #{CaptionRatio}# Sekunden{nl}Use 6 Ash Wood
@@ -3870,7 +3870,7 @@ SKILL_20150414_003869	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Strongly smack
 SKILL_20150414_003870	Activate aura and increase HP recovery of allies nearnach.
 SKILL_20150414_003871	Creates a magic circle which has a chance of converting enemies.
 SKILL_20150414_003872	Temporarily increases the property resistances of you and your party members.
-SKILL_20150414_003873	Fire, Ice, Lightning Resistance: +#{CaptionRatio}# {nl}Gift, Earth Resistance: +#{CaptionRatio2}#{nl}Buff Dauer: #{CaptionTime}# Sekunden
+SKILL_20150414_003873	Feuer, Eis, Blitz Resistance: +#{CaptionRatio}# {nl}Gift, Erde Resistance: +#{CaptionRatio2}#{nl}Buff Dauer: #{CaptionTime}# Sekunden
 SKILL_20150414_003874	Has a chance of instantly defeating Mutant or Devil-type enemies.
 SKILL_20150414_003875	Make a protective wall that push away enemies and block them from entering.
 SKILL_20150414_003876	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Temper your skin as hard as steel to inflict damage nach bouncing back an enemy's attack.
@@ -3905,7 +3905,7 @@ SKILL_20150414_003904	Change enemy's drop item. Know if rare item will be droppe
 SKILL_20150414_003905	Sentence the enemy to death. The sentenced target dies when mal is up.
 SKILL_20150414_003906	Erhöht maximum provocation.
 SKILL_20150414_003907	Insensible to pain.
-SKILL_20150414_003908	Erhöht Fire, Ice, Lightning, Gift and Erd-Eigenschaft Resistance.
+SKILL_20150414_003908	Erhöht Feuer, Eis, Blitz, Gift and Erd-Eigenschaft Resistance.
 SKILL_20150414_003909	Erhöht Physisch and Magie Angriff.
 SKILL_20150414_003910	Pillaging
 SKILL_20150414_003911	Cannot see in front
@@ -3922,7 +3922,7 @@ SKILL_20150414_003921	Mordschlag: Cloth Rüstung
 SKILL_20150414_003922	Apply effect of Mordschlag on leather armor also to cloth armor type
 SKILL_20150414_003923	Hangman's Knot gives 20% of character's magic damage per Fähigkeits-Level as additional damage
 SKILL_20150414_003924	Ziele have 5% chance of falling under [Weaken Defense] pro Fähigkeits-Level, wenn hit with basic attack during spirit state.
-SKILL_20150414_003925	When using [Resist Elements] Fire, Ice, Blitz-Eigenschaft increase nach 5 per Fähigkeits-Level and Gift, Erd-Eigenschaft decrease nach 5 per Fähigkeits-Level
+SKILL_20150414_003925	When using [Resist Elements] Feuer, Eis, Blitz-Eigenschaft increase nach 5 per Fähigkeits-Level and Gift, Erd-Eigenschaft decrease nach 5 per Fähigkeits-Level
 SKILL_20150414_003926	Monsters hit with [Pointing] have a 5% chance per Fähigkeits-Level of being inflicted with [Furcht] every 3 Sekunden.
 SKILL_20150414_003927	Defense of enemies receiving [Retrieve] attacks decrease nach 10 pro{nl}Fähigkeits-Level.
 SKILL_20150414_003928	Max. Gift capacity of [Gift Pot] increases nach 10 pro{nl}Fähigkeits-Level.
@@ -4067,7 +4067,7 @@ SKILL_20150428_004066	Angriff: #{SkillAtkAdd}#{nl}Dauer: 10 Sekunden{nl}Verbrauc
 SKILL_20150428_004067	Angriff: #{SkillAtkAdd}#{nl}Dauer: 10 Sekunden{nl}Verbraucht 1 Divine Machine Pfeil
 SKILL_20150428_004068	Hanging Shot
 SKILL_20150428_004069	Guardian Saint Dauer: #{CaptionTime}# Sekunden{nl}Chance on Hit: 50%{nl}Charges: #{CaptionRatio}#
-SKILL_20150428_004070	Creates a magic circle in front of you that increases DEX of your allies while decreasing the evasion and physical defense of enemies. Gruppe members will receive the effect without stepping on the magic circle.
+SKILL_20150428_004070	Creates a magic circle in front of you that increases DEX of your allies while decreasing the evasion and physische Verteidigung of enemies. Gruppe members will receive the effect without stepping on the magic circle.
 SKILL_20150428_004071	Einen Segen welcher zusätzlichen Schaden auf die Angriffe deiner Gruppenmitglieder und Verbündeten gewährt.
 SKILL_20150428_004072	Zusätzlicher Schaden: +#{CaptionRatio}#{nl}Trefferanzahl: #{CaptionRatio2}#{nl}Betroffene Verbündete: #{CaptionTime}#{nl}Dauer: 45 Sekunden{nl}Verbraucht 1 Heilig Powder
 SKILL_20150428_004073	Body's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
@@ -4079,7 +4079,7 @@ SKILL_20150428_004078	Maximum Dauer: #{CaptionTime}# Sekunden{nl}Able to block m
 SKILL_20150428_004079	Maximum Purchase Quantity: #{CaptionRatio}#
 SKILL_20150428_004080	Removes nearnach Magie Circles {nl}Maximum Dauer: 30 Sekunden{nl}Ziele: #{CaptionRatio}#
 SKILL_20150428_004081	Can open the treasure chest easily
-SKILL_20150428_004082	Movement speed slightly decreases. Receive additional damage on Lightning attacks. Give continuous damage to Fire Attribute targets.
+SKILL_20150428_004082	Movement speed slightly decreases. Receive additional damage on Blitz attacks. Give continuous damage to Feuer Attribute targets.
 SKILL_20150428_004083	Quick Cast: Magie Schaden
 SKILL_20150428_004084	Erhöht the Magie Schaden of the next skill.
 SKILL_20150428_004085	SP Recovery Speed
@@ -4094,10 +4094,10 @@ SKILL_20150428_004093	Blue Aura
 SKILL_20150428_004094	Yellow Aura
 SKILL_20150428_004095	Erhöht Stamina recovery
 SKILL_20150428_004096	Give greater damage every 10 attacks
-SKILL_20150428_004097	Earth Set Buff
-SKILL_20150428_004098	Status buff where Rage of Earth Buff can be triggered
-SKILL_20150428_004099	Earth Rage
-SKILL_20150428_004100	Additional fixed damage for Earth property attacks
+SKILL_20150428_004097	Erde Set Buff
+SKILL_20150428_004098	Status buff where Rage of Erde Buff can be triggered
+SKILL_20150428_004099	Erde Rage
+SKILL_20150428_004100	Additional fixed damage for Erde property attacks
 SKILL_20150428_004101	Shovel status buff
 SKILL_20150428_004102	Legwyn Family Set Buff
 SKILL_20150428_004103	Status buff where Legacy of Legwyn Family buff can be triggered
@@ -4109,12 +4109,12 @@ SKILL_20150428_004108	Splash increases nach 3 while [Finestra] is activated, Eva
 SKILL_20150428_004109	[Montano] triggered [Slow] on target for 10 Sekunden. Duration of [Slow] increases nach 3/2/1 Sekunde for small/medium/Groß monsters respectively.
 SKILL_20150428_004110	Lethargy: Additional Schaden
 SKILL_20150428_004111	Enemies affected nach [Lethargy] will receive 20% additional damage with Schlag attacks.
-SKILL_20150428_004112	Charakter Fire attack increases nach 3 pro Fähigkeits-Level, wenn using [Stab] weapon.
+SKILL_20150428_004112	Charakter Feuer attack increases nach 3 pro Fähigkeits-Level, wenn using [Stab] weapon.
 SKILL_20150428_004113	Ausweichen increases nach 10% pro Fähigkeits-Level, wenn using [Gravity Pull].
 SKILL_20150428_004114	Skill duration of [Spiritual Chain] increases nach 1 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150428_004115	Punji Stake: Knockdown Schaden
 SKILL_20150428_004116	Air type monsters that fall on ground with [Snatching] receives 20% more damage pro Fähigkeits-Level, wenn attacked with Hieb, Schlag type attacks.
-SKILL_20150428_004117	Ice attack increases nach 3 pro Fähigkeits-Level, wenn using [Rute].
+SKILL_20150428_004117	Eis attack increases nach 3 pro Fähigkeits-Level, wenn using [Rute].
 SKILL_20150428_004118	There is 1% chance per Fähigkeits-Level for enemies pushed away with [Rush] to fall under [Betäubung].
 SKILL_20150714_004119	Lv. 1 Angriff Ratio: #{SkillFactor}#, AoE Angriffsanzahl: #{SkillSR}#
 SKILL_20150714_004120	Stab Angriff
@@ -4158,7 +4158,7 @@ SKILL_20150714_004157	Attribut-Schaden: #{CaptionTime}#%{nl}Number of Tiles: #{C
 SKILL_20150714_004158	Angriff #{SkillAtkAdd}#{nl}Attribute Schaden #{CaptionRatio2}#%{nl} #{CaptionRatio}#% of SP consumed per 0.5 Sekunden
 SKILL_20150714_004159	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: 3 Sekunden
 SKILL_20150714_004160	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: 4 Sekunden
-SKILL_20150714_004161	Number of Tiles: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: 3 Sekunden{nl}Ice Wall Dauer: 15 Sekunden
+SKILL_20150714_004161	Number of Tiles: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: 3 Sekunden{nl}Eis Wall Dauer: 15 Sekunden
 SKILL_20150714_004162	{#339999}{ol}[Freeze]{/}{/} Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%
 SKILL_20150714_004163	Chance to {#339999}{ol}[Freeze]{/}{/} attacked enemies: 50%{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: #{CaptionRatio}# Sekunden
 SKILL_20150714_004164	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}AoE Angriffsanzahl: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden
@@ -4168,7 +4168,7 @@ SKILL_20150714_004167	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRat
 SKILL_20150714_004168	Dauer: #{CaptionTime}# Sekunden{nl}Number of Ziele: #{CaptionRatio}#
 SKILL_20150714_004169	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Duration 15 Sekunden
 SKILL_20150714_004170	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}# Sekunden{nl}AoE Angriffsanzahl #{SkillSR}#
-SKILL_20150714_004171	Dauer: #{CaptionTime}# Sekunden{nl}Reduces movement speed nach 10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Angriff Schaden{nl}{#DD5500}{ol}Flame{/}{/}Attribute Target #{SkillAtkAdd}#
+SKILL_20150714_004171	Dauer: #{CaptionTime}# Sekunden{nl}Reduces movement speed nach 10%{nl}Additional {#DD5500}{ol}Blitz{/}{/}Property Angriff Schaden{nl}{#DD5500}{ol}Flame{/}{/}Attribute Target #{SkillAtkAdd}#
 SKILL_20150714_004172	Summons a Devil-type boss monster{nl}Devil's Abilities: +#{CaptionRatio}#%
 SKILL_20150714_004173	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Summons Familiar: #{CaptionRatio}#
 SKILL_20150714_004174	[Erhöht SP Recovery Speed]{nl}[Erhöht AoE Angriffsanzahl]{nl}[Stamina Recovery]{nl}[Erhöht Magie Defense]{nl}[Erhöht Dunkel-Eigenschaft Angriff]
@@ -4248,7 +4248,7 @@ SKILL_20150714_004247	Skill cooldown increased nach 20%
 SKILL_20150714_004248	Gegenstand Awakening: Dungeon Event
 SKILL_20150714_004249	Erhöht Physisch and Magie Angriff
 SKILL_20150714_004250	A status effect can activate Will of Guard
-SKILL_20150714_004251	A status effect can activate Rage of Earth
+SKILL_20150714_004251	A status effect can activate Rage of Erde
 SKILL_20150714_004252	Schaufel Statuseffekt
 SKILL_20150714_004253	Status effect can activate Legacy of Legwyn Family
 SKILL_20150714_004254	Blocken erhöht
@@ -4357,12 +4357,12 @@ SKILL_20150714_004356	Erhöht die Schadensausteilung an einem{nl}Feind mit [Slit
 SKILL_20150714_004357	Shield Push: Duration
 SKILL_20150714_004358	Erhöht die Dauer von the Unbalanced status ailment applied from [Shield Push] nach 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20150714_004359	Erhöht die Schadensausteilung an einem{nl}Feind mit [Impaler] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004360	Erhöht die Schadensausteilung an einem{nl}Feind mit [Earth Wave] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004360	Erhöht die Schadensausteilung an einem{nl}Feind mit [Erde Wave] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004361	Erhöht die Schadensausteilung an einem{nl}Feind mit [Steed Charge] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004362	Erhöht die Schadensausteilung an einem{nl}Feind mit [Doom Spike] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004363	Erhöht die Schadensausteilung an einem{nl}Feind mit [Rush] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004364	Earth Wave: Erd-Eigenschaft
-SKILL_20150714_004365	Grants the Earth property to strikes from [Earth Wave].
+SKILL_20150714_004364	Erde Wave: Erd-Eigenschaft
+SKILL_20150714_004365	Grants the Erde property to strikes from [Erde Wave].
 SKILL_20150714_004366	Steed Charge: Critical
 SKILL_20150714_004367	Applies critical on [Steed Charge] on enemies afflicted with [Slow]. 
 SKILL_20150714_004368	Erhöht the count of [Weapon Maintenance] nach 1 pro{nl}Fähigkeits-Level.
@@ -4372,7 +4372,7 @@ SKILL_20150714_004371	Erhöht die Dauer von sandwich from [ Erfrischungstisch] n
 SKILL_20150714_004372	Erhöht die Dauer von soup from [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
 SKILL_20150714_004373	Erhöht die Dauer von yogurt from [ Erfrischungstisch] nach 1 minute pro{nl}Fähigkeits-Level.
 SKILL_20150714_004374	Arrest: Defense Weakened
-SKILL_20150714_004375	Verringert the physical defense of an enemy affected nach [Arrest] um 10% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004375	Verringert the physische Verteidigung of an enemy affected nach [Arrest] um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004376	Repair: Service
 SKILL_20150714_004377	When repairing equipment with [Repair], there is a 5% chance per Fähigkeits-Level to repair twice the original value.
 SKILL_20150714_004378	Erhöht die Schadensausteilung an einem{nl}Feind mit [Keel Hauling] um 1% pro{nl}Fähigkeits-Level.
@@ -4404,53 +4404,53 @@ SKILL_20150714_004403	Erhöht den Schaden von  the next magical attack nach 10% 
 SKILL_20150714_004404	Sleep: Duration
 SKILL_20150714_004405	Erhöht die Dauer von [Sleep] nach 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20150714_004406	Erhöht die Schadensausteilung an einem{nl}Feind mit [Fireball] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004407	Erhöht die Schadensausteilung an einem{nl}Feind mit [Fire Wall] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004407	Erhöht die Schadensausteilung an einem{nl}Feind mit [Feuer Wall] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004408	Erhöht die Schadensausteilung an einem{nl}Feind mit [Flare] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004409	Erhöht die Schadensausteilung an einem{nl}Feind mit [Fire Pillar] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004409	Erhöht die Schadensausteilung an einem{nl}Feind mit [Feuer Pillar] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004410	Erhöht die Schadensausteilung an einem{nl}Feind mit [Hell Breath] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004411	Deals fire damage to enemies hit nach [Fireball] for 5 Sekunden with a chance of 10% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004412	When an ally steps on [Fire Wall], Fire ATK will increase nach 5 per Fähigkeits-Level for 5 secs.
+SKILL_20150714_004412	When an ally steps on [Feuer Wall], Feuer ATK will increase nach 5 per Fähigkeits-Level for 5 secs.
 SKILL_20150714_004413	Enemies hit nach [Hell Breath] have a 10% chance per Fähigkeits-Level of being knocked back.
-SKILL_20150714_004414	Verringert the enemy's Fire Resistance nach 10% for 5 Sekunden within the range of [Enchant Fire].
-SKILL_20150714_004415	Erhöht the character's Fire property attack nach 3 pro Fähigkeits-Level, wenn equipped with a [Stab].
+SKILL_20150714_004414	Verringert the enemy's Feuer Resistance nach 10% for 5 Sekunden within the range of [Enchant Feuer].
+SKILL_20150714_004415	Erhöht the character's Feuer property attack nach 3 pro Fähigkeits-Level, wenn equipped with a [Stab].
 SKILL_20150714_004416	Flare: Additional Schaden
 SKILL_20150714_004417	Erhöht den Schaden von [Flare] nach 10 per Fähigkeits-Level to Cloth armor-type enemies. 
-SKILL_20150714_004418	Erhöht die Schadensausteilung an einem{nl}Feind mit [Ice Bolt] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004419	Erhöht die Schadensausteilung an einem{nl}Feind mit [Ice Spike] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004420	Erhöht die Schadensausteilung an einem{nl}Feind mit [Ice Blast] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004418	Erhöht die Schadensausteilung an einem{nl}Feind mit [Eis Bolt] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004419	Erhöht die Schadensausteilung an einem{nl}Feind mit [Eis Spike] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004420	Erhöht die Schadensausteilung an einem{nl}Feind mit [Eis Blast] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004421	Erhöht die Schadensausteilung an einem{nl}Feind mit [Snow Rolling] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004422	Erhöht the chance of inflicting [Freeze] on enemies hit nach [Ice Bolt] um 10% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004422	Erhöht the chance of inflicting [Freeze] on enemies hit nach [Eis Bolt] um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004423	Enemies knocked back nach [Gust] will take damage equal to 50% of Magie Angriff.  
-SKILL_20150714_004424	Erhöht the character's Ice property attack nach 3 pro Fähigkeits-Level, wenn equipped with a [Rute].
-SKILL_20150714_004425	Ice Wall: Cryorite
-SKILL_20150714_004426	Cryorite can be dropped with a chance of 1% pro Fähigkeits-Level, wenn [Ice Wall] disappears.
+SKILL_20150714_004424	Erhöht the character's Eis property attack nach 3 pro Fähigkeits-Level, wenn equipped with a [Rute].
+SKILL_20150714_004425	Eis Wall: Cryorite
+SKILL_20150714_004426	Cryorite can be dropped with a chance of 1% pro Fähigkeits-Level, wenn [Eis Wall] disappears.
 SKILL_20150714_004427	Subzero Shield: Duration
 SKILL_20150714_004428	Erhöht die Dauer von freeze that will be applied from [Subzero Shield] nach 1 Sekunde pro{nl}Fähigkeits-Level.
-SKILL_20150714_004429	Ice Blast: Additional Schaden
-SKILL_20150714_004430	Erhöht den Schaden von [Ice Blast] nach 10 pro Fähigkeits-Level, wenn attacking Leder armor-type enemies.
+SKILL_20150714_004429	Eis Blast: Additional Schaden
+SKILL_20150714_004430	Erhöht den Schaden von [Eis Blast] nach 10 pro Fähigkeits-Level, wenn attacking Leder armor-type enemies.
 SKILL_20150714_004431	Cryomancer: Freeze Speciality
-SKILL_20150714_004432	Enemies frozen nach a Cryomancer will receive 10% additional damage from Lightning property attacks pro{nl}Fähigkeits-Level.
+SKILL_20150714_004432	Enemies frozen nach a Cryomancer will receive 10% additional damage from Blitz property attacks pro{nl}Fähigkeits-Level.
 SKILL_20150714_004433	Erhöht die Schadensausteilung an einem{nl}Feind mit [Telekinesis] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004434	Erhöht die Schadensausteilung an einem{nl}Feind mit [Psychic Pressure] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004435	Erhöht die Schadensausteilung an einem{nl}Feind mit [Magnetic Force] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004436	Enemies hit nach [Psychic Pressure] have a 10% chance per Fähigkeits-Level to become afflicted with [Betäubung] for 1 Sekunde.
 SKILL_20150714_004437	Erhöht evasion nach 10% pro Fähigkeits-Level, wenn using [Gravity Pole].
 SKILL_20150714_004438	The enemy that was shot nach [Magnetic Force] will fall into [Betäubung] status for 1 sec with the probability of 5%.
-SKILL_20150714_004439	Verringert the physical defense nach 5% per Fähigkeits-Level on enemies that are pulled nach [Gravity Pole].
+SKILL_20150714_004439	Verringert the physische Verteidigung nach 5% per Fähigkeits-Level on enemies that are pulled nach [Gravity Pole].
 SKILL_20150714_004440	Swap: Friendly
 SKILL_20150714_004441	[Swap] will be applied to allies and not enemies.
 SKILL_20150714_004442	Hangman's Knot: Additional Schaden
 SKILL_20150714_004443	Enemies hit nach [Hangman's Knot] will receive additional damage equal to 20% of the character's Magie Angriff pro{nl}Fähigkeits-Level.
 SKILL_20150714_004444	Umbilical Cord: Remaining Defense
-SKILL_20150714_004445	10% of the physical defense remains pro Fähigkeits-Level, wenn using [Umbilical Cord].
+SKILL_20150714_004445	10% of the physische Verteidigung remains pro Fähigkeits-Level, wenn using [Umbilical Cord].
 SKILL_20150714_004446	Erhöht die Dauer von [Spiritual Chain] nach 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20150714_004447	Disconnected enemies nach [Unbind] will receive damage. Erhöht attack of magic attack um 10% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004448	Joint Penalty: Lightning
-SKILL_20150714_004449	Enemies affected nach [Joint Penalty] will receive 10% additional damage from Lightning attacks pro{nl}Fähigkeits-Level.
+SKILL_20150714_004448	Joint Penalty: Blitz
+SKILL_20150714_004449	Enemies affected nach [Joint Penalty] will receive 10% additional damage from Blitz attacks pro{nl}Fähigkeits-Level.
 SKILL_20150714_004450	Joint Penalty: Gift
 SKILL_20150714_004451	Enemies affected nach [Joint Penalty] will receive 10% additional damage from Gift attacks pro{nl}Fähigkeits-Level.
-SKILL_20150714_004452	Joint Penalty: Earth
-SKILL_20150714_004453	Enemies affected nach [Joint Penalty] will receive 10% additional damage from Earth attacks pro{nl}Fähigkeits-Level.
+SKILL_20150714_004452	Joint Penalty: Erde
+SKILL_20150714_004453	Enemies affected nach [Joint Penalty] will receive 10% additional damage from Erde attacks pro{nl}Fähigkeits-Level.
 SKILL_20150714_004454	The enemy's movement speed will decrease nach 10% whose size got bigger nach [Swell Body] and Physisch and Magical ATK rate will increase nach 5% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004455	The enemy's movement speed will increase nach 5% whose size got smaller nach [Shrink Body] and Physisch and Magical ATK rate will decrease nach 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004456	Whenever the size of an enemy changes nach [Swell Body], more damage will be incurred which is 30% of Magical ATK rate pro{nl}Fähigkeits-Level.
@@ -4472,7 +4472,7 @@ SKILL_20150714_004471	Erhöht die Schadensausteilung an einem{nl}Feind mit [Mete
 SKILL_20150714_004472	Deals additional damage equal to 50% of magic attack pro Fähigkeits-Level, wenn using [Electrocute] on frozen enemies.
 SKILL_20150714_004473	Whenever an enemy gets shot nach [Hail], it will fall into [Freezing] with 5% probability pro{nl}Fähigkeits-Level.
 SKILL_20150714_004474	While charging [Meteor], Evasion will increase nach 10 pro{nl}Fähigkeits-Level.
-SKILL_20150714_004475	Resistances to Fire, Ice, Lightning Properties will increase nach 5 pro{nl}Fähigkeits-Level.
+SKILL_20150714_004475	Resistances to Feuer, Eis, Blitz Properties will increase nach 5 pro{nl}Fähigkeits-Level.
 SKILL_20150714_004476	Rain: Monsoon
 SKILL_20150714_004477	Has a chance to double the duration of [Rain]. Erhöht the chance um 5% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004478	Erhöht die Schadensausteilung an einem{nl}Feind mit [Summon Familiar] um 1% pro{nl}Fähigkeits-Level.
@@ -4516,7 +4516,7 @@ SKILL_20150714_004515	Erhöht die Kritchance von [Multi Shot] um 1% pro{nl}Fähi
 SKILL_20150714_004516	Erhöht your critical rate during [Kneeling Shot] um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004517	Enemies that are hit nach [Oblique Shot] while [Swift Step] is active will be affected nach [Slow] with a 5% chance pro{nl}Fähigkeits-Level.
 SKILL_20150714_004518	Erhöht your Kritrate nach 10% per Fähigkeits-Level while [Swift Step] aktiv ist.
-SKILL_20150714_004519	Verringert the enemy's physical defense threaded with [Full Draw] um 2% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004519	Verringert the enemy's physische Verteidigung threaded with [Full Draw] um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004520	Erhöht die Schadensausteilung an einem Feind mit [Barrage] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004521	Erhöht die Schadensausteilung an einem Feind mit [High Anchoring] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004522	Erhöht die Schadensausteilung an einem Feind mit [Critical Shot] um 1% pro{nl}Fähigkeits-Level.
@@ -4528,7 +4528,7 @@ SKILL_20150714_004527	Spiral Pfeil: Weakness Angriff
 SKILL_20150714_004528	Has a chance to apply Critical to attacks with the effect of [Spiral Pfeil] to enemies afflicted with Rüstung Break. Erhöht the chance um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004529	Erhöht die Schadensausteilung an einem{nl}Feind mit [Scatter Caltrops] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004530	Erhöht die Schadensausteilung an einem{nl}Feind mit [Stone Shot] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004531	Erhöht die Schadensausteilung an einem{nl}Feind mit [Rapid Fire] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004531	Erhöht die Schadensausteilung an einem{nl}Feind mit [Rapid Feuer] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004532	Erhöht die Schadensausteilung an einem{nl}Feind mit [Teardown] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004533	Erhöht die Dauer von [Scatter Caltrops] nach 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20150714_004534	8% chance per Fähigkeits-Level that caltrops will cause [Bleeding] when stepped on.
@@ -4593,7 +4593,7 @@ SKILL_20150714_004592	Hovering: Duration
 SKILL_20150714_004593	Erhöht die Dauer von [Hovering] nach 3 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150714_004594	Hovering: Angriff Speed Buff
 SKILL_20150714_004595	Your hawk will attack enemies faster while using [Hovering].
-SKILL_20150714_004596	Erhöht die Schadensausteilung an einem{nl}Feind mit [Concentrated Fire] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004596	Erhöht die Schadensausteilung an einem{nl}Feind mit [Concentrated Feuer] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004597	Erhöht die Schadensausteilung an einem{nl}Feind mit [Caracole] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004598	Erhöht die Schadensausteilung an einem{nl}Feind mit [Limacon] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004599	Erhöht die Schadensausteilung an einem{nl}Feind mit [Retreat Shot] um 1% pro{nl}Fähigkeits-Level.
@@ -4609,10 +4609,10 @@ SKILL_20150714_004608	The range that will be applied nach [Safety Zone] will be 
 SKILL_20150714_004609	Guardian Saint: Decreased Schaden
 SKILL_20150714_004610	Verringert the damage taken when applied with a character's [Saint Guardian] um 5% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004611	Erhöht die Schadensausteilung an einem{nl}Feind mit [Zaibas] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004612	Charakter Fire resistance will increase nach 5 per Fähigkeits-Level and the resistance to Darkness will decrease nach 3 pro{nl}Fähigkeits-Level.
+SKILL_20150714_004612	Charakter Feuer resistance will increase nach 5 per Fähigkeits-Level and the resistance to Dunkel will decrease nach 3 pro{nl}Fähigkeits-Level.
 SKILL_20150714_004613	Erhöht die Dauer von [Daino]'s effect nach 40 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150714_004614	Aukuras: Feuer-Eigenschaft Resistance
-SKILL_20150714_004615	Erhöht the character's Fire property resistance nach 14 per Fähigkeits-Level while [Aukuras] aktiv ist. 
+SKILL_20150714_004615	Erhöht the character's Feuer property resistance nach 14 per Fähigkeits-Level while [Aukuras] aktiv ist. 
 SKILL_20150714_004616	Zalciai: Duration
 SKILL_20150714_004617	Erhöht die Dauer von [Zalciai] nach 3 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150714_004618	Zalciai: Magieverstärkung
@@ -4642,7 +4642,7 @@ SKILL_20150714_004641	Whenever an enemy gets shot nach [Effigy], it could be inf
 SKILL_20150714_004642	Verringert an enemy's STR within the range of [Ogouveve] nach 2 pro{nl}Fähigkeits-Level.
 SKILL_20150714_004643	Erhöht the chance of a new zombie emerging from [Damballa] um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004644	Bwa Kayiman: Zombie Defense
-SKILL_20150714_004645	Erhöht the physical defense of the zombies while using [Bwa Kayiman] nach 3 pro{nl}Fähigkeits-Level.
+SKILL_20150714_004645	Erhöht the physische Verteidigung of the zombies while using [Bwa Kayiman] nach 3 pro{nl}Fähigkeits-Level.
 SKILL_20150714_004646	The maximum number of zombies that could be created nach [Zombify] increases nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20150714_004647	Hexing: Dark
 SKILL_20150714_004648	Enemies affected nach [Hexing] will receive 10% additional damage per Fähigkeits-Level from Dark property attacks.
@@ -4670,7 +4670,7 @@ SKILL_20150714_004669	SP consumption of [Vashita Siddhi] will be reduced.
 SKILL_20150714_004670	Vashita Siddhi: Confusion
 SKILL_20150714_004671	The enemies that are in the range of [Vashita Siddhi] will be inflicted with Confusion with a certain probability. The probability will increase nach 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004672	Erhöht die Schadensausteilung an einem{nl}Feind mit [Smite] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004673	Erhöht the resistance to Fire, Ice, Lightning, Gift and Earth properties nach 5 pro Fähigkeits-Level, wenn using [Resist Elements].
+SKILL_20150714_004673	Erhöht the resistance to Feuer, Eis, Blitz, Gift and Erde properties nach 5 pro Fähigkeits-Level, wenn using [Resist Elements].
 SKILL_20150714_004674	Deals damage equal to 20% magic attack per Fähigkeits-Level to enemies hit with [Barrier].
 SKILL_20150714_004675	Restoration: SP Recovery
 SKILL_20150714_004676	Erhöht the character's SP recovery. Erhöht the SP recovery nach 10 pro{nl}Fähigkeits-Level. 
@@ -4726,14 +4726,14 @@ SKILL_20150717_004725	{#DD5500}{ol}[Physidal] - [Stich]{/}{/}{nl}Sets up a trap 
 SKILL_20150717_004726	Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the patern increase.
 SKILL_20150717_004727	Veringert Physische Verteidigung
 SKILL_20150717_004728	Veringert Verteidigung
-SKILL_20150717_004729	Periodically receive Fire damage
+SKILL_20150717_004729	Periodically receive Feuer damage
 SKILL_20150717_004730	SP Absorption
 SKILL_20150717_004731	SP Absorption Status
 SKILL_20150717_004732	Status from receiving SP Absorption
 SKILL_20150717_004733	Silber erhöht
 SKILL_20150717_004734	Erhöht amount of Silber dropped from enemies.
 SKILL_20150717_004735	Erhöht magic defense 
-SKILL_20150717_004736	Decreased magic defense, increased physical defense 
+SKILL_20150717_004736	Decreased magic defense, increased physische Verteidigung 
 SKILL_20150717_004737	Movement speed decrease
 SKILL_20150717_004738	Max SP and Magie DEF increase based on number of [Cloth] armor equipped and Fähigkeits-Level (at least 3 same equipment type).
 SKILL_20150717_004739	Ausweichen increases based on number of [Leder] armor equipped and Fähigkeits-Level. (at least 3 same equipment type).
@@ -4744,8 +4744,8 @@ SKILL_20150717_004743	Erhöht die AoE Angriffsanzahl von [Bash] um 1 pro{nl}Fäh
 SKILL_20150717_004744	Inflicts [Bleeding] on stunned enemies for 5 Sekunden with [Thrust]. Bleeding damage is proportional to the character's STR.
 SKILL_20150717_004745	Enemies hit nach [Umbo Blow] have a 5% chance per Fähigkeits-Level to become afflicted with [Betäubung] for 3 Sekunden.
 SKILL_20150717_004746	Erhöht your AoE attack ratio of [Shield Lob] nach 1 pro{nl}Fähigkeits-Level.
-SKILL_20150717_004747	Erhöht your physical defense nach 10% pro Fähigkeits-Level, wenn [Guard] aktiv ist.
-SKILL_20150717_004748	Erhöht the physical defense increase effect of [Cross Guard] nach 1 pro{nl}Fähigkeits-Level.
+SKILL_20150717_004747	Erhöht your physische Verteidigung nach 10% pro Fähigkeits-Level, wenn [Guard] aktiv ist.
+SKILL_20150717_004748	Erhöht the physische Verteidigung increase effect of [Cross Guard] nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20150717_004749	Cartar Stroke: Erhöht Knockback
 SKILL_20150717_004750	Erhöht die AoE Angriffsanzahl von [Wagon Wheel] um 1.
 SKILL_20150717_004751	Deals additional damage equal to 50% physical attack to knock backed enemies with [Cartar Stroke].
@@ -4759,7 +4759,7 @@ SKILL_20150717_004758	Warcry: Add Target
 SKILL_20150717_004759	Inflicts the target with [Slow] for Sekunden and increases the duration of [Slow] nach 3/2/1 Sekunden per Fähigkeits-Level on small/medium/Groß sized monsters respectively with [Montano]
 SKILL_20150717_004760	Spreads [Burn] equal to amount of your Fähigkeits-Level when killing nearnach enemies affected nach [Burn] with [Targe Smash].
 SKILL_20150717_004761	Enemies pushed back nach [Rush] have a 1% chance per Fähigkeits-Level to be afflicted with [Betäubung] for 2 Sekunden.
-SKILL_20150717_004762	Changes the property of [Earth Wave] to the Earth property.
+SKILL_20150717_004762	Changes the property of [Erde Wave] to the Erde property.
 SKILL_20150717_004763	Applies [Slow] with a 4 Sekunden duration after [Arrest] ends. Erhöht die Dauer von [Slow] from Lv2 nach 0.4 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150717_004764	An enemy hit with [Keelhauling] will be affected nach the [Bleeding] status. Erhöht die Dauer von [Bleeding] nach 1 Sekunde per Fähigkeits-Level, the bleeding damage is based on your STR.
 SKILL_20150717_004765	Phalanx: Slow
@@ -4768,8 +4768,8 @@ SKILL_20150717_004767	Erhöht reflect damage of [Reflect Shield] nach 1 per Fäh
 SKILL_20150717_004768	Erhöht the physical and magic attack debuff effect of [Lethargy] nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20150717_004769	Angriff monster in [sleep] state with [Energy Bolt] to give additional damage of 50% of Magie attack.
 SKILL_20150717_004770	Enemies hit nach [Fireball] have a 10% chance per Fähigkeits-Level to receive flame damage  for 5 Sekunden. Flame damage is based on the character's INT.
-SKILL_20150717_004771	Erhöht the Fire property damage for 5 Sekunden nach 5 per Fähigkeits-Level, when an ally steps on [Fire Wall].
-SKILL_20150717_004772	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease nach 10% for 5 secs.
+SKILL_20150717_004771	Erhöht the Feuer-Eigenschaftschaden for 5 Sekunden nach 5 per Fähigkeits-Level, when an ally steps on [Feuer Wall].
+SKILL_20150717_004772	When an enemy is near [Enchant Feuer] range, the enemy's Feuer resistance will decrease nach 10% for 5 secs.
 SKILL_20150717_004773	Enemies hit nach [Magnetic Force] have a 5% chance per Fähigkeits-Level to become afflicted with [Betäubung] for 4 Sekunden.
 SKILL_20150717_004774	Enemies hit nach [Hangman's Knot] will receive additional damage equal to 20% magic attack pro{nl}Fähigkeits-Level.
 SKILL_20150717_004775	Hangman's Knot: Splash Defense
@@ -4784,8 +4784,8 @@ SKILL_20150717_004783	Deals damage equal to 20% magic attack when changing the e
 SKILL_20150717_004784	When you attack an enemy affected nach [Swell Body] while [Left Arm Enhancement] is active, it will continuously apply the [Attacked Weakened] status effect. Erhöht the duration nach 8 Sekunden per Fähigkeits-Level and [Attacked Weakened] can stack up to 10 times.
 SKILL_20150717_004785	Enemies hit nach [Hail] have a 5% chance per Fähigkeits-Level to be afflicted with [Freeze] for 5 Sekunden.
 SKILL_20150717_004786	Erhöht your evasion nach 10% per Fähigkeits-Level while charging [Meteor].
-SKILL_20150717_004787	Using Fire property attacks to finish nearnach enemies will cause an explosion and splash damage nach 80% with a 30% chance.
-SKILL_20150717_004788	Using Ice property attacks to finish enemies will slow down nearnach enemies with a 50% chance for 6 Sekunden.
+SKILL_20150717_004787	Using Feuer property attacks to finish nearnach enemies will cause an explosion and splash damage nach 80% with a 30% chance.
+SKILL_20150717_004788	Using Eis property attacks to finish enemies will slow down nearnach enemies with a 50% chance for 6 Sekunden.
 SKILL_20150717_004789	Deals damage to nearnach enemies with a 1% chance pro Fähigkeits-Level, wenn the summoned familiar of [Summon Familiar] explodes itself.
 SKILL_20150717_004790	Verringert the cooldown of [Angriff Ground] nach 2 Sekunden.
 SKILL_20150717_004791	Verringert the cooldown of [Hold] nach 2 Sekunden.
@@ -4807,14 +4807,14 @@ SKILL_20150717_004806	Veringert die Physische Verteidigung von Feinden um 10% pr
 SKILL_20150717_004807	Tumbleweed of [Broom Trap] will be reduced nach 0.5 secs per Fähigkeits-Level and the number of rotations will decrease nach 0.5 pro{nl}Fähigkeits-Level.
 SKILL_20150717_004808	Erhöht die AoE Angriffsanzahl von [Claymore] um 1 pro{nl}Fähigkeits-Level.
 SKILL_20150717_004809	When an enemy launched nach [Punji Stake] hits the ground, it and nearnach enemies will be dealt 50% of physical attack as damage.
-SKILL_20150717_004810	Verringert the physical defense of an enemy attacked with [Retrieve] nach 10 pro{nl}Fähigkeits-Level.
+SKILL_20150717_004810	Verringert the physische Verteidigung of an enemy attacked with [Retrieve] nach 10 pro{nl}Fähigkeits-Level.
 SKILL_20150717_004811	Provides immunity to [Gift] for 2 Sekunden per Fähigkeits-Level to a character whose [Gift] has been cured due to [Detoxify].
 SKILL_20150717_004812	Maintains [Gift] nach 2 Sekunden pro Fähigkeits-Level, wenn enemies move outside the range of [Throw Gu Pot].
 SKILL_20150717_004813	Enemies within the range of [Scan] have a chance to be afflicted with [Verwirrung] for 5 Sekunden. Erhöht the chance um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage equal to [Fähigkeits-Level] every 2 Sekunden. Erhöht the damage pro{nl}Fähigkeits-Level.
 SKILL_20150717_004815	Inflicts the enemy with [Massive Bleeding] for 10 Sekunden when attacked with [Backstab] while affected nach bleeding. Erhöht the duration nach 1 Sekunde pro{nl}Fähigkeits-Level. Massive Bleeding damage is proportional to the character's STR and physical attack.
 SKILL_20150717_004816	Erhöht the range of [Lachrymator] to 75.
-SKILL_20150717_004817	Further decreases an enemy's physical defense nach 1% pro Fähigkeits-Level, wenn attacked nach [Bodkin Point].
+SKILL_20150717_004817	Further decreases an enemy's physische Verteidigung nach 1% pro Fähigkeits-Level, wenn attacked nach [Bodkin Point].
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 Sekunden. Burn damage is proportional to the character's physical attack.
 SKILL_20150717_004819	Enemies hit nach the flames [Magie Pfeil] will be afflicted with [Silence] nach a certain chance. Erhöht the chance um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150717_004820	Allows you to create arrows used for Fletcher skills. Pfeil Crafting is available while in Rest Mode.
@@ -4823,7 +4823,7 @@ SKILL_20150717_004822	Erhöht the chance of stun nach 2% pro Fähigkeits-Level, 
 SKILL_20150717_004823	Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Defense]. [Weakened Defense] can be stacked up to 10 times. 
 SKILL_20150717_004824	Erhöht the range applied nach [Safety Zone] to 15.
 SKILL_20150717_004825	HP recovery of [Aukuras] increases nach 1 pro{nl}Fähigkeits-Level.
-SKILL_20150717_004826	Erhöht the character's Fire property resistance and decreases the Dark property resistance nach 5 and 3 per Fähigkeits-Level respectively.
+SKILL_20150717_004826	Erhöht the character's Feuer property resistance and decreases the Dark property resistance nach 5 and 3 per Fähigkeits-Level respectively.
 SKILL_20150717_004827	[Zaibas] is affected nach the character's AoE attack ratio and inflicts damage on multiple target at once. (Total count does not increase.)
 SKILL_20150717_004828	Erhöht the range of [Melstis] to 50. 
 SKILL_20150717_004829	Sacrament: Dunkel-Eigenschaft Resistance
@@ -4835,7 +4835,7 @@ SKILL_20150717_004834	Erhöht the range of [Ogouveve] to 110.
 SKILL_20150717_004835	Verringert the cooldown of [Statue der Göttin Vakarine] nach 10 Sekunden.
 SKILL_20150717_004836	Out of Body: Ausweichen
 SKILL_20150717_004837	Erhöht the body's evasion nach 10% per Fähigkeits-Level while [Out of Body] aktiv ist. 
-SKILL_20150717_004838	Verringert an enemy's physical defense nach 30% with a chance of 10% pro Fähigkeits-Level, wenn using a basic attack in the Out of Body state.
+SKILL_20150717_004838	Verringert an enemy's physische Verteidigung nach 30% with a chance of 10% pro Fähigkeits-Level, wenn using a basic attack in the Out of Body state.
 SKILL_20150717_004839	Verringert the SP cost of [Vashita Siddhi] nach 10. 
 SKILL_20150717_004840	Enemies within the range of [Vashita Siddhi] have a chance to be afflicted with [Verwirrung] for 5 Sekunden. Erhöht the chance um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150717_004841	HP recovery effect of [Restoration] increases per Fähigkeits-Level
@@ -4863,7 +4863,7 @@ SKILL_20150724_004862	Lv3 Deprotected Zone erforderlich
 SKILL_20150724_004863	Pyromancer 1st Circle erforderlich
 SKILL_20150724_004864	Cryomancer 1st Circle erforderlich
 SKILL_20150724_004865	Lv3 Hovering erforderlich
-SKILL_20150724_004866	Lv3 Ice Wall erforderlich
+SKILL_20150724_004866	Lv3 Eis Wall erforderlich
 SKILL_20150724_004867	Lv3 Cartar Stroke erforderlich
 SKILL_20150724_004868	Lv3 Cross Guard erforderlich
 SKILL_20150724_004869	Highlander 2. Rang erforderlich
@@ -4933,7 +4933,7 @@ SKILL_20150729_004932	Uses the highest abilities between you and allies linked n
 SKILL_20150729_004933	Shrink the size of your target.
 SKILL_20150729_004934	Enlarge the size of your target. Erhöht the target's HP and maximum HP nach its maximum HP. Doubles EXP gained and loot dropped.
 SKILL_20150729_004935	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Dauer: 10 Sekunden
-SKILL_20150729_004936	Dauer: #{CaptionTime}# Sekunden{nl}Chance of doubling the Dauer: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Schaden: +35%{nl}Angriff on {#DD5500}{ol}Fire{/}{/}Property Ziele: #{SkillAtkAdd}#
+SKILL_20150729_004936	Dauer: #{CaptionTime}# Sekunden{nl}Chance of doubling the Dauer: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Blitz{/}{/}Property Schaden: +35%{nl}Angriff on {#DD5500}{ol}Feuer{/}{/}Property Ziele: #{SkillAtkAdd}#
 SKILL_20150729_004937	Salamion Dauer: #{CaptionTime}# Sekunden{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Schaden: +#{CaptionRatio}#
 SKILL_20150729_004938	nach manipulating mal, you can let a monster appear at the same location where it was defeated.
 SKILL_20150729_004939	Movement Speed: +#{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden
@@ -4972,8 +4972,8 @@ SKILL_20150729_004971	Testudo
 SKILL_20150729_004972	Tersio Formation.
 SKILL_20150729_004973	Phalanx Formation.
 SKILL_20150729_004974	Periodically receive Gift damage
-SKILL_20150729_004975	Lightning Shock
-SKILL_20150729_004976	Periodically receiving Lightning property damage
+SKILL_20150729_004975	Blitz Shock
+SKILL_20150729_004976	Periodically receiving Blitz-Eigenschaftschaden
 SKILL_20150729_004977	Physisch DEF, Magie DEF decreases
 SKILL_20150729_004978	MP decreases
 SKILL_20150729_004979	Schaden taken increase
@@ -4982,8 +4982,8 @@ SKILL_20150729_004981	Lunacy
 SKILL_20150729_004982	Release Lunacy
 SKILL_20150729_004983	Physisch ATK increases, Movement Speed increases, Physisch DEF decreases
 SKILL_20150729_004984	Enemies cannot jump when attacked with [Skull Swing].
-SKILL_20150729_004985	Enchant Fire: Decreased Feuer-Eigenschaft Resistance
-SKILL_20150729_004986	Reduces the Fire property resistance nach 10% on nearnach enemies when [Enchant Fire] is casted for 5 Sekunden pro{nl}Fähigkeits-Level.
+SKILL_20150729_004985	Enchant Feuer: Decreased Feuer-Eigenschaft Resistance
+SKILL_20150729_004986	Reduces the Feuer property resistance nach 10% on nearnach enemies when [Enchant Feuer] is casted for 5 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150729_004987	[Stop] can also stop boss monsters but once released, it will not be stopped again.
 SKILL_20150729_004988	Heal: Remove Schaden
 SKILL_20150729_004989	[Heal] will not inflict damage and react to enemies.
@@ -4991,7 +4991,7 @@ SKILL_20150729_004990	Erhöht the range of [Melstis] to 80.
 SKILL_20150729_004991	Erhöht the maximum number of zombies from [Zombify] nach 1.
 SKILL_20150730_004992	Summon a devil based on the card placed in the Grimoire. The attack and defense of the summoned devil is affected nach your INT and SPR respectively. The summoned devil's stats increase nach 10% for each star on the card. Only Devil-type cards can be placed in the Grimoire.
 SKILL_20150730_004993	Creates a Shoggoth based on the card placed in the Necronomicon. The attack and defense of the summoned devil is affected nach your INT and SPR. Erhöht the abilities nach 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
-SKILL_20150730_004994	Your companion bites and holds onto a target. Verringert the physical defense of the bitten target. You receive a critical chance bonus against the target.
+SKILL_20150730_004994	Your companion bites and holds onto a target. Verringert the physische Verteidigung of the bitten target. You receive a critical chance bonus against the target.
 SKILL_20150730_004995	Physische Verteidigung: -#{CaptionRatio}# {nl}Additional Kritchance: 30%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150803_004996	Quick Cast
 SKILL_20150803_004997	{#DD5500}{ol}[Physisch] - [Geschoss]{/}{/}{nl}Kneel to increase focus. Erhöht your attack, range and attack speed.
@@ -5032,13 +5032,13 @@ SKILL_20150804_005031	Angriff 300% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{Capt
 SKILL_20150804_005032	{#DD5500}{ol}[Physisch] - [Gift] - [Stich]{/}{/}{nl}Launches a contagious poisonous arrow. Gift spreads through the target whenever it gets attacked. 
 SKILL_20150804_005033	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl} Launches an arrow that explodes on enemy impact in a cross.
 SKILL_20150804_005034	Angriff: 250% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}AoE Angriffsanzahl: #{SkillSR}#
-SKILL_20150804_005035	Reflects #{CaptionRatio}#% of the target's physical attack{nl}Maximum Dauer: #{CaptionTime}# Sekunden{nl}Unable to block magic & long-ranged projectiles
+SKILL_20150804_005035	Reflektiert #{CaptionRatio}#% of the target's physical attack{nl}Maximum Dauer: #{CaptionTime}# Sekunden{nl}Unable to block magic & long-ranged projectiles
 SKILL_20150804_005036	Cartar Stroke: Remove Knockback
 SKILL_20150804_005037	Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
-SKILL_20150804_005038	Erhöht your Fire, Ice and Lightning properties nach 5. From Lv2, it increases nach 1 pro{nl}Fähigkeits-Level. 
+SKILL_20150804_005038	Erhöht your Feuer, Eis and Blitz properties nach 5. From Lv2, it increases nach 1 pro{nl}Fähigkeits-Level. 
 SKILL_20150804_005039	Erhöht the reflection of [Iron Skin] um 5% pro{nl}Fähigkeits-Level.
 SKILL_20150807_005040	While [Aggressor] is active, the character's added critical attack is proportional to the physical attack. Erhöht an addtional amount um 5% pro{nl}Fähigkeits-Level.
-SKILL_20150918_005041	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Angriff an enemy nach throwing your shield. Your shield drops on the targeted area, and your physical defense decreases based on the value of the equipment. The shield may be picked up or it'll automatically return to your inventory after a certain mal. The decreased physical defense will return back to normal once your shield is back in the inventory.
+SKILL_20150918_005041	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Angriff an enemy nach throwing your shield. Your shield drops on the targeted area, and your physische Verteidigung decreases based on the value of the equipment. The shield may be picked up or it'll automatically return to your inventory after a certain mal. The decreased physische Verteidigung will return back to normal once your shield is back in the inventory.
 SKILL_20150918_005042	Umbo Thrust
 SKILL_20150918_005043	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Heavily strike enemies using the spikes on your shield. Enemies struck nach the skill may temporarily lose the effects from their armors.
 SKILL_20150918_005044	Skyliner
@@ -5072,7 +5072,7 @@ SKILL_20150918_005071	Dust Devil
 SKILL_20150918_005072	{#DD5500}{ol}[Physisch] - [Hieb]{/}{/}{nl}As you spin, attack an enemy repeatedly using a weapon in each hand. The enemy will be immobilized temporarily.
 SKILL_20150918_005073	Hexen Dropper
 SKILL_20150918_005074	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Use a weapon in each hand to deal successive strikes on an enemy.
-SKILL_20150918_005075	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Inflicts damage on a frozen enemy in front of you. There is a small chance to remove freeze from the enemy when it takes damage.
+SKILL_20150918_005075	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Inflicts damage on a frozen enemy in front of you. There is a small chance to remove freeze from the enemy when it takes damage.
 SKILL_20150918_005076	Creates a curtain of ice for defense. Inflicts damage after successfully blocking an attack from an enemy. There is a certain chance to freeze nearnach enemies. 
 SKILL_20150918_005077	Creates a strong gust of wind that pushes enemies. When inflicting damage on a frozen enemy, it will unfreeze.
 SKILL_20150918_005078	Tighten the link to gather up the linked enemies in front of you.
@@ -5134,7 +5134,7 @@ SKILL_20150918_005133	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRat
 SKILL_20150918_005134	Push enemies away and create a barrier of protection which doesn't allow others to enter for some mal. Erhöht the magic defense of allies who are inside the barrier.
 SKILL_20150918_005135	Magie Defense: +#{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150918_005136	Conviction
-SKILL_20150918_005137	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Lightning, Gift of the enemy that received the attack will decrease.
+SKILL_20150918_005137	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Feuer, Eis, Blitz, Gift of the enemy that received the attack will decrease.
 SKILL_20150918_005138	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}AoE Angriffsanzahl: #{SkillSR}#{nl}All Properties Resistance: -#{CaptionRatio2}#
 SKILL_20150918_005139	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Use your trained fingertips to attack an enemy nach inflicting an internal injury.
 SKILL_20150918_005140	{#DD5500}{ol}[Physisch]{/}{/}{nl}Gather force then shoot forward. The enemy is pushed away and will receive damage.
@@ -5156,7 +5156,7 @@ SKILL_20150918_005155	Immune to Lv1 status ailments
 SKILL_20150918_005156	Erhöht magic defense.
 SKILL_20150918_005157	Shield Bash-Mix stat
 SKILL_20150918_005158	Vulnerable to Stich attacks
-SKILL_20150918_005159	Decreased Fire, Ice, Lightning, Earth and Gift properties
+SKILL_20150918_005159	Decreased Feuer, Eis, Blitz, Erde and Gift properties
 SKILL_20150918_005160	Block Erhöht
 SKILL_20150918_005161	Decreased accuracy
 SKILL_20150918_005162	Agvenipa Set Buff
@@ -5198,8 +5198,8 @@ SKILL_20150918_005197	Shield Bash: Verbessern
 SKILL_20150918_005198	Erhöht die Schadensausteilung an einem{nl}Feind mit [Shield Bash] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150918_005199	High Kick: Verbessern
 SKILL_20150918_005200	Erhöht die Schadensausteilung an einem{nl}Feind mit [High Kick] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150918_005201	Earth Wave: Remove Knockdown
-SKILL_20150918_005202	[Earth Wave] no longer knocks enemies down. (Only applies if the attribute is set to ON)
+SKILL_20150918_005201	Erde Wave: Remove Knockdown
+SKILL_20150918_005202	[Erde Wave] no longer knocks enemies down. (Only applies if the attribute is set to ON)
 SKILL_20150918_005203	Steed Charge: Remove Knockdown
 SKILL_20150918_005204	[Steed Charge] no longer knocks enemies down. (Only applies if the attribute is set to ON)
 SKILL_20150918_005205	Doom Spike
@@ -5246,10 +5246,10 @@ SKILL_20151001_005245	{#DD5500}{ol}[Physisch] - [Hieb]{/}{/}{nl}Raises your swor
 SKILL_20151001_005246	{#DD5500}{ol}[Physisch] - [Hieb]{/}{/}{nl}Löse einen starken Angriff auf Feinden durch Drehungen deines Körpers aus. Erhöht deine Kritrate wenn deine Angriffe und zusätzlicher Schaden einen betäubten Feind treffen.
 SKILL_20151001_005247	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Kritrate: +50{nl}AoE Angriffsanzahl: #{SkillSR}#
 SKILL_20151001_005248	Flame Ground
-SKILL_20151001_005249	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Creates a magic circle of flames at a targeted area. Deals continuous flame damage to enemies within the magic circle.
+SKILL_20151001_005249	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Creates a magic circle of flames at a targeted area. Deals continuous flame damage to enemies within the magic circle.
 SKILL_20151001_005250	Freezing Sphere
 SKILL_20151001_005251	Frost Cloud
-SKILL_20151001_005252	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Creates a magic circle of ice at a targeted area. Deals continuous ice damage to enemies in the magic circle.
+SKILL_20151001_005252	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Creates a magic circle of ice at a targeted area. Deals continuous ice damage to enemies in the magic circle.
 SKILL_20151001_005253	Corpse Tower Dauer: #{CaptionRatio}# Sekunden{nl}Number of Blocks: #{CaptionTime}#{nl}Verbraucht #{CaptionRatio2}# Corpse(s)
 SKILL_20151001_005254	Split Pfeil
 SKILL_20151001_005255	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Deals damage to two nearnach enemies with a bouncing arrow once an attack lands.
@@ -5298,7 +5298,7 @@ SKILL_20151016_005297	Creates a formation which brings squad members together. T
 SKILL_20151016_005298	Cooldown mal reduced nach 50%{nl}Minimum/Maximum Dauer: #{CaptionRatio}# Sekunden ~ #{CaptionRatio2}# Sekunden
 SKILL_20151016_005299	Summon Carriage
 SKILL_20151016_005300	{#993399}{ol}[Magie]{/}{/}{nl}Creates a gravity field in front of you in a line that pulls nearnach enemies into it.
-SKILL_20151016_005301	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Schadens an enemy nach throwing an Ice Sphere.
+SKILL_20151016_005301	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Schadens an enemy nach throwing an Eis Sphere.
 SKILL_20151016_005302	Cannon Shot
 SKILL_20151016_005303	Shootdown
 SKILL_20151016_005304	Siege Burst
@@ -5332,11 +5332,11 @@ SKILL_20151016_005331	Zweihand-Speer Mastery: Penetration
 SKILL_20151016_005332	Erhöht your block penetration nach 10% pro Fähigkeits-Level, wenn equipped with a [Zweihand-Speer]
 SKILL_20151016_005333	Rapier Master: Stich
 SKILL_20151016_005334	Erhöht your [Stich] damage nach 5% pro Fähigkeits-Level, wenn equipped with a [Rapier]. (Does not apply to basic attacks)
-SKILL_20151016_005335	Erhöht the character's Fire property attack nach 3 pro Fähigkeits-Level, wenn equipped with a [Stab].
+SKILL_20151016_005335	Erhöht the character's Feuer property attack nach 3 pro Fähigkeits-Level, wenn equipped with a [Stab].
 SKILL_20151016_005336	Subzero Shield: Counterattack Verbessern
 SKILL_20151016_005337	While equipped with a shield when [Subzero Shield] is active, there is an increase in counter attack damage based on your shield's defense. Counter attack damage is enhanced nach 50% pro{nl}Fähigkeits-Level.
 SKILL_20151016_005338	Shield Mastery: Enchant
-SKILL_20151016_005339	Erhöht magic defense and Ice property resistance equal to 25% of your equipped [Shield]'s defense pro{nl}Fähigkeits-Level.
+SKILL_20151016_005339	Erhöht magic defense and Eis property resistance equal to 25% of your equipped [Shield]'s defense pro{nl}Fähigkeits-Level.
 SKILL_20151016_005340	Freezing Sphere: Verbessern
 SKILL_20151016_005341	Erhöht die Schadensausteilung an einem{nl}Feind mit [Freezing Sphere] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151016_005342	Verringert the critical resistance of an enemy affected nach [Slow] equal to 15% of your INT.
@@ -5379,14 +5379,14 @@ SKILL_20151022_005378	Mijin no Jutsu
 SKILL_20151022_005379	Bunshin no Jutsu
 SKILL_20151022_005380	Mokuton no Jutsu
 SKILL_20151022_005381	Katon no Jutsu
-SKILL_20151022_005382	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing the enemy.
-SKILL_20151022_005383	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Make ice spikes sprout out in a line to inflict damage. Has a chance of freezing enemies.
-SKILL_20151022_005384	{#993399}{ol}[Magie] - [Ice]{/}{/}{nl}Ride on an enormous snowball and crush any enemies in your way.
+SKILL_20151022_005382	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing the enemy.
+SKILL_20151022_005383	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Make ice spikes sprout out in a line to inflict damage. Has a chance of freezing enemies.
+SKILL_20151022_005384	{#993399}{ol}[Magie] - [Eis]{/}{/}{nl}Ride on an enormous snowball and crush any enemies in your way.
 SKILL_20151022_005385	Angriff: 400% +#{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}# Sekunden{nl}AoE Angriffsanzahl: #{SkillSR}#
 SKILL_20151022_005386	{#993399}{ol}[Magie]{/}{/}
 SKILL_20151022_005387	Fires a shell to targeted enemies on the ground. Deals 50% damage on Flying-type enemies.
 SKILL_20151022_005388	Fires a shell to targeted airborne enemies. Deals 50% damage on enemies on the ground.
-SKILL_20151022_005389	Fire on the ground using a howitzer. Enemies hit nach the fire will knock down and deals 5x damage to the enemy's structure.
+SKILL_20151022_005389	Feuer on the ground using a howitzer. Enemies hit nach the fire will knock down and deals 5x damage to the enemy's structure.
 SKILL_20151022_005390	Deals damage to multiple enemies nach launching a cannon in an arc shape towards the ground.
 SKILL_20151022_005391	Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Glyph Dauer: 15 Sekunden
 SKILL_20151022_005392	Carve a statue of Ausrine, the goddess of the Morning Star. Those in your party who circle around the Goddess Statue counter-clockwise are granted divine protection and become immune to damage temporarily.
@@ -5419,7 +5419,7 @@ SKILL_20151022_005418	Use Rifles
 SKILL_20151022_005419	Ermögtlicht das verwenden von Waffentype [Gewehr].
 SKILL_20151022_005420	Tax Payment
 SKILL_20151022_005421	You can pay tax through the Master. A quick way to become a model citizen is nach paying a lot and on mal.
-SKILL_20151022_005422	Erhöht your physical defense nach 10% pro Fähigkeits-Level, wenn [Guard] aktiv ist.
+SKILL_20151022_005422	Erhöht your physische Verteidigung nach 10% pro Fähigkeits-Level, wenn [Guard] aktiv ist.
 SKILL_20151022_005423	Sequentially fling up to 3 enemies with [Iron Hook]. You cannot use [Keel Hauling] while capturing multiple enemies. (Unable to turn ON/OFF during [Guard])
 SKILL_20151022_005424	Jolly Roger: Unity
 SKILL_20151022_005425	Nullifies an enemy's attack nach a certain chance when [Jolly Roger] aktiv ist. Applies the chance nach 0.5% per Fähigkeits-Level and increases the chance depending on the amount of pirate members. (However, it does not apply if nobody other than you is a pirate member)
@@ -5480,9 +5480,9 @@ SKILL_20151022_005479	Carve World Tree: Maintain
 SKILL_20151022_005480	Verringert the range of [Carve World Tree], but increases its duration nach 10 Sekunden.
 SKILL_20151022_005481	Statue der Göttin Ausrine: Decreased Cooldown
 SKILL_20151022_005482	Verringert the cooldown of [Statue der Göttin Ausrine] nach 10 Sekunden.
-SKILL_20151022_005483	Verringert the enemy's physical defense nach 30% with a chance of 10% pro Fähigkeits-Level, wenn using a basic attack during Out of Body. (Unable to turn ON/OFF during Out of Body.)
+SKILL_20151022_005483	Verringert the enemy's physische Verteidigung nach 30% with a chance of 10% pro Fähigkeits-Level, wenn using a basic attack during Out of Body. (Unable to turn ON/OFF during Out of Body.)
 SKILL_20151022_005484	Verringert the SP cost per Sekunde of [Vashita Siddhi] nach 0.5% pro{nl}Fähigkeits-Level. 
-SKILL_20151022_005485	Erhöht the chance of nullifying Fire, Ice, Lightning, Gift and Earth property attacks nach 0.8% pro Fähigkeits-Level, wenn [Resist Elements] aktiv ist.
+SKILL_20151022_005485	Erhöht the chance of nullifying Feuer, Eis, Blitz, Gift and Erde property attacks nach 0.8% pro Fähigkeits-Level, wenn [Resist Elements] aktiv ist.
 SKILL_20151022_005486	Resist Elements: Verbessern
 SKILL_20151022_005487	Erhöht the property resistance of [Resist Elements] nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20151022_005488	Erhöht Magie Defense: Duration
@@ -5545,7 +5545,7 @@ SKILL_20151102_005544	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires multiple bullets in
 SKILL_20151102_005545	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Shoot forward while pushing yourself back with recoil.
 SKILL_20151102_005546	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Maneuver quickly with your mount and attack enemies in front.
 SKILL_20151102_005547	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Shoot repeatedly in the opposite direction you are moving.
-SKILL_20151102_005548	Covering Fire
+SKILL_20151102_005548	Covering Feuer
 SKILL_20151102_005549	Headshot
 SKILL_20151102_005550	Snipe
 SKILL_20151102_005551	Penetration Shot
@@ -5568,13 +5568,13 @@ SKILL_20151102_005567	Invocation.
 SKILL_20151102_005568	Invocation: Deliver
 SKILL_20151102_005569	Erhöht owner's Dark property attack
 SKILL_20151102_005570	Erhöht maximum HP.
-SKILL_20151102_005571	Reflects an enemy's attack.
+SKILL_20151102_005571	Reflektiert an enemy's attack.
 SKILL_20151102_005572	Fumigate: Purification
 SKILL_20151102_005573	Erhöht Gift property resistance.
 SKILL_20151102_005574	Fumigate: Prevention
 SKILL_20151102_005575	Erhöht chance of resisting Lv3 status ailments
 SKILL_20151102_005576	Decreased Physische Verteidigung
-SKILL_20151102_005577	Decreased physical defense.
+SKILL_20151102_005577	Decreased physische Verteidigung.
 SKILL_20151102_005578	Decreased Magie Defense
 SKILL_20151102_005579	Decreased magic defense.
 SKILL_20151102_005580	Decreased Physisch Angriff
@@ -5585,7 +5585,7 @@ SKILL_20151102_005584	Decreased movement speed.
 SKILL_20151102_005585	Gae Bulg: Angriff Zone
 SKILL_20151102_005586	Erhöht physical attack and magic attack
 SKILL_20151102_005587	Gae Bulg: Defense Zone
-SKILL_20151102_005588	Erhöht physical defense and magic defense
+SKILL_20151102_005588	Erhöht physische Verteidigung and magic defense
 SKILL_20151102_005589	Erhöht block penetration nach 10% pro Fähigkeits-Level, wenn attacking an enemy with a [Zweihand-Speer].
 SKILL_20151102_005590	Inflicts [Bleeding] on an enemy attacked with [Keel Hauling] for 5 Sekunden. Erhöht die Dauer von [Bleeding] nach 1 Sekunde pro{nl}Fähigkeits-Level. Bleeding damage is proportional to the character's STR.
 SKILL_20151102_005591	Kunai: Verbessern
@@ -5614,7 +5614,7 @@ SKILL_20151102_005613	Serpentine: Bleeding
 SKILL_20151102_005614	Enemies hit nach [Serpentine] have a 2% chance per Fähigkeits-Level to be afflicted with [Bleeding] for 8 Sekunden. Bleeding damage is proportional to the character's physical attack.
 SKILL_20151102_005615	Gae Bulg: Verbessern
 SKILL_20151102_005616	Erhöht die Schadensausteilung an einem{nl}Feind mit [Gae Bulg] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20151102_005617	Creates a defense zone for 15 Sekunden where the spear is thrown. Erhöht physical defense and magic defense nach 2% for party members within the zone.
+SKILL_20151102_005617	Creates a defense zone for 15 Sekunden where the spear is thrown. Erhöht physische Verteidigung and magic defense nach 2% for party members within the zone.
 SKILL_20151102_005618	Creates an attack zone for 15 Sekunden where the spear is thrown. Erhöht physical attack and magic attack nach 2% for party members within the zone.
 SKILL_20151102_005619	Dragon Soar: Verbessern
 SKILL_20151102_005620	Erhöht die Schadensausteilung an einem{nl}Feind mit [Dragon Soar] um 1% pro{nl}Fähigkeits-Level.
@@ -5622,12 +5622,12 @@ SKILL_20151102_005621	Dragon Soar: Shock
 SKILL_20151102_005622	Enemies hit nach [Dragon Soar] have a 5% chance per Fähigkeits-Level to be afflicted with [Shock] for 10 Sekunden.
 SKILL_20151102_005623	Umbilical Cord: Erhöht Nullification
 SKILL_20151102_005624	Erhöht the chance to nullify an enemy's attack while using [Umbilical Cord] um 2% pro{nl}Fähigkeits-Level.
-SKILL_20151102_005625	Joint Penalty: Lightning
-SKILL_20151102_005626	Deals 10% additional damage per Fähigkeits-Level of the Lightning property attack to enemies affected nach [Joint Penalty].
+SKILL_20151102_005625	Joint Penalty: Blitz
+SKILL_20151102_005626	Deals 10% additional damage per Fähigkeits-Level of the Blitz property attack to enemies affected nach [Joint Penalty].
 SKILL_20151102_005627	Joint Penalty: Gift
 SKILL_20151102_005628	Deals 10% additional damage per Fähigkeits-Level of the Gift property attack to enemies affected nach [Joint Penalty].
-SKILL_20151102_005629	Joint Penalty: Earth
-SKILL_20151102_005630	Deals 10% additional damage per Fähigkeits-Level of the Earth property attack to enemies affected nach [Joint Penalty].
+SKILL_20151102_005629	Joint Penalty: Erde
+SKILL_20151102_005630	Deals 10% additional damage per Fähigkeits-Level of the Erde property attack to enemies affected nach [Joint Penalty].
 SKILL_20151102_005631	Joint Penalty: Erhöht Nullification
 SKILL_20151102_005632	Verringert the chance to nullify attacks from enemies affected nach [Joint Penalty] um 5% pro{nl}Fähigkeits-Level.
 SKILL_20151102_005633	Warlock: Dark Angriff
@@ -5683,8 +5683,8 @@ SKILL_20151102_005682	Specifies a more distant location when using [Siege Burst]
 SKILL_20151102_005683	Cannon Blast: Rüstung Break
 SKILL_20151102_005684	Enemies hit nach [Cannon Blast] have a 7% chance per Fähigkeits-Level to be afflicted with [Rüstung Break] for 10 Sekunden.
 SKILL_20151102_005685	Instantly kills a small-sized monster at a 0.5% chance pro Fähigkeits-Level, wenn attacking with a [Rifle].
-SKILL_20151102_005686	Covering Fire: Verbessern
-SKILL_20151102_005687	Erhöht die Schadensausteilung an einem{nl}Feind mit [Covering Fire] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20151102_005686	Covering Feuer: Verbessern
+SKILL_20151102_005687	Erhöht die Schadensausteilung an einem{nl}Feind mit [Covering Feuer] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151102_005688	Headshot: Verbessern
 SKILL_20151102_005689	Erhöht die Schadensausteilung an einem{nl}Feind mit [Headshot] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151102_005690	Snipe: Verbessern
@@ -5785,10 +5785,10 @@ SKILL_20151224_005784	STR: +#{CaptionRatio}#{nl}Dauer: #{CaptionRatio2}# Sekunde
 SKILL_20151224_005785	{#993399}{ol}[Magie]{/}{/}{nl}Angriff continuously with magic bullets. New bullets are shot if it successfully targets an enemy.
 SKILL_20151224_005786	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Bullet Count: #{CaptionRatio2}#
 SKILL_20151224_005787	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: 5 Sekunden
-SKILL_20151224_005788	Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Ice]{/}{/} Dauer: 5 Sekunden{nl}Ice Wall Dauer: 15 Sekunden
+SKILL_20151224_005788	Eis Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Eis]{/}{/} Dauer: 5 Sekunden{nl}Eis Wall Dauer: 15 Sekunden
 SKILL_20151224_005789	Create a curtain of ice for defense. Inflicts damage after blocking enemy attacks and has a chance of freezing enemies.
 SKILL_20151224_005790	Dauer: #{CaptionTime}# Sekunden{nl}Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio2}#%{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: #{CaptionRatio}# Sekunden
-SKILL_20151224_005791	Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio}#%{nl}Ice Tree Dauer: #{CaptionTime}# Sekunden
+SKILL_20151224_005791	Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio}#%{nl}Eis Tree Dauer: #{CaptionTime}# Sekunden
 SKILL_20151224_005792	Evocation
 SKILL_20151224_005793	{#993399}{ol}[Magie] - [Dark]{/}{/}{nl}Angriff enemies with a summoned devil based on the Sekundeary card equipped in the Grimoire.
 SKILL_20151224_005794	{#993399}{ol}[Magie]{/}{/}{nl}Summon and release blood sucking bats against enemies to inflict damage.
@@ -5819,8 +5819,8 @@ SKILL_20151224_005818	Evil Sacrifice
 SKILL_20151224_005819	{#993399}{ol}[Magie]{/}{/}Set the enemies in the targeted area as a sacrifice to the evil spirits. The evil spirits will move towards the targeted area to attack enemies.
 SKILL_20151224_005820	Rune of Destruction
 SKILL_20151224_005821	{#993399}{ol}[Magie]{/}{/}Inflicts powerful damage to enemies in a targeted area. The attacked enemies will deal additional damage to other enemies nach reflecting magic.
-SKILL_20151224_005822	Rune of Ice
-SKILL_20151224_005823	{#993399}{ol}[Magie]{/}{/}Temporarily increases the Ice-type magic of you and your party members, making it more powerful.
+SKILL_20151224_005822	Rune of Eis
+SKILL_20151224_005823	{#993399}{ol}[Magie]{/}{/}Temporarily increases the Eis-type magic of you and your party members, making it more powerful.
 SKILL_20151224_005824	Dauer: #{CaptionTime}# Sekunden{nl}Erhöht the Eis-Eigenschaft skill attacks nach 300%
 SKILL_20151224_005825	Rune of Giants
 SKILL_20151224_005826	{#993399}{ol}[Magie]{/}{/}Creates a magic circle that temporarily changes you or your party member to a giant. Giant players are considered a Groß-type, but will have their attack and defense increased.
@@ -5839,7 +5839,7 @@ SKILL_20151224_005838	Dauer: #{CaptionTime}# Sekunden{nl}Angriff Speed: +30%{nl}
 SKILL_20151224_005839	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Explosionszähler: #{CaptionRatio}#
 SKILL_20151224_005840	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Set up Count: #{CaptionRatio}#
 SKILL_20151224_005841	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Pfeil Count: #{CaptionRatio}#{nl}Set up Range: #{CaptionRatio2}#{nl}Verbraucht 2 Wires
-SKILL_20151224_005842	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}The bitten enemy will have its physical defense reduced while critical chance bonus is applied against the enemy.
+SKILL_20151224_005842	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}The bitten enemy will have its physische Verteidigung reduced while critical chance bonus is applied against the enemy.
 SKILL_20151224_005843	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}The companion bites an airborne enemy and lower it to the ground.
 SKILL_20151224_005844	Begleiter Angriff: +#{CaptionRatio}#{nl}Begleiter Präzision: +#{CaptionRatio}#{nl}Begleiter Kritrate: +#{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Maximum Level: 5
 SKILL_20151224_005845	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}The companion bites and drags the enemy towards their owner.
@@ -5858,14 +5858,14 @@ SKILL_20151224_005857	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Command your h
 SKILL_20151224_005858	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires cannonballs to target enemies on ground. The damage is halved against airborne enemies.
 SKILL_20151224_005859	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires cannonballs to target airborne enemies. The damage is halved against enemies on ground.
 SKILL_20151224_005860	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a howitzer to the ground. 5x damage is dealt to an enemy's structure.
-SKILL_20151224_005861	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fire a cannonball that spread to target all enemies in front of you. The user can be pushed back from the recoil of the shot.
+SKILL_20151224_005861	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Feuer a cannonball that spread to target all enemies in front of you. The user can be pushed back from the recoil of the shot.
 SKILL_20151224_005862	Angriff: 150% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%
 SKILL_20151224_005863	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Angriff multiple enemies nach firing at a targeted area.
 SKILL_20151224_005864	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Aim accurately at the head of an enemy to attack. The attacked enemy will have its INT and SPR temporarily reduced.
 SKILL_20151224_005865	Angriff: 130% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}INT & SPR: - #{CaptionRatio2}#
 SKILL_20151224_005866	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Aim and fire at a far away enemy. The usual range of fire is increased and heavily damages a single enemy.
 SKILL_20151224_005867	Angriff: 150% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}
-SKILL_20151224_005868	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fire continuously in a straight line in front of you until the maximum range of fire. The attacked enemies might be pushed back.
+SKILL_20151224_005868	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Feuer continuously in a straight line in front of you until the maximum range of fire. The attacked enemies might be pushed back.
 SKILL_20151224_005869	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Use the butt of the gun to attack an enemy in close distance.
 SKILL_20151224_005870	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Stab an enemy nach using the bayonet equipped to the rifle. The stabbed enemy might be pushed back.
 SKILL_20151224_005871	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Recovers HP equal to 5% of the maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magie Circle Dauer: 40 Sekunden
@@ -5878,12 +5878,12 @@ SKILL_20151224_005877	Creates a magic circle that raises a dead enemy as a zombi
 SKILL_20151224_005878	STR: +#{CaptionRatio}#{nl}Dauer: #{CaptionRatio2}# Sekunden{nl}Glyph Dauer: 15 Sekunden
 SKILL_20151224_005879	Angriff: 200% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Maximum Ziele: #{CaptionRatio2}#
 SKILL_20151224_005880	Maximum Capsule Count: #{CaptionRatio}#
-SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Earth.{nl}Verringert the SP cost and SP recovery mal for allies who are within the radius of the Goddess Statue.
+SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Erde.{nl}Verringert the SP cost and SP recovery mal for allies who are within the radius of the Goddess Statue.
 SKILL_20151224_005882	Verringert #{CaptionRatio}# SP{nl}SP recovery mal decreases nach 5 Sekunden{nl}Statue Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht 1 Pine Wood
 SKILL_20151224_005883	Carves a statue of Laima, the goddess of fate. {nl}Verringert the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht 1 Cedar Wood
 SKILL_20151224_005885	Angriff: 250% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%
-SKILL_20151224_005886	Temporarily increases the Fire, Ice, Lightning, Gift and Earth property resistances of you and your party members and has a chance of nullifying the listed property attacks. Verringert the magic defense of nearnach enemies on cast. 
+SKILL_20151224_005886	Temporarily increases the Feuer, Eis, Blitz, Gift and Erde property resistances of you and your party members and has a chance of nullifying the listed property attacks. Verringert the magic defense of nearnach enemies on cast. 
 SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magie Defense: -#{SkillFactor}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20151224_005888	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Maximum Exctinction Count: #{CaptionRatio}#
 SKILL_20151224_005889	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Schlag with a powerful hand knife to deal damage on an enemy.
@@ -5896,7 +5896,7 @@ SKILL_20151224_005895	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRat
 SKILL_20151224_005896	Dauer: #{CaptionRatio}# Sekunden{nl}Maximum Level: 1
 SKILL_20151224_005897	{#993399}{ol}[Magie] - [Heilig]{/}{/}{nl}Temporarily creates a magic circle that grants a healing factor. HP will be quickly recovered if you or your allies take damage from an enemy inside the magic circle.
 SKILL_20151224_005898	Dauer: #{CaptionTime}# Sekunden{nl}HP Recovery: #{CaptionRatio}#
-SKILL_20151224_005899	{#993399}{ol}[Magie] - [Fire]{/}{/}{nl}Incinerate enemies with status ailments. The duration of [Incineration] will increase depending on the amount of status ailments on enemies.
+SKILL_20151224_005899	{#993399}{ol}[Magie] - [Feuer]{/}{/}{nl}Incinerate enemies with status ailments. The duration of [Incineration] will increase depending on the amount of status ailments on enemies.
 SKILL_20151224_005900	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Basic Dauer: #{CaptionRatio2}# Sekunden
 SKILL_20151224_005901	Temporarily let you or your allies bleed to prevent further status ailments. This state will be invulnerable to all rank 2 or lower status ailments.
 SKILL_20151224_005902	Dauer: #{CaptionTime}# Sekunden{nl}HP: -#{CaptionRatio}#
@@ -5919,7 +5919,7 @@ SKILL_20151224_005918	Final Angriff Schaden: #{CaptionRatio}#%
 SKILL_20151224_005919	Decrease the level of an enemy depending on the calculated number.
 SKILL_20151224_005920	Additional Enemy Level: -#{CaptionRatio}#
 SKILL_20151224_005921	Last Rites
-SKILL_20151224_005922	Makes the attacks of party members have the Heilig property. Erhöht Heilig property damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.
+SKILL_20151224_005922	Makes the attacks of party members have the Heilig property. Erhöht Heilig-Eigenschaftschaden in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.
 SKILL_20151224_005923	Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Gyslotis
 SKILL_20151224_005924	Deploy Capella
 SKILL_20151224_005925	Deploys a temporary sacellum with a wrapped cloak. The caster and party members are able to simultaneously receive the effects of the caster's Aspersion, Monstrance, Blessing, Sacrament, Stone Skin.
@@ -5946,7 +5946,7 @@ SKILL_20151224_005945	Evocation.
 SKILL_20151224_005946	Reduced SPR and INT.
 SKILL_20151224_005947	Penalty is eased during combat incapability while buff aktiv ist.
 SKILL_20151224_005948	Aspergillum
-SKILL_20151224_005949	Erhöht attack of Ice attribute skills.
+SKILL_20151224_005949	Erhöht attack of Eis attribute skills.
 SKILL_20151224_005950	Erhöht chance of resisting status ailments.
 SKILL_20151224_005951	Erhöht attack and defense.
 SKILL_20151224_005952	Erhöht STR.
@@ -5967,15 +5967,15 @@ SKILL_20151224_005966	Erhöht critical rate
 SKILL_20151224_005967	Physisch Angriff Erhöht
 SKILL_20151224_005968	Erhöht physical attack
 SKILL_20151224_005969	Feuer-Eigenschaft Resistance Erhöht
-SKILL_20151224_005970	Erhöht Fire property resistance
+SKILL_20151224_005970	Erhöht Feuer property resistance
 SKILL_20151224_005971	Eis-Eigenschaft Resistance Erhöht
-SKILL_20151224_005972	Erhöht Ice property resistance
+SKILL_20151224_005972	Erhöht Eis property resistance
 SKILL_20151224_005973	Gift-Eigenschaft Resistance Erhöht
 SKILL_20151224_005974	Erhöht Gift property resistance
 SKILL_20151224_005975	Erd-Eigenschaft Resistance Erhöht
-SKILL_20151224_005976	Erhöht Earth property resistance
+SKILL_20151224_005976	Erhöht Erde property resistance
 SKILL_20151224_005977	Blitz-Eigenschaft Resistance Erhöht
-SKILL_20151224_005978	Erhöht Lightning property resistance
+SKILL_20151224_005978	Erhöht Blitz property resistance
 SKILL_20151224_005979	Erhöht magic defense
 SKILL_20151224_005980	Erhöht magic attack
 SKILL_20151224_005981	Erhöht magic attack
@@ -5984,7 +5984,7 @@ SKILL_20151224_005983	Erhöht Heilig and Dark property attacks equal to 6% magic
 SKILL_20151224_005984	Porapore Activation
 SKILL_20151224_005985	Light and Dunkel-Eigenschaft Angriff Erhöht
 SKILL_20151224_005986	Maven Necklace
-SKILL_20151224_005987	Erhöht magic defense and decreased physical defense
+SKILL_20151224_005987	Erhöht magic defense and decreased physische Verteidigung
 SKILL_20151224_005988	HP won't be reduced nach attacks until all the protections are used
 SKILL_20151224_005989	Applies 5 hits to basic attack for every 5 times of [Bleeding].
 SKILL_20151224_005990	Shock Cutter: 5 Continuous Angriff
@@ -6057,11 +6057,11 @@ SKILL_20151224_006056	Enhanced the damage of [Earthquake] to Wizard's 3. Rang st
 SKILL_20151224_006057	Deals additional damage equal to 40% magic attack pro Fähigkeits-Level, wenn attacking an enemy under [Sleep] with [Energy Bolt].
 SKILL_20151224_006058	Enemies affected nach [Lethargy] receive 20% additional damage per Fähigkeits-Level with [Schlag] attacks.
 SKILL_20151224_006059	Erhöht magic damage nach 10% per Fähigkeits-Level while [Quick Cast] aktiv ist.
-SKILL_20151224_006060	Erhöht the Fire property attack of an ally nach 5 per Fähigkeits-Level for 5 Sekunden when they step on [Fire Wall].
-SKILL_20151224_006061	Verringert the Fire property resistance of nearnach enemies nach 10 per Fähigkeits-Level for 5 Sekunden when [Enchant Fire] is used.
+SKILL_20151224_006060	Erhöht the Feuer property attack of an ally nach 5 per Fähigkeits-Level for 5 Sekunden when they step on [Feuer Wall].
+SKILL_20151224_006061	Verringert the Feuer property resistance of nearnach enemies nach 10 per Fähigkeits-Level for 5 Sekunden when [Enchant Feuer] is used.
 SKILL_20151224_006062	[Gust] deals damage even to unfrozen enemies. Attacks unfrozen enemies 2 times and attacks frozen enemies 3 times.
 SKILL_20151224_006063	Erhöht the freeze duration of [Subzero Shield] nach 0.5 Sekunden pro{nl}Fähigkeits-Level.
-SKILL_20151224_006064	Verringert the physical defense of enemies nach 10% per Fähigkeits-Level that are pulled nach [Gravity Pole].
+SKILL_20151224_006064	Verringert the physische Verteidigung of enemies nach 10% per Fähigkeits-Level that are pulled nach [Gravity Pole].
 SKILL_20151224_006065	Verringert the AoE Defense Ratio of the enemies gathered through [Hangman's Knot] nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20151224_006066	Enemies affected nach [Swell Body] will have their movement speed decreased nach 15% and physical and magic attack increased nach 20% pro{nl}Fähigkeits-Level.
 SKILL_20151224_006067	Enemies affected nach [Shrink Body] will have their movement speed increased nach 10% and physical and magic attack decreased nach 25% pro{nl}Fähigkeits-Level.
@@ -6076,8 +6076,8 @@ SKILL_20151224_006075	Enemies provoked after using [Backmasking] will be afflict
 SKILL_20151224_006076	For 30 minutes, increases the physical and magic attack of allies that participated in a [Gegenstand Awakening] dungeon. Erhöht attack nach 20% pro{nl}Fähigkeits-Level.
 SKILL_20151224_006077	Rune Caster: Skilled Casting
 SKILL_20151224_006078	1% chance per Fähigkeits-Level of receiving the effects of [Quick Cast] after using a Rune Caster skill. The effects are based on the caster's skill level of [Quick Cast].
-SKILL_20151224_006079	Rune of Ice: Slow
-SKILL_20151224_006080	Verringert the movement speed of enemies nach 50% for 7 Sekunden when using basic attacks while [Rune of Ice] is active at a 5% chance pro{nl}Fähigkeits-Level.
+SKILL_20151224_006079	Rune of Eis: Slow
+SKILL_20151224_006080	Verringert the movement speed of enemies nach 50% for 7 Sekunden when using basic attacks while [Rune of Eis] is active at a 5% chance pro{nl}Fähigkeits-Level.
 SKILL_20151224_006081	Rune of Destruction: Verbessern
 SKILL_20151224_006082	Erhöht die Schadensausteilung an einem{nl}Feind mit [Rune of Destruction] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151224_006083	Rune of Giants: HP
@@ -6099,11 +6099,11 @@ SKILL_20151224_006098	Erhöht your block penetration nach 6% pro Fähigkeits-Lev
 SKILL_20151224_006099	Flying-type monsters hit nach [Shootdown] will fall down on the ground for 4 Sekunden pro{nl}Fähigkeits-Level. From Lv. 2, the duration decreases nach 1.8 Sekunden pro{nl}Fähigkeits-Level. (The Flying-type monsters who fall down can receive additional damage nach Cannon Shot.)
 SKILL_20151224_006100	Erhöht the attacking range of [Siege Burst] nach 25 pro{nl}Fähigkeits-Level.
 SKILL_20151224_006101	Erhöht the chance to instantly kill a small-type enemy with a [Rifle] nach 0.25% pro{nl}Fähigkeits-Level. (This does not apply if the enemy is of a higher level than the character's level.)
-SKILL_20151224_006102	Erhöht Fire property resistance nach 14 pro Fähigkeits-Level, wenn [Aukuras] aktiv ist.
+SKILL_20151224_006102	Erhöht Feuer property resistance nach 14 pro Fähigkeits-Level, wenn [Aukuras] aktiv ist.
 SKILL_20151224_006103	Erhöht your magic amplification nach 12 pro Fähigkeits-Level, wenn [Zalciai] aktiv ist.
 SKILL_20151224_006104	Erhöht your ally's evasion nach 2% pro Fähigkeits-Level, wenn [Monstrance] aktiv ist.
 SKILL_20151224_006105	Enemies hit nach [Effigy] have a 5% chance per Fähigkeits-Level to become afflicted with [Blind] for 5 Sekunden.
-SKILL_20151224_006106	Erhöht the zombie's physical defense nach 8 pro Fähigkeits-Level, wenn using [Bwa Kayiman].
+SKILL_20151224_006106	Erhöht the zombie's physische Verteidigung nach 8 pro Fähigkeits-Level, wenn using [Bwa Kayiman].
 SKILL_20151224_006107	Erhöht the body's evasion nach 10% pro Fähigkeits-Level, wenn [Out of Body] aktiv ist.
 SKILL_20151224_006108	Deals damage equal to 20% magic attack per Fähigkeits-Level to enemies hit with [Barrier].
 SKILL_20151224_006109	Erhöht the character's SP recovery. Erhöht the SP recovery nach 10 pro{nl}Fähigkeits-Level.
@@ -6199,14 +6199,14 @@ SKILL_20160224_006198	{#DD5500}{ol}[Physisch] - [Hieb]{/}{/}{nl}Deals successive
 SKILL_20160224_006199	{#DD5500}{ol}[Physisch] - [Hieb]{/}{/}{nl}Inflict damage on a frontal enemy through a series of lateral slashes. Deals additional damage to enemies afflicted with [Shock].
 SKILL_20160224_006200	{#DD5500}{ol}[Physisch] - [Stab]{/}{/}{nl}Angriff several enemies within a radius nach throwing a spear. Schadend enemies will temporarily become weaker to physical property attacks. The thrown spear must be picked up to use it again.
 SKILL_20160224_006201	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Status Ailment Dauer: #{CaptionRatio2}# Sekunden
-SKILL_20160224_006202	Angriff: #{SkillAtkAdd}#{nl}Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: 5 Sekunden{nl}Ice Wall Dauer: 15 Sekunden
+SKILL_20160224_006202	Angriff: #{SkillAtkAdd}#{nl}Eis Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Dauer: 5 Sekunden{nl}Eis Wall Dauer: 15 Sekunden
 SKILL_20160224_006203	Angriff: #{SkillAtkAdd}#{nl}Ziele: #{CaptionRatio}#{nl}Verbraucht 2% SP per Sekunde{nl}Maximum Dauer: 10 Sekunden
 SKILL_20160224_006204	Create a Shoggoth with stats based on the cards that are placed in the Necronomicon. The attack and defense of the Shoggoth is affected nach your INT and SPR respectively. The Shoggoth's stats increase nach 10% for each star on the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20160224_006205	{#993399}{ol}[Magie]{/}{/}Raises a wall of corpses in front of the caster. Enemies near the wall will be afflicted with [Decay]. Enemies affected nach [Decay] receive additional damage from Missile attacks.
 SKILL_20160224_006206	{#993399}{ol}[Magie]{/}{/}{nl}Stabs an enemy with a cursed knife carved from a bone. An enemy stabbed nach this bone fragment will be afflicted with [Decay]. Enemies affected nach Decay receive additional damage from Missile attacks.
 SKILL_20160224_006207	Angriff: 400% + #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
-SKILL_20160224_006208	{#993399}{ol}[Magie]{/}{/}All Ice-type magic cast nach you and party members except for deployment magic will be stronger for a given duration.
-SKILL_20160224_006209	Angriff: #{CaptionTime}# Sekunden{nl}Erhöht Ice-property skill attack nach 300%{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
+SKILL_20160224_006208	{#993399}{ol}[Magie]{/}{/}All Eis-type magic cast nach you and party members except for deployment magic will be stronger for a given duration.
+SKILL_20160224_006209	Angriff: #{CaptionTime}# Sekunden{nl}Erhöht Eis-property skill attack nach 300%{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
 SKILL_20160224_006210	{#993399}{ol}[Magie]{/}{/}Creates a temporary magic circle that will turn you and your allies into a giant. Giant players are considered Groß-type and will have their HP and defense increased. Limited usage of skills.
 SKILL_20160224_006211	Giant Size Dauer: #{CaptionTime}# Sekunden{nl}Magie Circle Dauer: 10 Sekunden{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Verbraucht 1 Rune Stone{nl}Cast Time: 8 Sekunden
 SKILL_20160224_006212	{#993399}{ol}[Magie]{/}{/}Charges a frontal divine magic attack unleashed in a straight line.
@@ -6216,7 +6216,7 @@ SKILL_20160224_006215	Ziele in stabiler Haltung auf einen{nl}Feind. Erhöht den 
 SKILL_20160224_006216	Angriff: +#{CaptionRatio}#%{nl}Zusäzlicher Attribut-Schaden: #{CaptionRatio2}#{nl}Dauer: 15 Sekunden
 SKILL_20160224_006217	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Bomb Dauer: 2 Sekunden
 SKILL_20160224_006218	Allows you to attack while moving quickly. Erhöht attack speed and deals additional damage when using basic attacks.
-SKILL_20160224_006219	{#DD5500}{ol}[Physisch]{/}{/}{nl}Your companion holds on to a target. Verringert a target's physical defense and attacks against the target will have an increased critical chance.
+SKILL_20160224_006219	{#DD5500}{ol}[Physisch]{/}{/}{nl}Your companion holds on to a target. Verringert a target's physische Verteidigung and attacks against the target will have an increased critical chance.
 SKILL_20160224_006220	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Physische Verteidigung: -#{CaptionRatio}#{nl}Additional Kritchance: 30%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20160224_006221	{#DD5500}{ol}[Physisch]{/}{/}{nl}Order your companion to drop a Flying-type monster to the ground, afflicting [Bleeding].
 SKILL_20160224_006222	{#DD5500}{ol}[Physisch]{/}{/}{nl}Befehle deinem Begleiter einen Feind anzugreifen.
@@ -6242,13 +6242,13 @@ SKILL_20160224_006241	Angriff per Hit: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{Ca
 SKILL_20160224_006242	Reduced SP usage, and deals additional damage when attacking.
 SKILL_20160224_006243	Unable to move.
 SKILL_20160224_006244	High Anchoring: Kritchance
-SKILL_20160224_006245	Rapid Fire: Kritchance
+SKILL_20160224_006245	Rapid Feuer: Kritchance
 SKILL_20160224_006246	Erhöht maximum HP, defense, and movement speed.
 SKILL_20160224_006247	Weak against physical property attacks.
 SKILL_20160224_006248	Langort: Blocking
 SKILL_20160224_006249	Swash Buckling: Gruppe Buff
 SKILL_20160224_006250	Erhöht magic attack
-SKILL_20160224_006251	Erhöht physical defense
+SKILL_20160224_006251	Erhöht physische Verteidigung
 SKILL_20160224_006252	Erhöht Angriff von Stab Eigenschafts-Skill gegen Charaktere.
 SKILL_20160224_006253	Erhöht Angriff von Hieb Eigenschafts-Skill gegen Charaktere.
 SKILL_20160224_006254	Erhöht Angriff von Schlag Eigenschafts-Skill gegen Charaktere.
@@ -6288,12 +6288,12 @@ SKILL_20160224_006287	[Targe Smash] no longer knocks enemies back. (Only applies
 SKILL_20160224_006288	Verringert the movement speed of monsters affected nach [Swell Body] nach 15%, while increasing their physical and magic attack nach 20% pro{nl}Fähigkeits-Level. (The effects do not count towards characters.)
 SKILL_20160224_006289	Erhöht the movement speed of monsters affected nach [Shrink Body] nach 10%, while decreasing their physical and magic attack nach 25% pro{nl}Fähigkeits-Level. (The effects do not count towards characters.)
 SKILL_20160224_006290	Receive a [Quick Cast] effect with a 1% chance per Fähigkeits-Level after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast]. If [Quick Cast] hasn't been learned, then the duration of the skill is reduced along with receiving Lv1 effects.
-SKILL_20160224_006291	Verringert the enemy's movement speed nach 70% for 4 Sekunden on a basic attack with a 5% chance per Fähigkeits-Level while [Rune of Ice] aktiv ist.
+SKILL_20160224_006291	Verringert the enemy's movement speed nach 70% for 4 Sekunden on a basic attack with a 5% chance per Fähigkeits-Level while [Rune of Eis] aktiv ist.
 SKILL_20160224_006292	Allies turned into giants nach [Rune of Giants] gain additional HP according to [20% of the caster's CON] x [60 per Fähigkeits-Level].
 SKILL_20160224_006293	Swift Step: Einschließlich Gruppenmitglieder
 SKILL_20160224_006294	Applies the effects of [Swift Step] to party members.
 SKILL_20160224_006295	Bei Feinden die von [High Anchoring] getroffen wurden, ist der Kritische Widerstand für 5 Sekunden um 3 pro Fähigkeits-Level reduziert.
-SKILL_20160224_006296	Enemies hit nach [Rapid Fire] have a 50% chance per Fähigkeits-Level of having their critical resistance reduced to 0 for 3 Sekunden.
+SKILL_20160224_006296	Enemies hit nach [Rapid Feuer] have a 50% chance per Fähigkeits-Level of having their critical resistance reduced to 0 for 3 Sekunden.
 SKILL_20160224_006297	Claymore: Flying-type Compatibility
 SKILL_20160224_006298	Deals 10% additional damage per Fähigkeits-Level on Flying-type monsters with [Claymore].
 SKILL_20160224_006299	Detonate Traps: Flying-type Compatibility
@@ -6356,7 +6356,7 @@ SKILL_20160323_006355	Carnivory: Dauer
 SKILL_20160323_006356	Erhöht die Dauer von [Carnivory] um 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20160329_006357	Maximale Dauer: #{CaptionRatio2}# Sekunden{nl}+#{CaptionRatio}#% blocken während Skill andauert{nl}Dauer: 15 Sekunden
 SKILL_20160425_006358	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden{nl}
-SKILL_20160426_006359	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use 
+SKILL_20160426_006359	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Erhöht maximum buff count{nl} - Able to use 
 SKILL_20160718_006360	Temporarily grants a high resistance to being affected by knockback, knockdown or staggered. Also, increases the chance to resist abnormalities.
 SKILL_20160718_006361	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward while slashing, attacking any enemies that block your way. Also, deals additional damage to stunned targets.
 SKILL_20160718_006362	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Release a strong attack on enemies by spinning your body. Increases your critical rate when the attack lands and deals additional damage to a stunned enemy. Also, the target takes additional slash damage for a certain period of time.
@@ -6364,51 +6364,51 @@ SKILL_20160718_006363	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shiel
 SKILL_20160718_006364	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks, block and resistance against abnormalities and triggers an attack immediately after movement has ended.
 SKILL_20160718_006365	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to successively attack enemies.
 SKILL_20160718_006366	Dethrone
-SKILL_20160718_006367	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Attack by continuously fuming fire towards enemies. Deals continuous flame damage to enemies. Likely to receive additional Fire damage for a while. While casting Hellbreath, you receive melee block effect.
+SKILL_20160718_006367	{#993399}{ol}[Magic] - [Feuer]{/}{/}{nl}Attack by continuously fuming fire towards enemies. Deals continuous flame damage to enemies. Likely to receive additional Feuer damage for a while. While casting Hellbreath, you receive melee block effect.
 SKILL_20160718_006368	INT: +#{CaptionRatio}#{nl}Additional Magic Attack +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20160718_006369	{#993399}{ol}[Magic]{/}{/}{nl}Encircle yourself with corpse parts that will damage nearby enemies. Likely to deal additional damage to the enemy in a decaying state.
 SKILL_20160718_006370	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon evil spirits to surround you for protection and attack the enemies upon contact. Each evil spirit can attack for a certain amount of times.
 SKILL_20160718_006371	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
-SKILL_20160718_006372	Duration: #{CaptionTime}# seconds{nl}Increases Ice-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
+SKILL_20160718_006372	Duration: #{CaptionTime}# seconds{nl}Increases Eis-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
 SKILL_20160718_006373	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: 10 seconds{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
 SKILL_20160718_006374	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
 SKILL_20160718_006375	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
 SKILL_20160718_006376	Kneel down to improve your concentration. Increases your attack, attack speed and range. Either casting Kneeling Shot or jumping will turn the kneeling state off.
-SKILL_20160718_006377	{#DD5500}{ol}[Physical]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physical defense and attacks against the target will have an increased critical chance. Also, deals continuous damage to the target.
+SKILL_20160718_006377	{#DD5500}{ol}[Physical]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physische Verteidigung and attacks against the target will have an increased critical chance. Also, deals continuous damage to the target.
 SKILL_20160718_006378	{#DD5500}{ol}[Physical]{/}{/}{nl}Order your companion to drag a target towards you. The target becomes unable to attack and suffers continuous damage.
 SKILL_20160718_006379	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Command your hawk to divebomb enemies multiple times in the targeted area. The target is likely to be afflicted with [Blind].
 SKILL_20160718_006380	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers HP equal to 5% of the maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20160718_006381	Creates a magic circle of the Guardian Saint. The target takes damage of the magic circle instead of the caster. Also, it increases your SP and Stamina recovery.
 SKILL_20160718_006382	Summons a holy torch, improving the HP recovery of nearby allies. Decreases the accuracy of nearby enemies. Also, when near a torchlight, duration of harmful effects get decreased.
-SKILL_20160718_006383	Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies Affected: #{CaptionTime}#{nl}Duration: 60 seconds{nl}Consumes 1 Holy Powder
+SKILL_20160718_006383	Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies Affected: #{CaptionTime}#{nl}Duration: 60 seconds{nl}Consumes 1 Heilig Powder
 SKILL_20160718_006384	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Instruct your summoned zombies to celebrate. The zombies will deal little damage to anything they touch. Zombie's STR stat applies as additional damage.
 SKILL_20160718_006385	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -#{CaptionTime}# {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
-SKILL_20160718_006386	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Lightning, Poison of the enemy that received the attack will decrease. Deals additional damage to the stunned target.
+SKILL_20160718_006386	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Feuer, Eis, Blitz, Gift of the enemy that received the attack will decrease. Deals additional damage to the stunned target.
 SKILL_20160718_006387	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fists to attack an enemy in quick succession. The target receives additional strike damage for a period of time.
 SKILL_20160718_006388	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a coin by using the tip of your finger to inflict damage on an enemy. The target receives additional strike damage for a period of time.
 SKILL_20160718_006389	Your body gets staggered.
 SKILL_20160718_006390	Your body gets staggered. More vulnerable to Umbo Blow.
 SKILL_20160718_006391	SP absorbed
 SKILL_20160718_006392	Vulnerable to Slash Attacks
-SKILL_20160718_006393	Receives Additional Fire Damage.
+SKILL_20160718_006393	Receives Additional Feuer Damage.
 SKILL_20160718_006394	Sonic Strike: Confusion
-SKILL_20160718_006395	In a state of confusion. Reduced physical defense while physical attack is increased.
+SKILL_20160718_006395	In a state of confusion. Reduced physische Verteidigung while physical attack is increased.
 SKILL_20160718_006396	Fastly Decreases Duration of Harmful Effects
 SKILL_20160718_006397	GvG Spectator
 SKILL_20160718_006398	Pre-GvG
 SKILL_20160718_006399	Defense and Magic Defense Increase
-SKILL_20160718_006400	Increased defense and magic defense.
+SKILL_20160718_006400	Erhöht defense and magic defense.
 SKILL_20160718_006401	Penguin Owner
-SKILL_20160718_006402	Increased defense and magic defense.
+SKILL_20160718_006402	Erhöht defense and magic defense.
 SKILL_20160718_006403	Attack and Magic Attack Increase
-SKILL_20160718_006404	Increased attack and magic attack.
+SKILL_20160718_006404	Erhöht attack and magic attack.
 SKILL_20160718_006405	Lesser Panda Owner
-SKILL_20160718_006406	Increased critical rate and critical attack.
-SKILL_20160718_006407	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to u
+SKILL_20160718_006406	Erhöht critical rate and critical attack.
+SKILL_20160718_006407	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Erhöht maximum buff count{nl} - Able to u
 SKILL_20160718_006408	Field Boss Cube Unobtainable
 SKILL_20160718_006409	You've obtained Field Boss Cube.{nl}During the duration of this effect, you will be excluded from the cube queue and will not be able to obtain cubes.
 SKILL_20160718_006410	You can use the skill while mounting a companion.
-SKILL_20160718_006411	Increases the chance of inflicting [Freeze] on enemies hit by [Ice Bolt] by 10% per attribute level. (Does not apply in Team Battle League.)
+SKILL_20160718_006411	Increases the chance of inflicting [Freeze] on enemies hit by [Eis Bolt] by 10% per attribute level. (Does not apply in Team Battle League.)
 SKILL_20160718_006412	Increases the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. (Applies to characters other than the caster.)
 SKILL_20160718_006413	If the target gets blinded by [Sonic Strike], there is a chance it will be inflicted with confusion. Also, [Confusion] will decrease the target's physical defence by 15% per level and increase Physical Attack by 2% per level.
 SKILL_20160718_006414	Increases the duration of [Revive] by 7 seconds per attribute level. (Does not apply in Team Battle League.)
@@ -6419,54 +6419,54 @@ SKILL_20160718_006418	[Hand Knife] no longer knocks enemies down. (Only applies 
 SKILL_20160718_006419	Peltasta 2nd Circle required
 SKILL_20160718_006420	Lv6 Umbo Blow required
 SKILL_20160718_006421	Lv6 Rim Blow required
-SKILL_20160718_006422	Peltasta 3rd Circle required				
-SKILL_20160723_006423	{#DD5500}{ol}[Physisch] - [Strike]{/}{/}{nl}Use your shield and sworad to attack several times.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}방패와 검을 이용해 적을 연속으로 공격합니다.	SKILL_20150414_003620	{#DD5500}{ol}[Physisch] - [Strike] - [Slash]{/}{/}{nl}Use your shield and sword to attack enemies with continuous attacks.	{#DD5500}{ol}[물리] - [때리기] - [베기]{/}{/}{nl}방패와 검을 이용해 적을 연속으로 공격합니다.	
-SKILL_20160723_006424	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#	지속시간 #{CaptionRatio}#초{nl}분신 #{CaptionRatio2}#명 소환{nl}피해량 #{CaptionTime}#% 추가	SKILL_20151224_005756	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#x	지속시간 #{CaptionRatio}#초{nl}분신 #{CaptionRatio2}#명 소환{nl}피해량 #{CaptionTime}#배 증가	
-SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magie Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds	속성 저항력 #{CaptionRatio}# 증가{nl}속성 공격 피해량 #{SkillSR}#% 감소{nl}속성 공격 무효 확률 #{CaptionRatio2}#%{nl}적 마법 방어력 #{SkillFactor}#감소{nl}지속시간 #{CaptionTime}#초	SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magie Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds	속성 저항력 #{CaptionRatio}# 증가{nl}속성 공격 무효 확률 #{CaptionRatio2}#%{nl}적 마법 방어력 #{SkillFactor}#감소{nl}지속시간 #{CaptionTime}#초	
-SKILL_20160723_006426	You have been Reincarnated.	환생되었습니다.				
-SKILL_20160723_006427	Increased defense effects	방어 효과 증가				
-SKILL_20160723_006428	Increased physical and magical defense, maximum HP.	물리 방어력, 마법 방어력, 최대 HP가 증가합니다.				
-SKILL_20160723_006429	Reset cooldown time	재사용 대기시간 초기화	SKILL_20150317_001919	Reduces cooldown time by 50%	재사용 대기시간 50% 감소	
-SKILL_20160723_006430	Necklace of Protection-Darkness	수호의 목걸이-암흑				
-SKILL_20160723_006431	Reduces Darkness property damage by 25%.	암흑속성 공격력의 25%만큼 덜 받습니다.				
-SKILL_20160723_006432	Bracelet of Protection-Darkness	수호의 팔찌-암흑				
-SKILL_20160723_006433	Receive 10% less Darkness property damage per stack.	암흑속성 공격력을 중첩당 10% 만큼 덜 받습니다.				
-SKILL_20160723_006434	Necklace of Protection-Darkness II	수호의 목걸이-암흑II				
-SKILL_20160723_006435	Reduces Darkness property damage by 30%.	암흑속성 공격력의 30%만큼 덜 받습니다.				
-SKILL_20160723_006436	Bracelet of Protection-Darkness II	수호의 팔찌-암흑II				
-SKILL_20160723_006437	Receive 15% less Darkness property damage per stack.	암흑속성 공격력을 중첩당 15% 만큼 덜 받습니다.				
-SKILL_20160723_006438	Necklace of Protection-Frost	수호의 목걸이-냉기				
-SKILL_20160723_006439	Reduces Frost property damage by 25%.	얼음속성 공격력의 25%만큼 덜 받습니다.				
-SKILL_20160723_006440	Bracelet of Protection-Frost	수호의 팔찌-냉기				
-SKILL_20160723_006441	Receive 10% less Frost property damage per stack.	얼음속성 공격력을 중첩당 10% 만큼 덜 받습니다.				
-SKILL_20160723_006442	Necklace of Protection-Frost II	수호의 목걸이-냉기II				
-SKILL_20160723_006443	Reduces Frost property damage by 30%.	얼음속성 공격력의 30%만큼 덜 받습니다.				
-SKILL_20160723_006444	Bracelet of Protection-Frost II	수호의 팔찌-냉기II				
-SKILL_20160723_006445	Receive 15% less Frost property damage per stack.	얼음속성 공격력을 중첩당 15% 만큼 덜 받습니다.				
-SKILL_20160723_006446	Necklace of Protection-Darkness III	수호의 목걸이-암흑III				
-SKILL_20160723_006447	Reduces Darkness property damage by 35%.	암흑속성 공격력의 35%만큼 덜 받습니다.				
-SKILL_20160723_006448	Bracelet of Protection-Darkness III	수호의 팔찌-암흑III				
-SKILL_20160723_006449	Receive 20% less Darkness property damage per stack.	암흑속성 공격력을 중첩당 20% 만큼 덜 받습니다.				
-SKILL_20160723_006450	Deals additional damage to mutant monsters	변이형 몬스터 추가 대미지				
-SKILL_20160723_006451	Deals additional damage to monsters depending on their size	몬스터 사이즈별 추가 대미지				
-SKILL_20160723_006452	Deals additional damage to monsters depending on their rank	몬스터 랭크별 추가 대미지				
-SKILL_20160723_006453	Deals additional damage to monsters depending on their species	몬스터 종족별 추가 대미지				
-SKILL_20160723_006454	Deals additional damage to monsters depending on their properties	몬스터 속성별 추가 대미지				
-SKILL_20160723_006455	Increased physical defense	물리 방어력 증가				
-SKILL_20160723_006456	Increased Darkness property damage	어둠 속성 공격력 증가				
-SKILL_20160723_006457	Increased Earth property damage	땅 속성 공격력 증가				
-SKILL_20160723_006458	Increased Fire property damage	불 속성 공격력 증가				
-SKILL_20160723_006459	Increased Holy property damage	신성 속성 공격력 증가				
-SKILL_20160723_006460	Increased Ice property damage	얼음 속성 공격력 증가				
-SKILL_20160723_006461	Increased Electricity property damage	전기 속성 공격력 증가				
-SKILL_20160723_006462	Increased Poison property damage	독 속성 공격력 증가				
-SKILL_20160723_006463	Reflects Fire property damage	불속성 대미지 반사				
-SKILL_20160723_006464	Has a chance of reflecting Fire property damage.	일정 확률로 불속성 대미지를 반사합니다.				
-SKILL_20160723_006465	Pouncing: Knockdown	파운싱: 넉다운				
-SKILL_20160723_006466	Enemies hit by the [Pouncing] skill have a 8% chance per attribute level of being knocked down.	스킬 [파운싱]에 피격되는 적이 특성 레벨당 8% 확률로 넘어집니다.				
-SKILL_20160723_006467	Swap: Shackle	스왑: 속박				
-SKILL_20160723_006468	Targets that are moved by the [Swap] skill will be immobilized for 2 seconds.	스킬 [스왑]으로 이동된 대상이 확률적으로 2초간 속박 상태가 됩니다.				
-SKILL_20160723_006469	Damballa: Remove Knockdown	댐발라: 넉다운 제거				
-SKILL_20160723_006470	The [Damballa] skill will no longer knock down enemies. (They will not be knocked down if this attribute is ON.)	스킬 [댐발라]가 더 이상 적을 넘어뜨리지 않습니다. (해당 특성이 ON이면 무조건 넘어지지 않습니다.)				
-SKILL_20160723_006471	Counter Spell: Enemy Target 	카운터스펠: 적 대상				
-SKILL_20160723_006472	The [Counter Spell] skill only removes enemy magic.	스킬 [카운터스펠]이 적의 마법만 무효화시킵니다.				
+SKILL_20160718_006422	Peltasta 3rd Circle required
+SKILL_20160723_006423	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to attack multiple times.
+SKILL_20160723_006424	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#%
+SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160723_006426	You have been reincarnated.
+SKILL_20160723_006427	Erhöht defense effects
+SKILL_20160723_006428	Erhöht physical and magic defense, maximum HP.
+SKILL_20160723_006429	Reset cooldown time
+SKILL_20160723_006430	Necklace of Protection - Dunkel
+SKILL_20160723_006431	Reduces Dunkel-Eigenschaftschaden by 25%.
+SKILL_20160723_006432	Bracelet of Protection - Dunkel
+SKILL_20160723_006433	Receive 10% less Dunkel-Eigenschaftschaden per stack.
+SKILL_20160723_006434	Necklace of Protection - Dunkel II
+SKILL_20160723_006435	Reduces Dunkel-Eigenschaftschaden by 30%.
+SKILL_20160723_006436	Bracelet of Protection - Dunkel II
+SKILL_20160723_006437	Receive 15% less Dunkel-Eigenschaftschaden per stack.
+SKILL_20160723_006438	Necklace of Protection - Frost
+SKILL_20160723_006439	Reduces Eis-Eigenschaftschaden by 25%.
+SKILL_20160723_006440	Bracelet of Protection - Frost
+SKILL_20160723_006441	Receive 10% less Eis-Eigenschaftschaden per stack.
+SKILL_20160723_006442	Necklace of Protection - Frost II
+SKILL_20160723_006443	Reduces Eis-Eigenschaftschaden by 30%.
+SKILL_20160723_006444	Bracelet of Protection - Frost II
+SKILL_20160723_006445	Receive 15% less Eis-Eigenschaftschaden per stack.
+SKILL_20160723_006446	Necklace of Protection - Dunkel III
+SKILL_20160723_006447	Reduces Dunkel-Eigenschaftschaden by 35%.
+SKILL_20160723_006448	Bracelet of Protection - Dunkel III
+SKILL_20160723_006449	Receive 20% less Dunkel-Eigenschaftschaden per stack.
+SKILL_20160723_006450	Deals additional damage to Mutant-type monsters
+SKILL_20160723_006451	Deals additional damage to monsters depending on their size
+SKILL_20160723_006452	Deals additional damage to monsters depending on their rank
+SKILL_20160723_006453	Deals additional damage to monsters depending on their species
+SKILL_20160723_006454	Deals additional damage to monsters depending on their properties
+SKILL_20160723_006455	Erhöht physische Verteidigung
+SKILL_20160723_006456	Erhöht Dunkel-Eigenschaftschaden
+SKILL_20160723_006457	Erhöht Erd-Eigenschaftschaden
+SKILL_20160723_006458	Erhöht Feuer-Eigenschaftschaden
+SKILL_20160723_006459	Erhöht Heilig-Eigenschaftschaden
+SKILL_20160723_006460	Erhöht Eis-Eigenschaftschaden
+SKILL_20160723_006461	Erhöht Blitz-Eigenschaftschaden
+SKILL_20160723_006462	Erhöht Gift-Eigenschaftschaden
+SKILL_20160723_006463	Reflektiert Feuer-Eigenschaftschaden
+SKILL_20160723_006464	Hat eine chance Feuer-Eigenschaftschaden zu reflektieren.
+SKILL_20160723_006465	Pouncing: Knockdown
+SKILL_20160723_006466	Enemies hit by [Pouncing] have a 8% chance per attribute level of being knocked down.
+SKILL_20160723_006467	Swap: Shackle
+SKILL_20160723_006468	Targets that are moved by [Swap] will be immobilized for 2 seconds.
+SKILL_20160723_006469	Damballa: Remove Knockdown
+SKILL_20160723_006470	[Damballa] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
+SKILL_20160723_006471	Counter Spell: Feind Ziel
+SKILL_20160723_006472	[Counter Spell] entfernt nur Feindmagie.

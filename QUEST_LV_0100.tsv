@@ -1,6 +1,6 @@
 QUEST_LV_0100_20150317_000001	Sentinel
 QUEST_LV_0100_20150317_000002	If you choose to go to Klaipeda, I recommend taking the Shadow Forest Road.{nl}The deep woods are dangerous, so try to stay away from there if you can.
-QUEST_LV_0100_20150317_000003	Man in Hiding
+QUEST_LV_0100_20150317_000003	Mann in Versteck
 QUEST_LV_0100_20150317_000004	F-Finally...! Has help arrived?{nl}Huh?! It's just a kid? Hey... Are there still Vubbes outside?
 QUEST_LV_0100_20150317_000005	Ugh. Go away! Don't talk to me! We'll get caught by the Vubbes!{nl}This is my place so leave!
 QUEST_LV_0100_20150317_000006	What? Don't lie to me! I can smell the Vubbes from here.{nl}You can't fool an adult! Go away! Do not come near this barrel!
@@ -36,7 +36,7 @@ QUEST_LV_0100_20150317_000035	We should recover the stolen supplies.{nl}We can't
 QUEST_LV_0100_20150317_000036	The stolen supplies were taken by the Siaulambs in every Supply Warehouse, {nl}recover the supplies and bring them to Volda.
 QUEST_LV_0100_20150317_000037	I feel so fed up having to endure this all the time. Reinforcements should be coming soon.{nl}But what can we expect from such an incompetent kingdom?
 QUEST_LV_0100_20150317_000038	Adjutant General Volda
-QUEST_LV_0100_20150317_000039	Thank you very much, but you must be late for other matters.{nl}Besides we can't just sit here and wait. We plan to keep attacking.
+QUEST_LV_0100_20150317_000039	Vielen Dank, aber du bist zu spät für andere Angelegenheiten.{nl}Besides we can't just sit here and wait. We plan to keep attacking.
 QUEST_LV_0100_20150317_000040	Secret Guardian
 QUEST_LV_0100_20150317_000041	The goddess already foresaw this.{nl}Nothing can escape from her vision.
 QUEST_LV_0100_20150317_000042	Liaison Officer Niels
@@ -15665,4 +15665,24 @@ QUEST_LV_0100_20160718_015664	Loremaster Verta aproves of the quality of Blue St
 QUEST_LV_0100_20160718_015665	You have placed the Stones as Loremaster Verta requested. Go back and tell him that the deed is done.
 QUEST_LV_0100_20160718_015666	Dievdirbys Asel is curious about the dagger's owner. Sprich mit Asel.
 QUEST_LV_0100_20160718_015667	You have seen a similar case before. Ask the Ranger Master about the dagger.
-QUEST_LV_0100_20160718_015668	The dagger belonged to Evoniphon afterall. Tell Dievdirbys Asel about what you have heard from the Ranger Master.
+QUEST_LV_0100_20160718_015668	The dagger belonged to Evoniphon after all. Tell Dievdirbys Asel about what you have heard from the Ranger Master.
+QUEST_LV_0100_20160723_015669	[Event] Scavenge Challenge
+QUEST_LV_0100_20160723_015670	[Event] Daily Mystery Delivery
+QUEST_LV_0100_20160723_015671	Check the Event Notice Board
+QUEST_LV_0100_20160723_015672	Please check the Event Notice Board
+QUEST_LV_0100_20160723_015673	I can see someone who doesn't move at all. Where am I?
+QUEST_LV_0100_20160723_015674	You can get from one hill to the other by crossing the bridge. Where am I?
+QUEST_LV_0100_20160723_015675	I am near a statue that can bless you. Where am I?
+QUEST_LV_0100_20160723_015676	I can see a pretty red light reflected off of that ore. Where am I?
+QUEST_LV_0100_20160723_015677	To win this prize, you must find twins. Where am I?
+QUEST_LV_0100_20160723_015678	Two bundles of hay keep me company. Where am I?
+QUEST_LV_0100_20160723_015679	I like relaxing under a very big tree and count the ornaments on it. Where am I?
+QUEST_LV_0100_20160723_015680	I am in front of the lonely house and can see a long stone bridge. Where am I?
+QUEST_LV_0100_20160723_015681	I am under the spotlight looking at the bridge above the fall. Where am I?
+QUEST_LV_0100_20160723_015682	I can hear people going up the stairs and smell old wood. Where am I?
+QUEST_LV_0100_20160723_015683	The door behind me is not supposed to remain unlocked and open like it is now. Where am I?
+QUEST_LV_0100_20160723_015684	You have to step on the stone stairway to see me near the tree. Where am I?
+QUEST_LV_0100_20160723_015685	Who would pile something that is already burning? Where am I?
+QUEST_LV_0100_20160723_015686	From the stone stairway to the light on the street. Where am I?
+QUEST_LV_0100_20160723_015687	Talk to the resident looking for a box
+QUEST_LV_0100_20160723_015688	Give the Expensive-looking box to the resident that is looking for it.
