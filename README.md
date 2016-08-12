@@ -49,7 +49,7 @@ Da ist es z.B. so, dass wir einige Sachen erst einmal gar nicht übersetzen oder
 
 ####Regeln in den .tsv-Dateien####
 * Wenn ihr was übersetzt, müsst ihr darauf achten, dass zwischen der ID und des Literals der TAB-Platz bleibt, so dass alle gleichauf sein. ETC_20150317_008234**[HIER TAB]**Rezept – Moplah
-* Es ist möglich Texte in mehreren Sprachen in einer Datei unter zu bringen. Diese werden dann mit einem TAB-Platz unterteilt. Dabei wird das, was im Spiel angezeigt werden soll als erstes geschrieben. Am besten wäre es, wenn man das englische dahinter belässt um weitere Korrekturen einfacher zu machen.<br>Beispiel: ETC_20150317_008234**[HIER TAB]**Preis**[HIER TAB]**Price
+* Es ist möglich Texte in mehreren Sprachen in einer Datei unter zu bringen. Diese werden dann mit einem TAB-Platz unterteilt. Dabei wird das, was im Spiel angezeigt werden soll als erstes geschrieben. ~~Am besten wäre es, wenn man das englische dahinter belässt um weitere Korrekturen einfacher zu machen.~~<br>Beispiel: ETC_20150317_008234**[HIER TAB]**Preis**[HIER TAB]**Price
 * Wenn texte mit Geschwungenen Klammern kommen z.B. {nl} dann müssen die immer auch wieder geschlossen werden. Achtet darauf, dass ihr nicht aus Versehen eine Klammer entfernt.
 * __{nl}__ steht übrigens für NewLine also Neue Zeile. Sollte mal etwas nicht ganz in eine Zeile passen, kann man dies damit anpassen.
 <br><br>
