@@ -6359,9 +6359,9 @@ SKILL_20160425_006358	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert d
 SKILL_20160426_006359	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Erhöht maximum buff count{nl} - Able to use 
 SKILL_20160718_006360	Temporarily grants a high resistance to being affected by knockback, knockdown or staggered. Also, increases the chance to resist abnormalities.
 SKILL_20160718_006361	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward while slashing, attacking any enemies that block your way. Also, deals additional damage to stunned targets.
-SKILL_20160718_006362	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Release a strong attack on enemies by spinning your body. Increases your critical rate when the attack lands and deals additional damage to a stunned enemy. Also, the target takes additional slash damage for a certain period of time.
+SKILL_20160718_006362	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Release a strong attack on enemies by spinning your body. Erhöht your critical rate when the attack lands and deals additional damage to a stunned enemy. Also, the target takes additional slash damage for a certain period of time.
 SKILL_20160718_006363	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and dash to push enemies away. Enemies nearby will fall down when hit with the shield. While using the skill, it increases the chance to block missile attacks.
-SKILL_20160718_006364	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks, block and resistance against abnormalities and triggers an attack immediately after movement has ended.
+SKILL_20160718_006364	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Erhöht evasion against enemy attacks, block and resistance against abnormalities and triggers an attack immediately after movement has ended.
 SKILL_20160718_006365	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to successively attack enemies.
 SKILL_20160718_006366	Dethrone
 SKILL_20160718_006367	{#993399}{ol}[Magic] - [Feuer]{/}{/}{nl}Attack by continuously fuming fire towards enemies. Deals continuous flame damage to enemies. Likely to receive additional Feuer damage for a while. While casting Hellbreath, you receive melee block effect.
@@ -6369,11 +6369,11 @@ SKILL_20160718_006368	INT: +#{CaptionRatio}#{nl}Additional Magic Attack +#{Capti
 SKILL_20160718_006369	{#993399}{ol}[Magic]{/}{/}{nl}Encircle yourself with corpse parts that will damage nearby enemies. Likely to deal additional damage to the enemy in a decaying state.
 SKILL_20160718_006370	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon evil spirits to surround you for protection and attack the enemies upon contact. Each evil spirit can attack for a certain amount of times.
 SKILL_20160718_006371	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
-SKILL_20160718_006372	Duration: #{CaptionTime}# seconds{nl}Increases Eis-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
+SKILL_20160718_006372	Duration: #{CaptionTime}# seconds{nl}Erhöht Eis-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
 SKILL_20160718_006373	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: 10 seconds{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
 SKILL_20160718_006374	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
 SKILL_20160718_006375	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
-SKILL_20160718_006376	Kneel down to improve your concentration. Increases your attack, attack speed and range. Either casting Kneeling Shot or jumping will turn the kneeling state off.
+SKILL_20160718_006376	Kneel down to improve your concentration. Erhöht your attack, attack speed and range. Either casting Kneeling Shot or jumping will turn the kneeling state off.
 SKILL_20160718_006377	{#DD5500}{ol}[Physical]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physische Verteidigung and attacks against the target will have an increased critical chance. Also, deals continuous damage to the target.
 SKILL_20160718_006378	{#DD5500}{ol}[Physical]{/}{/}{nl}Order your companion to drag a target towards you. The target becomes unable to attack and suffers continuous damage.
 SKILL_20160718_006379	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Command your hawk to divebomb enemies multiple times in the targeted area. The target is likely to be afflicted with [Blind].
@@ -6408,10 +6408,10 @@ SKILL_20160718_006407	- Able to learn attributes instantaneously{nl} - Reduced M
 SKILL_20160718_006408	Field Boss Cube Unobtainable
 SKILL_20160718_006409	You've obtained Field Boss Cube.{nl}During the duration of this effect, you will be excluded from the cube queue and will not be able to obtain cubes.
 SKILL_20160718_006410	You can use the skill while mounting a companion.
-SKILL_20160718_006411	Increases the chance of inflicting [Freeze] on enemies hit by [Eis Bolt] by 10% per attribute level. (Does not apply in Team Battle League.)
-SKILL_20160718_006412	Increases the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. (Applies to characters other than the caster.)
+SKILL_20160718_006411	Erhöht the chance of inflicting [Freeze] on enemies hit by [Eis Bolt] by 10% per attribute level. (Does not apply in Team Battle League.)
+SKILL_20160718_006412	Erhöht the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. (Applies to characters other than the caster.)
 SKILL_20160718_006413	If the target gets blinded by [Sonic Strike], there is a chance it will be inflicted with confusion. Also, [Confusion] will decrease the target's physical defence by 15% per level and increase Physical Attack by 2% per level.
-SKILL_20160718_006414	Increases the duration of [Revive] by 7 seconds per attribute level. (Does not apply in Team Battle League.)
+SKILL_20160718_006414	Erhöht the duration of [Revive] by 7 seconds per attribute level. (Does not apply in Team Battle League.)
 SKILL_20160718_006415	Palm Strike: Remove Knockdown
 SKILL_20160718_006416	[Palm Strike] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
 SKILL_20160718_006417	Hand Knife: Remove Knockdown
@@ -6470,3 +6470,20 @@ SKILL_20160723_006469	Damballa: Remove Knockdown
 SKILL_20160723_006470	[Damballa] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
 SKILL_20160723_006471	Counter Spell: Feind Ziel
 SKILL_20160723_006472	[Counter Spell] entfernt nur Feindmagie.
+SKILL_20160811_006473	Physical Defense: +#{CaptionRatio}#%{nl}Physical Attack: -#{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160811_006474	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: 0.2 seconds{nl}AoE Ratio: #{SkillSR}#
+SKILL_20160811_006475	Maximum Link Numbers: #{CaptionRatio}#{nl}Count Limit: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160811_006476	Attack: #{SkillAtkAdd}#{nl}Targets: #{CaptionRatio2}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160811_006477	Makes monsters re-appear at the same spot as where they died by manipulating time. You must use this near monsters for it to have effect.
+SKILL_20160811_006478	Hides traps to conceal them from the enemy. The duration time may decrease depending on objects.
+SKILL_20160811_006479	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 1.5 seconds{nl}Consumes 1 Divine Machine Arrow
+SKILL_20160811_006480	{#993399}{ol}[Magic] - [Darkness]{/}{/}{nl}Deals damage to cursed enemies from afar. Deals additional damage on every third casting if used in succession.
+SKILL_20160811_006481	Concealed as to not be seen.
+SKILL_20160811_006482	Increase Physical/Magical Defense
+SKILL_20160811_006483	Physical/Magical Defense will be increased
+SKILL_20160811_006484	Battlebird Owner
+SKILL_20160811_006485	Erhöht HP und SP Erholungsrate.
+SKILL_20160811_006486	120% increase in EXP gain from monsters{nl}x5 increase in Stamina recovery rate
+SKILL_20160811_006487	240% increase in EXP gain from monsters{nl}x9 increase in Stamina recovery rate
+SKILL_20160811_006488	50% increase in EXP gain from monsters{nl}x2 increase in Stamina recovery rate
+SKILL_20160811_006489	Erhöht the attack of a summoned Skeleton Soldier by 1% per attribute level.
