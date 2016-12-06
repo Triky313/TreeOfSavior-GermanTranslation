@@ -4225,7 +4225,7 @@ SKILL_20150714_004224	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRat
 SKILL_20150714_004225	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Dauer: #{CaptionRatio}# Sekunden
 SKILL_20150714_004226	Additional damage according to the number attacks
 SKILL_20150714_004227	Schaden Effekt
-SKILL_20150714_004228	Receive damage after an effect
+SKILL_20150714_004228	Erhalte Schaden nach einem Effekt
 SKILL_20150714_004229	Spread the new buff received to allies
 SKILL_20150714_004230	Right Hand is enlarged. Effekt applies according to the sub weapon types
 SKILL_20150714_004231	Inflicts the target with [Betäubung], but decreases your maximum HP.
@@ -4234,7 +4234,7 @@ SKILL_20150714_004233	Number of buff you can receive will increase.
 SKILL_20150714_004234	Removes nullified magic and harmful effects
 SKILL_20150714_004235	Erhöht AoE attack ratio.
 SKILL_20150714_004236	Skull Swing: No Sprung
-SKILL_20150714_004237	Can't jump
+SKILL_20150714_004237	Kann nicht springen
 SKILL_20150714_004238	Ani Change
 SKILL_20150714_004239	Ani Change when damaged
 SKILL_20150714_004240	Buff Duration of allies has stopped.
@@ -6307,9 +6307,9 @@ SKILL_20160224_006306	Erhöht die Schadensausteilung an einem{nl}Feind mit [Rush
 SKILL_20160224_006307	Retrieve: Verbessern
 SKILL_20160224_006308	Erhöht die Schadensausteilung an einem{nl}Feind mit [Retrieve] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20160224_006309	Needle Blow: Gift Verbessern
-SKILL_20160224_006310	Erhöht the Gift damage dealt on an enemy with [Needle Blow] nach 2 pro{nl}Fähigkeits-Level.
+SKILL_20160224_006310	Erhöht the Gift damage an einem Feind mit [Needle Blow] nach 2 pro{nl}Fähigkeits-Level.
 SKILL_20160224_006311	Wugong Gu: Gift Verbessern
-SKILL_20160224_006312	Erhöht the Gift damage dealt on an enemy with [Wugong Gu] nach 2 pro{nl}Fähigkeits-Level.
+SKILL_20160224_006312	Erhöht the Gift damage an einem Feind mit [Wugong Gu] nach 2 pro{nl}Fähigkeits-Level.
 SKILL_20160224_006313	If [Call] is used, the hawk has a 50% chance of fetching small items.
 SKILL_20160224_006314	Headshot: Verbessern
 SKILL_20160224_006315	Headshot: Betäubung
@@ -6328,7 +6328,7 @@ SKILL_20160310_006327	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRat
 SKILL_20160310_006328	Set up an upright shield to protect yourself from enemy attacks. Enemies without a target will attack the pavise instead.
 SKILL_20160310_006329	Angriff: #{SkillAtkAdd}#{nl}Block: #{CaptionRatio}#{nl}Passive Dauer: #{CaptionTime}# Sekunden
 SKILL_20160310_006330	Zusätzlich Feind-Level: #{CaptionRatio}#{nl}Dauer: #{CaptionRatio2}# Sekunden
-SKILL_20160310_006331	Restrained in the air.
+SKILL_20160310_006331	In der Luft zurückhalten.
 SKILL_20160310_006332	Swash Buckling: Repel
 SKILL_20160310_006333	Gravity Pole: Verbessern
 SKILL_20160310_006334	Erhöht die Schadensausteilung an einem{nl}Feind mit [Gravity Pole] um 1% pro{nl}Fähigkeits-Level.
@@ -6408,18 +6408,18 @@ SKILL_20160718_006407	- Able to learn attributes instantaneously{nl} - Reduced M
 SKILL_20160718_006408	Field Boss Cube Unobtainable
 SKILL_20160718_006409	You've obtained Field Boss Cube.{nl}During the duration of this effect, you will be excluded from the cube queue and will not be able to obtain cubes.
 SKILL_20160718_006410	You can use the skill while mounting a companion.
-SKILL_20160718_006411	Erhöht the chance of inflicting [Freeze] on enemies hit by [Eis Bolt] by 10% per attribute level. (Does not apply in Team Battle League.)
-SKILL_20160718_006412	Erhöht the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. (Applies to characters other than the caster.)
+SKILL_20160718_006411	Erhöht the chance of inflicting [Freeze] on enemies hit by [Eis Bolt] by 10% pro Eigenschafts-Level. (Does not apply in Team Battle League.)
+SKILL_20160718_006412	Erhöht the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) um 1% chance pro Eigenschafts-Level. (Applies to characters other than the caster.)
 SKILL_20160718_006413	If the target gets blinded by [Sonic Strike], there is a chance it will be inflicted with confusion. Also, [Confusion] will decrease the target's physical defence by 15% per level and increase Physical Attack by 2% per level.
-SKILL_20160718_006414	Erhöht the duration of [Revive] by 7 seconds per attribute level. (Does not apply in Team Battle League.)
+SKILL_20160718_006414	Erhöht the duration of [Revive] by 7 seconds pro Eigenschafts-Level. (Does not apply in Team Battle League.)
 SKILL_20160718_006415	Palm Strike: Remove Knockdown
 SKILL_20160718_006416	[Palm Strike] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
 SKILL_20160718_006417	Hand Knife: Remove Knockdown
 SKILL_20160718_006418	[Hand Knife] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
-SKILL_20160718_006419	Peltasta 2nd Circle required
-SKILL_20160718_006420	Lv6 Umbo Blow required
-SKILL_20160718_006421	Lv6 Rim Blow required
-SKILL_20160718_006422	Peltasta 3rd Circle required
+SKILL_20160718_006419	Peltasta 2nd Circle erforderlich
+SKILL_20160718_006420	Lv6 Umbo Blow erforderlich
+SKILL_20160718_006421	Lv6 Rim Blow erforderlich
+SKILL_20160718_006422	Peltasta 3rd Circle erforderlich
 SKILL_20160723_006423	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to attack multiple times.
 SKILL_20160723_006424	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#%
 SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
@@ -6463,7 +6463,7 @@ SKILL_20160723_006462	Erhöht Gift-Eigenschaftschaden
 SKILL_20160723_006463	Reflektiert Feuer-Eigenschaftschaden
 SKILL_20160723_006464	Hat eine chance Feuer-Eigenschaftschaden zu reflektieren.
 SKILL_20160723_006465	Pouncing: Knockdown
-SKILL_20160723_006466	Enemies hit by [Pouncing] have a 8% chance per attribute level of being knocked down.
+SKILL_20160723_006466	Enemies hit by [Pouncing] have a 8% chance pro Eigenschafts-Level of being knocked down.
 SKILL_20160723_006467	Swap: Shackle
 SKILL_20160723_006468	Targets that are moved by [Swap] will be immobilized for 2 seconds.
 SKILL_20160723_006469	Damballa: Remove Knockdown
@@ -6486,7 +6486,7 @@ SKILL_20160811_006485	Erhöht HP und SP Erholungsrate.
 SKILL_20160811_006486	120% increase in EXP gain from monsters{nl}x5 increase in Stamina recovery rate
 SKILL_20160811_006487	240% increase in EXP gain from monsters{nl}x9 increase in Stamina recovery rate
 SKILL_20160811_006488	50% increase in EXP gain from monsters{nl}x2 increase in Stamina recovery rate
-SKILL_20160811_006489	Erhöht the attack of a summoned Skeleton Soldier by 1% per attribute level.
+SKILL_20160811_006489	Erhöht the attack of a summoned Skeleton Soldier um 1% pro Eigenschafts-Level.
 SKILL_20160909_006490	150% increase in EXP gain from monsters{nl}x5 increase in Stamina recovery rate
 SKILL_20160909_006491	300% increase in EXP gain from monsters{nl}x9 increase in Stamina recovery rate
 SKILL_20160925_006492	You are now surrounded by the energy of the Sweet Dumpling.
@@ -6565,7 +6565,7 @@ SKILL_20161005_006564	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fix your grip 
 SKILL_20161005_006565	Quintain
 SKILL_20161005_006566	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pushes the spear quite far to attack. The enemies in a crush state get additional damage.
 SKILL_20161005_006567	Initiate
-SKILL_20161005_006568	Strengthen your will before the battle. Increases the chance for you to penetrate the enemy's defense and the affected enemy's block stat can be decreased.
+SKILL_20161005_006568	Strengthen your will before the battle. Erhöht the chance for you to penetrate the enemy's defense and the affected enemy's block stat can be decreased.
 SKILL_20161005_006569	Increased Block Penetration Chance: #{CaptionRatio}#%{nl}Enemy Reduced Block: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006570	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Attack by continuously fuming fire towards enemies. Deals continuous flame damage to enemies. Likely to receive additional Fire damage for a while. While casting Hellbreath, you receive melee block effect.
 SKILL_20161005_006571	{#993399}{ol}[Magic]{/}{/}{nl}Raises a wall of corpses in front of the caster. Enemies near the wall will be afflicted with [Decay]. Enemies affected by [Decay] receive additional damage from Missile attacks.
@@ -6710,7 +6710,7 @@ SKILL_20161005_006709	Savior
 SKILL_20161005_006710	Lycanthropy
 SKILL_20161005_006711	Temporarily transform into a wolf.Continuously consume SP while in the wolf form.
 SKILL_20161005_006712	Able to use Wolf Skills{nl}Additional Attack: #{SkillAtkAdd}#{nl}Maximum Duration: #{CaptionTime}# minutes{nl}Consumes 2% SP per minute
-SKILL_20161005_006713	Summon the Henge Stone. Increases skill levels of magic circles and installations by cleric type clases by 1 and stats while in the transformed mode.
+SKILL_20161005_006713	Summon the Henge Stone. Erhöht skill levels of magic circles and installations by cleric type clases by 1 and stats while in the transformed mode.
 SKILL_20161005_006714	Set up a shop that can change the character's gender. 
 SKILL_20161005_006715	Gender change can be performed as many as the amount of required items owned.
 SKILL_20161005_006716	Foretell
@@ -6772,7 +6772,7 @@ SKILL_20161005_006771	Unable to Attack
 SKILL_20161005_006772	Serpentine: Melee Attack Bonus
 SKILL_20161005_006773	Become vulnerable to all types of melee attacks.
 SKILL_20161005_006774	Currently in Ghastly Trail state.
-SKILL_20161005_006775	Increases critical damage of pierce attacks and nullifies shield.
+SKILL_20161005_006775	Erhöht critical damage of pierce attacks and nullifies shield.
 SKILL_20161005_006776	Crit resistance decreased.
 SKILL_20161005_006777	Decreased critical resistance
 SKILL_20161005_006778	When hit, your crit chance increases.
@@ -6822,7 +6822,7 @@ SKILL_20161005_006821	Bayonet Thrust: Reduced Recovery
 SKILL_20161005_006822	Reduced HP and SP recovery.
 SKILL_20161005_006823	Running Shot applied.
 SKILL_20161005_006824	Limacon applied.
-SKILL_20161005_006825	Equip Cassis Crista to use Murmillo skills.{nl}Increases the chance to block [Missile]-type attacks or nullify magic attacks.{nl}However, reduces movement speed and evasion rate for [Melee]-type attacks.{nl}Depending on acquired attributes, increases Peltasta and Rodelero skills.
+SKILL_20161005_006825	Equip Cassis Crista to use Murmillo skills.{nl}Erhöht the chance to block [Missile]-type attacks or nullify magic attacks.{nl}However, reduces movement speed and evasion rate for [Melee]-type attacks.{nl}Depending on acquired attributes, increases Peltasta and Rodelero skills.
 SKILL_20161005_006826	Foretell: Attack Immunity
 SKILL_20161005_006827	Gains a chance to be immune to all attacks.
 SKILL_20161005_006828	Magic Attack Immunity
@@ -6852,83 +6852,83 @@ SKILL_20161005_006851	Instanced Clear Voucher Barrier
 SKILL_20161005_006852	Immune to all damage.
 SKILL_20161005_006853	[One-handed Sword] type Weapon can be equipped on the right hand (sub weapon).
 SKILL_20161005_006854	One-handed Spear Mastery: Medium-sized Hunter
-SKILL_20161005_006855	When equipped with [One-handed Spear], battling a medium-sized enemy increases your skill damage by 4% per attribute level.
-SKILL_20161005_006856	Zwerchhau: Enhance
-SKILL_20161005_006857	Increases the damage dealt on an enemy with [Zwerchhau] by 1% per attribute level.
-SKILL_20161005_006858	Sturtzhau: Enhance
-SKILL_20161005_006859	Increases the damage dealt on an enemy with [Sturtzhau] by 1% per attribute level.
+SKILL_20161005_006855	When equipped with [One-handed Spear], battling a medium-sized enemy increases your skill damage by 4% pro Eigenschafts-Level.
+SKILL_20161005_006856	Zwerchhau: Aufwerten
+SKILL_20161005_006857	Erhöht den Schaden an einem Feind mit [Zwerchhau] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006858	Sturtzhau: Aufwerten
+SKILL_20161005_006859	Erhöht den Schaden an einem Feind mit [Sturtzhau] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006860	Zucken: Multi Cuts
-SKILL_20161005_006861	Increases the attack count of [Zucken], raising the total amount of damage by 100%.
+SKILL_20161005_006861	Erhöht the attack count of [Zucken], raising the total amount of damage by 100%.
 SKILL_20161005_006862	Redel: Multi Cuts
-SKILL_20161005_006863	Increases the attack count of [Redel], raising the total amount of damage by 180%.
+SKILL_20161005_006863	Erhöht the attack count of [Redel], raising the total amount of damage by 180%.
 SKILL_20161005_006864	Zornhau: Deep Cut
-SKILL_20161005_006865	[Zornhau]'s attack strikes the enemy multiple times. The number of hits increases by 1 per attribute level.
+SKILL_20161005_006865	[Zornhau]'s attack strikes the enemy multiple times. The number of hits increases um 1 pro Eigenschafts-Level.
 SKILL_20161005_006866	Punish: Earthquake
 SKILL_20161005_006867	When [Punish] is successful, deals damage to nearby enemies as well.
-SKILL_20161005_006868	Balestra Fente: Enhance
-SKILL_20161005_006869	Increases the damage dealt on an enemy with [Balestra Fente] by 1% per attribute level.
-SKILL_20161005_006870	Attaque Au Fer: Enhance
-SKILL_20161005_006871	Increases the damage dealt on an enemy with [Attaque Au Fer] by 1% per attribute level.
+SKILL_20161005_006868	Balestra Fente: Aufwerten
+SKILL_20161005_006869	Erhöht den Schaden an einem Feind mit [Balestra Fente] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006870	Attaque Au Fer: Aufwerten
+SKILL_20161005_006871	Erhöht den Schaden an einem Feind mit [Attaque Au Fer] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006872	Shinobi: Ninja Walk
-SKILL_20161005_006873	Like a true Shinobi, one walks silently and quickly. Increases movement speed while reducing STA consumption.
-SKILL_20161005_006874	Dethrone: Enhance
-SKILL_20161005_006875	Increases the damage dealt on an enemy with [Dethrone] by 1% per attribute level.
+SKILL_20161005_006873	Like a true Shinobi, one walks silently and quickly. Erhöht movement speed while reducing STA consumption.
+SKILL_20161005_006874	Dethrone: Aufwerten
+SKILL_20161005_006875	Erhöht den Schaden an einem Feind mit [Dethrone] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006876	Serpentine: Additional Damage
 SKILL_20161005_006877	Enemies affected by [Serpentine] become vulnerable to physical melee attacks for 10 seconds and attacks gain 100% additional damage.
-SKILL_20161005_006878	Dragon Dive: Enhance
-SKILL_20161005_006879	Increases the damage dealt on an enemy with [Dragon Dive] by 1% per attribute level.
+SKILL_20161005_006878	Dragon Dive: Aufwerten
+SKILL_20161005_006879	Erhöht den Schaden an einem Feind mit [Dragon Dive] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006880	Murmillo: Enhanced Manica
-SKILL_20161005_006881	Reduces damage received by enemies to a 25% chance by 10 per attribute level.
-SKILL_20161005_006882	Frenzied Slash: Enhance
-SKILL_20161005_006883	Increases the damage dealt on an enemy with [Frenzied Slash] by 1% per attribute level.
-SKILL_20161005_006884	Evade Thrust: Enhance
-SKILL_20161005_006885	Increases the damage dealt on an enemy with [Evade Thrust] by 1% per attribute level.
+SKILL_20161005_006881	Verringert den von Feinden erhaltenen Schaden um 25% chance by 10 pro Eigenschafts-Level.
+SKILL_20161005_006882	Frenzied Slash: Aufwerten
+SKILL_20161005_006883	Erhöht den Schaden an einem Feind mit [Frenzied Slash] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006884	Evade Thrust: Aufwerten
+SKILL_20161005_006885	Erhöht den Schaden an einem Feind mit [Evade Thrust] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006886	Evade Thrust: Bleed
 SKILL_20161005_006887	[Evade Thrust] gains a 2% chance to causing the attacked target to bleed for 25 seconds. Bleed damage is proportional to the character's STR.
-SKILL_20161005_006888	Headbutt: Enhance
-SKILL_20161005_006889	Increases the damage dealt on an enemy with [Headbutt] by 1% per attribute level.
-SKILL_20161005_006890	Take Down: Enhance
-SKILL_20161005_006891	Increases the damage dealt on an enemy with [Takedown] by 1% per attribute level.
-SKILL_20161005_006892	Frenzied Shoot: Enhance
-SKILL_20161005_006893	Increases the damage dealt on an enemy with [Frenzied Shoot] by 1% per attribute level.
+SKILL_20161005_006888	Headbutt: Aufwerten
+SKILL_20161005_006889	Erhöht den Schaden an einem Feind mit [Headbutt] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006890	Take Down: Aufwerten
+SKILL_20161005_006891	Erhöht den Schaden an einem Feind mit [Takedown] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006892	Frenzied Shoot: Aufwerten
+SKILL_20161005_006893	Erhöht den Schaden an einem Feind mit [Frenzied Shoot] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006894	Enhanced Peltasta Shield Attack
-SKILL_20161005_006895	While equipped with Cassis Crista, increases the skill attack damage for Peltastas' Rim Blow, Umbo Blow, Shield Lob Umbo Thrust by 40% per attribute level.
-SKILL_20161005_006896	Scutum Hit: Enhance
-SKILL_20161005_006897	Increases the damage dealt on an enemy with [Scutum Hit] by 1% per attribute level.
+SKILL_20161005_006895	While equipped with Cassis Crista, increases the skill attack damage for Peltastas' Rim Blow, Umbo Blow, Shield Lob Umbo Thrust by 40% pro Eigenschafts-Level.
+SKILL_20161005_006896	Scutum Hit: Aufwerten
+SKILL_20161005_006897	Erhöht den Schaden an einem Feind mit [Scutum Hit] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006898	Headbutt: Additional Damage
-SKILL_20161005_006899	[Headbutt] makes the enemy vulnerable to [Strike]-type attacks for 10 seconds and receives 10% additional damage per attribute level.
+SKILL_20161005_006899	[Headbutt] makes the enemy vulnerable to [Strike]-type attacks for 10 seconds and receives 10% additional damage pro Eigenschafts-Level.
 SKILL_20161005_006900	Scutum Hit: Stun
-SKILL_20161005_006901	[Scutum Hit] has 3% chance of stunning an attacked target for 2 seconds. Increases the chance by 3% per attribute level.
+SKILL_20161005_006901	[Scutum Hit] has 3% chance of stunning an attacked target for 2 seconds. Erhöht the chance by 3% pro Eigenschafts-Level.
 SKILL_20161005_006902	Enhanced Rodelero Shield Attack
-SKILL_20161005_006903	While equipped with Cassis Crista, increases Rodelero's skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash by 20% per attribute level.
+SKILL_20161005_006903	While equipped with Cassis Crista, increases Rodelero's skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash by 20% pro Eigenschafts-Level.
 SKILL_20161005_006904	Repeated Hits Attack Boost
-SKILL_20161005_006905	While equipped with Cassis Crista, increases skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level.
+SKILL_20161005_006905	While equipped with Cassis Crista, increases skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% pro Eigenschafts-Level.
 SKILL_20161005_006906	Enhanced Hoplite Shield Attack
-SKILL_20161005_006907	While equipped with Cassis Crista, increases skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level.
+SKILL_20161005_006907	While equipped with Cassis Crista, increases skill attack damage for Hoplite's Synchro Thrusting increases by 28% pro Eigenschafts-Level.
 SKILL_20161005_006908	Lancer: Knockdown Chance
-SKILL_20161005_006909	Normal attack knocks down the enemy with 1% chance per attribute level.
-SKILL_20161005_006910	Crush: Enhance
-SKILL_20161005_006911	Increases the damage dealt on an enemy with [Crush] by 1% per attribute level.
+SKILL_20161005_006909	Normal attack knocks down the enemy with 1% chance pro Eigenschafts-Level.
+SKILL_20161005_006910	Crush: Aufwerten
+SKILL_20161005_006911	Erhöht den Schaden an einem Feind mit [Crush] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006912	Crush: Gear Destroy
-SKILL_20161005_006913	[Crush] reduces enemy's physical attack and physical defense by 10% per attribute level.
-SKILL_20161005_006914	Head Strike: Enhance
-SKILL_20161005_006915	Increases the damage dealt on an enemy with [Head Strike] by 1% per attribute level.
+SKILL_20161005_006913	[Crush] reduces enemy's physical attack and physical defense by 10% pro Eigenschafts-Level.
+SKILL_20161005_006914	Head Strike: Aufwerten
+SKILL_20161005_006915	Erhöht den Schaden an einem Feind mit [Head Strike] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006916	Head Strike: Stun
-SKILL_20161005_006917	[Head Strike] has 10% chance per attribute level to stun an enemy.
-SKILL_20161005_006918	Joust: Enhance
-SKILL_20161005_006919	Increases the damage dealt on an enemy with [Joust] by 1% per attribute level.
-SKILL_20161005_006920	Unhorsing: Enhance
-SKILL_20161005_006921	Increases the damage dealt on an enemy with [Unhorsing] by 1% per attribute level.
-SKILL_20161005_006922	Quintain: Enhance
-SKILL_20161005_006923	Increases the damage dealt on an enemy with [Quintain] by 1% per attribute level.
-SKILL_20161005_006924	[Ice Bolt] has 10% chance per attribute level to freeze the enemy (not applicable in TBL or GvG).
-SKILL_20161005_006925	Deals 10% additional damage per attribute level of the Lightning property attack to enemies affected by [Joint Penalty].
-SKILL_20161005_006926	Deals 10% additional damage per attribute level of the Poison property attack to enemies affected by [Joint Penalty].
-SKILL_20161005_006927	Deals 10% additional damage per attribute level of the Earth property attack to enemies affected by [Joint Penalty].
-SKILL_20161005_006928	Flesh Strike: Enhance
-SKILL_20161005_006929	Increases the damage dealt on an enemy with [Flesh Strike] by 1% per attribute level.
-SKILL_20161005_006930	Raise Skull Archer: Enhance
-SKILL_20161005_006931	Increases the attack of a Skull Archer by 1% per attribute level.
+SKILL_20161005_006917	[Head Strike] has 10% chance pro Eigenschafts-Level to stun an enemy.
+SKILL_20161005_006918	Joust: Aufwerten
+SKILL_20161005_006919	Erhöht den Schaden an einem Feind mit [Joust] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006920	Unhorsing: Aufwerten
+SKILL_20161005_006921	Erhöht den Schaden an einem Feind mit [Unhorsing] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006922	Quintain: Aufwerten
+SKILL_20161005_006923	Erhöht den Schaden an einem Feind mit [Quintain] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006924	[Ice Bolt] has 10% chance pro Eigenschafts-Level to freeze the enemy (not applicable in TBL or GvG).
+SKILL_20161005_006925	Deals 10% additional damage pro Eigenschafts-Level of the Lightning property attack to enemies affected by [Joint Penalty].
+SKILL_20161005_006926	Deals 10% additional damage pro Eigenschafts-Level of the Poison property attack to enemies affected by [Joint Penalty].
+SKILL_20161005_006927	Deals 10% additional damage pro Eigenschafts-Level of the Earth property attack to enemies affected by [Joint Penalty].
+SKILL_20161005_006928	Flesh Strike: Aufwerten
+SKILL_20161005_006929	Erhöht den Schaden an einem Feind mit [Flesh Strike] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006930	Raise Skull Archer: Aufwerten
+SKILL_20161005_006931	Erhöht the attack of a Skull Archer um 1% pro Eigenschafts-Level.
 SKILL_20161005_006932	Necromancer: Enhanced Corruption
 SKILL_20161005_006933	Corruption caused by a Necromancer skill will temporarily nullify the enemy gear.
 SKILL_20161005_006934	Disinter: Collect Corpse
@@ -6936,237 +6936,237 @@ SKILL_20161005_006935	When [Disinter] is used, collects even more corpses.
 SKILL_20161005_006936	Dirty Pole: Fragments
 SKILL_20161005_006937	When Dirty Pole receives a melee attack, its fragments spread to attack enemies and the targets gain [Corruption] status ailment for 10 seconds.
 SKILL_20161005_006938	Flesh Strike: Shogoth Explosion
-SKILL_20161005_006939	If a shogoth is within the range of [Flesh Strike], it explodes and gives [Corruption] status ailment to nearby enemies for 5 seconds per attribute level. 
+SKILL_20161005_006939	If a shogoth is within the range of [Flesh Strike], it explodes and gives [Corruption] status ailment to nearby enemies for 5 seconds pro Eigenschafts-Level. 
 SKILL_20161005_006940	Raise Dead: Enhanced HP
-SKILL_20161005_006941	Increases the HP of a Skull Soldier by 1% per attribute level.
+SKILL_20161005_006941	Erhöht the HP of a Skull Soldier um 1% pro Eigenschafts-Level.
 SKILL_20161005_006942	Necromancer: Corpse Capacity
-SKILL_20161005_006943	Increases Necronomicon's maximum capacity for corpses increases by 100 per attribute level.
+SKILL_20161005_006943	Erhöht Necronomicon's maximum capacity for corpses increases by 100 pro Eigenschafts-Level.
 SKILL_20161005_006944	Raise Dead: Collect Corpse
-SKILL_20161005_006945	When a Skull Soldier defeats a monster, the Necronomicon gains 1 corpse per attribute level.
+SKILL_20161005_006945	When a Skull Soldier defeats a monster, the Necronomicon gains 1 corpse pro Eigenschafts-Level.
 SKILL_20161005_006946	Corpse Tower: Skeleton Soldier
 SKILL_20161005_006947	When Corpse Tower defeats a monster a Skeleton Soldier will be summoned.
-SKILL_20161005_006948	Alchemistic Missile: Enhance
-SKILL_20161005_006949	Increases the damage dealt on an enemy with [Alchemistic Missile] by 1% per attribute level.
+SKILL_20161005_006948	Alchemistic Missile: Aufwerten
+SKILL_20161005_006949	Erhöht den Schaden an einem Feind mit [Alchemistic Missile] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006950	Briquetting: Select Appearance
 SKILL_20161005_006951	[Briquetting] can change the appearance of a main weapon or material weapon.
 SKILL_20161005_006952	Invocation: Duration
-SKILL_20161005_006953	Increases the duration for evil spirits summoned from [Invocation] by 5 seconds per attribute level. 
+SKILL_20161005_006953	Erhöht the duration for evil spirits summoned from [Invocation] um 5 Sekunden pro Eigenschafts-Level. 
 SKILL_20161005_006954	Mastema: Phantom Pain
-SKILL_20161005_006955	[Mastema] deals continuous damage to its target and during its effect, decreases STR, INT, SPR, DEX by 10% per attribute level.
+SKILL_20161005_006955	[Mastema] deals continuous damage to its target and during its effect, decreases STR, INT, SPR, DEX by 10% pro Eigenschafts-Level.
 SKILL_20161005_006956	Invocation: Demon Spirit
-SKILL_20161005_006957	Increases the chance of summoning high-leveled evil spirits by 1% per attribute level.
-SKILL_20161005_006958	Kundela Slash: Enhance
-SKILL_20161005_006959	Increases the damage dealt on an enemy with [Kundela Slash] by 1% per attribute level.
+SKILL_20161005_006957	Erhöht the chance of summoning high-leveled evil spirits um 1% pro Eigenschafts-Level.
+SKILL_20161005_006958	Kundela Slash: Aufwerten
+SKILL_20161005_006959	Erhöht den Schaden an einem Feind mit [Kundela Slash] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006960	Blood Curse: Limit
 SKILL_20161005_006961	When using [Blood Curse], HP consumption rises to 80% while increasing the duration for [Blood Curse] by 7 seconds.
 SKILL_20161005_006962	Bone Pointing: Repeated Hits
 SKILL_20161005_006963	[Bone Pointing] attack applies at repeated hits.
 SKILL_20161005_006964	Kurdaitcha: Increased Movement Speed
-SKILL_20161005_006965	Increases movement speed during [Kurdaitcha] to match the normal walking speed
+SKILL_20161005_006965	Erhöht movement speed during [Kurdaitcha] to match the normal walking speed
 SKILL_20161005_006966	Craft Inchant Round
 SKILL_20161005_006967	While in Rest Mode, you can craft Enchant Rounds using Magic Powder.
-SKILL_20161005_006968	Magic Powder: Enhance
-SKILL_20161005_006969	Increases the damage dealt on an enemy with [Magic Powder] by 1% per attribute level.
+SKILL_20161005_006968	Magic Powder: Aufwerten
+SKILL_20161005_006969	Erhöht den Schaden an einem Feind mit [Magic Powder] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006970	Magic Powder: Duration
-SKILL_20161005_006971	Increases the effect duration of [Magic Powder] by 1 second per attribute level.
+SKILL_20161005_006971	Erhöht the effect duration of [Magic Powder] by 1 second pro Eigenschafts-Level.
 SKILL_20161005_006972	Portal: Extra Slots
-SKILL_20161005_006973	Increases the amount of Portal slots by 1 per attribute level.
-SKILL_20161005_006974	Micro Dimension: Enhance
-SKILL_20161005_006975	Increases the damage dealt on an enemy with [Micro Dimension] by 1% per attribute level.
-SKILL_20161005_006976	Ultimate Dimension: Enhance
-SKILL_20161005_006977	Increases the damage dealt on an enemy with [Ultimate Dimension] by 1% per attribute level.
+SKILL_20161005_006973	Erhöht the amount of Portal slots um 1 pro Eigenschafts-Level.
+SKILL_20161005_006974	Micro Dimension: Aufwerten
+SKILL_20161005_006975	Erhöht den Schaden an einem Feind mit [Micro Dimension] um 1% pro Eigenschafts-Level.
+SKILL_20161005_006976	Ultimate Dimension: Aufwerten
+SKILL_20161005_006977	Erhöht den Schaden an einem Feind mit [Ultimate Dimension] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006978	Ultimate Dimension: Confusion
-SKILL_20161005_006979	Inflicts [Confusion] on an enemy with [Ultimate Dimension] for 8 seconds at a 5% chance per attribute level.
+SKILL_20161005_006979	Inflicts [Confusion] on an enemy with [Ultimate Dimension] for 8 seconds at a 5% chance pro Eigenschafts-Level.
 SKILL_20161005_006980	Blink: Duration
-SKILL_20161005_006981	Increases the afterimage duration of [Blink] by 1 second per attribute level.
-SKILL_20161005_006982	Maze: Enhance
-SKILL_20161005_006983	Increases the damage dealt on an enemy with [Maze] by 1% per attribute level.
+SKILL_20161005_006981	Erhöht the afterimage duration of [Blink] by 1 second pro Eigenschafts-Level.
+SKILL_20161005_006982	Maze: Aufwerten
+SKILL_20161005_006983	Erhöht den Schaden an einem Feind mit [Maze] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006984	Maze: Confusion
-SKILL_20161005_006985	When [Maze]'s effect ends, there is 10% chance per attribute level that the enemy becomes confused rather than silenced.
+SKILL_20161005_006985	When [Maze]'s effect ends, there is 10% chance pro Eigenschafts-Level that the enemy becomes confused rather than silenced.
 SKILL_20161005_006986	Micro Dimension: Duplicate
 SKILL_20161005_006987	Doubles ally installments and summons within the range of [Micro Dimension]. Cloned targets will not be further duplicated.
 SKILL_20161005_006988	Ultimate Dimension: Enlarged Magic Circle
-SKILL_20161005_006989	Increases the range of an ally's magic circle within the range of [Ultimate Dimension] by 10%.
-SKILL_20161005_006990	Combination: Enhance
-SKILL_20161005_006991	Increases the damage dealt on an enemy with [Combination] by 1% per attribute level.
+SKILL_20161005_006989	Erhöht the range of an ally's magic circle within the range of [Ultimate Dimension] by 10%.
+SKILL_20161005_006990	Combination: Aufwerten
+SKILL_20161005_006991	Erhöht den Schaden an einem Feind mit [Combination] um 1% pro Eigenschafts-Level.
 SKILL_20161005_006992	Circling: Expand
-SKILL_20161005_006993	If enemies within the range of [Circling] receive physical or missile attacks, there is 5% chance per attribute level that another enemy will receive the same damage.
+SKILL_20161005_006993	If enemies within the range of [Circling] receive physical or missile attacks, there is 5% chance pro Eigenschafts-Level that another enemy will receive the same damage.
 SKILL_20161005_006994	Caracole: Nonskid
 SKILL_20161005_006995	Reduces [Caracole]'s recoil.
 SKILL_20161005_006996	Caracole: Spread
 SKILL_20161005_006997	When [Caracole] hits its target, it spreads to attack nearby enemies.
 SKILL_20161005_006998	Limacon: Spread
 SKILL_20161005_006999	When [Limacon] hits its target, it spreads to attack nearby enemies.
-SKILL_20161005_007000	Cannon Barrage: Enhance
-SKILL_20161005_007001	Increases the damage dealt on an enemy with [Cannon Barrage] by 1% per attribute level.
+SKILL_20161005_007000	Cannon Barrage: Aufwerten
+SKILL_20161005_007001	Erhöht den Schaden an einem Feind mit [Cannon Barrage] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007002	Smoke Grenade: Additional Damage
-SKILL_20161005_007003	Increases additional cannon damage received by an enemy in the state of [Smoke Grenade] by 10% per attribute level.
+SKILL_20161005_007003	Erhöht additional cannon damage received by an enemy in the state of [Smoke Grenade] by 10% pro Eigenschafts-Level.
 SKILL_20161005_007004	Siege Bust: Destroy Magic Circle
 SKILL_20161005_007005	[Siege Bust] removes all of enemy magic circles at the point of attack.
 SKILL_20161005_007006	Cannon Barrage: Stun
-SKILL_20161005_007007	[Cannon Barrage] has a 5% chance per attribute level to stun an enemy for 3 seconds.
-SKILL_20161005_007008	Volleyfire: Enhance
-SKILL_20161005_007009	Increases the damage dealt on an enemy with [Volleyfire] by 1% per attribute level.
+SKILL_20161005_007007	[Cannon Barrage] has a 5% chance pro Eigenschafts-Level to stun an enemy for 3 seconds.
+SKILL_20161005_007008	Volleyfire: Aufwerten
+SKILL_20161005_007009	Erhöht den Schaden an einem Feind mit [Volleyfire] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007010	Snipe: Ricochet Shooting
 SKILL_20161005_007011	[Snipe] deals damage to another enemy nearby its initial target.
 SKILL_20161005_007012	Bayonet Thrust: Repeated Hits
-SKILL_20161005_007013	[Bayonet Thrust] has 2% chance per attribute level to activate repeated hits and give the enemy [Bleed] status ailment. Bleeding damage is proportional to the character's STR.
-SKILL_20161005_007014	[Bayonet Thrust] decreases the enemy's HP and SP recovery via skills or potions for 80 seconds. After Level 2, duration increases by 20 seconds per attribute level.
+SKILL_20161005_007013	[Bayonet Thrust] has 2% chance pro Eigenschafts-Level to activate repeated hits and give the enemy [Bleed] status ailment. Bleeding damage is proportional to the character's STR.
+SKILL_20161005_007014	[Bayonet Thrust] decreases the enemy's HP and SP recovery via skills or potions for 80 seconds. After Level 2, duration increases by 20 seconds pro Eigenschafts-Level.
 SKILL_20161005_007015	Head Shot: Reload
 SKILL_20161005_007016	[Head Shot] is casted twice, but with reduced damage.
 SKILL_20161005_007017	Penetration Shot: Rapid Fire
 SKILL_20161005_007018	Reduces the casting time of [Penetration Shot].
 SKILL_20161005_007019	Penetration Shot: Kneeling Penetrate
 SKILL_20161005_007020	[Penetration Shot] can be used while in the state of [Kneeling Shot]
-SKILL_20161005_007021	Birdfall: Enhance
-SKILL_20161005_007022	Increases the damage dealt on an enemy with [Birdfall] by 1% per attribute level.
+SKILL_20161005_007021	Birdfall: Aufwerten
+SKILL_20161005_007022	Erhöht den Schaden an einem Feind mit [Birdfall] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007023	Butt Stroke: Great Attack
 SKILL_20161005_007024	Landing a successful [Butt Stroke] on a bleeding enemy doubles its damage.
 SKILL_20161005_007025	Butt Stroke: Additional Damage
 SKILL_20161005_007026	[Butt Stroke] makes an enemy vulnerable to gun attacks for 10 seconds and receives 100% additional damage.
-SKILL_20161005_007027	Skarphuggning: Enhance
-SKILL_20161005_007028	Increases the damage dealt on an enemy with [Skarphuggning] by 1% per attribute level.
-SKILL_20161005_007029	Bombardment Orders: Enhance
-SKILL_20161005_007030	Increases the damage dealt on an enemy with [Bombardment Orders] by 1% per attribute level.
-SKILL_20161005_007031	Cavalry Charge: Enhance
-SKILL_20161005_007032	Increases the damage dealt on an enemy with [Cavalry Charge] by 1% per attribute level.
-SKILL_20161005_007033	Leg Shot: Enhance
-SKILL_20161005_007034	Increases the damage dealt on an enemy with [Leg Shot] by 1% per attribute level.
+SKILL_20161005_007027	Skarphuggning: Aufwerten
+SKILL_20161005_007028	Erhöht den Schaden an einem Feind mit [Skarphuggning] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007029	Bombardment Orders: Aufwerten
+SKILL_20161005_007030	Erhöht den Schaden an einem Feind mit [Bombardment Orders] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007031	Cavalry Charge: Aufwerten
+SKILL_20161005_007032	Erhöht den Schaden an einem Feind mit [Cavalry Charge] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007033	Leg Shot: Aufwerten
+SKILL_20161005_007034	Erhöht den Schaden an einem Feind mit [Leg Shot] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007035	Leg Shot: Decreased Movement Speed
-SKILL_20161005_007036	Increases the movement speed of [Leg Shot] by 1% per attribute level.
-SKILL_20161005_007037	Increases the movement speed of an instant dash when you are riding on a companion.
-SKILL_20161005_007038	Storm Bolt: Enhance
-SKILL_20161005_007039	Increases the damage dealt on an enemy with [Storm Bolt] by 1% per attribute level.
+SKILL_20161005_007036	Erhöht the movement speed of [Leg Shot] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007037	Erhöht the movement speed of an instant dash when you are riding on a companion.
+SKILL_20161005_007038	Storm Bolt: Aufwerten
+SKILL_20161005_007039	Erhöht den Schaden an einem Feind mit [Storm Bolt] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007040	Mergen: Expanded Range
-SKILL_20161005_007041	Increases the ranges for two-handed and one-handed bows by 1 per attribute level.
-SKILL_20161005_007042	Spread Shot: Enhance
-SKILL_20161005_007043	Increases the damage dealt on an enemy with [Spread Shot] by 1% per attribute level.
-SKILL_20161005_007044	Homing Arrow: Enhance
-SKILL_20161005_007045	Increases the damage dealt on an enemy with [Homming Arrow] by 1% per attribute level.
-SKILL_20161005_007046	Rapid Fire: Enhance
-SKILL_20161005_007047	Increases the damage dealt on an enemy with [Rapid Fire] by 1% per attribute level.
-SKILL_20161005_007048	Triple Arrow: Enhance
-SKILL_20161005_007049	Increases the damage dealt on an enemy with [Triple Arrow] by 1% per attribute level.
-SKILL_20161005_007050	Rain Arrow: Enhance
-SKILL_20161005_007051	Increases the damage dealt on an enemy with [Rain Arrow] by 1% per attribute level.
-SKILL_20161005_007052	Jump Shot: Enhance
-SKILL_20161005_007053	Increases the damage dealt on an enemy with [Jump Shot] by 1% per attribute level.
+SKILL_20161005_007041	Erhöht the ranges for two-handed and one-handed bows um 1 pro Eigenschafts-Level.
+SKILL_20161005_007042	Spread Shot: Aufwerten
+SKILL_20161005_007043	Erhöht den Schaden an einem Feind mit [Spread Shot] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007044	Homing Arrow: Aufwerten
+SKILL_20161005_007045	Erhöht den Schaden an einem Feind mit [Homming Arrow] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007046	Rapid Fire: Aufwerten
+SKILL_20161005_007047	Erhöht den Schaden an einem Feind mit [Rapid Fire] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007048	Triple Arrow: Aufwerten
+SKILL_20161005_007049	Erhöht den Schaden an einem Feind mit [Triple Arrow] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007050	Rain Arrow: Aufwerten
+SKILL_20161005_007051	Erhöht den Schaden an einem Feind mit [Rain Arrow] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007052	Jump Shot: Aufwerten
+SKILL_20161005_007053	Erhöht den Schaden an einem Feind mit [Jump Shot] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007054	Spread Shot: Backward Shot
 SKILL_20161005_007055	[Spread Shot] is followed by 5 shots from the character's back. (If the attribute is ON, the effect always occurs)
 SKILL_20161005_007056	Spread Shot: Ricochet
-SKILL_20161005_007057	[Spread Shot] has 1% chance per attribute level to bounce off of the enemy to attack another.
-SKILL_20161005_007058	Parthian Shaft: Enhance
-SKILL_20161005_007059	Increases the damage dealt on an enemy with [Parthian Shaft] by 1% per attribute level.
-SKILL_20161005_007060	Increases the duration of [Revive] by 7 seconds per attribute level. (Not applicable in TBL or GvG)
+SKILL_20161005_007057	[Spread Shot] has 1% chance pro Eigenschafts-Level to bounce off of the enemy to attack another.
+SKILL_20161005_007058	Parthian Shaft: Aufwerten
+SKILL_20161005_007059	Erhöht den Schaden an einem Feind mit [Parthian Shaft] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007060	Erhöht the duration of [Revive] by 7 seconds pro Eigenschafts-Level. (Not applicable in TBL or GvG)
 SKILL_20161005_007061	Savior: Duration
-SKILL_20161005_007062	Increases the duration of effects from [Savior] by 1 second per attribute level.
+SKILL_20161005_007062	Erhöht the duration of effects from [Savior] by 1 second pro Eigenschafts-Level.
 SKILL_20161005_007063	Druid: Enhanced Attack Speed
-SKILL_20161005_007064	Increases the skill casting time while [Shapeshifting] or [Transform] is active.
+SKILL_20161005_007064	Erhöht the skill casting time while [Shapeshifting] or [Transform] is active.
 SKILL_20161005_007065	Telepath: Crowd Control
 SKILL_20161005_007066	Enemies near the initial target of [Telepath] also get the same effect.
 SKILL_20161005_007067	Druid: Maintain Movement Speed
 SKILL_20161005_007068	Maintains the character's movement speed after transforming with [Shapeshifting] or [Transform]. 
 SKILL_20161005_007069	Foretell: Duration
-SKILL_20161005_007070	Increases the duration of effects from [Foretell] by 1 second per attribute level.
+SKILL_20161005_007070	Erhöht the duration of effects from [Foretell] by 1 second pro Eigenschafts-Level.
 SKILL_20161005_007071	Death Sentence: Reduced Cooldown
 SKILL_20161005_007072	Reduces the cooldown time of [Death Sentence] significantly.
 SKILL_20161005_007073	Prophecy: Additional Damage
 SKILL_20161005_007074	Enemies within the range of [Prophecy] receive damage proportional to that of magic attack. The damage rate increases with the attribute level.
-SKILL_20161005_007075	Black Death Steam: Enhance
-SKILL_20161005_007076	Increases the damage dealt on an enemy with [Black Death Steam] by 1% per attribute level.
+SKILL_20161005_007075	Black Death Steam: Aufwerten
+SKILL_20161005_007076	Erhöht den Schaden an einem Feind mit [Black Death Steam] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007077	Pandemic: Increased Range
-SKILL_20161005_007078	Increases the range of [Pandemic].
+SKILL_20161005_007078	Erhöht the range of [Pandemic].
 SKILL_20161005_007079	Disenchant: Boosted Debuff Level
-SKILL_20161005_007080	Increases the target's debuff level by 1 when [Disenchant] is used upon an enemy.
-SKILL_20161005_007081	Nullifies the defensive stats from equipment for 5 seconds per attribute level when [Disenchant] is used upon an enemy.
+SKILL_20161005_007080	Erhöht the target's debuff level by 1 when [Disenchant] is used upon an enemy.
+SKILL_20161005_007081	Nullifies the defensive stats from equipment for 5 seconds pro Eigenschafts-Level when [Disenchant] is used upon an enemy.
 SKILL_20161005_007082	Incinerate: Infect
-SKILL_20161005_007083	When an enemy is defeated by [Incinerate], it transfers its debuff to a nearby enemy. Increases the number of possible targets by 1 per attribute level.
+SKILL_20161005_007083	When an enemy is defeated by [Incinerate], it transfers its debuff to a nearby enemy. Erhöht the number of possible targets um 1 pro Eigenschafts-Level.
 SKILL_20161005_007084	Merkabah: Reduced Movement Speed
 SKILL_20161005_007085	Reduces the movement speed of [Merkabah]
 SKILL_20161005_007086	Nullify enemy attacks while near [Merkabah]'s wheel and temporarily gain the Holy property.
 SKILL_20161005_007087	Enhanced Defense Formation: Saved Time
 SKILL_20161005_007088	The numbers from [Gematria] and [Notarikon] are quickly calculated.
 SKILL_20161005_007089	Enhanced Defense Formation: Target Increased
-SKILL_20161005_007090	[Gematria] and [Notarikon] affect 1 additional target per attribute level.
+SKILL_20161005_007090	[Gematria] and [Notarikon] affect 1 additional target pro Eigenschafts-Level.
 SKILL_20161005_007091	Reduce Level: Additional Reduction
-SKILL_20161005_007092	Reduces the additional level of [Reduce Level] by 1 per attribute level.
+SKILL_20161005_007092	Reduces the additional level of [Reduce Level] um 1 pro Eigenschafts-Level.
 SKILL_20161005_007093	Merkabah: Enhanced Durability
-SKILL_20161005_007094	Increases the durability of the wheel from [Merkabah] which only receives 1 damage for any attacks. The wheel can withstand 5 times of damage per attribute level.
-SKILL_20161005_007095	Increases an ally's magic defense when nearby the wheel of [Merkabah] by 10 per attribute level.
+SKILL_20161005_007094	Erhöht the durability of the wheel from [Merkabah] which only receives 1 damage for any attacks. The wheel can withstand 5 times of damage pro Eigenschafts-Level.
+SKILL_20161005_007095	Erhöht an ally's magic defense when nearby the wheel of [Merkabah] by 10 pro Eigenschafts-Level.
 SKILL_20161005_007096	Inquisitor: Burn
-SKILL_20161005_007097	Upon defeating an enemy, there is 1% chance per attribute level that flame erupts from the fallen enemy attribute level. The flame lasts for 10 seconds.
-SKILL_20161005_007098	Iron Maiden: Enhance
-SKILL_20161005_007099	Increases the damage dealt on an enemy with [Iron Maiden] by 1% per attribute level.
-SKILL_20161005_007100	Heretic's Fork: Enhance
-SKILL_20161005_007101	Increases the damage dealt on an enemy with [Heretic's Fork] by 1% per attribute level.
-SKILL_20161005_007102	Iron Boots: Enhance
-SKILL_20161005_007103	Increases the damage dealt on an enemy with [Iron Boots] by 1% per attribute level.
+SKILL_20161005_007097	Upon defeating an enemy, there is 1% chance pro Eigenschafts-Level that flame erupts from the fallen enemy attribute level. The flame lasts for 10 seconds.
+SKILL_20161005_007098	Iron Maiden: Aufwerten
+SKILL_20161005_007099	Erhöht den Schaden an einem Feind mit [Iron Maiden] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007100	Heretic's Fork: Aufwerten
+SKILL_20161005_007101	Erhöht den Schaden an einem Feind mit [Heretic's Fork] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007102	Iron Boots: Aufwerten
+SKILL_20161005_007103	Erhöht den Schaden an einem Feind mit [Iron Boots] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007104	Iron Boots: Slow
-SKILL_20161005_007105	Increases the movement speed of [Iron Boots] by 1% per attribute level.
-SKILL_20161005_007106	Pear of Anguish: Enhance
-SKILL_20161005_007107	Increases the damage dealt on an enemy with [Pear of Anguish] by 1% per attribute level.
+SKILL_20161005_007105	Erhöht the movement speed of [Iron Boots] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007106	Pear of Anguish: Aufwerten
+SKILL_20161005_007107	Erhöht den Schaden an einem Feind mit [Pear of Anguish] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007108	Pear of Anguish: Silence
-SKILL_20161005_007109	[Pear of Anguish] with 20% chance per attribute level silences the enemy for 5 seconds.
+SKILL_20161005_007109	[Pear of Anguish] with 20% chance pro Eigenschafts-Level silences the enemy for 5 seconds.
 SKILL_20161005_007110	Breaking Wheel: Additional Damage
 SKILL_20161005_007111	While [Breaking Wheel] is active, attacking the wheel physically increases its range temporarily to attack enemies outside its range.
 SKILL_20161005_007112	Inquisitor: Darkness Resistance
-SKILL_20161005_007113	When equipped with [Blunt Weapon], darkness property resistance increases by 10 per attribute level.
-SKILL_20161005_007114	God Smash: Enhance
-SKILL_20161005_007115	Increases the damage dealt on an enemy with [God Smash] by 1% per attribute level.
-SKILL_20161005_007116	In PvP, [Malleus Maleficarum] reduces the SP of an enemy by 5% of its current amount per attribute level. In PvE, it silences the monster.
+SKILL_20161005_007113	When equipped with [Blunt Weapon], darkness property resistance increases by 10 pro Eigenschafts-Level.
+SKILL_20161005_007114	God Smash: Aufwerten
+SKILL_20161005_007115	Erhöht den Schaden an einem Feind mit [God Smash] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007116	In PvP, [Malleus Maleficarum] reduces the SP of an enemy by 5% of its current amount pro Eigenschafts-Level. In PvE, it silences the monster.
 SKILL_20161005_007117	Dark Sight: Duration
-SKILL_20161005_007118	Increases the effect duration of [Dark Sight] by 1 second per attribute level.
-SKILL_20161005_007119	Entrenchment: Enhance
-SKILL_20161005_007120	Increases the damage dealt on an enemy with [Entrenchment] by 1% per attribute level.
-SKILL_20161005_007121	Hurling: Enhance
-SKILL_20161005_007122	Increases the damage dealt on an enemy with [Hurling] by 1% per attribute level.
+SKILL_20161005_007118	Erhöht the effect duration of [Dark Sight] by 1 second pro Eigenschafts-Level.
+SKILL_20161005_007119	Entrenchment: Aufwerten
+SKILL_20161005_007120	Erhöht den Schaden an einem Feind mit [Entrenchment] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007121	Hurling: Aufwerten
+SKILL_20161005_007122	Erhöht den Schaden an einem Feind mit [Hurling] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007123	Hurling: Stun
-SKILL_20161005_007124	Enemies get stunned by [Hurling] for 1 second. After Lv2, the duration of stun increases by 0.3 seconds per attribute level. 
-SKILL_20161005_007125	Hidden Potential: Enhance
-SKILL_20161005_007126	Increases the minimum amount of physical and magic attack from [Hidden Potential] by 1 per attribute level.
+SKILL_20161005_007124	Enemies get stunned by [Hurling] for 1 second. After Lv2, the duration of stun increases by 0.3 seconds pro Eigenschafts-Level. 
+SKILL_20161005_007125	Hidden Potential: Aufwerten
+SKILL_20161005_007126	Erhöht the minimum amount of physical and magic attack from [Hidden Potential] um 1 pro Eigenschafts-Level.
 SKILL_20161005_007127	Hidden Potential: Duration
-SKILL_20161005_007128	Increases the duration of effects from [Hidden Potential] by 5 seconds per attribute level.
-SKILL_20161005_007129	Storm Calling: Enhance
-SKILL_20161005_007130	Increases the damage dealt on an enemy with [Storm Calling] by 1% per attribute level.
+SKILL_20161005_007128	Erhöht the duration of effects from [Hidden Potential] um 5 Sekunden pro Eigenschafts-Level.
+SKILL_20161005_007129	Storm Calling: Aufwerten
+SKILL_20161005_007130	Erhöht den Schaden an einem Feind mit [Storm Calling] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007131	Storm Calling: Enhanced Recovery
-SKILL_20161005_007132	Increases the amount of allied HP recovered by [Storm Calling] by 1% per attribute level.
-SKILL_20161005_007133	Begone Demon: Enhance
-SKILL_20161005_007134	Increases the damage dealt on an enemy with [Begone Demon] by 1% per attribute level.
+SKILL_20161005_007132	Erhöht the amount of allied HP recovered by [Storm Calling] um 1% pro Eigenschafts-Level.
+SKILL_20161005_007133	Begone Demon: Aufwerten
+SKILL_20161005_007134	Erhöht the damage an einem Feind mit [Begone Demon] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007135	Storm Calling: Additional Damage
 SKILL_20161005_007136	Melee attacks deal additional damage of 50% to the enemies in the range of [Storm Calling].
 SKILL_20161005_007137	Craft Omamori
 SKILL_20161005_007138	Craft an Omamori that can block a harmful effect once. Can only be crafted while in Rest Mode.
-SKILL_20161005_007139	Gohei: Enhance
-SKILL_20161005_007140	Increases the damage dealt on an enemy with [Gohei] by 1% per attribute level.
+SKILL_20161005_007139	Gohei: Aufwerten
+SKILL_20161005_007140	Erhöht the damage an einem Feind mit [Gohei] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007141	Sweeping: Maintain
 SKILL_20161005_007142	While [Sweeping] is active, the duration of nearby allied magic circles is increased. 
-SKILL_20161005_007143	Hamaya: Enhance
-SKILL_20161005_007144	Increases the damage dealt on an enemy with [Hamaya] by 1% per attribute level.
+SKILL_20161005_007143	Hamaya: Aufwerten
+SKILL_20161005_007144	Erhöht the damage an einem Feind mit [Hamaya] um 1% pro Eigenschafts-Level.
 SKILL_20161005_007145	Clapping: Enhanced Recovery
-SKILL_20161005_007146	Increases ally installments' HP recovered by [Clapping] by 1 per attribute level.
+SKILL_20161005_007146	Erhöht ally installments' HP recovered by [Clapping] um 1 pro Eigenschafts-Level.
 SKILL_20161005_007147	Kagura: Magic Defense
-SKILL_20161005_007148	While [Kagura] is active, you and nearby allies will receive less damage from magic attacks by 10% per attribute level.
-SKILL_20161005_007149	Cannoneer 2nd Circle Required
-SKILL_20161005_007150	Taoist 1st Circle Required
-SKILL_20161005_007151	Doppelsoeldner 3rd Circle Required
-SKILL_20161005_007152	Lv6 Zornhau required
-SKILL_20161005_007153	Lv6 Zucken required
-SKILL_20161005_007154	Lv6 Redel required
-SKILL_20161005_007155	Dragoon 2nd Circle Required
-SKILL_20161005_007156	Enchanter 1st Circle Required
-SKILL_20161005_007157	Falconer 3rd Circle Required
-SKILL_20161005_007158	Featherfoot 2nd Circle Required
-SKILL_20161005_007159	Fencer 3rd Circle Required
-SKILL_20161005_007160	Hackapell 1st Circle Required
-SKILL_20161005_007161	Inquisitor 1st Circle Required
-SKILL_20161005_007162	Kabalist 2nd Circle Required
-SKILL_20161005_007163	Lancer 1st Circle Required
-SKILL_20161005_007164	Mergen 1st Circle Required
-SKILL_20161005_007165	Murmillo 1st Circle Required
-SKILL_20161005_007166	Musketeer 2nd Circle, Lv1 Headshot Required
-SKILL_20161005_007167	Musketeer 2nd Circle Required
-SKILL_20161005_007168	Oracle 3rd Circle Required
-SKILL_20161005_007169	Plague Doctor 2nd Circle Required
-SKILL_20161005_007170	Sage 1st Circle Required
-SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required
-SKILL_20161005_007172	Warlock 2nd Circle Required
+SKILL_20161005_007148	While [Kagura] is active, you and nearby allies will receive less damage from magic attacks by 10% pro Eigenschafts-Level.
+SKILL_20161005_007149	Cannoneer 2nd Circle erforderlich
+SKILL_20161005_007150	Taoist 1st Circle erforderlich
+SKILL_20161005_007151	Doppelsoeldner 3rd Circle erforderlich
+SKILL_20161005_007152	Lv6 Zornhau erforderlich
+SKILL_20161005_007153	Lv6 Zucken erforderlich
+SKILL_20161005_007154	Lv6 Redel erforderlich
+SKILL_20161005_007155	Dragoon 2nd Circle erforderlich
+SKILL_20161005_007156	Enchanter 1st Circle erforderlich
+SKILL_20161005_007157	Falconer 3rd Circle erforderlich
+SKILL_20161005_007158	Featherfoot 2nd Circle erforderlich
+SKILL_20161005_007159	Fencer 3rd Circle erforderlich
+SKILL_20161005_007160	Hackapell 1st Circle erforderlich
+SKILL_20161005_007161	Inquisitor 1st Circle erforderlich
+SKILL_20161005_007162	Kabalist 2nd Circle erforderlich
+SKILL_20161005_007163	Lancer 1st Circle erforderlich
+SKILL_20161005_007164	Mergen 1st Circle erforderlich
+SKILL_20161005_007165	Murmillo 1st Circle erforderlich
+SKILL_20161005_007166	Musketeer 2nd Circle, Lv1 Headshot erforderlich
+SKILL_20161005_007167	Musketeer 2nd Circle erforderlich
+SKILL_20161005_007168	Oracle 3rd Circle erforderlich
+SKILL_20161005_007169	Plague Doctor 2nd Circle erforderlich
+SKILL_20161005_007170	Sage 1st Circle erforderlich
+SKILL_20161005_007171	Schwarzer Reiter 3rd Circle erforderlich
+SKILL_20161005_007172	Warlock 2nd Circle erforderlich
