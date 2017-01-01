@@ -2171,7 +2171,7 @@ UI_20160323_002170	{#2c140c}Durchschnittslevel : %s{/}
 UI_20160323_002171	{@st41b}Beitreten
 UI_20160323_002172	{@st42} Charakterbegrüßungen{/}
 UI_20160323_002173	[Server] Gildenname
-UI_20160323_002174	Aufzeichnen / Wertung
+UI_20160323_002174	Werte / Wertung
 UI_20160323_002175	[Erstellt vor: %s]
 UI_20160411_002176	{@st66b}Verwende Kamerawackeln{/}
 UI_20160425_002177	{@st42}Wenn beide beteiligten Parteien Token{nl} verwenden, werden {nl}Handelseigenschaften von Waffen nicht geändert.{/}
@@ -2214,8 +2214,8 @@ UI_20160718_002213	{@st43}Event Laden{/}
 UI_20160718_002214	{@st59}Schließen{/}
 UI_20160718_002215	{@st41}Stat
 UI_20160718_002216	{@st59}Regional GvG
-UI_20160718_002217	{@st43}Regional GvG Rankings{/}
-UI_20160718_002218	Regionale GvG Rankings
+UI_20160718_002217	{@st43}Regional GvG Rangliste{/}
+UI_20160718_002218	Regionale GvG Rangliste
 UI_20160718_002219	{@st59}Schließen
 UI_20160718_002220	{@st59b}Regional GvG{nl}{@st59s} - Belohnungen werden wöchentlich ausgegeben und die Ranglisten zurückgesetzt.{nl}- Siehe Belohnungsliste für weitere Details.{nl}{/}
 UI_20160718_002221	{@st66b}Rang %s{/}
@@ -2250,7 +2250,7 @@ UI_20160718_002249	Tag Stunde Minute Sekunde
 UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Ergebnis{/}
 UI_20160718_002252	{#000000}%s Punkte{/}
-UI_20160718_002253	Regionale GvG Rankings
+UI_20160718_002253	Regionale GvG Rangliste
 UI_20160811_002254	{@st66b18}※ Der Gegenstand wird dann verbraucht, wenn du den Namen ändern.{/}
 UI_20160811_002255	{@st42} Anmeldebenachrichtigungen anschalten
 UI_20160811_002256	{@white_16_ol}Gildenmitglieder{/}
@@ -2403,7 +2403,7 @@ UI_20161107_002402	Once exchanged, you cannot revert it.
 UI_20161107_002403	Do you wish to exchange the item for medal?
 UI_20161107_002404	Exchanging the purchased back to medal might cause some loss due to the exchange rate.
 UI_20161107_002405	{@st43}{s24}TP Shop
-UI_20161107_002406	{@st43}{s24}NEW{/}
+UI_20161107_002406	{@st43}{s24}NEU{/}
 UI_20161107_002407	  {img Nexon_cash_mark 30 30} Owne{/}{/}
 UI_20161107_002408	{@st66d}{s20}Recharge Steam Wallet{/}
 UI_20161107_002409	{@st66d}{s18}Vorschau/Kaufen{/}
@@ -2417,11 +2417,11 @@ UI_20161107_002416	  Aktuelle Medaillen{/}
 UI_20161107_002417	  Verbleibende Medaillen{/}
 UI_20161107_002418	Medaillen Preis
 UI_20161107_002419	{@st66b}TP kaufen{/}
-UI_20161107_002420	{@st66b}Recycling Shop{/}
-UI_20161107_002421	Exchange items for medals
-UI_20161107_002422	Exchange medals for items
-UI_20161107_002423	Buyables
-UI_20161107_002424	Sellables
+UI_20161107_002420	{@st66b}Wiederverwertung Shop{/}
+UI_20161107_002421	Tauschartikel für Medaillen
+UI_20161107_002422	Tausche Medaillen für Gegenstände
+UI_20161107_002423	Kaufbar
+UI_20161107_002424	Verkaufbar
 UI_20161107_002425	{@st66d}{s18}Top 5 Verkäufer{/}
 UI_20161107_002426	{@st55_b} Suchwort eingeben{/}
 UI_20161107_002427	 TP käuflich
@@ -2433,14 +2433,14 @@ UI_20161107_002432	{@st67}{s18}A purchase cannot be reverted once it is finalize
 UI_20161107_002433	{@st66d}{s18}Ja{/}
 UI_20161107_002434	{@st66d}{s18}Nein{/}
 UI_20161107_002435	{@st66}{s18}Right to Cancel{/}
-UI_20161107_002436	{@st42b}{s16}Purchase{/}
-UI_20161107_002437	{@st42}{s16} Medal Cost {/}{img icon_item_recyclemedal 20 20}{/}
+UI_20161107_002436	{@st42b}{s16}Kaufen{/}
+UI_20161107_002437	{@st42}{s16} Medaillen Preis {/}{img icon_item_recyclemedal 20 20}{/}
 UI_20161107_002438	{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20 20}{/}
-UI_20161107_002439	Owned: %s
-UI_20161107_002440	{@st42b}{s16}Purchase{/}
-UI_20161107_002441	{@st42b}{s16}Exchange for Medal{/}
-UI_20161107_002442	Medal Consumed
-UI_20161107_002443	Medal Obtained
+UI_20161107_002439	Besitzt: %s
+UI_20161107_002440	{@st42b}{s16}Kaufen{/}
+UI_20161107_002441	{@st42b}{s16}Austausch für Medaillen{/}
+UI_20161107_002442	Medaillen verbraucht
+UI_20161107_002443	Medaillen erhalten
 UI_20161108_002444	{@st43}%s obtained!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s
 UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s
@@ -2449,15 +2449,15 @@ UI_20161108_002448	{@st59}Schließen{/}
 UI_20161108_002449	{@st66b}Might obtain something mysterious{nl}when opened.{/}
 UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}
 UI_20161121_002451	Name/Ort
-UI_20161121_002452	Entry Level
-UI_20161121_002453	Entry Count
-UI_20161121_002454	Enter Dungeon
+UI_20161121_002452	Eintrags Level
+UI_20161121_002453	Eintragszähler
+UI_20161121_002454	Betrete Dungeon
 UI_20161121_002455	%s/%s
 UI_20161121_002456	Main Obtainable Equipment
 UI_20161121_002457	{@st66b}Auto Match{nl}Re-Enter
 UI_20161121_002458	Entering the place previously matched.
 UI_20161121_002459	Auto Match
-UI_20161121_002460	Main Monster
+UI_20161121_002460	Haupt Monster
 UI_20161121_002461	Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.
 UI_20161121_002462	Auto Match{nl}with Party
 UI_20161121_002463	Auto Match w/ Current Members

@@ -6947,8 +6947,8 @@ ETC_20150317_006947	Ojars Rubenis
 ETC_20150317_006948	Bourgeois (Male)
 ETC_20150317_006949	Madam
 ETC_20150317_006950	Vanessa
-ETC_20150317_006951	Dorf Costume (Male)
-ETC_20150317_006952	Dorf Costume (Female)
+ETC_20150317_006951	Dorf Kostüm (Male)
+ETC_20150317_006952	Dorf Kostüm (Female)
 ETC_20150317_006953	Merchant 2 Sit
 ETC_20150317_006954	Merchant 1
 ETC_20150317_006955	Merchant 2
@@ -10325,7 +10325,7 @@ ETC_20150323_010326	Buff Removal Gegenstand
 ETC_20150323_010327	This item is currently equipped.
 ETC_20150323_010328	You cannot add more than one of each type.
 ETC_20150323_010329	The buyer does not want this item.
-ETC_20150323_010330	Are you sure you want to sell this?  
+ETC_20150323_010330	Bist du sicher dass du das verkaufen willst?
 ETC_20150323_010331	Awakening
 ETC_20150323_010332	Can only be used in Tenet Garden
 ETC_20150323_010333	Can only be used in Ramstis Ridge Area
@@ -19176,7 +19176,7 @@ ETC_20151224_019176	Charakter welcher Gegenstände erhält
 ETC_20151224_019177	You cannot lock an already locked item.
 ETC_20151224_019178	Nur männlich
 ETC_20151224_019179	Nur weiblich
-ETC_20151224_019180	Unable to equip
+ETC_20151224_019180	Nicht ausrüstbar
 ETC_20151224_019181	If you register this item, the potential{nl}will decrease after it is traded{nl}Would you like to register it?
 ETC_20151224_019182	The potential of this item will be decreased after it is traded. Will you accept?
 ETC_20151224_019183	There are no tools to repair.
@@ -19188,23 +19188,23 @@ ETC_20151224_019188	Your companion cannot equip this.
 ETC_20151224_019189	This item cannot be used in its current state.
 ETC_20151224_019190	You cannot mount your companion while you are transforming.
 ETC_20151224_019191	You cannot rest while you are using a skill.
-ETC_20151224_019192	Message
-ETC_20151224_019193	Free
-ETC_20151224_019194	New Costumes
-ETC_20151224_019195	Limited Costumes
+ETC_20151224_019192	Nachricht
+ETC_20151224_019193	Frei
+ETC_20151224_019194	Neues Kostüm
+ETC_20151224_019195	Limited Kostüme
 ETC_20151224_019196	Pet
-ETC_20151224_019197	Male Hairstyle
-ETC_20151224_019198	Female Hairstyle
-ETC_20151224_019199	Appearance
-ETC_20151224_019200	Limited Items
+ETC_20151224_019197	Männliche Frisur
+ETC_20151224_019198	Weibliche Frisur
+ETC_20151224_019199	Aussehen
+ETC_20151224_019200	Limitierte Gegenstände
 ETC_20151224_019201	[Memo]
-ETC_20151224_019202	You already have this item.
-ETC_20151224_019203	Male Costume
-ETC_20151224_019204	Female Costume
+ETC_20151224_019202	Du hast diesen Gegenstand bereits.
+ETC_20151224_019203	Männliche Kostüme
+ETC_20151224_019204	Weibliche Kostüme
 ETC_20151224_019205	You don't have any quests to move to in the area.
 ETC_20151224_019206	Gruppe Quest Count : {count} / {max}{nl}
-ETC_20151224_019207	A quest has been selected!
-ETC_20151224_019208	Cannot find the NPC.
+ETC_20151224_019207	Eine Quest wurde ausgewählt!
+ETC_20151224_019208	Der NPC kann nicht gefunden werden.
 ETC_20151224_019209	Today's Correct Answers : {DAYPLAYCOUNT} {nl} Remaining Attempts : {COUNT}{nl}The range you can select in between is {MIN} ~ {MAX}.{nl}Please select it within the specified range. 
 ETC_20151224_019210	Wähle eine Nummer.
 ETC_20151224_019211	Please select a number within the range of {MIN} ~ {MAX}.
@@ -21810,21 +21810,21 @@ ETC_20160520_021809	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 30 
 ETC_20160520_021810	Sardine Bundle
 ETC_20160520_021811	Rechtsklick zum verwenden. Contains Sardine x5.
 ETC_20160520_021812	Trump Swordsman Package (Male)
-ETC_20160520_021813	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Costume (Male) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021813	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Kostüm (Male) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021814	Trump Swordsman Package (Female)
-ETC_20160520_021815	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Costume (Female) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021815	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Kostüm (Female) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021816	Trump Magician Package (Male)
-ETC_20160520_021817	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Costume (Male) x1{nl} - Diamond Magician Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021817	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Kostüm (Male) x1{nl} - Diamond Magician Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021818	Trump Magician Package (Female)
-ETC_20160520_021819	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Costume (Female) x1{nl} - Queen Diamond's Tiara x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021819	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Kostüm (Female) x1{nl} - Queen Diamond's Tiara x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021820	Trump Archer Package (Male)
-ETC_20160520_021821	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Costume (Male) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021821	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Kostüm (Male) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021822	Trump Archer Package (Female)
-ETC_20160520_021823	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Costume (Female) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021823	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Kostüm (Female) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021824	Trump Cleric Package (Male)
-ETC_20160520_021825	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Costume (Male) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021825	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Kostüm (Male) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021826	Trump Cleric Package (Female)
-ETC_20160520_021827	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Costume (Female) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021827	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Kostüm (Female) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021828	Penguin
 ETC_20160520_021829	Steam Inventar Verwendbarkeit
 ETC_20160520_021830	Neutrale Zeit (sek)
@@ -21978,14 +21978,14 @@ ETC_20160622_021977	Du hast diesen Handel gemeldet.
 ETC_20160622_021978	Du hast diesen Handel bereits gemeldet.
 ETC_20160622_021979	Dieser Gegenstand kann nicht gekauft werden.
 ETC_20160622_021980	Dieser Gegenstand wurde genommen.
-ETC_20160622_021981	Premium Gegenstand
+ETC_20160622_021981	Premium Gegenstände
 ETC_20160704_021982	Purchase Bokor Items
 ETC_20160704_021983	You cannot create Zombies without the Zombify Skill.
 ETC_20160704_021984	You have created the maximum amount of Zombies and cannot create more.
 ETC_20160711_021985	You cannot store any more since you have exceeded the maximum amount of {MAX}.
 ETC_20160711_021986	You must be higher than Rank 2 to deposit or withdraw silver.
 ETC_20160718_021987	Fake Sequoia
-ETC_20160718_021988	Guild Tower
+ETC_20160718_021988	Gilden Turm
 ETC_20160718_021989	Companian Egg
 ETC_20160718_021990	Companian Box
 ETC_20160718_021991	Outer Wall District 11
@@ -22258,7 +22258,7 @@ ETC_20160718_022257	Colored Lenses
 ETC_20160718_022258	Hair Accessories
 ETC_20160718_022259	Dye
 ETC_20160718_022260	Pile of Consumables / Miscellaneous
-ETC_20160718_022261	Pile of Costumes
+ETC_20160718_022261	Pile of Kostüme
 ETC_20160718_022262	Pile of Cosmetics
 ETC_20160718_022263	Recipe - Futere Scimitar
 ETC_20160718_022264	Recipe - Eki Lumai Two-handed Sword
@@ -22332,11 +22332,11 @@ ETC_20160718_022331	/y What you wish to say
 ETC_20160718_022332	/p What you wish to say
 ETC_20160718_022333	/g What you wish to say
 ETC_20160718_022334	/w Team name What you wish to say
-ETC_20160718_022335	Warrior Costume
-ETC_20160718_022336	Wizard Costume
-ETC_20160718_022337	Archer Costume
-ETC_20160718_022338	Cleric Costume
-ETC_20160718_022339	Common Costume
+ETC_20160718_022335	Warrior Kostüm
+ETC_20160718_022336	Wizard Kostüm
+ETC_20160718_022337	Archer Kostüm
+ETC_20160718_022338	Cleric Kostüm
+ETC_20160718_022339	Common Kostüm
 ETC_20160718_022340	Transcendence Ingredients
 ETC_20160718_022341	Transcendence Results
 ETC_20160718_022342	Transcendence Information
@@ -23327,24 +23327,24 @@ ETC_20160811_023326	Exiting game in {Time} seconds.
 ETC_20160811_023327	Logging out in {Time} seconds.
 ETC_20160811_023328	Moving to the character selection screen in {Time} seconds.
 ETC_20160811_023329	Moving channels in {Time} seconds.
-ETC_20160811_023330	Date of Purchase:
-ETC_20160811_023331	Quantity:
-ETC_20160811_023332	Total Price:
-ETC_20160811_023333	Price per Unit:
-ETC_20160811_023334	Item placed in cash storage.
+ETC_20160811_023330	Kaufdatum:
+ETC_20160811_023331	Menge:
+ETC_20160811_023332	Total Preis:
+ETC_20160811_023333	Preis pro Einheit:
+ETC_20160811_023334	Gegenstand im Lager platziert.
 ETC_20160811_023335	Click the cash storage{nl}to complete the transaction.
-ETC_20160811_023336	Not enough Nexon Cash.
-ETC_20160811_023337	Using
-ETC_20160811_023338	All Items
-ETC_20160811_023339	New Items
-ETC_20160811_023340	Popular Items
-ETC_20160811_023341	Event Items
-ETC_20160811_023342	Recommended Items
-ETC_20160811_023343	A to Z
-ETC_20160811_023344	Z to A
-ETC_20160811_023345	Most Popular
-ETC_20160811_023346	Least Popular
-ETC_20160811_023347	Latest Registered
+ETC_20160811_023336	Nicht genug Nexon Cash.
+ETC_20160811_023337	Benutzung
+ETC_20160811_023338	Alle Gegenstände
+ETC_20160811_023339	Neue Gegenstände
+ETC_20160811_023340	Beliebte Gegenstände
+ETC_20160811_023341	Event Gegenstände
+ETC_20160811_023342	Empfohlen Gegenstände
+ETC_20160811_023343	A bis Z
+ETC_20160811_023344	Z bis A
+ETC_20160811_023345	Am beliebtesten
+ETC_20160811_023346	Am wenigsten beliebt
+ETC_20160811_023347	Zuletzt hinzugefügt
 ETC_20160811_023348	Earth Tower Lolopanther Area: 6F
 ETC_20160811_023349	Earth Tower Lolopanther Area: 11F
 ETC_20160811_023350	Earth Tower Lolopanther Area: 16F
@@ -24211,10 +24211,10 @@ ETC_20160811_024210	We'll have to go to Ystis Control Room{nl}to gather the magi
 ETC_20160811_024211	It seems to be time to use these little beauties...
 ETC_20160811_024212	What took you so long!
 ETC_20160811_024213	Hunting Season
-ETC_20160813_024214	Bunny Costume Package
-ETC_20160813_024215	Right-click to obtain the contents of this box.{nl}This item can only be used by Wizard classes.{nl} - Bunny Costume x1{nl} - White Bunny Hairband x1{nl} - Enchant Scroll x10
+ETC_20160813_024214	Bunny Kostüm Package
+ETC_20160813_024215	Right-click to obtain the contents of this box.{nl}This item can only be used by Wizard classes.{nl} - Bunny Kostüm x1{nl} - White Bunny Hairband x1{nl} - Enchant Scroll x10
 ETC_20160813_024216	Swimwear Package
-ETC_20160813_024217	Right-click to use. {nl}Contains a Swimwear Costume for your class.{nl} - Swimwear Costume x 1{nl} - Hair Accessory Selection Box 1x {nl} - Enchant Scroll x10
+ETC_20160813_024217	Right-click to use. {nl}Contains a Swimwear Kostüm for your class.{nl} - Swimwear Kostüm x 1{nl} - Hair Accessory Selection Box 1x {nl} - Enchant Scroll x10
 ETC_20160813_024218	Hair Accessory Selection Box
 ETC_20160813_024219	Right-click to obtain the contents of this box.{nl}You will be able to select and receive a Hair Accessory of your choice.{nl}You will be able to select one of the following.{nl} - Polka Dot Lime Ribbon{nl} - Swimming Goggles{nl} - Huckleberry Hair Accessory{nl} - Sailor Hat{nl} - Snorkeling Mask{nl} - Aloha Flower Crown{nl} - Beach Straw Hat{nl} - Beach Fedora
 ETC_20160813_024220	This item can only be used by Wizard classes.
@@ -24227,7 +24227,7 @@ ETC_20160909_024226	Applies effects to your character for 1 hour.{nl}Right-click
 ETC_20160909_024227	Applies effects to your character for 1 hour.{nl}Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}{nl}[EXP Tome Effects]{nl} - +300% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
 ETC_20160909_024228	Enchant Scroll (14 Days)
 ETC_20160921_024231	Wonderland Package
-ETC_20160921_024232	Right-click to use. {nl}Contains a Wonderland Costume for your class.{nl} - Wonderland Costume x1{nl} - Hair Accessory Selection Box - Wonderland 1x{nl} - Enchant Scroll x10
+ETC_20160921_024232	Right-click to use. {nl}Contains a Wonderland Kostüm for your class.{nl} - Wonderland Kostüm x1{nl} - Hair Accessory Selection Box - Wonderland 1x{nl} - Enchant Scroll x10
 ETC_20160921_024233	Hair Accessory Selection Box - Wonderland
 ETC_20160921_024234	Right-click to obtain the contents of this box.{nl}You will be able to select and receive a Hair Accessory of your choice.{nl}You will be able to select one of the following.{nl} - Butterfly Hat{nl} - Lotus Cup Hair Accessory{nl} - Hatter's Cake Hat{nl} - Parfait and Mouse Ear Headband{nl} - Dodo Hair Accessory{nl} - Chesirecat Hair Accessory{nl} - White Rabbit Hair Accessory{nl} - Alice's Key Hair Accessor
 ETC_20160922_024229	Protect the torch for 1 minutes to open the way
@@ -25732,8 +25732,8 @@ ETC_20161108_025731	This item cannot be enhanced.
 ETC_20161108_025732	Items with 0 potential will be consumed if transcendence fails.{nl}Attempt transcendence?
 ETC_20161108_025733	Equipment will not be destroyed when attempting enhancement with this anvil, but its enhancement stage can be reduced if the process fails. Attempt enhancement?
 ETC_20161108_025734	Extracting a gem will cause its level to decrease. Monster gems and Lv 1 gems will be consumed when extracted. Are you sure you want to extract?
-ETC_20161108_025735	Repair Cost: {Price}{nl}Are you sure you want to repair?
-ETC_20161108_025736	Identify
+ETC_20161108_025735	Reparaturkosten: {Price}{nl}Bist du sicher dass du das reparieren möchtest?
+ETC_20161108_025736	Identifizieren
 ETC_20161108_025737	Cannot use an unidentified item.
 ETC_20161108_025738	Identify Successful!
 ETC_20161108_025739	Identify Price: {Price}{nl}Are you sure you want to identify?
