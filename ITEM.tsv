@@ -3,10 +3,10 @@ ITEM_20150317_000002	Murmillo Helm
 ITEM_20150317_000003	Empty_armband 
 ITEM_20150317_000004	Rotes Armband 
 ITEM_20150317_000005	Armband 
-ITEM_20150317_000006	Verknotetes Armband 
-ITEM_20150317_000007	Langes Armband 
-ITEM_20150317_000008	Feder Armband 
-ITEM_20150317_000009	Angezündetes Armband 
+ITEM_20150317_000006	Verknotetes Armband
+ITEM_20150317_000007	Langes Armband
+ITEM_20150317_000008	Feder Armband
+ITEM_20150317_000009	Angezündetes Armband
 ITEM_20150317_000010	Empty_weapon 
 ITEM_20150317_000011	Crude Gladius
 ITEM_20150317_000012	Einhand-Schwert [Schnitt] 
@@ -188,7 +188,7 @@ ITEM_20150317_000187	Aston Zweihand-Schwert
 ITEM_20150317_000188	Devi Tow-Handed Schwert
 ITEM_20150317_000189	Prima Zweihand-Schwert
 ITEM_20150317_000190	Flamini 
-ITEM_20150317_000191	Ein gutes Schwert, das seit langem als eine Notwendigkeit betrachtet wird, wenn es Dämonen sieht.
+Ein gutes Schwert, das seit langem als eine Notwendigkeit betrachtet wird, wenn es Dämonen sieht.
 ITEM_20150317_000192	Wizard Slayer 
 ITEM_20150317_000193	Novice Wizards often pay no mind to this particular weapon. However, a seasoned one knows to steer away from its unseen power. 
 ITEM_20150317_000194	Zweihand-Schwert [Schlag] 
@@ -10933,7 +10933,7 @@ ITEM_20160811_010932	Activate a Charm of Protection to remove all high tier ailm
 ITEM_20160811_010933	A potion that will reset all cooldown periods. Right-click to use.
 ITEM_20160811_010934	Use to obtain silver. Will be removed during the July 7th scheduled maintenance.
 ITEM_20160811_010935	Lottery Silver Chest (14-Days)
-ITEM_20160811_010936	A random amount of silver is in this chest.
+ITEM_20160811_010936	Eine zufällige Anzahl von Silber ist in dieser Kiste.
 ITEM_20160811_010937	Collection: Coastal Fortress
 ITEM_20160811_010938	Collection: Dingofasil
 ITEM_20160811_010939	Collection: Vedas Plateau

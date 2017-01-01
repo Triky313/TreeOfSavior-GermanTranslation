@@ -2255,11 +2255,11 @@ UI_20160811_002254	{@st66b18}※ Der Gegenstand wird dann verbraucht, wenn du de
 UI_20160811_002255	{@st42} Anmeldebenachrichtigungen anschalten
 UI_20160811_002256	{@white_16_ol}Gildenmitglieder{/}
 UI_20160811_002257	{@white_16_ol}Freunde{/}
-UI_20160811_002258	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}Das Karten-Level wird{nl}sich um ein veringern wenn du sie ablegst.{/}
+UI_20160811_002258	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}Karten-Level{nl}wird sich um eins veringern wenn du sie{nl}ablegst.{/}
 UI_20160811_002259	{@st66b}Abnehmbarer Effekt{/}
 UI_20160811_002260	Keiner.
 UI_20160811_002261	{@st41b}Ablegen{/}
-UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Verbrauchen 5TP{nl}Ablegen einer Karte ohne einen Stern zu verlieren{/}
+UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Verbraucht 5TP{nl}Karte ablegen ohne einen Stern zu verlieren{/}
 UI_20160811_002263	{@st41b}Bestätigen
 UI_20160811_002264	{@st42}Meine Handel{/}
 UI_20160811_002265	{@st42}Handel{/}
@@ -2283,7 +2283,7 @@ UI_20160811_002282	{@sti1c}Wochen Rankings{/}
 UI_20160811_002283	{@st66b}Mühsame Abwehr{/}
 UI_20160811_002284	Level in aufsteigender Reihenfolge{/}
 UI_20160811_002285	Level in absteigender Reihenfolge{/}
-UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monster Card{/}
+UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monster Karten{/}
 UI_20160811_002287	Gegenstand transzendieren
 UI_20160811_002288	Transzendieren
 UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}
@@ -2307,8 +2307,15 @@ UI_20160811_002306	{@st59}View suggested dungeon locations{/}
 UI_20160811_002307	{@st41}Hütte%s (%s/%s){/}
 UI_20160811_002308	{@st59}Bewege zur Hütte.
 UI_20160811_002309	{@st59}Jurate (Seasonal Server) ist ein Event-Server, der bis zum 20. Oktober bestehen wird.{nl}Please check the Official Homepage for more details.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
+UI_20160811_002310	{@st59}Bitte wähle einen Server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
+UI_20160811_002311	{@st66b}In eine andere Hütte bewegen
+UI_20160811_002312	{@st59}Zur Hütte.{/}
 UI_20160811_002313	{@st59}Lösche Begleiter
 UI_20160811_002314	Du fühlst dich besser.
+UI_20160811_002315	Teppich-Type
+UI_20160811_002316	{@st42b}{s16}Ladung{/}
+UI_20160811_002317	{@st66b}{s16}Vorschau{/}
+UI_20160811_002318	{@st42b}{s16}Hinzufügen{/}
 UI_20160811_002319	Verlernen
 UI_20160811_002320	* Wenn gekämpft
 UI_20160811_002321	{@st66d}Ausgerüstete Waffe
@@ -2416,7 +2423,7 @@ UI_20161107_002422	Exchange medals for items
 UI_20161107_002423	Buyables
 UI_20161107_002424	Sellables
 UI_20161107_002425	{@st66d}{s18}Top 5 Verkäufer{/}
-UI_20161107_002426	{@st55_b} Passwort eingeben.{/}
+UI_20161107_002426	{@st55_b} Suchwort eingeben{/}
 UI_20161107_002427	 TP käuflich
 UI_20161107_002428	{@st66d}{s18}Sonderangebot{/}
 UI_20161107_002429	{@st66d}Kaufen{/}
