@@ -1917,7 +1917,7 @@ UI_20151224_001916	{@st65}Höchstes zuerst{/}
 UI_20151224_001917	{@st45tw2}Menge{/}
 UI_20151224_001918	{@st45tw2}Time until Retrieval{/}
 UI_20151224_001919	{@st66b}Sales Period & Commission Fee{/}
-UI_20151224_001920	{@st66}Nach 48 Stunden kannst du dein Silber aus{nl}dem Auktionshaus abholen, mit Ausnahme von Token.
+UI_20151224_001920	{@st66}Nach 48 Stunden kannst du dein Silber aus{nl}dem Auktionshaus abholen, mit Ausnahme {nl}von Token.
 UI_20151224_001921	{@st45tw2}Frist{/}
 UI_20151224_001922	{@st45tw2}Auftragsgebühr{/}
 UI_20151224_001923	{@st45tw2}Gesamtpreis{/}

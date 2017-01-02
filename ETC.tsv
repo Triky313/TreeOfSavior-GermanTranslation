@@ -271,8 +271,8 @@ ETC_20150317_000270	Vubbe Extermination Bomb
 ETC_20150317_000271	Time Bomb (score dungeon only)
 ETC_20150317_000272	Zeitbombe
 ETC_20150317_000273	OBB stone
-ETC_20150317_000274	Male Wizard
-ETC_20150317_000275	Female Wizard
+ETC_20150317_000274	Männlich Wizard
+ETC_20150317_000275	Weiblich Wizard
 ETC_20150317_000276	Schadend Seal
 ETC_20150317_000277	Symbol of Sin
 ETC_20150317_000278	(Temporary) Prison Control Device
@@ -347,8 +347,8 @@ ETC_20150317_000346	Transparent Object
 ETC_20150317_000347	Fire Ball
 ETC_20150317_000348	Armed Tortoise Shell Groß
 ETC_20150317_000349	Armed Tortoise Shell
-ETC_20150317_000350	Male Apostate (3D)
-ETC_20150317_000351	Female Apostate (3D)
+ETC_20150317_000350	Männlich Apostate (3D)
+ETC_20150317_000351	Weiblich Apostate (3D)
 ETC_20150317_000352	Modification
 ETC_20150317_000353	Abomination
 ETC_20150317_000354	High Vubbe Fighter
@@ -2394,8 +2394,8 @@ ETC_20150317_002393	Level or below
 ETC_20150317_002394	Rang
 ETC_20150317_002395	Rank or higher
 ETC_20150317_002396	Rank below
-ETC_20150317_002397	Male characters only
-ETC_20150317_002398	Female characters only
+ETC_20150317_002397	Männlich characters only
+ETC_20150317_002398	Weiblich characters only
 ETC_20150317_002399	Gegenstand
 ETC_20150317_002400	Gegenstand needed
 ETC_20150317_002401	 required
@@ -4163,8 +4163,8 @@ ETC_20150317_004162	{#FFFF00}{a SEARCH_FAME_RANK {Auto_1} {Auto_2}}[{Auto_3}] ac
 ETC_20150317_004163	Items cannot be used in the salon.
 ETC_20150317_004164	This item cannot be traded after you equip it. Would you like to equip it?
 ETC_20150317_004165	You do not meet the level requirement.{nl}Check the required level in the item description
-ETC_20150317_004166	Female characters cannot equip this item. Check the gender and level requirements in the item description
-ETC_20150317_004167	Male characters cannot equip this item. Check the gender and level requirements in the item description
+ETC_20150317_004166	Weiblich characters cannot equip this item. Check the gender and level requirements in the item description
+ETC_20150317_004167	Männlich characters cannot equip this item. Check the gender and level requirements in the item description
 ETC_20150317_004168	Request Contribution:
 ETC_20150317_004169	Please enter the changed value.
 ETC_20150317_004170	The ClassName does already exist
@@ -5972,7 +5972,7 @@ ETC_20150317_005971	Certain classes have access to additional information on mon
 ETC_20150317_005972	Consumed HP/SP/Stamina can be recovered through the following options.
 ETC_20150317_005973	[Spontaneous Recovery]:
 ETC_20150317_005974	Based on stat
-ETC_20150317_005975	HP Recovery rate
+ETC_20150317_005975	HP Erholungsrate
 ETC_20150317_005976	Proportional recovering
 ETC_20150317_005977	Spontaneous Recovery is slow compared to other recovery methods, but it does not require the player to do anything.
 ETC_20150317_005978	[Potion Recovery]: Recover HP/SP/Stamina immediately using potions.
@@ -6920,11 +6920,11 @@ ETC_20150317_006920	Eastern Woods Scout
 ETC_20150317_006921	Head of Guard Troop
 ETC_20150317_006922	Western Woods Scout
 ETC_20150317_006923	Dorf Woman
-ETC_20150317_006924	Female Officer
+ETC_20150317_006924	Weiblich Officer
 ETC_20150317_006925	Fallen Soldier
-ETC_20150317_006926	Crux Knights Officer (Male)
+ETC_20150317_006926	Crux Knights Officer (Männlich)
 ETC_20150317_006927	Crux Knights Officer
-ETC_20150317_006928	Crux Knights Officer (Female)
+ETC_20150317_006928	Crux Knights Officer (Weiblich)
 ETC_20150317_006929	Militia General Laudrup 
 ETC_20150317_006930	Holger Danske
 ETC_20150317_006931	Innkeeper Genora 
@@ -6940,20 +6940,20 @@ ETC_20150317_006940	Anastasia
 ETC_20150317_006941	Roskilde Market Dioskorus
 ETC_20150317_006942	KawaEEThegirlandthebear
 ETC_20150317_006943	KawaEEThegirlandbearnotpresent
-ETC_20150317_006944	Mercenary Guild Female Employee
+ETC_20150317_006944	Mercenary Guild Weiblich Employee
 ETC_20150317_006945	Cesare
 ETC_20150317_006946	Handschuhe
 ETC_20150317_006947	Ojars Rubenis
-ETC_20150317_006948	Bourgeois (Male)
+ETC_20150317_006948	Bourgeois (Männlich)
 ETC_20150317_006949	Madam
 ETC_20150317_006950	Vanessa
-ETC_20150317_006951	Dorf Kostüm (Male)
-ETC_20150317_006952	Dorf Kostüm (Female)
+ETC_20150317_006951	Dorf Kostüm (Männlich)
+ETC_20150317_006952	Dorf Kostüm (Weiblich)
 ETC_20150317_006953	Merchant 2 Sit
 ETC_20150317_006954	Merchant 1
 ETC_20150317_006955	Merchant 2
-ETC_20150317_006956	Mid Commander (Male)
-ETC_20150317_006957	Mid Commander (Female)
+ETC_20150317_006956	Mid Commander (Männlich)
+ETC_20150317_006957	Mid Commander (Weiblich)
 ETC_20150317_006958	Minor Commander
 ETC_20150317_006959	Veteran Miner
 ETC_20150317_006960	Minenarbeiter Dorf Alchemist
@@ -6967,14 +6967,14 @@ ETC_20150317_006967	Recorder(data exchange benötigt)
 ETC_20150317_006968	Historian 1(data exchange benötigt)
 ETC_20150317_006969	Historian 2(data exchange benötigt)
 ETC_20150317_006970	Rexipher human(data exchange benötigt)
-ETC_20150317_006971	Female Historian(data exchange benötigt)
-ETC_20150317_006972	Mid Commander (Male 2)
+ETC_20150317_006971	Weiblich Historian(data exchange benötigt)
+ETC_20150317_006972	Mid Commander (Männlich 2)
 ETC_20150317_006973	Minor Commander 2
 ETC_20150317_006974	Minor Commander 3
 ETC_20150317_006975	Vacenin
-ETC_20150317_006976	Bokor Disciple (Male 1)
-ETC_20150317_006977	Bokor Disciple (Male 2)
-ETC_20150317_006978	Bokor Disciple (Female)
+ETC_20150317_006976	Bokor Disciple (Männlich 1)
+ETC_20150317_006977	Bokor Disciple (Männlich 2)
+ETC_20150317_006978	Bokor Disciple (Weiblich)
 ETC_20150317_006979	2D Jäger Klassenmeister
 ETC_20150317_006980	Bokor Mama
 ETC_20150317_006981	Dorf Gentleman 3
@@ -7228,14 +7228,14 @@ ETC_20150317_007228	Youth VillageB2
 ETC_20150317_007229	Youth VillageB3
 ETC_20150317_007230	Gargoyle for Directing
 ETC_20150317_007231	Ice Pillar
-ETC_20150317_007232	Female Follower of Austeja 1
+ETC_20150317_007232	Weiblich Follower of Austeja 1
 ETC_20150317_007233	Elevator
 ETC_20150317_007234	Southern Elevator
-ETC_20150317_007235	Fedimian Male 1
-ETC_20150317_007236	Fedimian Male 2
-ETC_20150317_007237	Fedimian Male 3
+ETC_20150317_007235	Fedimian Männlich 1
+ETC_20150317_007236	Fedimian Männlich 2
+ETC_20150317_007237	Fedimian Männlich 3
 ETC_20150317_007238	Fedimian South Wagon
-ETC_20150317_007239	Female Follower of Austeja 2
+ETC_20150317_007239	Weiblich Follower of Austeja 2
 ETC_20150317_007240	Chemist
 ETC_20150317_007241	Pub Waitress
 ETC_20150317_007242	Sleep Stone Klassenmeister
@@ -8980,7 +8980,7 @@ ETC_20150317_008980	Reichweite [Wert]
 ETC_20150317_008981	Output of Min ~ Max Reichweite
 ETC_20150317_008982	Output of Max Reichweite
 ETC_20150317_008983	{#050505}Attack {#050505}
-ETC_20150317_008984	{#050505}Recovery Rate{#050505}
+ETC_20150317_008984	{#050505}Erholungsrate{#050505}
 ETC_20150317_008985	{#050505}Defense {#050505}
 ETC_20150317_008986	{#050505}Increase Attack {#050505}
 ETC_20150317_008987	Reichweite
@@ -10969,8 +10969,8 @@ ETC_20150414_010970	Red Crystal
 ETC_20150414_010971	Blue Crystal
 ETC_20150414_010972	Yellow Crystal
 ETC_20150414_010973	Baron Allerno
-ETC_20150414_010974	Druid Male
-ETC_20150414_010975	Druid Female
+ETC_20150414_010974	Druid Männlich
+ETC_20150414_010975	Druid Weiblich
 ETC_20150414_010976	Hawk
 ETC_20150414_010977	Buy Wugushi Items
 ETC_20150414_010978	Buy Squire Items
@@ -11121,7 +11121,7 @@ ETC_20150414_011122	The region where Silbers are abundant(under development)
 ETC_20150414_011123	The region where Parties are most active
 ETC_20150414_011124	The greatest enhancement item(under development)
 ETC_20150414_011125	The person who obtained the amount of silvers
-ETC_20150414_011126	Male, Female Proportion(under development)
+ETC_20150414_011126	Männlich, Weiblich Proportion(under development)
 ETC_20150414_011127	Sprich mit the summoned protector of Zachariel to activate the altar!
 ETC_20150414_011128	Activating the Altar
 ETC_20150414_011129	Activate the altar through the summoned subordinate of Zachariel.
@@ -13648,7 +13648,7 @@ ETC_20150729_013649	Slightly increases your attack and defense due to the divine
 ETC_20150729_013650	Divine power bestowed on Unknown Crystal
 ETC_20150729_013651	Imposes divine punishment on all surrounding evil beings.
 ETC_20150729_013652	Divine power bestowed on Unknown Stone Pillar
-ETC_20150729_013653	Slightly increases your defense and recovery rate due to the divine blessing.
+ETC_20150729_013653	Slightly increases your defense and Erholungsrate due to the divine blessing.
 ETC_20150729_013654	Divine Power bestowed on Unknown Tombstone
 ETC_20150729_013655	All injuries are healing due to the energy of purification.
 ETC_20150729_013656	Your morale and bravery is boosting due to the divine blessing.
@@ -14160,7 +14160,7 @@ ETC_20150804_014161	Achieved by being between 2~10 to reach rank 6 in CBT3!
 ETC_20150804_014162	The lighting effects at the church 
 ETC_20150804_014163	The church lighting enhances your SP regeneration
 ETC_20150804_014164	THe lighting effects aft the Loading place
-ETC_20150804_014165	SP Recovery Rate will increase due to the light effect of the loading place.
+ETC_20150804_014165	SP Erholungsrate will increase due to the light effect of the loading place.
 ETC_20150804_014166	Pre Dungeon Defense
 ETC_20150804_014167	Enhance a Shield to level 4
 ETC_20150804_014168	Check the Great King Zachariel's Epitaph
@@ -14932,14 +14932,14 @@ ETC_20151001_014933	Stone Wall02
 ETC_20151001_014934	Intensive Spirit Device1
 ETC_20151001_014935	Intensive Spirit Device2
 ETC_20151001_014936	No Shadow NPC_Tall
-ETC_20151001_014937	Historian (Male) 01
-ETC_20151001_014938	Historian (Male) 02
-ETC_20151001_014939	Historian (Male) 03
-ETC_20151001_014940	Historian (Male) 04
-ETC_20151001_014941	Historian (Female) 02
+ETC_20151001_014937	Historian (Männlich) 01
+ETC_20151001_014938	Historian (Männlich) 02
+ETC_20151001_014939	Historian (Männlich) 03
+ETC_20151001_014940	Historian (Männlich) 04
+ETC_20151001_014941	Historian (Weiblich) 02
 ETC_20151001_014942	Rock_Pilgrim's Way
-ETC_20151001_014943	Pilgrim (Female)_02
-ETC_20151001_014944	Pilgrim (Female)_03
+ETC_20151001_014943	Pilgrim (Weiblich)_02
+ETC_20151001_014944	Pilgrim (Weiblich)_03
 ETC_20151001_014945	Monster Trap of Pilgrim's Way
 ETC_20151001_014946	Empty Wagon_Coastal Fortress
 ETC_20151001_014947	Plateau Magie Circle Activation Device
@@ -14954,8 +14954,8 @@ ETC_20151001_014955	Waterway Gate
 ETC_20151001_014956	Druid Leja
 ETC_20151001_014957	Druid Benes
 ETC_20151001_014958	Dievdirbys
-ETC_20151001_014959	Female Monk 1
-ETC_20151001_014960	Female Monk 2
+ETC_20151001_014959	Weiblich Monk 1
+ETC_20151001_014960	Weiblich Monk 2
 ETC_20151001_014961	Pig
 ETC_20151001_014962	Lesser Panda
 ETC_20151001_014963	Foward Ruklys' documents
@@ -17959,7 +17959,7 @@ ETC_20151224_017959	The pendulum is reacting to something
 ETC_20151224_017960	Pair Up - Belohnung
 ETC_20151224_017961	You can receive the Pair Up reward.
 ETC_20151224_017962	Belohnung Buff - Recovery
-ETC_20151224_017963	HP/SP/STA recovery rate increases
+ETC_20151224_017963	HP/SP/STA Erholungsrate increases
 ETC_20151224_017964	Catacombs Corpse
 ETC_20151224_017965	Belohnung Buff - Attack
 ETC_20151224_017966	Belohnung Buff - Defense
@@ -17980,8 +17980,8 @@ ETC_20151224_017980	Reward Buff - Attack Rate Increase
 ETC_20151224_017981	Increases attack
 ETC_20151224_017982	Reward Buff - Defense Rate increase
 ETC_20151224_017983	Increases defense and gradually increases stamina
-ETC_20151224_017984	Increases recovery rate
-ETC_20151224_017985	HP Recovery Rate per Sekunde and SP Recovery Rate per Sekunde increase
+ETC_20151224_017984	Increases Erholungsrate
+ETC_20151224_017985	HP Erholungsrate per Sekunde and SP Erholungsrate per Sekunde increase
 ETC_20151224_017986	When you get shot, you deceive an enemy using a log and a counter attack.
 ETC_20151224_017987	SP Absorption
 ETC_20151224_017988	Reduces movement speed by 20%, SP Bloodsucking
@@ -18430,8 +18430,8 @@ ETC_20151224_018430	NPC for changing the Raid Track
 ETC_20151224_018431	Fan Control Device
 ETC_20151224_018432	Orsha Gegenstand Merchant Alf
 ETC_20151224_018433	Begleiter Trader Toras
-ETC_20151224_018434	Orsha Soldier Female
-ETC_20151224_018435	Orsha Soldier Male
+ETC_20151224_018434	Orsha Soldier Weiblich
+ETC_20151224_018435	Orsha Soldier Männlich
 ETC_20151224_018436	Orsha Soldier Female1
 ETC_20151224_018437	Orsha Soldier Female2
 ETC_20151224_018438	Orsha Soldier Male1
@@ -18439,9 +18439,9 @@ ETC_20151224_018439	Orsha Soldier Male2
 ETC_20151224_018440	TP Trader Leticia
 ETC_20151224_018441	Klein Wooden Chest
 ETC_20151224_018442	Plague Doctor Klassenmeister
-ETC_20151224_018443	Orsha Soldier Female 2
-ETC_20151224_018444	Orsha Soldier Female 3
-ETC_20151224_018445	Orsha Soldier Female 4
+ETC_20151224_018443	Orsha Soldier Weiblich 2
+ETC_20151224_018444	Orsha Soldier Weiblich 3
+ETC_20151224_018445	Orsha Soldier Weiblich 4
 ETC_20151224_018446	Orsha Soldier Male5_1
 ETC_20151224_018447	Orsha Soldier Male5_2
 ETC_20151224_018448	Orsha Soldier Male6_1
@@ -19728,10 +19728,10 @@ ETC_20151224_019728	A minimum of {Price} Silber is required to register an item.
 ETC_20151224_019729	Wenn du diesen Gegenstand{nl}kaufst, reduziert sich das Potenzial um 1.{nl} Willst du kaufen?
 ETC_20151224_019730	The item's minimum price has changed. Please enter again.
 ETC_20151224_019731	The item's maximum price has changed. Please enter again.
-ETC_20151224_019732	{Price} Silber will be required to register this item.{nl}Do you want to continue?
-ETC_20151224_019733	The price must be at least 100 Silber.
+ETC_20151224_019732	{Price} Silber wird benötigt, um diesen Gegenstand zu registrieren.{nl}Möchtest du fortfahren?
+ETC_20151224_019733	Der Preis muss mindestens 100 Silber betragen.
 ETC_20151224_019734	The amount will be changed automatically based on the minimum unit price.
-ETC_20151224_019735	This skill cannot be registered.
+ETC_20151224_019735	Dieser Skill kann nicht registriert werden.
 ETC_20151224_019736	Humanoid
 ETC_20151224_019737	{TP} TP will be charged to purchase this Character/Begleiter Slot{nl}Would you like to purchase?
 ETC_20151224_019738	Do you want to use {TP} TP to change your Team Name?
@@ -19778,7 +19778,7 @@ ETC_20151224_019778	Obtained a usable flint detector.
 ETC_20151224_019779	Der zierliche Dämon zweifelt an dir.
 ETC_20151224_019780	Is Gesti really looking for me?
 ETC_20151224_019781	The friends have gone missing.
-ETC_20151224_019782	{Time} day(s) : {FREE}% of the selling price
+ETC_20151224_019782	{Time} Tag(e) : {FREE}% des Verkaufspreises
 ETC_20151224_019783	About the goddesses
 ETC_20151224_019784	Frage nach Orsha
 ETC_20151224_019785	The Great Pirate and Hirevan Volume One
@@ -19815,7 +19815,7 @@ ETC_20151224_019815	D-pad links
 ETC_20151224_019816	D-pad rechts
 ETC_20151224_019817	TP Payment/Delete(when minus)(above items rules apply when retry)
 ETC_20151224_019818	TP Payment/Delete(when minus)
-ETC_20151224_019819	EX2> WIZ:M/WAR:F (Male Wizard, Female Swordsman Only)
+ETC_20151224_019819	EX2> WIZ:M/WAR:F (Männlich Wizard, Weiblich Swordsman Only)
 ETC_20151224_019820	EX1> WIZ/WAR (Wizard, Swordsman only Supply)
 ETC_20151224_019821	Fetching Stat Usage Data...
 ETC_20151224_019822	Fetching Skill Usage data...
@@ -19846,7 +19846,7 @@ ETC_20151224_019846	Server Team
 ETC_20151224_019847	This item will be bound to you upon purchase.{nl}Are you sure you want to buy?
 ETC_20151224_019848	Are you sure you want to{nl}add the following item to the Market?
 ETC_20151224_019849	This item cannot be sold to NPCs.
-ETC_20151224_019850	Stamina Recovery Rate 2x Increase
+ETC_20151224_019850	Stamina Erholungsrate 2x Increase
 ETC_20151224_019851	You've used up all of your free entry counts.{nl}Do you want to spend {TP} TP to enter {INDUN}?{nl}However, if you enter a dungeon that is already active, you will not consume TP.
 ETC_20151224_019852	Cannot change to an existing name.
 ETC_20151224_019853	{NAME} is already activated.
@@ -20409,7 +20409,7 @@ ETC_20160224_020409	Earth Tower Merchant
 ETC_20160224_020410	Broken Tombstone
 ETC_20160224_020411	Recovered Tombstone (no obb)
 ETC_20160224_020412	Team Battle League
-ETC_20160224_020413	Female Alchemist
+ETC_20160224_020413	Weiblich Alchemist
 ETC_20160224_020414	Earth Tower Gate_2
 ETC_20160224_020415	Sister 1
 ETC_20160224_020416	Sister 2
@@ -20546,8 +20546,8 @@ ETC_20160224_020546	Access denied by NGS.
 ETC_20160224_020547	Detected by NGS. Access denied.
 ETC_20160224_020548	Dialogue List
 ETC_20160224_020549	Your level is not high enough{nl}Please check the required{nl}level in the description
-ETC_20160224_020550	Male characters cannot equip this{nl}Please check the required{nl}gender in the description
-ETC_20160224_020551	Female characters cannot equip this{nl}Please check the required{nl}gender in the description
+ETC_20160224_020550	Männlich characters cannot equip this{nl}Please check the required{nl}gender in the description
+ETC_20160224_020551	Weiblich characters cannot equip this{nl}Please check the required{nl}gender in the description
 ETC_20160224_020552	Game access is currently restricted{nl}due to a server maintenance or other reasons.{nl}For more details, please contact{nl}customer service through the homepage.
 ETC_20160224_020553	You are currently infusing magic into an item. Please try again later.
 ETC_20160224_020554	You have exceeded the amount of Silber you can carry.
@@ -20566,8 +20566,8 @@ ETC_20160224_020566	Noch nicht abgelaufen
 ETC_20160224_020567	Hide
 ETC_20160224_020568	Show
 ETC_20160224_020569	Stat
-ETC_20160224_020570	[Premium] Male Hairstyle
-ETC_20160224_020571	[Premium] Female Hairstyle
+ETC_20160224_020570	[Premium] Männlich Hairstyle
+ETC_20160224_020571	[Premium] Weiblich Hairstyle
 ETC_20160224_020572	Open one more time
 ETC_20160224_020573	You do not have any card.
 ETC_20160224_020574	Personal : {count}/{max} Quests Completed{nl}Gruppe : 
@@ -21017,10 +21017,10 @@ ETC_20160310_021015	Secret Device1
 ETC_20160310_021016	Secret Device2
 ETC_20160310_021017	Secret Device3
 ETC_20160310_021018	Pentagonal Pillar
-ETC_20160310_021019	Male Necromancer
-ETC_20160310_021020	Female Necromancer
-ETC_20160310_021021	Female Cryomancer
-ETC_20160310_021022	Male Necromancer_2
+ETC_20160310_021019	Männlich Necromancer
+ETC_20160310_021020	Weiblich Necromancer
+ETC_20160310_021021	Weiblich Cryomancer
+ETC_20160310_021022	Männlich Necromancer_2
 ETC_20160310_021023	Coral Reef
 ETC_20160310_021024	Blue Coral
 ETC_20160310_021025	Coral Wagon
@@ -21246,11 +21246,11 @@ ETC_20160323_021244	Demon Schwer
 ETC_20160323_021245	Monastery Main Gate
 ETC_20160323_021246	Monastery Main Gate (Open)
 ETC_20160323_021247	Pile of Plant Roots
-ETC_20160323_021248	Female Monk 3
+ETC_20160323_021248	Weiblich Monk 3
 ETC_20160323_021249	Water Pot
 ETC_20160323_021250	Stew Pot
 ETC_20160323_021251	Cranto Transport Magie Circle
-ETC_20160323_021252	Male Kabbalist
+ETC_20160323_021252	Männlich Kabbalist
 ETC_20160323_021253	Stein
 ETC_20160323_021254	Silhouette Crystal (no obb)
 ETC_20160323_021255	Vera Elevator
@@ -21782,7 +21782,7 @@ ETC_20160520_021781	Fiery and fierce red like ruby. Rechtsklick zum verwenden. C
 ETC_20160520_021782	Instanced Dungeon Reset Gutschein: 14 Tage
 ETC_20160520_021783	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 14 days.
 ETC_20160520_021784	EXP Tome: 14 Tage
-ETC_20160520_021785	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP von der Monsterjagd{nl} - Doubled STA recovery rate
+ETC_20160520_021785	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Tome Effect]{nl} - +30% EXP von der Monsterjagd{nl} - Doubled STA Erholungsrate
 ETC_20160520_021786	30 TP [Event]
 ETC_20160520_021787	Verwenden zum erhalten 30 TP.
 ETC_20160520_021788	Instanced Dungeon Reset Gutschein: 1 Minute
@@ -21809,22 +21809,22 @@ ETC_20160520_021808	Benefit UPUP! Package
 ETC_20160520_021809	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 30 Tage x1{nl} - Sardine x15 {nl} – Penguin Egg x1
 ETC_20160520_021810	Sardine Bundle
 ETC_20160520_021811	Rechtsklick zum verwenden. Contains Sardine x5.
-ETC_20160520_021812	Trump Swordsman Package (Male)
-ETC_20160520_021813	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Kostüm (Male) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
-ETC_20160520_021814	Trump Swordsman Package (Female)
-ETC_20160520_021815	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Kostüm (Female) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
-ETC_20160520_021816	Trump Magician Package (Male)
-ETC_20160520_021817	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Kostüm (Male) x1{nl} - Diamond Magician Hat x1{nl} - Verzauberungs-Rolle x40
-ETC_20160520_021818	Trump Magician Package (Female)
-ETC_20160520_021819	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Kostüm (Female) x1{nl} - Queen Diamond's Tiara x1{nl} - Verzauberungs-Rolle x40
-ETC_20160520_021820	Trump Archer Package (Male)
-ETC_20160520_021821	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Kostüm (Male) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
-ETC_20160520_021822	Trump Archer Package (Female)
-ETC_20160520_021823	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Kostüm (Female) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
-ETC_20160520_021824	Trump Cleric Package (Male)
-ETC_20160520_021825	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Kostüm (Male) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
-ETC_20160520_021826	Trump Cleric Package (Female)
-ETC_20160520_021827	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Kostüm (Female) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021812	Trump Swordsman Package (Männlich)
+ETC_20160520_021813	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Kostüm (Männlich) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021814	Trump Swordsman Package (Weiblich)
+ETC_20160520_021815	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Swordsman Kostüm (Weiblich) x1{nl} - Major Spade Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021816	Trump Magician Package (Männlich)
+ETC_20160520_021817	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Kostüm (Männlich) x1{nl} - Diamond Magician Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021818	Trump Magician Package (Weiblich)
+ETC_20160520_021819	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Magician Kostüm (Weiblich) x1{nl} - Queen Diamond's Tiara x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021820	Trump Archer Package (Männlich)
+ETC_20160520_021821	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Kostüm (Männlich) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021822	Trump Archer Package (Weiblich)
+ETC_20160520_021823	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Archer Kostüm (Weiblich) x1{nl} - Clover Feather Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021824	Trump Cleric Package (Männlich)
+ETC_20160520_021825	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Kostüm (Männlich) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
+ETC_20160520_021826	Trump Cleric Package (Weiblich)
+ETC_20160520_021827	Contains goodies. Rechtsklick zum verwenden.{nl} - Trump Cleric Kostüm (Weiblich) x1{nl} - Sailor Heart Hat x1{nl} - Verzauberungs-Rolle x40
 ETC_20160520_021828	Penguin
 ETC_20160520_021829	Steam Inventar Verwendbarkeit
 ETC_20160520_021830	Neutrale Zeit (sek)
@@ -22138,16 +22138,16 @@ ETC_20160718_022137	{nl}{nl}Registered collections can be checked at the Magic A
 ETC_20160718_022138	{nl}{nl}Only complete collections will give benefits to characters.
 ETC_20160718_022139	This user is VAC banned by Valve.
 ETC_20160718_022140	Missing logic to process this specific packet.
-ETC_20160718_022141	Applies Token benefits to all your characters in the server for 30 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades
-ETC_20160718_022142	Applies Token benefits to all your characters in the server for 7 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022143	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022144	Applies Token benefits to all your characters in the server for 1 day. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022145	Applies Token benefits to all your characters in the server for 3 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022146	Applies Token benefits to all your characters in the server for 6 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022147	Applies Token benefits to all your characters in the server for 12 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022148	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022149	Applies Token benefits to all your characters in the server for 30 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - 1 extra instance entry for missions and dungeons{nl} - Enables 30 personal trades
-ETC_20160718_022150	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022141	Applies Token benefits to all your characters in the server for 30 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades
+ETC_20160718_022142	Applies Token benefits to all your characters in the server for 7 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022143	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022144	Applies Token benefits to all your characters in the server for 1 day. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022145	Applies Token benefits to all your characters in the server for 3 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022146	Applies Token benefits to all your characters in the server for 6 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022147	Applies Token benefits to all your characters in the server for 12 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022148	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022149	Applies Token benefits to all your characters in the server for 30 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - 1 extra instance entry for missions and dungeons{nl} - Enables 30 personal trades
+ETC_20160718_022150	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20160718_022151	Zemyna Necklace Box
 ETC_20160718_022152	A box containing the Zemyna Necklace item. Right-click to open. {nl}The item will be batch removed on June 30th.
 ETC_20160718_022153	Badoca Hill
@@ -22240,20 +22240,20 @@ ETC_20160718_022239	Check Value to decide the start of the Time Event
 ETC_20160718_022240	Help!
 ETC_20160718_022241	Consumables / Miscellaneous
 ETC_20160718_022242	Premium Pet
-ETC_20160718_022243	Male-Warrior
-ETC_20160718_022244	Male-Wizard
-ETC_20160718_022245	Male-Archer
-ETC_20160718_022246	Male-Cleric
-ETC_20160718_022247	Male-Common
-ETC_20160718_022248	Female-Warrior
-ETC_20160718_022249	Female-Wizard
-ETC_20160718_022250	Female-Archer
-ETC_20160718_022251	Female-Cleric
-ETC_20160718_022252	Female-Common
-ETC_20160718_022253	Male Hair
-ETC_20160718_022254	Female Hair
-ETC_20160718_022255	Premium Male Hair
-ETC_20160718_022256	Premium Female Hair
+ETC_20160718_022243	Männlich-Warrior
+ETC_20160718_022244	Männlich-Wizard
+ETC_20160718_022245	Männlich-Archer
+ETC_20160718_022246	Männlich-Cleric
+ETC_20160718_022247	Männlich-Common
+ETC_20160718_022248	Weiblich-Warrior
+ETC_20160718_022249	Weiblich-Wizard
+ETC_20160718_022250	Weiblich-Archer
+ETC_20160718_022251	Weiblich-Cleric
+ETC_20160718_022252	Weiblich-Common
+ETC_20160718_022253	Männlich Hair
+ETC_20160718_022254	Weiblich Hair
+ETC_20160718_022255	Premium Männlich Hair
+ETC_20160718_022256	Premium Weiblich Hair
 ETC_20160718_022257	Colored Lenses
 ETC_20160718_022258	Hair Accessories
 ETC_20160718_022259	Dye
@@ -22272,7 +22272,7 @@ ETC_20160718_022271	Recipe - Holy Partisan
 ETC_20160718_022272	Recipe - Artie Dual Rapier
 ETC_20160718_022273	Recipe - Eki Musket
 ETC_20160718_022274	Characters will be unable to run when their STA becomes 0 and will walk.
-ETC_20160718_022275	Using a Token will increase the EXP gained from hunting monsters by 30%.
+ETC_20160718_022275	Using a Token will increase the EXP gained töten von Monstern by 30%.
 ETC_20160718_022276	Items traded between characters that have more than 1 personal trade left will not become untradable.
 ETC_20160718_022277	You can use the option in the settings menu to automatically scroll down the chat window with when
 ETC_20160718_022278	the move down function
@@ -23038,12 +23038,12 @@ ETC_20160811_023037	Sarma's Poison
 ETC_20160811_023038	Affected by Sarma's poison.
 ETC_20160811_023039	It seems to be weakened by Jack's holy water.
 ETC_20160811_023040	Weaken Demon Monsters
-ETC_20160811_023041	Collection: Dingofasil District
+ETC_20160811_023041	Kollektion: Dingofasil District
 ETC_20160811_023042	Received game start request with character number exceeding slots or failed to retrieve correct number.
 ETC_20160811_023043	The maximum ability level must be over 0.
 ETC_20160811_023044	Error in card data. Please check.
 ETC_20160811_023045	Failed to defeat monster. Please check.
-ETC_20160811_023046	Incorrect index.
+ETC_20160811_023046	Falscher Index.
 ETC_20160811_023047	Guild Hangout Entrance Denied Log
 ETC_20160811_023048	Uphill Defense Mission
 ETC_20160811_023049	Starter Defense Mission: Event
@@ -23063,22 +23063,22 @@ ETC_20160811_023062	Knight Commander Uska's Box
 ETC_20160811_023063	A box containing Knight Commander Uska's bangle. Rechtsklick zum erhalten. {nl} This item will be batch deleted on June 30.
 ETC_20160811_023064	Light Salmon Dye
 ETC_20160811_023065	A soft pinkish color. Rechtsklick zum verwenden. Check the Character Settings tab for the registered color.
-ETC_20160811_023066	Boss Card Unequip TP Price
-ETC_20160811_023067	Character Name Change Gutschein
-ETC_20160811_023068	Use to change the name of your character.
-ETC_20160811_023069	Team Name Change Gutschein
-ETC_20160811_023070	Use to change the name of your team.
-ETC_20160811_023071	Guild Name Change Gutschein
-ETC_20160811_023072	Use to change the name of your guild.
-ETC_20160811_023073	x4 EXP Tome
-ETC_20160811_023074	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +120% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
-ETC_20160811_023075	x8 EXP Tome
-ETC_20160811_023076	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +240% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate
-ETC_20160811_023077	Improved EXP Tome [Event]
-ETC_20160811_023078	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +50% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - Doubled STA recovery rate
-ETC_20160811_023079	x4 EXP Tome (14 Tage)
-ETC_20160811_023080	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +120% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
-ETC_20160811_023081	x8 EXP Tome (14 Tage)
+ETC_20160811_023066	Boss Card ablege TP Preis
+ETC_20160811_023067	Charakternamen-Änderung Gutschein
+ETC_20160811_023068	Verwenden um den Namen deines Charakters zu ändern.
+ETC_20160811_023069	Teamnamen-Änderung Gutschein
+ETC_20160811_023070	Verwenden um den Namen deines Teams zu ändern.
+ETC_20160811_023071	Gildennamen-Änderung Gutschein
+ETC_20160811_023072	Verwenden um den Namen deiner Gilde zu ändern.
+ETC_20160811_023073	x4 EXP Foliant
+ETC_20160811_023074	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl} - Verwendung als Herstellungsmaterial für x8 EXP Foliante. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +120% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x5 STA Erholungsrate
+ETC_20160811_023075	x8 EXP Foliant
+ETC_20160811_023076	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Foliante Effekte]{nl} - +240% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x9 STA Erholungsrate
+ETC_20160811_023077	Verbesserter EXP Foliant [Event]
+ETC_20160811_023078	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Foliante Effekte]{nl} - +50% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - Doppelte STA Erholungsrate
+ETC_20160811_023079	x4 EXP Foliant (14 Tage)
+ETC_20160811_023080	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Foliante Effekte]{nl} - +120% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x5 STA Erholungsrate
+ETC_20160811_023081	x8 EXP Foliant (14 Tage)
 ETC_20160811_023082	15 TP [Event]
 ETC_20160811_023083	Verwenden um 15 TP zu erhalten.
 ETC_20160811_023084	25 TP [Event]
@@ -23118,20 +23118,20 @@ ETC_20160811_023117	One More Time Day 7 Box (7 Tage)
 ETC_20160811_023118	One More Time Day 8 Box (7 Tage)
 ETC_20160811_023119	One More Time Day 9 Box (7 Tage)
 ETC_20160811_023120	One More Time Day 10 Box (7 Tage)
-ETC_20160811_023121	Defense Mission Reward Box
+ETC_20160811_023121	Verteidigung Mission Belohnungs Box
 ETC_20160811_023122	Rechtsklick zum verwenden and acquire the contents of the box.
 ETC_20160811_023123	Weapon Support Box
 ETC_20160811_023124	Rechtsklick zum verwenden and acquire the contents of the box. This box will be batch deleted on August 9.
 ETC_20160811_023125	Battlebird Companion Package
 ETC_20160811_023126	Jurate Starter Package
-ETC_20160811_023127	Swimwear Package - Swordsman (Male)
-ETC_20160811_023128	Swimwear Package - Swordsman (Female)
-ETC_20160811_023129	Swimwear Package - Wizard (Male)
-ETC_20160811_023130	Swimwear Package - Wizard (Female)
-ETC_20160811_023131	Swimwear Package - Archer (Male)
-ETC_20160811_023132	Swimwear Package - Archer (Female)
-ETC_20160811_023133	Swimwear Package - Cleric (Male)
-ETC_20160811_023134	Swimwear Package - Cleric (Female)
+ETC_20160811_023127	Swimwear Package - Swordsman (Männlich)
+ETC_20160811_023128	Swimwear Package - Swordsman (Weiblich)
+ETC_20160811_023129	Swimwear Package - Wizard (Männlich)
+ETC_20160811_023130	Swimwear Package - Wizard (Weiblich)
+ETC_20160811_023131	Swimwear Package - Archer (Männlich)
+ETC_20160811_023132	Swimwear Package - Archer (Weiblich)
+ETC_20160811_023133	Swimwear Package - Cleric (Männlich)
+ETC_20160811_023134	Swimwear Package - Cleric (Weiblich)
 ETC_20160811_023135	Allerno Experiment Zone
 ETC_20160811_023136	Jibuza Square
 ETC_20160811_023137	Room of Confession
@@ -23139,10 +23139,10 @@ ETC_20160811_023138	Isolated Area
 ETC_20160811_023139	Waiting Room
 ETC_20160811_023140	Subsidiary Material Storage Room
 ETC_20160811_023141	Central Assembly Area
-ETC_20160811_023142	Warehouse No. 1
-ETC_20160811_023143	Warehouse No. 2
-ETC_20160811_023144	Warehouse No. 3
-ETC_20160811_023145	Warehouse No. 4
+ETC_20160811_023142	Warenhaus No. 1
+ETC_20160811_023143	Warenhaus No. 2
+ETC_20160811_023144	Warenhaus No. 3
+ETC_20160811_023145	Warenhaus No. 4
 ETC_20160811_023146	Hanging Room
 ETC_20160811_023147	Solitary Cell
 ETC_20160811_023148	Reintegration Workshop
@@ -24092,8 +24092,8 @@ ETC_20160811_024091	1% chance of nullifying enemy attacks
 ETC_20160811_024092	5% increase in Cleric Buff durations(Does not include Buffs from Player Shops)
 ETC_20160811_024093	Acquire 1 CON Stat point per 20 SPR Stat points
 ETC_20160811_024094	Light Salmon
-ETC_20160811_024095	Invisible Hair(Male)
-ETC_20160811_024096	Invisible Hair(Female)
+ETC_20160811_024095	Invisible Hair(Männlich)
+ETC_20160811_024096	Invisible Hair(Weiblich)
 ETC_20160811_024097	Event NPC
 ETC_20160811_024098	Yellow Lamp
 ETC_20160811_024099	Kadumel's Magic Circle
@@ -24223,8 +24223,8 @@ ETC_20160825_024222	Creative Soul
 ETC_20160825_024223	The title is awarded to those who have won in the Fan Art Fest.
 ETC_20160909_024224	Happy-Go-Lucky
 ETC_20160909_024225	Title given to players who guessed the lucky number in a single try.
-ETC_20160909_024226	Applies effects to your character for 1 hour.{nl}Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
-ETC_20160909_024227	Applies effects to your character for 1 hour.{nl}Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}{nl}[EXP Tome Effects]{nl} - +300% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
+ETC_20160909_024226	Applies effects to your character for 1 hour.{nl}Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}{nl}[EXP Tome Effects]{nl} - +150% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x5 STA Erholungsrate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
+ETC_20160909_024227	Applies effects to your character for 1 hour.{nl}Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}{nl}[EXP Tome Effects]{nl} - +300% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x9 STA Erholungsrate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
 ETC_20160909_024228	Enchant Scroll (14 Tage)
 ETC_20160921_024231	Wonderland Package
 ETC_20160921_024232	Rechtsklick zum verwenden. {nl}Contains a Wonderland Kostüm for your class.{nl} - Wonderland Kostüm x1{nl} - Hair Accessory Selection Box - Wonderland 1x{nl} - Enchant Scroll x10
@@ -24892,11 +24892,11 @@ ETC_20161005_024891	Earth Tower : Solmiki Area
 ETC_20161005_024892	Cube
 ETC_20161005_024893	Accessory
 ETC_20161005_024894	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 1 minute.
-ETC_20161005_024895	Applies various effects to your character for 1 minute. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20161005_024895	Applies various effects to your character for 1 minute. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Tome Effect]{nl} - +30% EXP töten von Monstern{nl} - Doubled STA Erholungsrate
 ETC_20161005_024896	A potion concocted by those who have made good choices; for use by those who have not.{nl}Use this to reset the stats of your character. Upon pick-up, use within 14 days.
-ETC_20161005_024897	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
-ETC_20161005_024898	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - 300 EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate
-ETC_20161005_024899	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
+ETC_20161005_024897	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +150% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x5 STA Erholungsrate
+ETC_20161005_024898	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Tome Effects]{nl} - +300% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x9 STA Erholungsrate
+ETC_20161005_024899	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Tome Effects]{nl} - +150% EXP töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - x5 STA Erholungsrate
 ETC_20161005_024900	Flake Bundle
 ETC_20161005_024901	Rechtsklick zum verwenden. 5 pieces of food for Battlebird can be acquired upon use.
 ETC_20161005_024902	Token: 3 Hours [EVENT] (14 Tage)
@@ -24915,14 +24915,14 @@ ETC_20161005_024914	Instanced Clear Gutschein [{img star_mark 20 20}{img star_ma
 ETC_20161005_024915	A voucher that can clear an instanced dungeon faster and more effectively. Right-click it inside an instanced dungeon to use. Useable in 3-star dungeons.
 ETC_20161005_024916	Instanced Clear Gutschein [{img star_mark 20 20}{img star_mark 20 20}{img star_mark 20 20}{img star_mark 20 20}]
 ETC_20161005_024917	A voucher that can clear an instanced dungeon faster and more effectively. Right-click it inside an instanced dungeon to use. Useable in 4-star dungeons.
-ETC_20161005_024918	Wonderland Package - Swordsman (Male)
-ETC_20161005_024919	Wonderland Package - Swordsman (Female)
-ETC_20161005_024920	Wonderland Package - Wizard (Male)
-ETC_20161005_024921	Wonderland Package - Wizard (Female)
-ETC_20161005_024922	Wonderland Package - Archer (Male)
-ETC_20161005_024923	Wonderland Package - Archer (Female)
-ETC_20161005_024924	Wonderland Package - Cleric (Male)
-ETC_20161005_024925	Wonderland Package - Cleric (Female)
+ETC_20161005_024918	Wonderland Package - Swordsman (Männlich)
+ETC_20161005_024919	Wonderland Package - Swordsman (Weiblich)
+ETC_20161005_024920	Wonderland Package - Wizard (Männlich)
+ETC_20161005_024921	Wonderland Package - Wizard (Weiblich)
+ETC_20161005_024922	Wonderland Package - Archer (Männlich)
+ETC_20161005_024923	Wonderland Package - Archer (Weiblich)
+ETC_20161005_024924	Wonderland Package - Cleric (Männlich)
+ETC_20161005_024925	Wonderland Package - Cleric (Weiblich)
 ETC_20161005_024926	The Murmillo is a gladiatorial class that has a fine balance between offense and defense. It is capable of wearing a Cassis Crista to block ranged attacks or to enhance any shield related skills.
 ETC_20161005_024927	Offense, Defense
 ETC_20161005_024928	Lancer
@@ -25139,7 +25139,7 @@ ETC_20161005_025138	Bracken Vines
 ETC_20161005_025139	Bracken Leaves
 ETC_20161005_025140	Young Master
 ETC_20161005_025141	Governess
-ETC_20161005_025142	Adventurer (Female)
+ETC_20161005_025142	Adventurer (Weiblich)
 ETC_20161005_025143	Bright Thorn Flower NO OBB
 ETC_20161005_025144	Sleeping Centaurus
 ETC_20161005_025145	King's Statue
@@ -25749,10 +25749,10 @@ ETC_20161112_025748	Instanced Dungeon One Entry Gutschein (14 Tage)
 ETC_20161112_025749	Silver Commission for Shop Skills (%)
 ETC_20161112_025750	Obtain Seed
 ETC_20161112_025751	 {nl}Time left: {TIME} minutes.{nl}{nl}The prize will be ready to harvest after the time is up.
-ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161114_025754	Applies Token benefits to all your characters in the server for 7 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161114_025755	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025754	Applies Token benefits to all your characters in the server for 7 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025755	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20161114_025756	Market sales silver payment delay: 48 hours.
 ETC_20161114_025757	Market sales silver payment delay: 48 hours. (Token)
 ETC_20161114_025758	Instanced Dungeon One-Entry Gutschein (14 Tage)
@@ -25926,21 +25926,21 @@ ETC_20161214_025925	Instanced Dungeon Reset Gutschein: 1 Minute
 ETC_20161214_025926	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 7 Tage (Event) x1 {nl} - EXP Tome x3 {nl} - Highly Condensed HP Potion x100 {nl} - Highly Condensed SP Potion x100 {nl} - Urgent Repair Kit x3 {nl} - Warp Scroll x10 {nl} - Soul Crystal x5 {nl} - Instanced Dungeon Reset Gutschein x1 {nl} - Megaphone x10
 ETC_20161214_025927	Improved EXP Tome [Event]
 ETC_20161214_025928	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Rechtsklick zum verwenden.
-ETC_20161214_025929	Applies Token benefits to all your characters in the server for 3 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161214_025930	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161214_025929	Applies Token benefits to all your characters in the server for 3 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161214_025930	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20161214_025931	Instance Clear Gutschein
 ETC_20161214_025932	Token:3 Tage[EVENT](14 Tage)
-ETC_20161214_025933	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden.{nl}Upon pick-up, use within 14 days.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161214_025933	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden.{nl}Upon pick-up, use within 14 days.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20161214_025934	Warp Scroll (14 Tage)
 ETC_20161214_025935	Allows you to warp to any activated Goddess Statue. Your current location will be saved at a Goddess Statue. Upon pick-up, use within 14 days.
 ETC_20161214_025936	Soul Crystal (14 Tage)
 ETC_20161214_025937	Using this Soul Crystal will resurrect you in the same position you died. Upon pick-up, use within 14 days.
 ETC_20161214_025938	EXP Tome: 10 Minutes
-ETC_20161214_025939	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Upon pick-up, use within 10 minutes. Rechtsklick zum verwenden. Upon pick-up, use within 14 days.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20161214_025939	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Upon pick-up, use within 10 minutes. Rechtsklick zum verwenden. Upon pick-up, use within 14 days.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Tome Effect]{nl} - +30% EXP töten von Monstern{nl} - Doubled STA Erholungsrate
 ETC_20161214_025940	Instance One Entry Gutschein
 ETC_20161214_025941	Recovers all durability of currently-equipped items.
 ETC_20161214_025942	EXP Tome (Effect for a Minute)
-ETC_20161214_025943	Applies various effects to your character for 1 minute. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20161214_025943	Applies various effects to your character for 1 minute. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn Sie mit dem Spiel verbunden sind.{nl}[EXP Tome Effect]{nl} - +30% EXP töten von Monstern{nl} - Doubled STA Erholungsrate
 ETC_20161214_025944	Instanced Dungeon Multiply Token
 ETC_20161214_025945	Consumes all your remaining instanced dungeon daily entries, while multiplying the amount of items and EXP obtained in a single run by that number of entries.
 ETC_20161214_025946	Orange Hair Dye
