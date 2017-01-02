@@ -1746,7 +1746,7 @@ ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Bitte wähle einen Sockel.
 ETC_20150317_001747	Zeige alles
 ETC_20150317_001748	Verbrauchsgut
-ETC_20150317_001749	Buch
+ETC_20150317_001749	Bücher
 ETC_20150317_001750	Geld
 ETC_20150317_001751	Sub-Waffe
 ETC_20150317_001752	Rute
@@ -1754,7 +1754,7 @@ ETC_20150317_001753	Mantel
 ETC_20150317_001754	Hut
 ETC_20150317_001755	Zweihandspeer
 ETC_20150317_001756	Platziere einen Gegenstand.
-ETC_20150317_001757	Edelstein
+ETC_20150317_001757	Edelsteine
 ETC_20150317_001758	Sockel
 ETC_20150317_001759	{nl}{nl}Number of Magie Amulets that can be equipped: {Remain}
 ETC_20150317_001760	Please select an item to repair.
@@ -2858,7 +2858,7 @@ ETC_20150317_002857	Sammlungs-Effekt
 ETC_20150317_002858	Liste der erworbenen
 ETC_20150317_002859	Volle Liste
 ETC_20150317_002860	Du hast diese Sammlung bereits.
-ETC_20150317_002861	Sammlung
+ETC_20150317_002861	Sammlungen
 ETC_20150317_002862	A collection has been added.
 ETC_20150317_002863	Only through the NPC can be registered.
 ETC_20150317_002864	{Auto_2} von {Auto_1} erhalten
@@ -5031,10 +5031,10 @@ ETC_20150317_005030	Frag was passiert ist
 ETC_20150317_005031	Ich glaube du hast vergessen Göttin Laima zu erwähnen
 ETC_20150317_005032	Du hast eine Karte mit dem Königssiegel gefunden!
 ETC_20150317_005033	The villagers were demons. {nl}Escape through the portal at Grassy Brookside!
-ETC_20150317_005034	Über den Mage Tower
-ETC_20150317_005035	Über die Cursed City
+ETC_20150317_005034	Über den Magier Turm
+ETC_20150317_005035	Über die Verfluchte Stadt
 ETC_20150317_005036	Über Fedimian
-ETC_20150317_005037	About the Great Cathedral
+ETC_20150317_005037	Über die Große Kathedrale
 ETC_20150317_005038	Rot
 ETC_20150317_005039	Blau
 ETC_20150317_005040	Diagonal Stripe Pattern
@@ -21782,9 +21782,9 @@ ETC_20160520_021781	Fiery and fierce red like ruby. Rechtsklick zum verwenden. C
 ETC_20160520_021782	Instanced Dungeon Reset Gutschein: 14 Tage
 ETC_20160520_021783	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 14 days.
 ETC_20160520_021784	EXP Tome: 14 Tage
-ETC_20160520_021785	Applies various effects to your character for 1 hour. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP von der Monsterjagd{nl} - Doubled STA recovery rate
+ETC_20160520_021785	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP von der Monsterjagd{nl} - Doubled STA recovery rate
 ETC_20160520_021786	30 TP [Event]
-ETC_20160520_021787	Use to obtain 30 TP.
+ETC_20160520_021787	Verwenden zum erhalten 30 TP.
 ETC_20160520_021788	Instanced Dungeon Reset Gutschein: 1 Minute
 ETC_20160520_021789	EXP Tome: 1 Minute
 ETC_20160520_021790	Pastel Green Dye
@@ -22064,7 +22064,7 @@ ETC_20160718_022063	Defeat the demons attacking the unit{nl}to allow the soldier
 ETC_20160718_022064	Everyone retreat!
 ETC_20160718_022065	Storyteller
 ETC_20160718_022066	A title given to people who have met 100 NPCs.
-ETC_20160718_022067	100-Days Celebratory Event
+ETC_20160718_022067	100-Tage Celebratory Event
 ETC_20160718_022068	Goddess' Blessing
 ETC_20160718_022069	The Goddess' Blessing has enhanced your EXP earned and drop rate by 30%.
 ETC_20160718_022070	Swallow Soul
@@ -22138,16 +22138,16 @@ ETC_20160718_022137	{nl}{nl}Registered collections can be checked at the Magic A
 ETC_20160718_022138	{nl}{nl}Only complete collections will give benefits to characters.
 ETC_20160718_022139	This user is VAC banned by Valve.
 ETC_20160718_022140	Missing logic to process this specific packet.
-ETC_20160718_022141	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades
-ETC_20160718_022142	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022143	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022144	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022145	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022146	Applies Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022147	Applies Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022148	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20160718_022149	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - 1 extra instance entry for missions and dungeons{nl} - Enables 30 personal trades
-ETC_20160718_022150	Applies Token benefits to all your characters in the server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022141	Applies Token benefits to all your characters in the server for 30 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades
+ETC_20160718_022142	Applies Token benefits to all your characters in the server for 7 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022143	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022144	Applies Token benefits to all your characters in the server for 1 day. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022145	Applies Token benefits to all your characters in the server for 3 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022146	Applies Token benefits to all your characters in the server for 6 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022147	Applies Token benefits to all your characters in the server for 12 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022148	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160718_022149	Applies Token benefits to all your characters in the server for 30 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - 1 extra instance entry for missions and dungeons{nl} - Enables 30 personal trades
+ETC_20160718_022150	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20160718_022151	Zemyna Necklace Box
 ETC_20160718_022152	A box containing the Zemyna Necklace item. Right-click to open. {nl}The item will be batch removed on June 30th.
 ETC_20160718_022153	Badoca Hill
@@ -23048,21 +23048,21 @@ ETC_20160811_023047	Guild Hangout Entrance Denied Log
 ETC_20160811_023048	Uphill Defense Mission
 ETC_20160811_023049	Starter Defense Mission: Event
 ETC_20160811_023050	Medium Defense Mission: Event
-ETC_20160811_023051	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x4 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +30% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - Doubled STA recovery rate
-ETC_20160811_023052	Red Gem Box
-ETC_20160811_023053	A box containing 4 types of gem and a gem abrasive. Right-click to obtain.
-ETC_20160811_023054	Blue Gem Box
-ETC_20160811_023055	Purple Gem Box
-ETC_20160811_023056	Green Gem Box
-ETC_20160811_023057	Golden Gem Box
+ETC_20160811_023051	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn du mit dem Spiel verbunden bist.{nl} - Verwendung als Herstellungsmaterial für x4 EXP Tome. {nl} Rezept kann vom Zubehör-Händler erworben werden.{nl}[EXP Tome Effekte]{nl} - +30% EXP beim töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - Verdoppelung der STA Erholungsrate
+ETC_20160811_023052	Rote Edelstein Box
+ETC_20160811_023053	Eine Box, welche 4 Arten von Edelsteinen und ein Edelsteinschleifmittel enthält. Rechtsklick zum erhalten.
+ETC_20160811_023054	Blaue Edelstein Box
+ETC_20160811_023055	Lila Edelstein Box
+ETC_20160811_023056	Grüne Edelstein Box
+ETC_20160811_023057	Gold Edelstein Box
 ETC_20160811_023058	Keistas Potion Box
-ETC_20160811_023059	A box containing Keistas Potions. Right-click to obtain.
+ETC_20160811_023059	A box containing Keistas Potions. Rechtsklick zum erhalten.
 ETC_20160811_023060	Lord Hamondale's Box
-ETC_20160811_023061	A box containing Lord Hamondale's bracelet. Right-click to obtain. {nl} This item will be batch deleted on June 30.
+ETC_20160811_023061	A box containing Lord Hamondale's bracelet. Rechtsklick zum erhalten. {nl} This item will be batch deleted on June 30.
 ETC_20160811_023062	Knight Commander Uska's Box
-ETC_20160811_023063	A box containing Knight Commander Uska's bangle. Right-click to obtain. {nl} This item will be batch deleted on June 30.
+ETC_20160811_023063	A box containing Knight Commander Uska's bangle. Rechtsklick zum erhalten. {nl} This item will be batch deleted on June 30.
 ETC_20160811_023064	Light Salmon Dye
-ETC_20160811_023065	A soft pinkish color. Right-click to use. Check the Character Settings tab for the registered color.
+ETC_20160811_023065	A soft pinkish color. Rechtsklick zum verwenden. Check the Character Settings tab for the registered color.
 ETC_20160811_023066	Boss Card Unequip TP Price
 ETC_20160811_023067	Character Name Change Gutschein
 ETC_20160811_023068	Use to change the name of your character.
@@ -23071,57 +23071,57 @@ ETC_20160811_023070	Use to change the name of your team.
 ETC_20160811_023071	Guild Name Change Gutschein
 ETC_20160811_023072	Use to change the name of your guild.
 ETC_20160811_023073	x4 EXP Tome
-ETC_20160811_023074	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +120% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
+ETC_20160811_023074	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +120% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
 ETC_20160811_023075	x8 EXP Tome
-ETC_20160811_023076	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +240% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate
+ETC_20160811_023076	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +240% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate
 ETC_20160811_023077	Improved EXP Tome [Event]
-ETC_20160811_023078	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +50% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - Doubled STA recovery rate
-ETC_20160811_023079	x4 EXP Tome (14 Days)
-ETC_20160811_023080	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +120% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
-ETC_20160811_023081	x8 EXP Tome (14 Days)
+ETC_20160811_023078	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +50% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - Doubled STA recovery rate
+ETC_20160811_023079	x4 EXP Tome (14 Tage)
+ETC_20160811_023080	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +120% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
+ETC_20160811_023081	x8 EXP Tome (14 Tage)
 ETC_20160811_023082	15 TP [Event]
-ETC_20160811_023083	Use to obtain 15 TP.
+ETC_20160811_023083	Verwenden um 15 TP zu erhalten.
 ETC_20160811_023084	25 TP [Event]
-ETC_20160811_023085	Use to obtain 25 TP.
+ETC_20160811_023085	Verwenden um 25 TP zu erhalten.
 ETC_20160811_023086	24 TP [Event]
-ETC_20160811_023087	Use to obtain 24 TP.
-ETC_20160811_023088	5 TP [Event - 14 Days]
-ETC_20160811_023089	30 TP [Event - 14 Days]
-ETC_20160811_023090	Path of the Powerful Day 1 Box (7 Days)
-ETC_20160811_023091	Right-click to use and acquire the contents of the box.
-ETC_20160811_023092	Path of the Powerful Day 2 Box (7 Days)
-ETC_20160811_023093	Path of the Powerful Day 3 Box (7 Days)
-ETC_20160811_023094	Path of the Powerful Day 4 Box (7 Days)
-ETC_20160811_023095	Path of the Powerful Day 5 Box (7 Days)
-ETC_20160811_023096	Path of the Powerful Day 6 Box (7 Days)
-ETC_20160811_023097	Path of the Powerful Day 7 Box (7 Days)
-ETC_20160811_023098	Path of the Powerful Day 8 Box (7 Days)
-ETC_20160811_023099	Path of the Powerful Day 9 Box (7 Days)
-ETC_20160811_023100	Path of the Powerful Day 10 Box (7 Days)
-ETC_20160811_023101	Leticia's Gift Day 1 Box (7 Days)
-ETC_20160811_023102	Leticia's Gift Day 2 Box (7 Days)
-ETC_20160811_023103	Leticia's Gift Day 3 Box (7 Days)
-ETC_20160811_023104	Leticia's Gift Day 4 Box (7 Days)
-ETC_20160811_023105	Leticia's Gift Day 5 Box (7 Days)
-ETC_20160811_023106	Leticia's Gift Day 6 Box (7 Days)
-ETC_20160811_023107	Leticia's Gift Day 7 Box (7 Days)
-ETC_20160811_023108	Leticia's Gift Day 8 Box (7 Days)
-ETC_20160811_023109	Leticia's Gift Day 9 Box (7 Days)
-ETC_20160811_023110	Leticia's Gift Day 10 Box (7 Days)
-ETC_20160811_023111	One More Time Day 1 Box (7 Days)
-ETC_20160811_023112	One More Time Day 2 Box (7 Days)
-ETC_20160811_023113	One More Time Day 3 Box (7 Days)
-ETC_20160811_023114	One More Time Day 4 Box (7 Days)
-ETC_20160811_023115	One More Time Day 5 Box (7 Days)
-ETC_20160811_023116	One More Time Day 6 Box (7 Days)
-ETC_20160811_023117	One More Time Day 7 Box (7 Days)
-ETC_20160811_023118	One More Time Day 8 Box (7 Days)
-ETC_20160811_023119	One More Time Day 9 Box (7 Days)
-ETC_20160811_023120	One More Time Day 10 Box (7 Days)
+ETC_20160811_023087	Verwenden um 24 TP zu erhalten.
+ETC_20160811_023088	5 TP [Event - 14 Tage]
+ETC_20160811_023089	30 TP [Event - 14 Tage]
+ETC_20160811_023090	Path of the Powerful Day 1 Box (7 Tage)
+ETC_20160811_023091	Rechtsklick zum verwenden and acquire the contents of the box.
+ETC_20160811_023092	Path of the Powerful Day 2 Box (7 Tage)
+ETC_20160811_023093	Path of the Powerful Day 3 Box (7 Tage)
+ETC_20160811_023094	Path of the Powerful Day 4 Box (7 Tage)
+ETC_20160811_023095	Path of the Powerful Day 5 Box (7 Tage)
+ETC_20160811_023096	Path of the Powerful Day 6 Box (7 Tage)
+ETC_20160811_023097	Path of the Powerful Day 7 Box (7 Tage)
+ETC_20160811_023098	Path of the Powerful Day 8 Box (7 Tage)
+ETC_20160811_023099	Path of the Powerful Day 9 Box (7 Tage)
+ETC_20160811_023100	Path of the Powerful Day 10 Box (7 Tage)
+ETC_20160811_023101	Leticia's Gift Day 1 Box (7 Tage)
+ETC_20160811_023102	Leticia's Gift Day 2 Box (7 Tage)
+ETC_20160811_023103	Leticia's Gift Day 3 Box (7 Tage)
+ETC_20160811_023104	Leticia's Gift Day 4 Box (7 Tage)
+ETC_20160811_023105	Leticia's Gift Day 5 Box (7 Tage)
+ETC_20160811_023106	Leticia's Gift Day 6 Box (7 Tage)
+ETC_20160811_023107	Leticia's Gift Day 7 Box (7 Tage)
+ETC_20160811_023108	Leticia's Gift Day 8 Box (7 Tage)
+ETC_20160811_023109	Leticia's Gift Day 9 Box (7 Tage)
+ETC_20160811_023110	Leticia's Gift Day 10 Box (7 Tage)
+ETC_20160811_023111	One More Time Day 1 Box (7 Tage)
+ETC_20160811_023112	One More Time Day 2 Box (7 Tage)
+ETC_20160811_023113	One More Time Day 3 Box (7 Tage)
+ETC_20160811_023114	One More Time Day 4 Box (7 Tage)
+ETC_20160811_023115	One More Time Day 5 Box (7 Tage)
+ETC_20160811_023116	One More Time Day 6 Box (7 Tage)
+ETC_20160811_023117	One More Time Day 7 Box (7 Tage)
+ETC_20160811_023118	One More Time Day 8 Box (7 Tage)
+ETC_20160811_023119	One More Time Day 9 Box (7 Tage)
+ETC_20160811_023120	One More Time Day 10 Box (7 Tage)
 ETC_20160811_023121	Defense Mission Reward Box
-ETC_20160811_023122	Right-click to use and acquire the contents of the box.
+ETC_20160811_023122	Rechtsklick zum verwenden and acquire the contents of the box.
 ETC_20160811_023123	Weapon Support Box
-ETC_20160811_023124	Right-click to use and acquire the contents of the box. This box will be batch deleted on August 9.
+ETC_20160811_023124	Rechtsklick zum verwenden and acquire the contents of the box. This box will be batch deleted on August 9.
 ETC_20160811_023125	Battlebird Companion Package
 ETC_20160811_023126	Jurate Starter Package
 ETC_20160811_023127	Swimwear Package - Swordsman (Male)
@@ -24212,24 +24212,24 @@ ETC_20160811_024211	It seems to be time to use these little beauties...
 ETC_20160811_024212	What took you so long!
 ETC_20160811_024213	Hunting Season
 ETC_20160813_024214	Bunny Kostüm Package
-ETC_20160813_024215	Right-click to obtain the contents of this box.{nl}This item can only be used by Wizard classes.{nl} - Bunny Kostüm x1{nl} - White Bunny Hairband x1{nl} - Enchant Scroll x10
+ETC_20160813_024215	Rechtsklick zum erhalten the contents of this box.{nl}This item can only be used by Wizard classes.{nl} - Bunny Kostüm x1{nl} - White Bunny Hairband x1{nl} - Enchant Scroll x10
 ETC_20160813_024216	Swimwear Package
-ETC_20160813_024217	Right-click to use. {nl}Contains a Swimwear Kostüm for your class.{nl} - Swimwear Kostüm x 1{nl} - Hair Accessory Selection Box 1x {nl} - Enchant Scroll x10
+ETC_20160813_024217	Rechtsklick zum verwenden. {nl}Contains a Swimwear Kostüm for your class.{nl} - Swimwear Kostüm x 1{nl} - Hair Accessory Selection Box 1x {nl} - Enchant Scroll x10
 ETC_20160813_024218	Hair Accessory Selection Box
-ETC_20160813_024219	Right-click to obtain the contents of this box.{nl}You will be able to select and receive a Hair Accessory of your choice.{nl}You will be able to select one of the following.{nl} - Polka Dot Lime Ribbon{nl} - Swimming Goggles{nl} - Huckleberry Hair Accessory{nl} - Sailor Hat{nl} - Snorkeling Mask{nl} - Aloha Flower Crown{nl} - Beach Straw Hat{nl} - Beach Fedora
+ETC_20160813_024219	Rechtsklick zum erhalten the contents of this box.{nl}You will be able to select and receive a Hair Accessory of your choice.{nl}You will be able to select one of the following.{nl} - Polka Dot Lime Ribbon{nl} - Swimming Goggles{nl} - Huckleberry Hair Accessory{nl} - Sailor Hat{nl} - Snorkeling Mask{nl} - Aloha Flower Crown{nl} - Beach Straw Hat{nl} - Beach Fedora
 ETC_20160813_024220	This item can only be used by Wizard classes.
 ETC_20160813_024221	Please choose the Hair Accessory you wish to use.
 ETC_20160825_024222	Creative Soul
 ETC_20160825_024223	The title is awarded to those who have won in the Fan Art Fest.
 ETC_20160909_024224	Happy-Go-Lucky
 ETC_20160909_024225	Title given to players who guessed the lucky number in a single try.
-ETC_20160909_024226	Applies effects to your character for 1 hour.{nl}Right-click to use.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
-ETC_20160909_024227	Applies effects to your character for 1 hour.{nl}Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}{nl}[EXP Tome Effects]{nl} - +300% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
-ETC_20160909_024228	Enchant Scroll (14 Days)
+ETC_20160909_024226	Applies effects to your character for 1 hour.{nl}Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
+ETC_20160909_024227	Applies effects to your character for 1 hour.{nl}Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}{nl}[EXP Tome Effects]{nl} - +300% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate{nl} - Does not consume time during instanced dungeon/mission party matching or when your character is inside a city.
+ETC_20160909_024228	Enchant Scroll (14 Tage)
 ETC_20160921_024231	Wonderland Package
-ETC_20160921_024232	Right-click to use. {nl}Contains a Wonderland Kostüm for your class.{nl} - Wonderland Kostüm x1{nl} - Hair Accessory Selection Box - Wonderland 1x{nl} - Enchant Scroll x10
+ETC_20160921_024232	Rechtsklick zum verwenden. {nl}Contains a Wonderland Kostüm for your class.{nl} - Wonderland Kostüm x1{nl} - Hair Accessory Selection Box - Wonderland 1x{nl} - Enchant Scroll x10
 ETC_20160921_024233	Hair Accessory Selection Box - Wonderland
-ETC_20160921_024234	Right-click to obtain the contents of this box.{nl}You will be able to select and receive a Hair Accessory of your choice.{nl}You will be able to select one of the following.{nl} - Butterfly Hat{nl} - Lotus Cup Hair Accessory{nl} - Hatter's Cake Hat{nl} - Parfait and Mouse Ear Headband{nl} - Dodo Hair Accessory{nl} - Chesirecat Hair Accessory{nl} - White Rabbit Hair Accessory{nl} - Alice's Key Hair Accessor
+ETC_20160921_024234	Rechtsklick zum erhalten the contents of this box.{nl}You will be able to select and receive a Hair Accessory of your choice.{nl}You will be able to select one of the following.{nl} - Butterfly Hat{nl} - Lotus Cup Hair Accessory{nl} - Hatter's Cake Hat{nl} - Parfait and Mouse Ear Headband{nl} - Dodo Hair Accessory{nl} - Chesirecat Hair Accessory{nl} - White Rabbit Hair Accessory{nl} - Alice's Key Hair Accessor
 ETC_20160922_024229	Protect the torch for 1 minutes to open the way
 ETC_20160922_024230	Keep the torch on for 1 minutes!
 ETC_20160925_024235	A spirit that became evil after coming into contact with something demonic. It is not a human spirit turned evil, but a spirit corrupted after fusing with a demonic one.
@@ -24892,23 +24892,23 @@ ETC_20161005_024891	Earth Tower : Solmiki Area
 ETC_20161005_024892	Cube
 ETC_20161005_024893	Accessory
 ETC_20161005_024894	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 1 minute.
-ETC_20161005_024895	Applies various effects to your character for 1 minute. Upon pick-up, use within 14 days. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20161005_024895	Applies various effects to your character for 1 minute. Upon pick-up, use within 14 days. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
 ETC_20161005_024896	A potion concocted by those who have made good choices; for use by those who have not.{nl}Use this to reset the stats of your character. Upon pick-up, use within 14 days.
-ETC_20161005_024897	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
-ETC_20161005_024898	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - 300 EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate
-ETC_20161005_024899	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
+ETC_20161005_024897	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x8 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
+ETC_20161005_024898	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - 300 EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x9 STA recovery rate
+ETC_20161005_024899	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effects]{nl} - +150% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - x5 STA recovery rate
 ETC_20161005_024900	Flake Bundle
-ETC_20161005_024901	Right-click to use. 5 pieces of food for Battlebird can be acquired upon use.
-ETC_20161005_024902	Token: 3 Hours [EVENT] (14 Days)
-ETC_20161005_024903	Token: 5 Days [EVENT] (14 Days)
+ETC_20161005_024901	Rechtsklick zum verwenden. 5 pieces of food for Battlebird can be acquired upon use.
+ETC_20161005_024902	Token: 3 Hours [EVENT] (14 Tage)
+ETC_20161005_024903	Token: 5 Tage [EVENT] (14 Tage)
 ETC_20161005_024904	Goddess' Present Chest
-ETC_20161005_024905	Right-click to use and obtain contents.{nl} - 190 TP{nl} - Token - Event (15 Days){nl} - Highly Enriched HP/SP Potion 20x{nl} - Soul Crystal 15x{nl} - Megaphone 15x{nl} - Warp Scroll 15x{nl} - EXP Tome 5x
+ETC_20161005_024905	Rechtsklick zum verwenden and obtain contents.{nl} - 190 TP{nl} - Token - Event (15 Tage){nl} - Highly Enriched HP/SP Potion 20x{nl} - Soul Crystal 15x{nl} - Megaphone 15x{nl} - Warp Scroll 15x{nl} - EXP Tome 5x
 ETC_20161005_024906	Instanced Clear Gutschein [{img star_mark 20 20}]
 ETC_20161005_024907	A voucher that can clear an instanced dungeon faster and more effectively. Right-click it inside an instanced dungeon to use. Useable in 1-star dungeons.
 ETC_20161005_024908	Instanced One Entry Gutschein
 ETC_20161005_024909	Use it to enter an instanced dungeon one more time.
 ETC_20161005_024910	Violet Dye
-ETC_20161005_024911	A lavender-like purple color. Right-click to use. Check the Character Settings tab for the registered color.
+ETC_20161005_024911	A lavender-like purple color. Rechtsklick zum verwenden. Check the Character Settings tab for the registered color.
 ETC_20161005_024912	Instanced Clear Gutschein [{img star_mark 20 20}{img star_mark 20 20}]
 ETC_20161005_024913	A voucher that can clear an instanced dungeon faster and more effectively. Right-click it inside an instanced dungeon to use. Useable in 2-star dungeons.
 ETC_20161005_024914	Instanced Clear Gutschein [{img star_mark 20 20}{img star_mark 20 20}{img star_mark 20 20}]
@@ -25693,7 +25693,7 @@ ETC_20161014_025692	The mission will fail if you don't pass the trap area within
 ETC_20161014_025693	The mission starts in 5 seconds.
 ETC_20161024_025694	Halloween Event
 ETC_20161024_025695	Haunted Artist
-ETC_20161024_025696	An item that will award you with the Haunted Artist title. Right-click to use and obtain the title.
+ETC_20161024_025696	An item that will award you with the Haunted Artist title. Rechtsklick zum verwenden and obtain the title.
 ETC_20161024_025697	Halloween Demon Hunt
 ETC_20161024_025698	Join the hunt
 ETC_20161024_025699	Obtain rewards (played {COUNT} times)
@@ -25745,17 +25745,17 @@ ETC_20161108_025744	Fire Property Attack
 ETC_20161108_025745	Fire Property Resistance
 ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
-ETC_20161112_025748	Instanced Dungeon One Entry Gutschein (14 Days)
+ETC_20161112_025748	Instanced Dungeon One Entry Gutschein (14 Tage)
 ETC_20161112_025749	Silver Commission for Shop Skills (%)
 ETC_20161112_025750	Obtain Seed
 ETC_20161112_025751	 {nl}Time left: {TIME} minutes.{nl}{nl}The prize will be ready to harvest after the time is up.
-ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. Right-click to use. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. Right-click to use. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161114_025754	Applies Token benefits to all your characters in the server for 7 days. Right-click to use. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161114_025755	Applies Token benefits to all your characters in the server for 15 days. Right-click to use. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025754	Applies Token benefits to all your characters in the server for 7 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161114_025755	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20161114_025756	Market sales silver payment delay: 48 hours.
 ETC_20161114_025757	Market sales silver payment delay: 48 hours. (Token)
-ETC_20161114_025758	Instanced Dungeon One-Entry Gutschein (14 Days)
+ETC_20161114_025758	Instanced Dungeon One-Entry Gutschein (14 Tage)
 ETC_20161121_025759	Former Fantasy Library
 ETC_20161121_025760	 One additional entry to an instanced dungeon or Mercenary Post mission.
 ETC_20161121_025761	Daily instanced dungeon entry limit exceeded.
@@ -25792,9 +25792,9 @@ ETC_20161130_025791	Can only be used in Rank {Rank}.
 ETC_20161130_025792	Cannot be used in Rank 1.
 ETC_20161130_025793	You already own this voice pack.
 ETC_20161130_025794	Giving Tree
-ETC_20161130_025795	Advanced Gem Abrasive (14 Days)
-ETC_20161130_025796	EXP Tome (14 Days)
-ETC_20161130_025797	Jumbo Dumpling (14 Days)
+ETC_20161130_025795	Advanced Gem Abrasive (14 Tage)
+ETC_20161130_025796	EXP Tome (14 Tage)
+ETC_20161130_025797	Jumbo Dumpling (14 Tage)
 ETC_20161214_025798	Convent Scriptorium Mission
 ETC_20161214_025799	Narcon Prison
 ETC_20161214_025800	Natarh Watchtower
@@ -25914,82 +25914,82 @@ ETC_20161214_025913	The Dievdirbys Master received a letter from Tesla.{nl}Tesla
 ETC_20161214_025914	TestRaid2
 ETC_20161214_025915	Earth Tower Lolopanther Area
 ETC_20161214_025916	Earth Tower : Solmiki Area
-ETC_20161214_025917	Use to obtain 30 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20161214_025918	Use to obtain 100 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20161214_025919	Use to obtain 200 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20161214_025920	Use to obtain 300 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20161214_025921	Use to obtain 600 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20161214_025922	Use to obtain 1300 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20161214_025923	Right-click to obtain the following items:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Doll{nl} - 150 TP [Event]
-ETC_20161214_025924	Instanced Dungeon Reset Gutschein: 14 Days
+ETC_20161214_025917	Verwenden zum erhalten 30 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20161214_025918	Verwenden zum erhalten 100 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20161214_025919	Verwenden zum erhalten 200 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20161214_025920	Verwenden zum erhalten 300 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20161214_025921	Verwenden zum erhalten 600 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20161214_025922	Verwenden zum erhalten 1300 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20161214_025923	Rechtsklick zum erhalten the following items:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Doll{nl} - 150 TP [Event]
+ETC_20161214_025924	Instanced Dungeon Reset Gutschein: 14 Tage
 ETC_20161214_025925	Instanced Dungeon Reset Gutschein: 1 Minute
-ETC_20161214_025926	Contains goodies. Right-click to use.{nl} - Token 7 Days (Event) x1 {nl} - EXP Tome x3 {nl} - Highly Condensed HP Potion x100 {nl} - Highly Condensed SP Potion x100 {nl} - Urgent Repair Kit x3 {nl} - Warp Scroll x10 {nl} - Soul Crystal x5 {nl} - Instanced Dungeon Reset Gutschein x1 {nl} - Megaphone x10
+ETC_20161214_025926	Contains goodies. Rechtsklick zum verwenden.{nl} - Token 7 Tage (Event) x1 {nl} - EXP Tome x3 {nl} - Highly Condensed HP Potion x100 {nl} - Highly Condensed SP Potion x100 {nl} - Urgent Repair Kit x3 {nl} - Warp Scroll x10 {nl} - Soul Crystal x5 {nl} - Instanced Dungeon Reset Gutschein x1 {nl} - Megaphone x10
 ETC_20161214_025927	Improved EXP Tome [Event]
-ETC_20161214_025928	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.
-ETC_20161214_025929	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161214_025930	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161214_025928	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Rechtsklick zum verwenden.
+ETC_20161214_025929	Applies Token benefits to all your characters in the server for 3 hours. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161214_025930	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20161214_025931	Instance Clear Gutschein
-ETC_20161214_025932	Token:3 Days[EVENT](14 Days)
-ETC_20161214_025933	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}Upon pick-up, use within 14 days.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
-ETC_20161214_025934	Warp Scroll (14 Days)
+ETC_20161214_025932	Token:3 Tage[EVENT](14 Tage)
+ETC_20161214_025933	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden.{nl}Upon pick-up, use within 14 days.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20161214_025934	Warp Scroll (14 Tage)
 ETC_20161214_025935	Allows you to warp to any activated Goddess Statue. Your current location will be saved at a Goddess Statue. Upon pick-up, use within 14 days.
-ETC_20161214_025936	Soul Crystal (14 Days)
+ETC_20161214_025936	Soul Crystal (14 Tage)
 ETC_20161214_025937	Using this Soul Crystal will resurrect you in the same position you died. Upon pick-up, use within 14 days.
 ETC_20161214_025938	EXP Tome: 10 Minutes
-ETC_20161214_025939	Applies various effects to your character for 1 hour. Upon pick-up, use within 10 minutes. Right-click to use. Upon pick-up, use within 14 days.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20161214_025939	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Upon pick-up, use within 10 minutes. Rechtsklick zum verwenden. Upon pick-up, use within 14 days.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
 ETC_20161214_025940	Instance One Entry Gutschein
 ETC_20161214_025941	Recovers all durability of currently-equipped items.
 ETC_20161214_025942	EXP Tome (Effect for a Minute)
-ETC_20161214_025943	Applies various effects to your character for 1 minute. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20161214_025943	Applies various effects to your character for 1 minute. Rechtsklick zum verwenden.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
 ETC_20161214_025944	Instanced Dungeon Multiply Token
 ETC_20161214_025945	Consumes all your remaining instanced dungeon daily entries, while multiplying the amount of items and EXP obtained in a single run by that number of entries.
 ETC_20161214_025946	Orange Hair Dye
-ETC_20161214_025947	A beautiful sunset-colored orange hair dye. Right-click to use. Check the Character Settings tab for the registered color.
+ETC_20161214_025947	A beautiful sunset-colored orange hair dye. Rechtsklick zum verwenden. Check the Character Settings tab for the registered color.
 ETC_20161214_025948	Glowing Awakening Stone
-ETC_20161214_025949	Use to obtain 16 TP. 
-ETC_20161214_025950	Use to obtain 33 TP. 
-ETC_20161214_025951	Use to obtain 49 TP. 
-ETC_20161214_025952	Use to obtain 66 TP. 
-ETC_20161214_025953	Use to obtain 82 TP. 
-ETC_20161214_025954	Use to obtain 99 TP. 
-ETC_20161214_025955	Use to obtain 115 TP. 
-ETC_20161214_025956	Use to obtain 132 TP. 
-ETC_20161214_025957	Use to obtain 148 TP. 
-ETC_20161214_025958	Use to obtain 165 TP. 
-ETC_20161214_025959	Use to obtain 198 TP. 
-ETC_20161214_025960	Use to obtain 330 TP. 
-ETC_20161214_025961	Use to obtain 379 TP. 
-ETC_20161214_025962	Use to obtain 445 TP. 
-ETC_20161214_025963	Use to obtain 660 TP. 
-ETC_20161214_025964	Use to obtain 990 TP. 
-ETC_20161214_025965	Use to obtain 1650 TP. 
-ETC_20161214_025966	Use to obtain 3300 TP. 
-ETC_20161214_025967	Use to obtain 6600 TP. 
+ETC_20161214_025949	Verwenden zum erhalten 16 TP. 
+ETC_20161214_025950	Verwenden zum erhalten 33 TP. 
+ETC_20161214_025951	Verwenden zum erhalten 49 TP. 
+ETC_20161214_025952	Verwenden zum erhalten 66 TP. 
+ETC_20161214_025953	Verwenden zum erhalten 82 TP. 
+ETC_20161214_025954	Verwenden zum erhalten 99 TP. 
+ETC_20161214_025955	Verwenden zum erhalten 115 TP. 
+ETC_20161214_025956	Verwenden zum erhalten 132 TP. 
+ETC_20161214_025957	Verwenden zum erhalten 148 TP. 
+ETC_20161214_025958	Verwenden zum erhalten 165 TP. 
+ETC_20161214_025959	Verwenden zum erhalten 198 TP. 
+ETC_20161214_025960	Verwenden zum erhalten 330 TP. 
+ETC_20161214_025961	Verwenden zum erhalten 379 TP. 
+ETC_20161214_025962	Verwenden zum erhalten 445 TP. 
+ETC_20161214_025963	Verwenden zum erhalten 660 TP. 
+ETC_20161214_025964	Verwenden zum erhalten 990 TP. 
+ETC_20161214_025965	Verwenden zum erhalten 1650 TP. 
+ETC_20161214_025966	Verwenden zum erhalten 3300 TP. 
+ETC_20161214_025967	Verwenden zum erhalten 6600 TP. 
 ETC_20161214_025968	1000 TP [Event]
-ETC_20161214_025969	Use to obtain 1000 TP.
+ETC_20161214_025969	Verwenden zum erhalten 1000 TP.
 ETC_20161214_025970	200 TP [Event]
 ETC_20161214_025971	300 TP [Event]
-ETC_20161214_025972	Use to obtain 300 TP.
+ETC_20161214_025972	Verwenden zum erhalten 300 TP.
 ETC_20161214_025973	400 TP [Event]
-ETC_20161214_025974	Use to obtain 400 TP.
+ETC_20161214_025974	Verwenden zum erhalten 400 TP.
 ETC_20161214_025975	120 TP [Event]
-ETC_20161214_025976	Use to obtain 120 TP.
+ETC_20161214_025976	Verwenden zum erhalten 120 TP.
 ETC_20161214_025977	60 TP [Event]
-ETC_20161214_025978	Use to obtain 60 TP.
+ETC_20161214_025978	Verwenden zum erhalten 60 TP.
 ETC_20161214_025979	Penguin Package
 ETC_20161214_025980	Adventurer Package
 ETC_20161214_025981	Right click to use and obtain the contents.{nl}- Honey Dumpling (x2) {nl} - x8 EXP Tome (x1) {nl} - Enchant Scroll (x1) {nl} - Instanced Dungeon Reset Gutschein (x1)
 ETC_20161214_025982	Right click to use and obtain the contents.{nl}- Honey Dumpling (x6) {nl} - x8 EXP Tome (x3) {nl} - Enchant Scroll (x3) {nl} - Instanced Dungeon Reset Gutschein (x3) {nl} - Superior Gem Abrasive (x1)
 ETC_20161214_025983	Right click to use and obtain the contents.{nl}- Honey Dumpling (x30) {nl} - x8 EXP Tome (x10) {nl} - Enchant Scroll (x10) {nl} - Instanced Dungeon Reset Gutschein (x10) {nl} - Lv9 Gem Abrasive (x1) {nl} - Silver Anvil (x3)
 ETC_20161214_025984	Maintenance Compensation Package
-ETC_20161214_025985	Right-click to obtain the contents.
+ETC_20161214_025985	Rechtsklick zum erhalten the contents.
 ETC_20161214_025986	Major Bug Report Appreciation Package
 ETC_20161214_025987	Bug Report Appreciation Package
 ETC_20161214_025988	Reparations Package
 ETC_20161214_025989	Delay Compensation Package
 ETC_20161214_025990	Test Pack
 ETC_20161214_025991	100 Day Celebration Package
-ETC_20161214_025992	Right click to use and obtain the contents.{nl} - Enchant Scroll (x8){nl} - 100 Days Celebration Potion (x10){nl} - Highly Condensed HP Potion (x100){nl} - Highly Condensed SP Potion (x100)
+ETC_20161214_025992	Right click to use and obtain the contents.{nl} - Enchant Scroll (x8){nl} - 100 Tage Celebration Potion (x10){nl} - Highly Condensed HP Potion (x100){nl} - Highly Condensed SP Potion (x100)
 ETC_20161214_025993	October Accessory Package
 ETC_20161214_025994	Right click to use and obtain the contents.{nl} - Enchant Scroll (x5){nl} - Tasseled Armband (x1){nl} - Polka Dot Ribbon (x1)
 ETC_20161214_025995	Pumpkin 100 TP Package
@@ -26111,8 +26111,8 @@ ETC_20161214_026110	Exceeded the maximum silver limit of {LIMIT}.
 ETC_20161214_026111	This item cannot be equipped more than once.
 ETC_20161214_026112	Cannot be used while an attribute is being learned.
 ETC_20161214_026113	Only Token users can increase multiple attribute levels at once.
-ETC_20161214_026114	{ITEM}: {COUNT}  (Season {SEA} {DAYCOUNT} Days)
-ETC_20161214_026115	{ITEM}:  {COUNT}{nl}Season {SEA} Logged In For {DAYCOUNT} Days
+ETC_20161214_026114	{ITEM}: {COUNT}  (Season {SEA} {DAYCOUNT} Tage)
+ETC_20161214_026115	{ITEM}:  {COUNT}{nl}Season {SEA} Logged In For {DAYCOUNT} Tage
 ETC_20161214_026116	Logged in for {DAYCOUNT} days in Season {SEA}
 ETC_20161214_026117	Obtained {COUNT} Silver!
 ETC_20161214_026118	{s24}Congratulations!{nl}{PC} has obtained a(n) {ITEMNAME}{nl}from Leticia's Secret Cube!

@@ -2453,7 +2453,7 @@ UI_20161121_002452	Eintrags Level
 UI_20161121_002453	Eintragszähler
 UI_20161121_002454	Betrete Dungeon
 UI_20161121_002455	%s/%s
-UI_20161121_002456	Main Obtainable Equipment
+UI_20161121_002456	Haupt erhältliche Ausrüstung
 UI_20161121_002457	{@st66b}Auto Match{nl}Re-Enter
 UI_20161121_002458	Entering the place previously matched.
 UI_20161121_002459	Auto Match
@@ -2461,43 +2461,43 @@ UI_20161121_002460	Haupt Monster
 UI_20161121_002461	Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.
 UI_20161121_002462	Auto Match{nl}with Party
 UI_20161121_002463	Auto Match w/ Current Members
-UI_20161121_002464	{@st41b}Enter Now
-UI_20161121_002465	Total Waiting Queue: %s
+UI_20161121_002464	{@st41b}Jetzt betreten
+UI_20161121_002465	Total Warteschlange: %s
 UI_20161121_002466	Awaiting the participation from the party members.
-UI_20161121_002467	{@st66b}Cancel Queue
-UI_20161121_002468	Entering now...
-UI_20161121_002469	{@st59}Schließen the Message.{/}
-UI_20161214_002470	{@st43}Identify{/}
+UI_20161121_002467	{@st66b}Abbrechen der Warteschlange
+UI_20161121_002468	Jetzt eintreten...
+UI_20161121_002469	{@st59}Schließe die Nachricht.{/}
+UI_20161214_002470	{@st43}Identifizieren{/}
 UI_20161214_002471	{@st59}Schließen{/}
-UI_20161214_002472	{@st66}List of Identifiable Items
-UI_20161214_002473	{@st41b}Identification Cost{/}
-UI_20161214_002474	{@st41b}Identify{/}
+UI_20161214_002472	{@st66}Liste der identifizierbaren Gegenstände
+UI_20161214_002473	{@st41b}Identifizierungskosten{/}
+UI_20161214_002474	{@st41b}Identifizieren{/}
 UI_20161214_002475	Name
-UI_20161214_002476	{@st43}Companion Shop
-UI_20161214_002477	{@st66b}Adopt{/}
-UI_20161214_002478	{@st66b}Pet Food{/}
+UI_20161214_002476	{@st43}Begleiter Shop
+UI_20161214_002477	{@st66b}Adoptieren{/}
+UI_20161214_002478	{@st66b}Tierfutter{/}
 UI_20161214_002479	{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18}
 UI_20161214_002480	{img icon_item_silver 20 20}{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}
-UI_20161214_002481	{@st66b}Clear{/}
-UI_20161214_002482	{@st41b}Proceed {/}{img white_right_arrow 15 18}
-UI_20161214_002483	{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}
-UI_20161214_002484	Level 1 cards do not consume 5TP.
-UI_20161214_002485	{@st66b}Real-time Standings
-UI_20161214_002486	Last Season Standings
-UI_20161214_002487	Increases EXP/Drop Rate{nl}up to 3 times{nl}by consuming the entry counter and Instance Dungeon Multiply Token.
-UI_20161214_002488	{@st41b}Activate Multiply Mode
-UI_20161214_002489	{@st41b}Cancel Multiply Mode
+UI_20161214_002481	{@st66b}Klar{/}
+UI_20161214_002482	{@st41b}Vorgehen {/}{img white_right_arrow 15 18}
+UI_20161214_002483	{@st41b}Verbleibender Fund {/}{img white_right_arrow 15 18}
+UI_20161214_002484	Level 1 Karten konsumieren keine 5TP.
+UI_20161214_002485	{@st66b}Realzeitstand
+UI_20161214_002486	Letzte Saison
+UI_20161214_002487	Erhöht EXP/Drop Rate{nl}bis zu 3 mal{nl}indem du den Eintragszähler und Instanz Dungeon Multiply Token verbrauchst.
+UI_20161214_002488	{@st41b}Multiply Mode aktivieren
+UI_20161214_002489	{@st41b}Multiply Mode abbrechen
 UI_20161214_002490	Multiply Mode Number
-UI_20161214_002491	Bitte, warte.
-UI_20161214_002492	{@st66b}Equipment{/}
-UI_20161214_002493	{@st66b}Gegenstand{/}
+UI_20161214_002491	Bitte warte.
+UI_20161214_002492	{@st66b}Ausrüstung{/}
+UI_20161214_002493	{@st66b}Gegenstände{/}
 UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
 UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}
 UI_20161214_002496	{@st66b}Speichern{/}
 UI_20161214_002497	{@st66b}Zeige Schaden an anderen Charakteren
 UI_20161214_002498	{@st59}Bitte wähle einen Server aus.{/}
 UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}
-UI_20161214_002500	Current
+UI_20161214_002500	Aktuell
 UI_20161214_002501	Max.
 UI_20161214_002502	{@st66b}Lernen
 UI_20161214_002503	{img white_right_arrow 24 24}{@st66d_y} Total Cost{/}
@@ -2510,12 +2510,12 @@ UI_20161221_002509	Bist du sicher dass du den Rank Reset Gutschein verwenden mö
 UI_20161221_002510	The item will disappear from your{nl}inventory and your Rank choices will be reset.
 UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}
 UI_20161221_002512	{@st58}Keine Gegenstände ausgerüstet{/}
-UI_20161221_002513	{@st59}No Attribute Learning in Progress{/}
-UI_20161221_002514	{@st59}No Companions Following{/}
-UI_20161221_002515	{@st59}Charaktere in Stadt{/}
-UI_20161221_002516	{@st59}No Shop Skills in Use{/}
-UI_20161221_002517	{@st59}No Crafting in Progress{/}
-UI_20161221_002518	{@st59}No Guild Master Templar Character{/}
+UI_20161221_002513	{@st59}Kein Attribute lernen im Gange{/}
+UI_20161221_002514	{@st59}Kein Begleiter folgt{/}
+UI_20161221_002515	{@st59}Charaktere in der Stadt{/}
+UI_20161221_002516	{@st59}Keine Shop Skills in Verwendung{/}
+UI_20161221_002517	{@st59}Keine Herstellung im Gange{/}
+UI_20161221_002518	{@st59}Kein Gilden Master Templar Charakter{/}
 UI_20161221_002519	* Equipped Monster Cards will be automatically{nl}removed without any penalties.
 UI_20161221_002520	* Attribute levels taken before the reset{nl}can be learned again at no cost after the reset.
 UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}

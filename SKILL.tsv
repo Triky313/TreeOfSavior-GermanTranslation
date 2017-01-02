@@ -1524,7 +1524,7 @@ SKILL_20150317_001523	Possession
 SKILL_20150317_001524	{#993399}{ol}[Magie] - [Divine]{/}{/}{nl}Bind targets and attack.
 SKILL_20150317_001525	Angriff #{SkillAtkAdd}#{nl}Max. Duration 5 Sekunden
 SKILL_20150317_001526	Vashita Siddhi
-SKILL_20150317_001527	Reduce STR, CON, INT, SPR, DEX of target.
+SKILL_20150317_001527	Reduziert STR, CON, INT, SPR, DEX of target.
 SKILL_20150317_001528	STR, CON, INT, SPR, DEX +#{CaptionRatio}#{nl}Max. duration 20 Sekunden
 SKILL_20150317_001529	Astral Body Explosion
 SKILL_20150317_001530	{#993399}{ol}[Magie]{/}{/}{nl}Blast fluid to damage target.
@@ -1619,7 +1619,7 @@ SKILL_20150317_001618	Frozen solid.
 SKILL_20150317_001619	Ignite
 SKILL_20150317_001620	Feuer lit up because of the oil.
 SKILL_20150317_001621	Resurrection After Effects
-SKILL_20150317_001622	The after effect of being revived. Decreased most of your combat skills.
+SKILL_20150317_001622	The after effect of being revived. Verringert most of your combat skills.
 SKILL_20150317_001623	Erhöht Bewegungsgeschwindigkeit
 SKILL_20150317_001624	Erhöht Bewegungsgeschwindigkeit.
 SKILL_20150317_001625	Shock wave
@@ -1635,7 +1635,7 @@ SKILL_20150317_001634	Erhöht attack.
 SKILL_20150317_001635	Deadly Gift
 SKILL_20150317_001636	Periodically receiving Gift damage.
 SKILL_20150317_001637	Contagious Deadly Gift
-SKILL_20150317_001638	Decreased attack. Periodically receiving Gift damage. The effect can be transferred to nearnach targets.
+SKILL_20150317_001638	Verringert attack. Periodically receiving Gift damage. The effect can be transferred to nearnach targets.
 SKILL_20150317_001639	Ausweichen
 SKILL_20150317_001640	Ausweichen.
 SKILL_20150317_001641	Defense Shock
@@ -1663,7 +1663,7 @@ SKILL_20150317_001662	Erhöht Angriff
 SKILL_20150317_001663	Angriff and evasion decrease
 SKILL_20150317_001664	Erhöht SP & Stamina
 SKILL_20150317_001665	Erhöht the amount of SP and Stamina recovery
-SKILL_20150317_001666	Decreased Defense and Angriff.
+SKILL_20150317_001666	Verringert Defense and Angriff.
 SKILL_20150317_001667	Rage
 SKILL_20150317_001668	Become enraged. Erhöht STR, Physisch Angriff and Movement Speed., but decreases INT, Physisch and Magie Defense.
 SKILL_20150317_001669	Cursed a target.
@@ -1679,7 +1679,7 @@ SKILL_20150317_001678	When attacked nach an enemy, attack is increased while def
 SKILL_20150317_001679	Frozen
 SKILL_20150317_001680	Actor Frozen
 SKILL_20150317_001681	Destroy Lager
-SKILL_20150317_001682	Decreased Defense.
+SKILL_20150317_001682	Verringert Defense.
 SKILL_20150317_001683	Suction
 SKILL_20150317_001684	Reflection
 SKILL_20150317_001685	Adding skills
@@ -1693,7 +1693,7 @@ SKILL_20150317_001692	Ion
 SKILL_20150317_001693	Schaden surroundings except target
 SKILL_20150317_001694	Additional damage according to the number attacks nach target while buff is enabled.
 SKILL_20150317_001695	Rüstung Break
-SKILL_20150317_001696	Decreased defense to 0.
+SKILL_20150317_001696	Verringert defense to 0.
 SKILL_20150317_001697	Schaden Debuff
 SKILL_20150317_001698	When the buff ends, take damage.
 SKILL_20150317_001699	Hide character (for video)
@@ -1735,7 +1735,7 @@ SKILL_20150317_001734	Infection
 SKILL_20150317_001735	Infected.
 SKILL_20150317_001736	Movement Disabled
 SKILL_20150317_001737	Cannot move.
-SKILL_20150317_001738	Decreased movement speed
+SKILL_20150317_001738	Verringert movement speed
 SKILL_20150317_001739	Bleeding Gift
 SKILL_20150317_001740	Receiving additional physical damage.
 SKILL_20150317_001741	Neurotoxin
@@ -1745,7 +1745,7 @@ SKILL_20150317_001744	Recovering HP.
 SKILL_20150317_001745	Receiving Heilig damage.
 SKILL_20150317_001746	Bless
 SKILL_20150317_001747	Erhöht DEX stat.
-SKILL_20150317_001748	Decreased defense.
+SKILL_20150317_001748	Verringert defense.
 SKILL_20150317_001749	Sequentially heal all abnormal states.
 SKILL_20150317_001750	Continuously receive Heilig damage.
 SKILL_20150317_001751	Erhöht HP recovery speed.
@@ -1760,7 +1760,7 @@ SKILL_20150317_001759	Paralyzed.
 SKILL_20150317_001760	Light of Life
 SKILL_20150317_001761	Swelled Body state.
 SKILL_20150317_001762	Reflect all attacks.
-SKILL_20150317_001763	Decreased movement speed
+SKILL_20150317_001763	Verringert movement speed
 SKILL_20150317_001764	Divine Aura
 SKILL_20150317_001765	Physisch and magic defense increase
 SKILL_20150317_001766	Your arms are bigger...
@@ -1782,12 +1782,12 @@ SKILL_20150317_001781	Reduced maximum HP, increased attack
 SKILL_20150317_001782	Erhöht attack damage.
 SKILL_20150317_001783	Resistant to knockdown and knockback.
 SKILL_20150317_001784	You can see the hidden enemy.
-SKILL_20150317_001785	Throw Equipment
-SKILL_20150317_001786	Threw equipment.
-SKILL_20150317_001787	Hide Left-handed Equipment
-SKILL_20150317_001788	Hide Left-handed Equipment
-SKILL_20150317_001789	Hide right handed Equipment
-SKILL_20150317_001790	Hide Right-handed Equipment
+SKILL_20150317_001785	Wurfausrüstung
+SKILL_20150317_001786	Wurfausrüstung.
+SKILL_20150317_001787	Verstecke Linkshändige Ausrüstung
+SKILL_20150317_001788	Verstecke Linkshändige Ausrüstung
+SKILL_20150317_001789	Verstecke Rechtshändige Ausrüstung
+SKILL_20150317_001790	Verstecke Rechtshändige Ausrüstung
 SKILL_20150317_001791	An enemy is pinned to your spear.
 SKILL_20150317_001792	Pinned to your spear.
 SKILL_20150317_001793	Revive as zombie if defeated.
@@ -1796,66 +1796,66 @@ SKILL_20150317_001795	Explode the zombies.
 SKILL_20150317_001796	Erhöht range and attack.
 SKILL_20150317_001797	Swift Step
 SKILL_20150317_001798	Temporarily increased movement speed while attacking.
-SKILL_20150317_001799	Receive Feuer damage.
+SKILL_20150317_001799	Erhalte Feuerschaden.
 SKILL_20150317_001800	Erhöht splash.
-SKILL_20150317_001801	Reduces SP cost.
-SKILL_20150317_001802	Erhöht critical rate, reduced evasion
+SKILL_20150317_001801	Reduziert SP Kosten.
+SKILL_20150317_001802	Erhöht Kritrate, reduziert Ausweichen
 SKILL_20150317_001803	Perspective distortion occurs
 SKILL_20150317_001804	Divine Might
 SKILL_20150317_001805	Skill-Level ist vorrübergehen erhöht.
 SKILL_20150317_001806	VEringert Kraft beim nächsten verwendeten Skill.
 SKILL_20150317_001807	Erhöht Angriff beim nächsten verwendeten Skill.
-SKILL_20150317_001808	Hidden.
+SKILL_20150317_001808	Versteckt.
 SKILL_20150317_001809	Reduced skill cooldown.
 SKILL_20150317_001810	Erhöht defense and block rate.
 SKILL_20150317_001811	Cancel Sub Weapon
 SKILL_20150317_001812	Sleeping.
 SKILL_20150317_001813	Thrust attribute attack is enhanced.
-SKILL_20150317_001814	Decreased defense and evasion.
+SKILL_20150317_001814	Verringert defense and evasion.
 SKILL_20150317_001815	Casting skills will not be canceled during casting.
 SKILL_20150317_001816	Casting speed of the next casting skill becomes faster.
 SKILL_20150317_001817	Shock
 SKILL_20150317_001818	Reduced INT and SPR.
 SKILL_20150317_001819	Erhöht critical attack
-SKILL_20150317_001820	Decreased critical resistance
+SKILL_20150317_001820	Verringert critical resistance
 SKILL_20150317_001821	Divine Stigma buff
 SKILL_20150317_001822	Erhöht stats.
 SKILL_20150317_001823	HP is restore while activated.
 SKILL_20150317_001824	Revive if defeated.
 SKILL_20150317_001825	Erhöht attack speed.
 SKILL_20150317_001826	Bewegungsschuss anBewegungsschuss Bewegungsgeschwindigkeit
-SKILL_20150317_001827	Attacking while moving.
-SKILL_20150317_001828	In silence.
+SKILL_20150317_001827	Angreifen beim Bewegen.
+SKILL_20150317_001828	In Schweigen.
 SKILL_20150317_001829	Change INT and CON stats.
 SKILL_20150317_001830	Number of buff you can receive will increase.
 SKILL_20150317_001831	Erhöht attack, Reduces attack speed.
 SKILL_20150317_001832	Eis Blast
 SKILL_20150317_001833	Receive Eis-Eigenschaftschaden.
 SKILL_20150317_001834	Erhöht Feuer, Eis, Blitz properties resistance.
-SKILL_20150317_001835	Converted.
+SKILL_20150317_001835	Umgewandelt.
 SKILL_20150317_001836	Instantly kills a Devil-type monster.
 SKILL_20150317_001837	Enhanced Angriff
 SKILL_20150317_001838	Temporarily increased attack
 SKILL_20150317_001839	One-Time Erhöht Critical
 SKILL_20150317_001840	Erhöht critical rate for next attack.
 SKILL_20150317_001841	Erhöht defense
-SKILL_20150317_001842	Reduce STR
-SKILL_20150317_001843	Decreased STR
+SKILL_20150317_001842	Reduziert STR
+SKILL_20150317_001843	Verringert STR
 SKILL_20150317_001844	Holiness
-SKILL_20150317_001845	Added Heilig attack
-SKILL_20150317_001846	Decreased defense
+SKILL_20150317_001845	Fügt Heilig Angriff hinzu
+SKILL_20150317_001846	Verringert defense
 SKILL_20150317_001847	Agility is temporarily increased significantly
 SKILL_20150317_001848	Spirit attack: defense decrease
 SKILL_20150317_001849	Flame attack increased.
 SKILL_20150317_001850	Erhöht Stich damage
 SKILL_20150317_001851	Enchant Feuer
-SKILL_20150317_001852	Decreased Feuer property resistance.
+SKILL_20150317_001852	Verringert Feuer property resistance.
 SKILL_20150317_001853	Feuer property added to your attacks
 SKILL_20150317_001854	Rage
 SKILL_20150317_001855	Erhöht damage and SP cost
 SKILL_20150317_001856	Hangman's Knot: Splash
 SKILL_20150317_001857	Charging - Evasion
-SKILL_20150317_001858	Gravity Pole: Decreased Defense
+SKILL_20150317_001858	Gravity Pole: Verringert Defense
 SKILL_20150317_001859	Release from poisoned state.
 SKILL_20150317_001860	Needle Blow Gift
 SKILL_20150317_001861	Continuously receiving Gift damage.
@@ -1958,7 +1958,7 @@ SKILL_20150317_001957	Endure
 SKILL_20150317_001958	Does not knock down to enemy attacks.
 SKILL_20150317_001959	Hydra's Venom
 SKILL_20150317_001960	Frozen Feet
-SKILL_20150317_001961	Decreased movement speed.
+SKILL_20150317_001961	Verringert movement speed.
 SKILL_20150317_001962	Corruption
 SKILL_20150317_001963	Reject Magie
 SKILL_20150317_001964	Mounting Begleiter.
@@ -2032,7 +2032,7 @@ SKILL_20150317_002031	Potion buff duration increases. {nl} (Erhöht nach 5% per 
 SKILL_20150317_002032	Schlag
 SKILL_20150317_002033	Already knocked back enemy is knocked back again and receives additional damage.
 SKILL_20150317_002034	Nanta
-SKILL_20150317_002035	Reduce Knockback range of monsters when using whirlwind.
+SKILL_20150317_002035	Reduziert Knockback range of monsters when using whirlwind.
 SKILL_20150317_002036	Erhöht STR. Affects your melee physical attacks.
 SKILL_20150317_002037	Erhöht DEX. Affects your ranged physical attacks, critical rate and evasion.
 SKILL_20150317_002038	Erhöht CON. Affects your maximum HP and Stamina.
@@ -2089,7 +2089,7 @@ SKILL_20150317_002088	Cartar Stroke: Collision Schaden
 SKILL_20150317_002089	When enemies knocked back nach [Cartar Stroke] hit a wall, they take an additional 50% physical damage.
 SKILL_20150317_002090	Cartar Stroke: Knockback Distance
 SKILL_20150317_002091	The knock back power of [Cartar Stroke] increases nach 50% pro{nl}Fähigkeits-Level.
-SKILL_20150317_002092	Crown: Reduce
+SKILL_20150317_002092	Crown: Reduziert
 SKILL_20150317_002093	Amount of INT and SPR consumption is reduced nach 2% pro Fähigkeits-Level, wenn using [Crown].
 SKILL_20150317_002094	Wagon Wheel: Knockdown Schaden
 SKILL_20150317_002095	Enemies in the air nach [Wagon Wheel] receive damage of 50% of character's Physisch damage.
@@ -2117,7 +2117,7 @@ SKILL_20150317_002116	Synchro Thrusting: Stich
 SKILL_20150317_002117	Schlag damage of the shield attack decrease nach 10% per Fähigkeits-Level while the  Stich damage increase nach 20% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002118	Finestra: Splash
 SKILL_20150317_002119	Spash increase nach 2 and evasion decrease twice as much when [Finestra] is enabled.
-SKILL_20150317_002120	Warcry: Decreased Defense
+SKILL_20150317_002120	Warcry: Verringert Defense
 SKILL_20150317_002121	Number of enemies that lose defese when [Warcry] is used increases nach 1 per level.
 SKILL_20150317_002122	Warcry: Duration
 SKILL_20150317_002123	Duration of [Warcry] will increase nach 2 Sekunden per level
@@ -2195,7 +2195,7 @@ SKILL_20150317_002194	Gravity Pole: Evasion
 SKILL_20150317_002195	Evasion increases nach 10 pro Fähigkeits-Level, wenn using [Gravity Pull].
 SKILL_20150317_002196	Magnetic Force: Betäubung
 SKILL_20150317_002197	Enemies attacked with [Magnetic Force] falls under [Betäubung] for 1 Sekunde at chance of 5% pro{nl}Fähigkeits-Level.
-SKILL_20150317_002198	Gravity Pole: Decreased Defense
+SKILL_20150317_002198	Gravity Pole: Verringert Defense
 SKILL_20150317_002199	Physische Verteidigung of enemy drawn in skill [Gravity Pole] is reduced um 5% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002200	Raise: Groß Monsters
 SKILL_20150317_002201	[Raise] applies to Groß-type monsters.
@@ -2211,7 +2211,7 @@ SKILL_20150317_002210	Joint Penalty: Additional Schaden
 SKILL_20150317_002211	Enemies who are linked with [Joint Penalty] will receive additional damage equal to 20% magic damage.
 SKILL_20150317_002212	Hangman's Knot: Splash defense
 SKILL_20150317_002213	Spash defense of enemies gathered through [Hangman's Knot] decrease nach 1.
-SKILL_20150317_002214	Swell Body: Decreased Movement Speed
+SKILL_20150317_002214	Swell Body: Verringert Movement Speed
 SKILL_20150317_002215	Movement speed of enemy enlarged nach [Swell Body] decreases nach 10% per Fähigkeits-Level and Physisch, Magie attack increases um 5% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002216	Shrink Body: Erhöht Movement Speed
 SKILL_20150317_002217	Movement of enemy shrunk with [Shrink Body] increases nach 5% per Fähigkeits-Level and Physisch, magic attack decreases um 10% pro{nl}Fähigkeits-Level.
@@ -2263,7 +2263,7 @@ SKILL_20150317_002262	Deprotected Zone: Retention Time
 SKILL_20150317_002263	Magie circle duration of [Deprotected zone] increase nach 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20150317_002264	Divine Might: Devil-type Schaden
 SKILL_20150317_002265	Deals damage equal to 100% magic attack when Demon-type monsters enter the magic circle of [Divine Might].
-SKILL_20150317_002266	Aspersion : Decreased Defense
+SKILL_20150317_002266	Aspersion : Verringert Defense
 SKILL_20150317_002267	Verringert the monster's armor with [Aspersion] nach 8% pro{nl}Fähigkeits-Level. Verbraucht 2 Heilig Water.
 SKILL_20150317_002268	Monstrance: Following Enemies
 SKILL_20150317_002269	Your Magie Circle of [Monstrance] will follow nearnach monsters.
@@ -2295,7 +2295,7 @@ SKILL_20150317_002294	Hexing: Splash
 SKILL_20150317_002295	Erhöht splash from [Hexing] nach 1 per level.
 SKILL_20150317_002296	Effigy: Blind
 SKILL_20150317_002297	Enemies attacked with [Effigy] fall under [Blind] state at a 5% chance pro{nl}Fähigkeits-Level.
-SKILL_20150317_002298	Ogouveve: Decreased Strength
+SKILL_20150317_002298	Ogouveve: Verringert Strength
 SKILL_20150317_002299	Strength of enemies within [Ogouveve] decreases nach 2 pro{nl}Fähigkeits-Level.
 SKILL_20150317_002300	Damballa: Chance of Zombification
 SKILL_20150317_002301	Chance of new zombie appearing increase nach 2% pro Fähigkeits-Level, wenn using [Damballa].
@@ -2348,7 +2348,7 @@ SKILL_20150317_002347	Multi-Shot: SP Recovery
 SKILL_20150317_002348	Recovers the attribute nach Lv x 5% SP when Multi-Shot is critical. 
 SKILL_20150317_002349	Swift Step: Kritrate
 SKILL_20150317_002350	When the skill [Swift Step] is active, critical rate increases um 10% pro{nl}Fähigkeits-Level.
-SKILL_20150317_002351	Full Draw: Decreased Defense
+SKILL_20150317_002351	Full Draw: Verringert Defense
 SKILL_20150317_002352	Physische Verteidigung of the enemy skewered nach [Full Draw] decreases um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002353	Barrage: Rückstoß
 SKILL_20150317_002354	Enemies hit nach [Barrage] are pushed away nach at a 10% chance pro{nl}Fähigkeits-Level.
@@ -2383,7 +2383,7 @@ SKILL_20150317_002382	Pointing: Fear
 SKILL_20150317_002383	Monster affected nach [Pointing] are inflicted with [fear] with a 10% chance pro{nl}Fähigkeits-Level.
 SKILL_20150317_002384	Coursing: Aggro
 SKILL_20150317_002385	Enemies bitten with [Coursing] attack the companion.
-SKILL_20150317_002386	Retrieve: Decreased Defense
+SKILL_20150317_002386	Retrieve: Verringert Defense
 SKILL_20150317_002387	Defense of enemies attacked with [Retrieve] decreases nach 5 pro{nl}Fähigkeits-Level.
 SKILL_20150317_002388	Snatching: Airborne Enemy Schaden
 SKILL_20150317_002389	Flight type monsters grounded nach [Snatching] receive 20% more damage nach Hieb and Schlag type attacks.
@@ -2429,8 +2429,8 @@ SKILL_20150317_002428	Pfeil Crafting
 SKILL_20150317_002429	[Fletcher] arrow production
 SKILL_20150317_002430	Broadhead: Bleeding
 SKILL_20150317_002431	Duration of the [Bleed] inflicted nach [Broadhead] increases nach 2 Sekunden pro{nl}Fähigkeits-Level.
-SKILL_20150317_002432	Bodkin Point: Decreased Defense
-SKILL_20150317_002433	[Decreased Defense] of [Bodkin Point] is increased um 2% pro{nl}Fähigkeits-Level.
+SKILL_20150317_002432	Bodkin Point: Verringert Defense
+SKILL_20150317_002433	[Verringert Defense] of [Bodkin Point] is increased um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002434	Flu Flu: Crossfire
 SKILL_20150317_002435	If enemy hit with [Flu Flu] is killed with [Crossfire], [Flu Flu] attack is made again.
 SKILL_20150317_002436	Flu Flu: Debuff Count
@@ -2831,7 +2831,7 @@ SKILL_20150317_002830	Damballa: Verbessern 2
 SKILL_20150317_002831	Enhanced the damage of [Damballa] to Bokor's 2. Rang standards.
 SKILL_20150317_002832	Damballa: Verbessern 3
 SKILL_20150317_002833	Enhanced the damage of [Damballa] to Bokor's 3. Rang standards.
-SKILL_20150317_002834	Mackangdal: Decreased Cumulative Schaden
+SKILL_20150317_002834	Mackangdal: Verringert Cumulative Schaden
 SKILL_20150317_002835	Verringert the accumulated damage of [Mackangdal] nach 2 pro{nl}Fähigkeits-Level.
 SKILL_20150317_002836	Aukuras: Verbessern
 SKILL_20150317_002837	Erhöht the HP recovery of [Aukuras] pro{nl}Fähigkeits-Level.
@@ -3088,7 +3088,7 @@ SKILL_20150323_003087	Periodic decrease of SP and damage
 SKILL_20150323_003088	Removes harmful effects
 SKILL_20150323_003089	Periodically decreases your SP
 SKILL_20150323_003090	Throw right-hand weapon
-SKILL_20150323_003091	Decreased evasion rate
+SKILL_20150323_003091	Verringert evasion rate
 SKILL_20150323_003092	Erhöht evasion rate
 SKILL_20150323_003093	Equip virtual weapon
 SKILL_20150323_003094	Repair Rüstung
@@ -4037,7 +4037,7 @@ SKILL_20150428_004036	Unlocks low-leveled treasure chests with a key.
 SKILL_20150428_004037	Key Lv.: +#{CaptionRatio}#
 SKILL_20150428_004038	Double Weapon Assault
 SKILL_20150428_004039	There is a chance of stealing enemy's item when you attack monsters while the flagged is pinned.
-SKILL_20150428_004040	Reduce skill casting mal. Applied once on the next skill.
+SKILL_20150428_004040	Reduziert skill casting mal. Applied once on the next skill.
 SKILL_20150428_004041	Schaden decreases depending on the number of links{nl}Maximum Links: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 16 Stamina
 SKILL_20150428_004042	Maximum Links: #{CaptionRatio}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150428_004043	Tighten link to gather up enemy.
@@ -4257,7 +4257,7 @@ SKILL_20150714_004256	Erhöht critical attack
 SKILL_20150714_004257	Magieverstärkung Erhöht
 SKILL_20150714_004258	Erhöht Magieverstärkung
 SKILL_20150714_004259	Rüstung Penetration
-SKILL_20150714_004260	Decreased Physische Verteidigung
+SKILL_20150714_004260	Verringert Physische Verteidigung
 SKILL_20150714_004261	Du kannst Waffen tauschen.
 SKILL_20150714_004262	Ermögtlicht das verwenden von Waffentype [Einhand-Schwert].
 SKILL_20150714_004263	Ermögtlicht das verwenden von Waffentype [Zweihand-Schwert].
@@ -4329,7 +4329,7 @@ SKILL_20150714_004328	Erhöht die Schadensausteilung an einem{nl}Feind mit [Spee
 SKILL_20150714_004329	Erhöht Evasion nach 5% per Fähigkeits-Level while attacking enemies with [Stabbing].
 SKILL_20150714_004330	Enemies hit nach [Stich] are affected nach [Bleeding] for 5 Sekunden with a 2% chance pro{nl}Fähigkeits-Level. 
 SKILL_20150714_004331	Verringert the Schlag damage dealt nach [Synchro Thrusting] nach 10%, while increasing the Stich damage nach 20% respectively pro{nl}Fähigkeits-Level. 
-SKILL_20150714_004332	Long Stride: Decreased Cooldown
+SKILL_20150714_004332	Long Stride: Verringert Cooldown
 SKILL_20150714_004333	Verringert the cooldown mal of [Long Stride].
 SKILL_20150714_004334	Speer Throw: Bind
 SKILL_20150714_004335	Enemies hit nach [Speer Throw] have a chance to be afflicted with [Bind] for 7 Sekunden. Erhöht the chance nach 15% pro{nl}Fähigkeits-Level. 
@@ -4478,9 +4478,9 @@ SKILL_20150714_004477	Has a chance to double the duration of [Rain]. Erhöht the
 SKILL_20150714_004478	Erhöht die Schadensausteilung an einem{nl}Feind mit [Summon Familiar] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004479	When the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearnach enemies with 1% probability pro{nl}Fähigkeits-Level.
 SKILL_20150714_004480	Erhöht the character's SP recovery rate nach 1 pro{nl}Fähigkeits-Level. 
-SKILL_20150714_004481	Angriff Ground: Decreased Cooldown
+SKILL_20150714_004481	Angriff Ground: Verringert Cooldown
 SKILL_20150714_004482	Cooldown mal of [Angriff Ground] will be reduced.
-SKILL_20150714_004483	Hold: Decreased Cooldown
+SKILL_20150714_004483	Hold: Verringert Cooldown
 SKILL_20150714_004484	Cooldown mal of [Hold] will be reduced.
 SKILL_20150714_004485	Summon Salamion: Ignite
 SKILL_20150714_004486	Has a chance to afflict [Burn] for 10 Sekunden on an enemy when it is attacked nach Salamion. Erhöht the chance um 2% pro{nl}Fähigkeits-Level.
@@ -4583,7 +4583,7 @@ SKILL_20150714_004582	Erhöht die Schadensausteilung an einem{nl}Feind mit [Cros
 SKILL_20150714_004583	Erhöht die Schadensausteilung an einem{nl}Feind mit [Magie Pfeil] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004584	Erhöht die Schadensausteilung an einem{nl}Feind mit [Divine Machine Pfeil] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004585	Erhöht die Dauer von [Bleeding] nach 2 Sekunden pro Fähigkeits-Level, wenn an enemy is hit nach [Broadhead].
-SKILL_20150714_004586	Bodkin Point: Decreased Defense
+SKILL_20150714_004586	Bodkin Point: Verringert Defense
 SKILL_20150714_004587	[Reduced DEF] of [Bodkin Point] will be reduced nach 2% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004588	The enemies that are shot nach [Magie Pfeil] will fall into [Silence] with a certain probabillity. The probability will increase nach 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004589	Erhöht the range that [Roost] will remain active nach 20 pro{nl}Fähigkeits-Level.
@@ -4606,7 +4606,7 @@ SKILL_20150714_004605	Adds the chance to automatically be healed at a 2% chance 
 SKILL_20150714_004606	Erhöht die Dauer von [Deprotected Zone]'s magic circle nach 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20150714_004607	Safety Zone: Erhöht Range
 SKILL_20150714_004608	The range that will be applied nach [Safety Zone] will be increased.
-SKILL_20150714_004609	Guardian Saint: Decreased Schaden
+SKILL_20150714_004609	Guardian Saint: Verringert Schaden
 SKILL_20150714_004610	Verringert the damage taken when applied with a character's [Saint Guardian] um 5% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004611	Erhöht die Schadensausteilung an einem{nl}Feind mit [Zaibas] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004612	Charakter Feuer resistance will increase nach 5 per Fähigkeits-Level and the resistance to Dunkel will decrease nach 3 pro{nl}Fähigkeits-Level.
@@ -4655,7 +4655,7 @@ SKILL_20150714_004654	Erhöht die Schadensausteilung an einem{nl}Feind mit [Carv
 SKILL_20150714_004655	Carve Angriff: Chance to Obtain
 SKILL_20150714_004656	The probability of obtaining ingredients increases 5% per Fähigkeits-Level for [Carve].
 SKILL_20150714_004657	When equipped with a [Mace], you will inflict additional damage equal to 10% of the physical attack to Plant-type monsters pro{nl}Fähigkeits-Level.
-SKILL_20150714_004658	Statue der Göttin Vakarine: Decreased Cooldown
+SKILL_20150714_004658	Statue der Göttin Vakarine: Verringert Cooldown
 SKILL_20150714_004659	Cooldown mal of [Statue der Göttin Vakarine] will be reduced.
 SKILL_20150714_004660	Statue der Göttin Laima: Home Ground
 SKILL_20150714_004661	Erhöht the cooldown of skills from enemies when within the range while [Statue der Göttin Laima] aktiv ist.
@@ -4665,7 +4665,7 @@ SKILL_20150714_004664	Erhöht die Schadensausteilung an einem{nl}Feind mit [Poss
 SKILL_20150714_004665	While [Out of Body] is being activated, the body's evasion will increase nach 10% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004666	Recovers HP equal to 5% maximum HP pro Fähigkeits-Level, wenn using [Prakriti].
 SKILL_20150714_004667	When in Out of Body status, the enemies that got shot nach normal attacks will be infliced with [Deprotect] with 5% probability pro{nl}Fähigkeits-Level.
-SKILL_20150714_004668	Vashita Siddhi: Decreased SP
+SKILL_20150714_004668	Vashita Siddhi: Verringert SP
 SKILL_20150714_004669	SP consumption of [Vashita Siddhi] will be reduced.
 SKILL_20150714_004670	Vashita Siddhi: Confusion
 SKILL_20150714_004671	The enemies that are in the range of [Vashita Siddhi] will be inflicted with Confusion with a certain probability. The probability will increase nach 10% pro{nl}Fähigkeits-Level.
@@ -4733,7 +4733,7 @@ SKILL_20150717_004732	Status from receiving SP Absorption
 SKILL_20150717_004733	Silber erhöht
 SKILL_20150717_004734	Erhöht amount of Silber dropped from enemies.
 SKILL_20150717_004735	Erhöht magic defense 
-SKILL_20150717_004736	Decreased magic defense, increased physische Verteidigung 
+SKILL_20150717_004736	Verringert magic defense, increased physische Verteidigung 
 SKILL_20150717_004737	Movement speed decrease
 SKILL_20150717_004738	Max SP and Magie DEF increase based on number of [Cloth] armor equipped and Fähigkeits-Level (at least 3 same equipment type).
 SKILL_20150717_004739	Ausweichen increases based on number of [Leder] armor equipped and Fähigkeits-Level. (at least 3 same equipment type).
@@ -4982,7 +4982,7 @@ SKILL_20150729_004981	Lunacy
 SKILL_20150729_004982	Release Lunacy
 SKILL_20150729_004983	Physisch ATK increases, Movement Speed increases, Physisch DEF decreases
 SKILL_20150729_004984	Enemies cannot jump when attacked with [Skull Swing].
-SKILL_20150729_004985	Enchant Feuer: Decreased Feuer-Eigenschaft Resistance
+SKILL_20150729_004985	Enchant Feuer: Verringert Feuer-Eigenschaft Resistance
 SKILL_20150729_004986	Reduces the Feuer property resistance nach 10% on nearnach enemies when [Enchant Feuer] is casted for 5 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150729_004987	[Stop] can also stop boss monsters but once released, it will not be stopped again.
 SKILL_20150729_004988	Heal: Remove Schaden
@@ -5156,9 +5156,9 @@ SKILL_20150918_005155	Immune to Lv1 status ailments
 SKILL_20150918_005156	Erhöht magic defense.
 SKILL_20150918_005157	Shield Bash-Mix stat
 SKILL_20150918_005158	Vulnerable to Stich attacks
-SKILL_20150918_005159	Decreased Feuer, Eis, Blitz, Erde and Gift properties
+SKILL_20150918_005159	Verringert Feuer, Eis, Blitz, Erde and Gift properties
 SKILL_20150918_005160	Block Erhöht
-SKILL_20150918_005161	Decreased accuracy
+SKILL_20150918_005161	Verringert accuracy
 SKILL_20150918_005162	Agvenipa Set Buff
 SKILL_20150918_005163	Able to equip [Cloth] armor. In addition, your maximum SP increases when you equip 3 or more pieces of [Cloth] armor. Your Magie Defense increases once you have 4 [Cloth] armor pieces equipped.
 SKILL_20150918_005164	Allows you to equip [Leder] armor.{nl}When equipped with 3 or more pieces of [Leder] armor, increases your Evasion.{nl} {nl}When equipped with 4 [Leder] armor pieces, your Evasion increases from attributes nach an additional 50%.
@@ -5394,7 +5394,7 @@ SKILL_20151022_005393	STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Verbraucht S
 SKILL_20151022_005394	You and your party members are temporarily granted an increase in fire, ice, lightning, Gift, and earth resistances, and have a chance of nullifying attacks from those properties.
 SKILL_20151022_005395	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20151022_005396	{#DD5500}{ol}[Physisch] - [Heilig]{/}{/}{nl}Harness energy and release it in front of you, dealing damage and pushing back all enemies in its path.
-SKILL_20151022_005397	Enemy's companion bites and holds. Decreased defense.
+SKILL_20151022_005397	Enemy's companion bites and holds. Verringert defense.
 SKILL_20151022_005398	Erhöht deine Ausweichrate.
 SKILL_20151022_005399	Weak against Hieb-type attacks.
 SKILL_20151022_005400	Ignores defense by using Stich-type attacks.
@@ -5441,19 +5441,19 @@ SKILL_20151022_005440	Flanconnade: Verbessern
 SKILL_20151022_005441	Erhöht die Schadensausteilung an einem{nl}Feind mit [Flanconnade] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151022_005442	Summon Servant: Quick Order
 SKILL_20151022_005443	The summoned servant grants beneficial effects more often.
-SKILL_20151022_005444	Slow: Decreased Nullification
+SKILL_20151022_005444	Slow: Verringert Nullification
 SKILL_20151022_005445	Verringert the chance of nullifying an attack nach 6% pro Fähigkeits-Level, wenn enemies are affected nach [Slow].
 SKILL_20151022_005446	Hast: Erhöht Ausweichen
 SKILL_20151022_005447	Erhöht your evasion nach 20 per Fähigkeits-Level while [Haste] aktiv ist.
-SKILL_20151022_005448	Stop: Decreased SP
+SKILL_20151022_005448	Stop: Verringert SP
 SKILL_20151022_005449	Verringert the SP cost of [Stop] nach 40.
 SKILL_20151022_005450	Erhöht your block rate against [Projectile] attacks from enemies when equipped with a [Shield], increases your physical attack proportional to the shield's defense for 10 Sekunden after a successful block. Applies the proportional value nach 50% pro{nl}Fähigkeits-Level.
 SKILL_20151022_005451	Player detoxified nach [Detoxify] becomes immune to Gift for 4 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20151022_005452	Wugushi: Gift Reserve
 SKILL_20151022_005453	Verringert the Gift Pot cost nach 1% pro Fähigkeits-Level, wenn using a Wugushi skill.
-SKILL_20151022_005454	Jincan Gu: Decreased Evasion Rate
+SKILL_20151022_005454	Jincan Gu: Verringert Evasion Rate
 SKILL_20151022_005455	Verringert the evasion rate of enemies affected nach [Jincan Gu] um 5% pro{nl}Fähigkeits-Level.
-SKILL_20151022_005456	Zhendu: Decreased Gift Resistance
+SKILL_20151022_005456	Zhendu: Verringert Gift Resistance
 SKILL_20151022_005457	Verringert the Gift resistance of enemies affected nach [Zhendu] nach 7 pro{nl}Fähigkeits-Level.
 SKILL_20151022_005458	Capturing: Ally Magie Circle
 SKILL_20151022_005459	You can seize not only an enemies' magic circle, but also your allies' with [Capturing].
@@ -5461,7 +5461,7 @@ SKILL_20151022_005460	Hovering: Verbessern
 SKILL_20151022_005461	Erhöht die Schadensausteilung an einem{nl}Feind mit [Hovering] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20151022_005462	Pheasant: Verbessern
 SKILL_20151022_005463	Erhöht die Schadensausteilung an einem{nl}Feind mit [Pheasant] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20151022_005464	Circling: Decreased Nullification
+SKILL_20151022_005464	Circling: Verringert Nullification
 SKILL_20151022_005465	Verringert the chance of nullifying the attack nach 5% pro Fähigkeits-Level, wenn enemies are within the range of [Circling].
 SKILL_20151022_005466	Erhöht your accuracy nach 5% pro Fähigkeits-Level, wenn equipped with a Pistol-type equipment.
 SKILL_20151022_005467	Deals 10% additional damage per Fähigkeits-Level to Mutant-type monsters when equipped with a [Revolver].
@@ -5478,7 +5478,7 @@ SKILL_20151022_005477	Erhöht die Schadensausteilung an einem{nl}Feind mit [Cann
 SKILL_20151022_005478	Erhöht the attack count of [Blessing] nach 10 pro{nl}Fähigkeits-Level.
 SKILL_20151022_005479	Carve World Tree: Maintain
 SKILL_20151022_005480	Verringert the range of [Carve World Tree], but increases its duration nach 10 Sekunden.
-SKILL_20151022_005481	Statue der Göttin Ausrine: Decreased Cooldown
+SKILL_20151022_005481	Statue der Göttin Ausrine: Verringert Cooldown
 SKILL_20151022_005482	Verringert the cooldown of [Statue der Göttin Ausrine] nach 10 Sekunden.
 SKILL_20151022_005483	Verringert the enemy's physische Verteidigung nach 30% with a chance of 10% pro Fähigkeits-Level, wenn using a basic attack during Out of Body. (Unable to turn ON/OFF during Out of Body.)
 SKILL_20151022_005484	Verringert the SP cost per Sekunde of [Vashita Siddhi] nach 0.5% pro{nl}Fähigkeits-Level. 
@@ -5493,7 +5493,7 @@ SKILL_20151022_005492	Druid: Plant-type Speciality
 SKILL_20151022_005493	Erhöht the HP recovery and SP recovery of the transformed plant-type monster via [Shape Shifting] or [Transform] um 10% pro{nl}Fähigkeits-Level.
 SKILL_20151022_005494	Druid: Insekt-type Speciality
 SKILL_20151022_005495	Erhöht the defense and magic defense of the transformed insect-type monster via [Shape Shifting] or [Transform] nach 8% pro{nl}Fähigkeits-Level.
-SKILL_20151022_005496	Resetting: Decreased Cooldown
+SKILL_20151022_005496	Resetting: Verringert Cooldown
 SKILL_20151022_005497	Verringert the cooldown of [Resetting] nach 30 Sekunden.
 SKILL_20151022_005498	Forecast: Erhöht Nullification
 SKILL_20151022_005499	Erhöht the chance to nullify an enemy's attack while activating [Forecast] um 1% pro{nl}Fähigkeits-Level.
@@ -5560,9 +5560,9 @@ SKILL_20151102_005559	Merkabah
 SKILL_20151102_005560	Gematria
 SKILL_20151102_005561	Notarikon
 SKILL_20151102_005562	Double Chance
-SKILL_20151102_005563	Reduce Level
+SKILL_20151102_005563	Reduziert Level
 SKILL_20151102_005564	Stealth
-SKILL_20151102_005565	Decreased movement speed
+SKILL_20151102_005565	Verringert movement speed
 SKILL_20151102_005566	Stigma.
 SKILL_20151102_005567	Invocation.
 SKILL_20151102_005568	Invocation: Deliver
@@ -5573,15 +5573,15 @@ SKILL_20151102_005572	Fumigate: Purification
 SKILL_20151102_005573	Erhöht Gift property resistance.
 SKILL_20151102_005574	Fumigate: Prevention
 SKILL_20151102_005575	Erhöht chance of resisting Lv3 status ailments
-SKILL_20151102_005576	Decreased Physische Verteidigung
-SKILL_20151102_005577	Decreased physische Verteidigung.
-SKILL_20151102_005578	Decreased Magie Defense
-SKILL_20151102_005579	Decreased magic defense.
-SKILL_20151102_005580	Decreased Physisch Angriff
-SKILL_20151102_005581	Decreased physical attack.
-SKILL_20151102_005582	Decreased Magie Angriff
-SKILL_20151102_005583	Decreased magic attack.
-SKILL_20151102_005584	Decreased movement speed.
+SKILL_20151102_005576	Verringert Physische Verteidigung
+SKILL_20151102_005577	Verringert physische Verteidigung.
+SKILL_20151102_005578	Verringert Magie Defense
+SKILL_20151102_005579	Verringert magic defense.
+SKILL_20151102_005580	Verringert Physisch Angriff
+SKILL_20151102_005581	Verringert physical attack.
+SKILL_20151102_005582	Verringert Magie Angriff
+SKILL_20151102_005583	Verringert magic attack.
+SKILL_20151102_005584	Verringert movement speed.
 SKILL_20151102_005585	Gae Bulg: Angriff Zone
 SKILL_20151102_005586	Erhöht physical attack and magic attack
 SKILL_20151102_005587	Gae Bulg: Defense Zone
@@ -5602,7 +5602,7 @@ SKILL_20151102_005601	Bunshin no Jutsu: Endurance
 SKILL_20151102_005602	Erhöht the cycle mal for the STA cost nach 0.5 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20151102_005603	Mokuton no Jutsu: Bind
 SKILL_20151102_005604	Restricts movement of an enemy for 4 Sekunden when dealing damage with [Mokuton no Jutsu]. Erhöht the duration from Lv2 nach 1 Sekunde pro{nl}Fähigkeits-Level.
-SKILL_20151102_005605	Bunshin no Jutsu: Decreased Schaden
+SKILL_20151102_005605	Bunshin no Jutsu: Verringert Schaden
 SKILL_20151102_005606	Verringert the damage of the shadow clones of [Bunshin no Jutsu].
 SKILL_20151102_005607	Dragontooth: Verbessern
 SKILL_20151102_005608	Erhöht die Schadensausteilung an einem{nl}Feind mit [Dragontooth] um 1% pro{nl}Fähigkeits-Level.
@@ -5776,7 +5776,7 @@ SKILL_20151224_005775	Baue Gildenturm
 SKILL_20151224_005776	Allows you to use extra features of the Gildenturm. 
 SKILL_20151224_005777	 can be used nach using the Build Gildenturm item.{nl}Level 1: Warp{nl}Level 2: Storage{nl}Level 3: Guild Upgrade{nl}Level 4: Guild Events{nl}Level 5: Guild Hangout
 SKILL_20151224_005778	Improve Gildenturm Features
-SKILL_20151224_005779	Reduce Craft Time
+SKILL_20151224_005779	Reduziert Craft Time
 SKILL_20151224_005780	Plant a flag that reduces the crafting mal of all guild members in the area nearnach. This can only be used nearnach a Gildenturm.
 SKILL_20151224_005781	Craft Time Reduction: #{CaptionRatio}#% 
 SKILL_20151224_005782	Battle Orders
@@ -5932,7 +5932,7 @@ SKILL_20151224_005931	Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Heilig Wat
 SKILL_20151224_005932	Converts when being hit at a certain chance.
 SKILL_20151224_005933	Scheduled removal
 SKILL_20151224_005934	Hangman's Knot: Splash
-SKILL_20151224_005935	Decreased AoE Defense Ratio
+SKILL_20151224_005935	Verringert AoE Defense Ratio
 SKILL_20151224_005936	Begleiter Ability Buff
 SKILL_20151224_005937	Erhöht block, decreased attack and critical rate
 SKILL_20151224_005938	Skills cannot be used
@@ -6774,7 +6774,7 @@ SKILL_20161005_006773	Become vulnerable to all types of melee attacks.
 SKILL_20161005_006774	Currently in Ghastly Trail state.
 SKILL_20161005_006775	Increases critical damage of pierce attacks and nullifies shield.
 SKILL_20161005_006776	Crit resistance decreased.
-SKILL_20161005_006777	Decreased critical resistance
+SKILL_20161005_006777	Verringert critical resistance
 SKILL_20161005_006778	When hit, your crit chance increases.
 SKILL_20161005_006779	Become vulnerable to gun attacks.
 SKILL_20161005_006780	Great Corruption
@@ -7032,7 +7032,7 @@ SKILL_20161005_007031	Cavalry Charge: Enhance
 SKILL_20161005_007032	Increases the damage dealt on an enemy with [Cavalry Charge] by 1% per attribute level.
 SKILL_20161005_007033	Leg Shot: Enhance
 SKILL_20161005_007034	Increases the damage dealt on an enemy with [Leg Shot] by 1% per attribute level.
-SKILL_20161005_007035	Leg Shot: Decreased Movement Speed
+SKILL_20161005_007035	Leg Shot: Verringert Movement Speed
 SKILL_20161005_007036	Increases the movement speed of [Leg Shot] by 1% per attribute level.
 SKILL_20161005_007037	Increases the movement speed of an instant dash when you are riding on a companion.
 SKILL_20161005_007038	Storm Bolt: Enhance
@@ -7088,8 +7088,8 @@ SKILL_20161005_007087	Enhanced Defense Formation: Saved Time
 SKILL_20161005_007088	The numbers from [Gematria] and [Notarikon] are quickly calculated.
 SKILL_20161005_007089	Enhanced Defense Formation: Target Increased
 SKILL_20161005_007090	[Gematria] and [Notarikon] affect 1 additional target per attribute level.
-SKILL_20161005_007091	Reduce Level: Additional Reduction
-SKILL_20161005_007092	Reduces the additional level of [Reduce Level] by 1 per attribute level.
+SKILL_20161005_007091	Reduziert Level: Additional Reduction
+SKILL_20161005_007092	Reduces the additional level of [Reduziert Level] by 1 per attribute level.
 SKILL_20161005_007093	Merkabah: Enhanced Durability
 SKILL_20161005_007094	Increases the durability of the wheel from [Merkabah] which only receives 1 damage for any attacks. The wheel can withstand 5 times of damage per attribute level.
 SKILL_20161005_007095	Increases an ally's magic defense when nearby the wheel of [Merkabah] by 10 per attribute level.
