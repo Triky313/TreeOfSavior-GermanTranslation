@@ -6320,7 +6320,7 @@ SKILL_20160224_006319	Safety Zone: Block Count
 SKILL_20160224_006320	Erhöht the block count of [Safety Zone] nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20160224_006321	Exorcise: Duration
 SKILL_20160224_006322	Erhöht die Dauer von [Exorcise]'s magic circle nach 1 Sekunde pro{nl}Fähigkeits-Level.
-SKILL_20160224_006323	Class Rank 5 erforderlich
+SKILL_20160224_006323	Klassen Rang 5 erforderlich
 SKILL_20160224_006324	Rune Caster 1st Circle erforderlich
 SKILL_20160224_006325	Wizard 1st Circle erforderlich
 SKILL_20160310_006326	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Ziele: #{CaptionRatio}#{nl}Verbraucht #{CaptionRatio2}#% SP per Sekunde

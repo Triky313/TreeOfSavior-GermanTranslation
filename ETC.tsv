@@ -14604,11 +14604,11 @@ ETC_20150918_014605	The field boss in this region has been defeated.
 ETC_20150918_014606	You cannot participate PvP it the current map due to an error.
 ETC_20150918_014607	{Name} requested to join the party.
 ETC_20150918_014608	Do you want to join this party?
-ETC_20150918_014609	Rundum
+ETC_20150918_014609	Rundherum
 ETC_20150918_014610	Zufall
 ETC_20150918_014611	Individual
 ETC_20150918_014612	Teilen
-ETC_20150918_014613	Unshared
+ETC_20150918_014613	Ungeteilt
 ETC_20150918_014614	You have exceeded the number of mal that you can participate in an instanced dungeon for today.
 ETC_20150918_014615	You do not meet the level requirement of this instanced dungeon
 ETC_20150918_014616	Besiege Matsums that are rushing in!
@@ -24079,32 +24079,32 @@ ETC_20160811_024078	{Relation} When HP is below {P}%
 ETC_20160811_024079	When an enemy of {Size}size is within {Dist}
 ETC_20160811_024080	When {Relation} within {Dist} is {BuffName}
 ETC_20160811_024081	Please select a character you wish to summon as a helper.
-ETC_20160811_024082	Sturdy
+ETC_20160811_024082	Robust
 ETC_20160811_024083	Healing
 ETC_20160811_024084	Magic-resistance
 ETC_20160811_024085	Blessed
 ETC_20160811_024086	Divine
 ETC_20160811_024087	Strong-willed
-ETC_20160811_024088	Item durability will decrease 50% slower
-ETC_20160811_024089	5% decrease of all Debuff Durations
-ETC_20160811_024090	5% increase of Magic Defense
-ETC_20160811_024091	1% chance of nullifying enemy attacks
-ETC_20160811_024092	5% increase in Cleric Buff durations(Does not include Buffs from Player Shops)
-ETC_20160811_024093	Acquire 1 CON Stat point per 20 SPR Stat points
+ETC_20160811_024088	Die Haltbarkeit des Gegenstandes veringert sich um 50% weniger
+ETC_20160811_024089	Veringert die Dauer von alle Debuffs um 5% 
+ETC_20160811_024090	5% erhöhte Magische Verteidigung
+ETC_20160811_024091	1% Chance Feindangriffe zu annullieren
+ETC_20160811_024092	5% erhöhte Dauer von Cleric Buff (Beinhaltet keine Buffs aus den Spieler Shops)
+ETC_20160811_024093	Erhalte 1 CON Statuspunkt pro 20 SPR Statuspunkte
 ETC_20160811_024094	Light Salmon
-ETC_20160811_024095	Invisible Hair(Männlich)
-ETC_20160811_024096	Invisible Hair(Weiblich)
+ETC_20160811_024095	Unsichtbares Haar(Männlich)
+ETC_20160811_024096	Unsichtbares Haar(Weiblich)
 ETC_20160811_024097	Event NPC
-ETC_20160811_024098	Yellow Lamp
+ETC_20160811_024098	Gelbe Lampe
 ETC_20160811_024099	Kadumel's Magic Circle
 ETC_20160811_024100	Zachariel's Magic Circle
 ETC_20160811_024101	Jonael's Magic Circle
 ETC_20160811_024102	Hieskel's Magic Circle
 ETC_20160811_024103	Fallen Monk
 ETC_20160811_024104	Spiritual Voice
-ETC_20160811_024105	Blue Lamp
+ETC_20160811_024105	Blaue Lampe
 ETC_20160811_024106	Oil Pouch
-ETC_20160811_024107	Red Lamp
+ETC_20160811_024107	Rote Lampe
 ETC_20160811_024108	Chest of Confiscated Goods
 ETC_20160811_024109	Observation Detector
 ETC_20160811_024110	Demon Summoning Crystal

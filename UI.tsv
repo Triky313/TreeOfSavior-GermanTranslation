@@ -1734,7 +1734,7 @@ UI_20150729_001733	{@st42}Zeige nur Fähigkeiten die gelernt werden können.{/}
 UI_20150729_001734	Leg Count
 UI_20150729_001735	Schlüssel
 UI_20150729_001736	Gewicht
-UI_20150729_001737	{@st43}Edelstein Roasting{/}
+UI_20150729_001737	{@st43}Edelstein Brennung{/}
 UI_20150729_001738	{@st59b}Gegenstands-Herstellung{nl}{@st59s} - Verwende ein Rezept um ein Item herzustellen.{nl} - Platziere das Rezept und die Materalien in den jeweiligen Fenstern. {nl} - Du kannst eine Beschreibung einen individuellen Namen hinzufügen.{/}
 UI_20150729_001739	{@st59}Close Pfeil Crafting{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
@@ -2316,7 +2316,7 @@ UI_20160811_002315	Teppich-Type
 UI_20160811_002316	{@st42b}{s16}Ladung{/}
 UI_20160811_002317	{@st66b}{s16}Vorschau{/}
 UI_20160811_002318	{@st42b}{s16}Hinzufügen{/}
-UI_20160811_002319	Verlernen
+UI_20160811_002319	Ungelernt
 UI_20160811_002320	* Wenn gekämpft
 UI_20160811_002321	{@st66d}Ausgerüstete Waffe
 UI_20161005_002322	Aussehen ändern
@@ -2330,7 +2330,7 @@ UI_20161005_002329	{@st66b}Shop{/}
 UI_20161005_002330	{img silver 20 20} Preis
 UI_20161005_002331	{@st41b}Bestätigen
 UI_20161005_002332	{@st41b}Schließen
-UI_20161005_002333	{img squaier_buff 24 24} 24 hours{/}
+UI_20161005_002333	{img squaier_buff 24 24} 24 Stunden{/}
 UI_20161005_002334	{@st66b}Details
 UI_20161005_002335	{@st66b}Krieg
 UI_20161005_002336	{@st43}Homunculus Info{/}
@@ -2346,7 +2346,7 @@ UI_20161005_002345	Einstellungen{/}
 UI_20161005_002346	{@st59}Schließen{/}
 UI_20161005_002347	{@st66d}Du kannst dies nicht zurücksetzen, wenn die Fähigkeit angewendet wird.{nl}Möchtest du fortfahren?{/}
 UI_20161005_002348	It is a spell voucher that{nl}quickly defeats monsters in an instanced dungeon.
-UI_20161005_002349	Instanced Clear Voucher
+UI_20161005_002349	Instanzbereinigung Gutschein
 UI_20161005_002350	Warnung
 UI_20161005_002351	 The monsters defeated by the pillar of light{nl}shall not be recorded on the Adventure Journal and{nl}items get dropped near the the pillar of light. Please, be aware of possible item loss.{nl}The used voucher disappears instantly and it can only be used in the instanced dungeon of that count.{/}
 UI_20161005_002352	Möchtest du einen Instanz-Rücksetzer-Gutschein verwenden?{/}
