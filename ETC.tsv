@@ -1759,10 +1759,10 @@ ETC_20150317_001758	Sockel
 ETC_20150317_001759	{nl}{nl}Number of Magie Amulets that can be equipped: {Remain}
 ETC_20150317_001760	Please select an item to repair.
 ETC_20150317_001761	There is no item to repair.
-ETC_20150317_001762	Not possible on this item type.
+ETC_20150317_001762	Bei diesem Gegegstands-Type nicht möglich.
 ETC_20150317_001763	{memo part of item requirement, sounds awkward, so removed for now. Originally " can equip"}
 ETC_20150317_001764	There is not enough Potential to trade.
-ETC_20150317_001765	Please select an item.
+ETC_20150317_001765	Bitte wähle einen Gegenstand.
 ETC_20150317_001766	Do you want to consume the selected items to create poison?
 ETC_20150317_001767	You cannot use this within the same area.
 ETC_20150317_001768	Gegenstand in buff
@@ -11588,7 +11588,7 @@ ETC_20150428_011589	Merge-bound Soul
 ETC_20150428_011590	Wastebasket
 ETC_20150428_011591	Hidden Schatztruhe
 ETC_20150428_011592	[Monk Klassenmeister]{nl} Olfas Grimm
-ETC_20150428_011593	[Schwarzer Reiter Klassenmeister]{nl} Warsis Creak
+ETC_20150428_011593	[Schwarzer Reiter Klassenmeister]{nl}       Warsis Creak
 ETC_20150511_011594	Return to the creation site
 ETC_20150511_011595	DoTimeAction:Picking Niole roots:1:WEEDING:None
 ETC_20150511_011596	Activate the 1st sealed device
@@ -14015,11 +14015,11 @@ ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} Erhöht Physischen Angriff, Kritischer Angriff und die maximale Tragkraft{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
-ETC_20150729_014020	[Doppelsoeldner Klassenmeister]{nl}                       Guerra
+ETC_20150729_014020	[Doppelsöldner Klassenmeister]{nl}                       Guerra
 ETC_20150729_014021	Field Gen x
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
-ETC_20150729_014024	[Centurion Klassenmeister]{nl}       Krajicek
+ETC_20150729_014024	[Centurion Klassenmeister]{nl}          Krajicek
 ETC_20150729_014025	[Corsair Klassenmeister]{nl}    Hayraven
 ETC_20150729_014026	Outside
 ETC_20150729_014027	2 Area
@@ -14639,7 +14639,7 @@ ETC_20150918_014640	Using the Absorption Scroll
 ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
-ETC_20150918_014644	[Rogue Klassenmeister]{nl}           Gema
+ETC_20150918_014644	[Rogue Klassenmeister]{nl}              Gema
 ETC_20150918_014645	[Gegenstandshändler]{nl}           Muras
 ETC_20150918_014646	[Ausrüstungshändler]{nl}            Yorgis
 ETC_20150918_014647	[Schmied]{nl}       Anna
@@ -16458,12 +16458,12 @@ ETC_20151022_016459	Protection Magie
 ETC_20151022_016460	Protection Magie Circle
 ETC_20151022_016461	Letter on the ground
 ETC_20151022_016462	Suspicious Sack
-ETC_20151022_016463	[Kedoran Merchant Alliance]{nl}   Leopoldas
-ETC_20151022_016464	[Kedoran Merchant Alliance]{nl}     Edita
-ETC_20151022_016465	[Kedoran Merchant Alliance]{nl} Margellius
-ETC_20151022_016466	[Kedoran Merchant Alliance]{nl}     Gerda
-ETC_20151022_016467	[Kedoran Merchant Alliance]{nl}   Serapinas
-ETC_20151022_016468	[Fencer Klassenmeister]{nl}  Sorscha Hutton
+ETC_20151022_016463	[Kedoran Merchant Alliance]{nl}    Leopoldas
+ETC_20151022_016464	[Kedoran Merchant Alliance]{nl}      Edita
+ETC_20151022_016465	[Kedoran Merchant Alliance]{nl}    Margellius
+ETC_20151022_016466	[Kedoran Merchant Alliance]{nl}      Gerda
+ETC_20151022_016467	[Kedoran Merchant Alliance]{nl}     Serapinas
+ETC_20151022_016468	[Fencer Klassenmeister]{nl}       Sorscha Hutton
 ETC_20151022_016469	[Barbarian Klassenmeister]{nl}        Twinhal Koreont
 ETC_20151022_016470	[Dievdirbys Klassenmeister]{nl}        Zenoa Gallant
 ETC_20151022_016471	Padded Leg Herb
@@ -19950,8 +19950,8 @@ ETC_20151224_019950	Mind Control Tower
 ETC_20151224_019951	Black Spirit
 ETC_20151224_019952	Charged Device
 ETC_20151224_019953	Temporary
-ETC_20151224_019954	[Kedoran Merchant Alliance]{nl}     Merrisa
-ETC_20151224_019955	[Sorcerer Klassenmeister]{nl}    Dame Circe
+ETC_20151224_019954	[Kedoran Merchant Alliance]{nl}        Merrisa
+ETC_20151224_019955	[Sorcerer Klassenmeister]{nl}        Dame Circe
 ETC_20151224_019956	Fallen Legwyn Family Dungeon-Tafel
 ETC_20151224_019957	Fencer Schwer Pell
 ETC_20151224_019958	[Dragoon Klassenmeister]{nl}  Valeska Himil
@@ -25731,7 +25731,7 @@ ETC_20161108_025730	Kannushi
 ETC_20161108_025731	This item cannot be enhanced.
 ETC_20161108_025732	Items with 0 potential will be consumed if transcendence fails.{nl}Attempt transcendence?
 ETC_20161108_025733	Equipment will not be destroyed when attempting enhancement with this anvil, but its enhancement stage can be reduced if the process fails. Attempt enhancement?
-ETC_20161108_025734	Extracting a gem will cause its level to decrease. Monster gems and Lv 1 gems will be consumed when extracted. Are you sure you want to extract?
+ETC_20161108_025734	Extrahieren eines Edelsteins bewirkt, dass sein Level sinkt. Monster-Edelsteine und Lv 1 Edelsteine werden beim Extrahieren verbraucht. Sicher dass du extrahieren möchtest?
 ETC_20161108_025735	Reparaturkosten: {Price}{nl}Bist du sicher dass du das reparieren möchtest?
 ETC_20161108_025736	Identifizieren
 ETC_20161108_025737	Cannot use an unidentified item.

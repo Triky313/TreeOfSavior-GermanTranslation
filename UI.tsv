@@ -1951,7 +1951,7 @@ UI_20151224_001950	{@st66b}Ungelesen
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - Wenn du eine neue Quest startest, wird sie dem Quest-Fenster hinzugefügt.{nl} - Ein Hauptquest wird in gelber Farbe angezeigt, während ein Nebenquest in blau angezeigt wird.{nl} - Der Pfeil an den Füßen deines Charakters führ zum Ort deiner Quest.{nl} - Ein 'Rückkehr'-Symbol wird in deinem Aufgaben-Fenster angezeigt, wenn eine Quest abgeschlossen ist{nl}  (Um dich zum Quest-NPC zu teleportieren drücke die Backspace-Taste oder klicke mit der Maus){nl} - Um Quests dem Quest-Fenster hinzuzufügen oder zu entfernen klicke in das Kästchen vor dem Questnamen{/}
 UI_20151224_001952	{@st66b}  Aktiv  {/}
 UI_20151224_001953	{@st66b}  Abgelaufen  {/}
-UI_20151224_001954	{@st66b}Resurrect with the Seelenkristall{/}
+UI_20151224_001954	{@st66b}Wiederbeleben mit dem Seelenkristall{/}
 UI_20151224_001955	{@st59b}Laden{nl}{@st59s} - Verwende Shift + Rechtsklick um eine bestimmte Menge von Gegenständen zu kaufen/verkaufen{nl} - Drücke zwei mal Rechtsklick auf einen Gegenstand um alle von diesen zu verkaufen{/}
 UI_20151224_001956	Herstellungs-Nummer
 UI_20151224_001957	{@st42}%s Vorteile{/}
@@ -2325,7 +2325,7 @@ UI_20161005_002324	{@st43}Verzauberte Rüstung{/}
 UI_20161005_002325	{@st66b}Verzaubern{/}
 UI_20161005_002326	{@st59}Schließen{/}
 UI_20161005_002327	{img silver 20 20} Preis
-UI_20161005_002328	 Store Name
+UI_20161005_002328	 Ladenname
 UI_20161005_002329	{@st66b}Shop{/}
 UI_20161005_002330	{img silver 20 20} Preis
 UI_20161005_002331	{@st41b}Bestätigen
@@ -2363,17 +2363,17 @@ UI_20161005_002362	{@st41b}Speichere Position
 UI_20161005_002363	{@st59}Schließe{/}
 UI_20161005_002364	{@st66b}Saved Portals: %s/%s{/}
 UI_20161005_002365	{@st43}Craft Spellbook
-UI_20161005_002366	{@st43}Switch Gender Shop{/}
+UI_20161005_002366	{@st43}Geschlechtwechsel Shop{/}
 UI_20161005_002367	{@st66b}Ändern{/}
 UI_20161005_002368	{@st59}Schließe{/}
 UI_20161005_002369	{img silver 20 20} Preis 
 UI_20161005_002370	{@st41b}Öffnen
-UI_20161005_002371	Vor{/}
-UI_20161005_002372	Nach{/}
+UI_20161005_002371	Vorher{/}
+UI_20161005_002372	Nachher{/}
 UI_20161005_002373	{@st66d}Geschlecht ändern{/}
-UI_20161005_002374	Warning{/}
-UI_20161005_002375	Entferne alle Ausrüstungsteile bevor Du fortfährst{nl}Das Klassenkostüm wird zusammen mit Ihrem Geschlecht geändert{/}
-UI_20161005_002376	{@st67}Alle Premiumprodukte, die geschlechtsspezifisch sind, sind nicht mehr ausrüstbar{/}
+UI_20161005_002374	Warnung{/}
+UI_20161005_002375	Entferne alle Ausrüstungsteile bevor Du fortfährst.{nl}Das Klassenkostüm wird zusammen mit Ihrem{nl}Geschlecht geändert.{/}
+UI_20161005_002376	{@st67}Alle Premiumprodukte die geschlechtsspezifisch sind,{nl}sind nicht mehr ausrüstbar.{/}
 UI_20161005_002377	Stat
 UI_20161005_002378	{@st66d}{s30}Die Webseite ist zu Ende.{nl}Bitte drücke schließen.{/}
 UI_20161005_002379	Blick aus dem POV des Spielers
