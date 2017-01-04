@@ -19133,7 +19133,7 @@ ETC_20151224_019133	You cannot use the word {Word}.
 ETC_20151224_019134	The character name must be at least %s bytes.
 ETC_20151224_019135	The character name must be less than %s bytes.
 ETC_20151224_019136	The current amount of players joined has been exceeded.
-ETC_20151224_019137	You have reached the maximum amount{nl}of characters in this Hütte{nl}Do you want to purchase a character slot?
+ETC_20151224_019137	Du hast die Maximalanzahl{nl}von Charakteren in der Hütte erreicht.{nl}Möchtest du einen Charakter-Slot kaufen?
 ETC_20151224_019138	You cannot dismount your companion while using a skill.
 ETC_20151224_019139	The name must be less than {LEN} bytes.
 ETC_20151224_019140	Preis des Gegenstandes kann nicht abgeschätzt werden, solange es keine weiteren im Auktionshaus gibt.
