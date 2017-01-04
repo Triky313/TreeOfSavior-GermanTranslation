@@ -2305,7 +2305,7 @@ UI_20160811_002304	{@st66d}{s26}Nein{/}
 UI_20160811_002305	{@st66d}{s26}Widerrufsrecht{/}
 UI_20160811_002306	{@st59}View suggested dungeon locations{/}
 UI_20160811_002307	{@st41}Hütte%s (%s/%s){/}
-UI_20160811_002308	{@st59}Bewege zur Hütte.
+UI_20160811_002308	{@st59}Hütte auswählen
 UI_20160811_002309	{@st59}Jurate (Seasonal Server) ist ein Event-Server, der bis zum 20. Oktober bestehen wird.{nl}Please check the Official Homepage for more details.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
 UI_20160811_002310	{@st59}Bitte wähle einen Server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
 UI_20160811_002311	{@st66b}In eine andere Hütte bewegen
@@ -2318,7 +2318,7 @@ UI_20160811_002317	{@st66b}{s16}Vorschau{/}
 UI_20160811_002318	{@st42b}{s16}Hinzufügen{/}
 UI_20160811_002319	Ungelernt
 UI_20160811_002320	* Wenn gekämpft
-UI_20160811_002321	{@st66d}Ausgerüstete Waffe
+UI_20160811_002321	{@st66d}Aktive Waffe
 UI_20161005_002322	Aussehen ändern
 UI_20161005_002323	{@st45tw2}Waffenmaterial{/}
 UI_20161005_002324	{@st43}Verzauberte Rüstung{/}

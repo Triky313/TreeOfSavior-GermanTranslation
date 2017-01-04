@@ -4365,33 +4365,33 @@ ETC_20150317_004364	{@st42b} Bewegung {/}
 ETC_20150317_004365	{@st42b} My character's movement {/}
 ETC_20150317_004366	{@st42b} NPC Placement {/}
 ETC_20150317_004367	{@st42b} Abbrechen {/}
-ETC_20150317_004368	{@st42b} Change the angle {/}
-ETC_20150317_004369	{@st42b} Delete Anchor {/}
+ETC_20150317_004368	{@st42b} Ändere den Winkel {/}
+ETC_20150317_004369	{@st42b} Lösche Anchor {/}
 ETC_20150317_004370	{@st42b} Appoint Range{/}
-ETC_20150317_004371	{@st42b} Delete Range {/}
-ETC_20150317_004372	{@st42b} Remove {/}
+ETC_20150317_004371	{@st42b} Lösche Range {/}
+ETC_20150317_004372	{@st42b} Entfernen {/}
 ETC_20150317_004373	{@st42b} Visit {/}
 ETC_20150317_004374	There is no GenType
-ETC_20150317_004375	Appoint fixed skills
-ETC_20150317_004376	Remove fixed skills
+ETC_20150317_004375	Ernennen fixe Skills
+ETC_20150317_004376	Entfernen fixe Skills
 ETC_20150317_004377	{@st42b} Drag a zen type {/}
-ETC_20150317_004378	Menu
-ETC_20150317_004379	Change the number
+ETC_20150317_004378	Menü
+ETC_20150317_004379	Ändere die Nummer
 ETC_20150317_004380	Schaden MIN
 ETC_20150317_004381	Schaden MAX
 ETC_20150317_004382	The number has now learned abilities
-ETC_20150317_004383	Failed to collect.
-ETC_20150317_004384	Collected successfully.
+ETC_20150317_004383	Fehler beim Sammeln.
+ETC_20150317_004384	Erfolgreich gesammelt.
 ETC_20150317_004385	You are recovering with blessing of the items used by users.
 ETC_20150317_004386	Monsters becomes powerless due to the item used by users
 ETC_20150317_004387	[Debug]
 ETC_20150317_004388	function name:
 ETC_20150317_004389	Happen Error
-ETC_20150317_004390	There is no node information
+ETC_20150317_004390	Es gibt keine Knoteninformationen
 ETC_20150317_004391	The total count in the buff:
 ETC_20150317_004392	Advancement Quest of job.xml is not set up(None)
 ETC_20150317_004393	There's no socket or it's currently being used
-ETC_20150317_004394	Missing rank.
+ETC_20150317_004394	Fehlender Rang.
 ETC_20150317_004395	N/A
 ETC_20150317_004396	Obtained Attribute Point
 ETC_20150317_004397	The Golem was weakened by the effect of storm magic.
@@ -10326,26 +10326,26 @@ ETC_20150323_010327	This item is currently equipped.
 ETC_20150323_010328	You cannot add more than one of each type.
 ETC_20150323_010329	The buyer does not want this item.
 ETC_20150323_010330	Bist du sicher dass du das verkaufen willst?
-ETC_20150323_010331	Awakening
+ETC_20150323_010331	Erwachen
 ETC_20150323_010332	Can only be used in Tenet Garden
 ETC_20150323_010333	Can only be used in Ramstis Ridge Area
-ETC_20150323_010334	{@st42b}Advancement Date: 
-ETC_20150323_010335	{@st42b}Play Time: 
+ETC_20150323_010334	{@st42b}Aufstiegsdatum: 
+ETC_20150323_010335	{@st42b}Spielzeit: 
 ETC_20150323_010336	The people from the village were demons.{nl}Run away to portal of Veja Ravine.
 ETC_20150323_010337	Great Cathedral Completion Stone
 ETC_20150323_010338	Briquetting
-ETC_20150323_010339	Black 
-ETC_20150323_010340	Blue 
+ETC_20150323_010339	Schwarz 
+ETC_20150323_010340	Blau 
 ETC_20150323_010341	Pink
 ETC_20150323_010342	Long Ponytail
 ETC_20150323_010343	Long Wave Twintail
 ETC_20150323_010344	Dvasia Peak_1_2
 ETC_20150323_010345	Priest
-ETC_20150323_010346	Badge Signature
-ETC_20150323_010347	Platform of Love
-ETC_20150323_010348	Old Book
-ETC_20150323_010349	Torn Page
-ETC_20150323_010350	Old Document
+ETC_20150323_010346	Abzeichen Unterschrift
+ETC_20150323_010347	Plattform der Liebe
+ETC_20150323_010348	Altes Buch
+ETC_20150323_010349	Zerrissene Seite
+ETC_20150323_010350	Altes Dokument
 ETC_20150323_010351	Tildas Valley
 ETC_20150323_010352	The Fortress of the Great Land59_2
 ETC_20150323_010353	The Fortress of the Great Land59_3
@@ -26333,7 +26333,7 @@ ETC_20161214_026332	Insufficient Instanced Dungeon Multiply Tokens.
 ETC_20161214_026333	Insufficient instanced dungeon entries remaining.
 ETC_20161214_026334	Maximum Multiply Mode value currently allowed.
 ETC_20161214_026335	Multiply Mode applied at {Rate} times.
-ETC_20161214_026336	Adopt Companion
+ETC_20161214_026336	Begleiter adoptieren
 ETC_20161214_026337	{#050505}{s22}{b}When enhancing equipment
 ETC_20161214_026338	You cannot save any more locations.{nl}Please delete some and try again.
 ETC_20161214_026339	Cannot be used during transformation.
