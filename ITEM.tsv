@@ -366,7 +366,7 @@ ITEM_20150317_000365	Maker Bogen
 ITEM_20150317_000366	In the past, only wealthy hunters bought this bow. With the dire events in recent history, however, anyone who can afford to is purchasing or crafting it. 
 ITEM_20150317_000367	Wildbogen
 ITEM_20150317_000368	Due to increases in demand for high quality bows since the Great Plant Cataclysm, this bow is being crafted quite frequently.
-ITEM_20150317_000369	Schlagenbogen
+ITEM_20150317_000369	Schlangenbogen
 ITEM_20150317_000370	This bow is a good choice regardless of one's muscle strength. This is because if the user has strong arms, he can shoot with more power and if he doesn't, the bow compensates for it. 
 ITEM_20150317_000371	Imperni Bogen 
 ITEM_20150317_000372	Like the name suggests, this bow strikes with poisonous attacks. 
@@ -7458,17 +7458,17 @@ ITEM_20151022_007457	Flamethrower
 ITEM_20151022_007458	Fragmentation Jewel
 ITEM_20151022_007459	Increases corpse parts by +30. {nl}Purchasable from the Necromancer Master. {nl}Rechtsklick zum verwenden.
 ITEM_20151022_007460	EXP Boost
-ITEM_20151022_007461	Increases a character's level to 170. Rechtsklick zum verwenden.
-ITEM_20151022_007462	Rank 2 Karte
-ITEM_20151022_007463	Increases a character's class level of rank 1 to 15. Only available during rank 1. {nl}Rechtsklick zum verwenden.
-ITEM_20151022_007464	Rank 3 Karte
-ITEM_20151022_007465	Increases a character's class level of rank 2 to 15. Only available during rank 2. {nl}Rechtsklick zum verwenden.
-ITEM_20151022_007466	Rank 4 Karte
-ITEM_20151022_007467	Increases a character's class level of rank 3 to 15. Only available during rank 3. {nl}Rechtsklick zum verwenden.
-ITEM_20151022_007468	Rank 5 Karte
-ITEM_20151022_007469	Increases a character's class level of rank 4 to 15. Only available during rank 4. {nl}Rechtsklick zum verwenden.
-ITEM_20151022_007470	Rank 6 Karte
-ITEM_20151022_007471	Increases a character's class level of rank 5 to 15. Only available during rank 5. {nl}Rechtsklick zum verwenden.
+ITEM_20151022_007461	Erhöht das Charakter-Level auf 170. Rechtsklick zum verwenden.
+ITEM_20151022_007462	Klassenrang 2 Karte
+ITEM_20151022_007463	Erhöht die Klassenstufe eines Charakters von Rang 1 auf 15. Nur bei Rang 1 verfügbar.{nl}Rechtsklick zum verwenden.
+ITEM_20151022_007464	Klassenrang 3 Karte
+ITEM_20151022_007465	Erhöht die Klassenstufe eines Charakters von Rang 2 auf 15. Nur bei Rang 2 verfügbar.{nl}Rechtsklick zum verwenden.
+ITEM_20151022_007466	Klassenrang 4 Karte
+ITEM_20151022_007467	Erhöht die Klassenstufe eines Charakters von Rang 3 auf 15. Nur bei Rang 3 verfügbar.{nl}Rechtsklick zum verwenden.
+ITEM_20151022_007468	Klassenrang 5 Karte
+ITEM_20151022_007469	Erhöht die Klassenstufe eines Charakters von Rang 4 auf 15. Nur bei Rang 4 verfügbar.{nl}Rechtsklick zum verwenden.
+ITEM_20151022_007470	Klassenrang 6 Karte
+ITEM_20151022_007471	Erhöht die Klassenstufe eines Charakters von Rang 5 auf 15. Nur bei Rang 5 verfügbar.{nl}Rechtsklick zum verwenden.
 ITEM_20151022_007472	Abomination Cube
 ITEM_20151022_007473	Es scheint etwas Unbekanntes zu enthalten.{nl}Rechtsklick zum verwenden.
 ITEM_20151022_007474	Obscene Deathweaver Cube
@@ -11150,7 +11150,7 @@ ITEM_20160811_011149	Dye Chest (7-Days)
 ITEM_20160811_011150	A chest filled with random dyes.{nl}Use to obtain a random dye.
 ITEM_20160811_011151	Void Egg
 ITEM_20160811_011152	An egg from the void.
-ITEM_20160811_011153	Can move to a specific location within the current zone. Right-click to use. Cooldown of 15 minutes.
+ITEM_20160811_011153	Kann dich an einen bestimmten Ort inerhalb der aktuellen Zone bringen. Rechtsklick zum verwenden. Abklingzeit von 15 Minuten.
 ITEM_20160811_011154	Uphill Mission - Fire Crystal
 ITEM_20160811_011155	Uphill Defense Mission Item
 ITEM_20160811_011156	Can be used to gain a beneficial effect by using the Essence Purifier.

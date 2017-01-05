@@ -1291,12 +1291,12 @@ SKILL_20150317_001290	Angriff #{SkillAtkAdd}#{nl}Zusätzliche Kritchance 50%
 SKILL_20150317_001291	Steady Aim
 SKILL_20150317_001292	Angriffsstärke erhöht aber Angriffsgeschwindigkeit verringert.
 SKILL_20150317_001293	Zusätzlicher Schaden: +#{CaptionRatio}#{nl}Angriff Speed: -#{CaptionRatio2}#% {nl}Dauer: 40 Sekunden
-SKILL_20150317_001294	Time Bomb Pfeil
+SKILL_20150317_001294	Time Bomb Arrow
 SKILL_20150317_001295	{#DD5500}{ol}[Physisch] [Schlag]{/}{/}{nl}Hang a bomb on an arrow and shoot it at an enemy.
 SKILL_20150317_001296	Angriff: #{SkillAtkAdd}#{nl}Bomb Dauer: 5 Sekunden
 SKILL_20150317_001297	Bounce Shot
 SKILL_20150317_001298	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Shoot an arrow that bounces off the target to hit nearnach enemies.
-SKILL_20150317_001299	Pfeil Sprinkle
+SKILL_20150317_001299	Arrow Sprinkle
 SKILL_20150317_001300	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Sprung backwards while shooting multiple arrows forward.
 SKILL_20150317_001301	Attacke #{SkillAtkAdd}#{nl}Attacke 5 mal
 SKILL_20150317_001302	Spiral Arrow
@@ -2149,7 +2149,7 @@ SKILL_20150317_002148	Disqualification: Cloth Rüstung
 SKILL_20150317_002149	Apply effects of [Mordschlag] on enemies with leather armor to choth armor as well.
 SKILL_20150317_002150	Pain Barrier: Movement Speed
 SKILL_20150317_002151	Movement speed increases nach 5% per Fähigkeits-Level and evasion decreases nach 10% pro Fähigkeits-Level, wenn using [Pain Barrier].
-SKILL_20150317_002152	Cyclone: Deflect Pfeils
+SKILL_20150317_002152	Cyclone: Deflect Arrows
 SKILL_20150317_002153	Deflects basic arrow attacks from enemies at a 10% chance pro Fähigkeits-Level, wenn using [Cyclone].
 SKILL_20150317_002154	Schlaf: Maintain Debuff
 SKILL_20150317_002155	Enemy under [Schlaf] will not wake up even if attacked at a 1% chance per Fähigkeits-Level but the duration will decrease nach 0.5 Sekunden pro{nl}Fähigkeits-Level.
@@ -3260,7 +3260,7 @@ SKILL_20150401_003259	Hide installation from enemies
 SKILL_20150401_003260	Vestreihende Zeit: #{CaptionRatio}# Minute(n)
 SKILL_20150401_003261	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Flame is fumed and damage target in the area.
 SKILL_20150401_003262	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Install trap where arrows are fired when touching wire.
-SKILL_20150401_003263	Angriff #{SkillAtkAdd}#{nl}No. of Pfeils #{CaptionRatio}#{nl}Install range #{CaptionRatio2}#
+SKILL_20150401_003263	Angriff #{SkillAtkAdd}#{nl}No. of Arrows #{CaptionRatio}#{nl}Install range #{CaptionRatio2}#
 SKILL_20150401_003264	{#DD5500}{ol}[Physisch] - [Schlag]{/}{/}{nl}Install bomb surrounding target. Bomb explosed when touching enemy.
 SKILL_20150401_003265	Angriff #{SkillAtkAdd}#{nl}Install #{CaptionRatio}#
 SKILL_20150401_003266	Ausweichen - #{CaptionRatio}# {nl}Pointing AI duration 10 minutes
@@ -3756,7 +3756,7 @@ SKILL_20150414_003755	Temporarily increases your movement speed while attacking.
 SKILL_20150414_003756	{#DD5500}{ol}[Physisch] - [Geschoss]{/}{/}{nl}Fires a shot that ricochets to a nearnach enemy.
 SKILL_20150414_003757	Heavy Shot
 SKILL_20150414_003758	{#DD5500}{ol}[Physisch] - [Geschoss]{/}{/}{nl}Demonstrate your strength nach firing a shot that pushes enemies away.
-SKILL_20150414_003759	Twin Pfeils
+SKILL_20150414_003759	Twin Arrows
 SKILL_20150414_003760	{#DD5500}{ol}[Physisch] - [Geschoss]{/}{/}{nl}Fires two shots at once.
 SKILL_20150414_003761	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Penetrate straight through the enemy nach aiming with the tip of your arrow. 
 SKILL_20150414_003762	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Shoot an arrow with a high critical chance.
@@ -3950,7 +3950,7 @@ SKILL_20150414_003949	Heavy Shot: Verbessern
 SKILL_20150414_003950	Schaden of [Knock Heavy Shot] increase pro{nl}Fähigkeits-Level.
 SKILL_20150414_003951	Heavy Shot: Verbessern 2
 SKILL_20150414_003952	Schaden of [Heavy Shot] is enhanced to Archer Circle 3.
-SKILL_20150414_003953	Twin Pfeils: Verbessern
+SKILL_20150414_003953	Twin Arrows: Verbessern
 SKILL_20150414_003954	Schaden of [Twin Pfeil] increase pro{nl}Fähigkeits-Level.
 SKILL_20150414_003955	Teardown: Verbessern
 SKILL_20150414_003956	Schaden of [Teardown] increase pro{nl}Fähigkeits-Level.
@@ -4189,7 +4189,7 @@ SKILL_20150714_004188	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRati
 SKILL_20150714_004189	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}AoE Angriffsanzahl: #{CaptionRatio}#{nl}Verbraucht 1 Claymore
 SKILL_20150714_004190	Angriff #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Zauberzeit: 3 Sekunden{nl}Verbraucht 1 Pine Tree
 SKILL_20150714_004191	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Number of Explosions: #{CaptionRatio}#
-SKILL_20150714_004192	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Number of Pfeils: #{CaptionRatio}#{nl}Setup Range: #{CaptionRatio2}#{nl}Verbraucht 2 Wires
+SKILL_20150714_004192	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionTime}#%{nl}Number of Arrows: #{CaptionRatio}#{nl}Setup Range: #{CaptionRatio2}#{nl}Verbraucht 2 Wires
 SKILL_20150714_004193	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Number of Setups: #{CaptionRatio}#
 SKILL_20150714_004194	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}{#339999}{ol}[Gift]{/}{/} Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht #{SpendPoison}# Gift Pot Gift
 SKILL_20150714_004195	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Dauer: 10 Sekunden{nl}Verbraucht #{SpendPoison}# Gift Pot Gift
@@ -4511,7 +4511,7 @@ SKILL_20150714_004510	Erhöht die Schadensausteilung an einem{nl}Feind mit [Mult
 SKILL_20150714_004511	Erhöht die Schadensausteilung an einem{nl}Feind mit [Full Draw] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004512	Erhöht die Schadensausteilung an einem{nl}Feind mit [Oblique Shot] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004513	Erhöht die Schadensausteilung an einem{nl}Feind mit [Heavy Shot] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150714_004514	Erhöht die Schadensausteilung an einem{nl}Feind mit [Twin Pfeils] um 1% pro{nl}Fähigkeits-Level.
+SKILL_20150714_004514	Erhöht die Schadensausteilung an einem{nl}Feind mit [Twin Arrows] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004515	Erhöht die Kritchance von [Multi Shot] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004516	Erhöht your critical rate during [Kneeling Shot] um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150714_004517	Enemies that are hit nach [Oblique Shot] while [Swift Step] is active will be affected nach [Slow] with a 5% chance pro{nl}Fähigkeits-Level.
@@ -5520,7 +5520,7 @@ SKILL_20151102_005519	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt einen Pfeil, der
 SKILL_20151102_005520	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Demonstriere deine Kraft durch das feuern eines Schusses, welcher Feinde zurückstoßt.
 SKILL_20151102_005521	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires two shots at once at an enemy.
 SKILL_20151102_005522	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Feuert 5 Pfeile in einem Bogen vor dir.
-SKILL_20151102_005523	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Ziele mit der Spitze des Pfeils und durchdringe Feinde vor dir.
+SKILL_20151102_005523	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Ziele mit der Spitze des Arrows und durchdringe Feinde vor dir.
 SKILL_20151102_005524	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schieße einen Pfeil mit hoher Wahrescheinlichkeit das Ziel kritisch zu treffen.
 SKILL_20151102_005525	Erhöht the attack of [Geschoss] skills while decreasing the attack speed.
 SKILL_20151102_005526	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt einen Pfeil an dem eine Bombe befestigt ist. Nachdem ein Ziel getroffen wurde explodiert die Bombe nach einer gewissen Zeit und verursacht zusätzlichen Schaden.

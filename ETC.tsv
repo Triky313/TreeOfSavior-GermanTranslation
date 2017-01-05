@@ -2692,7 +2692,7 @@ ETC_20150317_002691	{ItemName} was put up for auction in {MapName}.
 ETC_20150317_002692	{PC} has won {ItemName} from the auction.
 ETC_20150317_002693	You cannot bid higher than the buyout price.
 ETC_20150317_002694	Kauf bestätigen?
-ETC_20150317_002695	Willst du diesen Begleiter uebernehmen?
+ETC_20150317_002695	Willst du diesen Begleiter übernehmen?
 ETC_20150317_002696	Verkaufer
 ETC_20150317_002697	Menge
 ETC_20150317_002698	Einzelpreis
@@ -4264,7 +4264,7 @@ ETC_20150317_004263	Select Group when you double-click
 ETC_20150317_004264	Fool (haha)
 ETC_20150317_004265	The amount is low.
 ETC_20150317_004266	Moni
-ETC_20150317_004267	 key has been assigned to 
+ETC_20150317_004267	 Skillplatz wurde Skill zugewiesen
 ETC_20150317_004268	 to your quick slot.
 ETC_20150317_004269	Leertaste \
 ETC_20150317_004270	{@st41} Key to start a conversation {/}
@@ -6183,13 +6183,13 @@ ETC_20150317_006183	Spray - Orange
 ETC_20150317_006184	Spray - Yellow
 ETC_20150317_006185	Spray - Green
 ETC_20150317_006186	Roter Edelstein
-ETC_20150317_006187	Ein Edelstein, welcher in einem Dungeon gefunden werden kann.{nl}Er ist in der Lage Ausrüstung zu verbessern indem er in einen Sockel gesezt wird.{nl}Je höher das Level, desto stärker ist er.{nl} {nl}Rechtsklick zum ausrüsten{nl}in Ausrüstung.
+ETC_20150317_006187	Ein Edelstein, welcher in einem Dungeon gefunden werden kann.{nl}Er ist in der Lage Ausrüstung zu verbessern indem er in einen Sockel gesezt wird.{nl}Je höher das Level, desto stärker ist er.{nl} {nl}Rechtsklick zum Ausrüsten.
 ETC_20150317_006188	Blauer Edelstein
 ETC_20150317_006189	Grüner Edelstein
 ETC_20150317_006190	Gelber Edelstein
 ETC_20150317_006191	Test Edelstein
 ETC_20150317_006192	Klaue
-ETC_20150317_006193	Begleiter Weapons
+ETC_20150317_006193	Begleiter Waffen
 ETC_20150317_006194	Creating weapons in this field require one to have both the skills of blacksmith and farrier. Creating even a simple claw is difficult because of this.
 ETC_20150317_006195	Eisen-Klaue
 ETC_20150317_006196	Some devilish beasts are sensitive to iron, and the secrets to manufacturing it are within this recipe.
@@ -11256,7 +11256,7 @@ ETC_20150428_011257	Besiege 10,000 Monster
 ETC_20150428_011258	Beginn der Jagt
 ETC_20150428_011259	Schlachter
 ETC_20150428_011260	Besiege 1,000,000 Monster
-ETC_20150428_011261	Gewohnheit Jäger
+ETC_20150428_011261	Gewohnheitsjäger
 ETC_20150428_011262	Abenteurer
 ETC_20150428_011263	Erreiche 10,000 overkills
 ETC_20150428_011264	Grundlagen des Kampfes
@@ -20648,7 +20648,7 @@ ETC_20160224_020648	Guild Storage Retrieve Gegenstand
 ETC_20160224_020649	You don't have enough tickets.
 ETC_20160224_020650	Can only be used in the Guild Hangout.
 ETC_20160224_020651	The number of trades{nl}allowed will deduct by {Wert}{nl}Would you like to continue?
-ETC_20160224_020652	Left-click the item to select.
+ETC_20160224_020652	Linksklick um Gegenstand auszuwählen.
 ETC_20160224_020653	You cannot remove the tower during a war.
 ETC_20160224_020654	You cannot register more than the number of tradable items allowed.
 ETC_20160224_020655	The item currently equipped is enchanted and cannot be awakened.
@@ -25767,7 +25767,7 @@ ETC_20161121_025766	Cannot leave while queuing for party entry.
 ETC_20161121_025767	Auto matching in progress
 ETC_20161121_025768	Auto matching completed.
 ETC_20161121_025769	Can be used while auto matching.
-ETC_20161121_025770	Do you wish to enter?
+ETC_20161121_025770	Möchtest du betreten?
 ETC_20161121_025771	Queue for auto matching with current party members.
 ETC_20161121_025772	Message sent to {MEMBER}.
 ETC_20161130_025773	Demon Lord Diena

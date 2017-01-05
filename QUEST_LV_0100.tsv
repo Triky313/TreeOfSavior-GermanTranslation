@@ -7166,10 +7166,10 @@ QUEST_LV_0100_20150714_007165	Notice/The compass is pointing to District 6.{nl}F
 QUEST_LV_0100_20150714_007166	Notice/The compass is pointing to District 6.{nl}Go to District 6 and look for the part#5
 QUEST_LV_0100_20150714_007167	Notice/!/The compass is pointed at the Specter Monarch!{nl}Besiege Specter Monarch and retrieve the parts!#5
 QUEST_LV_0100_20150714_007168	Notice/!/You've found the parts!{nl}Returnto the purifier at the hall and repair it!#5
-QUEST_LV_0100_20150714_007169	Repairing the Luftreiniger
+QUEST_LV_0100_20150714_007169	Repariere den Luftreiniger
 QUEST_LV_0100_20150714_007170	Notice/You've repaired the purifier at the hall!{nl}The purifier is activating!#5
 QUEST_LV_0100_20150714_007171	Notice/It seems that there is a problem with the purifier pipe{nl}Check the pipes at in District 3#5
-QUEST_LV_0100_20150714_007172	Checking the Luftreiniger Pipe
+QUEST_LV_0100_20150714_007172	Checke das Luftreiniger Rohr
 QUEST_LV_0100_20150714_007173	Notice/!/You've opened the closed valve{nl}Now go back to the Circulating Luftreiniger#5
 QUEST_LV_0100_20150714_007174	Notice/!/The Circulating Luftreiniger is still not activated.{nl}Check the purifier pipe at District 2#5
 QUEST_LV_0100_20150714_007175	Notice/You've defeated Carapace{nl}Check the purifier pipes at the District 2#5

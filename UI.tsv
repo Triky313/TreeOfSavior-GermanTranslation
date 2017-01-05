@@ -2506,9 +2506,9 @@ UI_20161214_002505	{@black_18_b}Täglich{/}
 UI_20161214_002506	{@black_18_b}Wöchentlich (Zurücksetzung jeden Montag){/}
 UI_20161214_002507	{@brown_16}Individuelle Beteiligung{/}
 UI_20161214_002508	Gilden Autorität
-UI_20161221_002509	Bist du sicher dass du den Rank Reset Gutschein verwenden möchtest?
-UI_20161221_002510	The item will disappear from your{nl}inventory and your Rank choices will be reset.
-UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}
+UI_20161221_002509	Sicher dass du den Rank Reset Gutschein verwenden möchtest?
+UI_20161221_002510	Der Gegenstand wird aus dem {nl} Inventar gelöscht und die Rangwahlen wird zurückgesetzt.
+UI_20161221_002511	{@st66d_y}Bedingungen und Vorsichtsmaßnahmen{/}
 UI_20161221_002512	{@st58}Keine Gegenstände ausgerüstet{/}
 UI_20161221_002513	{@st59}Kein Attribute lernen im Gange{/}
 UI_20161221_002514	{@st59}Kein Begleiter folgt{/}
@@ -2516,10 +2516,10 @@ UI_20161221_002515	{@st59}Charaktere in der Stadt{/}
 UI_20161221_002516	{@st59}Keine Shop Skills in Verwendung{/}
 UI_20161221_002517	{@st59}Keine Herstellung im Gange{/}
 UI_20161221_002518	{@st59}Kein Gilden Master Templar Charakter{/}
-UI_20161221_002519	* Equipped Monster Cards will be automatically{nl}removed without any penalties.
+UI_20161221_002519	* Ausgerüstete Monster-Karten werden automatisch{nl}ohne Strafen aus den Slots entfernt.
 UI_20161221_002520	* Attribute levels taken before the reset{nl}can be learned again at no cost after the reset.
-UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}
+UI_20161221_002521	* EXP-Karten entsprechen dem letzten erreichten Rang{nl}
 UI_20161221_002522	Klassen Level 15
 UI_20161221_002523	 will be provided to your inventory.
-UI_20161221_002524	* Class-specific costumes received{nl}by Rank advancement will be deleted.
-UI_20161221_002525	* You will return to the barracks after using the Voucher.
+UI_20161221_002524	* Klassenspezifische Kostüme, die nach {nl}Rangfortschritt erhalten wurden, werden gelöscht.
+UI_20161221_002525	* Nach der Benutzung des Gutscheins kehrst du in die Hütte zurück.
