@@ -276,7 +276,7 @@ UI_20150317_000275	{@st59}Linke Hand{/}
 UI_20150317_000276	{@st59}Rechte Hand{/}
 UI_20150317_000277	{@st59}Armband 1{/}
 UI_20150317_000278	{@st59}Armband 2{/}
-UI_20150317_000279	{@st59}Armband{/}
+UI_20150317_000279	{@st59}Kopftuch{/}
 UI_20150317_000280	{@st59}Suche{/}
 UI_20150317_000281	Gewicht
 UI_20150317_000282	{@st43}Ausrüstungs-Buff{/}
@@ -353,8 +353,8 @@ UI_20150317_000352	{ol}Nachricht
 UI_20150317_000353	{ol}Sound
 UI_20150317_000354	{@st41}Minimap erstellen{/}
 UI_20150317_000355	{@st55}Gebiets-Map
-UI_20150317_000356	{@st43}{s22}Market{/}
-UI_20150317_000357	{@st43}{s24}Market{/}
+UI_20150317_000356	{@st43}{s22}Auktionshaus{/}
+UI_20150317_000357	{@st43}{s24}Auktionshaus{/}
 UI_20150317_000358	{@st42b}Filter{/}
 UI_20150317_000359	{@st42b}Type{/}
 UI_20150317_000360	{@st42b}Ben. Lv{/}

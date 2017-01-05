@@ -1386,7 +1386,7 @@ SKILL_20150317_001385	Cooldown: -#{CaptionRatio} Sekunden#{nl}Verbraucht #{Spend
 SKILL_20150317_001386	Sneak Hit
 SKILL_20150317_001387	Feint
 SKILL_20150317_001388	Brandish Bogen
-SKILL_20150317_001389	Pfeil fight...
+SKILL_20150317_001389	Pfeil Kampf...
 SKILL_20150317_001390	{#CC3300}{ol}[Stich]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Target 20% damage to the defending leather {nl} sheeting defensive target to -20% damage every 1 sec {nl} + #{CaptionRatio}# bleed damage sustained six Sekunden {nl} {nl} consumption bleeding SP #{SpendSP}#
 SKILL_20150317_001391	Burrow
 SKILL_20150317_001392	Broadhead
@@ -1394,7 +1394,7 @@ SKILL_20150317_001393	Shoots an arrow that causes bleeding effect.
 SKILL_20150317_001394	Bodkin Point
 SKILL_20150317_001395	Shoots an arrow that decreases enemy defense and removes shielding magic.
 SKILL_20150317_001396	{#CC3300}{ol}[Stich]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl}#{odds shield removal CaptionRatio}#% {nl} Rüstung reduced nach 30% to 70% chance {nl} consumption SP #{SpendSP}#
-SKILL_20150317_001397	Barbed Pfeil
+SKILL_20150317_001397	Barbed Arrow
 SKILL_20150317_001398	Shoots a barbed arrow. Hits an enemy multiple mal, depending on the enemy's armor type.
 SKILL_20150317_001399	Angriff rate #{SkillFactor}#
 SKILL_20150317_001400	Crossfire
@@ -2425,10 +2425,10 @@ SKILL_20150317_002424	Brandish Bogen: Knockback
 SKILL_20150317_002425	Erhöht the knockback distance of [Brandish Bogen] nach 1m pro{nl}Fähigkeits-Level.
 SKILL_20150317_002426	Unlock Chest: Movement Speed
 SKILL_20150317_002427	Movement speed increases nach 10% per Fähigkeits-Level for 5 Sekunden after opening a treasure chest with [Unlock Chest]
-SKILL_20150317_002428	Pfeil Crafting
+SKILL_20150317_002428	Pfeil Herstellung
 SKILL_20150317_002429	[Fletcher] arrow production
 SKILL_20150317_002430	Broadhead: Bleeding
-SKILL_20150317_002431	Duration of the [Bleed] inflicted nach [Broadhead] increases nach 2 Sekunden pro{nl}Fähigkeits-Level.
+SKILL_20150317_002431	Die Dauer der von [Bleed] verursachten [Broadhead] erhöht sich um 2 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150317_002432	Bodkin Point: Verringert Verteidigung
 SKILL_20150317_002433	[Verringert Verteidigung] of [Bodkin Point] is increased um 2% pro{nl}Fähigkeits-Level.
 SKILL_20150317_002434	Flu Flu: Crossfire
@@ -4002,8 +4002,8 @@ SKILL_20150414_004001	Enemy falls under [Massive Bleed] status when attack with 
 SKILL_20150414_004002	Magie Pfeil: Silence
 SKILL_20150414_004003	Enemies receiving [Magie Pfeil] fire attacks have chance of falling under [Silence]. Chance increase um 10% pro{nl}Fähigkeits-Level.
 SKILL_20150414_004004	Divine Machine Pfeil: Shock
-SKILL_20150414_004005	Enemies hit nach [Divine Machine Pfeil] are afflicted with [Shock] for 10 Sekunden.
-SKILL_20150414_004006	Revive: Duration
+SKILL_20150414_004005	Feinde, die von [Divine Machine Pfeil] getroffen werden, sind 10 Sekunden lang von [Shock] betroffen.
+SKILL_20150414_004006	Revive: Dauer
 SKILL_20150414_004007	Duration of [Revive] increase nach 10 Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150414_004008	Palm Schlag: Bleeding
 SKILL_20150414_004009	Enemy falls under [Bleed] for 8 Sekunden when attacked with [Palm Schlag]. Duration of [Bleed] incerases nach a Sekunden per level.
@@ -4013,7 +4013,7 @@ SKILL_20150414_004012	One Inch Punch: Silence
 SKILL_20150414_004013	Enemies hit nach [One Inch Punch] will be afflicted with [Silence] for 5 Sekunden.
 SKILL_20150414_004014	Arcane Energy: Zusätzlicher Schaden
 SKILL_20150414_004015	Enemies nearnach receive Heilig damage when using [Arcane Energy]. Schaden increases pro{nl}Fähigkeits-Level.
-SKILL_20150414_004016	Chortasmata: Duration
+SKILL_20150414_004016	Chortasmata: Dauer
 SKILL_20150414_004017	Duration of [Chortasmata] increases nach a Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20150414_004018	Indulgentia: Zusätzlicher Schaden
 SKILL_20150414_004019	Enemies receive additional damage amounting to 10% of character's magic damage pro Fähigkeits-Level, wenn attacked with [Indulgentia].
@@ -4021,7 +4021,7 @@ SKILL_20150414_004020	Discerning Evil: Erhöht Ziele
 SKILL_20150414_004021	Target of [Discerning] increase nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20150414_004022	Call of Deities: Fade
 SKILL_20150414_004023	Character is not threatened nach monster summoned with [Call of Deities]. (except pre-emptive attack types)
-SKILL_20150414_004024	Forecast: Duration
+SKILL_20150414_004024	Forecast: Dauer
 SKILL_20150414_004025	Duration of [Forecast] increases nach a Sekunden pro{nl}Fähigkeits-Level.
 SKILL_20150414_004026	Roost: Erhöht Range
 SKILL_20150414_004027	Range of maintaining perch in [Install Perch] increases nach 20 pro{nl}Fähigkeits-Level.
@@ -4814,10 +4814,10 @@ SKILL_20150717_004813	Enemies within the range of [Scan] have a chance to be aff
 SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage equal to [Fähigkeits-Level] every 2 Sekunden. Erhöht the damage pro{nl}Fähigkeits-Level.
 SKILL_20150717_004815	Inflicts the enemy with [Massive Bleeding] for 10 Sekunden when attacked with [Backstab] while affected nach bleeding. Erhöht the duration nach 1 Sekunde pro{nl}Fähigkeits-Level. Massive Bleeding damage is proportional to the character's STR and physical attack.
 SKILL_20150717_004816	Erhöht the range of [Lachrymator] to 75.
-SKILL_20150717_004817	Further decreases an enemy's physische Verteidigung nach 1% pro Fähigkeits-Level, wenn attacked nach [Bodkin Point].
+SKILL_20150717_004817	Verringert die feindliche physische Verteidigung auf 1% pro Fähigkeits-Level, wenn er von [Bodkin Point] angegriffen wird.
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 Sekunden. Burn damage is proportional to the character's physical attack.
-SKILL_20150717_004819	Enemies hit nach the flames [Magie Pfeil] will be afflicted with [Silence] nach a certain chance. Erhöht the chance um 10% pro{nl}Fähigkeits-Level.
-SKILL_20150717_004820	Allows you to create arrows used for Fletcher skills. Pfeil Crafting is available while in Rest Mode.
+SKILL_20150717_004819	Feinde, die von der Flamme [Magie Pfeil] getroffen werden, haben eine gewisse Chance von [Schweigen] betroffen zu sein. Erhöht die Chance um 10% pro{nl}Fähigkeits-Level.
+SKILL_20150717_004820	Ermöglicht das Erstellen von Pfeilen, die für Fletcher-Fähigkeiten verwendet werden. Pfeil Crafting ist im Ruhemodus verfügbar.
 SKILL_20150717_004821	Verteidigung decrease effect of [Deprotected Zone] increases nach 1 pro{nl}Fähigkeits-Level.
 SKILL_20150717_004822	Erhöht the chance of stun nach 2% pro Fähigkeits-Level, wenn using a basic attack on enemies with a [Blunt] Waffentype.
 SKILL_20150717_004823	Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Verteidigung]. [Weakened Verteidigung] can be stacked up to 10 mal. 
@@ -5007,20 +5007,20 @@ SKILL_20150803_005006	Attribut-Schaden: #{CaptionRatio2}#%{nl}Zusätzlicher Scha
 SKILL_20150803_005007	Able to use the monster's skill{nl}Maximum Dauer: #{CaptionTime}# Sekunden
 SKILL_20150803_005008	Effigy Verbessern
 SKILL_20150803_005009	Erhöht the attack bonus of Effigy
-SKILL_20150803_005010	Erhöht den zusätzlichen Schadenswirkung von [Concentrate] um 2 pro{nl}Fähigkeits-Level.
+SKILL_20150803_005010	Erhöht den zusätzlichen Schadenswirkung von [Concentrate] um 2 pro Fähigkeits-Level.
 SKILL_20150803_005011	Erhöht your evasion and magic defense nach 5% pro Fähigkeits-Level, wenn using [Stabbing].
 SKILL_20150803_005012	Enemies hit nach [Stich] have a 2% chance per Fähigkeits-Level to be afflicted with [Bleeding] for 6 Sekunden. Bleeding damage is proportional to the character's physical attack. 
-SKILL_20150803_005013	Erhöht the physical attack increase effect of [Warcry] um 3 pro{nl}Fähigkeits-Level. (This attribute applies after an enemy's defense is reduced.)
-SKILL_20150803_005014	Erhöht the attack increase effect of [Swell Left Arm] um 3 pro{nl}Fähigkeits-Level.
+SKILL_20150803_005013	Erhöht the physical attack increase effect of [Warcry] um 3 pro Fähigkeits-Level. (This attribute applies after an enemy's defense is reduced.)
+SKILL_20150803_005014	Erhöht the attack increase effect of [Swell Left Arm] um 3 pro Fähigkeits-Level.
 SKILL_20150803_005015	Erhöht the defense and attack increase effect of [Swell Right Arm] um 3 pro{nl}Fähigkeits-Level.
 SKILL_20150803_005016	Erhöht the INT increase effect of [Swell Brain] um 2 pro{nl}Fähigkeits-Level.
-SKILL_20150803_005017	Erhöht die Physische Schadenswirkung von [Kneeling Shot] um 1 pro{nl}Fähigkeits-Level.
-SKILL_20150803_005018	Erhöht den zusätzlichen Schadenswirkung von [Steady Aim] um 2 pro{nl}Fähigkeits-Level.
+SKILL_20150803_005017	Erhöht die Physische Schadenswirkung von [Kneeling Shot] um 1 pro Fähigkeits-Level.
+SKILL_20150803_005018	Erhöht den zusätzlichen Schadenswirkung von [Steady Aim] um 2 pro Fähigkeits-Level.
 SKILL_20150803_005019	Adds the defense decrease effect of [Deprotected Zone] um 1 pro{nl}Fähigkeits-Level. (This attribute applies after the stack calculation.)
 SKILL_20150803_005020	Erhöht the HP recovery of [Aukuras] um 1.5 pro{nl}Fähigkeits-Level.
-SKILL_20150803_005021	Erhöht den zusätzlichen Schadenswirkung von [Blessing] um 2 pro{nl}Fähigkeits-Level.
-SKILL_20150803_005022	Erhöht the chance of obtaining materials for [Carve] um 1% pro{nl}Fähigkeits-Level.
-SKILL_20150803_005023	Erhöht the HP recovery effect of [Restoration] um 2 pro{nl}Fähigkeits-Level.
+SKILL_20150803_005021	Erhöht den zusätzlichen Schadenswirkung von [Blessing] um 2 pro Fähigkeits-Level.
+SKILL_20150803_005022	Erhöht the chance of obtaining materials for [Carve] um 1% pro Fähigkeits-Level.
+SKILL_20150803_005023	Erhöht the HP recovery effect of [Restoration] um 2 pro Fähigkeits-Level.
 SKILL_20150803_005024	Lv3 Blessing erforderlich
 SKILL_20150803_005025	Lv3 Steady Aim erforderlich
 SKILL_20150803_005026	Lv3 Concentrate erforderlich
@@ -6333,7 +6333,7 @@ SKILL_20160310_006332	Swash Buckling: Repel
 SKILL_20160310_006333	Gravity Pole: Verbessern
 SKILL_20160310_006334	Erhöht die Schadensausteilung an einem{nl}Feind mit [Gravity Pole] um 1% pro{nl}Fähigkeits-Level.
 SKILL_20160310_006335	Überträgt den Effekt von [Swift Step] auf{nl}Gruppenmitglieder. (Der Effekt wird nur auf Gruppenmitglieder übertragen wenn die Fähigkeit auf AN ist.)
-SKILL_20160310_006336	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 Sekunden. Burn damage is proportional to the character's physical attack.
+SKILL_20160310_006336	[Crossfire] erhält eine 10% ige Chance pro Level, [Burn] auf Ziele für 6 Sekunden zuzufügen. Verbrennungsschaden ist proportional zum physischen Angriff des Charakters.
 SKILL_20160315_006337	Aim at an enemy in a stable posture. Erhöht Missile property attacks for one mal.
 SKILL_20160317_006338	Angriff: +#{CaptionRatio}#%{nl}Zusäzlicher Attribut-Schaden: #{CaptionRatio2}#{nl}Dauer: 10 Sekunden
 SKILL_20160317_006339	- Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Can only trade up to 30 mal{nl} - 1 Extra-Eintritt für Missionen und Dungeons

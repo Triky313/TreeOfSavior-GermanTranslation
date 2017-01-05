@@ -2295,24 +2295,24 @@ ITEM_20150317_002294	Panto Speerhead
 ITEM_20150317_002295	A Panto insignia is engraved onto the spear blade. {nl}Obtained from Panto Speerthrowers. 
 ITEM_20150317_002296	Phylogistone 
 ITEM_20150317_002297	A mysterious stone infused with the power of fire. {nl}Obtained from Drakes. 
-ITEM_20150317_002298	Sulfur 
+ITEM_20150317_002298	Schwefel
 ITEM_20150317_002299	A mineral that burns blue. 
 ITEM_20150317_002300	Cinnabar 
 ITEM_20150317_002301	A red ore, the principal ingredient of Mercury. 
-ITEM_20150317_002302	Bat Wing 
+ITEM_20150317_002302	Fledermausflügel
 ITEM_20150317_002303	A very frequently used ingredient for Alchimie. 
 ITEM_20150317_002304	Glass Fragment 
 ITEM_20150317_002305	A broken glass fragment of no use. {nl}Obtained from Flasks. 
-ITEM_20150317_002306	Oak Wood
-ITEM_20150317_002307	An unprocessed log of wood. 
-ITEM_20150317_002308	Ash Wood 
-ITEM_20150317_002309	Pine Wood
-ITEM_20150317_002310	Cedar Wood 
-ITEM_20150317_002311	Oak Lumber 
-ITEM_20150317_002312	Processed lumber used as a material for crafting. 
-ITEM_20150317_002313	Ash Lumber 
-ITEM_20150317_002314	Pine Lumber 
-ITEM_20150317_002315	Cedar Lumber 
+ITEM_20150317_002306	Eichenholz
+ITEM_20150317_002307	Ein unverarbeiteter Holzstamm.
+ITEM_20150317_002308	Ascheholz
+ITEM_20150317_002309	Kieferholz
+ITEM_20150317_002310	Zederholz 
+ITEM_20150317_002311	Eichenbauholz
+ITEM_20150317_002312	Verarbeitetes Holz als Material für das Handwerk zu verwenden.
+ITEM_20150317_002313	Aschebauholz
+ITEM_20150317_002314	Kieferbauholz 
+ITEM_20150317_002315	Zederbauholz 
 ITEM_20150317_002316	Coliflower Stem 
 ITEM_20150317_002317	Very difficult to process due to abundance of thorns on the stem. {nl}Obtained from Coliflowers. 
 ITEM_20150317_002318	Altered Sauga Core 
@@ -4630,8 +4630,8 @@ ITEM_20150414_004629	White Bread
 ITEM_20150414_004630	A soft, white bread. It tastes better if jam is spread on it. 
 ITEM_20150414_004631	Lettuce 
 ITEM_20150414_004632	A vegetable with a crunchy texture. 
-ITEM_20150414_004633	Milk 
-ITEM_20150414_004634	Fresh and refreshing milk. 
+ITEM_20150414_004633	Milch 
+ITEM_20150414_004634	Frische und erfrischende Milch.
 ITEM_20150414_004635	Infrorocktor Shell 
 ITEM_20150414_004636	A sturdy shell with a hexagonal pattern on it. {nl}Obtained from Infrorocktors. 
 ITEM_20150414_004637	Yekubite Antennae 
@@ -10972,126 +10972,126 @@ ITEM_20160811_010971	Golden Chest
 ITEM_20160811_010972	A chest containing random items.{nl}Open this chest to obtain a random item.
 ITEM_20160811_010973	Lightweight Anvil
 ITEM_20160811_010974	Can only be used when an item has not been enhanced and does not consume silver. Right-click to use.
-ITEM_20160811_010975	[Karten Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden
-ITEM_20160811_010976	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% chance of using Lv1 Pain Barrier upon being hit
-ITEM_20160811_010977	[Karten Karten Ausrüstungseffekt] Defense against [Strike] attacks +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Gorgon when using Summoning
-ITEM_20160811_010978	[Karten Karten Ausrüstungseffekt] Physische Verteidigung +[★]% für 10 Sekunden wenn irgendein Trank von Type HP verwendet wird
-ITEM_20160811_010979	[Karten Karten Ausrüstungseffekt] 10% Chance Feuer-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
-ITEM_20160811_010980	[Karten Karten Ausrüstungseffekt] Physischer Angriff (+[★]%) for 10 seconds when using any type of SP potion
-ITEM_20160811_010981	[Karten Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Fire property attacks
-ITEM_20160811_010982	[Karten Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Netherbovine when using Summoning
-ITEM_20160811_010983	[Karten Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Necroventer when using Summoning
-ITEM_20160811_010984	[Karten Karten Ausrüstungseffekt] Kritischer Angriff +[★]
-ITEM_20160811_010985	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% Zusätzlichen Schaden an Mutanten-Monstern
-ITEM_20160811_010986	[Karten Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Poison property attacks
-ITEM_20160811_010987	[Karten Karten Ausrüstungseffekt] Stamina Potion Effects +[★]%
-ITEM_20160811_010988	[Karten Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Ice property attacks
-ITEM_20160811_010989	[Karten Karten Ausrüstungseffekt] [Maximum ★]% Erholung 10% SP after defeating Earth property monsters
-ITEM_20160811_010990	[Karten Karten Ausrüstungseffekt] Magical Amplification +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Rexipher when using Summoning
-ITEM_20160811_010991	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Medium-type monsters{nl}[Poison Pot Equip Effect] Activates a Reaverpede skill when using Poison Pot
-ITEM_20160811_010992	[Karten Karten Ausrüstungseffekt] SP Potion Type Effects +[★%]{nl}[Grimoire Ausrüstunngs Effekt] Summons Rikaus when using Summoning
-ITEM_20160811_010993	[Karten Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Lightning property attacks
-ITEM_20160811_010994	[Karten Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
-ITEM_20160811_010995	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of dealing splash damage to nearby monsters after defeating Mutant-type monsters
+ITEM_20160811_010975	[Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden
+ITEM_20160811_010976	[Karten Ausrüstungseffekt] [Anzahl Karten]% chance of using Lv1 Pain Barrier upon being hit
+ITEM_20160811_010977	[Karten Ausrüstungseffekt] Defense against [Strike] attacks +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Gorgon wenn Beschworen wird
+ITEM_20160811_010978	[Karten Ausrüstungseffekt] Physische Verteidigung +[★]% für 10 Sekunden wenn irgendein Trank von Type HP verwendet wird
+ITEM_20160811_010979	[Karten Ausrüstungseffekt] 10% Chance Feuer-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
+ITEM_20160811_010980	[Karten Ausrüstungseffekt] Physischer Angriff (+[★]%) for 10 seconds when using any type of SP potion
+ITEM_20160811_010981	[Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Fire property attacks
+ITEM_20160811_010982	[Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Netherbovine wenn Beschworen wird
+ITEM_20160811_010983	[Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Necroventer wenn Beschworen wird
+ITEM_20160811_010984	[Karten Ausrüstungseffekt] Kritischer Angriff +[★]
+ITEM_20160811_010985	[Karten Ausrüstungseffekt] [Anzahl Karten]% Zusätzlichen Schaden an Mutanten-Monstern
+ITEM_20160811_010986	[Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Poison property attacks
+ITEM_20160811_010987	[Karten Ausrüstungseffekt] Stamina Potion Effects +[★]%
+ITEM_20160811_010988	[Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Ice property attacks
+ITEM_20160811_010989	[Karten Ausrüstungseffekt] [Maximum ★]% Erholung 10% SP after defeating Earth property monsters
+ITEM_20160811_010990	[Karten Ausrüstungseffekt] Magical Amplification +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Rexipher wenn Beschworen wird
+ITEM_20160811_010991	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Medium-type monsters{nl}[Poison Pot Equip Effect] Activates a Reaverpede skill when using Poison Pot
+ITEM_20160811_010992	[Karten Ausrüstungseffekt] SP Potion Type Effects +[★%]{nl}[Grimoire Ausrüstunngs Effekt] Summons Rikaus wenn Beschworen wird
+ITEM_20160811_010993	[Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when using Lightning property attacks
+ITEM_20160811_010994	[Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
+ITEM_20160811_010995	[Karten Ausrüstungseffekt] [Maximum ★]% chance of dealing splash damage to nearby monsters after defeating Mutant-type monsters
 ITEM_20160811_010996	Manticen Card
-ITEM_20160811_010997	[Karten Karten Ausrüstungseffekt] Bewegungsgeschwindigkeit (+[Maximum ★/2]) for 5 seconds after using Stamina potions{nl}[Poison Pot Equip Effect] Activates a Manticen skill when using Poison Pot
-ITEM_20160811_010998	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of blinding nearby Devil-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Mummyghast when using Summoning
-ITEM_20160811_010999	[Karten Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
-ITEM_20160811_011000	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Ice property monsters{nl}[Poison Pot Equip Effect] Activates a Merge skill when using Poison Pot
-ITEM_20160811_011001	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Flying-type monsters{nl}[Poison Pot Equip Effect] Activates a Mothstem skill when using Poison Pot
-ITEM_20160811_011002	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Devil-type monsters
-ITEM_20160811_011003	[Karten Karten Ausrüstungseffekt] Earth Property Resistance +[★]
-ITEM_20160811_011004	[Karten Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden
-ITEM_20160811_011005	[Karten Karten Ausrüstungseffekt] Blocken +[★]
-ITEM_20160811_011006	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% chance of causing [Stun] for 3 seconds when using physical attacks{nl}[Grimoire Ausrüstunngs Effekt] Summons Minotaur when using Summoning
-ITEM_20160811_011007	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Small-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Mirtis when using Summoning
-ITEM_20160811_011008	[Karten Karten Ausrüstungseffekt] 10% chance to increase Lightning property attack by +[★] for 7 seconds when attacking Medium-type monsters
-ITEM_20160811_011009	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Earth property monsters
-ITEM_20160811_011010	[Karten Karten Ausrüstungseffekt] Evasion +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Velorchard when using Summoning
-ITEM_20160811_011011	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Beast-type monsters
-ITEM_20160811_011012	[Karten Karten Ausrüstungseffekt] 10% Chance Feuer-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
-ITEM_20160811_011013	[Karten Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
-ITEM_20160811_011014	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 10 Poison (Wugushi) after defeating Insect-type monsters {nl}[Poison Pot Equip Effect] Activates a Biteregina skill when using Poison Pot
-ITEM_20160811_011015	[Karten Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Cyclops when using Summoning
-ITEM_20160811_011016	[Karten Karten Ausrüstungseffekt] Eis-Eigenschaft Widerstand +[★]
-ITEM_20160811_011017	[Karten Karten Ausrüstungseffekt] [Maximum ★]% Chance Erholung 10% SP after defeating Fire property monsters
-ITEM_20160811_011018	[Karten Karten Ausrüstungseffekt] [Silence] State Resistance +[★2]%{nl}[Grimoire Ausrüstunngs Effekt] Summons Shadowgaler when using Summoning
-ITEM_20160811_011019	[Karten Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage taken when hit by Earth property attacks
-ITEM_20160811_011020	[Karten Karten Ausrüstungseffekt] Lightning Property Resistance +[★]
-ITEM_20160811_011021	[Karten Karten Ausrüstungseffekt] [Pierce] Verteidigung +[★]
-ITEM_20160811_011022	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Darkness property monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Specter Monarch when using Summoning
-ITEM_20160811_011023	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Poison property monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Throneweaver when using Summoning
-ITEM_20160811_011024	[Karten Karten Ausrüstungseffekt] 10% chance to increase Fire property attack by +[★] for 7 seconds when attacking Large-type monsters
-ITEM_20160811_011025	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Fire property monsters
-ITEM_20160811_011026	[Karten Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when hit by Darkness property attacks{nl}[Grimoire Ausrüstunngs Effekt] Summons Abomination when using Summoning
-ITEM_20160811_011027	[Karten Karten Ausrüstungseffekt] Darkness Property Resistance +[★{nl}[Grimoire Ausrüstunngs Effekt] Summons Unknocker when using Summoning
-ITEM_20160811_011028	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Lightning property monsters
-ITEM_20160811_011029	[Karten Karten Ausrüstungseffekt] DEX +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Ellaganos when using Summoning
-ITEM_20160811_011030	[Karten Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
-ITEM_20160811_011031	[Karten Karten Ausrüstungseffekt] Heilig-Eigenschaft Widerstand +[★]
-ITEM_20160811_011032	[Karten Karten Ausrüstungseffekt] [★%] chance of attacks being registered as Rear Attacks
-ITEM_20160811_011033	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Darkness property monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Unicorn when using Summoning
-ITEM_20160811_011034	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Plant-type Monsters
-ITEM_20160811_011035	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 1 Firewood after defeating Plant-type monsters
-ITEM_20160811_011036	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 1 Wooden Piece after defeating Plant-type monsters
-ITEM_20160811_011037	[Karten Karten Ausrüstungseffekt] Magic Attack +[★]% for 4 seconds after using SP potions{nl}[Grimoire Ausrüstunngs Effekt] Summons Chapparition using Summoning
-ITEM_20160811_011038	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Insect-type Monsters{nl}[Poison Pot Equip Effect] Activates a Chafer skill when using Poison Pot
-ITEM_20160811_011039	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Ice property monsters{nl}[Poison Pot Equip Effect] Activates a Carapace skill when using Poison Pot
-ITEM_20160811_011040	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Large-type monsters
-ITEM_20160811_011041	[Karten Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
-ITEM_20160811_011042	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Poison property monsters
-ITEM_20160811_011043	[Karten Karten Ausrüstungseffekt] Block Penetration +[★]{nl}[Poison Pot Equip Effect] Activates a Krimeleech skill when using Poison Pot
-ITEM_20160811_011044	[Karten Karten Ausrüstungseffekt] Tragegewicht +[Maximum ★]%
-ITEM_20160811_011045	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Boss-type monsters {nl}[Grimoire Ausrüstunngs Effekt] Summons Tomb Lord when using Summoning
-ITEM_20160811_011046	[Karten Karten Ausrüstungseffekt] Gift-Eigenschaft Widerstand +[★]
-ITEM_20160811_011047	[Karten Karten Ausrüstungseffekt] Feuer-Eigenschaft Widerstand +[★]
-ITEM_20160811_011048	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Lightning property monsters {nl}[Grimoire Ausrüstunngs Effekt] Summons Harpeia when using Summoning
-ITEM_20160811_011049	[Karten Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden{nl}[Poison Pot Equip Effect] Activates a Honeypin skill when using Poison Pot
-ITEM_20160811_011050	[Karten Karten Ausrüstungseffekt] Magic Attack +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Helgasercle when using Summoning
-ITEM_20160811_011051	[Karten Karten Ausrüstungseffekt] Maximum SP +[★*15]{nl}[Grimoire Ausrüstunngs Effekt] Summons Specter of Deceit when using Summoning
-ITEM_20160811_011052	[Karten Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden
-ITEM_20160811_011053	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 3 corpse parts (Necromancer) after defeating Beast-type monsters
-ITEM_20160811_011054	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Stationary-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Corrupted when using Summoning (Unable to move)
-ITEM_20160811_011055	[Karten Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
-ITEM_20160811_011056	[Karten Karten Ausrüstungseffekt] 10% Chance Blitz-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden
-ITEM_20160811_011057	[Karten Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Sparnasman when using Summoning
-ITEM_20160811_011058	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 1% SP when you are attacked by Medium-type monsters {nl}[Grimoire Ausrüstunngs Effekt] Summons Cerberus when using Summoning
-ITEM_20160811_011059	[Karten Karten Ausrüstungseffekt] [Sleep] State Resistance +[★2]%
-ITEM_20160811_011060	[Karten Karten Ausrüstungseffekt] HP, SP Erholung +[Anzahl Karten]%
-ITEM_20160811_011061	[Karten Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
-ITEM_20160811_011062	[Karten Karten Ausrüstungseffekt] Physische Verteidigung +[★]
-ITEM_20160811_011063	[Karten Karten Ausrüstungseffekt] Accuracy +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Naktis when using Summoning
-ITEM_20160811_011064	[Karten Karten Ausrüstungseffekt] SPR +[★]
-ITEM_20160811_011065	[Karten Karten Ausrüstungseffekt] 5% chance of being resurrected with [★]% HP when becoming incapable of combat{nl}[Grimoire Ausrüstunngs Effekt] Summons Dullahan when using Summoning
-ITEM_20160811_011066	[Karten Karten Ausrüstungseffekt] Blind State Resistance +[★/2]%{nl}[Grimoire Ausrüstunngs Effekt] Summons Riteris when using Summoning
-ITEM_20160811_011067	[Karten Karten Ausrüstungseffekt] Magic Defense +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Nuaele when using Summoning
-ITEM_20160811_011068	[Karten Karten Ausrüstungseffekt] HP Potion Effects +[★]%{nl}[Poison Pot Equip Effect] Activates a Neop skill when using Poison Pot
-ITEM_20160811_011069	[Karten Karten Ausrüstungseffekt] CON +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Blut when using Summoning
-ITEM_20160811_011070	[Karten Karten Ausrüstungseffekt] [Slash] Verteidigung +[★]
-ITEM_20160811_011071	[Karten Karten Ausrüstungseffekt] Bleeding State Resistance +[★/2]%
-ITEM_20160811_011072	[Karten Karten Ausrüstungseffekt] Critical Resistance +[★]{nl}[Poison Pot Equip Effect] Activates a Basilisk skill when using Poison Pot
-ITEM_20160811_011073	[Karten Karten Ausrüstungseffekt] 10% Chance Blitz-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
-ITEM_20160811_011074	[Karten Karten Ausrüstungseffekt] Maximum Secondary Physical Attack +[★]{nl}[Poison Pot Equip Effect] Activates a Plokste skill when using Poison Pot
-ITEM_20160811_011075	[Karten Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden
-ITEM_20160811_011076	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 0.5% SP when hit by Small-type monsters{nl}[Poison Pot Equip Effect] Activates a Velnewt skill when using Poison Pot
-ITEM_20160811_011077	[Karten Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Poison Pot Equip Effect] Activates a Velpede skill when using Poison Pot
-ITEM_20160811_011078	[Karten Karten Ausrüstungseffekt] -[Anzahl Karten] seconds to SP recovery duration {nl}[Grimoire Ausrüstunngs Effekt] Summons Pyroego when using Summoning (Unable to move)
-ITEM_20160811_011079	[Karten Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when hit by Holy property attacks
-ITEM_20160811_011080	[Karten Karten Ausrüstungseffekt] 10% Chance Blitz-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Lithorex when using Summoning
-ITEM_20160811_011081	[Karten Karten Ausrüstungseffekt] Missile Property Resistance +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Nuodai when using Summoning (Unable to move)
-ITEM_20160811_011082	[Karten Karten Ausrüstungseffekt] AoE Ratio +[Anzahl Karten]{nl}[Grimoire Ausrüstunngs Effekt] Summons Centaurus when using Summoning
-ITEM_20160811_011083	[Karten Karten Ausrüstungseffekt] Maximale HP +[★*120]
-ITEM_20160811_011084	[Karten Karten Ausrüstungseffekt] Magic Defense +[★]% for 10 seconds after using HP potions{nl}[Grimoire Ausrüstunngs Effekt] Summons Progola when using Summoning
-ITEM_20160811_011085	[Karten Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Marionette when using Summoning (Unable to move)
-ITEM_20160811_011086	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 2% SP when hit by Large-type monsters{nl}[Poison Pot Equip Effect] Activates a Canceril skill when using Poison Pot
-ITEM_20160811_011087	[Karten Karten Ausrüstungseffekt] [Stun] State Resistance +[★/2]%
-ITEM_20160811_011088	[Karten Karten Ausrüstungseffekt] Maximum Physical Attack +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Master Genie when using Summoning. (Unable to move)
-ITEM_20160811_011089	[Karten Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Merregina when using Summoning
-ITEM_20160811_011090	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inflicting [Silence] for 5 seconds when attacking with Missile-type attacks{nl}[Grimoire Ausrüstunngs Effekt] Summons Templeshooter when using Summoning
-ITEM_20160811_011091	[Karten Karten Ausrüstungseffekt] 10% Chance Feuer-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Fire Lord when using Summoning
-ITEM_20160811_011092	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inducing [Sleep] for 4 seconds when attacking with magic attacks
-ITEM_20160811_011093	[Karten Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 3% SP when attacking Boss-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Deathweaver when using Summoning
-ITEM_20160811_011094	[Karten Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Flammidus when using Summoning
+ITEM_20160811_010997	[Karten Ausrüstungseffekt] Bewegungsgeschwindigkeit (+[Maximum ★/2]) for 5 seconds after using Stamina potions{nl}[Poison Pot Equip Effect] Activates a Manticen skill when using Poison Pot
+ITEM_20160811_010998	[Karten Ausrüstungseffekt] [Maximum ★]% chance of blinding nearby Devil-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Mummyghast wenn Beschworen wird
+ITEM_20160811_010999	[Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
+ITEM_20160811_011000	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Ice property monsters{nl}[Poison Pot Equip Effect] Activates a Merge skill when using Poison Pot
+ITEM_20160811_011001	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Flying-type monsters{nl}[Poison Pot Equip Effect] Activates a Mothstem skill when using Poison Pot
+ITEM_20160811_011002	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Devil-type monsters
+ITEM_20160811_011003	[Karten Ausrüstungseffekt] Earth Property Resistance +[★]
+ITEM_20160811_011004	[Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden
+ITEM_20160811_011005	[Karten Ausrüstungseffekt] Blocken +[★]
+ITEM_20160811_011006	[Karten Ausrüstungseffekt] [Anzahl Karten]% chance of causing [Stun] for 3 seconds when using physical attacks{nl}[Grimoire Ausrüstunngs Effekt] Summons Minotaur wenn Beschworen wird
+ITEM_20160811_011007	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Small-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Mirtis wenn Beschworen wird
+ITEM_20160811_011008	[Karten Ausrüstungseffekt] 10% chance to increase Lightning property attack by +[★] for 7 seconds when attacking Medium-type monsters
+ITEM_20160811_011009	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Earth property monsters
+ITEM_20160811_011010	[Karten Ausrüstungseffekt] Evasion +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Velorchard wenn Beschworen wird
+ITEM_20160811_011011	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Beast-type monsters
+ITEM_20160811_011012	[Karten Ausrüstungseffekt] 10% Chance Feuer-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
+ITEM_20160811_011013	[Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
+ITEM_20160811_011014	[Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 10 Poison (Wugushi) after defeating Insect-type monsters {nl}[Poison Pot Equip Effect] Activates a Biteregina skill when using Poison Pot
+ITEM_20160811_011015	[Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Cyclops wenn Beschworen wird
+ITEM_20160811_011016	[Karten Ausrüstungseffekt] Eis-Eigenschaft Widerstand +[★]
+ITEM_20160811_011017	[Karten Ausrüstungseffekt] [Maximum ★]% Chance Erholung 10% SP after defeating Fire property monsters
+ITEM_20160811_011018	[Karten Ausrüstungseffekt] [Silence] State Resistance +[★2]%{nl}[Grimoire Ausrüstunngs Effekt] Summons Shadowgaler wenn Beschworen wird
+ITEM_20160811_011019	[Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage taken when hit by Earth property attacks
+ITEM_20160811_011020	[Karten Ausrüstungseffekt] Lightning Property Resistance +[★]
+ITEM_20160811_011021	[Karten Ausrüstungseffekt] [Pierce] Verteidigung +[★]
+ITEM_20160811_011022	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Darkness property monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Specter Monarch wenn Beschworen wird
+ITEM_20160811_011023	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Poison property monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Throneweaver wenn Beschworen wird
+ITEM_20160811_011024	[Karten Ausrüstungseffekt] 10% chance to increase Fire property attack by +[★] for 7 seconds when attacking Large-type monsters
+ITEM_20160811_011025	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Fire property monsters
+ITEM_20160811_011026	[Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when hit by Darkness property attacks{nl}[Grimoire Ausrüstunngs Effekt] Summons Abomination wenn Beschworen wird
+ITEM_20160811_011027	[Karten Ausrüstungseffekt] Darkness Property Resistance +[★{nl}[Grimoire Ausrüstunngs Effekt] Summons Unknocker wenn Beschworen wird
+ITEM_20160811_011028	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Lightning property monsters
+ITEM_20160811_011029	[Karten Ausrüstungseffekt] DEX +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Ellaganos wenn Beschworen wird
+ITEM_20160811_011030	[Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
+ITEM_20160811_011031	[Karten Ausrüstungseffekt] Heilig-Eigenschaft Widerstand +[★]
+ITEM_20160811_011032	[Karten Ausrüstungseffekt] [★%] chance of attacks being registered as Rear Attacks
+ITEM_20160811_011033	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Darkness property monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Unicorn wenn Beschworen wird
+ITEM_20160811_011034	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Plant-type Monsters
+ITEM_20160811_011035	[Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 1 Firewood after defeating Plant-type monsters
+ITEM_20160811_011036	[Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 1 Wooden Piece after defeating Plant-type monsters
+ITEM_20160811_011037	[Karten Ausrüstungseffekt] Magic Attack +[★]% for 4 seconds after using SP potions{nl}[Grimoire Ausrüstunngs Effekt] Summons Chapparition using Summoning
+ITEM_20160811_011038	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Insect-type Monsters{nl}[Poison Pot Equip Effect] Activates a Chafer skill when using Poison Pot
+ITEM_20160811_011039	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Ice property monsters{nl}[Poison Pot Equip Effect] Activates a Carapace skill when using Poison Pot
+ITEM_20160811_011040	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Large-type monsters
+ITEM_20160811_011041	[Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
+ITEM_20160811_011042	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Poison property monsters
+ITEM_20160811_011043	[Karten Ausrüstungseffekt] Block Penetration +[★]{nl}[Poison Pot Equip Effect] Activates a Krimeleech skill when using Poison Pot
+ITEM_20160811_011044	[Karten Ausrüstungseffekt] Tragegewicht +[Maximum ★]%
+ITEM_20160811_011045	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Boss-type monsters {nl}[Grimoire Ausrüstunngs Effekt] Summons Tomb Lord wenn Beschworen wird
+ITEM_20160811_011046	[Karten Ausrüstungseffekt] Gift-Eigenschaft Widerstand +[★]
+ITEM_20160811_011047	[Karten Ausrüstungseffekt] Feuer-Eigenschaft Widerstand +[★]
+ITEM_20160811_011048	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 10% SP after defeating Lightning property monsters {nl}[Grimoire Ausrüstunngs Effekt] Summons Harpeia wenn Beschworen wird
+ITEM_20160811_011049	[Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden{nl}[Poison Pot Equip Effect] Activates a Honeypin skill when using Poison Pot
+ITEM_20160811_011050	[Karten Ausrüstungseffekt] Magic Attack +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Helgasercle wenn Beschworen wird
+ITEM_20160811_011051	[Karten Ausrüstungseffekt] Maximum SP +[★*15]{nl}[Grimoire Ausrüstunngs Effekt] Summons Specter of Deceit wenn Beschworen wird
+ITEM_20160811_011052	[Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden
+ITEM_20160811_011053	[Karten Ausrüstungseffekt] [Maximum ★]% chance of obtaining 3 corpse parts (Necromancer) after defeating Beast-type monsters
+ITEM_20160811_011054	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Stationary-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Corrupted wenn Beschworen wird (Unable to move)
+ITEM_20160811_011055	[Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Medium-Type Monster angegriffen werden
+ITEM_20160811_011056	[Karten Ausrüstungseffekt] 10% Chance Blitz-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden
+ITEM_20160811_011057	[Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Sparnasman wenn Beschworen wird
+ITEM_20160811_011058	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 1% SP when you are attacked by Medium-type monsters {nl}[Grimoire Ausrüstunngs Effekt] Summons Cerberus wenn Beschworen wird
+ITEM_20160811_011059	[Karten Ausrüstungseffekt] [Sleep] State Resistance +[★2]%
+ITEM_20160811_011060	[Karten Ausrüstungseffekt] HP, SP Erholung +[Anzahl Karten]%
+ITEM_20160811_011061	[Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
+ITEM_20160811_011062	[Karten Ausrüstungseffekt] Physische Verteidigung +[★]
+ITEM_20160811_011063	[Karten Ausrüstungseffekt] Accuracy +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Naktis wenn Beschworen wird
+ITEM_20160811_011064	[Karten Ausrüstungseffekt] SPR +[★]
+ITEM_20160811_011065	[Karten Ausrüstungseffekt] 5% chance of being resurrected with [★]% HP when becoming incapable of combat{nl}[Grimoire Ausrüstunngs Effekt] Summons Dullahan wenn Beschworen wird
+ITEM_20160811_011066	[Karten Ausrüstungseffekt] Blind State Resistance +[★/2]%{nl}[Grimoire Ausrüstunngs Effekt] Summons Riteris wenn Beschworen wird
+ITEM_20160811_011067	[Karten Ausrüstungseffekt] Magic Defense +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Nuaele wenn Beschworen wird
+ITEM_20160811_011068	[Karten Ausrüstungseffekt] HP Potion Effects +[★]%{nl}[Poison Pot Equip Effect] Activates a Neop skill when using Poison Pot
+ITEM_20160811_011069	[Karten Ausrüstungseffekt] CON +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Blut wenn Beschworen wird
+ITEM_20160811_011070	[Karten Ausrüstungseffekt] [Slash] Verteidigung +[★]
+ITEM_20160811_011071	[Karten Ausrüstungseffekt] Bleeding State Resistance +[★/2]%
+ITEM_20160811_011072	[Karten Ausrüstungseffekt] Critical Resistance +[★]{nl}[Poison Pot Equip Effect] Activates a Basilisk skill when using Poison Pot
+ITEM_20160811_011073	[Karten Ausrüstungseffekt] 10% Chance Blitz-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Small-Type Monster angegriffen werden
+ITEM_20160811_011074	[Karten Ausrüstungseffekt] Maximum Secondary Physical Attack +[★]{nl}[Poison Pot Equip Effect] Activates a Plokste skill when using Poison Pot
+ITEM_20160811_011075	[Karten Ausrüstungseffekt] 10% Chance Gift-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden
+ITEM_20160811_011076	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 0.5% SP when hit by Small-type monsters{nl}[Poison Pot Equip Effect] Activates a Velnewt skill when using Poison Pot
+ITEM_20160811_011077	[Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Poison Pot Equip Effect] Activates a Velpede skill when using Poison Pot
+ITEM_20160811_011078	[Karten Ausrüstungseffekt] -[Anzahl Karten] seconds to SP recovery duration {nl}[Grimoire Ausrüstunngs Effekt] Summons Pyroego wenn Beschworen wird (Unable to move)
+ITEM_20160811_011079	[Karten Ausrüstungseffekt] +[Maximum ★]% chance of reflecting 50% damage when hit by Holy property attacks
+ITEM_20160811_011080	[Karten Ausrüstungseffekt] 10% Chance Blitz-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Lithorex wenn Beschworen wird
+ITEM_20160811_011081	[Karten Ausrüstungseffekt] Missile Property Resistance +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Nuodai wenn Beschworen wird (Unable to move)
+ITEM_20160811_011082	[Karten Ausrüstungseffekt] AoE Ratio +[Anzahl Karten]{nl}[Grimoire Ausrüstunngs Effekt] Summons Centaurus wenn Beschworen wird
+ITEM_20160811_011083	[Karten Ausrüstungseffekt] Maximale HP +[★*120]
+ITEM_20160811_011084	[Karten Ausrüstungseffekt] Magic Defense +[★]% for 10 seconds after using HP potions{nl}[Grimoire Ausrüstunngs Effekt] Summons Progola wenn Beschworen wird
+ITEM_20160811_011085	[Karten Ausrüstungseffekt] 10% Chance Heilig-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Marionette wenn Beschworen wird (Unable to move)
+ITEM_20160811_011086	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 2% SP when hit by Large-type monsters{nl}[Poison Pot Equip Effect] Activates a Canceril skill when using Poison Pot
+ITEM_20160811_011087	[Karten Ausrüstungseffekt] [Stun] State Resistance +[★/2]%
+ITEM_20160811_011088	[Karten Ausrüstungseffekt] Maximum Physical Attack +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Master Genie wenn Beschworen wird. (Unable to move)
+ITEM_20160811_011089	[Karten Ausrüstungseffekt] 10% Chance Eis-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Merregina wenn Beschworen wird
+ITEM_20160811_011090	[Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inflicting [Silence] for 5 seconds when attacking with Missile-type attacks{nl}[Grimoire Ausrüstunngs Effekt] Summons Templeshooter wenn Beschworen wird
+ITEM_20160811_011091	[Karten Ausrüstungseffekt] 10% Chance Feuer-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Fire Lord wenn Beschworen wird
+ITEM_20160811_011092	[Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inducing [Sleep] for 4 seconds when attacking with magic attacks
+ITEM_20160811_011093	[Karten Ausrüstungseffekt] [Maximum ★]% chance of recovering 3% SP when attacking Boss-type monsters{nl}[Grimoire Ausrüstunngs Effekt] Summons Deathweaver wenn Beschworen wird
+ITEM_20160811_011094	[Karten Ausrüstungseffekt] 10% Chance Dunkel-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Boss-Type Monster angegriffen werden{nl}[Grimoire Ausrüstunngs Effekt] Summons Flammidus wenn Beschworen wird
 ITEM_20160811_011095	Lv2 Erd Fragment
 ITEM_20160811_011096	Obtainable from the Earth Tower Solmiki Area
 ITEM_20160811_011097	Neop Essence
@@ -13082,120 +13082,120 @@ ITEM_20161214_013080	Contains a random Monster Card.
 ITEM_20161214_013081	Cardboard Cube
 ITEM_20161214_013082	Contains a random recipe. Right-click to use.
 ITEM_20161214_013083	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use.{nl} Can be exchanged for medals in the Exchange Shop.
-ITEM_20161214_013084	[Karten Karten Ausrüstungseffekt] [Strike] Defense +[{img star_mark 20 20}]
-ITEM_20161214_013085	[Grimoire Ausrüstunngs Effekt] Summons Gorgon when using Summoning
-ITEM_20161214_013086	[Karten Karten Ausrüstungseffekt] 10% chance to increase Dark property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Medium-type monsters
-ITEM_20161214_013087	[Grimoire Ausrüstunngs Effekt] Summons Netherbovine when using Summoning
-ITEM_20161214_013088	[Karten Karten Ausrüstungseffekt] 10% chance to increase Dark property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Small-type monsters
-ITEM_20161214_013089	[Grimoire Ausrüstunngs Effekt] Summons Necroventer when using Summoning
-ITEM_20161214_013090	[Karten Karten Ausrüstungseffekt] Magic Enhanced +[{img star_mark 20 20}]
-ITEM_20161214_013091	[Grimoire Ausrüstunngs Effekt] Summons Rexipher when using Summoning
-ITEM_20161214_013092	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Medium-type monsters
+ITEM_20161214_013084	[Karten Ausrüstungseffekt] [Strike] Defense +[{img star_mark 20 20}]
+ITEM_20161214_013085	[Grimoire Ausrüstunngs Effekt] Ruft Gorgon wenn Beschworen wird
+ITEM_20161214_013086	[Karten Ausrüstungseffekt] 10% chance to increase Dark property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Medium-type monsters
+ITEM_20161214_013087	[Grimoire Ausrüstunngs Effekt] Ruft Netherbovine wenn Beschworen wird
+ITEM_20161214_013088	[Karten Ausrüstungseffekt] 10% chance to increase Dark property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Small-type monsters
+ITEM_20161214_013089	[Grimoire Ausrüstunngs Effekt] Ruft Necroventer wenn Beschworen wird
+ITEM_20161214_013090	[Karten Ausrüstungseffekt] Magic Enhanced +[{img star_mark 20 20}]
+ITEM_20161214_013091	[Grimoire Ausrüstunngs Effekt] Ruft Rexipher wenn Beschworen wird
+ITEM_20161214_013092	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Medium-type monsters
 ITEM_20161214_013093	[Poison Pot Equip Effect] Activates a Reaverpede skill when using Poison Pot
-ITEM_20161214_013094	[Karten Karten Ausrüstungseffekt] SP Potion Effects +[{img star_mark 20 20}]%
-ITEM_20161214_013095	[Grimoire Ausrüstunngs Effekt] Summons Rikaus when using Summoning
-ITEM_20161214_013096	[Karten Karten Ausrüstungseffekt] Bewegungsgeschwindigkeit (+[Maximum{img star_mark 20 20}/2]) for 5 seconds after using Stamina potions
+ITEM_20161214_013094	[Karten Ausrüstungseffekt] SP Potion Effects +[{img star_mark 20 20}]%
+ITEM_20161214_013095	[Grimoire Ausrüstunngs Effekt] Ruft Rikaus wenn Beschworen wird
+ITEM_20161214_013096	[Karten Ausrüstungseffekt] Bewegungsgeschwindigkeit (+[Maximum{img star_mark 20 20}/2]) for 5 seconds after using Stamina potions
 ITEM_20161214_013097	[Poison Pot Equip Effect] Activates a Manticen skill when using Poison Pot
-ITEM_20161214_013098	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance of granting [Blind] to nearby monsters after defeating Devil-type monsters
-ITEM_20161214_013099	[Grimoire Ausrüstunngs Effekt] Summons Mummyghast when using Summoning
-ITEM_20161214_013100	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Ice property monsters
+ITEM_20161214_013098	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance of granting [Blind] to nearby monsters after defeating Devil-type monsters
+ITEM_20161214_013099	[Grimoire Ausrüstunngs Effekt] Ruft Mummyghast wenn Beschworen wird
+ITEM_20161214_013100	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Ice property monsters
 ITEM_20161214_013101	[Poison Pot Equip Effect] Activates a Merge skill when using Poison Pot
-ITEM_20161214_013102	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Flying-type monsters
+ITEM_20161214_013102	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Flying-type monsters
 ITEM_20161214_013103	[Poison Pot Equip Effect] Activates a Mothstem skill when using Poison Pot
-ITEM_20161214_013104	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inducing [Stun] for 3 seconds when attacking with physical attacks
-ITEM_20161214_013105	[Grimoire Ausrüstunngs Effekt] Summons Minotaur when using Summoning
-ITEM_20161214_013106	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Small-type monsters
-ITEM_20161214_013107	[Grimoire Ausrüstunngs Effekt] Summons Mirtis when using Summoning
-ITEM_20161214_013108	[Karten Karten Ausrüstungseffekt] Evade +[{img star_mark 20 20}]
-ITEM_20161214_013109	[Grimoire Ausrüstunngs Effekt] Summons Velorchard when using Summoning
-ITEM_20161214_013110	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance of obtaining 10 poisons (Wugushi) after defeating Insect-type monsters
+ITEM_20161214_013104	[Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inducing [Stun] for 3 seconds when attacking with physical attacks
+ITEM_20161214_013105	[Grimoire Ausrüstunngs Effekt] Ruft Minotaur wenn Beschworen wird
+ITEM_20161214_013106	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Small-type monsters
+ITEM_20161214_013107	[Grimoire Ausrüstunngs Effekt] Ruft Mirtis wenn Beschworen wird
+ITEM_20161214_013108	[Karten Ausrüstungseffekt] Evade +[{img star_mark 20 20}]
+ITEM_20161214_013109	[Grimoire Ausrüstunngs Effekt] Ruft Velorchard wenn Beschworen wird
+ITEM_20161214_013110	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance of obtaining 10 poisons (Wugushi) after defeating Insect-type monsters
 ITEM_20161214_013111	[Poison Pot Equip Effect] Activates a Biteregina skill when using Poison Pot
-ITEM_20161214_013112	[Karten Karten Ausrüstungseffekt] 10% chance to increase Dark property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Large-type monsters
-ITEM_20161214_013113	[Grimoire Ausrüstunngs Effekt] Summons Cyclops when using Summoning
-ITEM_20161214_013114	[Karten Karten Ausrüstungseffekt] [Silence] State Resistance +[{img star_mark 20 20}]%
-ITEM_20161214_013115	[Grimoire Ausrüstunngs Effekt] Summons Shadowgaler when using Summoning
-ITEM_20161214_013116	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP nach besiegen von Monstern mit Dunkel Eigenschaft
+ITEM_20161214_013112	[Karten Ausrüstungseffekt] 10% chance to increase Dark property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Large-type monsters
+ITEM_20161214_013113	[Grimoire Ausrüstunngs Effekt] Ruft Cyclops wenn Beschworen wird
+ITEM_20161214_013114	[Karten Ausrüstungseffekt] [Silence] State Resistance +[{img star_mark 20 20}]%
+ITEM_20161214_013115	[Grimoire Ausrüstunngs Effekt] Ruft Shadowgaler wenn Beschworen wird
+ITEM_20161214_013116	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP nach besiegen von Monstern mit Dunkel Eigenschaft
 ITEM_20161214_013117	[Grimoire Ausrüstunngs Effekt] Beschwört Specter Monarch bei der Beschwörung
-ITEM_20161214_013118	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP after defeating Poison property monsters
-ITEM_20161214_013119	[Grimoire Ausrüstunngs Effekt] Summons Throneweaver when using Summoning
-ITEM_20161214_013120	[Karten Karten Ausrüstungseffekt] +[Maximum{img star_mark 20 20}]% chance of reflecting 50% damage taken when hit by Dark property attacks
-ITEM_20161214_013121	[Grimoire Ausrüstunngs Effekt] Summons Abomination when using Summoning
-ITEM_20161214_013122	[Karten Karten Ausrüstungseffekt] Dark Property Resistance +[{img star_mark 20 20}]
-ITEM_20161214_013123	[Grimoire Ausrüstunngs Effekt] Summons Unknocker when using Summoning
-ITEM_20161214_013124	[Karten Karten Ausrüstungseffekt] DEX +[{img star_mark 20 20}]
-ITEM_20161214_013125	[Grimoire Ausrüstunngs Effekt] Summons Ellaganos when using Summoning
-ITEM_20161214_013126	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Darkness property monsters
-ITEM_20161214_013127	[Grimoire Ausrüstunngs Effekt] Summons Unicorn when using Summoning
-ITEM_20161214_013128	[Karten Karten Ausrüstungseffekt] Magic Attack +[{img star_mark 20 20}]% for 4 seconds after using SP potions
-ITEM_20161214_013129	[Grimoire Ausrüstunngs Effekt] Summons Chapparition using Summoning
-ITEM_20161214_013130	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Insect-type Monsters
+ITEM_20161214_013118	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP after defeating Poison property monsters
+ITEM_20161214_013119	[Grimoire Ausrüstunngs Effekt] Ruft Throneweaver wenn Beschworen wird
+ITEM_20161214_013120	[Karten Ausrüstungseffekt] +[Maximum{img star_mark 20 20}]% chance of reflecting 50% damage taken when hit by Dark property attacks
+ITEM_20161214_013121	[Grimoire Ausrüstunngs Effekt] Ruft Abomination wenn Beschworen wird
+ITEM_20161214_013122	[Karten Ausrüstungseffekt] Dark Property Resistance +[{img star_mark 20 20}]
+ITEM_20161214_013123	[Grimoire Ausrüstunngs Effekt] Ruft Unknocker wenn Beschworen wird
+ITEM_20161214_013124	[Karten Ausrüstungseffekt] DEX +[{img star_mark 20 20}]
+ITEM_20161214_013125	[Grimoire Ausrüstunngs Effekt] Ruft Ellaganos wenn Beschworen wird
+ITEM_20161214_013126	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Darkness property monsters
+ITEM_20161214_013127	[Grimoire Ausrüstunngs Effekt] Ruft Unicorn wenn Beschworen wird
+ITEM_20161214_013128	[Karten Ausrüstungseffekt] Magic Attack +[{img star_mark 20 20}]% for 4 seconds after using SP potions
+ITEM_20161214_013129	[Grimoire Ausrüstunngs Effekt] Ruft Chapparition using Summoning
+ITEM_20161214_013130	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Insect-type Monsters
 ITEM_20161214_013131	[Poison Pot Equip Effect] Activates a Chafer skill when using Poison Pot
-ITEM_20161214_013132	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP after defeating Ice property monsters
+ITEM_20161214_013132	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP after defeating Ice property monsters
 ITEM_20161214_013133	[Poison Pot Equip Effect] Activates a Carapace skill when using Poison Pot
-ITEM_20161214_013134	[Karten Karten Ausrüstungseffekt] Block Penetration +[{img star_mark 20 20}]
+ITEM_20161214_013134	[Karten Ausrüstungseffekt] Block Penetration +[{img star_mark 20 20}]
 ITEM_20161214_013135	[Poison Pot Equip Effect] Activates a Krimeleech skill when using Poison Pot
-ITEM_20161214_013136	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Boss-type monsters
-ITEM_20161214_013137	[Grimoire Ausrüstunngs Effekt] Summons Tomblord when using Summoning
-ITEM_20161214_013138	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP after defeating Lightning property monsters
-ITEM_20161214_013139	[Grimoire Ausrüstunngs Effekt] Summons Harpeia when using Summoning
-ITEM_20161214_013140	[Karten Karten Ausrüstungseffekt] 10% chance to increase Poison property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Small-type monsters 
+ITEM_20161214_013136	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Boss-type monsters
+ITEM_20161214_013137	[Grimoire Ausrüstunngs Effekt] Ruft Tomblord wenn Beschworen wird
+ITEM_20161214_013138	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% Erholung 10% SP after defeating Lightning property monsters
+ITEM_20161214_013139	[Grimoire Ausrüstunngs Effekt] Ruft Harpeia wenn Beschworen wird
+ITEM_20161214_013140	[Karten Ausrüstungseffekt] 10% chance to increase Poison property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Small-type monsters 
 ITEM_20161214_013141	[Poison Pot Equip Effect] Activates a Honeypin skill when using Poison Pot
-ITEM_20161214_013142	[Karten Karten Ausrüstungseffekt] Magic Attack +[{img star_mark 20 20}]
-ITEM_20161214_013143	[Grimoire Ausrüstunngs Effekt] Summons Helgasercle when using Summoning
-ITEM_20161214_013144	[Karten Karten Ausrüstungseffekt] Maximum SP +[{img star_mark 20 20}*15]
-ITEM_20161214_013145	[Grimoire Ausrüstunngs Effekt] Summons Specter of Deceit when using Summoning
-ITEM_20161214_013146	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Stationary-type monsters
-ITEM_20161214_013147	[Grimoire Ausrüstunngs Effekt] Summons Corrupted when using Summoning (Unable to move)
-ITEM_20161214_013148	[Karten Karten Ausrüstungseffekt] 10% chance to increase Holy property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Large-type monsters
-ITEM_20161214_013149	[Grimoire Ausrüstunngs Effekt] Summons Sparnasman when using Summoning
-ITEM_20161214_013150	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Medium-type monsters
-ITEM_20161214_013151	[Grimoire Ausrüstunngs Effekt] Summons Cerberus when using Summoning
-ITEM_20161214_013152	[Karten Karten Ausrüstungseffekt] Accuracy +[{img star_mark 20 20}]
-ITEM_20161214_013153	[Grimoire Ausrüstunngs Effekt] Summons Naktis when using Summoning
-ITEM_20161214_013154	[Karten Karten Ausrüstungseffekt] 5% chance of being resurrected with [{img star_mark 20 20}]% HP when becoming incapable of combat 
-ITEM_20161214_013155	[Grimoire Ausrüstunngs Effekt] Summons Dullahan when using Summoning
-ITEM_20161214_013156	[Karten Karten Ausrüstungseffekt] [Blind] State Resistance +[{img star_mark 20 20}]%
-ITEM_20161214_013157	[Grimoire Ausrüstunngs Effekt] Summons Riteris when using Summoning
-ITEM_20161214_013158	[Karten Karten Ausrüstungseffekt] Magic Defense +[{img star_mark 20 20}]
-ITEM_20161214_013159	[Grimoire Ausrüstunngs Effekt] Summons Nuaele when using Summoning
-ITEM_20161214_013160	[Karten Karten Ausrüstungseffekt] HP Potion Effects +[{img star_mark 20 20}]%
+ITEM_20161214_013142	[Karten Ausrüstungseffekt] Magic Attack +[{img star_mark 20 20}]
+ITEM_20161214_013143	[Grimoire Ausrüstunngs Effekt] Ruft Helgasercle wenn Beschworen wird
+ITEM_20161214_013144	[Karten Ausrüstungseffekt] Maximum SP +[{img star_mark 20 20}*15]
+ITEM_20161214_013145	[Grimoire Ausrüstunngs Effekt] Ruft Specter of Deceit wenn Beschworen wird
+ITEM_20161214_013146	[Karten Ausrüstungseffekt] [Anzahl Karten]% additional damage against Stationary-type monsters
+ITEM_20161214_013147	[Grimoire Ausrüstunngs Effekt] Ruft Corrupted wenn Beschworen wird (Unable to move)
+ITEM_20161214_013148	[Karten Ausrüstungseffekt] 10% chance to increase Holy property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Large-type monsters
+ITEM_20161214_013149	[Grimoire Ausrüstunngs Effekt] Ruft Sparnasman wenn Beschworen wird
+ITEM_20161214_013150	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Medium-type monsters
+ITEM_20161214_013151	[Grimoire Ausrüstunngs Effekt] Ruft Cerberus wenn Beschworen wird
+ITEM_20161214_013152	[Karten Ausrüstungseffekt] Accuracy +[{img star_mark 20 20}]
+ITEM_20161214_013153	[Grimoire Ausrüstunngs Effekt] Ruft Naktis wenn Beschworen wird
+ITEM_20161214_013154	[Karten Ausrüstungseffekt] 5% chance of being resurrected with [{img star_mark 20 20}]% HP when becoming incapable of combat 
+ITEM_20161214_013155	[Grimoire Ausrüstunngs Effekt] Ruft Dullahan wenn Beschworen wird
+ITEM_20161214_013156	[Karten Ausrüstungseffekt] [Blind] State Resistance +[{img star_mark 20 20}]%
+ITEM_20161214_013157	[Grimoire Ausrüstunngs Effekt] Ruft Riteris wenn Beschworen wird
+ITEM_20161214_013158	[Karten Ausrüstungseffekt] Magic Defense +[{img star_mark 20 20}]
+ITEM_20161214_013159	[Grimoire Ausrüstunngs Effekt] Ruft Nuaele wenn Beschworen wird
+ITEM_20161214_013160	[Karten Ausrüstungseffekt] HP Potion Effects +[{img star_mark 20 20}]%
 ITEM_20161214_013161	[Poison Pot Equip Effect] Activates a Neop skill when using Poison Pot
-ITEM_20161214_013162	[Karten Karten Ausrüstungseffekt] CON +[{img star_mark 20 20}]
-ITEM_20161214_013163	[Grimoire Ausrüstunngs Effekt] Summons Blut when using Summoning
-ITEM_20161214_013164	[Karten Karten Ausrüstungseffekt] Critical Resist +[{img star_mark 20 20}]
+ITEM_20161214_013162	[Karten Ausrüstungseffekt] CON +[{img star_mark 20 20}]
+ITEM_20161214_013163	[Grimoire Ausrüstunngs Effekt] Ruft Blut wenn Beschworen wird
+ITEM_20161214_013164	[Karten Ausrüstungseffekt] Critical Resist +[{img star_mark 20 20}]
 ITEM_20161214_013165	[Poison Pot Equip Effect] Activates a Plokste skill when using Poison Pot
-ITEM_20161214_013166	[Karten Karten Ausrüstungseffekt] Maximum Secondary Physical Attack +[{img star_mark 20 20}
+ITEM_20161214_013166	[Karten Ausrüstungseffekt] Maximum Secondary Physical Attack +[{img star_mark 20 20}
 ITEM_20161214_013167	[Poison Pot Equip Effect] Activates a Plokste skill when using Poison Pot
-ITEM_20161214_013168	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Small-type monsters
+ITEM_20161214_013168	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Small-type monsters
 ITEM_20161214_013169	[Poison Pot Equip Effect] Activates a Velnewt skill when using Poison Pot
-ITEM_20161214_013170	[Karten Karten Ausrüstungseffekt] 10% chance to increase Earth property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
+ITEM_20161214_013170	[Karten Ausrüstungseffekt] 10% chance to increase Earth property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
 ITEM_20161214_013171	[Poison Pot Equip Effect] Activates a Velpede skill when using Poison Pot
-ITEM_20161214_013172	[Karten Karten Ausrüstungseffekt] -[Anzahl Karten] seconds to SP recovery duration 
-ITEM_20161214_013173	[Grimoire Ausrüstunngs Effekt] Summons Pyroego when using Summoning (Unable to move)
-ITEM_20161214_013174	[Karten Karten Ausrüstungseffekt] 10% chance to increase Lightning property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
-ITEM_20161214_013175	[Grimoire Ausrüstunngs Effekt] Summons Lithorex when using Summoning
-ITEM_20161214_013176	[Karten Karten Ausrüstungseffekt] Missile Property Resistance +[{img star_mark 20 20}]
-ITEM_20161214_013177	[Grimoire Ausrüstunngs Effekt] Summons Nuodai when using Summoning (Unable to move)
-ITEM_20161214_013178	[Karten Karten Ausrüstungseffekt] AoE Ratio +[Anzahl Karten]
-ITEM_20161214_013179	[Grimoire Ausrüstunngs Effekt] Summons Centaurus when using Summoning
-ITEM_20161214_013180	[Karten Karten Ausrüstungseffekt] Magic Defense +[{img star_mark 20 20}]% for 10 seconds after using HP potions
-ITEM_20161214_013181	[Grimoire Ausrüstunngs Effekt] Summons Progola when using Summoning
-ITEM_20161214_013182	[Karten Karten Ausrüstungseffekt] 10% chance to increase Holy property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
-ITEM_20161214_013183	[Grimoire Ausrüstunngs Effekt] Summons Marionette when using Summoning (Unable to move)
-ITEM_20161214_013184	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Large-sized monsters
+ITEM_20161214_013172	[Karten Ausrüstungseffekt] -[Anzahl Karten] seconds to SP recovery duration 
+ITEM_20161214_013173	[Grimoire Ausrüstunngs Effekt] Ruft Pyroego wenn Beschworen wird (Unable to move)
+ITEM_20161214_013174	[Karten Ausrüstungseffekt] 10% chance to increase Lightning property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
+ITEM_20161214_013175	[Grimoire Ausrüstunngs Effekt] Ruft Lithorex wenn Beschworen wird
+ITEM_20161214_013176	[Karten Ausrüstungseffekt] Missile Property Resistance +[{img star_mark 20 20}]
+ITEM_20161214_013177	[Grimoire Ausrüstunngs Effekt] Ruft Nuodai wenn Beschworen wird (Unable to move)
+ITEM_20161214_013178	[Karten Ausrüstungseffekt] AoE Ratio +[Anzahl Karten]
+ITEM_20161214_013179	[Grimoire Ausrüstunngs Effekt] Ruft Centaurus wenn Beschworen wird
+ITEM_20161214_013180	[Karten Ausrüstungseffekt] Magic Defense +[{img star_mark 20 20}]% for 10 seconds after using HP potions
+ITEM_20161214_013181	[Grimoire Ausrüstunngs Effekt] Ruft Progola wenn Beschworen wird
+ITEM_20161214_013182	[Karten Ausrüstungseffekt] 10% chance to increase Holy property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
+ITEM_20161214_013183	[Grimoire Ausrüstunngs Effekt] Ruft Marionette wenn Beschworen wird (Unable to move)
+ITEM_20161214_013184	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Large-sized monsters
 ITEM_20161214_013185	[Poison Pot Equip Effect] Activates a Canceril skill when using Poison Pot
-ITEM_20161214_013186	[Karten Karten Ausrüstungseffekt] Maximum Physical Attack +[{img star_mark 20 20}]
-ITEM_20161214_013187	[Grimoire Ausrüstunngs Effekt] Summons Master Genie when using Summoning. (Unable to move)
-ITEM_20161214_013188	[Karten Karten Ausrüstungseffekt] 10% chance to increase Ice property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Large-type monsters
-ITEM_20161214_013189	[Grimoire Ausrüstunngs Effekt] Summons Merregina when using Summoning
-ITEM_20161214_013190	[Karten Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inducing [Silence] for 4 seconds when attacking with missile attacks
-ITEM_20161214_013191	[Grimoire Ausrüstunngs Effekt] Summons Templeshooter when using Summoning
-ITEM_20161214_013192	[Karten Karten Ausrüstungseffekt] 10% chance to increase Fire Property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
-ITEM_20161214_013193	[Grimoire Ausrüstunngs Effekt] Summons Fire Lord when using Summoning
-ITEM_20161214_013194	[Karten Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Boss-type monsters
-ITEM_20161214_013195	[Grimoire Ausrüstunngs Effekt] Summons Deathweaver when using Summoning
-ITEM_20161214_013196	[Karten Karten Ausrüstungseffekt] 10% chance to increase Dark property Attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
-ITEM_20161214_013197	[Grimoire Ausrüstunngs Effekt] Summons Flammidus when using Summoning
+ITEM_20161214_013186	[Karten Ausrüstungseffekt] Maximum Physical Attack +[{img star_mark 20 20}]
+ITEM_20161214_013187	[Grimoire Ausrüstunngs Effekt] Ruft Master Genie wenn Beschworen wird. (Unable to move)
+ITEM_20161214_013188	[Karten Ausrüstungseffekt] 10% chance to increase Ice property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Large-type monsters
+ITEM_20161214_013189	[Grimoire Ausrüstunngs Effekt] Ruft Merregina wenn Beschworen wird
+ITEM_20161214_013190	[Karten Ausrüstungseffekt] [Anzahl Karten]% chance of inducing [Silence] for 4 seconds when attacking with missile attacks
+ITEM_20161214_013191	[Grimoire Ausrüstunngs Effekt] Ruft Templeshooter wenn Beschworen wird
+ITEM_20161214_013192	[Karten Ausrüstungseffekt] 10% chance to increase Fire Property attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
+ITEM_20161214_013193	[Grimoire Ausrüstunngs Effekt] Ruft Fire Lord wenn Beschworen wird	
+ITEM_20161214_013194	[Karten Ausrüstungseffekt] [Maximum{img star_mark 20 20}]% chance Erholung 0.5% SP when hit by Boss-type monsters
+ITEM_20161214_013195	[Grimoire Ausrüstunngs Effekt] Ruft Deathweaver wenn Beschworen wird
+ITEM_20161214_013196	[Karten Ausrüstungseffekt] 10% chance to increase Dark property Attack by +[{img star_mark 20 20}] for 7 seconds when attacking Boss-type monsters
+ITEM_20161214_013197	[Grimoire Ausrüstunngs Effekt] Ruft Flammidus wenn Beschworen wird
 ITEM_20161214_013198	Ripped Piece of Paper
 ITEM_20161214_013199	Piece of paper, purpose unknown. Strange lines can be seen.
 ITEM_20161214_013200	Shining Lv9 Gem Abrasive
