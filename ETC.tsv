@@ -4212,7 +4212,7 @@ ETC_20150317_004211	 m
 ETC_20150317_004212	 s
 ETC_20150317_004213	 ausgewählt
 ETC_20150317_004214	{nl}Bist du bereit deinen Charakter voranzubringen?{nl}(Das kann bis zum nächsten Vortschritt{nl}nicht geändert werden)
-ETC_20150317_004215	{@st44}Nächster Klassen-Rang Information
+ETC_20150317_004215	{@st44}Nächste Klassen-Rang-Information
 ETC_20150317_004216	Aktuelle Job-Information
 ETC_20150317_004217	{@st43}Datum :
 ETC_20150317_004218	{@st43}Spielzeit :
@@ -9427,7 +9427,7 @@ ETC_20150317_009427	Sorcerer, Chronomancer 5th Advancement trigger
 ETC_20150317_009428	Jar of Sacrifice
 ETC_20150317_009429	Destroyed inscription wreckage
 ETC_20150317_009430	Military Backpack
-ETC_20150317_009431	[Fletcher Klassenmeister]{nl}Visvaldas Black
+ETC_20150317_009431	[Fletcher Klassenmeister]{nl}   Visvaldas Black
 ETC_20150317_009432	Abandoned Luggage
 ETC_20150317_009433	Abandoned Bag
 ETC_20150317_009434	Old Chest
@@ -10932,7 +10932,7 @@ ETC_20150414_010933	Install Type Angriff
 ETC_20150414_010934	Rogues are combat professionals who will do anything for victory. They're specialized at ambushing enemies from behind using bows and daggers.
 ETC_20150414_010935	Schwarzer Reiters maneuver quickly. They specialize in diverse shooting techniques using a pistol.
 ETC_20150414_010936	Maneuvering Attack
-ETC_20150414_010937	Fletchers make and use special arrows. Different arrows result in powerful attacks depending on the type of enemy and combat situation.
+ETC_20150414_010937	Fletcher machen und verwenden spezielle Pfeile. Unterschiedliche Pfeile führen zu kraftvollen Angriffen je nach Gegner- und Kampfsituation.
 ETC_20150414_010938	Angriff, Herstellen
 ETC_20150414_010939	Falconer
 ETC_20150414_010940	Falconers control Hawks. Hawks may be fussy, but they become reliable companions when trained well.
@@ -19735,7 +19735,7 @@ ETC_20151224_019735	Dieser Skill kann nicht registriert werden.
 ETC_20151224_019736	Humanoid
 ETC_20151224_019737	{TP} TP will be charged to purchase this Character/Begleiter Slot{nl}Would you like to purchase?
 ETC_20151224_019738	Do you want to use {TP} TP to change your Team Name?
-ETC_20151224_019739	Du hast nicht genug Character/Begleiter slots.{nl}
+ETC_20151224_019739	Du hast nicht genug Character/Begleiter Slots.{nl}
 ETC_20151224_019740	Do you want to use {TP} TP to change your Character Name?
 ETC_20151224_019741	You've failed to accept the friend request.
 ETC_20151224_019742	You've failed to decline the friend request.
@@ -22285,7 +22285,7 @@ ETC_20160718_022284	/AccumulatedTickets
 ETC_20160718_022285	/Test
 ETC_20160718_022286	There may be a problem with the game. Please install the latest version of DirectX.
 ETC_20160718_022287	Place the [{Name}] here.
-ETC_20160718_022288	Chance for successful Transcendence {P}%
+ETC_20160718_022288	Chance for successful Transzendenz {P}%
 ETC_20160718_022289	Do you really wish to attempt to Transcend?
 ETC_20160718_022290	You have succeeded in Transcending the item.
 ETC_20160718_022291	You have failed to Transcend the item.
@@ -22294,29 +22294,29 @@ ETC_20160718_022293	Will return {Count} {Item}(s)
 ETC_20160718_022294	Any dismantled items will be destroyed. Do you wish to proceed?
 ETC_20160718_022295	Do you really wish to dismatle a Transcended item?
 ETC_20160718_022296	Only Transcended items can be dismantled.
-ETC_20160718_022297	The Transcendence Stone will not be returned even if you remove the Transcendence. Do you wish to proceed?
-ETC_20160718_022298	The Transcendence Levels will be reset. Do you wish to proceed?
-ETC_20160718_022299	The Transcendence has been removed.
+ETC_20160718_022297	The Transzendenz Stone will not be returned even if you remove the Transzendenz. Do you wish to proceed?
+ETC_20160718_022298	The Transzendenz Levels will be reset. Do you wish to proceed?
+ETC_20160718_022299	The Transzendenz has been removed.
 ETC_20160718_022300	Only Transcended items can be removed.
 ETC_20160718_022301	This item cannot be Transcended.
-ETC_20160718_022302	There are not enough used Transcendence Stones to dismantle the item.
+ETC_20160718_022302	There are not enough used Transzendenz Stones to dismantle the item.
 ETC_20160718_022303	You cannot use it on an item that has maximum Potential.
 ETC_20160718_022304	This item has not been Transcended.
 ETC_20160718_022305	This item cannot be dismantled.
-ETC_20160718_022306	This item cannot have it's Transcendence removed.
-ETC_20160718_022307	You must place your equipment {nl} on the circle above {nl} in order to attempt to Transcend.
+ETC_20160718_022306	This item cannot have it's Transzendenz removed.
+ETC_20160718_022307	Du musst deine Ausrüstung {nl} oben auf den Kreis {nl} platzieren, um zu versuchen zu transzendieren.
 ETC_20160718_022308	Right-click the equipment {nl} to undo and cancel the process.
 ETC_20160718_022309	You cannot repurchase colors.
 ETC_20160718_022310	This item has expired.
 ETC_20160718_022311	This item is not expired.
 ETC_20160718_022312	Items that have expired cannot be equipped.
-ETC_20160718_022313	Stufe {Count} Transcendence Damage Increase
-ETC_20160718_022314	Stufe {Count} Transcendence Physical Defense Increase
-ETC_20160718_022315	Stufe {Count} Transcendence Accuracy Increase
-ETC_20160718_022316	Stufe {Count} Transcendence Evasion Increase
-ETC_20160718_022317	Stufe {Count} Transcendence Magical Amplification Increase
-ETC_20160718_022318	Stufe {Count} Transcendence CON Increase
-ETC_20160718_022319	Stufe {Count} Transcendence Magical Defense Increase
+ETC_20160718_022313	Stufe {Count} Transzendenz Damage Increase
+ETC_20160718_022314	Stufe {Count} Transzendenz Physical Defense Increase
+ETC_20160718_022315	Stufe {Count} Transzendenz Accuracy Increase
+ETC_20160718_022316	Stufe {Count} Transzendenz Evasion Increase
+ETC_20160718_022317	Stufe {Count} Transzendenz Magical Amplification Increase
+ETC_20160718_022318	Stufe {Count} Transzendenz CON Increase
+ETC_20160718_022319	Stufe {Count} Transzendenz Magical Defense Increase
 ETC_20160718_022320	You cannot trade Transcended items.
 ETC_20160718_022321	The item has expired or cannot be registered.
 ETC_20160718_022322	You cannot transform into this monster.
@@ -22337,9 +22337,9 @@ ETC_20160718_022336	Wizard Kostüm
 ETC_20160718_022337	Archer Kostüm
 ETC_20160718_022338	Cleric Kostüm
 ETC_20160718_022339	Common Kostüm
-ETC_20160718_022340	Transcendence Ingredients
-ETC_20160718_022341	Transcendence Results
-ETC_20160718_022342	Transcendence Information
+ETC_20160718_022340	Transzendenz Zutaten
+ETC_20160718_022341	Transzendenz Werte
+ETC_20160718_022342	Transzendenz Information
 ETC_20160718_022343	Show Ticket
 ETC_20160718_022344	Event Reward{nl}{ITEM}{nl}Accumulated Tickets : {ACC}
 ETC_20160718_022345	Accumulated Tickets : {ACC}
@@ -26328,7 +26328,7 @@ ETC_20161214_026327	Do you wish to cancel your participation registeration?
 ETC_20161214_026328	You cannot participate in this area.
 ETC_20161214_026329	AM
 ETC_20161214_026330	PM
-ETC_20161214_026331	(Users with Token benefits have {COUNT} extra entry)
+ETC_20161214_026331	(Benutzer mit aktivem Token haben {COUNT} extra Zugänge)
 ETC_20161214_026332	Insufficient Instanced Dungeon Multiply Tokens.
 ETC_20161214_026333	Insufficient instanced dungeon entries remaining.
 ETC_20161214_026334	Maximum Multiply Mode value currently allowed.

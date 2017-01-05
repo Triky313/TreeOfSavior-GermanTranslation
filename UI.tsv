@@ -1247,7 +1247,7 @@ UI_20150317_001246	{@st41b}%s Wertung
 UI_20150317_001247	Quest beendet 25
 UI_20150317_001248	[Sub]Thron Forest
 UI_20150317_001249	{@St42}Gegenstand ausgerüstet
-UI_20150317_001250	{@St44}Rang %s Klassen Information{/}
+UI_20150317_001250	{@St44}Rang %s Klassen-Information{/}
 UI_20150317_001251	Aufstiegsalarm
 UI_20150317_001252	Wie Herz
 UI_20150317_001253	N/A
@@ -2286,10 +2286,10 @@ UI_20160811_002285	Level in absteigender Reihenfolge{/}
 UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monster Karten{/}
 UI_20160811_002287	Gegenstand transzendieren
 UI_20160811_002288	Transzendieren
-UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}
+UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transzendenz Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transzendenz Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transzendenz Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}
 UI_20160811_002290	{@st42}Stufe %s{/}
 UI_20160811_002291	Extrakt gesegneten Gem
-UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You will be able to retreive some of the Blessed Gems used for Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}
+UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You will be able to retreive some of the Blessed Gems used for Transzendenz even though the item will be destroyed. {nl}- You cannot do this at Transzendenz Stage 0.{/}
 UI_20160811_002293	Extrahiere Ergebnisse
 UI_20160811_002294	Extrahiere Gegenstand
 UI_20160811_002295	{@st59b}Extract Item{nl}{@st59s}- Remove the transcendental effects from a transcended item{nl}- Extraction Requirements : Spell Rod{/}
@@ -2350,7 +2350,7 @@ UI_20161005_002349	Instanzbereinigung Gutschein
 UI_20161005_002350	Warnung
 UI_20161005_002351	 The monsters defeated by the pillar of light{nl}shall not be recorded on the Adventure Journal and{nl}items get dropped near the the pillar of light. Please, be aware of possible item loss.{nl}The used voucher disappears instantly and it can only be used in the instanced dungeon of that count.{/}
 UI_20161005_002352	Möchtest du einen Instanz-Rücksetzer-Gutschein verwenden?{/}
-UI_20161005_002353	{@st59b}Gesegnete Gems Extraktion{nl}{@st59s}- Extrahiere einen gesegneten Gem von einem transzendierten Gegenstand{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}
+UI_20161005_002353	{@st59b}Gesegnete Gems Extraktion{nl}{@st59s}- Extrahiere einen gesegneten Gem von einem transzendierten Gegenstand{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transzendenz even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transzendenz.{/}
 UI_20161005_002354	Mission fehlgeschlagen.
 UI_20161005_002355	Alle Spieler sind unfähig.
 UI_20161005_002356	Bestätigen, um den Turm zu verlassen.
@@ -2447,7 +2447,7 @@ UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s
 UI_20161108_002447	{@st41}Open Compensation Cube
 UI_20161108_002448	{@st59}Schließen{/}
 UI_20161108_002449	{@st66b}Might obtain something mysterious{nl}when opened.{/}
-UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}
+UI_20161121_002450	{@st41}Eintritt Zählerrücksetzung : 06:00 AM Jeden Tag{/}
 UI_20161121_002451	Name/Ort
 UI_20161121_002452	Eintrags Level
 UI_20161121_002453	Eintragszähler
@@ -2491,8 +2491,8 @@ UI_20161214_002490	Multiply Mode Number
 UI_20161214_002491	Bitte warte.
 UI_20161214_002492	{@st66b}Ausrüstung{/}
 UI_20161214_002493	{@st66b}Gegenstände{/}
-UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
-UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}
+UI_20161214_002494	{@st59b}Item Transzendenz{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transzendenz Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transzendenz level increases by 1(Max. 10){nl}- If failed, Transzendenz level along with potential by 1(Transzendenz level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
+UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transzendenz Level 0.{/}
 UI_20161214_002496	{@st66b}Speichern{/}
 UI_20161214_002497	{@st66b}Zeige Schaden an anderen Charakteren
 UI_20161214_002498	{@st59}Bitte wähle einen Server aus.{/}

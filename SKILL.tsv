@@ -3287,7 +3287,7 @@ SKILL_20150401_003286	Angriff: #{SkillAtkAdd}#{nl}Lachrymator Dauer: #{CaptionTi
 SKILL_20150401_003287	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Continuously attack using your dagger. Erhöht your critical chance and varies the amount of strikes each mal.
 SKILL_20150401_003288	Angriff: #{SkillAtkAdd}#{nl}Strikes 1~4 mal{nl}Kritchance: #{CaptionRatio}#%
 SKILL_20150401_003289	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Launches an arrow that inflicts Bleeding on targets.
-SKILL_20150401_003290	Angriff: #{SkillAtkAdd}#{nl}Bleeding Schaden: #{CaptionRatio}#{nl}Bleeding Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Broadhead Pfeil
+SKILL_20150401_003290	Angriff: #{SkillAtkAdd}#{nl}Bleeding Schaden: #{CaptionRatio}#{nl}Blutungsdauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Broadhead Pfeil
 SKILL_20150401_003291	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Launches an arrow that reduces the target's defense and removes its shield.
 SKILL_20150401_003292	Angriff: #{SkillAtkAdd}#{nl}Physische Verteidigung: -30%{nl}Verbraucht 1 Bodkin Point Pfeil
 SKILL_20150401_003293	{#DD5500}{ol}[Physisch] - [Stich]{/}{/}{nl}Launches a barbed arrow. The number of strikes depends on the enemy's defense type.
@@ -4061,7 +4061,7 @@ SKILL_20150428_004060	Angriff #{SkillAtkAdd}#{nl}Duration 30 Sekunden
 SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with [Blind].
 SKILL_20150428_004062	Lachrymator Dauer: #{CaptionTime}# Sekunden
 SKILL_20150428_004063	Angriff #{SkillAtkAdd}#{nl}Schlag 2 mal{nl}Kritrate #{CaptionRatio}#%
-SKILL_20150428_004064	Angriff: #{SkillAtkAdd}#{nl}Bleeding Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Broadhead Pfeil
+SKILL_20150428_004064	Angriff: #{SkillAtkAdd}#{nl}Blutungsdauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Broadhead Pfeil
 SKILL_20150428_004065	Angriff: #{SkillAtkAdd}#{nl}Physische Verteidigung: -#{CaptionRatio}#%{nl}Verbraucht 1 Bodkin Pfeil
 SKILL_20150428_004066	Angriff: #{SkillAtkAdd}#{nl}Dauer: 10 Sekunden{nl}Verbraucht 1 Magie Pfeil
 SKILL_20150428_004067	Angriff: #{SkillAtkAdd}#{nl}Dauer: 10 Sekunden{nl}Verbraucht 1 Divine Machine Pfeil
@@ -4197,9 +4197,9 @@ SKILL_20150714_004196	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRat
 SKILL_20150714_004197	Attribut-Schaden: #{CaptionRatio}#%{nl}Dauer: 30 Sekunden
 SKILL_20150714_004198	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}STR: +#{CaptionRatio}# {nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20150714_004199	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Strikes 2 mal{nl}Kritchance: #{CaptionRatio}#%
-SKILL_20150714_004200	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Bleeding Dauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Broadhead Pfeil
-SKILL_20150714_004201	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Physische Verteidigung: -#{CaptionRatio}#% {nl}Removes Reflect Shield{nl}Verbraucht 1 Bodkin Pfeil
-SKILL_20150714_004202	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Cloth armor-type Ziele: 3 hits{nl}Leder armor-type Ziele: 2 hits{nl}Plate armor-Type targets: 1 hit{nl}Ghost armor-type targets: Nullifies{nl}Verbraucht 1 Barbed Pfeil
+SKILL_20150714_004200	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Blutungsdauer: #{CaptionTime}# Sekunden{nl}Verbraucht 1 Broadhead Pfeil
+SKILL_20150714_004201	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Physische Verteidigung: -#{CaptionRatio}#% {nl}Entfernt Reflektschild{nl}Verbraucht 1 Bodkin Pfeil
+SKILL_20150714_004202	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Stoff Rüstung-Type Ziele: 3 Treffer{nl}Leder Rüstung-Type Ziele: 2 Treffer{nl}Plate Rüstung-Type Ziele: 1 Treffer{nl}Geist Rüstung-Type Ziele: Keine Treffer{nl}Verbraucht 1 Barbed Pfeil
 SKILL_20150714_004203	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Explosion Angriff: #{CaptionRatio}#%{nl}Verbraucht 1 Hail Mary Pfeil
 SKILL_20150714_004204	Attribut-Schaden: #{CaptionRatio}#%{nl}Dauer: 10 Sekunden{nl}Trefferanzahl: #{CaptionRatio2}#{nl}Verbraucht 1 Magie Pfeil
 SKILL_20150714_004205	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Dauer: 10 Sekunden{nl}Verbraucht 1 Divine Machine Pfeil
@@ -5535,10 +5535,10 @@ SKILL_20151102_005534	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a musical arrow to 
 SKILL_20151102_005535	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a flare on the ground at a targeted area. Upon hitting the ground, the flare bursts into sparks that damages nearnach enemies.
 SKILL_20151102_005536	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires an arrow that, upon hitting a target, bounces to hit two nearnach enemies.
 SKILL_20151102_005537	{#DD5500}{ol}[Geschoss]{/}{/}{nl}If the target dies from this attack, it explodes. Gruppe members gain STR for a period of mal.
-SKILL_20151102_005538	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a wide broadhead arrow. Inflicts [Bleeding] on the enemy hit.
-SKILL_20151102_005539	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a high-penetration bodkin arrow at an enemy. Lowers the defense of struck enemies and nullifies any protective magic.
-SKILL_20151102_005540	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires a barbed arrowhead. Deals a number of hits depending on an enemy's defense type.
-SKILL_20151102_005541	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires an arrow that, upon hitting an enemy, creates a cross-shaped explosion.
+SKILL_20151102_005538	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt einen breiten Pfeil. Fügt dem Feind [Blutung] beim treffen hinzu.
+SKILL_20151102_005539	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt einen tief durchdrigenden Dolch-Pfeil auf den Feind. Verringert die Abwehr von geschlagenen Gegnern und beseitigt jegliche Schutzmagie.
+SKILL_20151102_005540	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt eine stachelige Pfeilspitze. Je nach feindlicher Verteidigungsart gibt es mehrere Treffer.
+SKILL_20151102_005541	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Schießt einen Pfeil, der beim Auftreffen eines Gegners eine kreuzförmige Explosion erzeugt.
 SKILL_20151102_005542	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires an arrow, igniting flames that inflict damage over mal on enemies entering the targeted area.
 SKILL_20151102_005543	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires an arrow with explosives attached. Upon hitting its target, the arrow will explode after an amount of mal and cause collateral damage.
 SKILL_20151102_005544	{#DD5500}{ol}[Geschoss]{/}{/}{nl}Fires multiple bullets in rapid succession at an enemy.
