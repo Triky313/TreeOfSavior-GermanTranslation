@@ -1744,7 +1744,7 @@ UI_20150729_001743	{@st41}Gruppen Rekrutierungseinstellungen
 UI_20150729_001744	{@st42}Suche nach Gruppen-Mitglieder{/}
 UI_20150729_001745	Wenn ein Charakter die Kriterien erfüllt, [Gruppe gefunden!] wird er dir auf dem Bildschirm angezeigt.
 UI_20150729_001746	{@st41b}Empfohlene Spielerliste{/}
-UI_20150729_001747	{@st41}Attribut-Information
+UI_20150729_001747	{@st41}Attribute-Information
 UI_20150729_001748	{@st59}Erweiterung abbrechen{/}
 UI_20150729_001749	{@st59b}Edelstein/Karte Verzauberung{nl}{@st59s} - Wähle einen Edelstein oder Karte um sie zu verzaubern.{nl} - Alle Gegenstände bis auf Quest-Gegenstände können zum Verbessern der Edelsteine als Material genutzt werden.{nl} (MAm wirksamsten ist es wenn du ein Edelstein als Material verwendest.){nl} - Karten können nur mit anderen Karten verbessert werden.{/}
 UI_20150729_001750	{#000000}{s22}Warteschlange
@@ -2355,7 +2355,7 @@ UI_20161005_002354	Mission fehlgeschlagen.
 UI_20161005_002355	Alle Spieler sind unfähig.
 UI_20161005_002356	Bestätigen, um den Turm zu verlassen.
 UI_20161005_002357	{@st43b}{s20}Bestätigen{/}
-UI_20161005_002358	{@st41}Auto-Attack
+UI_20161005_002358	{@st41}Auto-Angriff
 UI_20161005_002359	{s16}{#000000}Freunde Online %s/%s{/}
 UI_20161005_002360	{@st43}Geh zum Freund{/}
 UI_20161005_002361	{@st43}Portal

@@ -1805,7 +1805,7 @@ ETC_20150317_001804	You can't include spaces in the name.
 ETC_20150317_001805	Zusammen
 ETC_20150317_001806	Please dismount your companion to feed it.
 ETC_20150317_001807	Physischer Angriff
-ETC_20150317_001808	Physischer Verteidigung
+ETC_20150317_001808	Physische Verteidigung
 ETC_20150317_001809	Erhohte Verteidigung auf Reittier
 ETC_20150317_001810	Erhohte Ausweichchance auf Reittier
 ETC_20150317_001811	Erhalte Bonus HP auf Reittier
@@ -2045,7 +2045,7 @@ ETC_20150317_002044	Neben-
 ETC_20150317_002045	Erhaltene Belohnung!
 ETC_20150317_002046	Gift given by {Giver} to {Target}
 ETC_20150317_002047	Nummer
-ETC_20150317_002048	Abruf
+ETC_20150317_002048	Entnehmen
 ETC_20150317_002049	Kauf
 ETC_20150317_002050	Auktionshaus
 ETC_20150317_002051	[Nicht verfügbar]
@@ -2269,14 +2269,14 @@ ETC_20150317_002268	Verehren
 ETC_20150317_002269	Picking up flowers for offering
 ETC_20150317_002270	Plucked the flower!
 ETC_20150317_002271	I lost in the fragrance of flowers.
-ETC_20150317_002272	Buy
+ETC_20150317_002272	Kaufen
 ETC_20150317_002273	Offer 10 Silber
 ETC_20150317_002274	Offered 10 Silber!
 ETC_20150317_002275	As the blessing of sanctum, the recovery time will be increased during 10 sec!
 ETC_20150317_002276	Collecting dewdrops on the tombstone
 ETC_20150317_002277	Successfully collected the dewdrops!
 ETC_20150317_002278	You collected all the dewdrops in the leather pouch!
-ETC_20150317_002279	Digging the roots
+ETC_20150317_002279	Wurzeln ausgraben
 ETC_20150317_002280	Red Tree Ambulo
 ETC_20150317_002281	Red Tree Ambulo appeared from root of reeds.
 ETC_20150317_002282	You fainted from the root's poison!
@@ -2703,7 +2703,7 @@ ETC_20150317_002702	Your selling quantity must be higher than 0.
 ETC_20150317_002703	Your item has been successfully added to the Market.
 ETC_20150317_002704	You have successfully purchased an item from the Market.{nl}Please check if you've received the item.
 ETC_20150317_002705	There are too many search results. Use detailed search queries to narrow down your search.
-ETC_20150317_002706	Are you sure you want to cancel the registration of this item?
+ETC_20150317_002706	Sicher dass du diesen Gegenstand herausnehmen möchtest?
 ETC_20150317_002707	Your item has successfully been canceled from the Market.{nl}Please check if you've received the item.
 ETC_20150317_002708	An equipped item cannot be added.
 ETC_20150317_002709	Privat
@@ -4317,8 +4317,8 @@ ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(iCoins {Auto_1} consumption)
 ETC_20150317_004318	Total Price: {Auto_1}
 ETC_20150317_004319	Learn
-ETC_20150317_004320	{@st42b} Re-buy
-ETC_20150317_004321	{@st42b} Remove permanently
+ETC_20150317_004320	{@st42b} Zurückkaufen
+ETC_20150317_004321	{@st42b} Unwiderruflich entfernen
 ETC_20150317_004322	{@st42b} Abbrechen
 ETC_20150317_004323	 Circle
 ETC_20150317_004324	Do you want to level up your class?
@@ -10121,10 +10121,10 @@ ETC_20150323_010122	Trapped Pilgrim's Soul
 ETC_20150323_010123	Lure the monster and consume its HP before extracting its soul
 ETC_20150323_010124	Successfully destroyed the Demon's Magie Circle
 ETC_20150323_010125	The flower dried up and died!
-ETC_20150323_010126	Picking up the small portrait again
-ETC_20150323_010127	Picked up the small portrait again
-ETC_20150323_010128	Discarding the small portrait
-ETC_20150323_010129	Discarded the small portrait at the tombstone
+ETC_20150323_010126	Das kleine Porträt wieder aufnehmen
+ETC_20150323_010127	Das kleine Porträt wieder aufgenommen
+ETC_20150323_010128	Verwerfen des kleinen Porträts
+ETC_20150323_010129	Das kleine Porträt am Grabstein verworfen
 ETC_20150323_010130	Took out handkerchief from the box.
 ETC_20150323_010131	Placed the handkerchief back in the box. You can take it out again. 
 ETC_20150323_010132	There is no key {nl}Find the key from the monsters. 
@@ -11359,7 +11359,7 @@ ETC_20150428_011360	Activate the third sealed device
 ETC_20150428_011361	Use Acidic Solution to melt the thorny vines
 ETC_20150428_011362	Lure Pawndel/Pawnd to Absauga Altar
 ETC_20150428_011363	Validate the effect of the charm on Panto Archers
-ETC_20150428_011364	Open your inventory and use the Spirit's Scripture
+ETC_20150428_011364	Öffnet das Inventar und benutzt das Script des Heiligen Geistes
 ETC_20150428_011365	Use Hauberk's Seal Fragment
 ETC_20150428_011366	Cross Srautas Gorge and go to Gele Plateau
 ETC_20150428_011367	Move to Starving Demon's Way
@@ -19721,7 +19721,7 @@ ETC_20151224_019721	Erhöht die Gilden EXP-Punkte durch verwenden von Gegenstän
 ETC_20151224_019722	Gegenstand erfolgreich registriert.{nl}Bitte warte etwa 30 Minuten bis 2 Stunden um deinen Gegenstand ohne Tokens im Auktionshaus anzuzeigen.
 ETC_20151224_019723	{Price} Silber is required for the registration fee. The buff will disappear when you register this to the Market. Do you want to register it?
 ETC_20151224_019724	You cannot purchase items registered to the same account.
-ETC_20151224_019725	The sales period has passed. Please retrieve your item.
+ETC_20151224_019725	Die Verkaufszeit ist abgelaufen. Bitte entehme deinen Gegenstand.
 ETC_20151224_019726	Your item will be registered to the Market List after {TIME}.
 ETC_20151224_019727	Your item will be moved to the cabinet after {TIME}.
 ETC_20151224_019728	A minimum of {Price} Silber is required to register an item.
@@ -20657,7 +20657,7 @@ ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of ite
 ETC_20160224_020658	You've exhausted your available trades.
 ETC_20160224_020659	Schlag-Type
 ETC_20160224_020660	Schlag-Type Defense
-ETC_20160224_020661	Verzaubern
+ETC_20160224_020661	Verzaubert
 ETC_20160224_020662	Diese Sammlung teilst du dir mit deinem Team.{nl}Der Gegenstand kann nicht zurückgenommen werden nachdem er einmal{nl}hinzugefügt wurde.{nl}Wirklich hinzufügen? 
 ETC_20160224_020663	You have already registered this recipe.
 ETC_20160224_020664	The recipe has been registered.

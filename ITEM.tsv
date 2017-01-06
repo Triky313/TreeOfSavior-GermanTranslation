@@ -1869,7 +1869,7 @@ ITEM_20150317_001868	Garlic
 ITEM_20150317_001869	Popolion Fleisch 
 ITEM_20150317_001870	Restores 350~400 SP. A well-known delicacy among food connoisseurs. {nl}Rechtsklick zum verwenden. 
 ITEM_20150317_001871	Klaipeda Teleport Scroll 
-ITEM_20150317_001872	Teleports you to Klaipeda. {nl}Rechtsklick zum verwenden. 
+ITEM_20150317_001872	Teleportiert dich nach Klaipeda. {nl}Rechtsklick zum verwenden. 
 ITEM_20150317_001873	iCoin Box
 ITEM_20150317_001874	Contains 1 iCoin. {nl}Rechtsklick zum verwenden. 
 ITEM_20150317_001875	Heilt den Status [Gift]. 
@@ -3995,7 +3995,7 @@ ITEM_20150323_003994	Reed flower cut from reeds in the Forest of Prayer.
 ITEM_20150323_003995	Reed Sap Crystal 
 ITEM_20150323_003996	A crystal that solidified from the sap that the parasitic Tree Ambulo sucked out of reeds. 
 ITEM_20150323_003997	Klein Portrait 
-ITEM_20150323_003998	Mother's Handkerchief 
+ITEM_20150323_003998	Mutter's Taschentuch
 ITEM_20150323_003999	Sap obtained from the cut trees at the Apsimesti Crossroad. 
 ITEM_20150323_004000	Top of the stone carved with the Divine Tree. 
 ITEM_20150323_004001	Middle of the stone carved with the Divine Tree. 
@@ -8765,7 +8765,7 @@ ITEM_20151224_008764	Lets you build a Gildenturm.{nl}Can only be used in fields.
 ITEM_20151224_008765	Food that a companion enjoys.{nl}Completely restores your companion's HP and restores their Stamina by 60. 
 ITEM_20151224_008766	Shield Charger
 ITEM_20151224_008767	Orsha Teleport Scroll
-ITEM_20151224_008768	Teleports you to Orsha. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008768	Teleportiert dich nach Orsha. {nl}Rechtsklick zum verwenden.
 ITEM_20151224_008769	Incomplete Ruklys Brew
 ITEM_20151224_008770	Increases your AoE attack ratio by 1 for 1 minute. {nl}Rechtsklick zum verwenden. Cooldown of 120 Sekunden.
 ITEM_20151224_008771	Complete Ruklys Brew
@@ -8811,7 +8811,7 @@ ITEM_20151224_008810	Sofortiges Wiederherstellen 1120 HP. {nl}Stellt zusätzlich
 ITEM_20151224_008811	Alemeth SP-Trank
 ITEM_20151224_008812	Sofortiges Wiederherstellen 445 SP. {nl}Stellt zusätzlich alle 2 Sekunden SP wieder her. {nl}623 SP werden über 15 Sekunden wiederhergestellt. {nl}Rechtsklick zum verwenden. 45 Sekunden Abklingzeit
 ITEM_20151224_008813	Fedimian Warp Scroll
-ITEM_20151224_008814	Teleports you to Fedimian. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008814	Teleportiert dich nach Fedimian. {nl}Rechtsklick zum verwenden.
 ITEM_20151224_008815	Titel - Beginning of Savior
 ITEM_20151224_008816	A title to commemorate users who participated in the 1st CBT.
 ITEM_20151224_008817	Taumas HP-Trank
