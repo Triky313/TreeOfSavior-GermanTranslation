@@ -1540,8 +1540,8 @@ ETC_20150317_001539	You cannot receive basic items because your inventory is ful
 ETC_20150317_001540	Your account ID cannot contain spaces.
 ETC_20150317_001541	You are not equipped with the{nl}required weapon to use this skill.
 ETC_20150317_001542	Out of the range distance of herbivorous subject
-ETC_20150317_001543	You may not use this yet
-ETC_20150317_001544	You cannot create anymore
+ETC_20150317_001543	Du kannst dies jetzt nicht verwenden
+ETC_20150317_001544	Du kannst nicht mehr Erstellen
 ETC_20150317_001545	Verzauberungs-Error (Error Code: {Auto_1})
 ETC_20150317_001546	Duel status activated. {nl}The squad will be withdrawn automatically.
 ETC_20150317_001547	The duel status has been canceled.
@@ -4244,7 +4244,7 @@ ETC_20150317_004243	} Hello there
 ETC_20150317_004244	{@st41b} Falten ??
 ETC_20150317_004245	{@st41b} Zeige Details
 ETC_20150317_004246	{s22} Willst du wegwerfen?
-ETC_20150317_004247	Bist du sicher dass du [
+ETC_20150317_004247	Sicher dass du [
 ETC_20150317_004248	] wegwerfen willst?
 ETC_20150317_004249	{#FFFF00}{s20}{ol}{b}Gegenstand Acquisition:
 ETC_20150317_004250	{Auto_1} min {Auto_2} Sekunden
@@ -10322,8 +10322,8 @@ ETC_20150323_010323	Doesn't feel good.
 ETC_20150323_010324	You can feel something not good from the greenery
 ETC_20150323_010325	Demon Summoning Crystal
 ETC_20150323_010326	Buff Removal Gegenstand
-ETC_20150323_010327	This item is currently equipped.
-ETC_20150323_010328	You cannot add more than one of each type.
+ETC_20150323_010327	Der Gegenstand ist zurzeitausgerüstet.
+ETC_20150323_010328	Du kannst nicht mehr als einen dieses Types hinzufügen.
 ETC_20150323_010329	The buyer does not want this item.
 ETC_20150323_010330	Bist du sicher dass du das verkaufen willst?
 ETC_20150323_010331	Erwachen
@@ -15024,7 +15024,7 @@ ETC_20151001_015025	Blunt Dagger
 ETC_20151001_015026	Blunt Sub
 ETC_20151001_015027	Pistol Dagger
 ETC_20151001_015028	/indun
-ETC_20151001_015029	I want to be recommended
+ETC_20151001_015029	Ich möchte empfohlen werden
 ETC_20151001_015030	This detector is not working!
 ETC_20151001_015031	This detector is working well
 ETC_20151001_015032	The barrier stone rejected access!
@@ -16428,7 +16428,7 @@ ETC_20151022_016429	You've removed the cauldron
 ETC_20151022_016430	Removing the power source
 ETC_20151022_016431	You've removed the power source
 ETC_20151022_016432	You've been caught by the chilly air trap
-ETC_20151022_016433	This item is currently locked
+ETC_20151022_016433	Dieser Gegenstand ist zurzeit festgesetzt.
 ETC_20151022_016434	Equip Rapier Shield
 ETC_20151022_016435	Equip Rapier Dagger
 ETC_20151022_016436	Equip Rapier Sub
@@ -24078,14 +24078,14 @@ ETC_20160811_024077	{Relation} When HP is above {P}%
 ETC_20160811_024078	{Relation} When HP is below {P}%
 ETC_20160811_024079	When an enemy of {Size}size is within {Dist}
 ETC_20160811_024080	When {Relation} within {Dist} is {BuffName}
-ETC_20160811_024081	Please select a character you wish to summon as a helper.
+ETC_20160811_024081	Bitte wähle einen Charakter den du als Helfer beschwören möchtest.
 ETC_20160811_024082	Robust
-ETC_20160811_024083	Healing
+ETC_20160811_024083	Heilung
 ETC_20160811_024084	Magic-resistance
 ETC_20160811_024085	Blessed
 ETC_20160811_024086	Divine
 ETC_20160811_024087	Strong-willed
-ETC_20160811_024088	Die Haltbarkeit des Gegenstandes veringert sich um 50% weniger
+ETC_20160811_024088	Haltbarkeit eines Gegenstandes veringert sich 50% weniger
 ETC_20160811_024089	Veringert die Dauer von alle Debuffs um 5% 
 ETC_20160811_024090	5% erhöhte Magische Verteidigung
 ETC_20160811_024091	1% Chance Feindangriffe zu annullieren

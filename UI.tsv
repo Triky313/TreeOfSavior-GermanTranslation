@@ -2270,7 +2270,7 @@ UI_20160811_002269	{@st42}The item in question will remain tradable after the tr
 UI_20160811_002270	{@st41b}Handel
 UI_20160811_002271	{@st41b}Handel abbrechen
 UI_20160811_002272	{@st66d}The item properties will not be changed{nl}as both sides are using Tokens.{/}
-UI_20160811_002273	{@st66d}The item properties will be changed{nl}as both sides are not using Tokens.{/}
+UI_20160811_002273	{@st66d}Das Gegenstandspotential ändert sich, wenn nicht beide Seiten Token verwenden.{/}
 UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}
 UI_20160811_002275	{@st66b}{s20}Your character is currently in {/}{s20}{#770000}combat{@st66b}{s20}.{/}
 UI_20160811_002276	{@st66b}Abbrechen{/}
@@ -2458,10 +2458,10 @@ UI_20161121_002457	{@st66b}Auto Match{nl}Re-Enter
 UI_20161121_002458	Entering the place previously matched.
 UI_20161121_002459	Auto Match
 UI_20161121_002460	Haupt Monster
-UI_20161121_002461	Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.
-UI_20161121_002462	Auto Match{nl}with Party
-UI_20161121_002463	Auto Match w/ Current Members
-UI_20161121_002464	{@st41b}Jetzt betreten
+UI_20161121_002461	Warten auf Teilnahme von Partymitgliedern.{nl}Eine Nachricht wird an Spieler mit entsprechenden Levelfortschritt gesendet.
+UI_20161121_002462	Auto Match{nl}mit Party
+UI_20161121_002463	Auto Match w/ Aktuelle Mitglieder
+UI_20161121_002464	{@st41b}Jetzt beitreten
 UI_20161121_002465	Total Warteschlange: %s
 UI_20161121_002466	Awaiting the participation from the party members.
 UI_20161121_002467	{@st66b}Abbrechen der Warteschlange
