@@ -2783,7 +2783,7 @@ ETC_20150317_002782	Blitz-Eigenschafts-Widerstand
 ETC_20150317_002783	Heilig-Eigenschafts-Widerstand
 ETC_20150317_002784	Dunkel-Eigenschafts-Widerstand
 ETC_20150317_002785	AoE Angriffsradius
-ETC_20150317_002786	AoE Verteidigungsverhaeltnis
+ETC_20150317_002786	AoE Verteidigungsverhältnis
 ETC_20150317_002787	2% chance of +300 additional damage when attacking
 ETC_20150317_002788	3% chance of 20% receiving continuous damage equal to 20% HP when hit
 ETC_20150317_002789	4% chance of +100 additional all resistance when hit by magic
@@ -19833,7 +19833,7 @@ ETC_20151224_019833	Simultaneous attribute training
 ETC_20151224_019834	Die folgenden Funktionen können nicht verwendet werden.
 ETC_20151224_019835	{Target} does not have the benefits to trade with you.
 ETC_20151224_019836	Handel/Einkauf-Laden verfügbar
-ETC_20151224_019837	Erhöhe EXP beim töten von Monstern
+ETC_20151224_019837	Erhöhte EXP von Monstern
 ETC_20151224_019838	Erhöhe STA Erholungsrate
 ETC_20151224_019839	Erhöhe Market listing to {COUNT}
 ETC_20151224_019840	Train {COUNT} attributes simultaneously
@@ -19858,7 +19858,7 @@ ETC_20151224_019858	Your current entry count is 0.
 ETC_20151224_019859	Your reset voucher will disappear from your inventory when it is used and will only apply to the current character.
 ETC_20151224_019860	Skill Reset
 ETC_20151224_019861	  Resets all Skill Points
-ETC_20151224_019862	Erhöhe EXP beim töten von Monstern
+ETC_20151224_019862	Erhöhte EXP von Monstern
 ETC_20151224_019863	You cannot buy the currently equipped hairstyle.
 ETC_20151224_019864	Arrange PC Logout
 ETC_20151224_019865	Mercenary Employment
@@ -20558,7 +20558,7 @@ ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	This item cannot be awakened.
 ETC_20160224_020560	When awakening an item, your magic scroll and the item's current awakened options will disappear. Do you still want to proceed?
 ETC_20160224_020561	{nl}Dies in dein Tagebuch eintragen?
-ETC_20160224_020562	No Options
+ETC_20160224_020562	Keine Option
 ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
 ETC_20160224_020564	You cannot carry more than {MAX} Silber.
 ETC_20160224_020565	Einlösbar bis [{Time}] 

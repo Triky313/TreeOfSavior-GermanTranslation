@@ -182,7 +182,7 @@ UI_20150317_000181	{@st45tw2}Willst du dieses Gegenstand schmieden?
 UI_20150317_000182	{@st41}Bestätigen{/}
 UI_20150317_000183	Quest Information
 UI_20150317_000184	{@st59}Handel abbrechen{/}
-UI_20150317_000185	{@st43}Eigener Handel{/}
+UI_20150317_000185	{@st43}Privater Handel{/}
 UI_20150317_000186	Meine Handelsliste
 UI_20150317_000187	Silber : %s
 UI_20150317_000188	Eingeben
@@ -1661,7 +1661,7 @@ UI_20150714_001660	Endspiel
 UI_20150714_001661	Tode
 UI_20150714_001662	Schaden
 UI_20150714_001663	{@st41}Zurück zur Zone
-UI_20150714_001664	{@st41b}Zurück zur Zone in nur %s Sekunden...{/}
+UI_20150714_001664	{@st41b}Zurück zur Zone in %s Sekunden...{/}
 UI_20150714_001665	{@st59}Öffne den Briefkasten{/}
 UI_20150714_001666	{@st42}Anderes Hütte{/}
 UI_20150714_001667	{@st42}Hütten-Einstellungen{/}
@@ -1728,7 +1728,7 @@ UI_20150717_001727	{@st59}Waffen hier ausrüsten{nl}Drücke Alt+Z zum Waffe wech
 UI_20150717_001728	Anderem Spieler zusehen.
 UI_20150717_001729	{@st41}Schlachtfeld
 UI_20150717_001730	Ergebnisse
-UI_20150717_001731	{@st41}Jetzt bewegen
+UI_20150717_001731	{@st41}Jetzt verlassen
 UI_20150717_001732	{@st41b}             Ein Teamname repräsentiert all deine Charaktere{nl}                Es ist ein gebräuchlicher Name im Spiel{nl}                  (Eine Namensänderung kostet TP!){/}
 UI_20150729_001733	{@st42}Zeige nur Fähigkeiten die gelernt werden können.{/}
 UI_20150729_001734	Leg Count
@@ -2184,7 +2184,7 @@ UI_20160426_002183	{/}{b}{s20}Begleiter{/}{s43}{@st43}%s{/}
 UI_20160426_002184	{/}Löscht in {b}{s20}%s Sekunden.{/}
 UI_20160426_002185	{s18}{ol}{#ffffcc}Nein{/}
 UI_20160426_002186	{s18}{ol}{#ffffcc}Abbrechen{/}
-UI_20160509_002187	Nur Token-Nutzer haben Zugang zum Team-Lager. Gegenstände, die gehandelt{nl}werden können, können hier abgelegt werden.
+UI_20160509_002187	Nur Token-Nutzer haben Zugang. Gegenstände die gehandelt werden, können hier abgelegt werden.
 UI_20160520_002188	Kaufe TP
 UI_20160520_002189	{@st42}TP Kauf
 UI_20160520_002190	{@st43}{s22}Steam Inventar Gegenstand
@@ -2202,9 +2202,9 @@ UI_20160622_002201	Melde einen Gegenstand welcher in Verdacht steht in einem pro
 UI_20160711_002202	{@st42}Gegenstand{/}
 UI_20160711_002203	{@st42}{img silver 20 20} Gelagerte Menge{/}
 UI_20160711_002204	{@st66b}{img in_arrow 20 20}An
-UI_20160711_002205	{@st59}Mach eine Anzahlung{/}
+UI_20160711_002205	{@st59}Einzahlen{/}
 UI_20160711_002206	{@st66b}{img chul_arrow 20 20}Aus
-UI_20160711_002207	{@st59}Mach einen Rückzug.{/}
+UI_20160711_002207	{@st59}Auszahlen{/}
 UI_20160711_002208	{@st42b}{img silver 20 20} Menge{/}
 UI_20160711_002209	Aktuelle Warteschlange :
 UI_20160711_002210	Empfangen von Informationen.

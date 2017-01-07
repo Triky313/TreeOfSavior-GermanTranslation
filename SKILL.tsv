@@ -1131,7 +1131,7 @@ SKILL_20150317_001130	Swap
 SKILL_20150317_001131	Swaps your position with that of the enemy.
 SKILL_20150317_001132	Ziele #{CaptionRatio}#{nl}Limited Range 20{nl}
 SKILL_20150317_001133	Teleportation
-SKILL_20150317_001134	Teleports you to a random location.
+SKILL_20150317_001134	Teleportiert dich an einen zufälligen Ort.
 SKILL_20150317_001135	Maximum Teleport Distance #{CaptionRatio}#
 SKILL_20150317_001136	Magnetic Force
 SKILL_20150317_001137	{#993399}{ol}[Magie]{/}{/}{nl}Inflicts damage nach drawing in the target at a targeted area. 
@@ -1816,7 +1816,7 @@ SKILL_20150317_001815	Casting skills will not be canceled during casting.
 SKILL_20150317_001816	Casting speed of the next casting skill becomes faster.
 SKILL_20150317_001817	Shock
 SKILL_20150317_001818	Reduced INT and SPR.
-SKILL_20150317_001819	Erhöht critical attack
+SKILL_20150317_001819	Erhöht Kritischen Angriff
 SKILL_20150317_001820	Verringert critical resistance
 SKILL_20150317_001821	Divine Stigma buff
 SKILL_20150317_001822	Erhöht stats.
