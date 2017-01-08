@@ -1822,10 +1822,10 @@ ETC_20150317_001821	You cannot ride your companion while sitting.
 ETC_20150317_001822	This companion cannot be equipped
 ETC_20150317_001823	Erhohte Physischer Angriff auf Reittier
 ETC_20150317_001824	Erhohter Magischer Angriff auf Reittier
-ETC_20150317_001825	Erhöhe Companions attack by {Wert}
-ETC_20150317_001826	Erhöhe Companions HP by {Wert}
-ETC_20150317_001827	Erhöhe Companions defense by {Wert}
-ETC_20150317_001828	Erhöhe Companions hit rate by {Wert}
+ETC_20150317_001825	Erhöhe Companions attack by {Value}
+ETC_20150317_001826	Erhöhe Companions HP by {Value}
+ETC_20150317_001827	Erhöhe Companions defense by {Value}
+ETC_20150317_001828	Erhöhe Companions hit rate by {Value}
 ETC_20150317_001829	You do not have a companion to summon.
 ETC_20150317_001830	Please dismount your companion first.
 ETC_20150317_001831	Bereithalten
@@ -10037,7 +10037,7 @@ ETC_20150323_010038	It can be only constructed on one base.
 ETC_20150323_010039	Waffenpflege-Effekt
 ETC_20150323_010040	Rüstungspflege-Effekt
 ETC_20150323_010041	Ambossverzauberung
-ETC_20150323_010042	Add physical attack of Begleiter by {Wert}
+ETC_20150323_010042	Add physical attack of Begleiter by {Value}
 ETC_20150323_010043	%d Spieler
 ETC_20150323_010044	received your buff.
 ETC_20150323_010045	had the item repaired.
@@ -10551,7 +10551,7 @@ ETC_20150401_010552	Rezept - Superior Grima Stiefel
 ETC_20150401_010553	Rezept - Superior Grima Robe
 ETC_20150401_010554	Rezept - Superior Kite Shield
 ETC_20150401_010555	Finished cooking food
-ETC_20150401_010556	Charge amount: {Wert}
+ETC_20150401_010556	Charge amount: {Value}
 ETC_20150401_010557	Repair has been completed
 ETC_20150401_010558	The gem is higher than the seller's skill
 ETC_20150401_010559	Squire Laden
@@ -10561,11 +10561,11 @@ ETC_20150401_010562	Repairing
 ETC_20150401_010563	Repairing Weapon
 ETC_20150401_010564	Repairing Rüstung
 ETC_20150401_010565	Roasting Edelstein
-ETC_20150401_010566	HP increases by {Wert}% for {Time} minutes
-ETC_20150401_010567	SP increases by {Wert}% for {Time} minutes
-ETC_20150401_010568	SP recovery time decreases by {Wert} Sekunden for {Time} minutes
-ETC_20150401_010569	HP recovery time decreases by {Wert} Sekunden for {Time} minutes
-ETC_20150401_010570	Click to use the title.
+ETC_20150401_010566	HP erhöht sich um {Value}% für {Time} Minuten
+ETC_20150401_010567	SP erhöht sich um {Value}% für {Time} Minuten
+ETC_20150401_010568	SP Widerherstellungzeit sinkt um {Value} Sekunden für {Time} Minuten
+ETC_20150401_010569	HP Widerherstellungzeit sinkt um {Value} Sekunden für {Time} Minuten
+ETC_20150401_010570	Klicken um den Titel zu verwenden.
 ETC_20150401_010571	Collecting the Sweet Herb
 ETC_20150401_010572	Arrived at the area where food spoils.
 ETC_20150401_010573	Return to Malus and get new bread.
@@ -12249,15 +12249,15 @@ ETC_20150714_012250	You are too close to the Basislager.
 ETC_20150714_012251	You are far away from the refreshment table.
 ETC_20150714_012252	{nl}The gem's level decreases upon extraction.{nl}Are you sure you want to extract a gem? 
 ETC_20150714_012253	Maximaler Physischer Angriff
-ETC_20150714_012254	Fügt deinem Begleiter {Wert} Physische Verteidigung hinzu
-ETC_20150714_012255	Fügt deinem Begleiter {Wert} Magieverteidigung hinzu
-ETC_20150714_012256	Fügt deinem Begleiter {Wert} Präzision hinzu
+ETC_20150714_012254	Fügt deinem Begleiter {Value} Physische Verteidigung hinzu
+ETC_20150714_012255	Fügt deinem Begleiter {Value} Magieverteidigung hinzu
+ETC_20150714_012256	Fügt deinem Begleiter {Value} Präzision hinzu
 ETC_20150714_012257	Minimaler Physischer Angriff
 ETC_20150714_012258	Magieverstärkung
 ETC_20150714_012259	Minimum Magieangriff
 ETC_20150714_012260	Maximal Magieangriff
-ETC_20150714_012261	Fügt deinem Begleiter {Wert} Kritrate hinzu
-ETC_20150714_012262	Fügt deinem Begleiter {Wert} Ausweichen hinzu
+ETC_20150714_012261	Fügt deinem Begleiter {Value} Kritrate hinzu
+ETC_20150714_012262	Fügt deinem Begleiter {Value} Ausweichen hinzu
 ETC_20150714_012263	You don't have the attribute to mount this Begleiter.
 ETC_20150714_012264	Rückkehr zum Hütte
 ETC_20150714_012265	Normaler Angriff
@@ -13367,12 +13367,12 @@ ETC_20150717_013368	You can remove inserted Gems by
 ETC_20150717_013369	 through the Blacksmith NPC.
 ETC_20150717_013370	The Edelstein's level will be lowered by 1 when removed.
 ETC_20150717_013371	Sub-weapons are equipped in the character's right hand.
-ETC_20150717_013372	Press {img C 40 40} to use an equipped Sub-weapon.
-ETC_20150717_013373	Your character will attack with the Sub-weapon.
-ETC_20150717_013374	If the Sub-weapon has special properties, weapon effects will apply.
-ETC_20150717_013375	Trading between Players
-ETC_20150717_013376	You can trade your items with other players.
-ETC_20150717_013377	[Trade] Press {img mouseclick_right 40 40} on the player you want to trade with and select Trade.
+ETC_20150717_013372	Drücke {img C 40 40} um eine ausgerüstete Sub-Waffe zu verwenden.
+ETC_20150717_013373	Dein Charakter wird mit der Sub-Waffe angreifen.
+ETC_20150717_013374	Wenn die Sub-Waffe spezielle Eigenschaften besitzt, werden diese verwendet.
+ETC_20150717_013375	Handeln zwischen Spielern
+ETC_20150717_013376	Du kannst Gegenstände mit anderen Spielern handeln.
+ETC_20150717_013377	[Trade] Drücke {img mouseclick_right 40 40} auf den Spieler you want to trade with and select Trade.
 ETC_20150717_013378	Select an item to trade by pressing {img mouseclick_right 40 40} on the item in your inventory.
 ETC_20150717_013379	Double-check the items on offer and press Accept and Confirm to complete the trade.
 ETC_20150717_013380	[Market] The Market allows you to trade items with many other players.
@@ -13785,7 +13785,7 @@ ETC_20150729_013786	Klicke auf den Gegenstand um ein Edelstein hinzuzufügen.{nl
 ETC_20150729_013787	{nl}{nl}Du kannst eingesetzte Edelsteine mit dem  
 ETC_20150729_013788	 bei einem Schmied NPC entfernen.
 ETC_20150729_013789	The level of the Edelstein can possibly decrease by 1 when removed.
-ETC_20150729_013790	Sub-weapons refer to all right-hand weapons except Shields.
+ETC_20150729_013790	Sub-Waffen beziehen sich auf alle Rechtshand-Waffen ausgenommen Schilde.
 ETC_20150729_013791	Your character will attack with the Sub-weapon.
 ETC_20150729_013792	If the Sub-weapon has special properties, weapon effects will apply.
 ETC_20150729_013793	[Trade] {img mouseclick_right 40 40} on the player you want to trade with and select Trade.
@@ -20647,7 +20647,7 @@ ETC_20160224_020647	Guild Event{nl}Would you like to start with{nl}{GuildEvent}?
 ETC_20160224_020648	Guild Storage Retrieve Gegenstand
 ETC_20160224_020649	You don't have enough tickets.
 ETC_20160224_020650	Can only be used in the Guild Hangout.
-ETC_20160224_020651	The number of trades{nl}allowed will deduct by {Wert}{nl}Would you like to continue?
+ETC_20160224_020651	The number of trades{nl}allowed will deduct by {Value}{nl}Would you like to continue?
 ETC_20160224_020652	Linksklick um Gegenstand auszuwählen.
 ETC_20160224_020653	You cannot remove the tower during a war.
 ETC_20160224_020654	You cannot register more than the number of tradable items allowed.
@@ -21366,7 +21366,7 @@ ETC_20160323_021364	Remaining time before the game starts
 ETC_20160323_021365	Remaining time before the game ends
 ETC_20160323_021366	The game has already started.
 ETC_20160323_021367	The number of participants allowed has been exceeded.
-ETC_20160323_021368	Rang {Wert}
+ETC_20160323_021368	Rang {Value}
 ETC_20160323_021369	{Win} Win {Lose} Lose
 ETC_20160323_021370	The weekly standings will refresh after {Time}
 ETC_20160323_021371	{Point} Punkte
@@ -21374,7 +21374,7 @@ ETC_20160323_021372	Rang {Rank}
 ETC_20160323_021373	TP Exchange Ticket
 ETC_20160323_021374	Gilden-Belohnung
 ETC_20160323_021375	1st Standing Server Belohnung
-ETC_20160323_021376	Free TP + {Wert} until the next refresh of the weekly standings
+ETC_20160323_021376	Free TP + {Value} until the next refresh of the weekly standings
 ETC_20160323_021377	Re-enter Auto Gruppe Matching
 ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?
 ETC_20160323_021379	[Alchemist Klassenmeister]{nl}
@@ -25745,9 +25745,9 @@ ETC_20161108_025744	Fire Property Attack
 ETC_20161108_025745	Fire Property Resistance
 ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
-ETC_20161112_025748	Instanced Dungeon One Entry Gutschein (14 Tage)
-ETC_20161112_025749	Silver Commission for Shop Skills (%)
-ETC_20161112_025750	Obtain Seed
+ETC_20161112_025748	Sofortiger Dungeon ein Eintritt Gutschein (14 Tage)
+ETC_20161112_025749	Silber Provision für Shop Skills (%)
+ETC_20161112_025750	Erhalte Seed
 ETC_20161112_025751	 {nl}Time left: {TIME} minutes.{nl}{nl}The prize will be ready to harvest after the time is up.
 ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
 ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. Rechtsklick zum verwenden. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP töten von Monstern{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures

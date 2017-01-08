@@ -3369,10 +3369,10 @@ SKILL_20150401_003368	Erhöht INT.
 SKILL_20150401_003369	Angriff is applied continuously
 SKILL_20150401_003370	Can use moving shot while running
 SKILL_20150401_003371	Pillaging
-SKILL_20150401_003372	HP increases.
-SKILL_20150401_003373	SP increases.
-SKILL_20150401_003374	HP recovery mal decreases.
-SKILL_20150401_003375	SP recovery mal decreases.
+SKILL_20150401_003372	HP erhöht.
+SKILL_20150401_003373	SP erhöht.
+SKILL_20150401_003374	HP Widerherstellungszeit sinkt.
+SKILL_20150401_003375	SP Widerherstellungszeit sinkt.
 SKILL_20150401_003376	Revive: Two
 SKILL_20150401_003377	When enemies are killed with [Revive], two monsters appear at rate of 1% pro{nl}Fähigkeits-Level.
 SKILL_20150401_003378	Pommel Beat: Verbessern
