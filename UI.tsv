@@ -2523,3 +2523,5 @@ UI_20161221_002522	Klassen Level 15
 UI_20161221_002523	 will be provided to your inventory.
 UI_20161221_002524	* Klassenspezifische Kostüme, die nach {nl}Rangfortschritt erhalten wurden, werden gelöscht.
 UI_20161221_002525	* Nach der Benutzung des Gutscheins kehrst du in die Hütte zurück.
+UI_20170117_002526	{@st66b}Optimierungen (Beta){/}
+UI_20170117_002527	{@st59}ON/OFF Funktion für optimierte Multithread Prozesse.{/}
