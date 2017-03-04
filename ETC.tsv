@@ -1548,7 +1548,7 @@ ETC_20150317_001547	The duel status has been canceled.
 ETC_20150317_001548	Cannot request for a duel.
 ETC_20150317_001549	Your request for a duel has been declined.
 ETC_20150317_001550	A new patch is available. {nl} Please restart the game client to download the new patch. CODE ({Auto_1})
-ETC_20150317_001551	Cannot be equipped by your class.
+ETC_20150317_001551	Kann nicht von deiner Klasse getragen werden.
 ETC_20150317_001552	Cannot be used while moving
 ETC_20150317_001553	Outside of the field of view
 ETC_20150317_001554	You don't have sufficient HP
@@ -2787,7 +2787,7 @@ ETC_20150317_002786	AoE Verteidigungsverhältnis
 ETC_20150317_002787	2% chance of +300 additional damage when attacking
 ETC_20150317_002788	3% chance of 20% receiving continuous damage equal to 20% HP when hit
 ETC_20150317_002789	4% chance of +100 additional all resistance when hit by magic
-ETC_20150317_002790	Lightning Property Attack
+ETC_20150317_002790	Blitz-Eigenschaft Angriff
 ETC_20150317_002791	Rueckschlagkraft
 ETC_20150317_002792	Angriff gegen Klein-Type Ziele
 ETC_20150317_002793	Angriff gegen Mittel-Type Ziele
@@ -11579,7 +11579,7 @@ ETC_20150428_011580	Tagebuch
 ETC_20150428_011581	Abandoned Journal
 ETC_20150428_011582	Key Thief
 ETC_20150428_011583	Great King Zachariel's Coffin
-ETC_20150428_011584	Sekunde Demon Prison
+ETC_20150428_011584	Second Demon Prison
 ETC_20150428_011585	Butterfly Tomb's Thicket
 ETC_20150428_011586	Summoned Mutated Tree Root Crystal
 ETC_20150428_011587	Raging Pilgrim's Soul

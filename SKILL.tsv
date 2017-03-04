@@ -1539,7 +1539,7 @@ SKILL_20150317_001538	HP Recovery: +#{CaptionRatio}#{nl} Aura Dauer: 60 Sekunden
 SKILL_20150317_001539	Conversion
 SKILL_20150317_001540	Create magic circle that has a chance of converting enemies into allies when they are damaged inside the circle.
 SKILL_20150317_001541	Magie circle duration 10 Sekunden
-SKILL_20150317_001542	Resist Elements
+SKILL_20150317_001542	Widerstehen Element
 SKILL_20150317_001543	Erhöht Feuer, Eis, and Heilig resistances of target.
 SKILL_20150317_001544	Feuer resistance +#{CaptionRatio}#{nl}Eis resistance +#{CaptionRatio}#{nl}Heilig resistance +#{CaptionRatio}#{nl}Buff duration #{CaptionTime}# Sekunden
 SKILL_20150317_001545	Turn Undead
@@ -1788,14 +1788,14 @@ SKILL_20150317_001787	Verstecke Linkshändige Ausrüstung
 SKILL_20150317_001788	Verstecke Linkshändige Ausrüstung
 SKILL_20150317_001789	Verstecke Rechtshändige Ausrüstung
 SKILL_20150317_001790	Verstecke Rechtshändige Ausrüstung
-SKILL_20150317_001791	An enemy is pinned to your spear.
-SKILL_20150317_001792	Pinned to your spear.
-SKILL_20150317_001793	Revive as zombie if defeated.
-SKILL_20150317_001794	HP decrease continuously.
-SKILL_20150317_001795	Explode the zombies.
+SKILL_20150317_001791	Ein Feind wurde mit deinem Speer augespießt.
+SKILL_20150317_001792	Aufspießen mit deinem Speer
+SKILL_20150317_001793	Wiederbelebung als Zombie, wenn besiegt.
+SKILL_20150317_001794	HP sinkt kontinuierlich.
+SKILL_20150317_001795	Explosion der Zombies.
 SKILL_20150317_001796	Erhöht range and attack.
 SKILL_20150317_001797	Swift Step
-SKILL_20150317_001798	Temporarily increased movement speed while attacking.
+SKILL_20150317_001798	Vorübergehend erhöhte Bewegungsgeschwindigkeit beim Angriff.
 SKILL_20150317_001799	Erhalte Feuerschaden.
 SKILL_20150317_001800	Erhöht splash.
 SKILL_20150317_001801	Reduziert SP Kosten.
@@ -5937,9 +5937,9 @@ SKILL_20151224_005936	Begleiter Ability Buff
 SKILL_20151224_005937	Erhöht block, decreased attack and critical rate
 SKILL_20151224_005938	Skills cannot be used
 SKILL_20151224_005939	Rate of blocking enemy attack increased.
-SKILL_20151224_005940	Reducing cooltime
-SKILL_20151224_005941	Reduced magical defense
-SKILL_20151224_005942	Einfrieren enemy at fixed rate.
+SKILL_20151224_005940	Verringerte Abklingzeit
+SKILL_20151224_005941	Verringerte magische Verteidigung
+SKILL_20151224_005942	Gefrorener Feind mit fester Bewegung.
 SKILL_20151224_005943	x
 SKILL_20151224_005944	Fear. Can't move.
 SKILL_20151224_005945	Evocation.
