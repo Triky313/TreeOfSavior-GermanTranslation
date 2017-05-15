@@ -2173,7 +2173,7 @@ UI_20160323_002172	{@st42} Charakterbegrüßungen{/}
 UI_20160323_002173	[Server] Gildenname
 UI_20160323_002174	Werte / Wertung
 UI_20160323_002175	[Erstellt vor: %s]
-UI_20160411_002176	{@st66b}Verwende Kamerawackeln{/}
+UI_20160411_002176	{@st66b}Kamerawackeln{/}
 UI_20160425_002177	{@st42}Wenn beide beteiligten Parteien Token{nl} verwenden, werden {nl}Handelseigenschaften von Waffen nicht geändert.{/}
 UI_20160425_002178	{@st66b} Zeige Hintergrundeffekte
 UI_20160425_002179	{@st66b} Zeige Monsterfragemente
@@ -2494,7 +2494,7 @@ UI_20161214_002493	{@st66b}Gegenstände{/}
 UI_20161214_002494	{@st59b}Item Transzendenz{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transzendenz Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transzendenz level increases by 1(Max. 10){nl}- If failed, Transzendenz level along with potential by 1(Transzendenz level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
 UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transzendenz Level 0.{/}
 UI_20161214_002496	{@st66b}Speichern{/}
-UI_20161214_002497	{@st66b}Zeige Schaden an anderen Charakteren
+UI_20161214_002497	{@st66b}Zeige Schaden an andere Spielern
 UI_20161214_002498	{@st59}Bitte wähle einen Server aus.{/}
 UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}
 UI_20161214_002500	Aktuell
@@ -2525,3 +2525,47 @@ UI_20161221_002524	* Klassenspezifische Kostüme, die nach {nl}Rangfortschritt e
 UI_20161221_002525	* Nach der Benutzung des Gutscheins kehrst du in die Hütte zurück.
 UI_20170117_002526	{@st66b}Optimierungen (Beta){/}
 UI_20170117_002527	{@st59}ON/OFF Funktion für optimierte Multithread Prozesse.{/}
+UI_20170313_002528	Transaktion
+UI_20170313_002529	Anzahlung
+UI_20170313_002530	Abzug
+UI_20170313_002531	Verbleibend
+UI_20170313_002532	
+UI_20170313_002533	
+UI_20170313_002534	
+UI_20170313_002535	
+UI_20170313_002536	
+UI_20170313_002537	
+UI_20170313_002538	{@st68b}{s18}Sammlung{/}
+UI_20170313_002539	{@st68b}Komplett(%s){/}
+UI_20170313_002540	{@st68b}Neu(%s){/}
+UI_20170313_002541	{@st68b}Unvollständig(%s){/}
+UI_20170313_002542	{@st66b}Siehe alle Effekte{/}
+UI_20170313_002543	{@st59}See the total of effects obtained.{/}
+UI_20170313_002544	{@st59}Suche den Namen der Sammlung oder Effekt.{/}
+UI_20170313_002545	{@st68b}{s18}Komplett(%s){/}
+UI_20170313_002546	{@st59}Schließe das Bild.{/}
+UI_20170313_002547	{@st59}Schließe das Gegenstandsfenster.{/}
+UI_20170313_002548	{@st41b}%s {nl}Du hast einen Gegenstand erhalten!
+UI_20170313_002549	{@st59}Gildenlager erweitern.{/}
+UI_20170313_002550	Can only be used in instanced dungeons and mercenary missions.
+UI_20170313_002551	{@st66}Select Equipped Item
+UI_20170313_002552	
+UI_20170313_002553	!! Map Exploration Complete !!
+UI_20170313_002554	{@st41b}Sammlung{/}
+UI_20170313_002555	{@st66b}[%s]{nl}erhaltener Preis.{/}
+UI_20170313_002556	{@st59}Schließe Fenster.{/}
+UI_20170313_002557	{@st41b}Auswahl kombinieren {@sti9}%s Abzeichen{/}?{/}
+UI_20170313_002558	{@st59b}Combine Badges{nl}{@st59s} - Select the badges from your inventory.{nl}{/}
+UI_20170313_002559	{@st41b}Kombinieren
+UI_20170313_002560	{@st66b}Gegenstände zu reparieren
+UI_20170313_002561	{@st66b}Drop Effekte
+UI_20170313_002562	
+UI_20170313_002563	
+UI_20170313_002564	
+UI_20170313_002565	{@st59}Registriere Gegenstand in Sammlung.{/}
+UI_20170313_002566	
+UI_20170313_002567	
+UI_20170313_002568	
+UI_20170313_002569	
+UI_20170313_002570	
+UI_20170313_002571	Investition
