@@ -23318,7 +23318,7 @@ ETC_20160811_023317	EXP Event
 ETC_20160811_023318	You have exceeded the maximum number of character slots (companions included). Delete a character or expand your number of slots to log in.{nl}(Character slots: {CharSlot}, No. of characters: {CharCount})
 ETC_20160811_023319	You can no longer create a character in this server.
 ETC_20160811_023320	Move to Character Lodge
-ETC_20160811_023321	Delete Character
+ETC_20160811_023321	Charakter löschen
 ETC_20160811_023322	No slots available.{nl}(No, of characters: {CharCnt}, No. of slots: {SlotCnt})
 ETC_20160811_023323	You cannot expand your no. of slots in this server.
 ETC_20160811_023324	Auto Hunt: ON
@@ -27512,3 +27512,391 @@ ETC_20170313_027511	You have defeated the monsters!{nl}Destroy the activated tra
 ETC_20170313_027512	Failed to retrieve TP. Error code: {Code}
 ETC_20170313_027513	Awaiting TP retrieval. Please try again later.
 ETC_20170314_027514	One or more party members have used all daily entries.{nl}You will be able to advance only until the Lolopanther Area.
+ETC_20170327_027515	Receive Anniversary Firecrackers
+ETC_20170327_027516	Cannot be used while riding or interacting with a companion.
+ETC_20170327_027517	Receive Event Items
+ETC_20170330_027518	Main Building
+ETC_20170330_027519	Grand Corridor
+ETC_20170330_027520	Penitence Route
+ETC_20170330_027521	Sanctuary
+ETC_20170330_027522	Sentry Bailey
+ETC_20170330_027523	Drill Ground of Confliction
+ETC_20170330_027524	Resident Quarter
+ETC_20170330_027525	Storage Quarter
+ETC_20170330_027526	Storage
+ETC_20170330_027527	Solitary Cells
+ETC_20170330_027528	Workshop
+ETC_20170330_027529	Investigation Room
+ETC_20170330_027530	Ruklys Hall of Fame
+ETC_20170330_027531	Extension
+ETC_20170330_027532	Evacuation Residential District
+ETC_20170330_027533	Tough Luck
+ETC_20170330_027534	Use this and good things are sure to come your way.
+ETC_20170330_027535	Lucky One
+ETC_20170330_027536	Golden Luck
+ETC_20170330_027537	Eternal Fortune
+ETC_20170330_027538	Life is Sweet
+ETC_20170330_027539	A title given to players who ate 5 Valentine Chocolates.
+ETC_20170330_027540	Not on a Diet
+ETC_20170330_027541	A title given to players who ate 20 Valentine Chocolates.
+ETC_20170330_027542	Chocolate Meister
+ETC_20170330_027543	A title given to players who ate 50 Valentine Chocolates.
+ETC_20170330_027544	Sugar Rush
+ETC_20170330_027545	A title given to players who ate 70 Valentine Chocolates.
+ETC_20170330_027546	A title given to players who ate 100 Valentine Chocolates.
+ETC_20170330_027547	TOS Music Master
+ETC_20170330_027548	A title given to the winners of the TOS Cover Contest.
+ETC_20170330_027549	Burial Ground Itinerant
+ETC_20170330_027550	Increases the maximum amount of members in a guild by 3 per attribute level.
+ETC_20170330_027551	Undefined message.
+ETC_20170330_027552	Double login error.
+ETC_20170330_027553	Product number missing NISMS.
+ETC_20170330_027554	Failed to load NISMS cash inventory data.
+ETC_20170330_027555	No NISMS items.
+ETC_20170330_027556	NISMS cannot find item.
+ETC_20170330_027557	Grants Token benefits to all your characters in the server for 30 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
+ETC_20170330_027558	Grants Token benefits to all your characters in the server for 7 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027559	Grants Token benefits to all your characters in the server for 5 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027560	Grants Token benefits to all your characters in the server for 1 day. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027561	Grants Token benefits to all your characters in the server for 3 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027562	Grants Token benefits to all your characters in the server for 6 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027563	Grants Token benefits to all your characters in the server for 12 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027564	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027565	Grants Token benefits to all your characters in the server for 30 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
+ETC_20170330_027566	Grants Token benefits to all your characters in the server for 15 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027567	Grants Token benefits to all your characters in the server for 3 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027568	Grants Token benefits to all your characters in the server for 5 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027569	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027570	Grants Token benefits to all your characters in the server for 1 hour. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
+ETC_20170330_027571	Midnight Blue Hair Dye
+ETC_20170330_027572	Rich and mysterious like the deep night sky. Right-click to use. Check the Character Settings tab for the registered color.
+ETC_20170330_027573	Use to obtain 650 TP. 
+ETC_20170330_027574	Tak about the importance of an Appraiser Master
+ETC_20170330_027575	Search for books with ways to transform into a demon at the Sanctuary
+ETC_20170330_027576	Physical Defense {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 seconds when attacked by a Devil-type enemy (cooldown time 10 seconds)
+ETC_20170330_027577	Max. no. of participants in group chat
+ETC_20170330_027578	Max. no. of group chats held by each player
+ETC_20170330_027579	When displayed as 0, the item cannot be enhanced, transcended, added sockets, awakened, traded 1:1, registered in the market, purchased, cancelled, sold to an NPC, deposited/withdrawn from personal and team storage, equipped on a companion or unequipped.
+ETC_20170330_027580	Group ID to allow for access when no. of characters exceeds no. of slots available
+ETC_20170330_027581	Set to 1 to login to DB (same as internal server) regardless of country
+ETC_20170330_027582	Set Sleep time equal to each frame in zone server. (msec) Used for testing when zone server frames are low.
+ETC_20170330_027583	Max. no. of cabinet items sent from zone server to client. Server crashes if number is too large
+ETC_20170330_027584	No. of members increased according to guild member attribute
+ETC_20170330_027585	Available 2-4 matching time (ms)
+ETC_20170330_027586	Process Exception(s) After Delete
+ETC_20170330_027587	Use to create a Candy Basket.
+ETC_20170330_027588	Gray
+ETC_20170330_027589	Yellow
+ETC_20170330_027590	Light Green
+ETC_20170330_027591	Green
+ETC_20170330_027592	Pink
+ETC_20170330_027593	Purple
+ETC_20170330_027594	Light Blue
+ETC_20170330_027595	Blue
+ETC_20170330_027596	Turquoise
+ETC_20170330_027597	Account or PcEtc or session property check
+ETC_20170330_027598	Account or PcEtc or session property revision
+ETC_20170330_027599	Expired items cannot be used as materials.
+ETC_20170330_027600	Cooldown time: {Sec} seconds
+ETC_20170330_027601	Tradable via Market
+ETC_20170330_027602	Your companion is not in active mode.
+ETC_20170330_027603	Cannot log out during the matching process.
+ETC_20170330_027604	Attribute point limit exceeded.
+ETC_20170330_027605	Not enough attribute points.
+ETC_20170330_027606	Cannot move to another map during the matching process.
+ETC_20170330_027607	Groups
+ETC_20170330_027608	You cannot create any more group chats.
+ETC_20170330_027609	The other player cannot create any more group chats.
+ETC_20170330_027610	Group Chat
+ETC_20170330_027611	Expired items have been deleted.
+ETC_20170330_027612	Failed to delete expired times. Please try again.
+ETC_20170330_027613	No expired items.
+ETC_20170330_027614	See
+ETC_20170330_027615	Connection to the chat server is unstable. Try again later.
+ETC_20170330_027616	Tab {Count}
+ETC_20170330_027617	Autoscroll to bottom when new message arrives
+ETC_20170330_027618	New Chat
+ETC_20170330_027619	The room is full.
+ETC_20170330_027620	{Name} Chat
+ETC_20170330_027621	Invitation is not valid.
+ETC_20170330_027622	You are already in the chat room.
+ETC_20170330_027623	{Name}'s Group Chat
+ETC_20170330_027624	{Text} [{Cnt} people]
+ETC_20170330_027625	Created new room.
+ETC_20170330_027626	{Name} has joined.
+ETC_20170330_027627	{Name} has left.
+ETC_20170330_027628	Blocked player.
+ETC_20170330_027629	(Level {Auto_1} reached on completion)
+ETC_20170330_027630	{COUNT} out of {MAXCOUNT} completed.
+ETC_20170330_027631	The Kingdom's Lost Treasures
+ETC_20170330_027632	The transformation wore off.{nl}Defeat the Pawndels and Pawnds and use the Transformation Scroll!
+ETC_20170330_027633	{ZONE} is a level {ZONELV} area.{nl}Do you want to enter?
+ETC_20170330_027634	You have EXP Cards available.{nl}Do you want to move without using the EXP cards?
+ETC_20170330_027635	{@st41b}Class EXP:  
+ETC_20170330_027636	 You have defeated {COUNT} monsters!{nl}Receive your EXP card reward at the Wings of Vaivora!
+ETC_20170330_027637	 Defeat {COUNT} monsters to receive an EXP card reward!{nl}Rewards can be retrieved at the Wings of Vaivora.
+ETC_20170330_027638	 map exploration complete!{nl}Receive your EXP card reward at the Wings of Vaivora!
+ETC_20170330_027639	 map exploration: increase it by {PERCENT}% to receive an EXP card reward!{nl}Rewards can be retrieved at the Wings of Vaivora.
+ETC_20170330_027640	The Pendrosium is knocked out!{nl}Hurry and collect the honey!
+ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until after the ceasefire period that follows the end of the war.{nl}Are you sure you want to declare war?
+ETC_20170330_027642	You cannot disband your guild during a war.
+ETC_20170330_027643	You cannot disband your guild during the ceasefire.
+ETC_20170330_027644	Purchased
+ETC_20170330_027645	Sold
+ETC_20170330_027646	Cancelled
+ETC_20170330_027647	{Day}d {Hour}h {Min}m
+ETC_20170330_027648	{Hour}h {Min}m {Sec}s
+ETC_20170330_027649	{Min}m {Sec}s
+ETC_20170330_027650	You will be matched in a party of {MIN_MEMBER} players minimum.{nl}This option can only be changed by cancelling auto match.{nl}Do you accept to enter as a 2 to 4 member party?
+ETC_20170330_027651	Cancelled 2 to 4 auto match.{nl}Cancelled for all party members.
+ETC_20170330_027652	Chat Tab Toggle
+ETC_20170330_027653	Able to retrieve Market silver instantaneously
+ETC_20170330_027654	
+ETC_20170330_027655	
+ETC_20170330_027656	Receive event rewards
+ETC_20170330_027657	Receive hidden rewards
+ETC_20170330_027658	Apply Goddess' Blessing stage 1.
+ETC_20170330_027659	Apply Goddess' Blessing stage 2.
+ETC_20170330_027660	Apply Goddess' Blessing stage 3.
+ETC_20170330_027661	Apply Goddess' Blessing stage 4.
+ETC_20170330_027662	Apply Goddess' Blessing stage 5.
+ETC_20170330_027663	Goddess' Blessing cannot be applied over stage 5.
+ETC_20170330_027664	Check event participation count
+ETC_20170330_027665	Midnight Blue
+ETC_20170330_027666	Survival Notice Board
+ETC_20170330_027667	[Cataphract Master]{nl}       Memet Culag
+ETC_20170330_027668	[Cataphract Submaster]{nl}           Dirk Drigg
+ETC_20170330_027669	[Plague Doctor Master]{nl}Philip Aurellius
+ETC_20170330_027670	Escape the monsters for 4m30s.
+ETC_20170330_027671	Escape the monsters for 3m10s.
+ETC_20170330_027672	Earth Tower 30F
+ETC_20170418_027673	Mishekan Forest Dungeon
+ETC_20170418_027674	Superior Dungeon Reset Voucher
+ETC_20170418_027675	Daily counts for all dungeons will be reset.
+ETC_20170418_027676	Superior Dungeon Reset Voucher: 14 Days
+ETC_20170418_027677	Instanced Dungeon Reset Time 6 AM
+ETC_20170418_027678	 {nl}Defeat monsters of the following type and collect 10 badges.{nl} - Type : {RACE}{nl} - Level : Over {LV}
+ETC_20170418_027679	Receive Quest
+ETC_20170418_027680	The next target level is {LEVELCOUNT}.
+ETC_20170418_027681	Collecting Dark Crystal
+ETC_20170418_027682	Placing Dark Crystal
+ETC_20170418_027683	Dark Crystals : {COUNT} / 20
+ETC_20170418_027684	Enter Event Dungeon
+ETC_20170418_027685	Collect the Dark Crystals{nl}Time Remaining:10 Minutes
+ETC_20170418_027686	Collect the Dark Crystals and take them to the Passage Altar
+ETC_20170418_027687	Red Vubbe Fighter
+ETC_20170418_027688	Vubbe Fighter
+ETC_20170418_027689	Defeat the Vubbe Fighters
+ETC_20170420_027690	Trampler
+ETC_20170420_027691	Building Structure
+ETC_20170420_027692	Teresh Forest
+ETC_20170420_027693	Tekel Shelter
+ETC_20170420_027694	Izoliacjia Plateau
+ETC_20170420_027695	Rancid Labyrinth
+ETC_20170420_027696	Balaam Camp Site
+ETC_20170420_027697	Michmas Temple
+ETC_20170420_027698	Belcoper Gard Raid
+ETC_20170420_027699	Raid
+ETC_20170420_027700	Limestone Cave 71_2
+ETC_20170420_027701	Limestone Cave 71_1
+ETC_20170420_027702	Knowledgeable Savior
+ETC_20170420_027703	A title given to participants of the girl event.
+ETC_20170420_027704	Receiver of the Revelations
+ETC_20170420_027705	A title given to participants of the Goddesses' level up event.
+ETC_20170420_027706	Awakened Savior
+ETC_20170420_027707	Baby Steps Savior
+ETC_20170420_027708	Toddling Savior
+ETC_20170420_027709	Growing Savior
+ETC_20170420_027710	Storm and Stress Savior
+ETC_20170420_027711	Mature Savior
+ETC_20170420_027712	Testified Savior
+ETC_20170420_027713	Proud Savior
+ETC_20170420_027714	A title given to event participants.
+ETC_20170420_027715	Elite Buff
+ETC_20170420_027716	An enormous monster, like the leader of the group.
+ETC_20170420_027717	Pop Flower
+ETC_20170420_027718	Deals damage as the flower explodes
+ETC_20170420_027719	Silence
+ETC_20170420_027720	Lv. 3 silence. Basic attacks and skills cannot be used.
+ETC_20170420_027721	Belcoper's Curse
+ETC_20170420_027722	Reduces HP and SP
+ETC_20170420_027723	Increases attack 
+ETC_20170420_027724	Contaminated Area
+ETC_20170420_027725	Deals damage proportional to total HP
+ETC_20170420_027726	Raid Invincibility
+ETC_20170420_027727	Pillar of Protection
+ETC_20170420_027728	Temporary invincible status.
+ETC_20170420_027729	Elite Subordinate Buff
+ETC_20170420_027730	Monster that follows the leader of the group.
+ETC_20170420_027731	Strong Summon
+ETC_20170420_027732	A strong summoned monster.
+ETC_20170420_027733	A summoned monster.
+ETC_20170420_027734	Invest stat points in STR/CON/INT/SPR/DEX to develop your character.{nl}{nl}- STR: Increases physical attack and accuracy{nl}{nl}- CON: Increases max. HP, HP recovery (including from spells and potions), max. stamina and block{nl}{nl}- INT: Increases magic attack{nl}{nl}- SPR: Increases max. SP, SP recovery (including from spells and potions) and resistance to status ailments{nl}{nl}- DEX: Increases attack speed, evasion, block penetration and critical attack{nl}
+ETC_20170420_027735	{nl}{nl}To learn attributes you need attribute points, which can be purchased for a set silver fee.
+ETC_20170420_027736	Some attributes cannot be learned immediately and require some time to complete.
+ETC_20170420_027737	{nl}{nl}Attributes can only be used after being learned.{nl}You cannot start learning an attribute while another is being learned.
+ETC_20170420_027738	Monsters are divided into regular, special, elite and boss monsters according to how ferocious they are.{nl} {nl}{img target_info_gauge_image 40 40}: Regular Monster{img expert_info_gauge_image 40 40}: Special Monster{nl}{img elitetarget_info_gauge_image 40 40}: Elite Monster{img bosstarget_info_gauge_image 40 40}: Boss Monster
+ETC_20170420_027739	You can go on missions with your party members through the Mercenary Post in Klaipeda.
+ETC_20170420_027740	Is located at the bottom region of Klaipeda.
+ETC_20170420_027741	{nl} {nl}After acquiring an unidentified item, you will need to bring it to Appraiser Sandra in Fedimian.
+ETC_20170420_027742	At the Mercenary Post in Klaipeda, you can play different types of missions.
+ETC_20170420_027743	 Klaipeda's  
+ETC_20170420_027744	{nl} {nl}In hunting grounds you will also find elite versions of other monsters.
+ETC_20170420_027745	Unidentified items can be identified at the Appraiser Sandra NPC or the Blacksmith NPC  in Fedimian. 
+ETC_20170420_027746	Normal
+ETC_20170420_027747	Magic
+ETC_20170420_027748	Rare
+ETC_20170420_027749	Unique
+ETC_20170420_027750	Legend
+ETC_20170420_027751	Stat Reset Potion (1 Day)
+ETC_20170420_027752	Skill Reset Potion (1 Day)
+ETC_20170420_027753	Rank Reset Voucher (1 Day)
+ETC_20170420_027754	Stat Reset Potion (60 Days)
+ETC_20170420_027755	Skill Reset Potion (60 Days)
+ETC_20170420_027756	Rank Reset Voucher (60 Days)
+ETC_20170420_027757	Class President School Uniform Package (Male)
+ETC_20170420_027758	Right-click to open and obtain the following items.{nl}- Bad Kids Blue School Uniform (Male) x1{nl}- Class President Arm Band x1
+ETC_20170420_027759	Class President School Uniform Package (Female)
+ETC_20170420_027760	Right-click to open and obtain the following items.{nl}- Bad Kids Blue School Uniform (Female) x1{nl}- Class President Arm Band x1
+ETC_20170420_027761	Bad Kids School Uniform Package (Male)
+ETC_20170420_027762	Right-click to open and obtain the following items.{nl}- Bad Kids White School Uniform (Male) x1{nl}- Class President Arm Band x1
+ETC_20170420_027763	Bad Kids School Uniform Package (Female)
+ETC_20170420_027764	Right-click to open and obtain the following items.{nl}- Bad Kids White School Uniform (Female) x1{nl}- Class President Arm Band x1
+ETC_20170420_027765	Section 1
+ETC_20170420_027766	Section 2
+ETC_20170420_027767	Section 3
+ETC_20170420_027768	Section 4
+ETC_20170420_027769	Drill Ground
+ETC_20170420_027770	Hall of Strength
+ETC_20170420_027771	Weapon Storage
+ETC_20170420_027772	Chamber of Eternal Sleep
+ETC_20170420_027773	Offerings Room
+ETC_20170420_027774	Corridor of Madness
+ETC_20170420_027775	Chapel of Deceit
+ETC_20170420_027776	Memorial of Vanity
+ETC_20170420_027777	Skill Material Merchant
+ETC_20170420_027778	Leaf Penguin
+ETC_20170420_027779	Goddess' Level Up Chest Helper
+ETC_20170420_027780	Defeat a Monster of a Level Equal or Superior to Yours With Your Companion
+ETC_20170420_027781	Additional Dark Attack {img green_up_arrow 16 16} 30
+ETC_20170420_027782	HP Recovery {img green_up_arrow 16 16} 16
+ETC_20170420_027783	All Stats {img green_up_arrow 16 16} 1
+ETC_20170420_027784	Adds {img green_up_arrow 16 16} 12 Earth property damage to basic attacks
+ETC_20170420_027785	Fire Property Resistance {img green_up_arrow 16 16} 16
+ETC_20170420_027786	Attack against Devil-type Targets {img green_up_arrow 16 16} 6
+ETC_20170420_027787	Attack against Devil-type Targets {img green_up_arrow 16 16} 8
+ETC_20170420_027788	1% chance to gain 30 seconds of increased attack against Devil-type Targets by {img green_up_arrow 16 16} 157 
+ETC_20170420_027789	All Stats {img green_up_arrow 16 16} 3
+ETC_20170420_027790	CON {img green_up_arrow 16 16} 5
+ETC_20170420_027791	Stamina {img green_up_arrow 16 16} 10
+ETC_20170420_027792	When receiving Earth property attacks{nl}                         When using basic attacks for 10 seconds{nl}                         Earth property attack increases with every stack{nl}                         of the Rage of Earth buff{nl}                         (max. 30 stacks)
+ETC_20170420_027793	SPR {img green_up_arrow 16 16} 6
+ETC_20170420_027794	1% chance of recovering 200 SP for 5 seconds when attacked by a Devil-type enemy
+ETC_20170420_027795	When attacking an enemy from behind with Backstab{nl}                         {img green_up_arrow 16 16}150% attack increase{nl}                         evasion {img red_down_arrow 16 16}188 decrease
+ETC_20170420_027796	Porapore buff effects when using physical attacks{nl}                         Upon reaching 100 Porapore buff stacks, for 10 seconds{nl}                         Ligh and Dark property add. damage{nl}                         increase by {img green_up_arrow 16 16}8% of your magic defense
+ETC_20170420_027797	Ice Property Additional Damage {img green_up_arrow 16 16} 12
+ETC_20170420_027798	Ice Property Additional Damage {img green_up_arrow 16 16} 26
+ETC_20170420_027799	Earth Property Additional Damage {img green_up_arrow 16 16} 42
+ETC_20170420_027800	HP Recovery {img green_up_arrow 16 16}240
+ETC_20170420_027801	All Stats {img green_up_arrow 16 16}6
+ETC_20170420_027802	Adds {img green_up_arrow 16 16}110 Frost property attack to basic attacks{nl}                         Increases STR and SPR by {img green_up_arrow 16 16}12
+ETC_20170420_027803	All Stats {img green_up_arrow 16 16}25
+ETC_20170420_027804	Physical Attack {img green_up_arrow 16 16}571{nl}                         Magic Amplification {img green_up_arrow 16 16}69
+ETC_20170420_027805	Evasion {img green_up_arrow 16 16}48{nl}                         Critical Rate {img green_up_arrow 16 16}72
+ETC_20170420_027806	Physical Attack {img green_up_arrow 16 16}818
+ETC_20170420_027807	Increases physical defense by {img green_up_arrow 16 16}201{nl}                         When being attacked by Devil-type enemies{nl}                         5% chances of recovering 2% of your max. Hp every second for 5 seconds{nl}                         (Cooldown of 10 seconds)
+ETC_20170420_027808	Magic Resistance {img green_up_arrow 16 16}247{nl}                         Physical Attack {img green_up_arrow 16 16}571
+ETC_20170420_027809	Physical Defense{img green_up_arrow 16 16}50{nl}                         Magic Defense{img green_up_arrow 16 16}50
+ETC_20170420_027810	Increases attack on Large enemies by {img green_up_arrow 16 16}200{nl}                         Increases AoE attack ratio by{img green_up_arrow 16 16}1
+ETC_20170420_027811	Max. Attribute Points
+ETC_20170420_027812	Silver required for purchasing one attribute point
+ETC_20170420_027813	No. of slots increased by expanding personal storage once
+ETC_20170420_027814	Price of each team storage expansion
+ETC_20170420_027815	Max. slots allowed for team storage
+ETC_20170420_027816	No. of added team storage slots with Token activated
+ETC_20170420_027817	Recipe - Goddesses' Blessed Gem
+ETC_20170420_027818	Recipe - Elga Rapier
+ETC_20170420_027819	Recipe - Black Horn
+ETC_20170420_027820	Recipe - Cardboard Cube (Rapier)
+ETC_20170420_027821	Can only be used at Rank {LAST_RANK}. Your current Rank is Rank {CUR_RANK}.
+ETC_20170420_027822	You have unused Rank Cards.{nl}You can reset your Rank after using up all leftover Rank Cards and Class EXP Recovery Cards.
+ETC_20170420_027823	You don't have enough silver stored.
+ETC_20170420_027824	You have surpassed the Rank at which this card can be used.{nl}Confirm to delete the Rank Card.
+ETC_20170420_027825	No attributes to apply.
+ETC_20170420_027826	Add. Psychokinesis Property Damage
+ETC_20170420_027827	Add. Fire Property Damage
+ETC_20170420_027828	Add. Ice Property Damage
+ETC_20170420_027829	Add. Lightning Property Damage
+ETC_20170420_027830	Add. Earth Property Damage
+ETC_20170420_027831	Add. Poison Property Damage
+ETC_20170420_027832	Add. Holy Property Damage
+ETC_20170420_027833	Add. Dark Property Damage
+ETC_20170420_027834	Add. Psychokinesis Property Damage
+ETC_20170420_027835	You are not the right class for this equipment.
+ETC_20170420_027836	Level requirements of the consumed materials should be equal or superior to that of the items to combine.
+ETC_20170420_027837	You have collected the young leaves!
+ETC_20170420_027838	You collected the Asellu leaf buds, but a Kepari has jumped out from the roots!
+ETC_20170420_027839	There is no more need to collect materials.{nl}Press the V key to make the wooden hammer!
+ETC_20170420_027840	{@st59}Increases max. SP, SP recovery, summon evasion and summon HP{/}
+ETC_20170420_027841	You have collected the spirit essence!{nl}The flying dust has attracted the monsters.
+ETC_20170420_027842	You have destroyed the Crystal Pillar!{nl}The evil energy coming from it is affecting you.
+ETC_20170420_027843	Do you want to learn this attribute?{nl}{PRICE} Point(s)
+ETC_20170420_027844	Receive Attendance Reward [Total: {COUNT1}]
+ETC_20170420_027845	Receive Invitation Attendance Reward [Total: {COUNT2}]
+ETC_20170420_027846	Today's attendance reward 
+ETC_20170420_027847	Title
+ETC_20170420_027848	: You cannot move here with another character.
+ETC_20170420_027849	You have obtained the key, but an unknown force is pushing you!
+ETC_20170420_027850	You have obtained the key, but an unknown force is pushing and pulling you!
+ETC_20170420_027851	A pink tree root came out of the herb's roots!
+ETC_20170420_027852	Obtained the Woodluwa leaves.{nl}Return to Hunter Natasha.
+ETC_20170420_027853	Demons have appeared in sections 2, 3 and 4.
+ETC_20170420_027854	The demons are concentrating in sections 2, 3 and 4.
+ETC_20170420_027855	Applied the Magic of Speed.
+ETC_20170420_027856	Applied the Magic of Wrath.
+ETC_20170420_027857	Applied the Magic of Illusion.
+ETC_20170420_027858	Obtained the Magic Stone of Speed.
+ETC_20170420_027859	Obtained the Magic Stone of Wrath.
+ETC_20170420_027860	Obtained the Magic Stone of Illusion.
+ETC_20170420_027861	Demons have appeared somewhere in the Balaam Camp Site.
+ETC_20170420_027862	An unknown light is shining from the magic circle.
+ETC_20170420_027863	The demons are concentrating at Michmas Temple.
+ETC_20170420_027864	The demons are appearing everywhere around Michmas Temple.
+ETC_20170420_027865	You cannot use this here.
+ETC_20170420_027866	Add. Wind Property Damage
+ETC_20170420_027867	Team name applied.
+ETC_20170420_027868	Failed to apply team name.
+ETC_20170420_027869	A Wendigo jumped out of the chasm along with the key!
+ETC_20170420_027870	{@st59}Increases physical attack and accuracy{/}
+ETC_20170420_027871	{@st59}Increases max. HP, HP recovery, max. stamina and block{/}
+ETC_20170420_027872	{@st59}Increases basic attack speed, critical attack, block penetration and evasion{/}
+ETC_20170420_027873	Can no longer store in the team storage.
+ETC_20170420_027874	Reset Helper
+ETC_20170420_027875	Information Board
+ETC_20170510_027876	Lanko 22 Waters
+ETC_20170510_027877	{img Collar_Brush 20 20}Perfect Translator
+ETC_20170510_027878	Anti-mage
+ETC_20170510_027879	Restores 10% of total HP when receiving magic damage.
+ETC_20170510_027880	Anti-warrior
+ETC_20170510_027881	Restores 10% of total HP when receiving physical or missile damage.
+ETC_20170510_027882	[Event] Emoticon Plus Package: Popolion
+ETC_20170510_027883	When enhancing armor, shields, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
+ETC_20170510_027884	The transcendence stage of the item is too low to dismantle it.
+ETC_20170510_027885	You have surpassed the Rank at which this card can be used.{nl}Confirm to delete the card.
+ETC_20170510_027886	Checking the detector...
+ETC_20170510_027887	Obtained a report.
+ETC_20170510_027888	You already obtained a report from this machine.
+ETC_20170510_027889	Your class level has increased.
+ETC_20170510_027890	Deliver Donnes' Badges
+ETC_20170510_027891	Check Total Badges Delivered
+ETC_20170510_027892	Your total count is {DONNESCOUNT}.
+ETC_20170510_027893	Receive New User Guide Chests
+ETC_20170510_027894	You have {NRUCOUNT} character rewards left.
+ETC_20170510_027895	Disease Detector
+ETC_20170512_027896	Black Crystals: {COUNT}/50
+ETC_20170512_027897	Exchange Donnes Badges
+ETC_20170512_027898	Finished for today. Please try again tomorrow.
+ETC_20170512_027899	 {nl}Destroy a few Tree Roots and obtain 10 Welcome Badges.
+ETC_20170515_027900	Grateful Donnes Event
+ETC_20170515_027901	Steps to 100 Event
+ETC_20170517_027902	

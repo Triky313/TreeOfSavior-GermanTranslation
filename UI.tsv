@@ -2529,12 +2529,12 @@ UI_20170313_002528	Transaktion
 UI_20170313_002529	Anzahlung
 UI_20170313_002530	Abzug
 UI_20170313_002531	Verbleibend
-UI_20170313_002532	
-UI_20170313_002533	
-UI_20170313_002534	
-UI_20170313_002535	
-UI_20170313_002536	
-UI_20170313_002537	
+UI_20170313_002532	Identify the selected equipment.
+UI_20170313_002533	{@st66b}Identifikation{/}
+UI_20170313_002534	{@st66b}Material{/}
+UI_20170313_002535	Item Name
+UI_20170313_002536	{@st43}Forgery{/}
+UI_20170313_002537	{@st41b}Wechsel
 UI_20170313_002538	{@st68b}{s18}Sammlung{/}
 UI_20170313_002539	{@st68b}Komplett(%s){/}
 UI_20170313_002540	{@st68b}Neu(%s){/}
@@ -2549,7 +2549,7 @@ UI_20170313_002548	{@st41b}%s {nl}Du hast einen Gegenstand erhalten!
 UI_20170313_002549	{@st59}Gildenlager erweitern.{/}
 UI_20170313_002550	Can only be used in instanced dungeons and mercenary missions.
 UI_20170313_002551	{@st66}Select Equipped Item
-UI_20170313_002552	
+UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}
 UI_20170313_002553	!! Map Exploration Complete !!
 UI_20170313_002554	{@st41b}Sammlung{/}
 UI_20170313_002555	{@st66b}[%s]{nl}erhaltener Preis.{/}
@@ -2559,13 +2559,96 @@ UI_20170313_002558	{@st59b}Combine Badges{nl}{@st59s} - Select the badges from y
 UI_20170313_002559	{@st41b}Kombinieren
 UI_20170313_002560	{@st66b}Gegenstände zu reparieren
 UI_20170313_002561	{@st66b}Drop Effekte
-UI_20170313_002562	
-UI_20170313_002563	
-UI_20170313_002564	
+UI_20170313_002562	{@st66d}Schätzer [Forgery] Gegenstand{nl}Verbleibende Zeit %s
+UI_20170313_002563	1m30s
+UI_20170313_002564	{@st59}Quest neustarten{/}
 UI_20170313_002565	{@st59}Registriere Gegenstand in Sammlung.{/}
-UI_20170313_002566	
-UI_20170313_002567	
-UI_20170313_002568	
-UI_20170313_002569	
-UI_20170313_002570	
+UI_20170313_002566	Magische Verteidigung Armband
+UI_20170313_002567	Mein Gegenstand
+UI_20170313_002568	Schätzer %s
+UI_20170313_002569	Upon{nl}equipment change
+UI_20170313_002570	Keine Gegenstände auf Schätzer.
 UI_20170313_002571	Investition
+UI_20170330_002572	{@st59}Shift + Tab to Toggle{/}
+UI_20170330_002573	{@st59}Gruppenchat{/}
+UI_20170330_002574	{@st59}Gruppenchat Liste{/}
+UI_20170330_002575	{@st59}Chat Einstellungen{/}
+UI_20170330_002576	{@st59}Chatfenster hinzufügen{/}
+UI_20170330_002577	{@st59}Doppelklick zum Minimieren/Maximieren{/}
+UI_20170330_002578	{@59}Einladen{/}
+UI_20170330_002579	{@59}Einstellung{/}
+UI_20170330_002580	{@59}Mitglieder Liste{/}
+UI_20170330_002581	{@st66d}Chatliste
+UI_20170330_002582	{@st66b}Freunde
+UI_20170330_002583	{@st66b}Gruppen
+UI_20170330_002584	{@st66e}Erstelle neuen Gruppenchat
+UI_20170330_002585	{@st59}Schließe Chatliste{/}
+UI_20170330_002586	{@st42}Gruppeneinstellungen
+UI_20170330_002587	{@st42}Farbeinstellungen
+UI_20170330_002588	{@st66}OK
+UI_20170330_002589	{@st66}Raum verlassen
+UI_20170330_002590	{@st66b}Tabs
+UI_20170330_002591	{@st66b}Screen
+UI_20170330_002592	{@st66}Transparency
+UI_20170330_002593	{@st66}Show Speech Bubbles
+UI_20170330_002594	{@st66}Show Shout Chat on Top
+UI_20170330_002595	{@st66}Schriftgröße
+UI_20170330_002596	{@st66b}Show Login Message
+UI_20170330_002597	{@st66}Gildenmitglieder{/}
+UI_20170330_002598	{@st66}Freunde{/}
+UI_20170330_002599	{@st66b}If both trading players are Token users,{nl}tradable equipment, consumables, gems and other items will remain tradable.{/}
+UI_20170330_002600	{s18}Items with Expiration Date
+UI_20170330_002601	Item(s) close to expiration date. Close?
+UI_20170330_002602	{@st43}{s20}Expired Items{/}
+UI_20170330_002603	{s17}Delete all items above?
+UI_20170330_002604	Main Drop Items
+UI_20170330_002605	{@st41b}Match 2 to 4 Players{/}
+UI_20170330_002606	{@st41b}Match 2 to 4 Players
+UI_20170330_002607	{@st59}Delete Expired Items{/}
+UI_20170330_002608	{@st45tw2}Items Purchased{/}
+UI_20170330_002609	{@st45tw2}Items Sold{/}
+UI_20170330_002610	{@st45tw2}Amount{/}
+UI_20170330_002611	{@st45tw2}Sold{/}
+UI_20170330_002612	{@st45tw2}Purchased{/}
+UI_20170330_002613	{@st45tw2}Cancelled{/}
+UI_20170330_002614	{@st45tw2}Others{/}
+UI_20170330_002615	{@st42}Join
+UI_20170330_002616	{@st42}Schließen
+UI_20170330_002617	{@st59}Schließe Nachrichtenbox{/}
+UI_20170330_002618	{#62100c}Untauschbare Gegenstände: %s
+UI_20170330_002619	Tradability
+UI_20170330_002620	Shop
+UI_20170330_002621	Personal
+UI_20170330_002622	Tradability
+UI_20170330_002623	%s Item Description %s
+UI_20170330_002624	{@59}Create Invite Tag{/}
+UI_20170330_002625	{@59}Leave{/}
+UI_20170330_002626	%s items sent.
+UI_20170330_002627	Gegenstand
+UI_20170330_002628	Expiration Date
+UI_20170330_002629	Market silver instantly retrievable
+UI_20170330_002630	Registration Outside of Max./Min. Price Allowed
+UI_20170330_002631	Movable via Team Storage
+UI_20170418_002632	{@st66} If the purchase list doesn't show up properly due to temporary error, please try click the Retrieve all button for receiving item.{/}
+UI_20170418_002633	{@st68}Neu laden{/}
+UI_20170418_002634	{@st68}Alles abholen{/}
+UI_20170418_002635	Erforderliche Punkte
+UI_20170419_002636	{@st66b}Sehe mehr{/}
+UI_20170419_002637	Klick, um mehr Freundeinfos zu sehen.
+UI_20170419_002638	I agree to being matched in a party of 2 to 4 players.
+UI_20170420_002639	Meine Punkte:
+UI_20170420_002640	{@st66b}Kauf Attribut Punkte
+UI_20170420_002641	{@st66d}Kauf Attribut Punkte
+UI_20170420_002642	Kaufpreis
+UI_20170420_002643	Kann gekauft werden
+UI_20170420_002644	Enter the amount of points to purchase.
+UI_20170420_002645	Verbrauchter Betrag
+UI_20170420_002646	Verbleibender Betrag
+UI_20170420_002647	{@st66b}Kauf
+UI_20170420_002648	{@st66b}Abbrechen
+UI_20170420_002649	Du kannst handelbare Gegenstände lagern.{nl}Silber-Lager ist für Token-Benutzer verfügbar.
+UI_20170420_002650	{@st41b}This cube cannot be reopened.{/}
+UI_20170420_002651	{@st41}Öffne Kostüm Würfel
+UI_20170420_002652	{@st66b}Verwenden um ein Kostüm zu erhalten.{/}
+UI_20170510_002653	* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.
+UI_20170510_002654	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.
