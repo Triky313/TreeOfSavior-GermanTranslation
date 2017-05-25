@@ -453,7 +453,7 @@ UI_20150317_000452	{@st41b}Individuelle EXP
 UI_20150317_000453	{@st41b}Gleiche EXP
 UI_20150317_000454	{@st41b}Von Level
 UI_20150317_000455	{@st41}Quest-Sharing
-UI_20150317_000456	{@st41b}Aktiviert
+UI_20150317_000456	{@st41b}Aktivieren
 UI_20150317_000457	{@st41b}Deaktiviert
 UI_20150317_000458	{@st41b}Gruppe erstellen
 UI_20150317_000459	{@st43}Öffentliche Gruppen-Liste {/}
@@ -1419,7 +1419,7 @@ UI_20150401_001418	{@st41b}Angebotebox
 UI_20150401_001419	{@st41}Angebotebox Name
 UI_20150401_001420	Zahlung
 UI_20150401_001421	Geschätzter Gewinn
-UI_20150401_001422	Geldmittel
+UI_20150401_001422	Geld
 UI_20150401_001423	{@st45tw}Angebotebox Gegenstands-Details
 UI_20150401_001424	{@st41}Verkaufe alles
 UI_20150401_001425	{@st43}Angebotebox
@@ -1570,7 +1570,7 @@ UI_20150714_001569	{@st41b}Braten{/}
 UI_20150714_001570	{@st66}Wähle alles
 UI_20150714_001571	{@st43}Pfeile herstellen{/}
 UI_20150714_001572	{@st59}Schließen{nl}{/}
-UI_20150714_001573	{@st66b}Prüfen{/}
+UI_20150714_001573	{@st66b}Okay{/}
 UI_20150714_001574	{@st66b}Geh helfen(Benötigt %s iCoin){/}
 UI_20150714_001575	Sockelkosten : {#000000}%s{/} Silber{nl}Edelstein Extraktionskosten : {#000000}%s{/} Silber
 UI_20150714_001576	{ds}Empfohlenes Level : %s
@@ -2597,16 +2597,16 @@ UI_20170330_002596	{@st66b}Show Login Message
 UI_20170330_002597	{@st66}Gildenmitglieder{/}
 UI_20170330_002598	{@st66}Freunde{/}
 UI_20170330_002599	{@st66b}If both trading players are Token users,{nl}tradable equipment, consumables, gems and other items will remain tradable.{/}
-UI_20170330_002600	{s18}Items with Expiration Date
-UI_20170330_002601	Item(s) close to expiration date. Close?
-UI_20170330_002602	{@st43}{s20}Expired Items{/}
-UI_20170330_002603	{s17}Delete all items above?
+UI_20170330_002600	{s18}Gegenstände mit Ablaufdatum
+UI_20170330_002601	Verfallsdatum läuft bald ab. Schließen?
+UI_20170330_002602	{@st43}{s20}Abgelaufene Gegenstände{/}
+UI_20170330_002603	{s17}Alle oben genannten Gegenstände löschen?
 UI_20170330_002604	Main Drop Items
-UI_20170330_002605	{@st41b}Match 2 to 4 Players{/}
-UI_20170330_002606	{@st41b}Match 2 to 4 Players
+UI_20170330_002605	{@st41b}Match 2 zu 4 Spieler{/}
+UI_20170330_002606	{@st41b}Match 2 zu 4 Spieler
 UI_20170330_002607	{@st59}Delete Expired Items{/}
 UI_20170330_002608	{@st45tw2}Items Purchased{/}
-UI_20170330_002609	{@st45tw2}Items Sold{/}
+UI_20170330_002609	{@st45tw2}Gegenstand verkauft{/}
 UI_20170330_002610	{@st45tw2}Amount{/}
 UI_20170330_002611	{@st45tw2}Sold{/}
 UI_20170330_002612	{@st45tw2}Purchased{/}
@@ -2616,11 +2616,11 @@ UI_20170330_002615	{@st42}Join
 UI_20170330_002616	{@st42}Schließen
 UI_20170330_002617	{@st59}Schließe Nachrichtenbox{/}
 UI_20170330_002618	{#62100c}Untauschbare Gegenstände: %s
-UI_20170330_002619	Tradability
+UI_20170330_002619	Handelbar
 UI_20170330_002620	Shop
-UI_20170330_002621	Personal
-UI_20170330_002622	Tradability
-UI_20170330_002623	%s Item Description %s
+UI_20170330_002621	Persönlich
+UI_20170330_002622	Handelbar
+UI_20170330_002623	%s Item Beschreibung %s
 UI_20170330_002624	{@59}Create Invite Tag{/}
 UI_20170330_002625	{@59}Leave{/}
 UI_20170330_002626	%s items sent.
@@ -2637,18 +2637,18 @@ UI_20170419_002636	{@st66b}Sehe mehr{/}
 UI_20170419_002637	Klick, um mehr Freundeinfos zu sehen.
 UI_20170419_002638	I agree to being matched in a party of 2 to 4 players.
 UI_20170420_002639	Meine Punkte:
-UI_20170420_002640	{@st66b}Kauf Attribut Punkte
-UI_20170420_002641	{@st66d}Kauf Attribut Punkte
+UI_20170420_002640	{@st66b}Attributpunkte kaufen
+UI_20170420_002641	{@st66d}Attributpunkte kaufen
 UI_20170420_002642	Kaufpreis
-UI_20170420_002643	Kann gekauft werden
-UI_20170420_002644	Enter the amount of points to purchase.
-UI_20170420_002645	Verbrauchter Betrag
-UI_20170420_002646	Verbleibender Betrag
-UI_20170420_002647	{@st66b}Kauf
+UI_20170420_002643	Kaufbar
+UI_20170420_002644	Anzahl Punkte die du kaufen möchtest.
+UI_20170420_002645	Abzug
+UI_20170420_002646	Verbleibend
+UI_20170420_002647	{@st66b}Kaufen
 UI_20170420_002648	{@st66b}Abbrechen
 UI_20170420_002649	Du kannst handelbare Gegenstände lagern.{nl}Silber-Lager ist für Token-Benutzer verfügbar.
 UI_20170420_002650	{@st41b}This cube cannot be reopened.{/}
 UI_20170420_002651	{@st41}Öffne Kostüm Würfel
 UI_20170420_002652	{@st66b}Verwenden um ein Kostüm zu erhalten.{/}
-UI_20170510_002653	* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.
-UI_20170510_002654	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.
+UI_20170510_002653	* Nach dem zurücksetzen erhälst du Attributpunkte.{nl}Vom Niveau her gleich wie vor dem zurücksetzen.
+UI_20170510_002654	* Klasse EXP Karten entsprechen der letzten Klassen Ebene{nl}und werden in dein Inventar gelegt.

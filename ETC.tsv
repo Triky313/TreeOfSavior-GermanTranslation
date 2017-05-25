@@ -18283,12 +18283,12 @@ ETC_20151224_018283	Gewährt all deinen Charakteren auf einem Sever Token Vortei
 ETC_20151224_018284	Token: 3 Tage [Event]
 ETC_20151224_018285	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 3 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018286	Skill Reset Potion
-ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current skill points.
+ETC_20151224_018287	Ein sehr nützlicher Trank für die, die es einfach nicht schaffen ihre Fähigkeiten richtig zu wähle.{nl}Verwende diese Option, um deine aktuellen Skillpunkte zurückzusetzen.
 ETC_20151224_018288	Instanz Dungeon Reset-Gutschein
 ETC_20151224_018289	Benutze dies um Instanziierte Dungeons und{nl} Söldnermissionen zurückzusetzen.
 ETC_20151224_018290	10 TP [Event]
 ETC_20151224_018291	Benutze und erhalte 10 TP.
-ETC_20151224_018292	Urgent Repair Kit
+ETC_20151224_018292	Dringendes Reperaturkit
 ETC_20151224_018293	Stellt die Haltbarkeit der Ausrüstung um +5 wieder her.
 ETC_20151224_018294	50 TP [Event]
 ETC_20151224_018295	Benutze und erhalte 50 TP.
@@ -20690,7 +20690,7 @@ ETC_20160224_020690	You are unable to trade because you do not have Token benefi
 ETC_20160224_020691	Anzahl möglicher Handel
 ETC_20160224_020692	Anzahl möglicher Handel.
 ETC_20160224_020693	The target has reached the maximum trades allowed.
-ETC_20160224_020694	Resets all stats.
+ETC_20160224_020694	Resetet alle Stats.
 ETC_20160224_020695	Can only be used by a Token user.
 ETC_20160224_020696	Refugee Salyamonas
 ETC_20160224_020697	Refugee Relyn
@@ -21304,24 +21304,24 @@ ETC_20160323_021302	Rezept - Palemidas Amulet
 ETC_20160323_021303	Rezept - Pertraukos Amulet
 ETC_20160323_021304	Rang: {Number}
 ETC_20160323_021305	You can't move to the instanced dungeon.
-ETC_20160323_021306	EXP erhalten
-ETC_20160323_021307	You can't use it at the max level.
+ETC_20160323_021306	Erhaltene EXP
+ETC_20160323_021307	Du kannst dies nicht aufMax-Level verwenden.
 ETC_20160323_021308	Physischer Schaden verringert
 ETC_20160323_021309	Magieschaden verringert
 ETC_20160323_021310	Zähler:
-ETC_20160323_021311	Receive all rewards (Count: {COUNT})
+ETC_20160323_021311	Erhalte alle Belohnungen (Count: {COUNT})
 ETC_20160323_021312	Sammle magische Energie
-ETC_20160323_021313	You've collected all magical power in the crystal
-ETC_20160323_021314	You've stopped collecting
+ETC_20160323_021313	Du hast alle magischen Kraft im Kristall gesammelt
+ETC_20160323_021314	Du hast aufgehört zu sammeln
 ETC_20160323_021315	Entferne die Plateau Zuckerrübenstängel
-ETC_20160323_021316	Retrieving the trap
-ETC_20160323_021317	You've retrieved a Faulty Trap
-ETC_20160323_021318	You mishandled the trap!{nl}Run!
-ETC_20160323_021319	Digging the soil
-ETC_20160323_021320	You have no more to dig
-ETC_20160323_021321	You've stopped digging
-ETC_20160323_021322	You've found Blue Coal
-ETC_20160323_021323	Picking up a stone
+ETC_20160323_021316	Die Falle aufheben
+ETC_20160323_021317	Du hast eine fehlerhafte Falle eingesammelt
+ETC_20160323_021318	Du hast eine Falle falsch verwendet!{nl}Lauf!
+ETC_20160323_021319	In die Erde graben
+ETC_20160323_021320	Du musst nicht mehr graben
+ETC_20160323_021321	Du hast aufgehört zu graben
+ETC_20160323_021322	Du hast Blue Coal gefunden
+ETC_20160323_021323	Stein aufheben
 ETC_20160323_021324	You've found an adequately sized stone to throw
 ETC_20160323_021325	You already have a stone{nl}Throw it towards the center of the magic circle
 ETC_20160323_021326	Throwing up the stone
@@ -22588,7 +22588,7 @@ ETC_20160718_022587	The {GN} Team has activated the {Obj}.
 ETC_20160718_022588	The {GN} Team's guardian has returned to where it came from.
 ETC_20160718_022589	An object used to summon the guardian has been regenerated.
 ETC_20160718_022590	The item cannot be used in this region.
-ETC_20160718_022591	Reset All Skill Points
+ETC_20160718_022591	Resetet alle Skillpunkte
 ETC_20160718_022592	Monthly Purchase Limit: {Cur}/{Max}
 ETC_20160718_022593	You have reached your limit of purchases for this month.
 ETC_20160718_022594	You cannot acquire a duplicate of the hairstyle you are currently wearing or have in your possession.
@@ -25757,8 +25757,8 @@ ETC_20161114_025756	Market sales silver payment delay: 48 hours.
 ETC_20161114_025757	Market sales silver payment delay: 48 hours. (Token)
 ETC_20161114_025758	Instanced Dungeon One-Entry Gutschein (14 Tage)
 ETC_20161121_025759	Former Fantasy Library
-ETC_20161121_025760	 One additional entry to an instanced dungeon or Mercenary Post mission.
-ETC_20161121_025761	Daily instanced dungeon entry limit exceeded.
+ETC_20161121_025760	 Ein zusätzlicher Einstieg in eine Instanz-Dungeon- oder Söldner-Post-Mission.
+ETC_20161121_025761	Täglich Instanz Dungeon Eintrag Grenze überschritten.
 ETC_20161121_025762	Auto Match with Party
 ETC_20161121_025763	Waiting for party members.
 ETC_20161121_025764	Cancelled auto matching with party members.
@@ -26690,15 +26690,15 @@ ETC_20170313_026689	When you advance to Necromancer, at the bottom-right side of
 ETC_20170313_026690	Only Animal, Plant and Mutant-type cards can be registered onto the Necronomicon, with a maximum of four cards.{nl}At the bottom of the Necronomicon, you can view the number of fragments you collected so far.
 ETC_20170313_026691	on the bottom-right side of your screen.
 ETC_20170313_026692	{nl} {nl}Only Insect-type cards can be registered in the Poison Pot, which activate the skills of cards registered through the Throw Gu Pot skill.
-ETC_20170313_026693	Leveling Up - Basic
-ETC_20170313_026694	There are different ways you can develop your character.
-ETC_20170313_026695	First, you can hunt monsters in fields or dungeons to level up your character.
+ETC_20170313_026693	Level Up - Grundlagen
+ETC_20170313_026694	Es gibt verschiedene Möglichkeiten, deinen Charakter zu entwickeln.
+ETC_20170313_026695	Zuerst kannst du Monster in Gebieten oder Dungeons jagen um deinen Charakter zu leveln.
 ETC_20170313_026696	{nl} {nl}Monsters in hunting grounds will give you more EXP than those in regular fields, so you can level up faster.
-ETC_20170313_026697	{nl} {nl}You can also level up with EXP cards obtained from completing quests.
-ETC_20170313_026698	{nl} {nl}Some regions also have instanced dungeons or missions you can play to level up even faster.
-ETC_20170313_026699	In instanced dungeons and missions, you can play in a party to obtain even higher EXP gains.
-ETC_20170313_026700	Leveling Up - Extra
-ETC_20170313_026701	There are a few particular ways in which you can develop your character.
+ETC_20170313_026697	{nl} {nl}Nach abschließen von Quests kannst du auch mit EXP-Karten leveln.
+ETC_20170313_026698	{nl} {nl}In einigen Regionen gibt es auch Dungeons oder Missionen, in denen du noch schneller leveln kannst.
+ETC_20170313_026699	In instanzierten Dungeons und Missionen kannst du in einer Party kämpfen um noch mehr EXP zu erhalten.
+ETC_20170313_026700	Level Up - Extras
+ETC_20170313_026701	Es gibt ein paar besondere Möglichkeiten, um deinen Charakter zu entwickeln.
 ETC_20170313_026702	You can use EXP cards obtained from different game activities to speed up the leveling process.
 ETC_20170313_026703	{nl} {nl}You can obtain EXP cards from Wings of Vaivora NPCs as a reward for completing map exploration or defeating a certain number of monsters.
 ETC_20170313_026704	Wings of Vaivora NPCs are located in cities.
@@ -26706,8 +26706,8 @@ ETC_20170313_026705	{nl} {nl}Sometimes you will obtain EXP cards by defeating mo
 ETC_20170313_026706	{nl} {nl}Also, you can use PvP points to purchase EXP cards at the Point Shop.
 ETC_20170313_026707	The Point Shop is 
 ETC_20170313_026708	 You can also access it through the Team Battle League NPC. PvP points can be obtained by playing Team Battle League.
-ETC_20170313_026709	Class Ranks and Circles
-ETC_20170313_026710	Character classes are organized in ranks and circles.
+ETC_20170313_026709	Klassenränge und Kreise
+ETC_20170313_026710	Charakterklassen sind in Ränge und Kreise orgasnisiert.
 ETC_20170313_026711	Ranks are like different stages your character reaches whenever they achieve class level 15.
 ETC_20170313_026712	Every time you advance a rank, you can chose from a range of classes within that rank.
 ETC_20170313_026713	{nl} {nl}Circles are the substages into which each class is divided into. They are displayed as star icons in the skill info window.
@@ -27611,7 +27611,7 @@ ETC_20170330_027610	Group Chat
 ETC_20170330_027611	Expired items have been deleted.
 ETC_20170330_027612	Failed to delete expired times. Please try again.
 ETC_20170330_027613	No expired items.
-ETC_20170330_027614	See
+ETC_20170330_027614	sehen
 ETC_20170330_027615	Connection to the chat server is unstable. Try again later.
 ETC_20170330_027616	Tab {Count}
 ETC_20170330_027617	Autoscroll to bottom when new message arrives
@@ -27748,12 +27748,12 @@ ETC_20170420_027747	Magic
 ETC_20170420_027748	Rare
 ETC_20170420_027749	Unique
 ETC_20170420_027750	Legend
-ETC_20170420_027751	Stat Reset Potion (1 Day)
-ETC_20170420_027752	Skill Reset Potion (1 Day)
-ETC_20170420_027753	Rank Reset Voucher (1 Day)
-ETC_20170420_027754	Stat Reset Potion (60 Days)
-ETC_20170420_027755	Skill Reset Potion (60 Days)
-ETC_20170420_027756	Rank Reset Voucher (60 Days)
+ETC_20170420_027751	Stat Reset Trank (1 Tag)
+ETC_20170420_027752	Skill Reset Trank (1 Tag)
+ETC_20170420_027753	Rank Reset Gutschein (1 Tag)
+ETC_20170420_027754	Stat Reset Trank (60 Tage)
+ETC_20170420_027755	Skill Reset Trank (60 Tage)
+ETC_20170420_027756	Rank Reset Gutschein (60 Tage)
 ETC_20170420_027757	Class President School Uniform Package (Male)
 ETC_20170420_027758	Right-click to open and obtain the following items.{nl}- Bad Kids Blue School Uniform (Male) x1{nl}- Class President Arm Band x1
 ETC_20170420_027759	Class President School Uniform Package (Female)
