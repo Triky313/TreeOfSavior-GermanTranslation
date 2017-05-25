@@ -8440,6 +8440,7 @@ SKILL_20170420_008439	Angriff: #{SkillFactor}#%{nl}AoE Angriff Ratio: #{SkillSR}
 SKILL_20170420_008440	#{SkillFactor}#% Angriff per 0.3 Sekunden{nl}Maximum Dauer: 10 Sekunden{nl}AoE Angriff Ratio #{SkillSR}#{nl}Able to use while riding{nl}#(CaptionRatio3} Consume SP per 0.3 Sekunden
 SKILL_20170420_008441	Increases attack equal to [Skill Level+1]x[Number of Weapon Stars]{nl}Angriff Count: #{CaptionRatio2}#{nl}Dauer: 1 hour
 SKILL_20170420_008442	Increases defense equal to [Skill Level+1]x[Number of Weapon Stars]{nl}Shoot: #{CaptionRatio2}#{nl}Dauer: 1 hour
+SKILL_20170420_008443	Angriff #{SkillFactor}#% x #{CaptionRatio}#
 SKILL_20170420_008444	{#DD5500}{ol}[Physical] - [Slash]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Angriffsgeschw.]{nl}As you spin, attack an enemy repeatedly using a weapon in each hand. The enemy will be immobilized temporarily.
 SKILL_20170420_008445	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Angriffsgeschw.]{nl}Use a weapon in each hand to deal successive strikes on an enemy.
 SKILL_20170420_008446	Angriff #{SkillFactor}#% x 7
