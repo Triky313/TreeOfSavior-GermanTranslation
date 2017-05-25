@@ -14688,8 +14688,8 @@ ITEM_20170420_014686	Restores your HP and SP by 373 every 2 seconds for 15 secon
 ITEM_20170420_014687	Restores your HP and SP by 480 every 2 seconds for 15 seconds. Right-click to use. Cooldown of 100 seconds.
 ITEM_20170420_014688	Restores your HP and SP by 617 every 2 seconds for 15 seconds. Right-click to use. Cooldown of 100 seconds.
 ITEM_20170420_014689	Restores your HP and SP by 831 every 2 seconds for 15 seconds. Right-click to use. Cooldown of 100 seconds.
-ITEM_20170420_014690	Class EXP Recovery Card
-ITEM_20170420_014691	Restores the Class EXP of your last Rank. Can only be used when your character is of the same Rank they were when they used the Rank Reset Voucher.
+ITEM_20170420_014690	Klasse EXP Wiederherstellungskarte
+ITEM_20170420_014691	Stellt die Klasse EXP deines letzten Ranges wieder her. Kann nur verwendet werden, wenn dein Charakter von demselben Rang ist, als du den Rang-Reset-Gutschein verwendest hast.
 ITEM_20170420_014692	Large HP Potion
 ITEM_20170420_014693	Instantly restores 1474 HP. {nl}Additionally restores HP every 2 seconds. {nl}1474 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014694	Huge HP Potion

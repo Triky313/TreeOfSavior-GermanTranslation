@@ -75,7 +75,7 @@ UI_20150317_000074	Casting
 UI_20150317_000075	{@st43}Spieleinstellungen{/}
 UI_20150317_000076	{@st64}Benutze die Pfeil Tasten um ein Element auszuwählen!
 UI_20150317_000077	{@st43}Entwicklungsinformation {/}
-UI_20150317_000078	{@st43}Klasse auswählen
+UI_20150317_000078	{@st43}Klasse wählen
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s. Rang {/}
 UI_20150317_000081	Wie viele Kreise
@@ -2460,7 +2460,7 @@ UI_20161121_002459	Auto Match
 UI_20161121_002460	Haupt Monster
 UI_20161121_002461	Warten auf Teilnahme von Partymitgliedern.{nl}Eine Nachricht wird an Spieler mit entsprechenden Levelfortschritt gesendet.
 UI_20161121_002462	Auto Match{nl}mit Party
-UI_20161121_002463	Auto Match w/ Aktuelle Mitglieder
+UI_20161121_002463	Auto Match mit aktueller Gruppe
 UI_20161121_002464	{@st41b}Jetzt beitreten
 UI_20161121_002465	Total Warteschlange: %s
 UI_20161121_002466	Awaiting the participation from the party members.
@@ -2568,7 +2568,7 @@ UI_20170313_002567	Mein Gegenstand
 UI_20170313_002568	Schätzer %s
 UI_20170313_002569	Upon{nl}equipment change
 UI_20170313_002570	Keine Gegenstände auf Schätzer.
-UI_20170313_002571	Investition
+UI_20170313_002571	Investment
 UI_20170330_002572	{@st59}Shift + Tab to Toggle{/}
 UI_20170330_002573	{@st59}Gruppenchat{/}
 UI_20170330_002574	{@st59}Gruppenchat Liste{/}
@@ -2623,7 +2623,7 @@ UI_20170330_002622	Handelbar
 UI_20170330_002623	%s Item Beschreibung %s
 UI_20170330_002624	{@59}Create Invite Tag{/}
 UI_20170330_002625	{@59}Leave{/}
-UI_20170330_002626	%s items sent.
+UI_20170330_002626	%s Items senden.
 UI_20170330_002627	Gegenstand
 UI_20170330_002628	Expiration Date
 UI_20170330_002629	Market silver instantly retrievable

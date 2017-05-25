@@ -25759,13 +25759,13 @@ ETC_20161114_025758	Instanced Dungeon One-Entry Gutschein (14 Tage)
 ETC_20161121_025759	Former Fantasy Library
 ETC_20161121_025760	 Ein zusätzlicher Einstieg in eine Instanz-Dungeon- oder Söldner-Post-Mission.
 ETC_20161121_025761	Täglich Instanz Dungeon Eintrag Grenze überschritten.
-ETC_20161121_025762	Auto Match with Party
-ETC_20161121_025763	Waiting for party members.
-ETC_20161121_025764	Cancelled auto matching with party members.
+ETC_20161121_025762	Auto Match mit Party
+ETC_20161121_025763	Warte auf Party Mitglieder.
+ETC_20161121_025764	Auto matching mit Party Mitgliedern abbrechen.
 ETC_20161121_025765	{MEMBER} is currently queuing for auto matching at {INDUN}. To join, go to the corresponding NPC and select 'Auto Match w/ Party'.
 ETC_20161121_025766	Cannot leave while queuing for party entry.
-ETC_20161121_025767	Auto matching in progress
-ETC_20161121_025768	Auto matching completed.
+ETC_20161121_025767	Auto matching läuft
+ETC_20161121_025768	Auto matching abgeschlossen.
 ETC_20161121_025769	Can be used while auto matching.
 ETC_20161121_025770	Möchtest du betreten?
 ETC_20161121_025771	Queue for auto matching with current party members.
@@ -27033,9 +27033,9 @@ ETC_20170313_027032
 ETC_20170313_027033	
 ETC_20170313_027034	
 ETC_20170313_027035	
-ETC_20170313_027036	Basic: Basic stats, with added advancement bonus{nl}Allocated: Simple allocated stats{nl}Others: Extra stats from equipped items and others
+ETC_20170313_027036	Basic: Basis Stats, mit zusätzlichem Aufstiegsbonus{nl}Zugewiesen: Einfache Zuordnung stats{nl}Andere: Zusätzliche Stats von Gegenständen und anderem
 ETC_20170313_027037	Importing purchase records.
-ETC_20170313_027038	Display complete.
+ETC_20170313_027038	Display komplett.
 ETC_20170313_027039	Failed to display TP purchase list. Error code: {Code}
 ETC_20170313_027040	No purchased items.
 ETC_20170313_027041	You do not have this item.
@@ -27642,8 +27642,8 @@ ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until af
 ETC_20170330_027642	You cannot disband your guild during a war.
 ETC_20170330_027643	You cannot disband your guild during the ceasefire.
 ETC_20170330_027644	Purchased
-ETC_20170330_027645	Sold
-ETC_20170330_027646	Cancelled
+ETC_20170330_027645	Verkauft
+ETC_20170330_027646	Ausgelaufen
 ETC_20170330_027647	{Day}d {Hour}h {Min}m
 ETC_20170330_027648	{Hour}h {Min}m {Sec}s
 ETC_20170330_027649	{Min}m {Sec}s
