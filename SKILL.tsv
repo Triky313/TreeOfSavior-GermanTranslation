@@ -5999,9 +5999,9 @@ SKILL_20151224_005998	5% increased EXP rate from automatic Instanced Dungeon mat
 SKILL_20151224_005999	Token Vorteile: Bewegungsgeschwindigkeit erhöht
 SKILL_20151224_006000	Erhöht Bewegungsgeschwindigkeit
 SKILL_20151224_006001	Token
-SKILL_20151224_006002	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit
+SKILL_20151224_006002	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit
 SKILL_20151224_006003	Nexon PC Internet Cafe
-SKILL_20151224_006004	+30% EXP beim töten von Monstern{nl}20% Reduziert Auktionshaus-Gebühren{nl}Able to list more items in the Market{nl}Able to learn up to 3 attributes simultaneously{nl}+3 increased character movement{nl}Doubled STA recovery rate
+SKILL_20151224_006004	+30% EXP beim töten von Monstern{nl}20% Reduziert Markt-Gebühren{nl}Able to list more items in the Market{nl}Able to learn up to 3 attributes simultaneously{nl}+3 increased character movement{nl}Doubled STA recovery rate
 SKILL_20151224_006005	EXP Foliant
 SKILL_20151224_006006	+30% EXP beim töten von Monstern{nl}Doppelte STA-Erholungsrate
 SKILL_20151224_006007	Unbegrenzter Instanz-Dungeon-Eintritt
@@ -6274,7 +6274,7 @@ SKILL_20160224_006273	Erhöhte Verteidigung gegen Dunkel-Eigenschafts-Skills wel
 SKILL_20160224_006274	Erhöht Bewegungsgeschwindigkeit, Physischen Angriff und Magische Verteidigung
 SKILL_20160224_006275	Erhöht die Gruppen-EXP-Rate für Instanz-Dungeon
 SKILL_20160224_006276	Erhöht die EXP-Rate für automatische Instanz-Dungeon-Matches
-SKILL_20160224_006277	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Can only trade 30 mal
+SKILL_20160224_006277	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Can only trade 30 mal
 SKILL_20160224_006278	Erhöht den maximalen Buff-Zähler
 SKILL_20160224_006279	Erhöht die maximale Anzahl an Buffs die du haben kannst um 1.
 SKILL_20160224_006280	Swash Buckling: Maximale HP
@@ -6336,8 +6336,8 @@ SKILL_20160310_006335	Überträgt den Effekt von [Swift Step] auf{nl}Gruppenmitg
 SKILL_20160310_006336	[Crossfire] erhält eine 10% ige Chance pro Level, [Burn] auf Ziele für 6 Sekunden zuzufügen. Verbrennungsschaden ist proportional zum physischen Angriff des Charakters.
 SKILL_20160315_006337	Aim at an enemy in a stable posture. Erhöht Missile property attacks for one mal.
 SKILL_20160317_006338	Angriff: +#{CaptionRatio}#%{nl}Zusäzlicher Attribut-Schaden: #{CaptionRatio2}#{nl}Dauer: 10 Sekunden
-SKILL_20160317_006339	- Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Can only trade up to 30 mal{nl} - 1 Extra-Eintritt für Missionen und Dungeons
-SKILL_20160317_006340	- Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Can only trade up to 30 mal{nl} - 2 extra instance entries for missions and dungeons
+SKILL_20160317_006339	- Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Can only trade up to 30 mal{nl} - 1 Extra-Eintritt für Missionen und Dungeons
+SKILL_20160317_006340	- Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Can only trade up to 30 mal{nl} - 2 extra instance entries for missions and dungeons
 SKILL_20160323_006341	Gruppe Horn
 SKILL_20160323_006342	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio}#%{nl}Zusätzliche Kritchance: 62%
 SKILL_20160323_006343	Angriff: #{SkillAtkAdd}#{nl}Attribut-Schaden: #{CaptionRatio2}#%{nl}Physische Verteidigung: -#{CaptionRatio}#{nl}Zusätzliche Kritchance: 40%{nl}Dauer: #{CaptionTime}# Sekunden
@@ -6346,7 +6346,7 @@ SKILL_20160323_006345	Magieverstärkung
 SKILL_20160323_006346	Verstärkt Magie nach einem Kritischen Angriff.
 SKILL_20160323_006347	Veringert Verteidigung.
 SKILL_20160323_006348	Team-Lv.
-SKILL_20160323_006349	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Erhöht den maximalen Buff-Zähler{nl} - Premium-Gesten{nl}
+SKILL_20160323_006349	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - Erhöht den maximalen Buff-Zähler{nl} - Premium-Gesten{nl}
 SKILL_20160323_006350	Erhöht die Kritchance von [Double Slash] um 7% pro{nl}Fähigkeits-Level.
 SKILL_20160323_006351	Erhöht die Kritchance von [Moulinet] nach 12% pro{nl}Fähigkeits-Level.
 SKILL_20160323_006352	Erhöht die Kritchance von [Multi Shot] um 1.5% pro{nl}Fähigkeits-Level.
@@ -6355,7 +6355,7 @@ SKILL_20160323_006354	Erhöht die Kritchance von [Spiral Pfeil]{nl}um 13% pro F�
 SKILL_20160323_006355	Carnivory: Dauer
 SKILL_20160323_006356	Erhöht die Dauer von [Carnivory] um 1 Sekunde pro{nl}Fähigkeits-Level.
 SKILL_20160329_006357	Maximale Dauer: #{CaptionRatio2}# Sekunden{nl}+#{CaptionRatio}#% blocken während Skill andauert{nl}Dauer: 15 Sekunden
-SKILL_20160425_006358	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden{nl}
+SKILL_20160425_006358	 - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden{nl}
 SKILL_20160426_006359	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Erhöht maximum buff count{nl} - Able to use 
 SKILL_20160718_006360	Temporarily grants a high resistance to being affected by knockback, knockdown or staggered. Also, increases the chance to resist abnormalities.
 SKILL_20160718_006361	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward while slashing, attacking any enemies that block your way. Also, deals additional damage to stunned targets.

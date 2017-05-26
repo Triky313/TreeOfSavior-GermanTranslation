@@ -2047,7 +2047,7 @@ ETC_20150317_002046	Gift given by {Giver} to {Target}
 ETC_20150317_002047	Nummer
 ETC_20150317_002048	Entnehmen
 ETC_20150317_002049	Kauf
-ETC_20150317_002050	Auktionshaus
+ETC_20150317_002050	Markt
 ETC_20150317_002051	[Nicht verfügbar]
 ETC_20150317_002052	[Verfügbar]
 ETC_20150317_002053	[In Bearbeitung]
@@ -9207,7 +9207,7 @@ ETC_20150317_009207	[Cleric Klassenmeister]{nl}         Rozalija
 ETC_20150317_009208	[Priest Klassenmeister]{nl}         Boruble
 ETC_20150317_009209	[Krivis Klassenmeister]{nl}       Herkus
 ETC_20150317_009210	[Auktionator]{nl} Demares
-ETC_20150317_009211	[Auktionshaus Manager]{nl}             Logi
+ETC_20150317_009211	[Markt Manager]{nl}             Logi
 ETC_20150317_009212	[Begleiterhändler]{nl}          Christina
 ETC_20150317_009213	[Officer]{nl} Dortina
 ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
@@ -14643,7 +14643,7 @@ ETC_20150918_014644	[Rogue Klassenmeister]{nl}              Gema
 ETC_20150918_014645	[Gegenstandshändler]{nl}           Muras
 ETC_20150918_014646	[Ausrüstungshändler]{nl}            Yorgis
 ETC_20150918_014647	[Schmied]{nl}       Anna
-ETC_20150918_014648	[Auktionshaus Manager]{nl}              Molun
+ETC_20150918_014648	[Markt Manager]{nl}              Molun
 ETC_20150918_014649	[Lagerwächter]{nl}          Zadan
 ETC_20150918_014650	Underground Catacombs Dungeon-Tafel
 ETC_20150918_014651	[Zubehörhändler]{nl}           Joana
@@ -18066,16 +18066,16 @@ ETC_20151224_018066	{nl} {nl}Monster-Edelsteine können mit einer gewissen Wahrs
 ETC_20151224_018067	Monster-Edelsteine haben einen Effekt welche das Skill-Level zunehmend steigert wenn dieser in Ausrüstung ausgerüstet ist.
 ETC_20151224_018068	Monster-Edelsteine können jedoch nicht verbessert werden und es besteht eine gewisse Gefahr dass sie beim Extrahieren zerstört werden, sei also vorsichtig.
 ETC_20151224_018069	{nl} {nl}The effects of subweapons will be exerted when you use subweapons with special features.
-ETC_20151224_018070	Auktionshaus
-ETC_20151224_018071	Gegenstände die du während deines Abenteuers erhalten hast, können über das Auktionshaus verkauft werden.
-ETC_20151224_018072	Sprich mit dem Auktionshaus Manager NPC in den Städten um das Auktionshaus zu verwenden. Es bietet eine Möglichkeit mit anderen Spielern zu handeln.
+ETC_20151224_018070	Markt
+ETC_20151224_018071	Gegenstände die du während deines Abenteuers erhalten hast, können über den Markt verkauft werden.
+ETC_20151224_018072	Sprich mit dem Markt Manager NPC in den Städten um den Markt zu verwenden. Es bietet eine Möglichkeit mit anderen Spielern zu handeln.
 ETC_20151224_018073	Mit dem Kauf-Tab 
 ETC_20151224_018074	kannst du Gegenstände von anderen Spielern besichtigen.
 ETC_20151224_018075	Nach Überprüfung der Menge der Gegenstände die du haben möchtest, kannst du die Gegenstände kaufen indem du auf die Schaltfläche prüfen klickst.
 ETC_20151224_018076	Mit dem Verkauf-Tab 
 ETC_20151224_018077	kannst du Gegenstände zum Verkauf anbieten.
 ETC_20151224_018078	Nach der Auswahl der Menge, des Preises und der Dauer kannst du deinen Gegenstand zum Verkauf anbieten.
-ETC_20151224_018079	{nl} {nl}Je nachdem wie lange der Gegenstand im Auktionshaus bleiben soll muss du eine gewisse Gebühr zahlen. 
+ETC_20151224_018079	{nl} {nl}Je nachdem wie lange der Gegenstand im Markt bleiben soll muss du eine gewisse Gebühr zahlen. 
 ETC_20151224_018080	Mit dem Abruf-Tab 
 ETC_20151224_018081 bist du in der Lage deine gekauften Gegenstände abzuholen.
 ETC_20151224_018082	Mit Teleport Scrolls welche du im TP laden bekommst, kannst du dich ohne eine Göttin Statue teleportieren.
@@ -18244,7 +18244,7 @@ ETC_20151224_018244	NGS Debuging Log
 ETC_20151224_018245	Premium
 ETC_20151224_018246	Ein Edelstein, welcher in einem Dungeon gefunden werden kann. Er ist in der Lage Ausrüstung zu verbessern indem er in einen Sockel gesezt wird. Cannot be used with same effect simultaneously. Right-click to insert it to an equipment.
 ETC_20151224_018247	Colimen Magician Edelstein
-ETC_20151224_018248	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für einen Tag. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühr (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018248	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für einen Tag. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühr (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018249	Token: 5 Minuten
 ETC_20151224_018250	Token: 10 Minuten
 ETC_20151224_018251	Token: 30 Minuten
@@ -18255,7 +18255,7 @@ ETC_20151224_018255	Benutze und erhalte 100 TP.{nl}Dieser Gegenstand kann nach V
 ETC_20151224_018256	Benutze und erhalte 200 TP.{nl}Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
 ETC_20151224_018257	Benutze und erhalte 300 TP.{nl}Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
 ETC_20151224_018258	Token: 7 Tage [Event]
-ETC_20151224_018259	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 7 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018259	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 7 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018260	Premium Awakening Stone
 ETC_20151224_018261	Megaphone 50x Box
 ETC_20151224_018262	Enhält 50 Megaphone wenn du es öffnest. Rechtsklick zum verwenden.
@@ -18265,7 +18265,7 @@ ETC_20151224_018265	Enhält 10 Seelenkristalle wenn du es öffnest. Rechtsklick 
 ETC_20151224_018266	Warp Scroll 10x Box
 ETC_20151224_018267	Enhält 10 Teleport Scrolls wenn du es öffnest. Rechtsklick zum verwenden.
 ETC_20151224_018268	Token: 5 Tage [Event]
-ETC_20151224_018269	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 5 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018269	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 5 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018270	Premium Package A
 ETC_20151224_018271	Contains premium goodies. Rechtsklick zum verwenden.{nl} - 600 TP (Nicht handelbar){nl} - Highly Enriched HP Potion 150x (Nicht handelbar){nl} - Highly Enriched SP Potion 150x (Nicht handelbar){nl} - Warp Scroll 10x Box 3x (Nicht handelbar){nl} - Megaphone 50x Box (Nicht handelbar){nl} - Haarschmuck: War Bonnet
 ETC_20151224_018272	Premium Package B
@@ -18273,15 +18273,15 @@ ETC_20151224_018273	Contains premium goodies. Rechtsklick zum verwenden.{nl} - 1
 ETC_20151224_018274	Benutze und erhalte 600 TP.{nl}Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
 ETC_20151224_018275	Benutze und erhalte 1300 TP.{nl}Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
 ETC_20151224_018276	Token: 1 Day [Event]
-ETC_20151224_018277	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 1 Tag. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018277	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 1 Tag. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018278	Token: 3 Stunden [Event]
-ETC_20151224_018279	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 3 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018279	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 3 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018280	Token: 6 Stunden [Event]
-ETC_20151224_018281	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 6 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018281	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 6 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018282	Token: 12 Stunden [Event]
-ETC_20151224_018283	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 12 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018283	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 12 Stunden. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018284	Token: 3 Tage [Event]
-ETC_20151224_018285	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 3 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20151224_018285	Gewährt all deinen Charakteren auf einem Sever Token Vorteile für 3 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20151224_018286	Skill Reset Potion
 ETC_20151224_018287	Ein sehr nützlicher Trank für die, die es einfach nicht schaffen ihre Fähigkeiten richtig zu wähle.{nl}Verwende diese Option, um deine aktuellen Skillpunkte zurückzusetzen.
 ETC_20151224_018288	Instanz Dungeon Reset-Gutschein
@@ -19136,7 +19136,7 @@ ETC_20151224_019136	The current amount of players joined has been exceeded.
 ETC_20151224_019137	Du hast die Maximalanzahl{nl}von Charakteren in der Hütte erreicht.{nl}Möchtest du einen Charakter-Slot kaufen?
 ETC_20151224_019138	You cannot dismount your companion while using a skill.
 ETC_20151224_019139	The name must be less than {LEN} bytes.
-ETC_20151224_019140	Preis des Gegenstandes kann nicht abgeschätzt werden, solange es keine weiteren im Auktionshaus gibt.
+ETC_20151224_019140	Preis des Gegenstandes kann nicht abgeschätzt werden, solange es keine weiteren im Markt gibt.
 ETC_20151224_019141	{Price} TP will be charged to hire for {Minute} minutes. Do you wish to continue?
 ETC_20151224_019142	Wrong equipment. Please check the title.
 ETC_20151224_019143	You've received the item.
@@ -19718,7 +19718,7 @@ ETC_20151224_019718	You lack a shield.
 ETC_20151224_019719	Ein Gebieteboss wird in kürze erscheinen.
 ETC_20151224_019720	You cannot move to the guild member's instanced dungeon or mission.
 ETC_20151224_019721	Erhöht die Gilden EXP-Punkte durch verwenden von Gegenständen.
-ETC_20151224_019722	Gegenstand erfolgreich registriert.{nl}Bitte warte etwa 30 Minuten bis 2 Stunden um deinen Gegenstand ohne Tokens im Auktionshaus anzuzeigen.
+ETC_20151224_019722	Gegenstand erfolgreich registriert.{nl}Bitte warte etwa 30 Minuten bis 2 Stunden um deinen Gegenstand ohne Tokens im Markt anzuzeigen.
 ETC_20151224_019723	{Price} Silber is required for the registration fee. The buff will disappear when you register this to the Market. Do you want to register it?
 ETC_20151224_019724	You cannot purchase items registered to the same account.
 ETC_20151224_019725	Die Verkaufszeit ist abgelaufen. Bitte entehme deinen Gegenstand.
@@ -19822,13 +19822,13 @@ ETC_20151224_019822	Fetching Skill Usage data...
 ETC_20151224_019823	Fetching TP Usage data...
 ETC_20151224_019824	Data Read-in was exceeded, thus request was canceled. {nl} Please inquire management
 ETC_20151224_019825	Requested incorrect history information. {n} Please inquire management
-ETC_20151224_019826	Du hast den Betrag überschritten den man im Auktionshaus eingeben kann.
+ETC_20151224_019826	Du hast den Betrag überschritten den man im Markt eingeben kann.
 ETC_20151224_019827	Initialization Count
 ETC_20151224_019828	Would you like to use {TP} TP to buy a character slot?
 ETC_20151224_019829	Gebühr TP
 ETC_20151224_019830	Nexon PC Internet Cafe
-ETC_20151224_019831	Reduziert Auktionshaus-Gebühren
-ETC_20151224_019832	Erhöhe Auktionshaus-Auflistung
+ETC_20151224_019831	Reduziert Markt-Gebühren
+ETC_20151224_019832	Erhöhe Markt-Auflistung
 ETC_20151224_019833	Simultaneous attribute training
 ETC_20151224_019834	Die folgenden Funktionen können nicht verwendet werden.
 ETC_20151224_019835	{Target} does not have the benefits to trade with you.
@@ -19909,7 +19909,7 @@ ETC_20151224_019909	[Hunter Klassenmeister]{nl}       Belkin Vellon
 ETC_20151224_019910	[Wugushi Klassenmeister]{nl}          Wor Pat
 ETC_20151224_019911	[Scout Klassenmeister]{nl}          Suina
 ETC_20151224_019912	[Begleiter Trader]{nl}            Taurus
-ETC_20151224_019913	[Auktionshaus Manager]{nl}         Tilliana
+ETC_20151224_019913	[Markt Manager]{nl}         Tilliana
 ETC_20151224_019914	[Lagerwächterin]{nl}          Aisa
 ETC_20151224_019915	[Orsha's Magie Association]{nl}           Florianna
 ETC_20151224_019916	[Wings of Vibora]{nl}            Rosia
@@ -20384,7 +20384,7 @@ ETC_20160224_020384	Reaction time after clicking OBB TEST
 ETC_20160224_020385	Processing overtime log
 ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
 ETC_20160224_020387	Convent Auto Matching
-ETC_20160224_020388	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20160224_020388	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Rechtsklick zum verwenden.
 ETC_20160224_020390	Verzauberungsrolle
 ETC_20160224_020391	Fügt zufällige Werte dem Haar-Kostüm hinzu.{nl}Es können bis zu 3 Werte hinzugefügt werden.{nl}Du kannst diesen Gegenstand nicht auf ein ausgerüsteten Gegenstand verwenden.{nl}Rechtsklick zum verwenden.
@@ -20400,7 +20400,7 @@ ETC_20160224_020400	150 TP [Event]
 ETC_20160224_020401	Benutze und erhalte 150 TP.
 ETC_20160224_020402	Token [Event]
 ETC_20160224_020403	Token: 15 Tage [Event]
-ETC_20160224_020404	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 15 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
+ETC_20160224_020404	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 15 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Premium-Gesten
 ETC_20160224_020405	Earth Tower Entrance
 ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Goddess Zemyna
@@ -21174,7 +21174,7 @@ ETC_20160315_021172	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 200 
 ETC_20160315_021173	You can enter this server by purchasing DLC.
 ETC_20160317_021174	Grand Translator
 ETC_20160317_021175	An honorable title only bestowed upon those who participated in the Great Translation movement.
-ETC_20160317_021176	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 1 Extra-Eintritt für Missionen und Dungeons
+ETC_20160317_021176	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 1 Extra-Eintritt für Missionen und Dungeons
 ETC_20160317_021177	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Puppe
 ETC_20160317_021178	Benutze und erhalte 360 TP.
 ETC_20160317_021179	Benutze und erhalte 230 TP.
@@ -21182,7 +21182,7 @@ ETC_20160317_021180	Benutze und erhalte 110 TP.
 ETC_20160317_021181	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Puppe
 ETC_20160317_021182	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 110 TP
 ETC_20160317_021183	2 additional Dungeon and Mission entries
-ETC_20160317_021184	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 2 extra instance entries for missions and dungeons
+ETC_20160317_021184	Enthält eine Vielzahl von besonderen Vorteilen für alle Charaktere auf diesem Server für 30 days. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Stacks with EXP Tome){nl} - Premium-Gesten{nl} - 30 mal persönliches Handeln möglich{nl} - 2 extra instance entries for missions and dungeons
 ETC_20160320_021185	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 650 TP{nl} - Token (60 Tage){nl} - Haarschmuck - Popolion Puppe{nl} - Haarschmuck - Hanaming Puppe{nl} - Hoglan Begleiter Gutschein{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
 ETC_20160320_021186	Benutze und erhalte 650 TP.
 ETC_20160320_021187	Benutze und erhalte 380 TP.
@@ -21190,9 +21190,9 @@ ETC_20160320_021188	Benutze und erhalte 160 TP.
 ETC_20160320_021189	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 380 TP{nl} - Token (30 Tage){nl} - Haarschmuck - Popolion Puppe{nl}
 ETC_20160320_021190	Rechtsklick um folgende Gegenstände zu erhalten:{nl} - 160 TP{nl}
 ETC_20160320_021191	Benutze und erhalte 50 TP. Dieser Gegenstand kann nach Verwendung nicht zurückgegeben werden.
-ETC_20160320_021192	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten im Auktionshaus{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
+ETC_20160320_021192	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten im Markt{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
 ETC_20160320_021193	Token: 60 Tage
-ETC_20160320_021194	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten im Auktionshaus{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
+ETC_20160320_021194	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten im Markt{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
 ETC_20160320_021195	1 Extra-Eintritt für Missionen und Dungeons
 ETC_20160323_021196	Mage Tower Instanced Dungeon
 ETC_20160323_021197	Gilden-Mission 2
@@ -21211,16 +21211,16 @@ ETC_20160323_021209	Different types of equipment allow for different maximum num
 ETC_20160323_021210	Logic Error
 ETC_20160323_021211	Wrong Translation Data
 ETC_20160323_021212	The .tsv file must be encoded in UTF-8 without BOM.
-ETC_20160323_021213	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile.{nl}Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln möglich
-ETC_20160323_021214	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 7 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
-ETC_20160323_021215	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 5 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
-ETC_20160323_021216	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 1 Tag Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
-ETC_20160323_021217	Grants Token bringt all deinen Charakteren auf einem Server für 3 Stunden Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
-ETC_20160323_021218	Grants Token bringt all deinen Charakteren auf einem Server für 6 Stunden Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
-ETC_20160323_021219	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 12 Stunden Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
-ETC_20160323_021220	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 3 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
-ETC_20160323_021221	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
-ETC_20160323_021222	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 15 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Auktionshaus-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl}im Auktionshaus möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021213	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile.{nl}Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln möglich
+ETC_20160323_021214	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 7 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021215	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 5 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021216	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 1 Tag Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021217	Grants Token bringt all deinen Charakteren auf einem Server für 3 Stunden Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021218	Grants Token bringt all deinen Charakteren auf einem Server für 6 Stunden Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021219	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 12 Stunden Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021220	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 3 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
+ETC_20160323_021221	Grants Token bringt all deinen Charakteren auf einem Server für 30 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten{nl} - Erhöht den maximalen Buff-Zähler{nl} - 30 mal persönliches Handeln{nl} - 1 Extra-Instanz-Eintritt für Missionen und Dungeons
+ETC_20160323_021222	Erfreuliches Token bringt all deinen Charakteren auf einem Server für 15 Tage Vorteile. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert Markt-Gebühren (30% {img white_right_arrow 16 16} 10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl}im Markt möglich{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP beim töten von Monstern{nl}(Mit EXP Foliant kombinierbar){nl} - Premium-Gesten
 ETC_20160323_021223	90 TP [Event]
 ETC_20160323_021224	Benutze und erhalte 90 TP.
 ETC_20160323_021225	Lucky 100 Package
@@ -21420,7 +21420,7 @@ ETC_20160411_021418	Das verwenden eines Tokens erhöht die erhaltene EXP von Mon
 ETC_20160411_021419	Mit einem aktiven Token kannst du ohne Zeitbegrenzung Fähigkeiten lernen.
 ETC_20160411_021420	Das verwenden eines Tokens reduziert deine Auktionshausgebühren auf 10%.
 ETC_20160411_021421	Verwende einen Token damit sich deine Bewegungsgeschwindigkeit um 3 erhöht.
-ETC_20160411_021422	Mit einem aktiven Token kannst du bis zu 10 Gegenstände in das Auktionshaus stellen.
+ETC_20160411_021422	Mit einem aktiven Token kannst du bis zu 10 Gegenstände in den Markt stellen.
 ETC_20160411_021423	Mit einem aktiven Token erhöht sich deine Anzahl von Buffs die du erhalten kannst.
 ETC_20160411_021424	Verwende einen Token um Premium-Gesten einsetzten zu können.
 ETC_20160411_021425	Um einen 1:1 Handel durchzuführen, muss einer der beiden Charaktere einen Token haben.
@@ -21737,16 +21737,16 @@ ETC_20160415_021735	Min Auktionshauspreis: anpassen
 ETC_20160415_021736	Chat-Nachricht kann nicht {Max} bytes überschreiten. The use of emoticons and links is restricted as these can take up a Groß amount of bytes.
 ETC_20160415_021737	Diese Funktion ist verfügbar nach {Time}.
 ETC_20160415_021738	Dieser Nutzer ist derzeit nicht in der Lage zu handeln.
-ETC_20160425_021739	Token Vorteile für all deine Charaktere auf dem Server gelten für 30 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP von besiegten Monstern{nl} - Fähig Premium-Gesten zu verwenden{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig bis zu 30 mal persönlich zu handeln{nl} - 1 Extra-Eintritt für Missionen und Dungeons
-ETC_20160425_021740	Token Vorteile für all deine Charaktere auf dem Server gelten für 7 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Fähig Premium-Gesten zu verwenden{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig bis zu 30 mal persönlich zu handeln{nl} - 1 Extra-Eintritt für Missionen und Dungeons
-ETC_20160425_021741	Token Vorteile für all deine Charaktere auf dem Server gelten für 5 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
-ETC_20160425_021742	Token Vorteile für all deine Charaktere auf dem Server gelten für 1 day. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
-ETC_20160425_021743	Token Vorteile für all deine Charaktere auf dem Server gelten für 3 hours. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
-ETC_20160425_021744	Token Vorteile für all deine Charaktere auf dem Server gelten für 6 hours. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
-ETC_20160425_021745	Token Vorteile für all deine Charaktere auf dem Server gelten für 12 hours. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
-ETC_20160425_021746	Token Vorteile für all deine Charaktere auf dem Server gelten für 3 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
-ETC_20160425_021747	Token Vorteile für all deine Charaktere auf dem Server gelten für 30 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden{nl} - Fähig bis zu 30 mal persönlich zu handeln
-ETC_20160425_021748	Token Vorteile für all deine Charaktere auf dem Server gelten für 15 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Auktionshaus-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Auktionshaus anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
+ETC_20160425_021739	Token Vorteile für all deine Charaktere auf dem Server gelten für 30 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +30% EXP von besiegten Monstern{nl} - Fähig Premium-Gesten zu verwenden{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig bis zu 30 mal persönlich zu handeln{nl} - 1 Extra-Eintritt für Missionen und Dungeons
+ETC_20160425_021740	Token Vorteile für all deine Charaktere auf dem Server gelten für 7 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Fähig Premium-Gesten zu verwenden{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig bis zu 30 mal persönlich zu handeln{nl} - 1 Extra-Eintritt für Missionen und Dungeons
+ETC_20160425_021741	Token Vorteile für all deine Charaktere auf dem Server gelten für 5 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
+ETC_20160425_021742	Token Vorteile für all deine Charaktere auf dem Server gelten für 1 day. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
+ETC_20160425_021743	Token Vorteile für all deine Charaktere auf dem Server gelten für 3 hours. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
+ETC_20160425_021744	Token Vorteile für all deine Charaktere auf dem Server gelten für 6 hours. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
+ETC_20160425_021745	Token Vorteile für all deine Charaktere auf dem Server gelten für 12 hours. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
+ETC_20160425_021746	Token Vorteile für all deine Charaktere auf dem Server gelten für 3 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
+ETC_20160425_021747	Token Vorteile für all deine Charaktere auf dem Server gelten für 30 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden{nl} - Fähig bis zu 30 mal persönlich zu handeln
+ETC_20160425_021748	Token Vorteile für all deine Charaktere auf dem Server gelten für 15 Tage. Rechtsklick zum verwenden.{nl}[Token Vorteile]{nl} - Fähigkeiten ohne Wartezeit erlernbar{nl} - Reduziert die Markt-Gebühr (30%{img white_right_arrow 16 16}10%){nl} - Bis zu 10 Gegenstände im Markt anbieten{nl} - +3 Bewegungsgeschwindigkeit{nl} - +20% EXP von besiegten Monstern{nl} - Erhöht den Max Buff-Zähler{nl} - Fähig Premium-Gesten zu verwenden
 ETC_20160425_021749	Steam VAC Bot-Meldung Funktion verwendet auf 1
 ETC_20160425_021750	Bot-Detektionssystem Funktion verwendet auf 1
 ETC_20160425_021751	If both sides are using a Token, the item's properties will not be altered. Do you want to continue?
@@ -21771,7 +21771,7 @@ ETC_20160503_021769	Verbinden mit der DB fehlgeschlagen. Gezwungen die Verbindun
 ETC_20160503_021770	Überzeugungs-Skill Lv 1
 ETC_20160503_021771	Das Frettchen startet Angriffe.
 ETC_20160509_021772	Verwende einen Token um Fähigkeiten ohne Trainingszeit zu erlernen.
-ETC_20160509_021773	Verwende einen Token um bis zu 10 Gegenstände in das Auktionshaus zu stellen.
+ETC_20160509_021773	Verwende einen Token um bis zu 10 Gegenstände in den Markt zu stellen.
 ETC_20160512_021774	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30% {img white_right_arrow 16 16} 10%){nl} - Möglichkeit bis zu 10 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +30% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures
 ETC_20160513_021776	Applies Token benefits to all your characters in the server for 15 days. Rechtsklick zum verwenden.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduzierte Markt Provision (30% {img white_right_arrow 16 16} 10%){nl} - Möglichkeit bis zu 10 Gegenstände im Markt zu listen{nl} - +3 increased character movement{nl} - +30% EXP von der Monsterjagd{nl} - Erhöht maximalen Buff-Zähler{nl} - Able to use Premium Gestures{nl} - 1 zusätzlicher Instanz Eintrag für Missionen und Dungeons
 ETC_20160520_021777	Collection: Never Seen Before

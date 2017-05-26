@@ -13,7 +13,7 @@ UI_20150317_000012	{@st41b}Einzeln{/}
 UI_20150317_000013	{@st41b}Alle{/}
 UI_20150317_000014	{@st41b}Pause{/}
 UI_20150317_000015	{@st43}Tagebuch{/}
-UI_20150317_000016	{@st43}Auktionshaus{/}
+UI_20150317_000016	{@st43}Markt{/}
 UI_20150317_000017	{@st59}Schließen{/}
 UI_20150317_000018	{@st41b}Verkauft : ×%s, Nicht Verkauft : ×%s{/}
 UI_20150317_000019	{@st43}{s22}Gegenstands Auktion{/}
@@ -353,8 +353,8 @@ UI_20150317_000352	{ol}Nachricht
 UI_20150317_000353	{ol}Sound
 UI_20150317_000354	{@st41}Minimap erstellen{/}
 UI_20150317_000355	{@st55}Gebiets-Map
-UI_20150317_000356	{@st43}{s22}Auktionshaus{/}
-UI_20150317_000357	{@st43}{s24}Auktionshaus{/}
+UI_20150317_000356	{@st43}{s22}Markt{/}
+UI_20150317_000357	{@st43}{s24}Markt{/}
 UI_20150317_000358	{@st42b}Filter{/}
 UI_20150317_000359	{@st42b}Type{/}
 UI_20150317_000360	{@st42b}Ben. Lv{/}
@@ -1205,7 +1205,7 @@ UI_20150317_001204	Charakterdetails Type 2
 UI_20150317_001205	Inventarliste Type 1
 UI_20150317_001206	Inventarliste Type 2
 UI_20150317_001207	Inventarslot Type
-UI_20150317_001208	Zeige Gegenstand-Details im Auktionshaus
+UI_20150317_001208	Zeige Gegenstand-Details im Markt
 UI_20150317_001209	Ausgabe von Gegenstandsname
 UI_20150317_001210	Ausgabe der verbleibenden Anzahl
 UI_20150317_001211	Ausgabe von Wert
@@ -1917,7 +1917,7 @@ UI_20151224_001916	{@st65}Höchstes zuerst{/}
 UI_20151224_001917	{@st45tw2}Menge{/}
 UI_20151224_001918	{@st45tw2}Time until Retrieval{/}
 UI_20151224_001919	{@st66b}Sales Period & Commission Fee{/}
-UI_20151224_001920	{@st66}Nach 48 Stunden kannst du dein Silber aus{nl}dem Auktionshaus abholen, mit Ausnahme {nl}von Token.
+UI_20151224_001920	{@st66}Nach 48 Stunden kannst du dein Silber aus{nl}dem Markt abholen, mit Ausnahme {nl}von Token.
 UI_20151224_001921	{@st45tw2}Frist{/}
 UI_20151224_001922	{@st45tw2}Auftragsgebühr{/}
 UI_20151224_001923	{@st45tw2}Gesamtpreis{/}
