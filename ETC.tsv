@@ -24906,7 +24906,7 @@ ETC_20161005_024905	Rechtsklick zum verwenden and obtain contents.{nl} - 190 TP{
 ETC_20161005_024906	Instanced Clear Gutschein [{img star_mark 20 20}]
 ETC_20161005_024907	A voucher that can clear an instanced dungeon faster and more effectively. Right-click it inside an instanced dungeon to use. Useable in 1-star dungeons.
 ETC_20161005_024908	Instanced One Entry Gutschein
-ETC_20161005_024909	Use it to enter an instanced dungeon one more time.
+ETC_20161005_024909	Verwenden um ein weiteres mal in ein Instanz Dungeon zu kommen.
 ETC_20161005_024910	Violet Dye
 ETC_20161005_024911	A lavender-like purple color. Rechtsklick zum verwenden. Check the Character Settings tab for the registered color.
 ETC_20161005_024912	Instanced Clear Gutschein [{img star_mark 20 20}{img star_mark 20 20}]
@@ -26796,7 +26796,7 @@ ETC_20170313_026795	{nl} {nl}Click the item you wish to identify, then click the
 ETC_20170313_026796	A certain amount of silver is required to identify an item. If the identification is successful, the item's features will be revealed and you will be able to equip it.
 ETC_20170313_026797	{nl} {nl}Successfully identified items will also reveal their number of sockets and potential.
 ETC_20170313_026798	The number of sockets and potential can vary even within different instances of the same item.
-ETC_20170313_026799	Enchant
+ETC_20170313_026799	Verzaubern
 ETC_20170313_026800	Enchant Scrolls are used to add different stats to hair costumes.
 ETC_20170313_026801	Enchant Scrolls can be purchased from TP Merchant Leticia in cities.
 ETC_20170313_026802	{nl} {nl}To display the enchant window, {img mouseclick_right 40 40} the Enchant Scroll from your inventory.
@@ -27650,7 +27650,7 @@ ETC_20170330_027649	{Min}m {Sec}s
 ETC_20170330_027650	You will be matched in a party of {MIN_MEMBER} players minimum.{nl}This option can only be changed by cancelling auto match.{nl}Do you accept to enter as a 2 to 4 member party?
 ETC_20170330_027651	Cancelled 2 to 4 auto match.{nl}Cancelled for all party members.
 ETC_20170330_027652	Chat Tab Toggle
-ETC_20170330_027653	Able to retrieve Market silver instantaneously
+ETC_20170330_027653	Silber sofort vom Markt abzurufen
 ETC_20170330_027654	
 ETC_20170330_027655	
 ETC_20170330_027656	Receive event rewards

@@ -2621,14 +2621,14 @@ UI_20170330_002620	Shop
 UI_20170330_002621	Persönlich
 UI_20170330_002622	Handelbar
 UI_20170330_002623	%s Item Beschreibung %s
-UI_20170330_002624	{@59}Create Invite Tag{/}
-UI_20170330_002625	{@59}Leave{/}
+UI_20170330_002624	{@59}Erstelle Invite Tag{/}
+UI_20170330_002625	{@59}Verlassen{/}
 UI_20170330_002626	%s Items senden.
 UI_20170330_002627	Gegenstand
 UI_20170330_002628	Expiration Date
 UI_20170330_002629	Market silver instantly retrievable
-UI_20170330_002630	Registration Outside of Max./Min. Price Allowed
-UI_20170330_002631	Movable via Team Storage
+UI_20170330_002630	Verkauf außerhalb von Max./Min. Marktpreis erlaubt
+UI_20170330_002631	Kann in Team-Lager gelegt werden
 UI_20170418_002632	{@st66} If the purchase list doesn't show up properly due to temporary error, please try click the Retrieve all button for receiving item.{/}
 UI_20170418_002633	{@st68}Neu laden{/}
 UI_20170418_002634	{@st68}Alles abholen{/}
