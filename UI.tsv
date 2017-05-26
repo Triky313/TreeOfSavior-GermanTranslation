@@ -2602,17 +2602,17 @@ UI_20170330_002601	Verfallsdatum läuft bald ab. Schließen?
 UI_20170330_002602	{@st43}{s20}Abgelaufene Gegenstände{/}
 UI_20170330_002603	{s17}Alle oben genannten Gegenstände löschen?
 UI_20170330_002604	Main Drop Items
-UI_20170330_002605	{@st41b}Match 2 zu 4 Spieler{/}
-UI_20170330_002606	{@st41b}Match 2 zu 4 Spieler
+UI_20170330_002605	{@st41b}Kampf 2 bis 4 Spieler{/}
+UI_20170330_002606	{@st41b}Kampf 2 bis 4 Spieler
 UI_20170330_002607	{@st59}Delete Expired Items{/}
-UI_20170330_002608	{@st45tw2}Items Purchased{/}
-UI_20170330_002609	{@st45tw2}Gegenstand verkauft{/}
-UI_20170330_002610	{@st45tw2}Amount{/}
-UI_20170330_002611	{@st45tw2}Sold{/}
-UI_20170330_002612	{@st45tw2}Purchased{/}
-UI_20170330_002613	{@st45tw2}Cancelled{/}
-UI_20170330_002614	{@st45tw2}Others{/}
-UI_20170330_002615	{@st42}Join
+UI_20170330_002608	{@st45tw2}Gegenstände gekauft{/}
+UI_20170330_002609	{@st45tw2}Gegenstände verkauft{/}
+UI_20170330_002610	{@st45tw2}Menge{/}
+UI_20170330_002611	{@st45tw2}Verkauft{/}
+UI_20170330_002612	{@st45tw2}Gekauft{/}
+UI_20170330_002613	{@st45tw2}Abgebrochen{/}
+UI_20170330_002614	{@st45tw2}Anderes{/}
+UI_20170330_002615	{@st42}Beitreten
 UI_20170330_002616	{@st42}Schließen
 UI_20170330_002617	{@st59}Schließe Nachrichtenbox{/}
 UI_20170330_002618	{#62100c}Untauschbare Gegenstände: %s
@@ -2635,7 +2635,7 @@ UI_20170418_002634	{@st68}Alles abholen{/}
 UI_20170418_002635	Erforderliche Punkte
 UI_20170419_002636	{@st66b}Sehe mehr{/}
 UI_20170419_002637	Klick, um mehr Freundeinfos zu sehen.
-UI_20170419_002638	I agree to being matched in a party of 2 to 4 players.
+UI_20170419_002638	Ich bin damit einverstanden, in einer Party von 2 bis 4 Spielern zu sein.
 UI_20170420_002639	Meine Punkte:
 UI_20170420_002640	{@st66b}Attributpunkte kaufen
 UI_20170420_002641	{@st66d}Attributpunkte kaufen
@@ -2647,7 +2647,7 @@ UI_20170420_002646	Verbleibend
 UI_20170420_002647	{@st66b}Kaufen
 UI_20170420_002648	{@st66b}Abbrechen
 UI_20170420_002649	Du kannst handelbare Gegenstände lagern.{nl}Silber-Lager ist für Token-Benutzer verfügbar.
-UI_20170420_002650	{@st41b}This cube cannot be reopened.{/}
+UI_20170420_002650	{@st41b}Dieser Würfel kann nicht wieder geöffnet werden.{/}
 UI_20170420_002651	{@st41}Öffne Kostüm Würfel
 UI_20170420_002652	{@st66b}Verwenden um ein Kostüm zu erhalten.{/}
 UI_20170510_002653	* Nach dem zurücksetzen erhälst du Attributpunkte.{nl}Vom Niveau her gleich wie vor dem zurücksetzen.
