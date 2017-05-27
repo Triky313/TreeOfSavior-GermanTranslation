@@ -1494,7 +1494,7 @@ UI_20150414_001493	{@st42}Entferne Erfrischungstisch
 UI_20150414_001494	{@st41b}Aufzeichnungen{/}
 UI_20150414_001495	{@st41}Gruppen-Beschreibung
 UI_20150414_001496	{@st41b}Eingeben{/}
-UI_20150414_001497	Röstungs-Level %s
+UI_20150414_001497	Rüstungs-Level %s
 UI_20150428_001498	{@st43}Einkaufsladen{/}
 UI_20150428_001499	{@st41b}Schließen
 UI_20150428_001500	{@st41b}Bug melden
@@ -2484,7 +2484,7 @@ UI_20161214_002483	{@st41b}Verbleibender Fund {/}{img white_right_arrow 15 18}
 UI_20161214_002484	Level 1 Karten konsumieren keine 5TP.
 UI_20161214_002485	{@st66b}Realzeitstand
 UI_20161214_002486	Letzte Saison
-UI_20161214_002487	Erhöht EXP/Drop Rate{nl}bis zu 3 mal{nl}indem du den Eintragszähler und Instanz Dungeon Multiply Token verbrauchst.
+UI_20161214_002487	Erhöht EXP/Drop Rate{nl}bis zu 3 mal{nl}indem du den Eintragszähler und Instanz {nl}Dungeon Multiply Token verbrauchst.
 UI_20161214_002488	{@st41b}Multiply Mode aktivieren
 UI_20161214_002489	{@st41b}Multiply Mode abbrechen
 UI_20161214_002490	Multiply Mode Number
@@ -2620,7 +2620,7 @@ UI_20170330_002619	Handelbar
 UI_20170330_002620	Shop
 UI_20170330_002621	Persönlich
 UI_20170330_002622	Handelbar
-UI_20170330_002623	%s Item Beschreibung %s
+UI_20170330_002623	%s Gegenstand Beschreibung %s
 UI_20170330_002624	{@59}Erstelle Invite Tag{/}
 UI_20170330_002625	{@59}Verlassen{/}
 UI_20170330_002626	%s Items senden.

@@ -15907,7 +15907,7 @@ ETC_20151016_015908	Karolis Altar
 ETC_20151016_015909	Karolis' Light
 ETC_20151016_015910	Karolis Sanctuary
 ETC_20151016_015911	Mind Control Tower
-ETC_20151016_015912	Free Dungeon
+ETC_20151016_015912	Freier Dungeon
 ETC_20151016_015913	Incomplete Kruvina
 ETC_20151016_015914	Energy of Life
 ETC_20151016_015915	For effects of flame bombs
@@ -22913,8 +22913,8 @@ ETC_20160723_022912	Bestanden Stufe {STEP}{nl} Erlangt {POINT} PVP Punkte!
 ETC_20160723_022913	Stufe {STEP} treasure chest
 ETC_20160723_022914	Stufe {STEP} treasure chest reward{nl}{TEXT}
 ETC_20160723_022915	Du hast sie in der falschen Reihenfolge aktiviert{nl}Aktiviere sie in der Reihenfolge in der die Lichter blinken.
-ETC_20160723_022916	Die Verbesserungs Wirksamkeit von Ambossen
-ETC_20160723_022917	erhöhte sich um
+ETC_20160723_022916	Die Wirksamkeit von Ambossen
+ETC_20160723_022917	verbessert sich um
 ETC_20160723_022918	Das Karten-Level hat die maximalen Punkte erreicht.
 ETC_20160723_022919	The {OBJ} is being activated.			
 ETC_20160723_022920	Someone is trying to activate the {OBJ}.			
@@ -26898,12 +26898,12 @@ ETC_20170313_026897	{nl} {nl}Upon accepting this mission, you will be transporte
 ETC_20170313_026898	{nl} {nl}If you manage to complete the mission, you will receive a Saalus Cube and a Cube of Blessing as reward.
 ETC_20170313_026899	{nl} {nl}The Saalus Cube will drop special items, while the Cube of Blessing will give you Blessed Shards which you can use to craft the Goddess' Blessed Gems.
 ETC_20170313_026900	The Goddess' Blessed Gems are used to transcend equipment items. 
-ETC_20170313_026901	In Hunting Grounds, you can obtain high EXP gains and unidentified items.
+ETC_20170313_026901	Im Jagdgelände kannst du hohe EXP-Gewinne und nicht identifizierte Gegenstände erhalten.
 ETC_20170313_026902	Hunting grounds contain monsters stronger than those in regular fields.
-ETC_20170313_026903	Defeating these monsters will yield more EXP than monsters in regular fields.
+ETC_20170313_026903	Das Besiegen dieser Monster wird mehr EXP als Monster in regelmäßigen Feldern ergeben.
 ETC_20170313_026904	{nl} {nl}In hunting grounds you will also find giant versions of other monsters.
-ETC_20170313_026905	These monsters will drop more items than regular monsters when defeated.
-ETC_20170313_026906	{nl} {nl}By defeating monsters in hunting grounds you can also obtain unidentified items.
+ETC_20170313_026905	Diese Monster lassen mehr Gegenstände fallen als normale Monster, wenn sie besiegt werden.
+ETC_20170313_026906	{nl} {nl}Durch das Besiegen von Monstern auf Jagdgelände kannst du auch nicht identifizierte Gegenstände erhalten.
 ETC_20170313_026907	Unidentified items can be identified at the Identifier Sandra NPC in Fedimian. 
 ETC_20170313_026908	Matching Error Occurred
 ETC_20170313_026909	Saalus Convent Error
@@ -27741,8 +27741,8 @@ ETC_20170420_027740	Is located at the bottom region of Klaipeda.
 ETC_20170420_027741	{nl} {nl}After acquiring an unidentified item, you will need to bring it to Appraiser Sandra in Fedimian.
 ETC_20170420_027742	At the Mercenary Post in Klaipeda, you can play different types of missions.
 ETC_20170420_027743	 Klaipeda's  
-ETC_20170420_027744	{nl} {nl}In hunting grounds you will also find elite versions of other monsters.
-ETC_20170420_027745	Unidentified items can be identified at the Appraiser Sandra NPC or the Blacksmith NPC  in Fedimian. 
+ETC_20170420_027744	{nl} {nl}In Jagdgründen findest du auch Elite-Versionen anderer Monster.
+ETC_20170420_027745	Nicht identifizierte Gegenstände können bei der Schatzmaschine Sandra NPC oder dem Blacksmith NPC in Fedimian identifiziert werden.
 ETC_20170420_027746	Normal
 ETC_20170420_027747	Magic
 ETC_20170420_027748	Rare
