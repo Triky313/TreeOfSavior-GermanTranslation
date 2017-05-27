@@ -26587,8 +26587,8 @@ ETC_20170313_026586	{nl} {nl}Team Battle League matches take place in 2 vs 2 or 
 ETC_20170313_026587	An icon will display beside the team name of top-ranked players.
 ETC_20170313_026588	{nl} {nl}Participating in the Team Battle League earns you points that you can use in the Point Shop.
 ETC_20170313_026589	Merchant NPCs can be found in town and in certain fields.
-ETC_20170313_026590	{nl} {nl}Items sold 
-ETC_20170313_026591	Items sold
+ETC_20170313_026590	{nl} {nl}Gegenstände verkauft 
+ETC_20170313_026591	Gegenstände verkauft
 ETC_20170313_026592	are registered in order.
 ETC_20170313_026593	registered items can be right-clicked {img mouseclick_right 40 40} to repurchase or delete them.
 ETC_20170313_026594	You need silver funds and an anvil to enhance an item.
@@ -27451,22 +27451,22 @@ ETC_20170313_027450	Includes prohibited characters.
 ETC_20170313_027451	Can include one (-) or one (_), but no (,).
 ETC_20170313_027452	Includes prohibited BlockName.
 ETC_20170313_027453	Successfully registered the item.{nl}Please allow up to 2 hours for items, excluding Tokens, to be shown on the Market.
-ETC_20170313_027454	Item [{#0000ff}{ITEM}{#000000}] {#ff0000}{COUNT}{#000000} sold
-ETC_20170313_027455	You have {#ff0000}Silver{#000000} ready to retrieve.{nl}You may retrieve it from the {#0000ff}[Market Retrieve Tab]{#000000}.
-ETC_20170313_027456	Item is currently locked.
-ETC_20170313_027457	Use Shop
+ETC_20170313_027454	Gegenstand [{#0000ff}{ITEM}{#000000}] {#ff0000}{COUNT}{#000000} verkauft
+ETC_20170313_027455	Es sind {#ff0000}Silver{#000000} zum abholen bereit.{nl}You may retrieve it from the {#0000ff}[Market Retrieve Tab]{#000000}.
+ETC_20170313_027456	Gegenstand ist aktuell gesperrt.
+ETC_20170313_027457	Benutze Shop
 ETC_20170313_027458	
 ETC_20170313_027459	
 ETC_20170313_027460	
-ETC_20170313_027461	Collection: 
-ETC_20170313_027462	By Name
-ETC_20170313_027463	By Status
+ETC_20170313_027461	Sammlung: 
+ETC_20170313_027462	Nach Name
+ETC_20170313_027463	Nach Status
 ETC_20170313_027464	
 ETC_20170313_027465	Purchase failed.
 ETC_20170313_027466	{REWARD} reward(s) received.
 ETC_20170313_027467	Reach level {NEXTLV} to receive the next reward.
 ETC_20170313_027468	Receive
-ETC_20170313_027469	Check target level
+ETC_20170313_027469	Prüfe Ziel Level
 ETC_20170313_027470	
 ETC_20170313_027471	
 ETC_20170313_027472	
@@ -27475,7 +27475,7 @@ ETC_20170313_027474
 ETC_20170313_027475	
 ETC_20170313_027476	
 ETC_20170313_027477	
-ETC_20170313_027478	Brown
+ETC_20170313_027478	Braun
 ETC_20170313_027479	Badge Collector
 ETC_20170313_027480	Catacombs Dungeon 2
 ETC_20170313_027481	[Chaplain Master]{nl}         Ceslovas
@@ -27641,7 +27641,7 @@ ETC_20170330_027640	The Pendrosium is knocked out!{nl}Hurry and collect the hone
 ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until after the ceasefire period that follows the end of the war.{nl}Are you sure you want to declare war?
 ETC_20170330_027642	You cannot disband your guild during a war.
 ETC_20170330_027643	You cannot disband your guild during the ceasefire.
-ETC_20170330_027644	Purchased
+ETC_20170330_027644	Gekauft
 ETC_20170330_027645	Verkauft
 ETC_20170330_027646	Ausgelaufen
 ETC_20170330_027647	{Day}d {Hour}h {Min}m

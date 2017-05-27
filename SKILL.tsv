@@ -7450,7 +7450,7 @@ SKILL_20170313_007449	* Enemies stunned by [Restrain] become slowed down after s
 SKILL_20170313_007450	* Increases the duration of stun from [Restrain] by 1 second pro Fähigkeitslevel{nl}* Increases cooldown time by 3 Sekunden
 SKILL_20170313_007451	* Increases provocation when enemies attack by 50% pro Fähigkeitslevel
 SKILL_20170313_007452	* Increases [Pain Barrier] duration for 5 Sekunden{nl}* Erhöht SP Verbrauch um 8
-SKILL_20170313_007453	* Increases damage with [Rim Blow] um 1% pro Fähigkeitslevel
+SKILL_20170313_007453	* Erhöht Schaden mit [Rim Blow] um 1% pro Fähigkeitslevel
 SKILL_20170313_007454	* Enhances damage of [Rim Blow] to Peltasta Circle 2 standards.
 SKILL_20170313_007455	* Enhances damage of [Rim Blow] to Peltasta Circle 3 standards.
 SKILL_20170313_007456	* Increases damage dealt with [Umbo Blow] um 1% pro Fähigkeitslevel
@@ -7605,7 +7605,7 @@ SKILL_20170313_007604	* Sequentially fling up to 3 enemies with [Iron Hook]{nl}*
 SKILL_20170313_007605	* Increases duration of [Pillaging] by 1 second pro Fähigkeitslevel
 SKILL_20170313_007606	* Increases damage dealt with [Dust Devil] um 1% pro Fähigkeitslevel
 SKILL_20170313_007607	* Increases damage dealt with [Hexen Dropper] um 1% pro Fähigkeitslevel
-SKILL_20170313_007608	* Nullifies an enemy's attack by a certain chance when [Jolly Roger] is active{nl}* Applies the chance by 0.5% pro Fähigkeitslevel and increases chances depending on number of pirate members{nl}* Does not apply if nobody other than you is a pirate member{nl}* Erhöht SP Verbrauch um 15
+SKILL_20170313_007608	* Nullifies an enemy's attack by a certain chance when [Jolly Roger] is active{nl}* Applies the chance um 0.5% pro Fähigkeitslevel and increases chances depending on number of pirate members{nl}* Does not apply if nobody other than you is a pirate member{nl}* Erhöht SP Verbrauch um 15
 SKILL_20170313_007609	* Increases movement speed by 4 for 7 Sekunden pro Fähigkeitslevel when opening a treasure chest
 SKILL_20170313_007610	* Increases damage dealt with [Pistol Shot] um 1% pro Fähigkeitslevel
 SKILL_20170313_007611	Pistol Shot: Ricochet
@@ -7637,7 +7637,7 @@ SKILL_20170313_007636	* Increases damage dealt with [Sept Etoiles] um 1% pro Fä
 SKILL_20170313_007637	* Increases damage dealt with [Attaque Coquille] um 1% pro Fähigkeitslevel
 SKILL_20170313_007638	* Increases damage dealt with [Esquive Toucher] um 1% pro Fähigkeitslevel
 SKILL_20170313_007639	* Increases damage dealt with [Flanconnade] um 1% pro Fähigkeitslevel
-SKILL_20170313_007640	* Increases damage with [Balestra Fente] um 1% pro Fähigkeitslevel
+SKILL_20170313_007640	* Erhöht Schaden mit [Balestra Fente] um 1% pro Fähigkeitslevel
 SKILL_20170313_007641	* Increases damage dealt with [Attaque Au Fer] um 1% pro Fähigkeitslevel
 SKILL_20170313_007642	* Increases damage dealt with [Kunai] um 1% pro Fähigkeitslevel
 SKILL_20170313_007643	* Increases damage dealt with [Katon no Jutsu] um 1% pro Fähigkeitslevel
@@ -7877,7 +7877,7 @@ SKILL_20170313_007876	* Increases summon time of [Bone Pointing] by 1 second pro
 SKILL_20170313_007877	* Increases damage dealt with [Ngadhundi] um 1% pro Fähigkeitslevel
 SKILL_20170313_007878	* Increases chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) um 1% chance pro Fähigkeitslevel{nl}*Applies to characters other than the caster{nl}* Erhöht SP Verbrauch um 17
 SKILL_20170313_007879	* Increases chance to nullify the enemy's physical attack while using [Levitation] by 1.5% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20
-SKILL_20170313_007880	* Increases HP and SP recovery from skills and potions by 0.5% pro Fähigkeitslevel
+SKILL_20170313_007880	* Increases HP and SP recovery from skills and potions um 0.5% pro Fähigkeitslevel
 SKILL_20170313_007881	* Increases damage dealt with [Kundela Slash] um 1% pro Fähigkeitslevel
 SKILL_20170313_007882	* When using [Blood Curse], HP consumption rises to 80% but duration for [Blood Curse] increases by 7 Sekunden{nl}* Erhöht SP Verbrauch um 13
 SKILL_20170313_007883	* [Bone Pointing] attack applies as repeated hits{nl}* Erhöht SP Verbrauch um 10
@@ -8077,7 +8077,7 @@ SKILL_20170313_008076	* Increases damage dealt with [Limacon] um 1% pro Fähigke
 SKILL_20170313_008077	* Erhöht ausgeteilten Schaden mit [Retreat Shot] um 1% pro Fähigkeitslevel
 SKILL_20170313_008078	* Erhöht die Präzision um 5% pro Fähigkeitlevel, wenn du einen Gegner mit einer Pistole angreifst
 SKILL_20170313_008079	* Verteilt 10% zusätzlichen Schaden pro Fähigkeitslevel an Mutant-Type Monstern wenn ein [Revolver] ausgerüstet ist
-SKILL_20170313_008080	* Increases chance to nullify an enemy's attack while using [Retreat Shot] by 0.5% pro Fähigkeitslevel{nl}* Increases cooldown time by 7 Sekunden
+SKILL_20170313_008080	* Increases chance to nullify an enemy's attack while using [Retreat Shot] um 0.5% pro Fähigkeitslevel{nl}* Increases cooldown time by 7 Sekunden
 SKILL_20170313_008081	* Erhöht ausgeteilten Schaden mit [Wild Shot] um 1% pro Fähigkeitslevel
 SKILL_20170313_008082	* Reduces [Caracole]'s recoil
 SKILL_20170313_008083	* When [Caracole] hits its target, it spreads to attack nearby enemies{nl}* Erhöht SP Verbrauch um 10
@@ -8228,7 +8228,7 @@ SKILL_20170313_008227	* Increases the body's evasion by 10% pro Fähigkeitslevel
 SKILL_20170313_008228	* Enemies hit with [Astral Body Explosion] are knocked down{nl}* Erhöht SP Verbrauch um 10
 SKILL_20170313_008229	* Recovers HP equal to 5% of maximum HP pro Fähigkeitslevel when using [Prakriti]{nl}* Erhöht SP Verbrauch um 6{nl}* Increases cooldown time by 7 Sekunden
 SKILL_20170313_008230	* Decreases the enemy's physical defense by 30% with a chance of 10% pro Fähigkeitslevel when using a basic attack during Out of Body{nl}* Unable to turn ON/OFF during Out of Body
-SKILL_20170313_008231	* Decreases SP cost per second of [Vashita Siddhi] by 0.5% pro Fähigkeitslevel
+SKILL_20170313_008231	* Decreases SP cost per second of [Vashita Siddhi] um 0.5% pro Fähigkeitslevel
 SKILL_20170313_008232	* Enemies within the range of [Vashita Siddhi] have a chance to be afflicted with [Confusion] for 5 Sekunden{nl}* Increases the chance by 10% pro Fähigkeitslevel{nl}* Increases cooldown time by 10 Sekunden
 SKILL_20170313_008233	* Allows [Transmit Prana] to also transmit STR
 SKILL_20170313_008234	* Allows [Transmit Prana] to also transmit CON
@@ -8565,13 +8565,13 @@ SKILL_20170420_008564	Angriff: #{SkillFactor}#{nl}Bomb Explosion Count: #{Captio
 SKILL_20170420_008565	Angriff #{SkillFactor}#% x no. of hits{nl}Trap duration 15 Sekunden{nl}Consumes #{SpendItemCount}# Ash Wood
 SKILL_20170420_008566	Angriff: #{SkillFactor}#%{nl}Installs #{CaptionRatio}#
 SKILL_20170420_008567	Angriff #{SkillFactor}#%{nl}#{CaptionRatio}# arrows{nl}Install range #{CaptionRatio2}#{nl}Consumes #{SpendItemCount}# Wire
-SKILL_20170420_008568	0.5 second attack #{SkillFactor}#%{nl}Physical defense #{CaptionRatio}#% decrease{nl}Add. critical chance 40%{nl}Dauer 5.5 Sekunden
+SKILL_20170420_008568	0.5 Sekunden Angriff #{SkillFactor}#%{nl}Physical defense #{CaptionRatio}#% decrease{nl}Add. critical chance 40%{nl}Dauer 5.5 Sekunden
 SKILL_20170420_008569	#{SkillFactor}#% Angriff per 0.5 Sekunden{nl}Dauer 5 Sekunden
 SKILL_20170420_008570	Temporarily increases companion's Angriff, Accuracy, Crit Rate and Basic Angriff Speed.
 SKILL_20170420_008571	Companion Angriff: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Critical Rate: +#{CaptionRatio}#{nl}Companion Angriff Speed + #{CaptionRatio2}# Sekunden {nl}Dauer: #{CaptionTime}# Sekunden{nl}Maximum Level: 5
 SKILL_20170420_008572	Angriff: #{SkillFactor}#%{nl}Maximum Dauer: 5 Sekunden
 SKILL_20170420_008573	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
-SKILL_20170420_008574	0.5 second attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Dauer  #{CaptionRatio2}# Sekunden{nl}Use #{SpendPoison}# Poison pot
+SKILL_20170420_008574	0.5 Sekunden Angriff #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Dauer  #{CaptionRatio2}# Sekunden{nl}Use #{SpendPoison}# Poison pot
 SKILL_20170420_008575	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearby enemies whenever it is attacked. {nl}
 SKILL_20170420_008576	{#DD5500}{ol}[Physisch] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemy who come into contact with the puddle is poisoned. {nl}
 SKILL_20170420_008577	0.5 Sekunden attack #{SkillFactor}#%{nl}Dauer #{CaptionTime}# Sekunden{nl}Consumes  #{SpendPoison}# Poison Pot
@@ -8620,9 +8620,9 @@ SKILL_20170420_008619	Angriff #{SkillFactor}#% x no. of hits{nl}Arrow Rain Dauer
 SKILL_20170420_008620	Angriff #{SkillAtkAdd}#{nl}AoE Ratio #{SkillSR}#{nl}Reduced Enemy Movement Speed Chance #{CaptionRatio2}#%
 SKILL_20170420_008621	Angriff #{SkillFactor}#%{nl}Min. critical chance increase{nl}Dauer #{CaptionRatio}# Seconds
 SKILL_20170420_008622	Angriff: #{SkillFactor}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Dauer: #{CaptionTime}# Sekunden
-SKILL_20170420_008623	#{CaptionRatio3}# second attack #{SkillFactor}#%{nl}No. of hits: #{CaptionRatio}#{nl}Magic circle duration #{CaptionTime}#Sekunden
+SKILL_20170420_008623	#{CaptionRatio3}# Sekunden Angriff #{SkillFactor}#%{nl}No. of hits: #{CaptionRatio}#{nl}Magic circle duration #{CaptionTime}#Sekunden
 SKILL_20170420_008624	Decreases 0.3% per stack{nl}Magic circle duration #{CaptionTime}# Sekunden
-SKILL_20170420_008625	0.3 second attack #{SkillFactor}#%{nl}No. of hits #{CaptionRatio}#{nl}Magic circle duration 30 Sekunden
+SKILL_20170420_008625	0.3 Sekunden Angriff #{SkillFactor}#%{nl}No. of hits #{CaptionRatio}#{nl}Magic circle duration 30 Sekunden
 SKILL_20170420_008626	Creates a magic circle that temporarily maintains the beneficial effects of you and your party members. Dauer will no surpass 20 Sekunden.
 SKILL_20170420_008627	Dauer #{CaptionRatio2}#% increase
 SKILL_20170420_008628	Angriff #{SkillFactor}#%{nl}Physical defense #{CaptionRatio}# increase{nl}Targets: 10{nl}Dauer #{CaptionTime}# Sekunden{nl}Consumes 1 Holy Water
@@ -8631,7 +8631,7 @@ SKILL_20170420_008630	Resurrects a target that has been defeated in combat.{nl}I
 SKILL_20170420_008631	Angriff: #{SkillFactor}#%{nl}Casting Time: #{CaptionTime}# Sekunden{nl}HP recovery after resurrection: #{CaptionRatio}#%
 SKILL_20170420_008632	Holy Property Angriff: +#{CaptionRatio}#{nl}Additional Property Damage: +#{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Consumes 1 Gyslotis
 SKILL_20170420_008633	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates an exorcism circle that damages enemies inside, then deals continuous damage.
-SKILL_20170420_008634	0.4 second attack #{SkillFactor}#%{nl}Dauer #{CaptionTime}#Seconds
+SKILL_20170420_008634	0.4 Sekunden Angriff #{SkillFactor}#%{nl}Dauer #{CaptionTime}#Seconds
 SKILL_20170420_008635	Magic Defense: -#{CaptionRatio}#% decrease{nl}Hexing Dauer: #{CaptionTime}# Sekunden
 SKILL_20170420_008636	Angriff: #{SkillFactor}#%{nl}Angriff bonus on 3rd attack #{CaptionRatio}#times ~ #{CaptionRatio2}#times
 SKILL_20170420_008637	Angriff#{SkillFactor}#%{nl}Max. duration 10 Sekunden{nl}Requires summoned zombies
@@ -8642,7 +8642,7 @@ SKILL_20170420_008641	Angriff: #{SkillFactor}#% x3{nl}Block: #{CaptionRatio}# ti
 SKILL_20170420_008642	Carve a divine World Tree that silences nearby enemies.
 SKILL_20170420_008643	Body moving range #{CaptionRatio}#
 SKILL_20170420_008644	STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Consumes #{CaptionRatio2}# SP per second{nl}Maximum Dauer: 10 Sekunden
-SKILL_20170420_008645	0.3 second attack #{SkillFactor}#%{nl}Targets #{CaptionRatio2}#{nl}Max. duration 6.5 Sekunden
+SKILL_20170420_008645	0.3 Sekunden Angriff #{SkillFactor}#%{nl}Targets #{CaptionRatio2}#{nl}Max. duration 6.5 Sekunden
 SKILL_20170420_008646	Transfer a portion of your INT stat to an ally in front of you.
 SKILL_20170420_008647	{#DD5500}{ol}[Physisch] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Strike down enemies with a powerful attack. Deals triple damage to Mutant and Devil-type enemies.
 SKILL_20170420_008648	Property resistance #{CaptionRatio}# increase{nl}Property attack damage #{CaptionRatio3}#% decrease{nl}Nullification chance #{CaptionRatio2}#%{nl}Enemy's magic defense 8% decrease{nl}Dauer #{CaptionTime}# Sekunden
@@ -8663,13 +8663,13 @@ SKILL_20170420_008662	Transform into a monster of the Animal-type, Plant-type or
 SKILL_20170420_008663	Abel to Use Wolf Skills{nl}Additional Angriff #{SkillFactor}#%{nl}Max Dauer #{CaptionTime}# minutes{nl}SP Consumption 80 per minute
 SKILL_20170420_008664	Increases the maximum SP and STA of you and your party members.
 SKILL_20170420_008665	Install a magic circle that grants super healing abilities temporarily. You or your party members recover HP equal to the amount left at the point when the magic circle is stepped on.
-SKILL_20170420_008666	0.4 second attack #{SkillFactor}#%{nl}Basic duration #{CaptionRatio2}# Sekunden
+SKILL_20170420_008666	0.4 Sekunden Angriff #{SkillFactor}#%{nl}Basic duration #{CaptionRatio2}# Sekunden
 SKILL_20170420_008667	Spread all status ailments on targeted enemies to other enemies within the range.
-SKILL_20170420_008668	0.5 second attack #{SkillFactor}#%{nl}Dauer #{CaptionTime}#Seconds
+SKILL_20170420_008668	0.5 Sekunden Angriff #{SkillFactor}#%{nl}Dauer #{CaptionTime}#Seconds
 SKILL_20170420_008669	Dauer: #{CaptionTime}# Sekunden{nl}Zusätzlicher Schaden: #{CaptionRatio}#% x7
 SKILL_20170420_008670	Angriff: #{SkillFactor}#%{nl}Attribute Damage: #{CaptionRatio}#%{nl}100% magic attack damage on collision{nl}Max. collisions: #{CaptionRatio2}#
 SKILL_20170420_008671	Angriff #{SkillFactor}#%{nl}Max. installs #{CaptionRatio2}#
-SKILL_20170420_008672	0.3 second attack #{SkillFactor}#%{nl}Dauer #{CaptionTime}# Sekunden{nl}Requires 1 Wheel of Judgement
+SKILL_20170420_008672	0.3 Sekunden Angriff #{SkillFactor}#%{nl}Dauer #{CaptionTime}# Sekunden{nl}Requires 1 Wheel of Judgement
 SKILL_20170420_008673	{#DD5500}{ol}[Physisch] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Lifts the weapon high up in the air above the head and smash it down. If Blunt weapon, deals additional damage.
 SKILL_20170420_008674	Angriff #{SkillFactor}#% x7{nl}Dauer #{CaptionTime}# Sekunden {nl}Max. No. of Targets 7
 SKILL_20170420_008675	Explosion Angriff #{SkillFactor}#%{nl}Charm Dauer #{CaptionTime}# minutes{nl}AoE #{CaptionRatio}#{nl}Requites 2 sheets of Strange Yellow Paper
@@ -8680,11 +8680,11 @@ SKILL_20170420_008679	Explosion Angriff #{SkillFactor}#% x 3{nl}Charm duration #
 SKILL_20170420_008680	{#993399}{ol}[Magic]{/}{/}{nl}Install Creeping Death charm that moves slowly foward. Creeping Death deals continuous damage to the targets coming in contact with it while moving. Deals additional damage when exploding via Begone Demon.
 SKILL_20170420_008681	Angriff #{SkillFactor}#% x #{CaptionRatio}#{nl}Explosion attack #{CaptionRatio2}#%{nl}Requires 3 sheets of Strange Yellow Paper
 SKILL_20170420_008682	Sweeps the floor with the purified and divine broom. The sweeped area increases the skill level of magic circles in use at that location for a period of time.
-SKILL_20170420_008683	0.3 second attack #{SkillFactor}#%{nl}Max. targets: 10{nl}Dauer #{CaptionRatio2}# Sekunden
+SKILL_20170420_008683	0.3 Sekunden Angriff #{SkillFactor}#%{nl}Max. targets: 10{nl}Dauer #{CaptionRatio2}# Sekunden
 SKILL_20170420_008684	Clap your hands twice. Increases duration for some installations nearby.
 SKILL_20170420_008685	Maximum Dauer #{CaptionTime}#Sekunden{nl}Consumes #{CaptionRatio}#% SP per second{nl}Additional Holy property Damage: #{CaptionRatio2}#%
-SKILL_20170420_008686	Increases your critical rate.
-SKILL_20170420_008687	Basic attack speed increased. 
+SKILL_20170420_008686	Erhöht deine Kritrate.
+SKILL_20170420_008687	Basis Angriffsgeschwindigkeit erhöht. 
 SKILL_20170420_008688	Numbed. Movement and attack speed decreased.
 SKILL_20170420_008689	When attacking with Hackapell skill, additional damage will be dealt.
 SKILL_20170420_008690	The duration time of beneficial buffs has been increased.
@@ -8702,12 +8702,12 @@ SKILL_20170420_008701	Receive 7.5% less Darkness property damage per stack.
 SKILL_20170420_008702	* Kann ausrüsten [Stoff] Rüstung{nl}* When 3 pieces of [Stoff] armor are equipped, magic damage taken is decreased by 5%{nl}* When 4 or more [Stoff] armor pieces are equipped, magic damage taken is decreased by 10%
 SKILL_20170420_008703	* Kann ausrüsten [Leder] Rüstung{nl}* When 3 pieces of [Leder] armor are equipped, critical attack is increased by 30{nl}* When 3 pieces of [Leder] are equipped, accuracy is increased by 30{nl}* When 4 or more [Leder] armor pieces are equipped critical attack is increased by 50{nl}* When 4 or more [Leder] armor pieces are equipped, accuracy is increased by 50 
 SKILL_20170420_008704	* Kann ausrüsten [Platte] Rüstung{nl}* When 3 pieces of [Platte] armor are equipped, physical damage taken is decreased by 5%{nl}* When 4 or more [Platte] armor pieces are equipped, physical damage taken is decreased by 10%
-SKILL_20170420_008705	* Increases damage dealt on an enemy with [Bash] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008706	* Erhöht ausgeteilten Schaden mit [Thrust] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008705	* Increases damage dealt on an enemy with [Bash] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008706	* Erhöht ausgeteilten Schaden mit [Thrust] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008707	* Amplifies physical damage increase effect and decreased defense effect of [Gung Ho] um 1% pro Fähigkeitslevel
 SKILL_20170420_008708	* Increases additional damage of [Concentrate] um 1% pro Fähigkeitslevel
-SKILL_20170420_008709	* Erhöht ausgeteilten Schaden mit [Pommel Beat] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008710	* Erhöht ausgeteilten Schaden mit [Double Slash] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008709	* Erhöht ausgeteilten Schaden mit [Pommel Beat] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008710	* Erhöht ausgeteilten Schaden mit [Double Slash] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008711	* Increases AoE attack ratio of [Bash] by 1 pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008712	* Activates consecutive attacks when using [Thrust] um 1% chance pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008713	* Enemies hit by [Bash] are knocked down{nl}* Erhöht SP Verbrauch um 30%
@@ -8716,10 +8716,10 @@ SKILL_20170420_008715	* Inflicts [Bleeding] on stunned enemies for 5 Sekunden wi
 SKILL_20170420_008716	* Enemies stunned by [Restrain] become slowed down after stun wears off{nl}* Increases duration of slow effect by 3 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008717	Increases the duration of stun from [Restrain] by 1 second pro Fähigkeitslevel {nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008718	* Increases [Pain Barrier] duration for 5 Sekunden{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008719	* Increases damage with [Rim Blow] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008720	* Increases damage with [Rim Blow] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008721	* Erhöht ausgeteilten Schaden mit [Shield Lob] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008722	* Erhöht ausgeteilten Schaden mit [Butterfly] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008719	* Erhöht Schaden mit [Rim Blow] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008720	* Erhöht Schaden mit [Rim Blow] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008721	* Erhöht ausgeteilten Schaden mit [Shield Lob] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008722	* Erhöht ausgeteilten Schaden mit [Butterfly] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008723	* Increases character's maximum HP um 5% pro Fähigkeitslevel when [Swash Buckling] is active{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008724	* Enemies hit by [Umbo Blow] have a 5% chance pro Fähigkeitslevel to become afflicted with [Stun] for 3 Sekunden{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008725	* Increases AoE attack ratio of [Shield Lob] by 1 pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 30%
@@ -8727,75 +8727,75 @@ SKILL_20170420_008726	* Enemies hit by [Umbo Blow] will be knocked down{nl}* Inc
 SKILL_20170420_008727	* Applies damage of [Rim Blow] to 60% when using [High Guard]{nl}* From Lv2, damage increases by 10% pro Fähigkeitslevel
 SKILL_20170420_008728	* Applies damage of [Umbo Blow] to 60% when using [High Guard]* From Lv2, damage increases by 10% pro Fähigkeitslevel
 SKILL_20170420_008729	* Increases character's evasion by 6% pro Fähigkeitslevel when [Guardian] is active{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008730	* Erhöht ausgeteilten Schaden mit [Umbo Thrust] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008731	* Erhöht ausgeteilten Schaden mit [Langort] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008730	* Erhöht ausgeteilten Schaden mit [Umbo Thrust] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008731	* Erhöht ausgeteilten Schaden mit [Langort] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008732	* Using [Langort] increases the chance to block enemy attacks um 5% pro Fähigkeitslevel{nl}* After a successful block, the enemy becomes afflicted with [Silence] for 3 Sekunden{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008733	* Party members receive a buff when [Swash Buckling] is used{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008734	* Erhöht ausgeteilten Schaden mit [Cartar Stroke] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008735	* Erhöht ausgeteilten Schaden mit [Crown] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008736	* Erhöht ausgeteilten Schaden mit [Wagon Wheel] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008734	* Erhöht ausgeteilten Schaden mit [Cartar Stroke] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008735	* Erhöht ausgeteilten Schaden mit [Crown] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008736	* Erhöht ausgeteilten Schaden mit [Wagon Wheel] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008737	* Enhances physical defense increase effect of [Cross Guard] by 3 pro Fähigkeitslevel
-SKILL_20170420_008738	* Erhöht ausgeteilten Schaden mit [Moulinet] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008739	* Erhöht ausgeteilten Schaden mit [Skull Swing] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008738	* Erhöht ausgeteilten Schaden mit [Moulinet] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008739	* Erhöht ausgeteilten Schaden mit [Skull Swing] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008740	Increases the knockback power of [Cartar Stroke] by 50 pro Fähigkeitslevel{nl}* increases SP consumption by 20%
 SKILL_20170420_008741	* Increases enemy INT and SPR reduction from [Crown] by 2% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008742	* Increases AoE attack ratio of [Wagon Wheel] by 1{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008743	* Increases critical chance of [Moulinet] by 12% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
+SKILL_20170420_008742	* Increases AoE attack ratio of [Wagon Wheel] um 1{nl}* Erhöht SP Verbrauch um 10%
+SKILL_20170420_008743	* Erhöht Kritische Chance von [Moulinet] um 12% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008744	* Enemies blocked by [Crossguard] remain staggered for 1 second longer pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008745	* Deals additional damage equal to 50% physical attack to enemies knock backed with [Cartar Stroke]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008746	* [Cartar Stroke] no longer knocks enemies back{nl}* Only applies if attribute is set to ON{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008747	* Erhöht ausgeteilten Schaden mit [Skyliner] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008748	* Erhöht ausgeteilten Schaden mit [Crosscut] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008749	* Erhöht ausgeteilten Schaden mit [Vertical Slash] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008747	* Erhöht ausgeteilten Schaden mit [Skyliner] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008748	* Erhöht ausgeteilten Schaden mit [Crosscut] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008749	* Erhöht ausgeteilten Schaden mit [Vertical Slash] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008750	* Removes knockback effect from [Skull Swing] does not push away enemies anymore{nl}* Only applies if attribute is set to ON{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008751	* Decreases charging time of [Cartar Stroke] by half{nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_008752	* Erhöht ausgeteilten Schaden mit [Stabbing] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008753	* Erhöht ausgeteilten Schaden mit [Synchro Thrusting] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008754	* Erhöht ausgeteilten Schaden mit [Pierce] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008755	* Erhöht ausgeteilten Schaden mit [Long Stride] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008756	* Erhöht ausgeteilten Schaden mit [Spear Throw] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008752	* Erhöht ausgeteilten Schaden mit [Stabbing] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008753	* Erhöht ausgeteilten Schaden mit [Synchro Thrusting] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008754	* Erhöht ausgeteilten Schaden mit [Pierce] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008755	* Erhöht ausgeteilten Schaden mit [Long Stride] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008756	* Erhöht ausgeteilten Schaden mit [Spear Throw] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008757	* Increases evasion and magic defense um 5% pro Fähigkeitslevel when using [Stabbing]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008758	* Deals 4 consecutive hits on boss monsters with [Pierce]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008759	* Enemies hit by [Pierce] have a 2% chance pro Fähigkeitslevel of being afflicted with [Bleeding] for 6 Sekunden{nl}* Bleeding damage is proportional to character's physical attack{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008760	* Adds 10% of your INT to physical damage while [Finestra] is active{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008761	* Increases AoE attack ratio by 3, but reduces evasion rate by x2 more of the existing value when [Finestra] is active{nl}* Erhöht SP Verbrauch um 3{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008762	* Enemies hit by [Spear Throw] have a chance to be afflicted with [Bind] for 7 Sekunden{nl}* Chances increase by 15% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008763	* Erhöht ausgeteilten Schaden mit [Spear Lunge] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008764	* Erhöht ausgeteilten Schaden mit [Embowel] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008763	* Erhöht ausgeteilten Schaden mit [Spear Lunge] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008764	* Erhöht ausgeteilten Schaden mit [Embowel] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008765	* Enhances physical attack increase effect of [Warcry] um 1% pro Fähigkeitslevel{nl}* Attribute applies after an enemy's defense is reduced
-SKILL_20170420_008766	* Erhöht ausgeteilten Schaden mit [Stomping Kick] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008766	* Erhöht ausgeteilten Schaden mit [Stomping Kick] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008767	* Increases the amount of enemies [Warcry] can affect by 1 pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20{nl}* Erhöht SP Verbrauch um 30%
 SKILL_20170420_008768	Increases the duration of [Warcry] by 2 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008769	* Increases critical chance of [Savagery] um 5% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008770	* Applies Continuous Angriff bonus to slash attacks for [Savagery]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008771	* Maintains the stacks from [Frenzy] when switching to another target, but the maximum amount of stacks is reduced by half{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008772	* Adds critical attack proportional to physical attack when [Aggressor] is active{nl}* Increases um 5% pro Fähigkeitslevel{nl}* Increases {nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_008773	* Erhöht ausgeteilten Schaden mit [Pouncing] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008774	* Erhöht ausgeteilten Schaden mit [Helm Chopper] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008775	* Erhöht ausgeteilten Schaden mit [Seism] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008776	* Erhöht ausgeteilten Schaden mit [Cleave] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008773	* Erhöht ausgeteilten Schaden mit [Pouncing] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008774	* Erhöht ausgeteilten Schaden mit [Helm Chopper] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008775	* Erhöht ausgeteilten Schaden mit [Seism] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008776	* Erhöht ausgeteilten Schaden mit [Cleave] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008777	* Enemies hit by [Pouncing] have a 8% chance pro Fähigkeitslevel of being knocked down{nl}* Erhöht SP Verbrauch um 5{nl}* Erhöht SP Verbrauch um 30%
 SKILL_20170420_008778	* Increases duration of all Barbarian debuffs by 1 second pro Fähigkeitslevel when affected by the [Warcry] debuff{nl}* Dauer increase reduced to 1/3 in PvP{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008779	* Erhöht ausgeteilten Schaden mit [Shield Charge] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008780	* Erhöht ausgeteilten Schaden mit [Montano] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008781	* Erhöht ausgeteilten Schaden mit [Targe Smash] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008782	* Erhöht ausgeteilten Schaden mit [Shield Push] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008779	* Erhöht ausgeteilten Schaden mit [Shield Charge] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008780	* Erhöht ausgeteilten Schaden mit [Montano] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008781	* Erhöht ausgeteilten Schaden mit [Targe Smash] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008782	* Erhöht ausgeteilten Schaden mit [Shield Push] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008783	* Inflicts 20% additional damage pro Fähigkeitslevel on frozen and petrified enemies with [Targe Smash]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008784	* Inflicts target with [Slow] for 10 Sekunden and increases duration of [Slow] by 3/2/1 Sekunden pro Fähigkeitslevel on small/medium/large sized monsters respectively with [Montano]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008785	* Spreads [Burn] equal to attribute level when defeating an enemy affected by [Burn] with [Targe Smash]{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008786	* Erhöht ausgeteilten Schaden mit [Shooting Star] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008787	* Erhöht ausgeteilten Schaden mit [Slithering] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008786	* Erhöht ausgeteilten Schaden mit [Shooting Star] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008787	* Erhöht ausgeteilten Schaden mit [Slithering] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008788	* Increases duration of the unbalanced status effect applied from [Shield Push] by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_008789	* Erhöht ausgeteilten Schaden mit [Shield Shoving] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008790	* Erhöht ausgeteilten Schaden mit [Shield Bash] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008791	* Erhöht ausgeteilten Schaden mit [High Kick] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008789	* Erhöht ausgeteilten Schaden mit [Shield Shoving] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008790	* Erhöht ausgeteilten Schaden mit [Shield Bash] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008791	* Erhöht ausgeteilten Schaden mit [High Kick] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008792	* Enemies hit by [Slithering] become vulnerable to [Strike] attacks for 10 Sekunden{nl}Increases additional damage by 10% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008793	* Removes knockback effect from [Targe Smash]{nl}* Only applies if attribute is set to ON{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008794	* Increases damage with [Impaler] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008795	* Erhöht ausgeteilten Schaden mit [Earth Wave] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008796	* Erhöht ausgeteilten Schaden mit [Steed Charge] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008797	* Erhöht ausgeteilten Schaden mit [Doom Spike] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008798	* Erhöht ausgeteilten Schaden mit [Rush] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008794	* Erhöht Schaden mit [Impaler] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008795	* Erhöht ausgeteilten Schaden mit [Earth Wave] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008796	* Erhöht ausgeteilten Schaden mit [Steed Charge] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008797	* Erhöht ausgeteilten Schaden mit [Doom Spike] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008798	* Erhöht ausgeteilten Schaden mit [Rush] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008799	* Enemies attacked with [Rush] have a 1% chance pro Fähigkeitslevel to be afflicted with [Stun] for 2 Sekunden{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008800	* Changes the property of [Earth Wave] to Earth property{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008801	* Applies critical on [Steed Charge] in enemies afflicted with [Slow]{nl}* Erhöht SP Verbrauch um 20%
@@ -8803,117 +8803,117 @@ SKILL_20170420_008802	* Removes knockback effect from [Steed Charge]{nl}* Only a
 SKILL_20170420_008803	* Removes knockback effect from [Doom Spike]{nl}* Only applies if attribute is set to ON{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008804	* Applies [Slow] with a 4 Sekunden duration after [Arrest] ends{nl}* Increases duration of [Slow] from Lv2 by 0.4 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008805	* Decreases physical defense of enemies affected by [Arrest] by 2% pro Fähigkeitslevel.{nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_008806	* Erhöht ausgeteilten Schaden mit [Deadly Combo] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008807	* Erhöht ausgeteilten Schaden mit [Keel Hauling] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008806	* Erhöht ausgeteilten Schaden mit [Deadly Combo] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008807	* Erhöht ausgeteilten Schaden mit [Keel Hauling] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008808	* Inflicts [Bleeding] on enemies attacked with [Keel Hauling] for 5 Sekunden{nl}* Increases the duration of [Bleeding] by 1 second pro Fähigkeitslevel{nl}* Bleeding damage is proportional to character's STR{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008809	* Erhöht ausgeteilten Schaden mit [Dust Devil] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008810	* Erhöht ausgeteilten Schaden mit [Hexen Dropper] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008811	* Nullifies an enemy's attack by a certain chance when [Jolly Roger] is active{nl}* Applies the chance by 0.5% pro Fähigkeitslevel and increases chances depending on number of pirate members{nl}* Does not apply if nobody other than you is a pirate member{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008812	* Erhöht ausgeteilten Schaden mit [Pistol Shot] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008809	* Erhöht ausgeteilten Schaden mit [Dust Devil] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008810	* Erhöht ausgeteilten Schaden mit [Hexen Dropper] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008811	* Nullifies an enemy's attack by a certain chance when [Jolly Roger] is active{nl}* Applies the chance um 0.5% pro Fähigkeitslevel and increases chances depending on number of pirate members{nl}* Does not apply if nobody other than you is a pirate member{nl}* Erhöht SP Verbrauch um 10%
+SKILL_20170420_008812	* Erhöht ausgeteilten Schaden mit [Pistol Shot] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008813	Decreases a member's HP recovery time by 2 Sekunden pro Fähigkeitslevel while in the [Schiltron] formation Erhöht SP Verbrauch um 20%
-SKILL_20170420_008814	* Erhöht ausgeteilten Schaden mit [Cyclone] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008815	* Erhöht ausgeteilten Schaden mit [Mordschlag] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008816	* Erhöht ausgeteilten Schaden mit [Punish] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008814	* Erhöht ausgeteilten Schaden mit [Cyclone] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008815	* Erhöht ausgeteilten Schaden mit [Mordschlag] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008816	* Erhöht ausgeteilten Schaden mit [Punish] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008817	* Allows movement when using [Cyclone]{nl}* Erhöht SP Verbrauch um 30%
 SKILL_20170420_008818	* Decreases damage taken from x3 to x2 while [Double Pay Earn] is active{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008819	* Attacks become critical hits while attacking Cloth armor-type enemies with [Mordschlag]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008820	* While using [Pain Barrier], increases movement speed by 5%, but decreases evasion by 10% pro Fähigkeitslevel respectively{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008821	* Erhöht ausgeteilten Schaden mit [Zonhau] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008822	* Erhöht ausgeteilten Schaden mit [Redel] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008823	* Erhöht ausgeteilten Schaden mit [Zucken] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008821	* Erhöht ausgeteilten Schaden mit [Zonhau] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008822	* Erhöht ausgeteilten Schaden mit [Redel] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008823	* Erhöht ausgeteilten Schaden mit [Zucken] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008824	* Increases chance to block harmful effects by 15% pro Fähigkeitslevel during [Cyclone]{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008825	*Increases the damage dealt on an enemy with [Zwerchhau] by 0.5% pro Fähigkeitslevel.
-SKILL_20170420_008826	* Erhöht ausgeteilten Schaden mit [Sturtzhau] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008825	*Increases the damage dealt on an enemy with [Zwerchhau] um 0.5% pro Fähigkeitslevel.
+SKILL_20170420_008826	* Erhöht ausgeteilten Schaden mit [Sturtzhau] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008827	* Increases [Zucken] attack count, raising total amount of damage by +100%{nl}* Erhöht SP Verbrauch um 100%
 SKILL_20170420_008828	* Increases [Redel] attack count, raising total amount of damage by +180%{nl}* Erhöht SP Verbrauch um 100%
 SKILL_20170420_008829	* [Zornhau] attack strikes the enemy multiple times{nl}* Number of hits increases by 1 pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 100%
 SKILL_20170420_008830	* Deals damage to nearby enemies when [Punish] is successful{nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_008831	* Erhöht ausgeteilten Schaden mit [Attaque Composee] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008832	* Erhöht ausgeteilten Schaden mit [Lunge] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008833	* Erhöht ausgeteilten Schaden mit [Sept Etoiles] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008834	* Erhöht ausgeteilten Schaden mit [Attaque Coquille] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008835	* Erhöht ausgeteilten Schaden mit [Esquive Toucher] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008836	* Erhöht ausgeteilten Schaden mit [Flanconnade] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008837	* Increases damage with [Balestra Fente] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008838	* Erhöht ausgeteilten Schaden mit [Attaque Au Fer] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008839	* Erhöht ausgeteilten Schaden mit [Kunai] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008840	* Erhöht ausgeteilten Schaden mit [Katon no Jutsu] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008841	* Erhöht ausgeteilten Schaden mit [Mijin no Jutsu] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008831	* Erhöht ausgeteilten Schaden mit [Attaque Composee] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008832	* Erhöht ausgeteilten Schaden mit [Lunge] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008833	* Erhöht ausgeteilten Schaden mit [Sept Etoiles] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008834	* Erhöht ausgeteilten Schaden mit [Attaque Coquille] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008835	* Erhöht ausgeteilten Schaden mit [Esquive Toucher] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008836	* Erhöht ausgeteilten Schaden mit [Flanconnade] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008837	* Erhöht Schaden mit [Balestra Fente] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008838	* Erhöht ausgeteilten Schaden mit [Attaque Au Fer] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008839	* Erhöht ausgeteilten Schaden mit [Kunai] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008840	* Erhöht ausgeteilten Schaden mit [Katon no Jutsu] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008841	* Erhöht ausgeteilten Schaden mit [Mijin no Jutsu] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008842	* Hides character for 5 Sekunden after using [Mijin no Jutsu]{nl}* Increases duration from Lv2 by 1.5 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008843	* Hides character for 2 Sekunden pro Fähigkeitslevel after using [Katon no Jutsu]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008844	* Increases stamina reduction cycle of [Bunshin no Jutsu] by 0.05 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008845	* Restricts movement of an enemy for 4 Sekunden when dealing damage with [Mokuton no Jutsu]{nl}Increases duration from Lv2 by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008846	* Decreases damage taken by 4% pro Fähigkeitslevel when there are at least 2 clones from [Bunshin no Jutsu]{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008847	* Erhöht ausgeteilten Schaden mit [Dragontooth] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008847	* Erhöht ausgeteilten Schaden mit [Dragontooth] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008848	* Increases evasion by 10% pro Fähigkeitslevel for 7 Sekunden after using [Dragontooth]{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008849	* Erhöht ausgeteilten Schaden mit [Serpentine] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008849	* Erhöht ausgeteilten Schaden mit [Serpentine] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008850	* Enemies hit by [Serpentine] have a 2% chance pro Fähigkeitslevel of being afflicted with [Bleeding] for 8 Sekunden{nl}* Bleeding damage is proportional to character's physical attack{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008851	* Erhöht ausgeteilten Schaden mit [Gae Bulg] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008851	* Erhöht ausgeteilten Schaden mit [Gae Bulg] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008852	* Creates a defense zone for 15 Sekunden where the spear is thrown{nl}* Increases physical defense and magic defense by 2% for party members within the zone{nl}* Erhöht SP Verbrauch um 15%
 SKILL_20170420_008853	* Creates attack zone for 15 Sekunden where the spear is thrown. Increases physical attack and magic attack by 2% for party members within the zone{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008854	* Erhöht ausgeteilten Schaden mit [Dragon Soar] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008854	* Erhöht ausgeteilten Schaden mit [Dragon Soar] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008855	* Enemies hit by [Dragon Soar] have a 5% chance pro Fähigkeitslevel to be afflicted with [Shock] for 10 Sekunden{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008856	* Erhöht ausgeteilten Schaden mit [Dethrone] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008856	* Erhöht ausgeteilten Schaden mit [Dethrone] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008857	* Enemies affected by [Serpentine] become vulnerable to physical melee attacks for 10 Sekunden and attacks gain 50% additional damage{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008858	* Erhöht ausgeteilten Schaden mit [Dragon Dive] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008859	* Erhöht ausgeteilten Schaden mit [Frenzied Slash] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008860	* Erhöht ausgeteilten Schaden mit [Evade Thrust] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008858	* Erhöht ausgeteilten Schaden mit [Dragon Dive] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008859	* Erhöht ausgeteilten Schaden mit [Frenzied Slash] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008860	* Erhöht ausgeteilten Schaden mit [Evade Thrust] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008861	* [Evade Thrust] gains 2% chance of inflicting bleeding on enemy for 25 Sekunden{nl}* Bleed damage is proportional to the character's STR{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008862	* Erhöht ausgeteilten Schaden mit [Headbutt] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008863	* Erhöht ausgeteilten Schaden mit [Takedown] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008864	* Erhöht ausgeteilten Schaden mit [Frenzied Shoot] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008862	* Erhöht ausgeteilten Schaden mit [Headbutt] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008863	* Erhöht ausgeteilten Schaden mit [Takedown] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008864	* Erhöht ausgeteilten Schaden mit [Frenzied Shoot] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008865	* While equipped with Cassis Crista, Peltastas' Rim Blow, Umbo Blow{nl} Shield Lob, Umbo Thrust skill attack damage increases by 15% pro Fähigkeitslevel
-SKILL_20170420_008866	* Erhöht ausgeteilten Schaden mit [Scutum Hit] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008866	* Erhöht ausgeteilten Schaden mit [Scutum Hit] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008867	* Enemies hit by [Slithering] become vulnerable to [Strike] attacks for 10 Sekunden{nl}Increases additional damage by 6% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008868	* [Scutum Hit] has 3% chance of stunning attacked target for 2 Sekunden{nl}Chance increases by 3% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008869	* While equipped with Cassis Crista, Rodelero skill damage for Shield Charge{nl} Targe Smash, Shield Push, Shield Shove and Shield Bash increases by 15% pro Fähigkeitslevel
 SKILL_20170420_008870	* While equipped with Cassis Crista, skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 10% pro Fähigkeitslevel
 SKILL_20170420_008871	* While equipped with Cassis Crista, skill attack damage for Hoplite's Synchro Thrusting increases by 15% pro Fähigkeitslevel
-SKILL_20170420_008872	* Erhöht ausgeteilten Schaden mit [Crush] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008872	* Erhöht ausgeteilten Schaden mit [Crush] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008873	* [Crush] reduces enemy's physical attack and physical defense by 10% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008874	* Erhöht ausgeteilten Schaden mit [Head Strike] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008874	* Erhöht ausgeteilten Schaden mit [Head Strike] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008875	* [Head Strike] has 10% chance pro Fähigkeitslevel to stun the enemy for 2.5 Sekunden{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008876	* Erhöht ausgeteilten Schaden mit [Joust] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008877	* Erhöht ausgeteilten Schaden mit [Unhorsing] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008878	* Erhöht ausgeteilten Schaden mit [Quintain] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008879	* Erhöht ausgeteilten Schaden mit [Mortal Slash] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008880	* Erhöht ausgeteilten Schaden mit [Energy Bolt] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008876	* Erhöht ausgeteilten Schaden mit [Joust] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008877	* Erhöht ausgeteilten Schaden mit [Unhorsing] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008878	* Erhöht ausgeteilten Schaden mit [Quintain] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008879	* Erhöht ausgeteilten Schaden mit [Mortal Slash] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008880	* Erhöht ausgeteilten Schaden mit [Energy Bolt] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008881	* Increases reflect damage of [Reflect Shield] by 1 pro Fähigkeitslevel and decreases damage received accordingly{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008882	* Increases physical and magic attack debuff effect of [Lethargy] um 1% pro Fähigkeitslevel
-SKILL_20170420_008883	* Erhöht ausgeteilten Schaden mit [Earthquake] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008884	* Erhöht ausgeteilten Schaden mit [Magic Missile] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008883	* Erhöht ausgeteilten Schaden mit [Earthquake] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008884	* Erhöht ausgeteilten Schaden mit [Magic Missile] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008885	* Deals additional damage equal to 40% of magic attack pro Fähigkeitslevel when attacking an enemy under [Sleep] with [Energy Bolt]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008886	* Enemies affected by [Lethargy] receive 10% additional damage pro Fähigkeitslevel with [Strike] attacks{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008887	* Increases magic damage by 10% pro Fähigkeitslevel while [Quick Cast] is active{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008888	* Erhöht ausgeteilten Schaden mit [Fireball] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008889	* Erhöht ausgeteilten Schaden mit [Fire Wall] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008890	* Erhöht ausgeteilten Schaden mit [Flare] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008891	* Erhöht ausgeteilten Schaden mit [Fire Pillar] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008892	* Erhöht ausgeteilten Schaden mit [Hell Breath] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008888	* Erhöht ausgeteilten Schaden mit [Fireball] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008889	* Erhöht ausgeteilten Schaden mit [Fire Wall] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008890	* Erhöht ausgeteilten Schaden mit [Flare] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008891	* Erhöht ausgeteilten Schaden mit [Fire Pillar] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008892	* Erhöht ausgeteilten Schaden mit [Hell Breath] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008893	* Enemies hit by [Fireball] have a 10% chance pro Fähigkeitslevel to receive flame damage for 5 Sekunden{nl}*[Burn] damage is based on character's INT{nl}* Increases  SP consumption by 30%
 SKILL_20170420_008894	* Increases Fire property attack of an ally by 5 pro Fähigkeitslevel for 5 Sekunden when they step on [Fire Wall]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008895	* Enemies hit by [Hell Breath] have a 10% chance pro Fähigkeitslevel of being knocked back{nl}* Erhöht SP Verbrauch um 30%
 SKILL_20170420_008896	* Decreases Fire property resistance of nearby enemies by 10 pro Fähigkeitslevel for 5 Sekunden when [Enchant Fire] is used{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008897	* Increases damage of [Flare] by 10 pro Fähigkeitslevel to Cloth armor-type enemies{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008898	* Erhöht ausgeteilten Schaden mit [Flame Ground] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008899	* Erhöht ausgeteilten Schaden mit [Ice Bolt] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008900	* Erhöht ausgeteilten Schaden mit [Ice Spike] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008901	* Erhöht ausgeteilten Schaden mit [Ice Blast] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008902	* Erhöht ausgeteilten Schaden mit [Snow Rolling] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008898	* Erhöht ausgeteilten Schaden mit [Flame Ground] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008899	* Erhöht ausgeteilten Schaden mit [Ice Bolt] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008900	* Erhöht ausgeteilten Schaden mit [Ice Spike] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008901	* Erhöht ausgeteilten Schaden mit [Ice Blast] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008902	* Erhöht ausgeteilten Schaden mit [Snow Rolling] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008903	* [Ice Bolt] has 10% chance pro Fähigkeitslevel to freeze the enemy{nl}* Not applicable in TBL or GvG{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008904	* [Gust] deals damage even to unfrozen enemies{nl}* Attacks unfrozen enemies 2 times and frozen enemies 3 times{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008905	* Cryorite can be dropped with a chance of 1% pro Fähigkeitslevel when [Ice Wall] disappears{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008906	* Increases freeze duration of [Subzero Shield] by 0.5 Sekunden pro Fähigkeitslevel{nl}* Increases  SP consumption by 20%
 SKILL_20170420_008907	* Increases damage of [Ice Blast] by 10 pro Fähigkeitslevel when attacking leather armor-type enemies{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008908	* While equipped with a shield when [Subzero Shield] is active, there is an increase in counter attack damage based on your shield's defense{nl}* Counter attack damage is enhanced by 50% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008909	* Erhöht ausgeteilten Schaden mit [Telekinesis] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008910	* Erhöht ausgeteilten Schaden mit [Psychic Pressure] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008911	* Erhöht ausgeteilten Schaden mit [Magnetic Force] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008909	* Erhöht ausgeteilten Schaden mit [Telekinesis] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008910	* Erhöht ausgeteilten Schaden mit [Psychic Pressure] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008911	* Erhöht ausgeteilten Schaden mit [Magnetic Force] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008912	* Enemies hit by [Psychic Pressure] have a 10% chance pro Fähigkeitslevel to become afflicted with [Stun] for 1 second{nl}* Increases  SP consumption by 20%
 SKILL_20170420_008913	Enemies hit by [Magnetic Force] have a 5% chance pro Fähigkeitslevel to become afflicted with [Stun] for 4 Sekunden*  Erhöht SP Verbrauch um 30%
 SKILL_20170420_008914	* Decreases physical defense of enemies pulled by [Gravity Pole] by 4% pro Fähigkeitslevel
 SKILL_20170420_008915	* Applies [Raise] to large-type monsters{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008916	* Erhöht ausgeteilten Schaden mit [Gravity Pole] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008916	* Erhöht ausgeteilten Schaden mit [Gravity Pole] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008917	* Immobilizes targets moved by [Swap] for 2 Sekunden{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008918	* Maintains [Psychic Pressure] casting even when character is attacked{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008919	* Maintains [Gravity Pole] casting even when character is attacked{nl}* Erhöht SP Verbrauch um 20%
@@ -8934,27 +8934,27 @@ SKILL_20170420_008933	* Deals damage equal to 20% of magic attack when changing 
 SKILL_20170420_008934	* Deals 30% additional damage pro Fähigkeitslevel on enemies affected by [Shrink Body] when [Swell Left Arm] is in effect{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008935	* Attacking enemies affected by [Swell Body] when [Swell Left Arm] is in effect causes [Attacked Weakened] to persist in duration{nl}* Increases duration by 8 Sekunden pro Fähigkeitslevel{nl}* [Angriff Weakened] can be stacked up to 10 times{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008936	* Not using a dagger or a shield as offhand gives 6% higher accuracy and evasion pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008937	* Erhöht ausgeteilten Schaden mit [Prominence] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008938	* Erhöht ausgeteilten Schaden mit [Hail] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008939	* Erhöht ausgeteilten Schaden mit [Electrocute] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008940	* Erhöht ausgeteilten Schaden mit [Meteor] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008937	* Erhöht ausgeteilten Schaden mit [Prominence] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008938	* Erhöht ausgeteilten Schaden mit [Hail] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008939	* Erhöht ausgeteilten Schaden mit [Electrocute] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008940	* Erhöht ausgeteilten Schaden mit [Meteor] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008941	* Deals additional damage equal to 50% of magic attack pro Fähigkeitslevel when using [Electrocute] on frozen enemies{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008942	* Increases the number of targets that can be affected by [Petrify] with [Stone Curse] by attribute level{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008943	* [Prominence] wanders within a smaller range{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008944	* Enemies hit by [Hail] have a 5% chance pro Fähigkeitslevel of becoming afflicted with [Freeze] for 5 Sekunden{nl}* Erhöht SP Verbrauch um 30%
 SKILL_20170420_008945	* Increases evasion by 10% pro Fähigkeitslevel while charging [Meteor]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008946	* Chance to double the duration of [Rain]{nl}* Increases the chance um 5% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008947	* Erhöht ausgeteilten Schaden mit [Frost Cloud] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008948	* Erhöht ausgeteilten Schaden mit [Freezing Sphere] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008947	* Erhöht ausgeteilten Schaden mit [Frost Cloud] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008948	* Erhöht ausgeteilten Schaden mit [Freezing Sphere] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008949	* Decreases charging time of [Meteor] by half{nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_008950	* Erhöht ausgeteilten Schaden mit [Summon Familiar] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008950	* Erhöht ausgeteilten Schaden mit [Summon Familiar] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008951	* Deals damage to nearby enemies with a 1% chance pro Fähigkeitslevel when the summoned familiar of [Summon Familiar] explodes itself{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008952	* Chance to afflict [Burn] for 10 Sekunden on an enemy when attacked by Salamion{nl}* Chance increases by 2% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008953	* Chance to afflict [Blind] for 10 Sekunden on an enemy when attacked by Salamion{nl}* Chance increases by 2% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008954	* Erhöht ausgeteilten Schaden mit [Evocation] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008954	* Erhöht ausgeteilten Schaden mit [Evocation] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008955	* Summoned servant grants beneficial effects at a higher rate{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008956	* Erhöht ausgeteilten Schaden mit [Desmodus] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008957	*Erhöht ausgeteilten Schaden mit Mounted demon by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008956	* Erhöht ausgeteilten Schaden mit [Desmodus] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008957	*Erhöht ausgeteilten Schaden mit Mounted demon um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008958	* Increases critical rate effect from [Quicken] um 5% and decreases evasion by 2% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008959	* Enemies affected by [Slow] have their critical resistance decreased by a value equal to 15% of the caster's INT{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008960	* When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 30%
@@ -8962,74 +8962,74 @@ SKILL_20170420_008961	* Allows [Stop] to also stop boss monsters once{nl}* Erhö
 SKILL_20170420_008962	* Enemies provoked after using [Backmasking] will be afflicted with [Confusion] for 6 Sekunden{nl}* If the attribute is Lv2, applies 8 Sekunden of [Confusion]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008963	* Decreases chance of nullifying an attack by 6% pro Fähigkeitslevel when enemies are affected by [Slow]{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008964	* Increases evasion by 20 pro Fähigkeitslevel while [Haste] is active{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008965	* Erhöht ausgeteilten Schaden mit [Gather Corpse] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008966	* Erhöht ausgeteilten Schaden mit [Flesh Cannon] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008967	* Erhöht ausgeteilten Schaden mit [Flesh Hoop] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008965	* Erhöht ausgeteilten Schaden mit [Gather Corpse] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008966	* Erhöht ausgeteilten Schaden mit [Flesh Cannon] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008967	* Erhöht ausgeteilten Schaden mit [Flesh Hoop] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008968	* Enemies hit by [Flesh Cannon] have a chance to be afflicted with Decay for 15 Sekunden{nl}* Increases chance by 10% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008969	* Weakens enemy attacks for 4 Sekunden near the hoop after using [Flesh Hoop]{nl}* [Angriff Weakened] can be stacked up to 10 times{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_008970	* Enemies near the Shoggoth are afflicted with [Decay] for 15 Sekunden{nl}* Lasts for 1 minute pro Fähigkeitslevel after Shoggoth is summoned{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008971	* Increases range of [Disinter] by 10 pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008972	* Increases attack of the summoned Shoggoth by 0.5 pro Fähigkeitslevel
-SKILL_20170420_008973	* Increases attack of the summoned Corpse Tower by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008974	* Increases attack of a summoned Skeleton Soldier by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008973	* Increases attack of the summoned Corpse Tower um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008974	* Increases attack of a summoned Skeleton Soldier um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008975	* Increases chance of enlarging size and maximum HP of summoned Shoggoth um 1% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_008976	* Erhöht ausgeteilten Schaden mit [Flesh Strike] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008977	* Increases attack of Skull Archers by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008976	* Erhöht ausgeteilten Schaden mit [Flesh Strike] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008977	* Increases attack of Skull Archers um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008978	* Collects more corpses when [Disinter] is used{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008979	* When Dirty Pole receives a melee attack, its fragments spread to attack enemies and the targets gain [Corruption] status ailment for 10 Sekunden{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008980	* If a Shoggoth is within the range of [Flesh Strike], it explodes and gives [Corruption] status ailment to nearby enemies for 5 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008981	* Increases HP of Skull Soldiers by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008981	* Increases HP of Skull Soldiers um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008982	* When a Skull Soldier defeats a monster, the Necronomicon gains 1 corpse pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008983	* When Corpse Tower defeats a monster, a Skeleton Soldier is summoned{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008984	* Erhöht ausgeteilten Schaden mit [Combustion] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008985	* Erhöht ausgeteilten Schaden mit [Alchemistic Missile] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_008986	* Erhöht ausgeteilten Schaden mit [Pole of Agony] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008984	* Erhöht ausgeteilten Schaden mit [Combustion] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008985	* Erhöht ausgeteilten Schaden mit [Alchemistic Missile] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_008986	* Erhöht ausgeteilten Schaden mit [Pole of Agony] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008987	* Increases remaining effect time of [Pole of Agony] on an enemy by 0.8 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008988	* Erhöht ausgeteilten Schaden mit [Invocation] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008988	* Erhöht ausgeteilten Schaden mit [Invocation] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008989	* Increases Dark property attack um 5% pro Fähigkeitslevel of allies nearby the evil spirit of [Invocation]{nl}* Applies double the effect to casting character{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008990	* Creates an evil spirit with [Dark Theurge] at a 0.4% chance pro Fähigkeitslevel in the enemy's position{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008991	* Erhöht ausgeteilten Schaden mit [Dark Theurge] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008991	* Erhöht ausgeteilten Schaden mit [Dark Theurge] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008992	* Enemies hit by [Dark Theurge] have a 1% chance pro Fähigkeitslevel to be afflicted with [Blind] for 10 Sekunden{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_008993	* Erhöht ausgeteilten Schaden mit [Mastema] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_008993	* Erhöht ausgeteilten Schaden mit [Mastema] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_008994	* Reduces aggressiveness of enemies hit by [Mastema] um 1% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008995	* [Pole of Agony] deals a minimum number of damage to enemies{nl}* Number increases with attribute level{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008996	* Increases duration for evil spirits summoned from [Invocation] by 5 Sekunden pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008997	* [Mastema] deals continuous damage to target and decreases STR, INT, SPR, DEX by 10% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008998	* Increases chance of summoning high-level evil spirits um 1% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_008999	* Increases HP absorbed um 1% pro Fähigkeitslevel
-SKILL_20170420_009000	* Erhöht ausgeteilten Schaden mit [Blood Bath] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_009001	* Erhöht ausgeteilten Schaden mit [Blood Sucking] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_009002	* Erhöht ausgeteilten Schaden mit [Bone Pointing] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009000	* Erhöht ausgeteilten Schaden mit [Blood Bath] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_009001	* Erhöht ausgeteilten Schaden mit [Blood Sucking] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_009002	* Erhöht ausgeteilten Schaden mit [Bone Pointing] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009003	* Increases summon time of [Bone Pointing] by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_009004	* Erhöht ausgeteilten Schaden mit [Ngadhundi] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009004	* Erhöht ausgeteilten Schaden mit [Ngadhundi] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009005	* Increases chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) um 1% chance pro Fähigkeitslevel{nl}*Applies to characters other than the caster{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009006	* Increases chance to nullify the enemy's physical attack while using [Levitation] by 1.5% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_009007	* Erhöht ausgeteilten Schaden mit [Kundela Slash] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009007	* Erhöht ausgeteilten Schaden mit [Kundela Slash] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009008	* When using [Blood Curse], HP consumption rises to 80% but duration for [Blood Curse] increases by 7 Sekunden{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009009	* [Bone Pointing] attack applies as repeated hits{nl}* Erhöht SP Verbrauch um 50%
 SKILL_20170420_009010	* Movement speed during [Kurdaitcha] increases to match normal walking speed{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009011	* Decreases enemy's movement speed by 70% for 4 Sekunden on a basic attack with a 5% chance pro Fähigkeitslevel while [Rune of Ice] is active{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_009012	* Erhöht ausgeteilten Schaden mit [Rune of Destruction] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009012	* Erhöht ausgeteilten Schaden mit [Rune of Destruction] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009013	* Allies turned into giants by [Rune of Giants] gain additional HP according to [20% of the caster's CON] x [60 pro Fähigkeitslevel]{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_009014	* Erhöht ausgeteilten Schaden mit [Rune of Justice] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009014	* Erhöht ausgeteilten Schaden mit [Rune of Justice] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009015	* Increases critical resistance from [Rune of Protection] equal to 20% of the caster's SPR pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009016	* Grants resistance to knockback and knockdown um 1% pro Fähigkeitslevel{nl}* Resistance reduced in half for PvP{nl}* Erhöht SP Verbrauch um 20%
-SKILL_20170420_009017	* Erhöht ausgeteilten Schaden mit [Magic Powder] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009017	* Erhöht ausgeteilten Schaden mit [Magic Powder] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009018	* [Magic Powder] effect duration increases by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_009019	* Erhöht ausgeteilten Schaden mit [Micro Dimension] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_009020	* Erhöht ausgeteilten Schaden mit [Ultimate Dimension] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009019	* Erhöht ausgeteilten Schaden mit [Micro Dimension] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_009020	* Erhöht ausgeteilten Schaden mit [Ultimate Dimension] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009021	* Grants [Ultimate Dimension] a 5% chance pro Fähigkeitslevel to confuse the enemy for 8 Sekunden{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009022	* Increases [Blink]'s apparition duration by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_009023	* Erhöht ausgeteilten Schaden mit [Maze] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009023	* Erhöht ausgeteilten Schaden mit [Maze] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009024	* When [Maze] effect ends, grants 10% chances pro Fähigkeitslevel of confusing the enemy instead of silencing them{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009025	* Doubles ally installments and summons within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Erhöht SP Verbrauch um 50%
 SKILL_20170420_009026	* Increases range of ally magic circles within the range of [Ultimate Dimension] by 10%{nl}* Erhöht SP Verbrauch um 50%
-SKILL_20170420_009027	* Erhöht ausgeteilten Schaden mit [Multi Shot] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_009028	* Erhöht ausgeteilten Schaden mit [Full Draw] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009027	* Erhöht ausgeteilten Schaden mit [Multi Shot] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_009028	* Erhöht ausgeteilten Schaden mit [Full Draw] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009029	* Enhances physical damage increase effect of [Kneeling Shot] um 1% pro Fähigkeitslevel
-SKILL_20170420_009030	* Erhöht ausgeteilten Schaden mit [Oblique Shot] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_009031	* Erhöht ausgeteilten Schaden mit [Heavy Shot] by 0.5% pro Fähigkeitslevel
-SKILL_20170420_009032	* Erhöht ausgeteilten Schaden mit [Twin Arrows] by 0.5% pro Fähigkeitslevel
+SKILL_20170420_009030	* Erhöht ausgeteilten Schaden mit [Oblique Shot] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_009031	* Erhöht ausgeteilten Schaden mit [Heavy Shot] um 0.5% pro Fähigkeitslevel
+SKILL_20170420_009032	* Erhöht ausgeteilten Schaden mit [Twin Arrows] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009033	* Increases critical chance of [Multi Shot] um 5% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009034	* Increases knockback power of [Full Draw] by 50{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009035	* Increases critical rate during [Kneeling Shot] by 40 pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 30%
@@ -9372,7 +9372,7 @@ SKILL_20170510_009371	Obtainable Stone Bullets: #{CaptionRatio}#
 SKILL_20170510_009372	{#DD5500}{ol}[Geschoss: Bogen]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to become afflicted with [Stun].
 SKILL_20170510_009373	{#DD5500}{ol}[Geschoss: Bogen]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.
 SKILL_20170510_009374	{#DD5500}{ol}[Geschoss: Bogen] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
-SKILL_20170510_009375	0.5 second attack #{SkillFactor}#%{nl}{#339999}{ol}[Poison]{/}{/} Dauer  #{CaptionRatio2}# Sekunden{nl}Use #{SpendPoison}# Poison pot
+SKILL_20170510_009375	0.5 Sekunden Angriff #{SkillFactor}#%{nl}{#339999}{ol}[Poison]{/}{/} Dauer  #{CaptionRatio2}# Sekunden{nl}Use #{SpendPoison}# Poison pot
 SKILL_20170510_009376	{#DD5500}{ol}[Geschoss: Bogen] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearby enemies whenever it is attacked. {nl}
 SKILL_20170510_009377	{#DD5500}{ol}[Geschoss: Bogen]{/}{/}{nl}Fires a musical arrow to a target. Enemies nearby the target will be afflicted with [Fear].
 SKILL_20170510_009378	{#DD5500}{ol}[Geschoss: Bogen]{/}{/}{nl}Fires a flare on the ground at a targeted area. Upon hitting the ground, the flare bursts into sparks that damage nearby enemies.
