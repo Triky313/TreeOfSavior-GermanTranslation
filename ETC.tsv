@@ -26899,7 +26899,7 @@ ETC_20170313_026898	{nl} {nl}If you manage to complete the mission, you will rec
 ETC_20170313_026899	{nl} {nl}The Saalus Cube will drop special items, while the Cube of Blessing will give you Blessed Shards which you can use to craft the Goddess' Blessed Gems.
 ETC_20170313_026900	The Goddess' Blessed Gems are used to transcend equipment items. 
 ETC_20170313_026901	Im Jagdgelände kannst du hohe EXP-Gewinne und nicht identifizierte Gegenstände erhalten.
-ETC_20170313_026902	Hunting grounds contain monsters stronger than those in regular fields.
+ETC_20170313_026902	Auf Jagdgelände sind Monster enthalten, die stärker sind als die in normalen Gegenden.
 ETC_20170313_026903	Das Besiegen dieser Monster wird mehr EXP als Monster in regelmäßigen Feldern ergeben.
 ETC_20170313_026904	{nl} {nl}In hunting grounds you will also find giant versions of other monsters.
 ETC_20170313_026905	Diese Monster lassen mehr Gegenstände fallen als normale Monster, wenn sie besiegt werden.
@@ -27547,7 +27547,7 @@ ETC_20170330_027546	A title given to players who ate 100 Valentine Chocolates.
 ETC_20170330_027547	TOS Music Master
 ETC_20170330_027548	A title given to the winners of the TOS Cover Contest.
 ETC_20170330_027549	Burial Ground Itinerant
-ETC_20170330_027550	Increases the maximum amount of members in a guild by 3 per attribute level.
+ETC_20170330_027550	Increases the maximum amount of members in a guild by 3 pro Fähigkeitslevel.
 ETC_20170330_027551	Undefined message.
 ETC_20170330_027552	Double login error.
 ETC_20170330_027553	Product number missing NISMS.
@@ -27569,7 +27569,7 @@ ETC_20170330_027568	Grants Token benefits to all your characters in the server f
 ETC_20170330_027569	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
 ETC_20170330_027570	Grants Token benefits to all your characters in the server for 1 hour. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
 ETC_20170330_027571	Midnight Blue Hair Dye
-ETC_20170330_027572	Rich and mysterious like the deep night sky. Right-click to use. Check the Character Settings tab for the registered color.
+ETC_20170330_027572	Rich and mysterious like the deep night sky. Rechtsklick zum verwenden Check the Character Settings tab for the registered color.
 ETC_20170330_027573	Use to obtain 650 TP. 
 ETC_20170330_027574	Tak about the importance of an Appraiser Master
 ETC_20170330_027575	Search for books with ways to transform into a demon at the Sanctuary
@@ -27814,37 +27814,37 @@ ETC_20170420_027813	No. of slots increased by expanding personal storage once
 ETC_20170420_027814	Price of each team storage expansion
 ETC_20170420_027815	Max. slots allowed for team storage
 ETC_20170420_027816	No. of added team storage slots with Token activated
-ETC_20170420_027817	Recipe - Goddesses' Blessed Gem
-ETC_20170420_027818	Recipe - Elga Rapier
-ETC_20170420_027819	Recipe - Black Horn
-ETC_20170420_027820	Recipe - Cardboard Cube (Rapier)
+ETC_20170420_027817	Rezept - Goddesses' Blessed Gem
+ETC_20170420_027818	Rezept - Elga Rapier
+ETC_20170420_027819	Rezept - Black Horn
+ETC_20170420_027820	Rezept - Cardboard Cube (Rapier)
 ETC_20170420_027821	Can only be used at Rank {LAST_RANK}. Your current Rank is Rank {CUR_RANK}.
 ETC_20170420_027822	You have unused Rank Cards.{nl}You can reset your Rank after using up all leftover Rank Cards and Class EXP Recovery Cards.
 ETC_20170420_027823	You don't have enough silver stored.
 ETC_20170420_027824	You have surpassed the Rank at which this card can be used.{nl}Confirm to delete the Rank Card.
-ETC_20170420_027825	No attributes to apply.
-ETC_20170420_027826	Add. Psychokinesis Property Damage
-ETC_20170420_027827	Add. Fire Property Damage
-ETC_20170420_027828	Add. Ice Property Damage
-ETC_20170420_027829	Add. Lightning Property Damage
-ETC_20170420_027830	Add. Earth Property Damage
-ETC_20170420_027831	Add. Poison Property Damage
-ETC_20170420_027832	Add. Holy Property Damage
-ETC_20170420_027833	Add. Dark Property Damage
-ETC_20170420_027834	Add. Psychokinesis Property Damage
+ETC_20170420_027825	Keine Attribute zur Verfügung.
+ETC_20170420_027826	Zusätzlicher Psychokinese Eigenschaft Schaden
+ETC_20170420_027827	Zusätzlicher Feuer Eigenschaft Schaden
+ETC_20170420_027828	Zusätzlicher Eis Eigenschaft Schaden
+ETC_20170420_027829	Zusätzlicher Blitz Eigenschaft Schaden
+ETC_20170420_027830	Zusätzlicher Erd Eigenschaft Schaden
+ETC_20170420_027831	Zusätzlicher Gift Eigenschaft Schaden
+ETC_20170420_027832	Zusätzlicher Heilig Eigenschaft Schaden
+ETC_20170420_027833	Zusätzlicher Dunkel Eigenschaft Schaden
+ETC_20170420_027834	Zusätzlicher Psychokinese Eigenschaft Schaden
 ETC_20170420_027835	You are not the right class for this equipment.
 ETC_20170420_027836	Level requirements of the consumed materials should be equal or superior to that of the items to combine.
 ETC_20170420_027837	You have collected the young leaves!
 ETC_20170420_027838	You collected the Asellu leaf buds, but a Kepari has jumped out from the roots!
 ETC_20170420_027839	There is no more need to collect materials.{nl}Press the V key to make the wooden hammer!
-ETC_20170420_027840	{@st59}Increases max. SP, SP recovery, summon evasion and summon HP{/}
+ETC_20170420_027840	{@st59}Erhöht max. SP, SP-Wiederherstellung, Beschwörer-Ausweichen und Beschwörer-HP{/}
 ETC_20170420_027841	You have collected the spirit essence!{nl}The flying dust has attracted the monsters.
 ETC_20170420_027842	You have destroyed the Crystal Pillar!{nl}The evil energy coming from it is affecting you.
 ETC_20170420_027843	Do you want to learn this attribute?{nl}{PRICE} Point(s)
 ETC_20170420_027844	Receive Attendance Reward [Total: {COUNT1}]
 ETC_20170420_027845	Receive Invitation Attendance Reward [Total: {COUNT2}]
 ETC_20170420_027846	Today's attendance reward 
-ETC_20170420_027847	Title
+ETC_20170420_027847	Titel
 ETC_20170420_027848	: You cannot move here with another character.
 ETC_20170420_027849	You have obtained the key, but an unknown force is pushing you!
 ETC_20170420_027850	You have obtained the key, but an unknown force is pushing and pulling you!
@@ -27867,9 +27867,9 @@ ETC_20170420_027866	Add. Wind Property Damage
 ETC_20170420_027867	Team name applied.
 ETC_20170420_027868	Failed to apply team name.
 ETC_20170420_027869	A Wendigo jumped out of the chasm along with the key!
-ETC_20170420_027870	{@st59}Increases physical attack and accuracy{/}
-ETC_20170420_027871	{@st59}Increases max. HP, HP recovery, max. stamina and block{/}
-ETC_20170420_027872	{@st59}Increases basic attack speed, critical attack, block penetration and evasion{/}
+ETC_20170420_027870	{@st59}Erhöht Physischen Angriff und Präzision{/}
+ETC_20170420_027871	{@st59}Erhöht max. HP, HP Wiederherstellung, max. Ausdauer und Block{/}
+ETC_20170420_027872	{@st59}Erhöht die grundlegende Angriffsgeschwindigkeit, kritischer Angriff, Blockdurchbruch und Ausweichen{/}
 ETC_20170420_027873	Can no longer store in the team storage.
 ETC_20170420_027874	Reset Helper
 ETC_20170420_027875	Information Board

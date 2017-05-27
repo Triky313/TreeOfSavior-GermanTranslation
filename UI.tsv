@@ -1958,7 +1958,7 @@ UI_20151224_001957	{@st42}%s Vorteile{/}
 UI_20151224_001958	Möchtest du das verwenden %s?{/}
 UI_20151224_001959	Dieser Gegenstand wird aus deinem Inventar verschwinden.{nl}Setzt alle deine Skillpunkte zurück.
 UI_20151224_001960	{@st41}Verwenden
-UI_20151224_001961	{@st59b}Klassen{nl}{@st59s}- Du kannst neue Skills lernen wenn du auf den Kreis deiner Klasse gehst. {nl} - Du kannst 3 verschiedene Klassen wählen.{nl} - Du kannst eine Klasse bis auf die 3. Stufe (Sterne) bringen. {nl} - Du kannst nicht zurück zur alten Klasse wechseln, wenn du einmal mit einer anderen Klasse aufgestiegen bist.{nl} - Du musst all deine Skill-Punkte verteilt haben damit du aufsteigen kannst.{nl} - Du kannst mehrmals die selbe Klasse wählen.{nl}{@st59b}Skills{nl}{@st59s} - Du kannst einen Skill um bis zu 5 Stufen erhöhen.{nl} - Fähigkeiten die du bei deinem Klassenmeister gelernt hast, sind unter den Skills in der Liste zu finden.{/}
+UI_20151224_001961	{@st59b}Klassen{nl}{@st59s}- Du kannst neue Skills lernen wenn du auf den Kreis deiner Klasse gehst. {nl} - Du kannst eine Klasse bis auf die 3. Stufe (Sterne) bringen. {nl} - Du kannst nicht zurück zur alten Klasse wechseln, wenn du einmal mit einer anderen Klasse aufgestiegen bist.{nl} - Du musst all deine Skill-Punkte verteilt haben damit du aufsteigen kannst.{nl} - Du kannst mehrmals die selbe Klasse wählen.{nl}{@st59b}Skills{nl}{@st59s} - Du kannst einen Skill um bis zu 5 Stufen erhöhen.{nl} - Fähigkeiten die du bei deinem Klassenmeister gelernt hast, sind unter den Skills in der Liste zu finden.{/}
 UI_20151224_001962	{@st66b}Infos{/}
 UI_20151224_001963	{@st66b}Erfolge{/}
 UI_20151224_001964	{@st66b}Char-Einstellungen{/}
