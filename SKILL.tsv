@@ -6643,8 +6643,8 @@ SKILL_20161005_006642	Character Level: +#{CaptionRatio}# {nl}Maximum SP: +#{Capt
 SKILL_20161005_006643	Temporarily increases your Companion's attack, accuracy, crit rate and attack speed.
 SKILL_20161005_006644	Companion Angriff: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Critical Rate: +#{CaptionRatio}#{nl}Companion Angriff Speed + #{CaptionRatio2}# Sekunden {nl}Dauer: #{CaptionTime}# Sekunden{nl}Maximum Level: 5
 SKILL_20161005_006645	Throws a tear gas bomb at the selected area. The affected target gets the darkness status ailement and will be unable to attack.
-SKILL_20161005_006646	While riding, boosts your mobility and shoots the enemies. When Limacon effect is active, a pistol normal attack is possible.
-SKILL_20161005_006647	Dauer: #{CaptionTime}# Sekunden{nl}Zusätzlicher Angriff: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Beim reiten verwendbar
+SKILL_20161005_006646	Während des Reitens steigert deine Mobilität und schießt auf Feinde. Wenn der Limacon-Effekt aktiv ist, ist ein normaler Pistolen Angriff möglich.
+SKILL_20161005_006647	Dauer: #{CaptionTime}# Sekunden{nl}Zusätzlicher Angriff: #{SkillAtkAdd}#{nl}Attribute Schaden: #{CaptionRatio}#%{nl}Beim reiten verwendbar
 SKILL_20161005_006648	Evasive Action
 SKILL_20161005_006649	While riding your companion, the skill increases evasion rate and decreases movement speed for a period of time.
 SKILL_20161005_006650	Ausweichen Rate: +#{CaptionRatio}#%{nl}Movement Speed: -#{CaptionRatio2}#

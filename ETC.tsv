@@ -22675,10 +22675,10 @@ ETC_20160723_022674	That's really impressive, you dealing with the demons like t
 ETC_20160723_022675	Right-click the equipment to undo and cancel the process.	취소 하시려면 위의 장비를 오른쪽 클릭으로 해제해주세요.	ETC_20160718_022308	Right-click the equipment {nl} to undo and cancel the process.	취소 하시려면 위의 장비를 {nl}오른쪽 클릭으로 해제해주세요.	
 ETC_20160723_022676	You can't add any more ingredients.	재료를 더 추가할 수 없습니다.				
 ETC_20160723_022677	You do not have any more ingredients to add.	더 추가하기에는 재료가 부족합니다.				
-ETC_20160723_022678	requires {color}{num} more	가 되려면 {color}{num}개				
-ETC_20160723_022679	in.	를 넣으세요.				
+ETC_20160723_022678	benötigt {color}{num} mehr
+ETC_20160723_022679	in.
 ETC_20160723_022680	{font}{#00D8FF}Shift{/}{font}+ {#00D8FF}Click{/}{font} : 5{/}{nl}{font}{#00D8FF}Alt{/}{font}+ {#00D8FF}Click{/}{font} : At once{/}	{font}{#00D8FF}Shift키{/}{font}+ {#00D8FF}클릭{/}{font} : 5개씩{/}{nl}{font}{#00D8FF}Alt키{/}{font}+ {#00D8FF}클릭{/}{font} : 모두 한번에{/}  				
-ETC_20160723_022681	Check the Item	아이템 확인				
+ETC_20160723_022681	Prüfe den Gegenstand
 ETC_20160723_022682	You already possess such an item.{nl}Do you still wish to use it?{nl}Item in your possession	보유하고 있는 아이템이 있습니다.{nl}그래도 사용하시겠습니까?{nl}보유하고 있는 아이템				
 ETC_20160723_022683	There are no suitable targets nearby.	주변에 대상이 없습니다.				
 ETC_20160723_022684	Möchtest du die ausgewählte Monsterkarte ausrüsten?{nl}Der Level der Karte verringert sich, wenn du die Karte herausnimmst.
@@ -27256,11 +27256,11 @@ ETC_20170313_027255	You already summoned the doll.
 ETC_20170313_027256	The doll cannot be summoned here.
 ETC_20170313_027257	You don't have a Fluflu Bomb!
 ETC_20170313_027258	Restarting map...
-ETC_20170313_027259	Checking map...
+ETC_20170313_027259	Prüfe Map...
 ETC_20170313_027260	No magic to collect.
 ETC_20170313_027261	Collected magic.
 ETC_20170313_027262	Restart the map near a magic collector.
-ETC_20170313_027263	Map restarted!
+ETC_20170313_027263	Map startet neu!
 ETC_20170313_027264	See Hethran Badge Lv1 Rewards
 ETC_20170313_027265	See Hethran Badge Lv2 Rewards
 ETC_20170313_027266	See Hethran Badge Lv3 Rewards

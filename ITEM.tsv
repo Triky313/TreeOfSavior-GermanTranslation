@@ -14531,7 +14531,7 @@ ITEM_20170420_014529	 applies buff effects
 ITEM_20170420_014530	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Fireball, Fire Wall, Flare, Fire Pillar, Hell Breath, Flame Ground, Meteor, Incineration, Prominence
 ITEM_20170420_014531	 - Increases Magic Amplification as much as {img green_up_arrow 16 16}40% as the HP recovery rate at the time of equipping this item{nl} - Reduces HP recovery rate to 0
 ITEM_20170420_014532	 Applies buff effects{nl}- Stacks when equipping equivalent item
-ITEM_20170420_014533	 - Triggers [Frenzy] for 5 seconds when an enemy avoids your attack{nl}- Increases physical attack by {img green_up_arrow 16 16}235, movement speed by {img green_up_arrow 16 16}10 and reduces physical defense by {img red_down_arrow 16 16}88 for 30 seconds when stacking [Frenzy] 8 times
+ITEM_20170420_014533	 - Löst [Frenzy] für 5 Sekunden aus, wenn der Gegner deinem Angriff ausweicht{nl}- Erhöht Pysischen Angriff um {img green_up_arrow 16 16}235, Bewegungsgeschwindigkeit um {img green_up_arrow 16 16}10 und reduziert Physische Verteidigung um {img red_down_arrow 16 16}88 für 30 Sekunden wenn Stack von [Frenzy] auf 8 ist
 ITEM_20170420_014534	Bad Kids Black School Uniform (Male)
 ITEM_20170420_014535	A fitted uniform symbolizing your status in school. Wear to change your appearance.
 ITEM_20170420_014536	Bad Kids Black School Uniform (Female)
