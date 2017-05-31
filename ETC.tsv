@@ -12243,7 +12243,7 @@ ETC_20150714_012244	Your character's level is not high enough.
 ETC_20150714_012245	The connection with the server has been disconnected. Reconnecting...
 ETC_20150714_012246	The error from the server has occurred so it restored automatically.
 ETC_20150714_012247	Befestigt Gegenstände
-ETC_20150714_012248	Möchtest du diesen Gegenstand {PC} geben?
+ETC_20150714_012248	Gegenstände {PC} geben?
 ETC_20150714_012249	Du hast Gegenstände erhalten.
 ETC_20150714_012250	You are too close to the Basislager.
 ETC_20150714_012251	You are far away from the refreshment table.
@@ -13522,7 +13522,7 @@ ETC_20150717_013523	Verbinde zum Server...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Rechtsklick: Verkauf / Kauf-Taste{/}{/}{nl}Drücke und halte die Shift-Taste + Rechtsklick{nl}um mehrere Gegenstände zu verkaufen.{nl}Doppelklick um alles zu verkaufen.
 ETC_20150717_013525	Du wirst in einen anderen Channel geschoben,{nl}der aktuelle ist überfüllt.
 ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
-ETC_20150717_013527	When enhancing weapons past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
+ETC_20150717_013527	Wenn einem Verbesserungsversuch einer Waffe über +{Auto_1} fehlschlägt, veringert sich das Potential des Gegenstandes um 1.{nl} {nl}Wenn das Potential unter 0 fällt, wird der Gegenstand zerstört. Möchtest du fortfahren?
 ETC_20150717_013528	Wird automatisch nach 5 Sekunden eingegeben
 ETC_20150717_013529	Das verlassen des Dungeons lässt das Erwachen scheitern.{nl}Willst du fortfahren?
 ETC_20150717_013530	Du hast Silber erhalten
@@ -25745,7 +25745,7 @@ ETC_20161108_025744	Fire Property Attack
 ETC_20161108_025745	Fire Property Resistance
 ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
-ETC_20161112_025748	Sofortiger Dungeon ein Eintritt Gutschein (14 Tage)
+ETC_20161112_025748	Ein Dungeon Zutritt Gutschein (14 Tage)
 ETC_20161112_025749	Silber Provision für Shop Skills (%)
 ETC_20161112_025750	Erhalte Seed
 ETC_20161112_025751	 {nl}Time left: {TIME} minutes.{nl}{nl}The prize will be ready to harvest after the time is up.

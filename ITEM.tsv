@@ -10971,7 +10971,7 @@ ITEM_20160811_010970	A cube that will give a Blessed Shard.
 ITEM_20160811_010971	Golden Chest
 ITEM_20160811_010972	A chest containing random items.{nl}Open this chest to obtain a random item.
 ITEM_20160811_010973	Lightweight Anvil
-ITEM_20160811_010974	Can only be used when an item has not been enhanced and does not consume silver. Rechtsklick zum verwenden.
+ITEM_20160811_010974	Kann nur verwendet werden, wenn ein Gegenstand noch nicht verbessert wurde und kein Silber verbraucht. Rechtsklick zum verwenden.
 ITEM_20160811_010975	[Karten Ausrüstungseffekt] 10% Chance Erd-Eigenschaft Angriff um +[★] für 7 Sekunden zu erhöhen, wenn Large-Type Monster angegriffen werden
 ITEM_20160811_010976	[Karten Ausrüstungseffekt] [Anzahl Karten]% chance of using Lv1 Pain Barrier upon being hit
 ITEM_20160811_010977	[Karten Ausrüstungseffekt] Defense against [Strike] attacks +[★]{nl}[Grimoire Ausrüstunngs Effekt] Summons Gorgon wenn Beschworen wird
@@ -12562,9 +12562,9 @@ ITEM_20161005_012561	Holy Red Apple
 ITEM_20161005_012562	Instantly restores 50% of your maximum HP. {nl}Additionally restores the other 50% of HP every 2 seconds over 15 seconds. {nl}Rechtsklick zum verwenden. Cooldown of 30 seconds.
 ITEM_20161005_012563	Holy Green Apple
 ITEM_20161005_012564	Instantly restores 50% of your maximum SP. {nl}Additionally restores the other 50% of SP every 2 seconds over 15 seconds. {nl}Rechtsklick zum verwenden. Cooldown of 30 seconds.
-ITEM_20161005_012565	Silver Anvil (14 Days)
-ITEM_20161005_012566	Light Anvil (14 Days)
-ITEM_20161005_012567	Golden Anvil (14 Days)
+ITEM_20161005_012565	Silver Anvil (14 Tage)
+ITEM_20161005_012566	Light Anvil (14 Tage)
+ITEM_20161005_012567	Golden Anvil (14 Tage)
 ITEM_20161005_012568	Shining Golden Anvil
 ITEM_20161005_012569	You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you carry this symbol with you.
 ITEM_20161005_012570	Black Cube
@@ -13402,7 +13402,7 @@ ITEM_20161223_013400	Verwenden um 30 Minuten +30% EXP und +1 Bewegungsgeschwindi
 ITEM_20161223_013401	Old Enhancement Card
 ITEM_20161223_013402	A card used to enhance another card. Increases a card's EXP by 1000.
 ITEM_20161223_013403	
-ITEM_20161223_013404	Instanced Dungeon Multiply Token (14 Days)
+ITEM_20161223_013404	Instanz Dungeon Multi Token (14 Tage)
 ITEM_20170102_013405	Emote Plus: Popolion
 ITEM_20170102_013406	Can only be used by the purchasing character. Cannot be traded or moved via Team Storage. Applies the chat emoticons below. Right-click to use.{nl}{img emoticon_0024 50 50}{img emoticon_0025 50 50}{img emoticon_0026 50 50}{img emoticon_0027 50 50}{img emoticon_0028 50 50}{img emoticon_0029 50 50}{img emoticon_0030 50 50}{img emoticon_0031 50 50}{img emoticon_0032 50 50}{img emoticon_0033 50 50}{img emoticon_0034 50 50}{img emoticon_0035 50 50}{img emoticon_0036 50 50}{img emoticon_0037 50 50}{img emoticon_0038 50 50}{img emoticon_0039 50 50}{img emoticon_0040 50 50}{img emoticon_0041 50 50}{img emoticon_0042 50 50}{img emoticon_0043 50 50}{img emoticon_0044 50 50}{img emoticon_0045 50 50}{img emoticon_0046 50 50}
 ITEM_20170102_013407	A hair accessory matching the Smart Casual costumes. Right-click to use.{nl} Can be exchanged for medals at the Exchange Shop.
@@ -13838,7 +13838,7 @@ ITEM_20170313_013836	A book with Eitbaras's records. It is a compilation of the 
 ITEM_20170313_013837	Demetrius' research records. Right-click to read.
 ITEM_20170313_013838	A collection of torn diary pages found in Andale Village. Right-click to read.
 ITEM_20170313_013839	A king-size dumpling made of several ingredients. It smells sweet and looks absolutely delicious. {nl} Grants your party members +4 movement speed, +1 AoE attack ratio and +25% EXP gains.
-ITEM_20170313_013840	Consumes all your remaining instanced dungeon daily entries, while multiplying the amount of items and EXP obtained in a single run by that number of entries.
+ITEM_20170313_013840	Verwendet alle verbleibenden Instanz-Dungeon-Tageszutritte, während die Anzahl der Gegenstände und EXP, die in einem einzigen Lauf erhalten werden, mit der Anzahl Dungeon Zutritte multipliziert wird.
 ITEM_20170313_013841	Fire Cracker
 ITEM_20170313_013842	Use this fire cracker to celebrate a happy occasion or congratulate a friend.
 ITEM_20170313_013843	N/A
@@ -14229,7 +14229,7 @@ ITEM_20170420_014227	Purine Migantis Rod
 ITEM_20170420_014228	There is strong magic flowing through this rod, but no known way to awaken it; it is, for now, a dormant rod.
 ITEM_20170420_014229	Purine Pevordimas Rod
 ITEM_20170420_014230	There is strong magic actively flowing through this rod.
-ITEM_20170420_014231	Bow [Missile: Bow]
+ITEM_20170420_014231	Bow [Geschoss: Bogen]
 ITEM_20170420_014232	Replica Migantis Bow
 ITEM_20170420_014233	Replica Pevordimas Bow
 ITEM_20170420_014234	  - All Hunter skill levels {img green_up_arrow 16 16} 2
@@ -14243,7 +14243,7 @@ ITEM_20170420_014241	Purine Migantis Bow
 ITEM_20170420_014242	There is strong magic flowing through this bow, but no known way to awaken it; it is, for now, a dormant bow.
 ITEM_20170420_014243	Purine Pevordimas Bow
 ITEM_20170420_014244	There is magic actively flowing through this bow.
-ITEM_20170420_014245	Crossbow [Missile: Bow]
+ITEM_20170420_014245	Armbrust [Geschoss: Bogen]
 ITEM_20170420_014246	Replica Migantis Crossbow
 ITEM_20170420_014247	Replica Pevordimas Crossbow
 ITEM_20170420_014248	Migantis Crossbow

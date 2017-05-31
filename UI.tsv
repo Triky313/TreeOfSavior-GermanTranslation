@@ -2245,7 +2245,7 @@ UI_20160718_002244	{@st59}Zeige tote Teile der besiegten Monster.{/}
 UI_20160718_002245	{@st66b}Verwende Charakter-Schattenbild{/}
 UI_20160718_002246	{@st59}Charaktere hinter der Objekten werden im Schattenbild angezeigt{/}
 UI_20160718_002247	Möchtest du dies %s verwenden?{/}
-UI_20160718_002248	Kann nicht verwenden werden : %s
+UI_20160718_002248	Noch verwendbar: %s
 UI_20160718_002249	Tag Stunde Minute Sekunde
 UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Ergebnis{/}
@@ -2272,7 +2272,7 @@ UI_20160811_002271	{@st41b}Handel abbrechen
 UI_20160811_002272	{@st66d}The item properties will not be changed{nl}as both sides are using Tokens.{/}
 UI_20160811_002273	{@st66d}Das Gegenstandspotential ändert sich, wenn nicht beide Seiten Token verwenden.{/}
 UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}
-UI_20160811_002275	{@st66b}{s20}Your character is currently in {/}{s20}{#770000}combat{@st66b}{s20}.{/}
+UI_20160811_002275	{@st66b}{s20}Dein Charakter ist aktuell im {/}{s20}{#770000}Kampf{@st66b}{s20}.{/}
 UI_20160811_002276	{@st66b}Abbrechen{/}
 UI_20160811_002277	{@st66b}Echtzeit Einstellungen
 UI_20160811_002278	{@st66b}Previous Season Standings{/}
@@ -2548,7 +2548,7 @@ UI_20170313_002547	{@st59}Schließe das Gegenstandsfenster.{/}
 UI_20170313_002548	{@st41b}%s {nl}Du hast einen Gegenstand erhalten!
 UI_20170313_002549	{@st59}Gildenlager erweitern.{/}
 UI_20170313_002550	Can only be used in instanced dungeons and mercenary missions.
-UI_20170313_002551	{@st66}Select Equipped Item
+UI_20170313_002551	{@st66}Ausgerüstete Gegenstände
 UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}
 UI_20170313_002553	!! Map Exploration Complete !!
 UI_20170313_002554	{@st41b}Sammlung{/}
