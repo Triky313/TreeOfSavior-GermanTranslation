@@ -2694,7 +2694,7 @@ ITEM_20150317_002693	Obtained from Denoptic at Overlong Bridge Valley.
 ITEM_20150317_002694	Scorpio Hook 
 ITEM_20150317_002695	It can be obtained from Scorpios in Stone Pole Platform. 
 ITEM_20150317_002696	Edelstein Abrasive Agent 
-ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems.
+ITEM_20150317_002697	Wird zum verbessern von Edelsteinen verwendet. Erhöht die EXP von Edelsteinen.
 ITEM_20150317_002698	Tomb Lord Chain 
 ITEM_20150317_002699	Obtained from Tomb Lord at Royal Mausoleum 2F.
 ITEM_20150317_002700	Bearkaras Fragment 
@@ -5278,7 +5278,7 @@ ITEM_20150714_005277	Dullahan Rüstung Fragment
 ITEM_20150714_005278	A fragment of Dullahan's armor. {nl}Obtained from Dullahan in Roxona Reconstuction Agency East Building.
 ITEM_20150714_005279	It is a heavy lump of scrap metal. {nl}Obtained from Anchor.
 ITEM_20150714_005280	Belfigi Bead
-ITEM_20150714_005281	There is a little color difference between Dimmer beads. {nl}Obtained from Belfigi.
+ITEM_20150714_005281	Es gibt einen kleinen Farbunterschied zwischen Dimmerperlen. {nl}Erhalten von Belfigi.
 ITEM_20150714_005282	Cliquare Core
 ITEM_20150714_005283	A mutant variation of the Nucl, the power source of mutant monster. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtain from Stone Orcas.
 ITEM_20150714_005284	A record written by the teacher of Hones and Raius. It seems to contain very important information.
@@ -11115,7 +11115,7 @@ ITEM_20160811_011114	A gem with the blessing of the goddesses.{nl}Can be used to
 ITEM_20160811_011115	A hammer with mysterious powers that allow it to dismantle all that it touches. Used to extract Blessed Gems.
 ITEM_20160811_011116	Absorbs magic from its surroundings. Used to extract items.
 ITEM_20160811_011117	Blessed Shard
-ITEM_20160811_011118	A stone that becomes the ingredient of a special item.
+ITEM_20160811_011118	Ein Stein, der Bestandteil eines besonderen Gegenstandes wird.
 ITEM_20160811_011119	Magic Powder
 ITEM_20160811_011120	Test Magic Powder
 ITEM_20160811_011121	Alchemy Residue
@@ -11125,10 +11125,10 @@ ITEM_20160811_011124	A cobalt colored ore that can be obtained from monsters. Us
 ITEM_20160811_011125	Ferinium
 ITEM_20160811_011126	Usually forms in a square shaped crystal with a violet hue. Can be obtained from monsters. Used to craft items.
 ITEM_20160811_011127	Portium
-ITEM_20160811_011128	An ore that has a slight gold tinge that can be obtained from monsters. Used to craft items.
-ITEM_20160811_011129	Ore 4
-ITEM_20160811_011130	Ore 5
-ITEM_20160811_011131	Ore 6
+ITEM_20160811_011128	Ein Erz, welches einen leichten Goldton hat, der von Monstern gewonnen werden kann. Wird verwendet um Gegenstände zu fertigen.
+ITEM_20160811_011129	Erz 4
+ITEM_20160811_011130	Erz 5
+ITEM_20160811_011131	Erz 6
 ITEM_20160811_011132	Guinea Pig Egg (Test, 1 minute)
 ITEM_20160811_011133	Rechtsklick zum verwenden. Upon use, the companion is immediately registered.{nl}This companion can be mounted without the riding skill.
 ITEM_20160811_011134	Battlebird Egg
@@ -13826,8 +13826,8 @@ ITEM_20170313_013824	Eighth Collexia Cube
 ITEM_20170313_013825	A cube obtained from Gatre. It contains an item from one of the following collections: Barha Forest, Alemeth Forest. Right-click to open.
 ITEM_20170313_013826	Ninth Collexia Cube
 ITEM_20170313_013827	A cube obtained from Soldier Heulen. It contains an item from the following collection: Ibre Plateau. Right-click to open.
-ITEM_20170313_013828	강화용 카드: 500
-ITEM_20170313_013829	A card used to enhance a card. Increases a card's EXP by 500.
+ITEM_20170313_013828	Enhancement Card: 500
+ITEM_20170313_013829	Eine Karte zum erhöhen einer Karte. Erhöht die EXP einer Karte um 500.
 ITEM_20170313_013830	
 ITEM_20170313_013831	
 ITEM_20170313_013832	Chromite
