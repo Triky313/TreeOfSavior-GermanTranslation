@@ -16936,3 +16936,44 @@ QUEST_LV_0100_20170420_016935	Talk with the manager and the receptionists.
 QUEST_LV_0100_20170420_016936	You are now allowed to play mercenary post missions that help you develop your character faster and receive different rewards.{nl}{nl} Start by talking to Receptionist Ramda at the Mercenary Post in Klaipedia.{nl} Type  
 QUEST_LV_0100_20170420_016937	 in the chat window to see the location and type of missions available, as well as the number of daily entries.{nl}{nl}
 QUEST_LV_0100_20170420_016938	   in the chat window to see the location and type of missions available, as well as the recommended level and number of daily entries.{nl}{nl}First, find the Mercenary Post in Klaipeda and speak with Manager Rota.
+QUEST_LV_0100_20170726_016939	Hello! My name's Leticia and I'm in charge of the TP Shop.{nl}My shop is full of items that can help you in your adventures.{nl}	안녕하세요! TP샵을 맡고있는 레티샤 입니다.{nl}TP샵에는 계시자님의 모험을 도와드릴 많은 아이템을 팔고 있어요.{nl}				레티샤
+QUEST_LV_0100_20170726_016940	Unlike other shops, here you can use 	TP샵은 다른 상점과는 다르게 				레티샤
+QUEST_LV_0100_20170726_016941	to purchase items.{nl}You can recharge your TP at our Steam page, and you also get up to 5 free TP, which automatically recharge 1 TP at a time every 2 hours.{nl}	로 아이템을 구입하실 수 있습니다.{nl}TP는 TP샵에서 충전하실 수 있고, 무료로 2시간에 1TP씩 최대 5TP까지 충전해드리고 있어요.{nl}				레티샤
+QUEST_LV_0100_20170726_016942	To revive on the same spot you'll need the 	전투 불능 시 제자리 부활이 가능한 				레티샤
+QUEST_LV_0100_20170726_016943	,{nl}to boost your hair accessory stats, you need the 	,{nl}헤어 코스튬에 능력치를 붙여주는 				레티샤
+QUEST_LV_0100_20170726_016944	 .{nl}You can dress up with the various 	 같은 소모품과{nl}의상을 멋지게 꾸미는 각종 				레티샤
+QUEST_LV_0100_20170726_016945	{nl}and move faster using the 	{nl}그리고 빠른 이동을 도와주는 귀여운 				레티샤
+QUEST_LV_0100_20170726_016946	 . Feel free to look around, I'm sure you'll find what you need.{nl}	 까지 다양한 상품이 준비되어있어요.{nl}				레티샤
+QUEST_LV_0100_20170726_016947	Click the 	구매 방법은 원하시는 아이템을 				레티샤
+QUEST_LV_0100_20170726_016948	Add	담기				레티샤
+QUEST_LV_0100_20170726_016949	 button on the items you want, then click 	 버튼으로 선택하시고 				레티샤
+QUEST_LV_0100_20170726_016950	 to purchase them.{nl}	 버튼으로 구매하실 수 있어요.{nl}				레티샤
+QUEST_LV_0100_20170726_016951	Now that you know the Shop, make sure to have a look once in a while.{nl}The 	이제 샵을 열어드릴 테니 한번 구경해보세요.{nl}그리고 제가 드린 				레티샤
+QUEST_LV_0100_20170726_016952	I gave you will be very useful too.{nl}I also recommend you try the 	을 사용하시면 큰 도움이 되어드릴 거에요.{nl}TP샵에서 판매 중인 				레티샤
+QUEST_LV_0100_20170726_016953	which is also sold here at the TP Shop!	도 추천해 드리니 꼭! 사용해보세요.				레티샤
+QUEST_LV_0100_20170726_016954	He was once very healthy, but these days he is old and weak both in mind and body.{nl}It was after Jonas went out to a visit with his servant.{nl}	원래 정정하신 분이었는데 어느 날 갑자기 노망이 드셨어요.{nl}아마.. 요나스님께서 시종과 함께 시찰을 나가시고 나서일 겁니다.{nl}	QUEST_LV_0100_20151224_011250	He was once very healthy, but these days he is old and weak both in mind and body.{nl}It was after Jonas went out to a visit with his servant.{nl}	원랜 정정하신 분이었는데 어느 날 갑자기 노망이 드셨어요.{nl}아마.. 요나스님께서 시종과 함께 시찰을 나가시고 나서일 겁니다.{nl}	연락관 닐스
+QUEST_LV_0100_20170726_016955	Jonas is the head of the family that protects the Royal Mausoleum of the Great King Zachariel.{nl}He was once very healthy, but these days he is old and weak.{nl}	요나스님은 자카리엘 대왕의 왕릉을 모시는 가문의 당주이십니다.{nl}원래 정정하신 분이었는데 어느 날 갑자기 노망이 드셨지요.{nl}	QUEST_LV_0100_20150317_000162	Jonas is the head of the family that protects the Royal Mausoleum of the Great King Zachariel.{nl}He was once very healthy, but these days he is old and weak.{nl}	요나스님은 자카리엘 대왕의 왕릉을 모시는 가문의 당주이십니다.{nl}원랜 정정하신 분이었는데 어느 날 갑자기 노망이 드셨지요.{nl}	연락관 닐스
+QUEST_LV_0100_20170726_016956	This is an opportunity for us. The Cockats are suffering from a disease.{nl}Please get their tails for us to use in our research.	이건 기회에요. 코카트가 이미 병에 걸려 있거든요.{nl}조사에 쓸 수 있도록 꼬리를 구해 주세요.	QUEST_LV_0100_20160811_015716	This is an opportunity for us. The Cockats are suffering from a disease.{nl}Please get enough tails from them to use for our research.	이건 기회에요. 코카트가 이미 병에 걸려 있거든요.{nl}조사에 쓸 수 있도록 꼬리를 넉넉히 구해 주세요.	타라 마일즈
+QUEST_LV_0100_20170726_016957	Here's the tranquilizer. Use it on the Black Maizes.{nl}It'll be easier to collect their venom that way.{nl}	여기, 마취제가 있네. 이걸로 검은 마이즈를 기절시키게.{nl}그러면 독을 채취하기 좀 수월해질걸세.{nl}	QUEST_LV_0100_20150317_002015	Use this tranquilizer on the Black Maize and extract its venom. {nl}The Maizes need to be weakened for the tranquilizer to work.	이 마취제로 검은 마이즈를 기절시키고 독을 채취하게.{nl}마이즈가 어느 정도 약해져야 마취제가 말을 들을 거야.	안데일 마을 원로
+QUEST_LV_0100_20170726_016958	Fishing Manager	낚시 관리인				
+QUEST_LV_0100_20170726_016959	How to Use the TP Shop	TP샵 이용법				
+QUEST_LV_0100_20170726_016960	Fantasy of the Watcher (1)	파수꾼의 몽상(1)				
+QUEST_LV_0100_20170726_016961	Fantasy of the Watcher (2)	파수꾼의 몽상(2)				
+QUEST_LV_0100_20170726_016962	Defeat the Infro Holder Shamans and Chafperor chasing Bronius!	브로뉴스를 쫓아온 인프로홀더 주술사와 체이퍼러를 처치하세요!	QUEST_LV_0100_20151102_010968	Defeat the Infro Holder Shamans and Chafperor chasing Bronius!	브로뉴스를 쫓아온 인프로홀더 주술사와 체이러퍼를 처치하세요!	
+QUEST_LV_0100_20170726_016963	Talk to TP Merchant Leticia in town.	도시의 TP상인 레티샤와 대화 하세요.				
+QUEST_LV_0100_20170726_016964	Talk to TP Merchant Leticia in Klaipeda, Orsha or Fedimian.	클라페다, 오르샤, 페디미안 의 TP상인 레티샤와 대화 하세요.				
+QUEST_LV_0100_20170726_016965	Listen to the explanation on how to use the TP Shop.	레티샤에게 TP샵 이용법 설명을 들으세요.				
+QUEST_LV_0100_20170726_016966	Watcher Kenneth told you to weaken the demons to less than half HP, then use the holy powers of the barrier to sever their souls and defeat them. 	파수꾼 케네스는 마족에게 결계의 신성력을 사용하여 마족의 영혼을 분리시킨 뒤 영혼을 없애라고 합니다.	QUEST_LV_0100_20150317_005163	Watcher Kenneth told you to weaken the demons to less than half HP, then use the holy powers of the barrier to sever their souls and defeat them. 	파수꾼 케네스는 마족의 체력을 반 이하로 소진시킨 후 결계의 신성력을 사용하여 마족의 영혼을 분리시킨 뒤 영혼을 없애라고 합니다.	
+QUEST_LV_0100_20170726_016967	The wandering spirit is roaming Escanciu Village. Find the wandering soldier and talk to him.	배회하는 영혼은 에산치우 마을을 돌아다니고 있습니다. 배회하는 병사를 찾아서 대화해 봅시다.				
+QUEST_LV_0100_20170726_016968	Completed Operation Wooden Village. Let the Wandering Spirit know about it.	나뭇골 작전을 완수했습니다. 에산치우 마을을 돌아다니고 있는 배회하는 영혼을 찾아서 이 사실을 알려줍시다.	QUEST_LV_0100_20150317_006117	Completed Operation Wooden Village. Let the Wandering Spirit know about it.	나뭇골 작전을 완수했습니다. 배회하는 영혼에게 이 사실을 알려줍시다.	
+QUEST_LV_0100_20170726_016969	Collect some Black Maize Venom as a gift to the Village Priest. You can only obtain Black Maize Venom by using Paralysis Powder on a Black Maize while its HP is below half.	마을 신관에게 선물로 줄 검은 마이즈의 독을 채집하세요. 검은 마이즈에 마비가루를 사용해 기절한 검은 마이즈에게서 독을 채집할 수 있습니다.	QUEST_LV_0100_20150317_006274	Collect some Black Maize Venom as a gift to the Village Priest. You can only obtain Black Maize Venom by using Paralysis Powder on a Black Maize while its HP is below half.	마을 신관에게 선물로 줄 검은 마이즈의 독을 채집하세요. 검은 마이즈의 체력이 50% 이하일 때 마비가루를 사용한 후 검은 마이즈의 독을 채집할 수 있습니다.	
+QUEST_LV_0100_20170803_016970	If you don't have a Velheider, you can adopt one for free at the Companion Trader!	'벨하이더'가 없다면 '컴패니언 상인'에게 무료로 분양받을 수 있습니다!				
+QUEST_LV_0100_20170912_016971	Do you want to go fishing?{nl}There's a stream up here where you can catch fish and some neat items!{nl}The reason you have things other than fish come up is...{nl}... a secret!{nl}	같이 낚시하실래요?{nl}위쪽 수로에 낚싯대를 담그면 물고기하고 각종 진귀한 물건이 올라와요!{nl}물고기 말고 다른 게 올라오는 이유는..{nl}쉿! 비밀이에요.{nl}				낚시터 관리인 요하
+QUEST_LV_0100_20170912_016972	Here's how you fish.{nl}First, buy a fishing rod and some bait from my shop!{nl}Go to the stream and use your fishing rod, then place the bait on it to start fishing.{nl}	이제 낚시법을 알려드릴게요.{nl}우선 제 낚시상점에서 낚싯대와 미끼를 사시면 준비끝!{nl}위쪽 수로에 가셔서 낚싯대를 사용하고 사신 미끼를 올리면 낚시가 시작돼요.{nl}				낚시터 관리인 요하
+QUEST_LV_0100_20170912_016973	I also sell paste bait and fishing bonfires that can help you fish better.	낚시에 도움이 되는 떡밥과 낚시 모닥불도 팔고 있으니까 많이 애용해주세요.				낚시터 관리인 요하
+QUEST_LV_0100_20170912_016974	From where did all these Revelators appear...{nl}It must be your duty to save us.	이 많은 계시자가 다들 어디 있다가 나타난건지..{nl}자네는 우리에게 구원을 보여주게.	QUEST_LV_0100_20150317_000283	The errand shouldn't be anything too difficult.{nl}If you don't want to help, I'll send you off to Klaipeda right away.	그리 어려운 얘긴 아니야.{nl}원치 않는다면 클라페다로 바로 보내 주겠네.	기사 티타스
+QUEST_LV_0100_20170912_016975	Click the {img help_button_normal 30 30} button in the system menu to open the Help section and see more information.	시스템 메뉴의 {img help_button_normal 30 30}버튼을 클릭해 도움말을 열어 자세한 내용을 확인하실 수 있습니다.				클라페다 안내병
+QUEST_LV_0100_20170912_016976	Team Battle League Valis
+QUEST_LV_0100_20170912_016977	Try Fishing		
+QUEST_LV_0100_20170912_016978	Talk to Fishing Manager Joha in Klaipeda.
+QUEST_LV_0100_20170912_016979	Let the Fishing Manager in Klaipeda tell you all about how to fish.

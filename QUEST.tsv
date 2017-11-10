@@ -5971,3 +5971,240 @@ QUEST_20170510_005989	Your team already received the rewards.
 QUEST_20170510_005990	An event for new users is underway.
 QUEST_20170512_005992	
 QUEST_20170512_005993	Select your desired prize item.{nl}Once selected, the item will be directly delivered to your inventory.
+QUEST_20170522_005996	Please enter the Monster-type.	몬스터 타입을 정해주세요.				알림
+QUEST_20170525_005997	Had Cleric Master Rozalija been a few years older than Plague Doctor Master Philip Aurellius, she would have been the one to take over the role.{nl}It's unfortunate, as not many people are talented in both regular healing and divine treatment as she is.	클레릭 마스터 로잘리야가 플레이그닥터 마스터 필립 아우뢸루스와 나이차가 더 많이 났다면, 차기 마스터 계승자는 로잘리야였을 것입니다.{nl}  일반적 치유술과 신성력에 의지한 치료, 두 가지에 동시에 재능을 지닌 사람은 많지 않다는 점에서 어쩌면 이것은 불운이라고 할 수 있습니다.	QUEST_20170420_005936	Had Cleric Master Rozalija been a few years older than Plague Doctor Master Philip Aurellius, she would have been the one to take over the role.{nl}It's unfortunate, as not many people are talented in both regular healing and divine treatment as she is.	클러릭 마스터 로잘리야가 플레이그닥터 마스터 필립 아우뢸루스와 나이차가 더 많이 났다면, 차기 마스터 계승자는 로잘리야였을 것입니다.{nl}  일반적 치유술과 신성력에 의지한 치료, 두 가지에 동시에 재능을 지닌 사람은 많지 않다는 점에서 어쩌면 이것은 불운이라고 할 수 있습니다.	소녀
+QUEST_20170525_005999	Reward Exchange Voucher	상품 교환원				
+QUEST_20170525_006000	Hold on, you already have a Four Leaf Clover!	오늘은 이미 네잎클로버를 받았거나 소지하고 계시네요~				상품 교환원
+QUEST_20170525_006001	So how was your luck today...?	오늘의 운은 어떠셨나요~?				상품 교환원
+QUEST_20170525_006002	Choose your enhancement stage.	해당되는 강화 단계를 선택해주세요.				상품 교환원
+QUEST_20170525_006003	Thank you! Here's your reward!{nl}Wanna see what you got?{nl}Here it goes...! 	잘 받았습니다~! 여기 상품 가져가세요~{nl}어떤 아이템이 나올까요~?{nl}두근..두근..두근... 				상품 교환원
+QUEST_20170525_006004	Are you trying to fool me?{nl}That's not the right enhancement stage...	절 속이시려고요...?{nl}해당하는 강화 단계가 맞지 않습니다.				상품 교환원
+QUEST_20170525_006005	The Shining Four Leaf Clover will bring you good luck...	빛나는 네잎클로버가 당신에게 행운을 가져다 줄꺼에요~				상품 교환원
+QUEST_20170609_006007	Wedding Planner	연인				
+QUEST_20170609_006008	It's nice to meet you. How've you been?{nl}I see you heard about the wedding.{nl}Our friends are getting ready to take the next big step in their lives and they'll be very grateful if you can help.{nl}All you need to do is deliver the invitations to the guests out of town.	구원자님 반갑습니다. 잘 지내셨나요~?{nl}구원자님의 도움에 저희는 연인이 되었습니다.{nl}...며칠 뒤 평생을 같이 할 준비를 하고 있는데...{nl}역시나... 구원자님의 도움이 필요합니다.{nl}마을 밖에 있는 지인들에게 청첩장을 건네주시겠어요? 				연인
+QUEST_20170609_006009	We have to write each invitation by hand, you see, so it takes some time to prepare.{nl}Will you help us again tomorrow?	마음을 담아 직접 손으로 쓰고 있어서.. 아직 준비가 덜 되었습니다.{nl}내일 다시 와주시겠어요?				연인
+QUEST_20170609_006010	Please make sure to deliver the invitation you're carrying first.	소지하고 있는 청첩장을 먼저 건네주시고 와주시겠어요?				연인
+QUEST_20170609_006011	I'm glad everyone received their invitation.{nl}We cannot thank you enough.{nl}Here's a small token of our appreciation.	모두에게 축하받을 수 있어서 너무나도 행복합니다.{nl}매 번 감사합니다.{nl}작은 답례입니다.				연인
+QUEST_20170609_006012	You've got some time on your hands, I see.{nl}We'll call you if we need your help again.	구원자님도 한가하시군요~~{nl}다음에 도움이 필요하면 또 부탁드리겠습니다.				연인
+QUEST_20170609_006013	Would you deliver this invitation to Laimonas in West Siauliai Woods?	받으신 청첩장은 "샤울레이 서쪽 숲" 에 "라이모나스" 에게 건네주시겠어요?				연인
+QUEST_20170609_006014	Would you deliver this invitation to Settler Bowein in Lemprasa Pond?	받으신 청첩장은 "렘파사 연못" 에 "이주민 보웨인" 에게 건네주시겠어요?				연인
+QUEST_20170609_006015	Would you deliver this invitation to Chaser Germeja in Woods of the Linked Bridges?	받으신 청첩장은 "덧댄다리 숲" 에 "추적자 게르메이야" 에게 건네주시겠어요?				연인
+QUEST_20170609_006016	Would you deliver this invitation to Agent Notres in Paupys Crossing?	받으신 청첩장은 "파우피스 나루" 에 "정보원 노토레스" 에게 건네주시겠어요?				연인
+QUEST_20170609_006017	Would you deliver this invitation to Herbalist Talas in Dadan Jungle?	받으신 청첩장은 "다단 숲" 에 "약초꾼 탈라스" 에게 건네주시겠어요?				연인
+QUEST_20170609_006018	Would you deliver this invitation to Traveling Merchant Varas in Koru Jungle?	받으신 청첩장은 "코루 숲" 에 "행상인 바라스" 에게 건네주시겠어요?				연인
+QUEST_20170609_006019	Would you deliver this invitation to Herbalist Ash in Knidos Jungle?	받으신 청첩장은 "크니도스 숲" 에 "약초꾼 탈파스" 에게 건네주시겠어요?				연인
+QUEST_20170609_006020	Would you deliver this invitation to Watcher James in Nefritas Cliff?	받으신 청첩장은 "네프리타스 벼랑" 에 "파수꾼 하메스" 에게 건네주시겠어요?				연인
+QUEST_20170609_006021	Would you deliver this invitation to Watcher Erra in Tenet Garden?	받으신 청첩장은 "테넷 화원" 에 "파수꾼 에라" 에게 건네주시겠어요?				연인
+QUEST_20170609_006022	Would you deliver this invitation to Follower Tiberius in Tenet Church B1?	받으신 청첩장은 "테넷 성당 지하 1층" 에 "추종자 티베리유스" 에게 건네주시겠어요?				연인
+QUEST_20170609_006023	Would you deliver this invitation to the Old Man of Andale Village in Veja Ravine?	받으신 청첩장은 "베야 골짜기" 에 "안데일 마을 노인" 에게 건네주시겠어요?				연인
+QUEST_20170609_006024	Would you deliver this invitation to the Old Man of Andale Village in Vieta Gorge?	받으신 청첩장은 "비에타 계곡" 에 "안데일 마을 원로" 에게 건네주시겠어요?				연인
+QUEST_20170609_006025	Would you deliver this invitation to the Andale Village Headman in Cobalt Forest?	받으신 청첩장은 "코발트 숲" 에 "안데일 마을 촌장" 에게 건네주시겠어요?				연인
+QUEST_20170609_006026	Would you deliver this invitation to Historian Kepeck in Gateway of the Great King?	받으신 청첩장은 "대왕의 관문" 에 "사학자 케펙" 에게 건네주시겠어요?				연인
+QUEST_20170609_006027	Would you deliver this invitation to Believer Nojus in Gate Route?	받으신 청첩장은 "관문로" 에 "신도 노유스" 에게 건네주시겠어요?				연인
+QUEST_20170621_006028	Pirate	해적 단원				
+QUEST_20170621_006029	Go see Zaras for the wooden boards.{nl}He did say it was going to take a while. Ask him about it when you see him.	자라스에게는 내가 다 말해뒀으니 가보게.{nl}그쪽도 만드는데, 시간이 걸린다고 했으니 얼마나 걸릴지 물어보게.				해적 단원
+QUEST_20170621_006030	You can't build an entire ship overnight.{nl}But I'm glad we have you on board, sailor.	배를 만드는데 필요한 게 한두 개가 아니야.{nl}그래도 자네가 이렇게 도와주니 정말 다행이야.				해적 단원
+QUEST_20170621_006031	I need my pirate ship ready to sail!{nl}When is it coming?	다시 해적 활동을 하기 위해 해적선을 빨리 만들어야 해.{nl}준비는 잘 되고 있어?				커세어 마스터
+QUEST_20170621_006032	Um??We're a little short-handed without the prisoners we sold to Olfas Grimm, captain.	그게,, 포로를 모두 울파스 그림에게 넘겨 일손이 부족한 상황입니다.				해적 단원
+QUEST_20170621_006033	Always the same excuses!{nl}Olfas Grimm!!{nl}That filthy rat and his swindling business! Now what!?	그게 언제적 일인데 아직도 그 핑계야!{nl}울파스 그림!!{nl}제대로 돈도 못 받고 그놈 때문에 되는 일이 없군!				커세어 마스터
+QUEST_20170621_006034	Oi, you there. Care to give me a hand?	어이 거기 꼬마 우리 일을 도와주겠는가?				커세어 마스터
+QUEST_20170621_006035	Go see the blacksmith here in Klaipeda, will you? He's making the boards for our ship.	클라페다 대장장이 자라스에게 배를 만들 나무판자 제작을 의뢰했으니 찾아다 주게.				해적 단원
+QUEST_20170621_006036	Sorry. No more boards for you today, kid.{nl}I have a lot of work piled up. Come see me again tomorrow.	오늘치 작업물은 다 받아갔지 않소?{nl}나도 다른 작업 거리가 쌓여있으니 내일 다시 오시오.				대장장이 자라스
+QUEST_20170621_006037	Oh, the pirates sent you here, did they?{nl}I'm busy, but I'll get started right away. Come back a little later.	해적단에서 부탁해서 왔군.{nl}다른 작업이 쌓여있지만 바로 시작하겠소. 조금 뒤에 다시 오시오.				대장장이 자라스
+QUEST_20170621_006038	I can give you 10 boards if you come back in an hour.	1시간 뒤에 오면 나무 판자 10개를 주겠네.				대장장이 자라스
+QUEST_20170621_006039	Alright, there you go.{nl}See you again tomorrow!	자! 여기 있네.{nl}내일 또 찾아오라고~!				대장장이 자라스
+QUEST_20170621_006040	Give me some time here!{nl}I still only have 5 boards to give you.{nl}You only get one batch a day; are you sure you want these?	조금만 시간을 달라고! 너무 재촉하는군.{nl}지금 나무 판자 5개만 줄 수 있어.{nl}하루에 한 번만 줄 수 있는데 지금 가져갈 텐가?				대장장이 자라스
+QUEST_20170621_006041	Back already?{nl}Boy, aren't you in a hurry.{nl}But I only have 1 board to give you yet.{nl}You only get one batch a day; are you sure you want it?	성질이 급하군.{nl}이제 맡겼는데 벌써 달라고?{nl}지금 나무 판자 1개만 줄 수 있어.{nl}하루에 한 번만 줄 수 있는데 지금 가져갈 텐가?				대장장이 자라스
+QUEST_20170705_006045	The Treasure of the Stone Whale event has begun.	황금 석화 고래 이벤트가 진행 중입니다.				이벤트 알림판
+QUEST_20170705_006046	You are not carrying the Stone Spirit buff.	고래 사냥꾼 버프를 지니고 있지 않습니다.				이벤트 알림판
+QUEST_20170705_006047	Womp, womp... You guessed wrong.{nl}Give it another try!	떙~!!{nl}오늘의 티켓을 가지고 한번 더 도전해 보세요.				이벤트 알림판
+QUEST_20170705_006048	Ding ding ding! You got it!{nl}Congrats, here's today's gift!	정답입니다.{nl}축하드립니다~ 오늘의 상품을 받아 가세요~				이벤트 알림판
+QUEST_20170705_006049	Please enter a number between 1 and 10.	1 ~ 10까지의 숫자만 입력해주세요.				이벤트 알림판
+QUEST_20170705_006050	You need a Daily Guess Ticket to participate.	오늘의 티켓이 없으면 이벤트에 참여할 수 없습니다.				이벤트 알림판
+QUEST_20170705_006051	You can no longer participate today.	오늘은 더 이상 참여할 수 없습니다.				이벤트 알림판
+QUEST_20170705_006052	You already received all the rewards.	보상을 모두 받아 이벤트에 더 이상 참여할 수 없습니다.				이벤트 알림판
+QUEST_20170705_006053	First-time players cannot participate in this event.	신규 유저는 참여할 수 없습니다.				이벤트 알림판
+QUEST_20170705_006054	Active Player Event has begun.	다시 시작 이벤트가 진행 중입니다.				이벤트 알림판
+QUEST_20170707_006056	You are not a first-time player.	당신은 신규 유저가 아닙니다.				이벤트 알림판
+QUEST_20170709_006058	This requires a Returning User Badge.	복귀자의 증표가 필요합니다.				이벤트 알림판
+QUEST_20170709_006060	Participation in this event is limited to 4 times per day, with 1 buff corresponding to 1 reward.	하루에 4번까지 참여 가능하지만 보상은 버프 당 1번입니다.				이벤트 알림판
+QUEST_20170717_006061	Class Unlock Voucher	클래스 해금권				
+QUEST_20170717_006062	Male characters cannot start the advancement quest. Use this item?	캐릭터의 성별이 남성일 경우 전직 퀘스트 시작이 불가능합니다. 사용하시겠습니까?				클래스 해금권
+QUEST_20170726_006064	Popolion Mascot	풍선 이벤트 도우미				
+QUEST_20170726_006065	Only one at a time!{nl}Wonder which balloon you'll get this time?	한 번에 한 개씩!{nl}이번엔 어떤 풍선이 나올까요?				풍선 이벤트 도우미
+QUEST_20170726_006066	You can only have one balloon at a time.{nl}To get a new one, you need to throw away the one you have.	풍선은 한 개씩이에요.{nl}새로 받으시려면 풍선이 없어야 해요.				풍선 이벤트 도우미
+QUEST_20170726_006067	Tuxedo Cat	장난감 이벤트 도우미				
+QUEST_20170726_006068	What will it be today?	오늘은 어떤 선물을 드릴까요?				장난감 이벤트 도우미
+QUEST_20170726_006069	I can only give you one gift a day.	선물은 하루에 하나씩만 드릴 수 있어요.				장난감 이벤트 도우미
+QUEST_20170726_006070	Careless priests, greedy mercenaries, evil pirates...{nl}I hate them all.	엉성한 사제, 돈만 아는 용병, 사악한 해적..{nl}모두 마음에 안 드는 녀석들이야.				슈바르츠라이터 마스터
+QUEST_20170726_006071	We're all so busy these days. Anything urgent?	요즘 일이 늘어서 단원 모두 바쁜데 제일 시급한 문제가 뭐지?				슈바르츠라이터 마스터
+QUEST_20170726_006072	Golden Note Mercenary	황금노래 용병단원				
+QUEST_20170726_006073	We still haven't received the request certificates, so we're late in collecting the money.	처리하는 일은 많은데 의뢰완료 확인증을 받지 못해서 수금이 늦어지고 있습니다.				황금노래 용병단원
+QUEST_20170726_006074	I send out more of my men, and now there's a problem with the certificates...	의뢰 처리에 단원을 다 투입했더니 확인증에서 문제가 생기는군..				슈바르츠라이터 마스터
+QUEST_20170726_006075	I need more help...{nl}Would you be willing to fill in?{nl}Go and get the request certificates.	다른 사람들의 도움이 필요한데..{nl}자네가 대신 우리일 좀 도와주지 않겠나?{nl}의뢰완료 확인증을 받아오게.				슈바르츠라이터 마스터
+QUEST_20170726_006076	Bring me the certificates, I'll give you generous compensation.	의뢰완료 확인증을 저 녀석에게 가져다주면 보상 해줄 거야.				슈바르츠라이터 마스터
+QUEST_20170726_006077	Do you have the certificates?	확인증을 받아오셨나요?				황금노래 용병단원
+QUEST_20170726_006078	Are you here for the certificate?{nl}Well, I received all the samples for new Companion feed I asked for.{nl}Things aren't as bad as they were 4 years ago, but I still couldn't have done it on my own.{nl}Thank you.	확인증을 받으러 오셨군요.{nl}의뢰했던 데로 컴패니언이 좋아할 만한 새로운 먹이 표본을 잘 받았어요.{nl}4년 전에 비해서는 나아졌지만 저 혼자 찾아다녔다면 힘들었을 거에요.{nl}정말 고마워요.				크리스티나
+QUEST_20170726_006079	Thanks to the Golden Note mercenaries my expedition was a success.{nl}Here, let me give you the certificate.{nl}The world may be full of evil things, but some of them aren't so bad if you know how to tame them.	지난번 탐사는 황금노래 용병단 덕분에 잘 끝낼 수 있었어요.{nl}여기 확인증 먼저 드릴께요.{nl}세상에 마물이 늘어나 위험해졌지만 반대로 길들이기만 하면 새로운 동반자를 찾을 수 있는 기회가됐어요.				크리스티나
+QUEST_20170726_006080	Here's the certificate. My Fedimian accessories arrived safe and sound.{nl}I suppose it's still too dangerous to go beyond Fedimian, huh?{nl}I have friends there, too... Wonder how they're doing.	확인증은 여기 있어요. 덕분에 페디미안의 악세서리를 잘 받았어요.{nl}페디미안보다 더 먼 곳은 아직 위험하겠지요?{nl}제 친구도 그곳에 있을 건데.. 잘 지내겠지요?				악세서리 상인 로네사
+QUEST_20170726_006081	I mean, it's dangerous enough on the way to Orsha.{nl}Still, thanks to the Golden Note mercenaries I got my hands on some really unique materials.	오르샤까지 길도 아직 위험한 것 같아요.{nl}그래도 황금노래 용병단 덕분에 오르샤에서만 얻을 수 있는 재료도 잘 받았어요.				악세서리 상인 로네사
+QUEST_20170726_006082	The equipment was sent to me in perfect condition.{nl}With the world the way it is, I can't afford to walk around without good equipment.{nl}Let me give you the certificate, then.	덕분에 내가 찾던 장비를 잘 받았소.{nl}세상이 이렇게 되니 내 몸을 지킬 장비가 더 중요해졌다오.{nl}확인증은 바로 드리겠소.				장비 상인 던켈
+QUEST_20170726_006083	The equipment I requested from the Kedoran Alliance came in perfect condition.{nl}They certainly know the value of good gear.{nl}I suppose that's why they work so hard.	의뢰했던 데로 케도라 상단에서 보내온 장비를 잘 받았소.{nl}그들도 장비가 제일 중요하다는 걸 알고 있는 거지.{nl}그러니 그렇게 열심히 뛰어다니고 있는 거겠지..				장비 상인 던켈
+QUEST_20170726_006084	I still don't know where my father is...{nl}But I won't forget how much the Golden Note mercenaries have helped.{nl}I'll give you the certificate right away.	아버지의 행방은 알 수 없었지만..{nl}황금노래 용병단 분들이 노력해주신 건 잊지 않을게요.{nl}확인증은 바로 드릴게요.				잡화 상인 미리나
+QUEST_20170726_006085	I couldn't go to where the potions were needed myself, but I heard they were very useful.{nl}Thank you.	제가 포션이 필요한 곳으로 직접 갈 수 없었지만, 덕분에 큰 도움이 됐다고 들었어요.{nl}감사합니다.				잡화 상인 미리나
+QUEST_20170726_006086	It's not easy sharing item lists with the markets in other cities.{nl}We're lucky to have the Golden Note mercenaries around.	각 지부의 마켓들과 판매 리스트 공유가 힘드네요.{nl}그래도 황금노래 용병단이 있어서 다행이에요.				마켓 관리인 로지
+QUEST_20170726_006087	More and more monster products are being discovered, and the Golden Note mercenaries are helping me trade them.	제가 처음보는 몬스터 부산물도 많아졌는데 용병단에서 정보를 모아주신 도와주신 덕분에 거래가 잘되고 있어요.				마켓 관리인 로지
+QUEST_20170726_006088	I heard the items I sent over were delivered safely.{nl}After Medzio Diena, some people were left with belongings here that they can't come and collect, you see...	제가 의뢰했던 분께 물품이 잘 전달됐다고 들었어요.{nl}신수의 날 전보다 물건을 맡기기만 하고 못 찾아가게 되신 분들이 늘었어요..				창고지기 리타
+QUEST_20170726_006089	My client wasn't in Klaipeda or Fedimian...{nl}Do they need to go all the way to the Starlit Lake region?{nl}I should think about it...{nl}But they did search in all the regions I requested, so I should give you the certificate.	클라페다령에서도 페디미안 직할령에서도 그분이 안 계시던데..{nl}별깃든 호수 지역까지 의뢰를 하셔야 될까요?{nl}그건 더 고민해봐야겠네요..{nl}탐색 요청했던 지역은 끝났으니 확인증을 드릴게요.				창고지기 리타
+QUEST_20170726_006090	A couple of our adventurers were in danger out on a mission...{nl}Unfortunately we couldn't go and help them so we asked the mercenaries.{nl}We were very glad.	저희 의뢰로 위험에 빠진 분들이지만..{nl}저희가 직접 나서기에는 사무직이라 무력이 부족해서요. 요청드렸지요.{nl}고마웠어요.				의뢰소장 로타
+QUEST_20170726_006091	Did the mercenaries send you here? I'll get the certificate, just a moment.{nl}The Golden Note were very helpful in getting us moved to Klaipeda.	황금노래 용병단에서 나오셨군요. 확인증은 바로 드릴게요.{nl}황금노래 용병단 호위 덕분에 클라페다로 이전을 잘 끝났어요.				의뢰소장 로타
+QUEST_20170726_006092	You know, if something's important it has to be done at all costs.{nl}Unfortunately my arena is gone now...	대업을 위해서는 어떠한 수단이라도 가리면 안 되네.{nl}투기장이 폐쇄되어 계획에 차질이 생겼어..				몽크 마스터
+QUEST_20170726_006093	I'm willing to do anything for my beliefs!{nl}Even if the world sees me as selfish, even if I end up alone, it's what I have to do!	내 신념을 위해서라면 난 어떤일도 할 수 있어!{nl}세상이 나를 이기적인 인간이라고 하지만, 수행자는 본시 고독한 법이지!				몽크 마스터
+QUEST_20170726_006094	Are you a new priest?	자네는 새로운 사제인가?				몽크 마스터
+QUEST_20170726_006095	Well, it doesn't matter!{nl}Do you want to contribute to this world?	뭐, 상관없겠지!{nl}자네도 이 세상에 봉사하지 않겠나?				몽크 마스터
+QUEST_20170726_006096	Catch me some monsters and I'll prepare a reward for you!{nl}You won't regret it!	몬스터를 잡아 오면 내가 준비한 선물을 주겠네!{nl}기대해도 좋아!!				몽크 마스터
+QUEST_20170726_006097	Give this Revelator a reward if they bring back the monsters.	여기 있는 계시자가 몬스터를 잡아 오면 내가 준비한 선물을 주게.				몽크 마스터
+QUEST_20170726_006098	Monk	몽크 사제				
+QUEST_20170726_006099	You heard the Monk Master. I wish you good luck for today.{nl}The Master said you must defeat 150 monsters if they are as strong as you, 100 monsters if they are stronger, or 300 monsters if they are weaker.	오늘도 몽크 마스터님 말씀처럼 세상을 위해 힘내주세요.{nl}계시자님과 같은 수준의 몬스터라면 150마리, 더 강한 몬스터라면 100마리, 약한 몬스터라면 300마리가 적당하다고 말씀하셨어요.				몽크 사제
+QUEST_20170726_006100	Pity.{nl}No luck today!{nl}You just need more training.	안타까워.{nl}오늘은 운이 없군!{nl}좀 더 신체 단련을 해야겠어.				몽크 사제
+QUEST_20170726_006101	Very good!{nl}I knew I had the right guy.	오~{nl}역시 내가 사람 보는 눈이 있군.				몽크 사제
+QUEST_20170726_006102	You may rest now.	오늘은 이만 휴식을 취하시는 게 좋겠어요.				몽크 사제
+QUEST_20170726_006103	The Goddesses have blessed you!!{nl}Congratulations.	여신의 축복이 내렸습니다!!!{nl}축하드립니다.				몽크 사제
+QUEST_20170726_006104	The Golden Note mercenaries are growing stronger.	황금노래 용병단이 점차 강해지고 있어.				도펠죌트너 마스터
+QUEST_20170726_006105	We need to recruit more men...	우리도 빨리 강한 용병들을 더 모집해야 하는데..				도펠죌트너 마스터
+QUEST_20170726_006106	Are you saying you want to join us?	우리 용병단에 들어 오고 싶다고?				도펠죌트너 마스터
+QUEST_20170726_006107	Alright, let's see it then.	그럼 네 능력을 증명해봐.				도펠죌트너 마스터
+QUEST_20170726_006108	We'll tell you where to go. Prove yourself there and I'll consider it.	우리 단원이 알려주는 곳에서 능력을 증명하면 고려해 보지.				도펠죌트너 마스터
+QUEST_20170726_006109	Pledge of the Blade Mercenary	칼날서약 용병단원				
+QUEST_20170726_006110	So you wanna join the Pledge of the Blade?	우리 칼날서약 용병단과 함께하는 건 어때?				칼날서약 용병단원
+QUEST_20170726_006111	We only accept one person per team, do you still want in?	한 팀의 한 명만 받을 수 있는데 받을 텐가?				칼날서약 용병단원
+QUEST_20170726_006112	Mysterious Altar	신비로워 보이는 제단				
+QUEST_20170726_006113	A strange energy is exuded from the altar.	제단에서 신비한 기운이 느껴진다.				신비로워 보이는 제단
+QUEST_20170726_006114	The altar seems to be closed to communication.	제단이 교감을 거부하는 것 같다.				신비로워 보이는 제단
+QUEST_20170726_006116	Fishing Manager Joha	낚시터 관리인 요하				
+QUEST_20170726_006117	Hi there!{nl}I'm Joha, Klaipeda's Fishing Manager.	안녕하세요?{nl}저는 클라페다 낚시터를 관리하는 요하라고 해요.				낚시터 관리인 요하
+QUEST_20170726_006118	I sell all sorts of fishing supplies.	다양한 낚시 용품을 판매하고 있습니다.				낚시터 관리인 요하
+QUEST_20170726_006119	You can only get this once per team.	팀당 1회만 교환해 드리고 있어요.				낚시터 관리인 요하
+QUEST_20170726_006120	You need 25 Silver Fish to exchange for a costume.	코스튬 교환에는 은빛 물고기 25마리가 필요해요.				낚시터 관리인 요하
+QUEST_20170726_006121	Do you need the male or female version of the costume?	남자용, 여자용 어떤 게 필요하신가요?				낚시터 관리인 요하
+QUEST_20170728_006122	I'm in charge of Klaipeda and the regions surrounding it.{nl}You can help me take care of the city.{nl}I'll take care of the other areas.	제가 맡은 구역은 클라페다령 전체입니다.{nl}제가 도움받는 처지이니 클라페다만 맡아주십시오.{nl}다른지역은 제가 돌아보겠습니다.	QUEST_20170726_006077	Do you have the certificates?	확인증을 받아오셨나요?	황금노래 용병단원
+QUEST_20170728_006123	We've been very busy with requests lately. Just ask the residents for the certificate and bring it over.	요즘 진행한 의뢰가 많아서 그러니 클라페다 주민들에게 물어보시면 확인증을 챙겨줄 겁니다.				황금노래 용병단원
+QUEST_20170728_006125	Tuxedo Cat	고양이 이벤트 도우미				
+QUEST_20170728_006126	You don't have enough Silver Fish.	은빛 물고기가 부족합니다.				고양이 이벤트 도우미
+QUEST_20170810_006128	The Piece Back Mission event is now open.	당신의 선택은? 이벤트가 진행 중입니다.				이벤트 알림판
+QUEST_20170810_006129	Select your desired city.{nl}The city you choose will determine the pieces of the goddess sculptures you can obtain from monsters.{nl}You can reset your city of choice every Tuesday.	원하는 마을을 선택해주세요.{nl}이벤트 기간동안 선택한 마을에 따라 획득할 수 있는 아이템이 다릅니다.{nl}(매주 화요일 다른 마을로 변경 가능합니다.)				이벤트 알림판
+QUEST_20170810_006130	You already chose your city this week.	이미 마을을 선택하였습니다.				이벤트 알림판
+QUEST_20170810_006131	It's too soon.{nl}Use the command '/time' to check how much you have to wait.	너무 이릅니다.{nl}유저 명령어 "/time"을 통해 남은 시간을 알 수 있습니다.				이벤트 알림판
+QUEST_20170810_006132	Your city choice has been reset.{nl}Please select your city again.	마을이 초기화 되었습니다.{nl}다시 마을을 선택해 주세요.				이벤트 알림판
+QUEST_20170810_006134	You cannot choose your city today, or you already chose your city for the week.	초기화 날짜가 아닙니다.				이벤트 알림판
+QUEST_20170822_006136	You cannot choose your city today, or you already chose your city for the week.	초기화 날짜가 아니거나, 이미 마을을 선택하였습니다.	QUEST_20170810_006130	You already chose your city this week.	이미 마을을 선택하였습니다.	이벤트 알림판
+QUEST_20170901_006137	Pledge of the Blade Investigator	칼날서약 용병단 조사원				
+QUEST_20170901_006138	I can't tell you the full details, but a few of our men were on a mission to retrieve an object stolen from a Loremaster of Goddess Jurate.{nl}The last time we heard from them was near Klaipeda.{nl}We need you to check if there's anyone in West Siauliai Woods who might have seen them.	자세한 의뢰내용은 알려드릴 수 없지만,{nl}연락이 끊긴 단원들은 유라테 여신의 전승자분이 강탈당한 어떤 물건을 회수해달라는 의뢰를 받았습니다.{nl}마지막 연락이 클라페다 인근에서 끊겼지요.{nl}단원들을 본 사람이 없는지 샤울레이 서쪽 숲에서 확인 부탁드립니다.				칼날서약 용병단 조사원
+QUEST_20170901_006139	It can be harder to find clues the more time has passed.	꽤 시간이 지나서 흔적을 찾기가 힘드네요.				칼날서약 용병단 조사원
+QUEST_20170901_006140	Pledge of the Blade?{nl}Not recently, no. I used to see them around here before the Revelators came.{nl}That was a long time ago, I can't remember that well.	칼날서약 용병단?{nl}요즘에는 없었고 계시자들이 나타나기 전에는 이곳에 다녀간 적이 있었지.{nl}좀 오래된 일이라 자세한 일은 기억이 안 난다네.				기사 티타스
+QUEST_20170901_006141	I'm glad to have you on our side, Revelator!	시간이 많이 지나서 흔적을 찾기 힘들지만, 계시자님이 도와주시니 성과가 있을 거에요!				칼날서약 용병단 조사원
+QUEST_20170901_006142	So they were seen in West Woods, very well.{nl}Make sure to ask around again tomorrow, someone else might have seen them.	행적이 서쪽숲까지는 확인되었군요.{nl}내일은 다른 분들이 기억하고 있을 수 있으니 좀 더 알아봐 주세요.				칼날서약 용병단 조사원
+QUEST_20170901_006143	Give Reward
+QUEST_20170901_006144	Titas told me.{nl}You're looking for the Pledge of the Blade, is it?	티타스님께 이야기 들었습니다.{nl}칼날서약 용병단을 찾고 계신다고요?				정찰병
+QUEST_20170901_006145	Yes, I have come across them in the past.{nl}It was before the area became infested with monsters, I can only imagine where they might be now.	네. 저도 정찰을 하다 봤었습니다.{nl}헌데 그때는 몬스터를 몰아내기 전이라 이곳에서 무엇을 하고 있는지 자세히 확인하지 못했습니다.				정찰병
+QUEST_20170901_006146	Oh! One of them asked if we'd seen anyone from the outside recently and I told them I saw a group of people who looked like they were coming from the beach.	아! 그들 중 하나가 요즘 외지에서 들어온 사람 없는지 물어봐서 바닷가에서나 입을만한 옷을 입은 사람들을 봤다고 대답해줬던 것 같습니다.				정찰병
+QUEST_20170901_006147	Do you think the mercenaries were trying to find them?{nl}I suppose you'll have to keep chasing them to find out.	단원들이 쫓고 있던 사람들이 그 바닷가에서 왔던 사람들일까요?{nl}좀 더 행적을 좇다 보면 알 수 있겠지요.				칼날서약 용병단 조사원
+QUEST_20170901_006148	This is a cryptogram from our group.{nl}It says...	이건 저희가 사용하는 암호문이네요.{nl}내용은..				칼날서약 용병단 조사원
+QUEST_20170901_006149	The people they were chasing were a pirate crew.{nl}They fought amongst each other for the stolen goods, then some of them were killed trying to escape with the loot.{nl}Our mercenaries followed them to the Siaulai East Woods.	단원들이 좇던 사람들은 해적들이었네요.{nl}물건을 강탈하고 자기들끼리도 내분이 생겨서 일부가 물건을 독점하려고 하다 나머지 해적들에게 잡혀서 죽고,{nl}단원들은 나머지 해적들을 좇아서 동쪽 숲으로 이동한다는 내용이네요.				칼날서약 용병단 조사원
+QUEST_20170901_006150	Is this the cryptogram your brought from the East Woods?	동쪽 숲에서 가지고 오신 암호문이라고요.				칼날서약 용병단 조사원
+QUEST_20170901_006151	There isn't much to it.{nl}It says the traces of the pirates end in the East Woods.	이번에는 특별한 건 없네요.{nl}해적들의 흔적이 동쪽 숲에서 끊겼다는 내용이네요.				칼날서약 용병단 조사원
+QUEST_20170901_006152	Hmm...
+QUEST_20170901_006153	It says they found the pirates and defeated them. But there are no signs of the stolen objects.	큰 피해를 입었지만 해적들을 찾아서 모두 처치했다. 하지만 물건은 찾을 수 없었다.. 라는 내용이네요.				칼날서약 용병단 조사원
+QUEST_20170901_006154	This one says they found the location of the objects.	이건 물건의 행방을 찾았다는 내용이네요.				칼날서약 용병단 조사원
+QUEST_20170901_006155	They realized some of the crew members were missing after the dispute.{nl}They assumed they had stolen the goods and followed the pirates' trace.{nl}They moved to the Miner's Village.	전투 후 해적들의 수가 모자란 것을 알게 되었다.{nl}분명 일부가 물건을 빼돌렸을 것이고 우리는 그 흔적을 찾아 좇았다.{nl}광산 마을로 이동한다.				칼날서약 용병단 조사원
+QUEST_20170901_006156	That's what it says.	이렇게 적혀있네요.				칼날서약 용병단 조사원
+QUEST_20170901_006157	You're looking for the Pledge of the Blade, you say?{nl}Hmm...	칼날서약 용병단원을 찾는다고?{nl}음..				광산 마을 촌장
+QUEST_20170901_006158	Oh! I remember.{nl}A long time ago they came to the mine looking for some pirates.{nl}I told them I hadn't seen no pirates, so they asked if I'd seen any outsiders who looked like they were hurt.	아! 생각났네.{nl}꽤 오래전 일이라 가믈가믈하지만 광산에 와서 해적을 찾던 게 기억나는 구만.{nl}처음에는 해적을 찾더니 그런 사람 못 봤다고 하니 그러면 어딘가 다친 외부인은 못 봤는지 물어보더군.				광산 마을 촌장
+QUEST_20170901_006159	But, you know, it was a lot worse back then so those kinds of people were everywhere.	그때야 지금보다 사정이 더 안 좋을 때라 그런 사람이 한둘이냐고 말했던 것 같네.				광산 마을 촌장
+QUEST_20170901_006160	It seems like the pirates disguised themselves.{nl}Please check the village for any more clues.	해적들이 일반인으로 변장을 했었나 보군요.{nl}마을 어딘가에 다른 흔적은 없는지 찾아봐 주세요.				칼날서약 용병단 조사원
+QUEST_20170901_006161	It appears they found one of the pirates hidden among the refugees and the two groups battled.{nl}They were hurt, but not severely, then they followed the pirate crew to the inside of the mine.	서로 흩어져서 해적의 흔적을 찾다가 피난민 중에 숨어있던 해적을 찾아 전투가 있었다는군요.{nl}단원들도 흩어져있다가 벌어진 일이라 상처만 입히고 광산으로 도망가는 해적을 좇아서 들어갔다는 내용입니다.				칼날서약 용병단 조사원
+QUEST_20170901_006162	They managed to corner the pirates in Crystal Mine 2F, but in order to avoid any more victims, they were looking to send their weapons to Klaipeda.	단원들은 해적을 수정광산 2층에 몰아넣긴 했지만, 희생을 줄이기 위해 클라페다에서 장비를 보급하려고 했군요.				칼날서약 용병단 조사원
+QUEST_20170901_006163	A group of mercenaries?{nl}That was a long time ago, was it?	용병단이요?{nl}한참 전에 일이라는 거지요?				레티샤
+QUEST_20170901_006164	I remember a group of rugged-looking fellows walking up and down the streets, if anyone's seen them it'll be the town merchants.	예전에 상점가에 험악하게 생긴 분들이 자주 왔다 갔다 했었는데 상인분들이 알고 있지 않을까요?				레티샤
+QUEST_20170901_006165	We ought to speak with the merchants.{nl}I'll check with the other residents.	상인분들의 협조가 필요하겠네요.{nl}저도 다른 시민들에게 확인해볼게요.				칼날서약 용병단 조사원
+QUEST_20170901_006166	I did have a few merchants here looking for mining gear.{nl}A few days later they came back wanting to buy something for mountain climbing, said they were going to Srautas Gorge.	광산에 몬스터가 가득한데 광산 탐사용 장비를 구하는 용병들이 있긴 했었지.{nl}그런데 얼마 뒤에는 산악 장비를 구한다면서 스라우타스 협곡 쪽으로 간다고 했었다네.				장비 상인 던켈
+QUEST_20170901_006167	Srautas Gorge?{nl}They were either following the pirates there or escaping from them.	스라우타스 협곡이요?{nl}해적들을 잡은 것인지 아니면 협곡으로 도망을 간 건지 알 수 없네요.				칼날서약 용병단 조사원
+QUEST_20170901_006168	Pledge of the Blade?{nl}Yeah, they went to Gele Plateau!{nl}There were other people looking for them at the time, though.{nl}Are they back?	칼날서약 용병단?{nl}봤지! 겔리 고원쪽으로 갔었어.{nl}근데 그때도 용병단을 찾아다니는 사람들이 있었는데.{nl}또 찾아온 건가?				파수꾼 길버트
+QUEST_20170901_006169	So the mercenaries headed to Gele Plateau.{nl}Someone was after them.{nl}I was the only one sent to look for them, meaning...{nl}Whoever it was, they're related to their disappearance.	겔리 고원으로 갔고.{nl}누군가가 용병단을 좇고 있었군요.{nl}저 말고는 용병단을 찾기 위해 파견된 사람이 없는데..{nl}그들이 용병단 실종에 연관되어있겠네요.				칼날서약 용병단 조사원
+QUEST_20170901_006170	This... it says the mercenaries were attacked by an unknown group!{nl}Fortunately they managed to escape.{nl}We should check whether there are any signs of a battle near the cryptogram.	이건! 임무를 마치고 돌아오던 단원들이 알 수 없는 무리의 습격을 받았다는군요.{nl}도주는 한 것 같은데.{nl}암호문 근처에 전투의 흔적이 없는지 확인해봐야겠어요.				칼날서약 용병단 조사원
+QUEST_20170901_006171	Some of our men use arrows, but ours don't look like this.{nl}We don't use this kind of arrowhead.{nl}We need to find the source of these arrows.	화살을 쓰는 단원도 있지만 저희가 쓰는 화살촉은 일반적인 것입니다.{nl}이런 모양은 아니지요.{nl}화살촉을 출처를 확인해봐야겠네요.				칼날서약 용병단 조사원
+QUEST_20170901_006172	You want me to look at an arrow?{nl}Let's see, then...	화살촉을 봐달라 고?{nl}어디 보자..				아처 마스터
+QUEST_20170901_006173	I'm no Fletcher Master, but this looks like the arrowheads used by Scouts.	내가 플레쳐 마스터만큼 아는 건 아니지만, 이 모양은 스카우트들이 사용하는 화살촉과 비슷해 보이는데.				아처 마스터
+QUEST_20170901_006174	If these are Scout arrows...{nl}We should ask Scout Submaster Suina in Orsha.	스카우트들이 사용하는 화살촉이라면..{nl}오르샤에 계시는 스카우트 서브 마스터 쉬나님께 확인해봐야겠네요.				칼날서약 용병단 조사원
+QUEST_20170901_006175	This arrowhead...
+QUEST_20170901_006176	I don't think I'm the right person to talk about this.{nl}The Ranger Master should be able to tell you more about it.	제가 이야기 드릴 이야기는 아닌 것 같군요.{nl}레인저 마스터 니모켄님이 이야기 드릴 수 있겠네요.				스카우트 서브 마스터
+QUEST_20170901_006177	Does this mean the Ranger Master knows about the battle?{nl}What on earth could have happened to our mercenaries...	레인저 마스터님이 이 사건에 대해서 알고 계신다고요?{nl}도대체 무슨 일이 있었던 걸까요..				칼날서약 용병단 조사원
+QUEST_20170901_006178	Are you saying you found this arrowhead in Gele Plateau?	이 화살촉이 겔리 고원에서 발견되었던 것이라고?				레인저 마스터
+QUEST_20170901_006179	I think I know what happened...	겔리 고원이라면 짐작되는 일이 있는데..				레인저 마스터
+QUEST_20170901_006180	This is a bit embarrassing, but I need to pay back some cash to Olfas Grimm and I agreed to send a few of my archers to Gele Plateau if he cut my debt in half.{nl}He wanted me to get some kind of compass.{nl}I guess that's how they ran into the Pledge of the Blade.	부끄러운 이야기이지만 난 올파스 그림에게 진 빚의 절반을 탕감받는 조건으로 궁수들을 겔리 고원으로 파견한 일이 있었네.{nl}인명피해는 없이 어떤 나침판을 회수해달라는 일이었는데.{nl}그게 칼날서약 용병단의 뒤를 치는 일이었군.				레인저 마스터
+QUEST_20170901_006181	I don't know what happened exactly, but clearly I was in the wrong here so I'll make sure to apologize to Guerra and his men in person.	자세한 사정은 알 수 없었지만 의롭지 못한 일을 해버렸으니 이 일은 내가 직접 그에라와 다친 용병단원들에게 정식으로 사과하겠네.				레인저 마스터
+QUEST_20170901_006182	I see.{nl}But if they all escaped with only a few injuries, they should have returned by now.{nl}To where did they disappear?{nl}I ought to report this to Guerra and go look for them myself.	그런 일이 있었군요.{nl}근데 부상만 입고 후퇴했다면 단원들이 돌아왔어야 했는데.{nl}어디로 사라진 걸까요?{nl}우선알게 된 사건 경위를 그에라님께 보고드리고 제가 이어서 추적할게요.				칼날서약 용병단 조사원
+QUEST_20170901_006183	Thanks to you, at least now I know where they went.{nl}We appreciate your assistance.	계시자님 덕분에 일의 전말을 알게 되었네요.{nl}다시한번 감사드려요.				칼날서약 용병단 조사원
+QUEST_20170901_006184	I'm going to investigate a few things before I leave.{nl}Again, thank you.	몇 가지 더 알아볼 내용이 있어서 끝내고 출발할 예정이에요.{nl}다시한번 감사드려요.				칼날서약 용병단 조사원
+QUEST_20170901_006185	Are you the Revelator that's been defeating the demons?{nl}If that's fine with you, I could use some help in searching for my mercenaries who went missing.	혹시 당신이 요즘 마족을 몰아내는 데 큰 힘이 되고 있다는 계시자님인가요?{nl}괜찮으시다면 의뢰 중 연락이 끊긴 용병 단원의 흔적을 찾는데 도와주실 수 있을까요?				칼날서약 용병단 조사원
+QUEST_20170901_006186	Traces
+QUEST_20170901_006187	This looks suspicious.
+QUEST_20170901_006188	Isnel and Panzcir are getting married under the blessing of Goddess Vaivora.{nl}Won't you come and congratulate the new couple?	바이보라 여신님의 축복 아래 이스넬님과 판치르님이 결혼하신다고 하네요.{nl}함께 축하해 주지 않으실래요?				클레릭 마스터
+QUEST_20170912_006190	Earth Tower Lolopanther Area (Recommended Lv: 260) - Only you and your party members can enter together. {nl}Are you sure you want to enter?	대지의 탑 롤로팬서 구간(권장레벨:260)으로, 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?	QUEST_20160811_004082	Earth Tower Lolopanther Area (Recommended Lv: 280) - Only you and your party members can enter together. {nl}Are you sure you want to enter?	대지의 탑 롤로팬서 구간(권장레벨:280)으로, 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?	대지의 탑 롤로팬서 구간
+QUEST_20170912_006191	This is a bit embarrassing, but I need to pay back some cash to Olfas Grimm and I agreed to send a few of my archers to Gele Plateau if he cut my debt in half.{nl}He wanted me to get some kind of compass.{nl}I guess that's how they ran into the Pledge of the Blade.	부끄러운 이야기이지만 난 올파스 그림에게 진 빚의 절반을 탕감받는 조건으로 궁수들을 겔리 고원으로 파견한 일이 있었네.{nl}인명피해는 없이 어떤 나침반을 회수해달라는 일이었는데.{nl}그게 칼날서약 용병단의 뒤를 치는 일이었군.	QUEST_20170901_006180	This is a bit embarrassing, but I need to pay back some cash to Olfas Grimm and I agreed to send a few of my archers to Gele Plateau if he cut my debt in half.{nl}He wanted me to get some kind of compass.{nl}I guess that's how they ran into the Pledge of the Blade.	부끄러운 이야기이지만 난 올파스 그림에게 진 빚의 절반을 탕감받는 조건으로 궁수들을 겔리 고원으로 파견한 일이 있었네.{nl}인명피해는 없이 어떤 나침판을 회수해달라는 일이었는데.{nl}그게 칼날서약 용병단의 뒤를 치는 일이었군.	레인저 마스터
+QUEST_20170912_006192	I may not have much in stock, but I only have what's good!{nl}Have a look.	상품은 얼마 없지만 꼭! 필요한 것만 모았어요.{nl}둘러보세요.				낚시터 관리인 요하
+QUEST_20170912_006193	Jurate's Kupole
+QUEST_20170912_006194	Jurate's Compass was lost in the battle with the demons.{nl}It disappeared at sea, no one knows where it is now.{nl}I am trying to find the compass with the goddess' divine power, but the detector seems to be attracting monsters.{nl}Would you help me watch over it?	마족과의 전투로 유라테 여신님의 나침반이 사라졌답니다.{nl}물길을 따라 흘러가서 어디로 갔는지 알 수 없네요.{nl}여신님의 신성력으로 나침반을 찾으려고 하는데 탐지기의 신성력을 좇아 몬스터가 모여드네요.{nl}저와 함께 탐지기를 지켜주시겠어요?				유라테의 큐폴
+QUEST_20170912_006195	If only I can get the detector to work, I can find out where the compass is.{nl}Will you help me?	탐지기만 준비된다면 나침반이 어디까지 흘러갔는지 알 수 있을거에요.{nl}조금 더 도와주시겠어요?				유라테의 큐폴
+QUEST_20170912_006196	The detector isn't sensing anything.{nl}I suppose I need to search in a bigger area.{nl}Thank you for your help.	특별히 탐지기에 탐지된 게 없네요.{nl}하지만 점점 범위를 넓혀가고 있으니 꼭! 찾을 수 있을 거에요.{nl}도와주셔서 감사해요.				유라테의 큐폴
+QUEST_20170912_006197	Check Rewards
+QUEST_20170912_006198	This item cannot be moved to the Team Storage.{nl}Are you sure you want to receive it?	팀 창고로 이동할 수 없는 아이템입니다.{nl}지금 받으시겠습니까?				보상 확인
+QUEST_20170912_006199	Buff effects will only apply to the current character.{nl}Are you sure you want to receive it?	버프 효과는 버프를 받은 캐릭터에만 적용됩니다.{nl}지금 받으시겠습니까?				보상 확인
+QUEST_20170912_006200	You have no total count rewards to receive.	받으실 누적 완료 보상이 없습니다.				이벤트 알림판
+QUEST_20170912_006201	The title will only apply to the current character.{nl}Are you sure you want to receive it?	칭호는 칭호를 받은 캐릭터에만 적용됩니다.{nl}지금 받으시겠습니까?				이벤트 알림판
+QUEST_20170912_006202	You have rewards to receive from your Adventure Journal resetting content.{nl}Would you like to receive them?	모험일지 초기화항목 보상을 받을 수 있습니다.{nl}모험일지 보상을 받으시겠습니까?				라시아
+QUEST_20170912_006203	You're here to receive your Adventure Journal rewards, I see.	모험일지 초기화항목 보상을 받으러 오셨군요.				레나
+QUEST_20170912_006204	Adventure Journal rewards for resetting content and item consumption can be received until 10 days after the corresponding period resets.{nl}Make sure to receive your rewards, as they cannot be retrieved after that.	모험일지 초기화항목과 모험일지 아이템 소비항목 보상은 초기화 후 10일 이내에 받을 수 있습니다.{nl}그 후에는 받을 수 없으니 잊지마시고 꼭 보상을 받으시기 바랍니다.				라시아
+QUEST_20170912_006205	You have already received your rewards.{nl}But you can show me your Adventure Journal.	이미 보상을 받으셨습니다.{nl}대신 모험일지를 보여드리죠.				라시아
+QUEST_20170912_006206	Adventure Journal rewards for resetting content and item consumption can be received until 10 days after the corresponding period resets.{nl}Make sure to receive your rewards, as they cannot be retrieved after that.	모험일지 초기화항목과 아이템 소비항목 보상은 초기화 후 10일 이내에 받을 수 있죠.{nl}그 후에는 받을 수 없으니깐 잊지마시고 꼭 보상을 받으세요.				레나
+QUEST_20170912_006207	You have already received your rewards.{nl}But you can show me your Adventure Journal.	이미 보상을 받으셨네요.{nl}대신 모험일지를 보여드릴게요.				레나
+QUEST_20170912_006208	You have rewards to receive from your Adventure Journal resetting content.{nl}Would you like to receive them?	모험일지 초기화항목 보상을 받을 수 있어요.{nl}모험일지 보상을 받으시겠어요?				레나
+QUEST_20170912_006209	I see you have the vouchers.{nl}Alright, let's exchange that for a loving Companion.	교환권을 모아오셨군요.{nl}사랑스러운 컴패니언으로 교환해드리겠습니다.				레나
+QUEST_20170912_006210	You need 20 vouchers in order to receive a Companion.	컴패니언 교환권이 20장 있어야 컴패니언으로 교환해드릴 수 있어요.				레나
+QUEST_20170912_006211	I see you have the vouchers.{nl}Alright, let's exchange that for a Companion.	교환권을 모아오셨군요.{nl}그럼 컴패니언으로 교환해드리겠습니다.				라시아
+QUEST_20170912_006212	You need 20 vouchers in order to receive a Companion.	컴패니언 교환권이 20장 있어야 컴패니언으로 교환해드릴 수 있습니다.				라시아
+QUEST_20170912_006213	You have rewards to receive from your Adventure Journal resetting content and item consumption.{nl}Would you like to receive them?	모험일지 초기화항목과 아이템 소비항목 보상을 받을 수 있어요.{nl}모험일지 보상을 받으시겠어요?				라시아
+QUEST_20170912_006214	You have rewards to receive from your Adventure Journal item consumption.{nl}Would you like to receive them?	모험일지 아이템 소비항목 보상을 받을 수 있어요.{nl}모험일지 보상을 받으시겠어요?				라시아
+QUEST_20170912_006215	Adventure Journal rewards for item consumption can be received until 10 days after the corresponding period resets.{nl}Make sure to receive your rewards, as they cannot be retrieved after that.	모험일지 아이템 소비항목 보상은 초기화 후 10일 이내에 받을 수 있죠.{nl}그 후에는 받을 수 없으니깐 잊지마시고 꼭 보상을 받으세요.				라시아
+QUEST_20170912_006216	Settler
+QUEST_20170912_006217	The crops I planted all died because of some strange energy around here...{nl}I'm a little short-handed though; would you help me get all the dead crops and burn them over the fire?	개간된 농경지에 시험삼아 키운 농작물들이 이상한 기운 때문에 다 죽어버렸다네.{nl}손이 부족해서 그러는데 주변의 밭에서 죽은 농작물들을 모아, 옆의 장작더미에 태워주지 않겠나?				개척민
+QUEST_20170912_006218	{nl}If it's too much for you, you can ask other folks to join. I'll make sure to repay you for your hard work.	{nl}혼자서 힘들다면 다른 사람들을 불러도 괜찮네. 열심히 해주면 내 꼭 보답을 하겠네.				개척민
+QUEST_20170912_006219	Thank you so much. Here's a little gift from the settlers.{nl}If you're free to help us any other time, we'd be much appreciated.	도와줘서 고맙네. 이건 우리 개척민들이 도와준 자네에게 주는 자그마한 선물일세.{nl}혹시 나중에도 도움을 줄 수 있음, 그 때도 잘 부탁하겠네.				개척민
+QUEST_20170912_006220	Hm? This gift is for the people who helped us.{nl}I'm afraid I can't give you anything if you never helped us.	음? 이 선물은 우릴 조금이라도 도와준 사람들을 위해 주는 선물일세.{nl}한 번이라도 도움을 주지 않았던 자네에게는 줄 수 없네.				개척민
+QUEST_20170912_006221	Hmm... Didn't I already give you something today? I got nothing left to give you.{nl}You need to come back a day after you got your last reward; then I might have something for you.	음.. 자네는 이미 오늘의 보상을 받았구먼. 그렇다면 이건 줄 수 없네.{nl}만일 자네가 또 받고 싶다면 보상받은 시간으로부터 하루가 지나고 도와주러 오게나.				개척민
+QUEST_20170912_006222	Sorry, we don't need help anymore. All the work's done, you see.{nl}If you still want to help, you can come back in a while or tomorrow.	미안하지만 지금은 도와줄 필요가 없네. 필요한 일이 끝나버렸으니 말일세.{nl}만약 도와주고 싶다면 이따가 오거나 내일 다시 오게나.				개척민
+QUEST_20170912_006223	I heard Fedimian was safe again so I came all the way here... Well, not only was that wrong, I even got attacked by monsters, can you believe?{nl}If it's not asking too much, would you pick up some of the things I dropped when I was running away?	아이고, 페디미안이 정비됐다는 소문을 믿고 왔더니 완전 속은데다 몬스터의 습격까지 받고.. 이게 뭐람..{nl}이보게, 혹시 괜찮다면 도망치다 떨어뜨린 내 물건들 좀 주워다주지 않겠나?				행상인
+QUEST_20170912_006224	Oh! Thank you, my friend! But, you see, I was carrying a lot of things. I'm so sorry, but would you pick up some more?{nl}If it's too much, you can get some of your friends to help. I'll make sure to pay you back.	오오, 고맙네, 고마워! 하지만 들고온 게 너무 많아서 말이야. 미안하지만 조금만 더 부탁하네.{nl}힘드면 자네의 동료들도 불러와도 좋네. 내 물건을 거의 다 찾아준다면 보답을 꼭 해주겠네.				행상인
+QUEST_20170912_006225	Oooh! My goodness, I thought the monsters had stolen this!{nl}This is expensive, too, I don't know what I would have done if it was gone! Thank you, thank you!	아아아!! 세상에나, 몬스터가 가져갈 줄 알았는데 이걸 가져와주다니!{nl}워낙 비싼 거라서 사라졌다면 땅을 치고 울었을건데, 정말로 고맙네!				행상인
+QUEST_20170912_006226	Hm? That's my ledger! Boy, I feel so relieved. You really saved me, huh.{nl}Thank you. A merchant's ledger is their entire life, you know.	음? 그건 내 소중한 장부가 아닌가! 하마터면 정말 생명과도 같은 것을 잃을 뻔 했구먼.{nl}고맙네, 정말 고마워. 이 장부는 내 상인 생활의 전부이자, 내 발자취이기도 하다네.				행상인
+QUEST_20170912_006227	Thank you for finding my things! Here's a little gift from me.{nl}It isn't much, but I hope you like it.	물건들을 찾아줘서 고맙네! 이건 도와준 답례로 주는 내 작은 선물일세.{nl}변변찮은 거지만 조금이나마 기뻐해주면 좋겠구먼.				행상인
+QUEST_20170912_006228	Hey, you didn't help find any of my goods, did you?{nl}I'm sorry then, but there's no gift for you. Go back, will you?	자네는 다른 사람들처럼 내 교역품을 찾아주거나 하지 않았잖은가.{nl}자네에게는 이 선물을 줄 수 없네. 돌아가게.				행상인
+QUEST_20170912_006229	Hm? You... already got a gift somewhere else, didn't you?{nl}I'm sorry, but the gifts are limited, I'm afraid I can't give you one.	음? 자네.. 이미 다른 곳에서 선물을 받았나 보구먼.{nl}미안하네만 이 선물이 워낙 귀중해서 주고 싶어도 그 수가 제한되어 있다네.				행상인
+QUEST_20170912_006230	I can't believe I have to go back with nothing left now.{nl}I'll have to hope I have more luck next time.	손해만 보고 이대로 돌아가야하다니 정말 속이 쓰리구먼.{nl}이번의 실패를 발판 삼아 다음번엔 꼭 큰 돈을 벌어내고 말테다.				행상인
+QUEST_20170912_006231	Are you all out of holy water? Here, have some.{nl}Come see me again if you need more.	성수가 없으시다고요? 그랬군요, 여기있습니다. 받아가세요.{nl}만일 병 안의 성수가 다 떨어지면 저를 다시 찾아와주세요.				사제
+QUEST_20170912_006232	Oh, you're all out of holy water. Here, I'll give you some more.{nl}There you go, all set to purify the landmarks.	성수가 다 떨어지셨군요. 자, 다시 채워드렸습니다.{nl}상징물의 정화를 잘 부탁드려요.				사제
+QUEST_20170912_006233	You haven't used any of your holy water!{nl}Go to the landmarks and use it there. I'm counting on you.	아직 성수를 하나도 사용하지 않으셨네요.{nl}상징물에 다가가서 성수를 사용하시면 됩니다. 잘 부탁드려요.				사제
+QUEST_20170912_006234	Thank you for your help. Here's a little gift for the trouble.{nl}Do come and help me again whenever you're free.	고생하셨습니다, 도와주신 답례로 여기 작은 선물을 준비했습니다. 받아주세요.{nl}다음에도 괜찮으시다면 또 오염될 이곳을 정화하는 작업을 도와주러 와주세요.				사제
+QUEST_20170912_006235	Oh, I'm sorry. This gift is only for those who are helping me.{nl}I can't give this to you if you're not helping. I'm sorry.	아.. 죄송하지만 이 선물은 제 일을 도와드린 분께만 나눠드리고 있습니다.{nl}도움을 주지 않은 분께는 이 선물을 드릴 수 없습니다. 죄송해요.				사제
+QUEST_20170912_006236	You already have today's gift, I see. I'm sorry, but I can't give you any more.{nl}If you'd like another one, you can come back one day after you got your last gift.	이미 오늘의 선물을 받으셨군요. 죄송하지만 더 이상은 받으실 수 없습니다.{nl}또 받고 싶으시다면 받은 시간으로부터 하루가 지난 후에 도와주러 와주세요.				사제
+QUEST_20170912_006237	I'm sorry, all the work is done now.{nl}Feel free to come see me again in the future.	죄송하지만 석상을 정화하는 일은 이미 끝났습니다.{nl}괜찮으시다면 나중에 도움이 필요할 때 다시 찾아주세요.				사제
+QUEST_20170912_006238	Attention
+QUEST_20170912_006239	You have progress saved in this gimmick. Do you want to reset the gimmick and participate?{nl}Resetting the gimmick will delete all data related to your participation in it, including gimmick items.	이전에 기믹을 진행한 기록이 남아있습니다. 기믹을 초기화하고 해당 기믹을 참가하겠습니까?{nl}초기화하면 이전에 참여한 기믹의 정보 및 가지고 있던 기믹 아이템은 초기화됩니다.				주의
+QUEST_20170912_006240	Select the area to enter.	입장하시려는 지역을 선택해 주세요.				이동
+QUEST_20170912_006242	I'm exchanging items obtained in the Earth Tower for other useful items.{nl}For a limited time only, I'm doing the service free of charge!	대지의 탑에서 얻은 아이템을 다른 아이템으로 교환해드리고 있습니다.{nl}지금은 특별히 무료로 교환해드리지요.				교환원
+QUEST_20170912_006243	If you give me an item obtained inside the Earth Tower and a few materials, I can exchange that for a different item.	대지의 탑에서 얻은 아이템을 소정의 재료를 지불하시면 다른 아이템으로 교환해드리고 있습니다.				교환원
+QUEST_20170912_006244	Participation in this event is limited to 1 times per day, with 1 buff corresponding to 1 reward.	하루에 2번까지 참여 가능하지만 보상은 버프 당 1번입니다.	QUEST_20170709_006060	Participation in this event is limited to 4 times per day, with 1 buff corresponding to 1 reward.	하루에 4번까지 참여 가능하지만 보상은 버프 당 1번입니다.	이벤트 알림판
+QUEST_20170912_006245	Meow
+QUEST_20170912_006246	Participate in the Team Batlle League to win rewards.	팀 배틀 리그에 참여 하시면, 보상을 받을 수 있습니다.				발리스
+QUEST_20170925_006248	The Masters' Unit event is now open.	마스터와 함께 이벤트가 진행 중입니다.				이벤트 알림판
+QUEST_20170927_006251		 그리고 모데스타스씨가 보는 앞에서 수상한
