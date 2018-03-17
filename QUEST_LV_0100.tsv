@@ -16977,3 +16977,398 @@ QUEST_LV_0100_20170912_016976	Team Battle League Valis
 QUEST_LV_0100_20170912_016977	Try Fishing		
 QUEST_LV_0100_20170912_016978	Talk to Fishing Manager Joha in Klaipeda.
 QUEST_LV_0100_20170912_016979	Let the Fishing Manager in Klaipeda tell you all about how to fish.
+QUEST_LV_0100_20171128_016980	If I wasn't for the migration order from Orsha, I may have been wandering, homeless.{nl}{nl}	오르샤 이주령이 아니였다면 정처없이 떠돌며 살았을지도 몰라요.{nl}{nl}				리만타스
+QUEST_LV_0100_20171128_016981	Are you doing the instanced dungeon tutorial?	인스턴스 던전에 대한 튜토리얼을 진행 중이시군요?	QUEST_LV_0100_20170313_016854	You can enter the instanced dungeon via this Notice Board.{nl}{nl}Intanced dungeons in other regions can also be accessed via their corresponding Notice Board, so keep that in mind.	인스턴스 던전은 해당 알림판을 통해 입장이 가능합니다.{nl}{nl}다른 지역의 인스턴스 던전도 특정 알림판을 통해 입장이 가능하니 참고하시기 바랍니다.	경비병 리엔
+QUEST_LV_0100_20171128_016982	{nl}You can level up faster with the dungeons.{nl}Although, of course, it's always a little dangerous.	{nl}해당 던전에서는 캐릭터를 더욱 빠르게 성장시킬 수 있어요.{nl}물론 위험을 감수해야 하지만요.	QUEST_LV_0100_20170313_016855	{nl}{nl}To enter the instanced dungeon, interact with the Notice Board one more time.	{nl}{nl}인스턴스 던전에 입장하시려면 해당 알림판에 다시 말을 걸어보세요.	경비병 리엔
+QUEST_LV_0100_20171128_016983	{nl}You can come to me whenever you want to use an instanced dungeon.{nl}If you want to enter now, would you let me know again?	{nl}앞으로 인스턴스 던전에 입장하시려면 절 찾아오시면 돼요.{nl}지금 당장 인스턴스 던전에 입장하시려면 저에게 다시 말을 걸어 주시겠어요?				경비병 리엔
+QUEST_LV_0100_20171128_016984	Revelator Pudhin 	계시자 푸덴				
+QUEST_LV_0100_20171128_016985	Hm...?{nl}I meet many different people here due to unexpected circumstances. 	음..?{nl}이런 곳에서 다른 분을 만나뵙다니 예상치 못한 일이로군요.{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016986	Are you, by chance, a Revelator?{nl}Did you come because you also heard the rumors about Goddess Jurate and the Loremasters?{nl}	당신은 혹시 계시자이십니까?{nl}당신도 유라테 여신과 전승자들에 관한 소문을 듣고 오셨습니까?{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016987	After Medzio Diena, rumors spread that the sea turned to land and demons appeared.{nl}And, to protect Goddess Jurate's domain, her priests also appeared. 	신수의 날 이후, 바다였다가 땅이 된 곳에 마족들이 나타났다는 소문이 파다합니다.{nl}그리고 유라테 여신의 영역을 지키기 위해 유라테의 옛 사제들이 나타났다는 이야기도요.{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016988	I heard these rumors and came here to help the Loremasters of Goddess Jurate defeat the demons.{nl}I was delivering the necessary supplies.{nl}	저는 그 소문을 듣고 이렇게 찾아와 유라테 여신을 모시는 전승자들을 도와 마족을 물리치고 있습니다.{nl}지금은 부족한 물자를 나르던 도중이였습니다.{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016989	But as I was moving the supplies, monsters appeared and took them and now I'm not sure what to do.{nl}If you are a follower of Goddess Jurate, would you mind lending me a hand?	헌데 물자를 옮기려고 놔둔 사이 몬스터들이 들고가버려서 곤란해 처해있던 상황입니다.{nl}당신도 유라테 여신에 관심이 있다면 저를 조금 도와주시겠습니까?				계시자 푸덴
+QUEST_LV_0100_20171128_016990	Thank you.{nl} I will look around Husk Bridge, so please check if the monsters went another way.	감사합니다.{nl}그럼 껍질다리 쪽은 제가 살펴볼테니, 다른 쪽으로 몬스터들이 들고 갔는지 확인 부탁드립니다.				계시자 푸덴
+QUEST_LV_0100_20171128_016991	Please be quick.{nl}As the number of demons increase so does the need for supplies. Everyone is becoming weary.	서둘러서 찾아야겠습니다.{nl}계속 마족이 늘어나고 있어 물자도 부족해지고, 다들 지쳐가고 있어요.				계시자 푸덴
+QUEST_LV_0100_20171128_016992	Oh you found them all.{nl}I was starting to get worried when I found nothing around Husk Bridge...{nl}	오 모두 찾아오셨군요.{nl}껍질 다리쪽에서는 아무것도 찾지 못해서 낭패였는데..{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016993	Thank goodness.	다행입니다.				계시자 푸덴
+QUEST_LV_0100_20171128_016994	Hm...?{nl} You would like to know exactly what happened here?	음..?{nl}이곳에서 일어나는 일에 대해서 상세히 알고 싶으시다구요?				계시자 푸덴
+QUEST_LV_0100_20171128_016995	Recently there were talks of an appearance by Goddess Jurate at Igyti Seashore.{nl} After that, to carry out the Goddess' meaning, Loremaster's began appearing around the Coral Plains.{nl}	최근 이기티 연안에서 유라테 여신께서 다시 나타나셨다는 이야기가 있었습니다.{nl}그 후 전승자들은 다시 유라테 여신의 뜻을 행하기 위해 산호평원 곳곳에 나타나기 시작했습니다.{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016996	And upon hearing this news, Revelators also gathered to help Goddess Jurate and the Loremasters.{nl} In this place, demons trying to take Goddess Jurate domain have appeared and are creating quite the headache.	그리고 그 소식을 들은 계시자들도 유라테 여신과 전승자들을 돕기위해 모여들기 시작했구요.{nl}이 곳은 유라테 여신의 영역을 뺏으려는 마족들이 나타나 골머리를 썩고 있습니다.{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016997	Recently Loremasters with the strength of the Revelators are forcing the demons out.{nl} But the demons have placed suspicious devices here and there on the coast thus accelerating their return.{nl} If the rumors are correct, other coasts and the Coral Plains are also under attack.	최근 전승자들은 계시자들과 힘을 합쳐 마족을 몰아내고 있습니다.{nl}하지만 마족들이 수상한 장치를 해안 곳곳에 세우고 마족들이 넘어오는 속도가 더욱 빨라졌습니다.{nl}소문에 의하면 다른 해안이나 산호평원들도 마족들의 공격이 시작되었다고 하는 군요.{nl}				계시자 푸덴
+QUEST_LV_0100_20171128_016998	This area's Loremasters also heard Goddess Jurate's words and were fired up to fight, but it's still a difficult battle.	이 곳의 전승자들도 유라테 여신의 말씀을 듣고 고무되어 싸우고 있습니다만, 아직 힘겨운 상황입니다.				계시자 푸덴
+QUEST_LV_0100_20171128_016999	If you go a little further down, in Mopuli Lowlands is Ugnius, the leader of this area's Loremasters.{nl}Meeting with him would be good. 	조금 내려가시면 모프리 저지대에 이 근방 전승자들을 이끌고 계신 우그뉴스님이 계십니다.{nl}그분께 들어보시는게 좋겟습니다.				계시자 푸덴
+QUEST_LV_0100_20171128_017000	Ah, the road ahead is filled with savage monsters so please be careful.{nl}But if you are able to clear the road of them, I would be thankful.	아, 내려가는 길에 흉포해진 몬스터들이 꽤 있으니 조심하셔서 내려가시기 바랍니다.{nl}가능하시면 가는 길에 흉포해진 몬스터들을 몰아내주시면 감사하겠습니다.				계시자 푸덴
+QUEST_LV_0100_20171128_017001	Loremaster Ugnius	전승자 우그뉴스				
+QUEST_LV_0100_20171128_017002	This is where I meet with others. Are you a Revelator?	이런 곳에서 사람을 뵙다니, 당신은 계시자이십니까?				전승자 우그뉴스
+QUEST_LV_0100_20171128_017003	Please say that you will deliver the supplies to Ugnius.{nl}Then please travel safely.	우그뉴스님께 곧 물자를 가지고 내려가겠다고 말해주세요.{nl}그럼 무사히 가시길.				계시자 푸덴
+QUEST_LV_0100_20171128_017004	Ah, you are the Revelator who accepted the request from Pudhin.{nl} Thank you for your help.	아, 푸덴님의 부탁으로 도와주러 오신 계시자시군요.{nl}도와주셔서 감사합니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017005	Now that I think about it, you seem to be the Revelator that other Loremaster's have talked about..{nl} Are you the Revelator who helped us at Igyti Seashore?{nl}	그러고보니 혹시 다른 전승자들에게 들었던 계시자님이신 것 같은데..{nl}혹시 이기티 연안에서 저희를 도와주신 계시자님 이십니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017006	Yes, you are the Revelator from those rumors.{nl}I heard Berta and Daroul received a great amount of help from you at Igyti Seashore. 	호, 당신이 그 소문의 계시자님이 맞으시군요.{nl}이기티 연안에서 베레타와 다룰이 많은 도움을 받았다고 들었습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017007	Thanks to you we were able to hear Goddess Jurate again.{nl}From the goddess we were told that the demons want to corrupt both Eperotao Coast and Sorfus Coast and in order to make it their own.{nl}	당신 덕분에 저희 전승자들은 유라테 여신의 말씀을 다시 들을 수 있었습니다.{nl}여신께서는 최근 마족이 에페로타오 해안과 소르퍼스 해안을 오염시키고 자신들의 영역으로 삼으려고 한다고 하셨습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017008	She requested that we get rid of the demons.{nl}And bcause of the help we've received from Revelators, we've been able to fight like this, thus far, but our strength is still lacking.	그리고 우리들에게 마족을 몰아낼 것 을 부탁하셨습니다.{nl}계시자님들의 도움을 받아 이렇게 싸우고 있습니다만, 여전히 힘이 부족한 상황입니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017009	Recently, as a form of sabotage, the demons destroyed the altar where we performed rituals to Goddess Jurate and this has fatigued us.{nl}	최근 마족들의 방해공작으로 유라테 여신을 위한 의식을 행하던 제단도 파괴된 상태고 모든게 힘든 상태군요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017010	Oh, can you help us?{nl}We would be more than grateful.{nl}	오 당신께서 도와주시겠습니까?{nl}저희야 감사할 뿐이지요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017011	If that's the case, could you carefully check the Sacred Coral Reef?{nl}That's where Goddess Jurate alter is located, but not too long ago it was attacked by demons{nl}	그렇다면 축복의 산호초를 살펴보고 와주시겠습니까?{nl}그 곳에는 유라테 여신을 위한 제단이 있습니다만, 얼마전 마족에게 공격 받았습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017012	The Loremaster Narius went there to repair the altar but he has yet to return.{nl}Recently, because of the effect from demons, the monster there have become more violent causing us to have a hard time sending someone to bring him back.	그 제단을 수리하러 간 전승자 내리우스가 돌아올 시간이 지났는데도 돌아오지 않고 있습니다.{nl}최근 마족의 영향인지 이 곳의 몬스터들도 흉포해져서 제가 다녀오기에는 조금 위험해서 곤란하던 차였습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017013	So, I ask this of you.{nl}If you could go to the Sacred Coral Reef and check on Loremaster Narius' situation and why he has yet to return, I would be grateful.	그럼 부탁드리겠습니다.{nl}축복의 산호초로 가셔서 전승자 내리우스에게 별 일이 없는건지, 왜 아직 안 돌아오고 있는지 알아봐주시면 감사하겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017014	Loremaster Narius	전승자 내리우스				
+QUEST_LV_0100_20171128_017015	Uhg..thank you for helping me.{nl}Thanks to you I'm still alive.	으윽.. 도와주셔서 감사합니다.{nl}당신 덕분에 살았습니다.				전승자 내리우스
+QUEST_LV_0100_20171128_017016	It wasn't supposed to be a difficult task..{nl}After destroying the alter the demons left so without a Revelator's help I went alone, but what happened..	별 일 없어야 할텐데..{nl}마족들이 제단을 파괴하고 돌아간 직후라 계시자의 도움 없이 혼자 갔던 건데, 무슨 일이 일어난건지..				전승자 우그뉴스
+QUEST_LV_0100_20171128_017017	Ah, you are the Revelator sent by Ugnius.{nl}Thanks to you I'm alive.	아, 우그뉴스님이 보내신 계시자님이시군요.{nl}덕분에 살았습니다.{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017018	As I was repairing the alter, monsters suddenly swarmed me and attacked.{nl}When the demons ran away after destroying the alter something seems to have called the monsters to this area.	제단을 보수하던 중 갑자기 몬스터들이 몰려들어 공격했습니다.{nl}마족들이 아무래도 제단을 파괴하고 도망치면서 인근에 무언가 술수를 부린 것 같습니다.{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017019	I'm sorry, but could you help me please?	죄송하지만 저를 조금 도와주시겠습니까?				전승자 내리우스
+QUEST_LV_0100_20171128_017020	Then, could you please go back and bring Loremaster Ugnius?{nl}The monsters attacked by legs and I'm bleeding too much to move.{nl}	그럼 돌아가셔서 전승자 우그뉴스님을 불러주시겠습니까?{nl}몬스터에게 발을 공격당했습니다만, 출혈이 심해서 움직이기가 힘듭니다.{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017021	The bleeding has stopped but I'm still in a difficult spot so please bring Ugnius here.{nl}Because of the monsters I wouldn't advise that he come alone, so please have either you or another Revelator protect him.{nl}	지혈을 하긴 했지만 곤란한 상황이니 우그뉴스님을 불러주세요.{nl}그분 혼자서 오시기에는 최근 몬스터들이 흉포해져서 당신이나 계시자님이 지켜주셔야 할 겁니다.{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017022	On your way back, please defeat Nimrah Damsels and collect their coral powder. Ugnius can use it to help treat my wounds. {nl}I'm sorry, but I must ask you for this favor.	가는 길에 니므라댐즐를 해치우고 그들이 가진 산호가루를 모아가시면 아마 우그뉴스님께서 저를 치료하시는데 도움이 될 겁니다.{nl}죄송하지만 부탁드리겠습니다.				전승자 내리우스
+QUEST_LV_0100_20171128_017023	Hm..?{nl} Narius was attacked by monsters and was wounded?{nl}	음..?{nl}내리우스가 몬스터들에게 공격받아 부상을 당했다구요?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017024	This is a problem.{nl}But I'm grateful that you collected Nimrah Damsel coral powder.{nl}	허 큰일이군요.{nl}그래도 다행히 계시자님께서 니므라댐즐의 산호가루를 가져오셔서 다행입니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017025	If you sprinkle this powder on the wound and treat it, it helps heal serious injuries.{nl}We use the material from monsters in this area as medicine.	이 가루를 상처에 뿌리고 치료를 행하면 급한 상처를 막을 수 있을 겁니다.{nl}이 근방 몬스터들이 약으로 사용하는 재료이지요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017026	Please hurry.{nl} I ask of you..	조금만 서둘러주세요.{nl}부탁드립니다..				전승자 내리우스
+QUEST_LV_0100_20171128_017027	There is no time to waste, we must hurry.{nl}Could you please protect this old man until the Sacred Coral Reef?{nl}	시간이 없으니 서둘러 이동하도록 하지요.{nl}죄송하지만 이 늙은이를 축복의 산호초까지 지켜주시겠습니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017028	The monsters have become more violent and more prone to attack, recently.{nl}I can handle one or two, but if three appear I will be in hot water.	최근 몬스터들이 흉포해져서 달려드는 경우가 많습니다.{nl}한, 두마리라면 이 늙은이가 어떻게 해보겠습니다만, 서넛이 달려들면 어쩔 수 없더군요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017029	Then I will ask that you help.{nl}Let's move quickly.	그럼 부탁드리겠습니다.{nl}서둘러서 가지요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017030	Thanks to you, I've finished treating Narius.{nl}At first glance, it may seem that all is well, but due to the loss of blood, he needs to rest a bit more.	덕분에 내리우스의 응급처치는 끝냈습니다.{nl}겉으로는 별 문제 없어보이지만, 출혈에 의해 많이 힘든 것 같으니 조금 쉬게해야겠습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017031	Sorry but, in Narius's stead, could you please collect the material needed to perform the ritual?	죄송하지만 내리우스를 대신해서 의식에 사용할 재료를 모으는 것을 도와주시겠습니까?				전승자 우그뉴스
+QUEST_LV_0100_20171128_017032	Then I will ask for your help.{nl}If you go down there you will see Blue Coral.{nl}	그럼 부탁드리겠습니다.{nl}아래 쪽으로 가시면 푸른 산호초가 있을겁니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017033	Please bring back some.{nl}For regular rituals to the goddesses' we use sacred herbs or tributes as an offering.{nl}	그것들을 조금 가져다 주십시오.{nl}일반적인 여신들의 의식에는 의식에 사용되는 신성한 약초나 공물을 받칩니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017034	But for Goddess Jurate we usually offer coral or handcrafted coral ornaments.{nl}But, since we are in a rush, first dig up some Blue Coral and we will offer them to the Goddess. 	하지만 유라테 여신께는 보통 산호초나 세공된 산호장식을 헌납하지요.{nl}일단 시간이 없고 급하니 푸른 산호초를 캐다가 여신께 받쳐야 겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017035	If you dig up and bring back the Blue Coral, I will be thankful.{nl}We must hear the voice of the Goddess again.	푸른 산호초를 캐다주시면 감사하겠습니다.{nl}여신께 다시 한번 말씀을 들어봐야겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017036	Oh, you finished so fast.{nl}Alright, time to prepare the ritual.	오, 빨리 가져오셨군요.{nl}그럼 의식을 준비하겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017037	Are preparations complete?{nl}I will start the ritual ceremony.	준비가 되셨습니까?{nl}의식을 시작하겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017038	Did you hear the voice of the Goddess?{nl}	여신의 말씀을 들으셨습니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017039	{nl}The Goddess asked an important task of you and requested that I help.{nl}You may be a special Revelator, yet.{nl}	여신께서는 당신에게 중대한 일을 부탁했다며, 당신을 도우라고 하셨습니다.{nl}당신은 특별한 계시자인지도 모르겠군요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017040	Can you go to Aitheo Coast first?{nl}I will watch over Narius' condition until Revelator Pudhin arrives and then follow after you.	먼저 아이테오 해안으로 가주시겠습니까?{nl}저는 내리우스의 상태를 살피다가 계시자 푸덴이 이쪽으로 오면 뒤따라 가겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017041	Then go first and find Revelator Nichi.{nl}Help her and I will follow soon after.	그럼 먼저가서 계시자 니치를 찾아주세요.{nl}그녀를 돕고계시면 금세 뒤따라 가겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017042	Revelator Nichi	계시자 니치				
+QUEST_LV_0100_20171128_017043	An ordinary person here? Who are you?{nl}	이런 곳에 일반인이라니, 누구시죠?{nl}				계시자 니치
+QUEST_LV_0100_20171128_017044	Revelator, I'm sorry, but can I make a request?{nl}	계시자님 죄송하지만 부탁하나만 드려도 될까요?{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017045	I was collecting materials to repair the altar, when I noticed demons roaming around Tolata Sandbank.{nl}Demons sometimes appear in Aitheo Coast, but this region was still safe from them.	제가 제단의 수리를 위해 재료를 모으러 돌아다니다 트라타 모래톱에서 마족이 어슬렁거리는 것을 보았습니다.{nl}아이테오 해안에서는 마족이 종종 나타나고 있지만 이 지역은 아직 마족이 나타나지 않던 지역입니다.{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017046	The area of the destroyed altar and where they appeared in Tolata Sandbank are suspicious.{nl}I'm sorry, but could you investigate that area?	제단을 파괴한 것과 트라타 모래톱에 나타난 것도 모두 수상합니다.{nl}죄송하지만 그 곳을 조금 조사해 주시겠습니까?				전승자 내리우스
+QUEST_LV_0100_20171128_017047	Then I leave that to you.{nl}Please check what those demons are planning at Tolata Sandbank.	그럼 부탁드리겠습니다.{nl}마족들이 트라타 모래톱에서 무슨 일을 꾸미고 있는지 확인해주세요.				전승자 내리우스
+QUEST_LV_0100_20171128_017048	They destroyed the altar but what else are they planning...	제단 파괴에 이어서 또 무슨 일을 꾸미고 있는건지..				전승자 내리우스
+QUEST_LV_0100_20171128_017049	This Red Crystal..?{nl}	이 붉은 수정은..?{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017050	It's emitting an evil energy.{nl}But it's unclear if there is a connection between this and the increase in violent monsters.{nl}	사악한 기운이 내뿜어져 나오는 군요.{nl}아무래도 최근 몬스터들이 흉포해진 것도 이것과 관련이 있을지도 모르겠습니다.{nl}				전승자 내리우스
+QUEST_LV_0100_20171128_017051	I'll look into this.{nl}Thank you for your help.	제가 한번 조사해보겠습니다.{nl}도와주셔서 감사합니다.				전승자 내리우스
+QUEST_LV_0100_20171128_017052	Ah, Loremaster Ugnius sent you?{nl}Then you are also a Revelator.{nl}	아, 전승자 우그뉴스님께서 보내셨군요?{nl}그렇다면 당신도 계시자시겠군요.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017053	I'm Revelator Nichi, a helper of the Loremasters.{nl} Here, at the Aitheo Coast, I've been fighting off the demon provoked Nimrah and Varle.  	저는 전승자들을 돕고있는 계시자 니치라고 합니다.{nl}이 곳, 아이테오 해안은 최근 마족들의 사주를 받은 니므라족과 바를족의 공격을 받고 있습니다.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017054	From one day the number of Nimrah and Varle increased, and a suspicious device was set on a corrupted sandbank causing me to think that there is some plan behind this.	어느날부터 니므라족과 바를족이 급증했고, 오염된 모랩톱에 수상한 장치를 세우고 무언가 일을 꾸미고 있는 것 같습니다.				계시자 니치
+QUEST_LV_0100_20171128_017055	Hm..then the objective of the Nimrah and Varle is to occupy this coast.{nl}Because of the sealed Goddess' relics, the demons..{nl}	음.. 그러면 니므라족과 바를족의 목적은 이 해안을 점령하는 것이겠군요.{nl}마족이 봉인한 여신의 성물이라..{nl}				계시자 니치
+QUEST_LV_0100_20171128_017056	There is a questionable location.{nl}I'll search one spot so could you check the occupied lowlands?{nl}	의심이 가는 곳들이 있습니다.{nl}제가 한 곳을 살펴보고 올테니 점거당한 저지대를 살펴보고 와주시겠습니까?{nl}				계시자 니치
+QUEST_LV_0100_20171128_017057	There is nothing special about the low lands, but recently the Nimrah have flocked to occupy it.{nl}I'm not sure if that has something to do with all this.	별 특징이 없던 저지대였는데 최근 니므라족이 몰려오면서 그 곳을 점령했습니다.{nl}이 일과 상관이 있을지도 모르겠군요.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017058	Please clear the occupied lowlands of its patrols and of the Nimrah and Varle that are in the area.{nl} I'll check another location as well.	점거당한 저지대의 정찰과 그 인근의 니므라족과 바를족의 소탕을 부탁드리겠습니다.{nl}저는 다른 지역을 살펴보고 오도록 하겠습니다.				계시자 니치
+QUEST_LV_0100_20171128_017059	I'll leave it to you to clear the lowlands of its patrols and of the Nimrah and Varle in the area.{nl}	점거당한 저지대의 정찰과 인근의 니므라족과 바를족의 소탕을 부탁드립니다.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017060	First we must weaken the evil seal in order to purify the holy relic.{nl} If we use the ocean's energy to awaken the relic's power, we may be able to vanquish the evil aura. 	일단 이 성물의 마기를 씻어내서 봉인을 약하게 만들어야 겠습니다.{nl}바다의 기운으로 성물의 힘을 이끌어내면 마기를 씻어 낼 수 있을 것 같습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017061	You're back?{nl}I heard from Revelator Nichi.	다녀오셨습니까?{nl}계시자 니치님께 이야기는 들었습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017062	Hm..They created a magic circle and were performing a ritual ceremony..?{nl}It seems that the holy relic in that area is sealed and suppressed so that we are unable to find it.{nl}	흠.. 마법진을 만들고 의식을 행하고 있었다고요..?{nl}아무래도 그 곳에 성물을 봉인하고 우리가 못 찾도록 억누르고 있는 것 같습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017063	As we investigate another location, could you break the magic circle?{nl} If the demons really are performing a ritual and are suppressing the holy relic, it will not be easy to break.{nl}	저희가 다른 곳을 알아볼테니 그동안 마법진을 파괴해 주시겠습니까?{nl}마족의 의식을 행하고 있고, 성물을 억누르고 있는게 맞다면 쉽게 마법진을 파괴 할 수 없을 것 입니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017064	Take this with you.{nl}It might prove helpful when breaking the demon's magic circle.{nl}	이 성물을 가지고 가십시오.{nl}마족의 마법진을 파괴하는데 도움을 줄 것 입니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017065	Be safe.	부디 잘 부탁드립니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017066	Of course, it would be best if you found Goddess Jurate's second holy relic.{nl}From what the Goddess says, without it we will not be able to destroy the demon device. 	무사히 유라테님의 두 번째 성물을 되찾으면 좋겠군요.{nl}여신의 말씀대로라면 두 번째 성물을 찾지 못하면 마족의 장치를 파괴 할 수 없습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017067	Oh, that's the Goddess' holy relic!{nl}As shown with the sacrifice tools from the ancient records.{nl}	오, 그 물건은 여신의 성물이 맞는 것 같습니다!{nl}고대 문헌에서 보던 제사 도구와 동일 하군요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017068	Due to the demons, the Divine Energy was sealed. 	헌데, 마족에 의해 신성력이 봉인 된 것 같습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017069	If you go to Kite Coral Reef you will find Ancient Coral Rock and Blue Coral.{nl}This Ancient Coral was blessed by Goddess Jurate and carries with it a strong energy from the ocean. 	카이트 산호초로 가시면 오래된 산호 바위와 푸른 산호들이 있습니다.{nl}이 것들은 오래된 산호들로 유라테 여신의 축복을 받아 강한 바다의 기운을 가지고 있습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017070	If you take the Sealed Relic there and touch it against the Coral, the energy of the ocean will repel the evil and purify the relic.{nl}But keep in mind that if all of the ocean's energy is released, the Coral will need time to recharge. 	봉인된 성물을 그 것들에게 가져다 대시면 바다의 기운이 마기에 반발해서 씻어내기 시작할 겁니다.{nl}하지만 바다의 기운을 다 발산하면 산호에 다시 기운이 모이는데 시간이 걸리니 주의하십시오.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017071	I'll leave this to you.{nl}While you are removing the evil from the holy relic, I will prepare the restoration.	그럼 성물을 잘 부탁드립니다.{nl}저는 계시자님께서 성물의 마기를 씻어오시면 복원할 준비를 하겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017072	You've returned?{nl}Oh, the evil has been completely vanquished from the holy relic! 	다녀오셨습니까?{nl}오, 성물의 마기가 다 씻겨 나갔군요!				전승자 우그뉴스
+QUEST_LV_0100_20171128_017073	I'll begin restoring the relic.{nl}While I'm doing that, could you please report back to me about the Corrupted Sandbank?{nl}	저는 가져오신 성물을 복원하고 있겠습니다.{nl}그 동안 오염된 모래톱을 정찰하고 와 주십시겠습니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017074	The demons could be on the move since we took the sealed relic.	봉인해둔 성물을 빼았겼으니 마족도 뭔가 반응을 할 것 입니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017075	Alright, I'll leave the Corrupted Sandbank in your hands.{nl}There may be attacks against other Revelators as well, so please prepare.{nl}	그럼 오염된 모래톱의 정찰을 부탁드리겠습니다.{nl}다른 계시자 분들께도 마족의 공격을 대비해서 준비를 하도록 부탁드려야겠군요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017076	And it would be a great help if you could cut down the number of Nimrah and Varle in the area.	그리고 가능하시면 인근의 니므라족과 바를족의 숫자도 줄여주시면 감사하겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017077	Carefully examine the situation at the Corrupted Sandbank.{nl}There might be some changes to the Demon Device. 	오염된 모래톱의 상황을 살펴주십시오.{nl}마족이 세운 이상한 장치에 변화가 있을지도 모르겠군요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017078	The demons are arriving through a portal?{nl}The demons have set their sights on this area as well.{nl}	마족들이 포탈로 넘어오기 시작했다구요?{nl}이 곳도 마족의 공습이 시작된 것 같군요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017079	It seems the small devices amplify the Kruvina that the Goddess spoke of, which then sends out an evil energy. 	아무래도 저 작은 장치는 여신께서 말씀하신 크루비나라는 것을 증폭시키거나 사악한 기운을 퍼트리는 장치인것 같습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017080	The restoration is complete.{nl}The time has come to destroy that Suspicious Device.	성물의 복원이 모두 끝났습니다.{nl}이제 저 수상한 장치를 파괴할 시간입니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017081	You have proven your skill, so you'll come with me to destroy the device.{nl}I will tell the other Revelators to head off any potential disruptions.{nl}	계시자님께서 실력이 가장 좋으신 것 같으니 저와 함께 장치를 파괴하러 가시지요.{nl}다른 계시자 분들께 다른 곳에서 몰려 오는 것을 막아달라고 하겠습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017082	Go to the Corrupted Sandbank first and I'll follow after you.{nl}We'll meet there.	오염된 모래톱으로 가시면 뒤따라 가겠습니다.{nl}그곳에서 뵙지요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017083	Alright, then I'll meet you at the Corrupted Sandbank.{nl}	그럼 오염된 모래톱에서 뵙겠습니다.{nl}저는 다른 계시자 분들께 일을 맞기고 바로 뒤따라 가겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017084	The device has be successfully destroyed!{nl}Now the Aitheo Coast corruption must be relieved!	장치의 파괴에 성공했습니다!{nl}일단 이것으로 아이테오 해안의 오염은 안심이로군요!				전승자 우그뉴스
+QUEST_LV_0100_20171128_017085	The Demon Device has been destroyed but some parts of the Coast are still corrupted.{nl}We must prepare to purify it. 	일단 마족의 장치를 파괴했지만 이미 해안 일부가 오염되어 버렸습니다.{nl}아무래도 정화를 준비해야 겠군요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017086	The Kruvina is also an urgent matter, but if we leave this area like it is the demons may find a way to ambush us.{nl}The purification ceremony doesn't take long, so let's start.  	크루비나도 시급하지만 이 곳을 그대로 두고 간다면 마족이 뒤에서 우리를 공격할지도 모릅니다.{nl}그리 오래걸리는 작업은 아니니 정화를 행하고 가도록 하지요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017087	Could you take this bottle to Letave Plateau and bring back some Sea Aura?{nl}And on your way, please dig up some Jurate's Moss to use for the ceremony.	그럼 일단 이 병에 바다의 레타베 고지대에 가셔서 바다의 기운이 서린 물을 담아 주시겠습니까?{nl}그리고 가시는 길에 의식에 사용할 유르테스 이끼를 캐다주시면 되겠습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017088	If I ask the other Revelators to find the remaining materials it won't take long. 	나머지 재료는 다른 계시자 분들께 부탁하면 금세 끝낼 수 있을 겁니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017089	You just need to bring back Sea Aura and Yulates Moss.{nl}The Plateau is still free from the influnce of demons.	바다의 기운이 서린 물과 유르테스 이끼를 부탁드립니다.{nl}고지대라면 아직 마족에 의해 오염되지 않았을 겁니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017090	You collected everything so fast.{nl}Thank you. 	오, 금세 모아오셨군요.{nl}감사합니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017091	Preparations for the purification ceremony are complete.{nl}Shall I begin?	정화의 의식을 거행할 준비가 모두 되었습니다.{nl}의식을 시작해도 괜찮겠습니까?				전승자 우그뉴스
+QUEST_LV_0100_20171128_017092	You removed the demon army from the Aitheo Coast{nl}Thank you.{nl}	아이테오 해안의 마족의 군세를 몰아내셨군요.{nl}감사합니다.{nl}				여신 유라테
+QUEST_LV_0100_20171128_017093	However, Kartas' subordinates have become smarter and swifter. {nl}When Kruvina was activated, Eperotao Coast became overrun with demons.{nl}	하지만 카르타스의 수하들은 더 경각심을 가지고 서두르고 있습니다.{nl}크루비나의 작동이 시작되었고 에페로타오 해안은 완전히 마족들에게 점령 당했습니다.{nl}				여신 유라테
+QUEST_LV_0100_20171128_017094	Yet, with the help of the two holy relics, the devices protecting the Kruvina can be nullified and the Kruvina, destroyed.{nl}If the corruption accelerates our power will grow weaker.{nl}	하지만 두개의 성물을 이용하면 크루비나를 지키는 작은 장치들을 무력화 시키고, 거대한 크루비나를 파괴할 수 있을 것 입니다.{nl}오염은 점점 가속화되어가고 있고, 저의 힘은 줄어가고 있습니다.{nl}				여신 유라테
+QUEST_LV_0100_20171128_017095	Please disrupt Kartas' Plans.	카르타스의 계획을 막아주세요.				여신 유라테
+QUEST_LV_0100_20171128_017096	If we are to follow the Goddess, we must be quick.{nl}I'll go on ahead, when you are ready come to Eperotao Coast. 	여신의 말씀대로라면 서둘러야겠습니다.{nl}저는 먼저 가볼테니 준비되시는 대로 에페로타오 해안으로 와주시기 바랍니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017097	Alright then, I will see you at Eperotao Coast. 	그럼 에페로타오 해안에서 뵙겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017098	Would you mind lending a hand?{nl}Thanks to the purification ceremony the corruption was removed, but parts of the Coast still retains an evil energy.{nl} 	저를 조금 도와주시겠어요?{nl}정화의 의식을 통해 오염원은 제거했지만 아직 사악한 기운이 해안 곳곳에 남아있습니다.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017099	I'm planning to purify these areas as well, but doing so alone will take me awhile.{nl}I can finish faster with your help,  so would you mind?	이를 정화하려고하는데 저 혼자서는 사악한 기운을 모두 제거하기에는 너무 오랜 시간이 걸립니다.{nl}조금만 도와주시면 금방 끝날 것 같은데 도와주실 수 있으신가요?				계시자 니치
+QUEST_LV_0100_20171128_017100	Then take this Coral Talisman.{nl} It was made by Loremaster Ugnius.{nl}	그럼 이 산호 부적을 받으세요.{nl}전승자 우그뉴스님께서 만드신 부적입니다.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017101	The talisman will direct you towards the evil energy.{nl}Just be careful since there may be demons or monsters waiting to attack. 	이 부적을 이용하면 사악한 기운을 쫒을 수 있습니다.{nl}단, 부적을 이용해 사악한 기운을 쫒으려고 하면 주변의 마족이나 몬스터가 공격할테니 조심하세요.				계시자 니치
+QUEST_LV_0100_20171128_017102	I'll deal with the other regions so please clear the Husk Reef and the occupied lowlands of its evil energy.	다른 곳은 제가 사악한 기운을 제거할테니 껍질 보초와 점거당한 저지대의 사악한 기운을 부탁드립니다.				계시자 니치
+QUEST_LV_0100_20171128_017103	All done?{nl}I also just returned{nl}	다녀오셨나요?{nl}저도 방금 막 모두 제거하고 돌아왔습니다.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017104	Thanks to you I was able to finish in no time.{nl}Now Aitheo Coast is free from corruption.	덕분에 빠르게 끝낼 수 있었습니다.{nl}이것으로 아이테오 해안의 오염도 안심 할 수 있을겁니다.				계시자 니치
+QUEST_LV_0100_20171128_017105	You still saw some demon forces in the area?{nl}The device was destroyed and the evil energy cleared, but these remnant forces could prove troublesome.	곳곳에 남아있는 마족의 세력들을 보셨나요?{nl}장치도 파괴했고, 사악한 기운도 제거했는데 잔당이 아직 남아서 말썽입니다.{nl}				계시자 니치
+QUEST_LV_0100_20171128_017106	To keep Aitheo Coast safe, I'm planning to drive those forces out. Would you join me?	아이테오 해안의 안정을 위해 잔당들을 몰아내려고 하는데 조금 더 도와주시겠습니까?				계시자 니치
+QUEST_LV_0100_20171128_017107	Well then, please drive out the remaining Nimrah and Varle that are in the Aitheo Coast.{nl}It doesn't matter where.	그럼 아이테오 해안에 남아있는 니므라족과 바를족을 몰아내주세요.{nl}아이테오 해안에 남아있는 잔당이라면 어디던 상관 없습니다.				계시자 니치
+QUEST_LV_0100_20171128_017108	Then, I will leave this to you.	그럼 잔당 소탕을 부탁드리겠습니다.				계시자 니치
+QUEST_LV_0100_20171128_017109	Thank you.{nl}I will remain here and ensure that Aitheo Coast stays safe.	감사합니다.{nl}저는 이곳에 남아 최대한 빨리 아이테오 해안을 안정시키겠습니다.				계시자 니치
+QUEST_LV_0100_20171128_017110	There's no time to delay.{nl}The Revelators are carefully searching for Demon Devices in other locations. 	지체할 시간이 없습니다.{nl}다른 계시자분들은 다른 곳의 마족의 장치를 살펴보러 갔습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017111	Did you also come to scout Coral Forest Hill?{nl}There may be a Demon Device there.	계시자님께서도 산호숲 언덕을 정찰하고 와주시겠습니까?{nl}아마 그곳에도 마족의 장치가 있을 겁니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017112	Alright, I'll leave that to you.{nl}Go to Coral Forest Hill and report back on the demons and the possible device. 	그럼 부탁드립니다.{nl}산호숲 언덕으로 가셔서 마족의 장치와 마족의 동향을 살펴보고 와주싶시오.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017113	If the demons are using the device as a warp, then they are planning to cross at once.{nl}There's no time.	마족들이 장치를 이용해 워프하기 시작한 것을 보면 곳 본격적으로 넘어오기 시작 할것 입니다.{nl}시간이 없습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017114	Hm..the demons have started gathering here as well.{nl}Hurry, the device must be destroyed.{nl}	흠.. 역시 이곳도 마족이 넘어오기 시작했군요.{nl}서둘러서 장치를 파괴해야겠습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017115	It may be difficult but it must be done.	조금 무리를 해서라도 처리해야겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017116	The demons have already started to summon their forces.{nl}Things will prove more difficult if we don't destroy that device.{nl}	마족이 자신들의 세력 소환을 이미 시작했군요.{nl}저 장치를 서둘러 파괴하지 않으면 저희는 더 힘들어 지겠지요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017117	Just like how the device in Aitheo Coast was destroyed, we must do the same to that one.{nl}It'll be dangerous, but it'll be possible with your skills. 	아무래도 저 장치도 아이테오 해안의 장치처럼 당장 파괴해야겠습니다.{nl}조금 위험하긴 하지만 계시자님의 실력이면 충분히 가능하리라고 생각합니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017118	Good.{nl}Then could you please go ahead first and rid the area around the device of its demon forces?{nl}	좋습니다.{nl}그렇다면 먼저 가셔서 장치 인근의 마족의 세력들을 해치워 주시겠습니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017119	I will leave dealing with the other device to the other Revelators and Loremaster.{nl}When they return I will explain the situation and join you right after.	다른 쪽의 장치는 다른 계시자들과 전승자에게 맞기도록 하겠습니다.{nl}그들이 돌아오면 다른 장치를 부탁한 뒤 바로 따라가겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017120	Let's meet in front of the device. Be safe.	무사히 장치 앞에서 뵙겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017121	Thanks to you I arrived safely.{nl}Are you ready?{nl}	덕분에 무사히 도착했습니다.{nl}준비되셨습니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017122	Demons will flock here while we are trying to destroy the device.{nl}Just like before, please watch my back.	장치의 파괴를 시도하면 마족들이 다시 한번 몰려들겁니다.{nl}이전처럼 저를 지켜주십시오.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017123	Thanks to you, the device was safely destroyed.{nl}Now we need to see how the other Revelators and Loremaster fared.{nl}	덕분에 무사히 장치를 파괴했습니다.{nl}다른 계시자들과 전승자는 어떻게되었는지 서둘러 살펴봐야겠습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017124	First, we should make our way to where the other Revelators went.{nl}I'll see you there.	먼저 다른 계시자들이 장치를 파괴하기 위해 이동한 곳으로 가보겠습니다.{nl}그쪽에서 뵙지요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017125	You're here.{nl}The other Revelators and Loremaster went below to deal with the device.	오셨군요.{nl}다른 계시자들과 전승자는 밑으로 장치를 파괴하러 갔습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017126	Would you mind helping them?{nl}I also want to go, but the demons are acting strangely so I'm going to scout around first.	밑으로 가셔서 그들을 도와주시겠습니까?{nl}저도 가고싶지만, 마족의 수상한 움직이 보여 그 쪽을 살펴봐야겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017127	Alright, then I have a request.{nl}Since there are already two other Revelators there, everything should finish quite soon. 	그럼 부탁드리겠습니다.{nl}다른 계시자 두분이 가셨고 시간이 상당히 흐른 것 같으니 금세 끝날 겁니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017128	I would like to ask that you handle another Demon Device.{nl}I, on the other hand, will check the demons' reactions.	다른 마족의 장치를 부탁드리겠습니다.{nl}저는 마족의 대응을 살펴보겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017129	Is the Demon Device destroyed?	마족의 장치가 파괴되었습니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017130	That's good to hear.{nl}Now that all the devices are gone we can set our sights on the Kruvina.{nl}	다행입니다.{nl}모든 장치가 파괴되었으니 이제 크루비나를 파괴하러 가면 되겠군요.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017131	But there's a problem.{nl}It looks like the demons have activated a trap.	그런데 문제가 생겼습니다.{nl}마족이 함정을 작동시킨 것 같습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017132	The path in the direction of the Massive Kruvina is overflowing with an evil energy.{nl}I've experienced a similar situation before.	거대 크루비나로 향하는 길목이 사악한 기운으로 가득 찼습니다.{nl}이전에도 비슷한 것을 본 적이 있습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017133	At that time, the Revelator who tried to remove the concentrated evil energy was badly hurt.{nl}If we continue on like this, reaching the Kruvina will be difficult.	그 때 사악한 기운 덩어리를 제거하려던 계시자님은 큰 부상을 입으셨지요.{nl}이대로라면 크루비나로 가기 어려울 것 같습니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017134	Revelator, there is no one here with greater skill than yourself.{nl}I must ask, could you destroy the evil energy along with the suppressor?{nl}	계시자님께서 이 곳의 누구보다 실력이 뛰어나시니 부탁드리겠습니다.{nl}사악한 기운과 마족을 피해 길 끝에있는 제어장치를 파괴해 주시겠습니까?{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017135	Take this talisman with you.{nl}This talisman will keep you out of sight of the demons until you are closer.	마족이 살피고 있긴하지만, 부적을 하나 드리겠습니다.{nl}부적을 가지고 계시면 가까이 가기 전까지만 마족이 계시자님을 알아채지 못할겁니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017136	Okay, I will follow shortly.{nl}We'll meet at Aitheo Coast.	그럼 금세 뒤따라 가겠습니다.{nl}아이테오 해안에서 뵙지요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017137	Oh, you've returned?{nl}Seeing as you've returned safely, I can assume it was a success!{nl}	오, 다녀오셨습니까?{nl}무사히 돌아오신 것을 보니 성공적으로 파괴하신 모양이군요!{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017138	The surrounding area feels as though it's been released from the evil energy.{nl}You completed a dangerous task. Thank you.{nl}	인근에서 느껴지는 사악한 기운이 사라지는 것이 느껴지는 군요.{nl}위험한 일인데 정말 감사합니다.{nl}				전승자 우그뉴스
+QUEST_LV_0100_20171128_017139	We can now head in the direction of the Massive Kruvina.	덕분에 거대 크루비나로 향할 수 있겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017140	Let's make haste.{nl}I feel a strange magic stemming from the area around the Massive Kruvina. 	서둘러서 거대 크루비나로 향하지요.{nl}거대 크루비나 인근에서 심상치 않은 마력이 느껴집니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017141	The other Revelators and Loremasters will take care of the incoming demon reinforcements.{nl}And we will go to destroy the Massive Kruvina.	뒤따라오는 마족 세력들은 다른 계시자 분들과 전승자들이 도울겁니다.{nl}우리는 거대 크루비나를 파괴하도록 하지요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017142	When you are ready, we'll leave.	준비가 되시면 바로 출발하겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017143	Without your help, we wouldn't have been able to destroy Kruvina.{nl}With only my divine energy, we may not have been as successful.	계시자님의 도움이 없었다면 크루비나를 파괴하지 못했을 겁니다.{nl}제 신성력만으로는 역부족 이였습니다만, 덕분에 무사히 파괴했습니다!				전승자 우그뉴스
+QUEST_LV_0100_20171128_017144	Now the only thing left is to restore the Coast to what it was.{nl}This is really all thanks to you.	이제 이 해안을 되돌리는 일만 남았군요.{nl}도와주셔서 정말 감사합니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017145	Hm?	흠?				전승자 우그뉴스
+QUEST_LV_0100_20171128_017146	I feel a strange divine energy from the relic!	성물에서 알 수 없는 신성력이 느껴집니다!				전승자 우그뉴스
+QUEST_LV_0100_20171128_017147	I must listen to Goddess Jurate and purify this place.{nl}As you travel to other coasts and fight against the demons, I pray that Goddess Jurate keeps you safe.	유라테 여신의 뜻을 따라 이 곳을 정화해나가야겠습니다.{nl}다른 해안에서 마족과 싸우고 계시는 유라테님께서 부디 별 문제가 없으셨으면 좋겠군요.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017148	You have helped Goddess Jurate by saving this coast. Thank you.	유라테 여신을 도와 해안을 되찾아주셔서 감사합니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017149	Your name will forever be remembered amongst the Loremasters. 	저희 전승자들 사이에서 당신의 이름이 오랜 시간 남아있을 겁니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017150	Well then, I will collect the other Revelators and Loremasters and meet you at the entrance to the Heart of the Sea.	그럼 파도의 심장 입구에서 뵙겠습니다. 다른 계시자님들과 전승자들을 이끌고 가겠습니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017151	The Varle will be blocking our way.{nl}But the other Revelators and Loremasters will fight them off so that we will have a chance to destroy the Massive Kruvina. 	파도의 심장까지 가는 동안 바를들이 방해할 것 입니다.{nl}다른 계시자님들과 전승자들이 최선을 다해 저지할테니 우리는 거대한 크루비나를 파괴해야 합니다.				전승자 우그뉴스
+QUEST_LV_0100_20171128_017152	Loremaster Emmanuelis	전승자 애마누엘리스				
+QUEST_LV_0100_20171128_017153	Ah, you are the Revelator.{nl}You and Ugnius did well destroying the device.{nl}	아, 계시자님 이시군요.{nl}우그뉴스님과 함께 장치를 파괴하시느라 고생하셨습니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017154	During that time, I was monitoring the demon forces.{nl}After the device was destroyed, their movements through the portal also stopped, but it seems many problems still remain.	저는 그동안 장치가 파괴된 곳의 마족 세력들의 동향과 그들의 행동을 살피고 있었습니다.{nl}장치가 파괴된 탓에 포탈을 통해 넘어오는 것은 멈추었지만 아직 문제가 많은 것 같습니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017155	The broken fragments of the device have been embedded in the soil.{nl}It's unclear what they are up to..{nl}	장치의 부서진 파편을 땅속에 묻고 있는 것 같습니다. {nl}무슨 속셈으로 저런 일을 하고 있는 것인지..{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017156	Ugnius and I were discussing how to purify corruption areas, but we're not sure if this is all connected.{nl}If it's no burden to you, could you collect the fragments buried by the demons and bring them to me?{nl} 	저는 우그뉴스님의 부탁으로 오염된 이 곳을 정화할 방법을 연구하고 있습니다만, 오염과 연관이 있을지도 모릅니다.{nl}혹시 괜찮으시다면 마족 세력들이 묻어둔 조각을 조금 모아다 주시겠습니까?{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017157	If you go to the location of the broken device you'll see shiny red fragments buried in the soil.	장치가 부숴진 곳 근처에 가시면 붉은색으로 빛나는 조각들이 묻혀있을 것 입니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017158	Hm, are those fragments fueling the corruption or accelerating it?{nl}Or could be blocking the purification..{nl}	흠, 조각이 오염을 계속 일으키거나 가속시키고 있는 것 일까요?{nl}아니면 정화를 방해한다던지..				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017159	Oh, you collected more than expected!{nl}Thank you!{nl}	오, 많은 양을 모아오셨군요!{nl}감사합니다!{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017160	This will help us research more about the corruption.	오염을 연구하는데 큰 도움이 될 것 입니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017161	Thanks to you and the other Revelators, the Kartas's plan has been disrupted.{nl}You deferred a potential attack. 	그대와 다른 계시자들의 노력으로 카르타스의 계략을 막을 수 있었습니다.{nl}이 곳의 공세도 어느 정도 막아냈습니다.				여신 유라테
+QUEST_LV_0100_20171128_017162	However, due to the demons, some areas have fallen under corruption.{nl}The Loremasters are planning to purify these areas, but the water has dried up and bring life back will take time.	하지만 이 곳도, 그 곳도 마족에 의해 오염되어버렸습니다.{nl}전승자들이 정화를 하겠지만, 물이 맑아지고 생물들이 돌아오기 위해서는 오랜 시간이 걸리겠지요.				여신 유라테
+QUEST_LV_0100_20171128_017163	I will work harder to prevent this disaster from happening again.{nl}I was the one protecting the ocean from evil...	다시는 이런 일이 발생하지 않도록 노력하겠습니다.{nl}인간으로부터 바다를, 물을 지켜내려고 몰아냈으나..				여신 유라테
+QUEST_LV_0100_20171128_017164	But now humans are protecting it from the demons working to defile it.{nl}	지금 바다를 오염시키고 더럽히는 것은 마족이고 바다를 지키는 것은 인간이군요.{nl}				여신 유라테
+QUEST_LV_0100_20171128_017165	This is my small gift.{nl}The ocean's blessing will be with you.	이건 나의 작은 선물입니다.{nl}바다의 축복이 당신과 함께 할 것입니다.				여신 유라테
+QUEST_LV_0100_20171128_017166	It seems that the corruption is seeping into the soil.{nl}When we try to purify the coast the corruption simply returns again.{nl}	아무래도 흙 안에서부터 오염이 싹트고 있는 것 같습니다.{nl}이미 오염이 진행되어 해안을 정화하더라도 오염이 다시 발생할겁니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017167	Because the fragments are buried deep within the soil, the corruption remains. And digging them all up would be a tiring task.{nl}However, another idea came to mind. Could you help?	가져오신 조각이 땅 깊은 곳에서 계속 오염을 일으키고 있는데, 모두 땅속에서 꺼내는 것은 힘들어 보입니다.{nl}하지만 다른 방법이 떠올랐는데 도와주시겠습니까?				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017168	The remaining demon forces are preventing us from purifying the coast.{nl}Other Revelators and Loremasters are lending a hand, but the remaining number is too great.{nl}	마족 잔존 세력이 해안 정화 작업을 방해하고 있습니다.{nl}다른 계시자들과 전승자들이 힘내고 있지만 남아있는 적의 수가 아직 많습니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017169	Would you be willing to help?	괜찮으시면 조금 더 도와주실 수 있으십니까?				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017170	Then I have a request.{nl}Unlike the other coasts, this area had the most devices and the most corruption.The number of demons is unbelievable.{nl}	그럼 부탁드리겠습니다.{nl}다른 해안도 심각하지만 이 곳이 가장 오염과 장치의 설치가 많이 진행되었던 지역이라 마족이 터무니 없이 많습니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017171	If you can finish off as many demons as possible, I would be grateful.	최대한 많은 마족 세력들을 해치워주시면 감사하겠습니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017172	I'm sorry for giving you a difficult task.	힘든 일이지만 잘 부탁드립니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017173	That was fast.{nl}Thank you for your help.{nl}	금세 해치우고 오셨군요.{nl}감사합니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017174	I need to conduct deeper research on the Demon Device and restore the Coast.	하루빨리 마족의 장치에 대해 더욱 연구해서 해안을 정화해야 합니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017175	Good.{nl}Please take this holy water.{nl}	좋습니다.{nl}이 성수를 받으세요.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017176	This holy water is blessed by Jurate and is mixed with a few materials used during exorcisms.{nl}I used the fragments you collected to test which materials would cause the corruption to react.{nl}	이 성수는 유라테님의 축복이 담긴 물에 구마 의식에 사용되는 재료를 조금 배합한 것입니다.{nl}가져오신 조각을 이용해서 어떤 재료들이 이 오염원에 반응하는지 실험했습니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017177	I then sprayed the holy water on buried fragments and they melted away, purifying the area.{nl}So I recommend going to the Eperotao Coast and using the holy water on areas that feel corrupted.	몇번의 확인 끝에 땅속에 묻고 성수를 뿌려보니 조각이 녹아서 정화되더군요.{nl}에페로타오 해안 곳곳을 돌아다니시면서 오염의 기운이 느껴지는 곳에 성수를 뿌려주세요.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017178	Please purify the coast.{nl}I will continue to research other ways to fight the corruption.{nl}	해안의 정화를 부탁드립니다.{nl}저는 새로운 정화법을 찾고 다른 오염원을 조사하고 있겠습니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017179	It looks like the holy water was put to good use!{nl}Well done.{nl}	성수를 다 사용하실 정도로 정화하셨군요!{nl}고생이 많으셨습니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017180	The corruption has disappeared from view but there may still be some residue hiding out of sight.{nl}I'll grateful for your help.{nl}	일단 눈에 보이는 오염원은 모두 사라졌습니다만 아직 숨겨진 오염원이 있을지도 모르겠군요.{nl}도움에 감사드립니다.{nl}				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017181	Ugnius and I will stay here and investigate the remaining corruption and purify it.	저는 우그뉴스님과 함께 당분간 이곳에 남아서 오염원을 조사하고 정화해야겠습니다.				전승자 애마누엘리스
+QUEST_LV_0100_20171128_017182	The demons are still greedy for the Coral Plains.{nl}{nl}Through your deeds you have protected the Coral Plains from the demons thus far, but they lie in wait for their next opportunity. {nl}I ask that you continue to protect the coral and the ocean.	마족은 계속 산호평원을 탐내고 있습니다.{nl}{nl}그 대륙의 산호평원들은 당신의 활약으로 마족으로 부터 지키는데 성공했지만, 이곳은 아직도 마족들이 호시탐탐 기회를 엿보고 있습니다.{nl}앞으로도 푸른 바다와 산호를 지켜주세요.				여신 유라테
+QUEST_LV_0100_20171128_017183	Dungeon Message 	인던 메시지				
+QUEST_LV_0100_20171128_017184	You can now use Instanced Dungeons!{nl}Press the F5 key to read the details in the Quest info window!	플레이어는 이제 인스턴스 던전을 이용할 수 있습니다!{nl}자세한 내용은 'F5' 키를 눌러 퀘스트 창에서 확인하세요!	QUEST_LV_0100_20170313_016865	You can now use Instanced Dungeons!{nl}Press the F5 key to read the details in the Quest info window!	플레이어는 이제 인스턴트 던전을 이용할 수 있습니다!{nl}자세한 내용은 'F5' 키를 눌러 퀘스트 창에서 확인하세요!	
+QUEST_LV_0100_20171128_017185	Followers of Goddess Jurate(1)	유라테 여신을 섬기는 자들(1)				
+QUEST_LV_0100_20171128_017186	I have other reasons for coming. 	이곳에 온 다른 목적이 있다고 한다				
+QUEST_LV_0100_20171128_017187	Followers of Goddess Jurate(2)	유라테 여신을 섬기는 자들(2)				
+QUEST_LV_0100_20171128_017188	Followers of Goddess Jurate(3)	유라테 여신을 섬기는 자들(3)				
+QUEST_LV_0100_20171128_017189	Followers of Goddess Jurate(4)	유라테 여신을 섬기는 자들(4)				
+QUEST_LV_0100_20171128_017190	That's correct.	내가 맞다고 한다				
+QUEST_LV_0100_20171128_017191	No, that's another person.	다른 사람이라고 한다				
+QUEST_LV_0100_20171128_017192	The Missing Loremaster	사라진 전승자				
+QUEST_LV_0100_20171128_017193	That sounds difficult.	어려운 일이라고 한다				
+QUEST_LV_0100_20171128_017194	First Aid(1)	응급처치(1)				
+QUEST_LV_0100_20171128_017195	Of course I will help.	물론 도와주겟다고 한다				
+QUEST_LV_0100_20171128_017196	First Aid(2)	응급처치(2)				
+QUEST_LV_0100_20171128_017197	That's a difficult request. I'll need some time.	어려운 부탁이니 잠깐 시간을 달라고 한다				
+QUEST_LV_0100_20171128_017198	Ritual for the Sea(1)	바다를 위한 의식(1)				
+QUEST_LV_0100_20171128_017199	Ritual for the Sea(2)	바다를 위한 의식(2)				
+QUEST_LV_0100_20171128_017200	Just wait a moment.	잠시만 기다려 달라고 부탁한다				
+QUEST_LV_0100_20171128_017201	Ritual for the Sea(3)	바다를 위한 의식(3)				
+QUEST_LV_0100_20171128_017202	I'll go first.	먼저 가겠다고 한다				
+QUEST_LV_0100_20171128_017203	I'll wait.	기다린다고 한다				
+QUEST_LV_0100_20171128_017204	Demons here too..?	이곳에도 마족이..?				
+QUEST_LV_0100_20171128_017205	I can handle it	맞겨달라고 한다				
+QUEST_LV_0100_20171128_017206	I'll do it later.	나중에 해주겠다고 한다				
+QUEST_LV_0100_20171128_017207	The Suspicious Demons	수상한 마족의 동향				
+QUEST_LV_0100_20171128_017208	Talk about what happened in Zeteor Coast. 	제테오 해안에 있었던 일을 이야기한다				
+QUEST_LV_0100_20171128_017209	Identifying the Magic Circle	마법진의 정체				
+QUEST_LV_0100_20171128_017210	Talk about what you witnessed at the occupied lowlands.	점거당한 저지대에서 본 것을 이야기한다				
+QUEST_LV_0100_20171128_017211	There was nothing new.	별 일 없었다고 한다				
+QUEST_LV_0100_20171128_017212	Sealed Relic	봉인된 성물				
+QUEST_LV_0100_20171128_017213	What do I have to do?	어떻게 해야하는지 묻는다				
+QUEST_LV_0100_20171128_017214	Solve it as quickly as possible. 	빨리 해결해달라고 한다				
+QUEST_LV_0100_20171128_017215	I'll check and come right back.	금세 살피고 오겠다고 한다.				
+QUEST_LV_0100_20171128_017216	Destroy the Suspicious Device	수상한 장치 파괴				
+QUEST_LV_0100_20171128_017217	Purification Ritual 	정화 의식				
+QUEST_LV_0100_20171128_017218	I'll help with the purification	정화를 돕겠다고 한다				
+QUEST_LV_0100_20171128_017219	Tell me when you are finished	끝나고 말해달라고 한다				
+QUEST_LV_0100_20171128_017220	Goddess Jurate's Message	유라테 여신의 전언				
+QUEST_LV_0100_20171128_017221	There's no problem	아무 문제 없다고 한다				
+QUEST_LV_0100_20171128_017222	Towards Eperotao Coast	에페로타오 해안으로				
+QUEST_LV_0100_20171128_017223	Swift Purification	신속한 정화				
+QUEST_LV_0100_20171128_017224	Right now I have other important task	지금은 다른 중요한 일이 있다고 한다				
+QUEST_LV_0100_20171128_017225	Dealing with the remaining demons	잔존한 마족 정리				
+QUEST_LV_0100_20171128_017226	It'll be difficult this time	이번에는 힘들다고 한다				
+QUEST_LV_0100_20171128_017227	Figuring out the situation	상황 파악				
+QUEST_LV_0100_20171128_017228	Let me get ready	준비를 하겠다고 한다				
+QUEST_LV_0100_20171128_017229	Relaying what you saw	본 내용을 말하는 중				
+QUEST_LV_0100_20171128_017230	Destroy the Demon Device(1)	마족의 장치를 파괴하라(1)				
+QUEST_LV_0100_20171128_017231	Destroy the Demon Device(2)	마족의 장치를 파괴하라(2)				
+QUEST_LV_0100_20171128_017232	Destroy the Demon Device(3)	마족의 장치를 파괴하라(3)				
+QUEST_LV_0100_20171128_017233	I'll wait here	여기서 기다리겠다고 한다				
+QUEST_LV_0100_20171128_017234	Destroy the Massive Kruvina(1) 	거대 크루비나 파괴(1)				
+QUEST_LV_0100_20171128_017235	I'll stop the device	장치를 멈추고 오겠다고 한다				
+QUEST_LV_0100_20171128_017236	Destroy the Massive Kruvina(2) 	거대 크루비나 파괴(2)				
+QUEST_LV_0100_20171128_017237	The Goddess' Reply	여신의 응답				
+QUEST_LV_0100_20171128_017238	Purification Research(1)	정화를 위한 연구(1)				
+QUEST_LV_0100_20171128_017239	Purification Research(2) 	정화를 위한 연구(2)				
+QUEST_LV_0100_20171128_017240	How can I do it?	방법을 묻는다				
+QUEST_LV_0100_20171128_017241	That's too difficult to do now	지금은 어렵다고 한다				
+QUEST_LV_0100_20171128_017242	Defeat the stragglers	잔당 처치				
+QUEST_LV_0100_20171128_017243	I'll eradicate the stragglers	잔당 퇴치를 하겠다고 한다				
+QUEST_LV_0100_20171128_017244	It has to be easier now	아직은 쉬어야 한다고 한다				
+QUEST_LV_0100_20171128_017245	Archivist Jonas seem to have finally regained his consciousness. Jonas told you to follow him as there is a task that you are qualified to do. In order for Jonas to guide you safely to Beacon Hill Pass, defeat monsters along the way.	기록관 요나스가 드디어 정신을 차린 것 같습니다. 요나스는 자격을 갖춘 이가 해야할 일이 있다며 따라오라고 합니다. 요나스가 봉화대 고개까지 길 안내를 잘 할 수 있도록 몬스터를 해치워 주세요.	QUEST_LV_0100_20150317_004261	Archivist Jonas seem to have finally regained his consciousness. Jonas told you to follow him as there is a task that you are qualified to do. In order for Jonas to guide you safely to Beacon Hill Pass, defeat monsters along the way.	기록관 요나스가 드디어 정신을 차린 것 같습니다. 요나스는 자격을 갖춘 이가 해야할 일이 있다며 따라고라고 합니다. 요나스가 봉화대 고개까지 길 안내를 잘 할 수 있도록 몬스터를 해치워 주세요.	
+QUEST_LV_0100_20171128_017246	Find Sentinel Rian	경비병 리엔 찾기				
+QUEST_LV_0100_20171128_017247	You are now allowed to use instanced dungeons.{nl}Instanced dungeons help you raise your character faster.{nl}{nl}Type 	플레이어는 이제 인스턴스 던전을 이용할 수 있습니다.{nl}인스턴스 던전에서는 캐릭터를 보다 강하게 성장시킬 수 있습니다.{nl} {nl}채팅창에 				
+QUEST_LV_0100_20171128_017248	 In the chat window to see the location and recommended level of all instanced dungeons.{nl}First, check the location of the Underground Chapel Dungeon in Klaipeda.{nl}{nl}Then, find Sentinel Rian.{nl}You can enter the instanced dungeon by interacting with the sentinel.	 을 입력하면 인스턴스 던전들의 위치와 입장 레벨, 입장 횟수 등을 확인할 수 있습니다.{nl}먼저 성당 지하 던전의 위치인 클라페다로 이동하세요.{nl} {nl}클라페다에 도착했다면 경비병 리엔을 찾아 말을 걸어보세요.{nl}인스턴스 던전은 경비병 리엔을 통해 입장할 수 있습니다.				
+QUEST_LV_0100_20171128_017249	Speak with Revelator Pudhin	계시자 푸덴과 대화				
+QUEST_LV_0100_20171128_017250	Revelator Pudhin seems to be facing a difficult situation. Talk to him.	계시자 푸덴은 무언가 곤란한 상황에 처한 것 같습니다. 그와 대화해보세요.				
+QUEST_LV_0100_20171128_017251	Retrieve the stolen supplies	도둑맞은 물자 되찾기				
+QUEST_LV_0100_20171128_017252	Revelator Pudhin said the monsters purposely robbed him of the supplies. Retrieve the items the monsters stole.	계시자 푸덴은 물자를 옮기던 중 몬스터들에게 물자 일부를 도둑 맞았다고 합니다. 몬스터들이 가져간 물자를 찾아오세요.				
+QUEST_LV_0100_20171128_017253	All of the supplies that were stolen from Revelator Pudhin have been retrieved. Return to him.	계시자 푸덴이 부탁한 도둑맞은 물자를 모두 되찾았습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017254	You helped Pudhin recover the stolen supplies. Listen to what happened to him.	푸덴이 도둑맞은 물자를 되찾는 것을 도왔습니다. 그에게 이 곳에서 무슨 일이 있는지 자세히 들어보세요.				
+QUEST_LV_0100_20171128_017255	Revelator Pudhin seems to have something to say to you.	계시자 푸덴이 당신에게 할 말이 있는 것 같습니다.				
+QUEST_LV_0100_20171128_017256	Deal with the savage monsters	흉폭해진 몬스터 퇴치				
+QUEST_LV_0100_20171128_017257	Revelator Pudhin said to go meet with Loremaster Ugnius in Mopuli Lowlands. While making your way there, deal with the savage monsters.	계시자 푸덴은 모프리 저지대에 있는 전승자 유그누스를 만나러 가라고 했습니다. 또한 가는 길에 흉폭해진 몬스터의 퇴치도 부탁했습니다.				
+QUEST_LV_0100_20171128_017258	Speak with Loremaster Ugnius	전승자 우그뉴스와 대화				
+QUEST_LV_0100_20171128_017259	The savage monsters Revelator Pudhin mentioned have been taken care of. Talk to Loremaster Ugnius in Mopuli Lowlands.	계시자 푸덴이 부탁한 몬스터를 모두 퇴치했습니다. 모프리 저지대에 있는 전승자 우그뉴스와 대화하세요.				
+QUEST_LV_0100_20171128_017260	Discuss with Loremaster Ugnius what happened at Igyti Seashore with Goddess Jurate and listen to a story about the Goddess. 	전승자 우그뉴스에게 이기티 연안에서 유라테 여신과 무슨 일이 있었는지 이야기하고 유라테 여신에 대한 이야기를 들으세요.				
+QUEST_LV_0100_20171128_017261	Loremaster Ugnius seems to have a request for you.	전승자 우그뉴스는 당신에게 부탁이 있는 것 같습니다.				
+QUEST_LV_0100_20171128_017262	Find Loremaster Narius	전승자 내리우스 찾기				
+QUEST_LV_0100_20171128_017263	Loremaster Ugnius said that Loremaster Narius has not returned from repairing the altar. Carefully check for the Loremaster as the area has become dangerous. 	전승자 우그뉴스는 제단을 수리하러 간 전승자 내리우스가 돌아오지 않고 있다고 합니다. 최근 흉폭해진 몬스터가 많아서 위험하니 가서 살펴보고 와달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017264	Speak with Loremaster Narius	전승자 내리우스와 대화				
+QUEST_LV_0100_20171128_017265	You've rescued Loremaster Narius. Go talk to him. 	위기에 처한 전승자 내리우스를 구했습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017266	Defeat the attacking monster	습격중인 몬스터 처치				
+QUEST_LV_0100_20171128_017267	Loremaster Narius is wounded. Ask him if there is a way to treat his injuries. 	전승자 내리우스는 부상을 입은 것 같습니다. 그에게 치료할 방법이 있는지 물어보세요.				
+QUEST_LV_0100_20171128_017268	Defeat the monsters and collect the medicine 	몬스터를 처치하고 약제 모으기				
+QUEST_LV_0100_20171128_017269	Loremaster Narius' injuries are serious. He has asked that you bring Loremaster Ugnius to treat him. On your way, defeat the monsters and collect the medicine that could help treat Loremaster Narius.	전승자 내리우스는 생각보다 상처가 깊다고 합니다. 그는 치료를 위해 전승자 우그뉴스를 불러와 달라고 부탁했습니다. 또한 가는 길에 몬스터를 해치우고 약제를 모아서 가면 우그뉴스가 자신을 치료하는데 도움이 될거라고 말합니다.				
+QUEST_LV_0100_20171128_017270	You've collected the medicine. Give the medicine to Loremaster Ugnius and explain the situation.	전승자 내리우스가 부탁한 약제를 모두 모았습니다. 약제를 전승자 우그뉴스에게 전달하고 상황을 전하세요.				
+QUEST_LV_0100_20171128_017271	Loremaster Ugnius looks like he wants to go to Loremaster Narius. Talk with him.	전승자 우그뉴스는 전승자 내리우스에게 갈 생각인 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017272	Escort Loremaster Ugnius	전승자 우그뉴스 호위				
+QUEST_LV_0100_20171128_017273	Escort Loremaster Ugnius safely to Loremaster Narius. Protect Loremaster Ugnius from attacking monsters and escort him to Loremaster Narius' location.	전승자 우그뉴스는 전승자 내리우스에게 갈 수 있도록 호위를 부탁 했습니다. 전승자 우그뉴스를 공격해오는 몬스터들로부터 지키며 전승자 내리우스가 있는 곳 까지 호위하세요.				
+QUEST_LV_0100_20171128_017274	Check on Loremaster Narius	전승자 내리우스의 상태를 확인하세요.				
+QUEST_LV_0100_20171128_017275	Loremaster Ugnius is preparing a ritual to hear the voice of the Goddess Jurate. Talk to him. 	전승자 우그뉴스는 유라테 여신의 말씀을 듣기위한 의식을 준비하고 있는 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017276	Collect Blue Coral	푸른 산호초 채집				
+QUEST_LV_0100_20171128_017277	Loremaster Ugnius is asking you to collect some blue coral instead of Loremaster Ugnius. 	전승자 우그뉴스는 전승자 내리우스가 산호를 채집하러 가기에는 아직 무리인 것 같다며 푸른 산호의 채집을 부탁했습니다.				
+QUEST_LV_0100_20171128_017278	You have collected all the coral Loremaster Ugnius requested. Return to him. 	전승자 우그뉴스가 부탁한 산호를 모두 모았습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017279	Loremaster Ugnius is about to start the offering ceremony to Goddess Jurate. Talk to him. 	전승자 우그뉴스는 유라테 여신에게 바치는 의식을 시작하려는 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017280	Loremaster Ugnius seems to have something to say to you.	전승자 우그뉴스는 당신에게 할 말이 있는 것 같습니다.				
+QUEST_LV_0100_20171128_017281	Speak with Revelator Nichi	계시자 니치와 대화				
+QUEST_LV_0100_20171128_017282	Loremaster Ugnius asked you to go to Aitheo Coast and meet with Revelator Nichi. Talk to her. 	전승자 우그뉴스가 먼저 아이테오 해안으로 가서 전승자 니치를 만나보라고 했습니다. 그녀와 대화하세요.				
+QUEST_LV_0100_20171128_017283	Loremaster Narius seems to have a request for you.	전승자 내리우스는 당신에게 부탁이 있는 것 같습니다.				
+QUEST_LV_0100_20171128_017284	Investigate Tolata Sandbank	트라타 모래톱 조사				
+QUEST_LV_0100_20171128_017285	Loremaster Narius said he saw a few demons roaming around Tolata Sandbank. Go investigate the area.	전승자 내리우스는 최근 트라타 모래톱에서 마족 한 두마리가 어슬렁거리는 것을 보았다고 합니다. 트라타 모래톱을 조사하세요.				
+QUEST_LV_0100_20171128_017286	You have found the suspicious crystal at Tolata Sandbank that Loremaster Narius mentioned. Return to him. 	전승자 내리우스가 말한 트라타 모래톱에서 수상한 결정을 찾았습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017287	Revelator Nichi is preparing something. Talk to her.	계시자 니치는 무언가 준비하고 있는 것 같습니다. 그녀와 대화하세요.				
+QUEST_LV_0100_20171128_017288	Clear out the Demons	인근 마족 소탕				
+QUEST_LV_0100_20171128_017289	Revelator Nichi has asked you to remove the Nimrah and Varle that roam the area.	계시자 니치는 인근에 니므라족과 바를족이 활개치고 있다며 몰아내달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017290	Occupied Lowlands Recon 	점령당한 저지대 정찰				
+QUEST_LV_0100_20171128_017291	Revelator Nichi has asked you to clear out the Nimrah and Varle and to report back about the occupied lowlands. Go to the occupied lowlands.	계시자 니치는 인근 니므라족과 바를족을 소탕하고 점령당한 저지대를 살펴보고 와달라고 부탁했습니다. 점령당한 저지대로 향하세요.				
+QUEST_LV_0100_20171128_017292	Defeat the Nimrah and Varle	인근의 니므라족과 바를족 처치				
+QUEST_LV_0100_20171128_017293	Loremaster Ugnius has arrived. Talk to him about what you saw at the occupied lowlands.	전승자 우그뉴스가 도착한 것 같습니다. 그에게 점거당한 저지대에서 본 것을 이야기 하세요.				
+QUEST_LV_0100_20171128_017294	Search for the relic at the occupied lowlands	점거당한 저지대에서 성물 탐색				
+QUEST_LV_0100_20171128_017295	Loremaster Ugnius believes the magic circles seen at the occupied lowlands being used to seal the relic. Use Goddess Jurate's relic to break the magic circles and retrieve the relic.	전승자 우그뉴스는 점거당한 저지대에 있는 마법진은 아마도 성물을 봉인하려고 만든 마법진 일거라고 합니다. 그는 유라테 여신의 성물을 줄테니 마법진을 파괴하고 성물을 되찾아달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017296	You have retrieved the relic that was sealed by the demons. Return to Loremaster Ugnius.	마족에 의해 봉인된 유라테의 성물을 되찾았습니다. 전승자 우그뉴스에게 돌아가세요.				
+QUEST_LV_0100_20171128_017297	Break the magic circle and retrieve %s 	마법진을 파괴하고 %s 회수				
+QUEST_LV_0100_20171128_017298	Loremaster Ugnius seems to know a way to remove the seal from the sealed relic. Talk to him. 	전승자 우그뉴스는 봉인된 성물의 봉인을 풀 방법을 떠올린 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017299	Purifying the Sealed Relic	봉인된 성물의 마기 씻어내기				
+QUEST_LV_0100_20171128_017300	Loremaster Ugnius has recommended that you use the ocean's energy to wash the sealed relic. Go to Kite Coral Reef and use the energy in the coral to repel the evil from the relic.	전승자 우그뉴스는 마족이 봉이해둔 성물을 바다의 기운으로 씻어내자고 합니다. 카이트 산호초로 가서 산호에 담긴 바다의 기운을 이용해서 봉인된 성물의 마기를 씻어내세요.				
+QUEST_LV_0100_20171128_017301	You have completed the task that Loremaster Ugnius requested of you. Return to him. 	전승자 우그뉴스가 부탁한 일을 완수 했습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017302	Loremaster Ugnius looks like he is going to remove the seal from the washed relic. Talk to him. 	전승자 우그뉴스는 마기가 씻겨나간 성물의 봉인을 해제하려고 하는 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017303	Corrupted Sandbank Recon	오염된 모래톱 정찰				
+QUEST_LV_0100_20171128_017304	Loremaster Ugnius has asked you to scout out the suspicious device the demons have placed on the Corrupted Sandbank. 	전승자 우그뉴스는 자신이 성물의 봉인을 푸는 동안 마족이 수상한 장치를 세운 오염된 모래톱을 정찰해달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017305	It seems the demons have started to attack. Alert Loremaster Ugnius. 	마족의 공습이 시작 된 것 같습니다. 전승자 우그뉴스에게 이 사실을 알리세요.				
+QUEST_LV_0100_20171128_017306	Eradicate the demon forces	마족 세력 퇴치				
+QUEST_LV_0100_20171128_017307	Loremaster Ugnius seems to have made a decision. Speak with him.	전승자 우그뉴스는 무언가 결정을 내린 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017308	Destroy the corrupted sandbank's suspicious device 	오염된 모래톱의 수상한 장치 파괴				
+QUEST_LV_0100_20171128_017309	Loremaster Ugnius says to destroy the suspicious device at the corrupted sandbank as quickly as possible. He said he will meet you there. Go first to the Corrupted Sandbank.	전승자 우그뉴스는 오염된 모래톱에 있는 수상한 장치를 서둘러 파괴해야겠다고 합니다. 그는 곧 뒤따라 갈테니 먼저 가라고 했습니다. 오염된 모래톱으로 향하세요.				
+QUEST_LV_0100_20171128_017310	You successful destroyed the device. Speak with Loremaster Ugnius. 	장치를 성공적으로 파괴했습니다. 전승자 우그뉴스와 대화하세요.				
+QUEST_LV_0100_20171128_017311	Loremaster Ugnius is preparing to purify the demon corrupted coast. Collect the necessary materials to complete the preparations. 	전승자 우그뉴스는 마족에 의해 오염된 해안을 정화하겠다고 합니다. 다른 계시자들과 정화 준비를 할테니, 재료를 모아달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017312	You have collected all the material that Loremaster Ugnius requested. Return to him. 	전승자 우그뉴스가 부탁한 재료를 모두 모았습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017313	It seems that Loremaster Ugnius will begin the Purification Ritual. 	전승자 우그뉴스는 정화 의식을 시작하려는 것 같습니다.				
+QUEST_LV_0100_20171128_017314	Loremaster Ugnius has finished the ritual. Talk to him.	전승자 우그뉴스가 정화 의식을 끝냈습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017315	Loremaster Ugnius went ahead first to the Eperotao Coast. Find Loremaster Ugnius at Eperotao Coast. 	전승자 우그뉴스는 먼저 에페로타오 해안으로 먼저 가있겠다고 합니다. 에페로타오 해안에서 전승자 우그뉴스를 찾으세요.				
+QUEST_LV_0100_20171128_017316	Revelator Nichi may be planning to remove the remaining corruption from the Aitheo Coast.	계시자 니치는 아이테오 해안의 남은 오염을 제거하려고 하는 것 같습니다.				
+QUEST_LV_0100_20171128_017317	Clear the Aitheo Coast of the remaining evil energy	아이테오 해안에 남은 사악한 기운 제거				
+QUEST_LV_0100_20171128_017318	As Revelator Nichi said, the purification ritual cleared the source of the pollution but some evil still remains. Use the Coral Talisman given to you by Nichi and release this evil energy.	계시자 니치는 오염원은 정화 의식으로 사라졌지만 아직 사악한 기운이 남아있다고 합니다. 니치가 주는 산호 부적을 이용해 사악한 기운을 제거하세요.				
+QUEST_LV_0100_20171128_017319	You cleared the Aitheo Coast of the remaining evil energy. Go tell Revelator Nichi.	아이테오 해안에 남아있던 사악한 기운을 제거했습니다. 계시자 니치에게 돌아가세요.				
+QUEST_LV_0100_20171128_017320	Revelator Nichi seems to have a request for you.	계시자 니치는 부탁이 있는 것 같습니다.				
+QUEST_LV_0100_20171128_017321	Defeat the demons at Aitheo Coast	아이테오 해안의 마족 처치				
+QUEST_LV_0100_20171128_017322	Revelator Nichi has asked you to defeat the remaining demon forces.	계시자 니치는 아직 마족의 잔당이 남아있다며 마족을 몰아내달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017323	You defeated the remaining demons as Revelator Nichi requested. Report back to Revelator Nichi. 	계시자 니치가 부탁한 마족을 모두 해치웠습니다. 계시자 니치에게 돌아가세요.				
+QUEST_LV_0100_20171128_017324	Loremaster Ugnius seems to have a scouting request for you.	전승자 우그뉴스는 당신에게 정찰을 부탁하려는 것 같습니다.				
+QUEST_LV_0100_20171128_017325	Coral Forest Hill Recon 	산호숲 언덕 정찰				
+QUEST_LV_0100_20171128_017326	Loremaster Ugnius has asked you to scout out Coral Forest Hill.	전승자 우그뉴스는 산호숲 언덕의 정찰을 부탁했습니다.				
+QUEST_LV_0100_20171128_017327	You have completed Loremaster Ugnius request to check Coral Forest Hill. Return to him. 	전승자 우그뉴스가 부탁한 산호숲 언덕의 정찰을 끝냈습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017328	Loremaster Ugnius seems determined about something. Speak with him.	전승자 우그뉴스는 무언가 결심한 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017329	Deal with the demon forces at Coral Forest Hill	산호숲 언덕의 마족의 세력 퇴치				
+QUEST_LV_0100_20171128_017330	Loremaster Ugnius has asked you to defeat the demon forces on Coral Forest Hill so that he can follow.	전승자 우그뉴스는 자신이 뒤따라갈 수 있도록 산호숲 언덕의 마족의 세력을 몰아내달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017331	Investigate the Demon Device	마족의 장치 조사				
+QUEST_LV_0100_20171128_017332	You defeated the demons on Coral Forest Hill according to Loremaster Ugnius' request. Go back to the demon device and wait for him.	전승자 우그뉴스의 부탁대로 산호숲 언덕의 마족을 몰아냈습니다. 마족의 장치에 가서 전승자 우그뉴스를 기다리세요.				
+QUEST_LV_0100_20171128_017333	Defeat the demon forces	마족의 세력 처치				
+QUEST_LV_0100_20171128_017334	Loremaster Ugnius has arrived. Talk to him.	전승자 우그뉴스가 도착했습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017335	Protect Loremaster Ugnius	전승자 우그뉴스 보호				
+QUEST_LV_0100_20171128_017336	Loremaster Ugnius said he is going to destroy the device. While he is doing so, keep him safe.	전승자 우그뉴스가 장치를 파괴하겠다고 합니다. 그가 장치를 파괴할 동안 그를 보호하세요.				
+QUEST_LV_0100_20171128_017337	The device was successfully destroyed. Speak with Loremaster Ugnius.	장치 파괴에 성공했습니다. 전승자 우그뉴스와 대화하세요.				
+QUEST_LV_0100_20171128_017338	Loremaster Ugnius has already gone ahead to locate the other Revelators. Follow him. 	전승자 우그뉴스는 먼저 다른 계시자들이 있는 곳으로 떠났습니다. 그를 찾아가세요.				
+QUEST_LV_0100_20171128_017339	Destroy the Third Demon Device	세 번째 마족의 장치 파괴				
+QUEST_LV_0100_20171128_017340	The other Revelator and Loremasters are working to destroy the third demon device. Go help them.	전승자 우그뉴스의 말에 따르면 다른 계시자와 전승자들은 세 번째 장치를 파괴하기 위해 떠났다고 합니다. 그들을 도우세요.				
+QUEST_LV_0100_20171128_017341	The third demon device was destroyed. Speak with Loremaster Ugnius.	세 번째 마족의 장치를 파괴했습니다. 전승자 우그뉴스와 대화하세요.				
+QUEST_LV_0100_20171128_017342	Defeat the forces protecting the device 	장치를 지키는 마족의 세력 처치				
+QUEST_LV_0100_20171128_017343	It seems like Loremaster Ugnius wants to explain more about the demon's trap.	전승자 우그뉴스는 마족의 함정에 대해 설명하려는 것 같습니다.				
+QUEST_LV_0100_20171128_017344	Avoid the demon's trap and destroy the suppressor	마족의 함정을 피해 제어 장치 파괴				
+QUEST_LV_0100_20171128_017345	Because of the demon's trap, Loremaster Ugnius said the path to the Kruvina is too dangerous. Avoid the demon's trap and destory the suppressor.	전승자 우그뉴스는 마족의 함정 때문에 크루비나로 가는 길이 위험하다고 합니다. 마족의 함정을 피해서 함정의 제어 장치를 파괴하세요.				
+QUEST_LV_0100_20171128_017346	You destroyed the device blocking the way to the Massive Kruvina. Listen to Loremaster Ugnius next plan.	거대 크루비나로 가는 길을 막고있던 장치를 파괴했습니다. 전승자 우그뉴스에게 다음 계획을 들으세요.				
+QUEST_LV_0100_20171128_017347	Destroy the Massive Kruvina at the Heart of the Sea.	파도의 심장에 있는 거대 크루비나 파괴				
+QUEST_LV_0100_20171128_017348	Loremaster Ugnius has said to go destroy the Massive Kruvina. He will gather the other Revelators and Loremasters and meet you there.	전승자 우그뉴스는 거대 크루비나를 파괴하러 가자고 합니다. 그는 계시자와 전승자를 대리고 뒤따르겠다며 먼저 가고 있으라고 합니다.				
+QUEST_LV_0100_20171128_017349	Destroy the Massive Kruvina	거대 크루비나 파괴				
+QUEST_LV_0100_20171128_017350	You helped Loremaster Ugnius destroy the Massive Kruvina. Talk to him. 	전승자 우그뉴스를 도와서 거대 크루비나를 파괴했습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017351	Talk with Loremaster Emmanuelis	전승자 애마누엘리스와 대화				
+QUEST_LV_0100_20171128_017352	It looks like Loremaster Emmanuelis is researching the demon's effects on the coast. Speak to him. 	전승자 애마누엘리스는 마족에 의해 오염된 해안을 조사하고 있는 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017353	Collect the Demon Device Fragments	마족의 장치 파편 수집				
+QUEST_LV_0100_20171128_017354	Loremaster Emmanuelis is researching the corruption effect of the demon device. Collect pieces of the broken device to help with his research. 	전승자 애마누엘리스 마족의 장치가 오염시킨 해안을 조사하고 있다고 합니다. 그는 확인을 위해 파고된 마족의 장치 파편을 모아달라고 부탁했습니다.				
+QUEST_LV_0100_20171128_017355	You have collected the pieces of the demon device. Return to Emmanuelis.	마족의 장치 파편을 모두 수집했습니다. 애마누엘리스에게 돌아가세요.				
+QUEST_LV_0100_20171128_017356	Emmanuelis seems like he has figured someone out. Talk to him. 	애마누엘리스는 무언가 알아낸 것 같습니다. 그와 대화하세요.				
+QUEST_LV_0100_20171128_017357	Purify the Corrupted Piles of Soil	오염된 흙더미 정화				
+QUEST_LV_0100_20171128_017358	The source of the corruption remains in the ground. Take the bottle that contains holy water from Loremaster Emmanuelis and use it to purify the corrupted piles of soil.	전승자 애마누엘리스는 땅속에 오염원이 남아있는 것 같다며 정화를 부탁했습니다. 전승자의 물병에 들어있는 성수를 이용해 오염된 흙더미를 정화하세요.				
+QUEST_LV_0100_20171128_017359	You have purified all the piles of soil that Emmanuelis requested of you. Return to him. 	애마누엘리스가 부탁한 흙더미를 모두 정화했습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017360	Emmanuelis seems to have a request for you.	애마누엘리스는 당신에게 부탁이 있는 것 같습니다.				
+QUEST_LV_0100_20171128_017361	Eradicate the surviving demon forces	잔존 마족 세력 퇴치				
+QUEST_LV_0100_20171128_017362	Emmanuelis has asked you to defeat the remaining demon forces in Eperotao Coast. Go and eradicate them.	애마누엘리스는 에페로타오 해안에 남아있는 잔존 마족 세력들을 몰아내달라고 부탁했습니다. 잔존 마족 세력들을 몰아내세요.				
+QUEST_LV_0100_20171128_017363	As Emmanuelis requested, you have forced out all the remaining forces. Return to him. 	애마누엘리스가 부탁한 세력 잔당을 모두 몰아냈습니다. 그에게 돌아가세요.				
+QUEST_LV_0100_20171128_017364	Defeat the remaining demon forces	잔존한 마족 세력 처치				
+QUEST_LV_0100_20171207_017365	The fact that a metal, Mana Metal, with such high resistance against magic exists is strange, but if such a metal does exist, then there couldn't have been enough to make more than one set of armor. The commander, Ruklys, would have been the only one wearing such an armor, otherwise it wouldn't make sense if the Mana Metal were distributed to that many of his troops.{nl}It is just as reasonable that the opposite was true.	마법에 대하여 그토록 강한 저항력을 갖는 마나 메탈이 존재한다는 사실이 낯설며, 설령 그런 마나 메탈이 존재한다 하더라도 그것을 지휘관인 루클리스만이 갑옷 한 벌을 만들어 입었다면 모를까 그의 부하들에게 많이 배급할 수 있었다는 것은 말도 안 된다는 것이다.{nl} 이 같은 반론은 충분히 제기될 수 있는 것이며, 무척 타당한 것이기도 하다. 	QUEST_JOBSTEP_20150317_000809	The fact that a metal, Mana Metal, with such high resistance against magic exists is strange, but if such a metal does exist, then there couldn't have been enough to make more than one set of armor. The commander, Ruklys, would have been the only one wearing such an armor, otherwise it wouldn't make sense if the Mana Metal were distributed to that many of his troops.{nl}It is just as reasonable that the opposite was true.	마법에 대하여 그토록 강한 저항력을 갖는 마나 메탈이 존재한다는 사실이 낯설며, 설령 그런 마나 메탈이 존재한다 하더라도 그것을 지휘관인 루클리스만이 갑옷 한 벌을 만들어 있었다면 모를까 그의 부하들에게 많이 배급할 수 있었다는 것은 말도 안 된다는 것이다.{nl} 이 같은 반론은 충분히 제기될 수 있는 것이며, 무척 타당한 것이기도 하다. 	카듀멜 시대의 갑주
+QUEST_LV_0100_20180208_017366	No place in the Kingdom is safe anymore...	왕국 어디든 평화로운 곳이 없구만.				아리유스
+QUEST_LV_0100_20180208_017367	Our Kingdom needs to be at peace again...	왕국이 다시 평화를 되찾아야 할 텐데...				아리유스
+QUEST_LV_0100_20180208_017368	My mother passed away when I was born.{nl}My father worked very hard to make sure I was raised properly.	어머니는 제가 태어나기 전에 돌아가셨어요.{nl}그럼에도 아버지는 제가 이렇게 예쁘게 자랄 수 있도록 애쓰셨죠.				아사나
+QUEST_LV_0100_20180208_017369	Now I want to do the same and earn the money to sustain him.	이제는 제가 아버지를 위해서 열심히 돈을 벌려고 해요.				아사나
+QUEST_LV_0100_20180208_017370	I came to Tenents' Farm looking for a stable life, but that isn't easy anymore.{nl}I feel like I'm only giving my father more to worry about.	안정적인 삶을 살려고 테넌츠 농장으로 왔지만, 남작으로 인해서 그것도 힘들게 됐어요.{nl}이래선 아버지에게 더욱 걱정만 더해드리는 것 같아 죄송스럽기만 해요.				아사나
+QUEST_LV_0100_20180208_017371	The combat style of the Nak Muay is very different from other kinds you may know. We attack the enemy with our hands, feet, elbows and knees.	낙무아이는 당신이 알고 계시는 전투 기술과는 많이 다릅니다. 손과 발, 팔꿈치, 무릎으로 상대방을 가격해야 합니다.				낙무아이 마스터
+QUEST_LV_0100_20180208_017372	The risk of injury is high, and it is not an easy style to learn.	그만큼 부상 위험도 크고 배우기 쉽지 않는 기술입니다.				낙무아이 마스터
+QUEST_LV_0100_20180208_017373	No matter how strong you are, you must never underestimate your opponent.{nl}If you do, the Nak Muay technique becomes nothing but a means for violence.	내가 아무리 강하다하여 상대방을 무시해선 안됩니다.{nl}상대방을 존중하지 않고 무시하는 자에게 낙무아이 기술은 끔찍한 폭력 기술이 되고 말기 때문이죠.				낙무아이 마스터
+QUEST_LV_0100_20180208_017374	Traveling Merchant Geraldas	유랑 상인 게랄다스				
