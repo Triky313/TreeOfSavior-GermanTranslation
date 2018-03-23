@@ -303,7 +303,7 @@ ETC_20150317_000302	Well Die Onion
 ETC_20150317_000303	Groß HP Onion
 ETC_20150317_000304	Bernstein Target
 ETC_20150317_000305	Stake Stockades
-ETC_20150317_000306	Defense Guardian
+ETC_20150317_000306	Verteidigung Guardian
 ETC_20150317_000307	Babauzi
 ETC_20150317_000308	Nachi Zombie
 ETC_20150317_000309	Zombie Berserker
@@ -3639,8 +3639,8 @@ ETC_20150317_003638	Fourth
 ETC_20150317_003639	Flock of monsters are moving to the Statue der Göttin Vakarine!
 ETC_20150317_003640	-------------------Trigger Regen -----------------
 ETC_20150317_003641	Successfully defended the Statue der Göttin Vakarine! {nl} Receive rewards from the Statue! {nl} The Statue will disappear in 30 Sekunden!
-ETC_20150317_003642	Defense of the Statue der Göttin Vakarine has ended
-ETC_20150317_003643	Defeated Pokjen! {nl}
+ETC_20150317_003642	Verteidigung of the Statue der Göttin Vakarine has ended
+ETC_20150317_003643	Besiegt Pokjen! {nl}
 ETC_20150317_003644	Silber Belohnung
 ETC_20150317_003645	's Schatztruhe
 ETC_20150317_003646	Found treasure chest
@@ -3683,7 +3683,7 @@ ETC_20150317_003682	Click the mouse for continuous attack
 ETC_20150317_003683	Rückkehr
 ETC_20150317_003684	This can be used to return to the NPC quickly.
 ETC_20150317_003685	s HitMe
-ETC_20150317_003686	It tag ended! Achievements Points: {Auto_1}
+ETC_20150317_003686	It tag ended! Achievements Punkte: {Auto_1}
 ETC_20150317_003687	It tag end!
 ETC_20150317_003688	Freeze: {Auto_1} / Player: {Auto_2} / Self-free: {Auto_3}
 ETC_20150317_003689	Escape tag
@@ -4335,7 +4335,7 @@ ETC_20150317_004334	Total Price:
 ETC_20150317_004335	's Purchase Request
 ETC_20150317_004336	Total Price: {Auto_1}, Amount: {Auto_2} ea
 ETC_20150317_004337	's Schwarzes Brett
-ETC_20150317_004338	Reset Status Points
+ETC_20150317_004338	Reset Status Punkte
 ETC_20150317_004339	Benötigt iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{@st59} Increase in Physical Attack and Critical Attack{/}
 ETC_20150317_004341	{@st59} Erhöht HP, HP Erholung, Kritischer Widerstand, Maximale Tragkraft{/}
@@ -4853,10 +4853,10 @@ ETC_20150317_004852	Successful Phalanx field training!
 ETC_20150317_004853	This information has already been collected
 ETC_20150317_004854	Gathering stone rubbings
 ETC_20150317_004855	Gathered stone rubbings.{nl}Return to the Epigraph Smith!
-ETC_20150317_004856	Defeated all interfering InfroBark{nl}Start the stone rubbings!
+ETC_20150317_004856	Besiegt all interfering InfroBark{nl}Start the stone rubbings!
 ETC_20150317_004857	You are too far away from the soul jar.{nl}In order to collect more souls, you have to come closer and kill them.
 ETC_20150317_004858	Forest of Thorns
-ETC_20150317_004859	Defeated Devilglove who interfered with the monument. {nl}Please check the contents of the monument.
+ETC_20150317_004859	Besiegt Devilglove who interfered with the monument. {nl}Please check the contents of the monument.
 ETC_20150317_004860	1 Stat raised from using Zubeck's Secret Moves.
 ETC_20150317_004861	What happened?
 ETC_20150317_004862	What should we do?
@@ -4900,7 +4900,7 @@ ETC_20150317_004899	Please send your commander my regards.
 ETC_20150317_004900	Shaman Puppe of Purification
 ETC_20150317_004901	Demon Corrupted Land
 ETC_20150317_004902	The Panto Totem can not be destroyed as it is surrounded by Demon forces.
-ETC_20150317_004903	Defeated Simorph!
+ETC_20150317_004903	Besiegt Simorph!
 ETC_20150317_004904	The Shaman Puppe of Purification defeated Carnivore!
 ETC_20150317_004905	The Shaman Puppe of Purification found corrupted land!
 ETC_20150317_004906	Thank you, my old friend.
@@ -5720,8 +5720,8 @@ ETC_20150317_005719	Connects mind and body with the target. All damage received 
 ETC_20150317_005720	Joint Penalty
 ETC_20150317_005721	Umbilical Cord
 ETC_20150317_005722	You will receive the defense and Pirizen from connection.
-ETC_20150317_005723	Defense and Prison are given to the linked members
-ETC_20150317_005724	Soul Defense
+ETC_20150317_005723	Verteidigung and Prison are given to the linked members
+ETC_20150317_005724	Soul Verteidigung
 ETC_20150317_005725	All damage received will be redirected to your Summon instead.
 ETC_20150317_005726	Predicting an enemy's attack
 ETC_20150317_005727	Transform
@@ -5753,7 +5753,7 @@ ETC_20150317_005752	Receiving continuous [Fire] damage.
 ETC_20150317_005753	Can't recover HP and SP. Recoverable with Cure.
 ETC_20150317_005754	Attack Weakened
 ETC_20150317_005755	Decreased attack. Decreases more per stack.
-ETC_20150317_005756	Defense Weakened
+ETC_20150317_005756	Verteidigung Weakened
 ETC_20150317_005757	Decreased defense. Decreases more per stack
 ETC_20150317_005758	Rüstung Break
 ETC_20150317_005759	Temporarily removes the defense of your armor.
@@ -5947,7 +5947,7 @@ ETC_20150317_005946	You can check the progress of your game and character rankin
 ETC_20150317_005947	Press {img F4 40 40} to open the Adventure Journal window. 
 ETC_20150317_005948	{nl} {nl}You can check the updated score and ranking of each group in the Adventure Journal.{nl} {nl}
 ETC_20150317_005949	The achievement of adventure journal is placed at city
-ETC_20150317_005950	Bybora's Wings
+ETC_20150317_005950	Bybora's Flügel
 ETC_20150317_005951	You can get this from an NPC.
 ETC_20150317_005952	You can create a party to play with other players.
 ETC_20150317_005953	Approach the character to make a party and left click of mouse
@@ -6013,9 +6013,9 @@ ETC_20150317_006012	Hold down {img Shift 45 45} and right-click to trade multipl
 ETC_20150317_006013	Items sold to the store can be bought back.
 ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
 ETC_20150317_006015	Statuspunkte
-ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
+ETC_20150317_006016	Use your Status Punkte gained from leveling up to make your character become stronger.
 ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Widerstand and max Inventory Weight {nl} {nl} INT: Increase in Magie Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Präzision, Evasion and Kritchance {nl}
+ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Punkte and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Widerstand and max Inventory Weight {nl} {nl} INT: Increase in Magie Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Präzision, Evasion and Kritchance {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
 ETC_20150317_006022	Convenience
@@ -6046,7 +6046,7 @@ ETC_20150317_006046	Each Goddess Statue in the world has special powers.
 ETC_20150317_006047	is used to warp to other areas.
 ETC_20150317_006048	Um die Teleport-Funktion bei  
 ETC_20150317_006049	 zu verwenden, muss diese aktiv sein.
-ETC_20150317_006050	can obtain character's Status Points
+ETC_20150317_006050	can obtain character's Status Punkte
 ETC_20150317_006051	Schatztruhen
 ETC_20150317_006052	 enthalten spezielle Gegenstände die du erhalten kannst.
 ETC_20150317_006053	In vilen Bereichen gibt es versteckte 
@@ -6731,7 +6731,7 @@ ETC_20150317_006731	Negyvas Field
 ETC_20150317_006732	Beacon
 ETC_20150317_006733	Space Transport Magie Circle
 ETC_20150317_006734	Groß Transport Magie Circle
-ETC_20150317_006735	Defense Activation Device 
+ETC_20150317_006735	Verteidigung Activation Device 
 ETC_20150317_006736	Reading Room
 ETC_20150317_006737	Groß Reading Room
 ETC_20150317_006738	Office
@@ -7117,7 +7117,7 @@ ETC_20150317_007117	Brickwall
 ETC_20150317_007118	Broken Moving Trap
 ETC_20150317_007119	Transparency Target
 ETC_20150317_007120	Destroyed Moving Trap
-ETC_20150317_007121	Mage Tower Defense
+ETC_20150317_007121	Mage Tower Verteidigung
 ETC_20150317_007122	Mage Tower Gate
 ETC_20150317_007123	Mage Tower Offense
 ETC_20150317_007124	Pfad
@@ -8617,7 +8617,7 @@ ETC_20150317_008617	Rezept - Steel Helm
 ETC_20150317_008618	Rezept - Goat Horn
 ETC_20150317_008619	Rezept - Red Horn
 ETC_20150317_008620	Rezept - Kepa Puppe
-ETC_20150317_008621	Rezept - Red Devil Wings
+ETC_20150317_008621	Rezept - Red Devil Flügel
 ETC_20150317_008622	Rezept - Feather Helm
 ETC_20150317_008623	Rezept - Sprout
 ETC_20150317_008624	Rezept - Dead Headband
@@ -8981,7 +8981,7 @@ ETC_20150317_008981	Output of Min ~ Max Reichweite
 ETC_20150317_008982	Output of Max Reichweite
 ETC_20150317_008983	{#050505}Attack {#050505}
 ETC_20150317_008984	{#050505}Erholungsrate{#050505}
-ETC_20150317_008985	{#050505}Defense {#050505}
+ETC_20150317_008985	{#050505}Verteidigung {#050505}
 ETC_20150317_008986	{#050505}Increase Attack {#050505}
 ETC_20150317_008987	Reichweite
 ETC_20150317_008988	Reichweite [Wert]
@@ -9210,7 +9210,7 @@ ETC_20150317_009210	[Auktionator]{nl} Demares
 ETC_20150317_009211	[Markt Manager]{nl}             Logi
 ETC_20150317_009212	[Begleiterhändler]{nl}          Christina
 ETC_20150317_009213	[Officer]{nl} Dortina
-ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
+ETC_20150317_009214	[Flügel of Vibora]{nl}            Lena
 ETC_20150317_009215	[Klaipeda's Magie Association]{nl}                              Henrika
 ETC_20150317_009216	[Bokor Klassenmeister]{nl}  Mama Marie Lavoie
 ETC_20150317_009217	Scripture of Prediction
@@ -9262,7 +9262,7 @@ ETC_20150317_009262	District 2 Purifier Pipe
 ETC_20150317_009263	Magie Supply Device
 ETC_20150317_009264	Closed Area
 ETC_20150317_009265	Outside the Closed Area
-ETC_20150317_009266	(Temporary)Crystal Mine 3rd Defense
+ETC_20150317_009266	(Temporary)Crystal Mine 3rd Verteidigung
 ETC_20150317_009267	Presences of Mystery
 ETC_20150317_009268	2nd Transport Magie Circle
 ETC_20150317_009269	Closure Devices of Top of Wizard
@@ -9522,7 +9522,7 @@ ETC_20150317_009522	Maggot
 ETC_20150317_009523	Inner Catacombs
 ETC_20150317_009524	Catacombs Outskirts
 ETC_20150317_009525	IMC_Guard
-ETC_20150320_009526	Status Points can be used in enhancing different abilities{nl}{nl}
+ETC_20150320_009526	Status Punkte can be used in enhancing different abilities{nl}{nl}
 ETC_20150323_009527	Orange Popolion
 ETC_20150323_009528	Orange Gribaru
 ETC_20150323_009529	Marionette
@@ -9799,7 +9799,7 @@ ETC_20150323_009800	STA will be increased by 25 for 30 mins.
 ETC_20150323_009801	Yogurt
 ETC_20150323_009802	Movement Speed will be increased by 1 for 30 mins.
 ETC_20150323_009803	Use multiple skills to suppress overkill.
-ETC_20150323_009804	Use Status Points obtained through leveling up {nl}    and upgrade your character's abilities.
+ETC_20150323_009804	Use Status Punkte obtained through leveling up {nl}    and upgrade your character's abilities.
 ETC_20150323_009805	Elementalist
 ETC_20150323_009806	Vynas Lager
 ETC_20150323_009807	Ryskus City
@@ -10486,7 +10486,7 @@ ETC_20150401_010487	Became as light as the soul through the power of the altar! 
 ETC_20150401_010488	Heilig Immunity
 ETC_20150401_010489	This monster is immune to the holy power of the altar!
 ETC_20150401_010490	Fire Spell
-ETC_20150401_010491	Defeated the monster and obtained the Fire Spell
+ETC_20150401_010491	Besiegt the monster and obtained the Fire Spell
 ETC_20150401_010492	Seal
 ETC_20150401_010493	This monster is sealed. It will not wake up unless struck with a strong impact.
 ETC_20150401_010494	Slip
@@ -11219,7 +11219,7 @@ ETC_20150428_011220	Pillar Trap
 ETC_20150428_011221	Reduced Movement Trap
 ETC_20150428_011222	Reduced Attack Trap
 ETC_20150428_011223	Restrained Attack Trap
-ETC_20150428_011224	Reduced Defense Trap
+ETC_20150428_011224	Reduced Verteidigung Trap
 ETC_20150428_011225	Taumas
 ETC_20150428_011226	Brown Ruteelin
 ETC_20150428_011227	Panto Pathfinder
@@ -11848,7 +11848,7 @@ ETC_20150714_011849	If you don't see the entity with the eyes of the truth, you 
 ETC_20150714_011850	The Eyes of Deception
 ETC_20150714_011851	You don't have the fragment of the eye of the truth.
 ETC_20150714_011852	Suppress the evil energy to weaken it.
-ETC_20150714_011853	Decrease Defense, Increase Movement Speed
+ETC_20150714_011853	Decrease Verteidigung, Increase Movement Speed
 ETC_20150714_011854	Protect yourself from the Petrifying Frost in Roxona Market
 ETC_20150714_011855	FLASH61_SQ_02 Use Quest
 ETC_20150714_011856	A colorless and odorless stimulant. The Royal Army soldiers don't seem to recognize it.
@@ -12172,7 +12172,7 @@ ETC_20150714_012173	Make a detection stick
 ETC_20150714_012174	Search for Polsas Highway using the detecting stick
 ETC_20150714_012175	The session that will be attached when entering Roxona Reconstruction Agency West Building
 ETC_20150714_012176	Colleague NPC that is following
-ETC_20150714_012177	Monastery Defense Object NPC
+ETC_20150714_012177	Monastery Verteidigung Object NPC
 ETC_20150714_012178	The proportion of Rezept sales
 ETC_20150714_012179	The proportion of Rezept purchases
 ETC_20150714_012180	Shadow, Skill Effekt * offset
@@ -13276,9 +13276,9 @@ ETC_20150717_013277	Fähigkeiten die du bereits beherrscht, kannst du unter den 
 ETC_20150717_013278	Your character's game progress is recorded in the Adventure Journal. Press F4 to view it.
 ETC_20150717_013279	You can complete the Adventure Index through Items, Monsters, Crafting, Map, and Game Progression.
 ETC_20150717_013280	You can receive rewards from 
-ETC_20150717_013281	Wings of Vibora, Lena
+ETC_20150717_013281	Flügel of Vibora, Lena
 ETC_20150717_013282	 in Klaipeda based on the character's Adventure Index.
-ETC_20150717_013283	You can upgrade each ability by using Status Points.
+ETC_20150717_013283	You can upgrade each ability by using Status Punkte.
 ETC_20150717_013284	You can preview the effects from the screen below.
 ETC_20150717_013285	Weiterentwicklung
 ETC_20150717_013286	You can advance to another class when your Class Level has reached 15.
@@ -13415,7 +13415,7 @@ ETC_20150717_013416	You can obtain gems by hunting in dungeons.
 ETC_20150717_013417	Watch out! You can lose your gems upon death!
 ETC_20150717_013418	Bete vor einer Göttin Statue um eine wohltuende Wirkung zu erhalten.
 ETC_20150717_013419	is used to warp to other areas.
-ETC_20150717_013420	gives Status Points.
+ETC_20150717_013420	gives Status Punkte.
 ETC_20150717_013421	Community
 ETC_20150717_013422	Sozialisierung
 ETC_20150717_013423	Use the Social Function to interact with other players.
@@ -13695,7 +13695,7 @@ ETC_20150729_013696	Nur Bereiche die du entdeckt hast werden angezeigt. Unentdec
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Verwende Statuspunkte welche du durch das leveln erhälst um deine Fähigkeiten zu verbessern.
 ETC_20150729_013699	Drücke {img F1 40 40} um die Charakter-Information zu öffnen und mehr über deinen Charakter zu erfahren.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Widerstand and Max Inventory Weight {nl} {nl} INT : Increase in Magie Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magie Defense and Block Penetration {nl} {nl} DEX : Increase in Präzision, Evasion and Kritchance {nl}
+ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Widerstand and Max Inventory Weight {nl} {nl} INT : Increase in Magie Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magie Verteidigung and Block Penetration {nl} {nl} DEX : Increase in Präzision, Evasion and Kritchance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	Du kannst die Skills deines Charakters im Skill-Fenster bearbeiten.
 ETC_20150729_013703	Drücke {img F3 40 40} um das Skill-Fenster zu öffnen.
@@ -14036,7 +14036,7 @@ ETC_20150730_014037	Schadens will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Widerstand and Max Weight{nl} {nl}- INT : Increase in Magie Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magie Defense, Block Penetration and Widerstand to harmful effects{nl} {nl}- DEX : Increase in Präzision, Evasion and Critical Rate{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Punkte into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Widerstand and Max Weight{nl} {nl}- INT : Increase in Magie Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magie Verteidigung, Block Penetration and Widerstand to harmful effects{nl} {nl}- DEX : Increase in Präzision, Evasion and Critical Rate{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14161,7 +14161,7 @@ ETC_20150804_014162	The lighting effects at the church
 ETC_20150804_014163	The church lighting enhances your SP regeneration
 ETC_20150804_014164	THe lighting effects aft the Loading place
 ETC_20150804_014165	SP Erholungsrate will increase due to the light effect of the loading place.
-ETC_20150804_014166	Pre Dungeon Defense
+ETC_20150804_014166	Pre Dungeon Verteidigung
 ETC_20150804_014167	Enhance a Shield to level 4
 ETC_20150804_014168	Check the Great King Zachariel's Epitaph
 ETC_20150804_014169	Time until the Light Beacon for the Prayer Hall gets activated: 
@@ -14184,7 +14184,7 @@ ETC_20150804_014185	The place to put the stone
 ETC_20150804_014186	Zachariel's Epitaph
 ETC_20150807_014187	AoE Angriffsanzahl {img red_up_arrow 16 16} 2
 ETC_20150807_014188	Lightning Property Attack {img red_up_arrow 16 16} 30
-ETC_20150807_014189	Defense {img red_up_arrow 16 16} 6
+ETC_20150807_014189	Verteidigung {img red_up_arrow 16 16} 6
 ETC_20150807_014190	Dunkel-Eigenschaft Attack {img red_up_arrow 16 16} 30
 ETC_20150807_014191	Movement Speed {img red_up_arrow 16 16} 5
 ETC_20150807_014192	Feuer-Eigenschaft Widerstand {img red_up_arrow 16 16} 15
@@ -15014,7 +15014,7 @@ ETC_20151001_015015	Obtain the fresh body fluid of monsters
 ETC_20151001_015016	Obtain the stone from the rocks nearby
 ETC_20151001_015017	Obtain the leather string from the monsters
 ETC_20151001_015018	Make the string bunch for bookbinding through the leather string
-ETC_20151001_015019	Plateau Defense Target NPC
+ETC_20151001_015019	Plateau Verteidigung Target NPC
 ETC_20151001_015020	Einhand-Schwer Dagger
 ETC_20151001_015021	Einhand-Schwer Sub
 ETC_20151001_015022	Armbrust Dagger
@@ -15238,8 +15238,8 @@ ETC_20151001_015239	Barrier Crystal
 ETC_20151001_015240	Rajatoad's Egg
 ETC_20151001_015241	Rajatadpole's Egg
 ETC_20151001_015242	Defensive Magie Circle
-ETC_20151001_015243	Defense Magie Circle
-ETC_20151001_015244	Battle Field Defense Device
+ETC_20151001_015243	Verteidigung Magie Circle
+ETC_20151001_015244	Battle Field Verteidigung Device
 ETC_20151001_015245	Demon Flag
 ETC_20151001_015246	Castle Field_65_3
 ETC_20151001_015247	Gigantic Fruit Forest_34_2
@@ -17218,7 +17218,7 @@ ETC_20151102_017219	OptDesc/ - Golden Bell Shield Skill Lv +1
 ETC_20151102_017220	OptDesc/ - Simony Skill Lv +1
 ETC_20151102_017221	OptDesc/ - Indulgentia Skill Lv +1
 ETC_20151102_017222	OptDesc/ - Discerning Evil Skill Lv +1
-ETC_20151102_017223	OptDesc/ - Increase Magie Defense Skill Lv +1
+ETC_20151102_017223	OptDesc/ - Increase Magie Verteidigung Skill Lv +1
 ETC_20151102_017224	OptDesc/ - Oblation Skill Lv +1
 ETC_20151102_017225	OptDesc/ - Smite Skill Lv +1
 ETC_20151102_017226	OptDesc/ - Restoration Skill Lv +1
@@ -17803,7 +17803,7 @@ ETC_20151224_017803	Capella
 ETC_20151224_017804	Rune Stone
 ETC_20151224_017805	Test Zone Blue
 ETC_20151224_017806	For Directing
-ETC_20151224_017807	Guild Hangout
+ETC_20151224_017807	Gilden-Hangout
 ETC_20151224_017808	Sekunde Starting Point
 ETC_20151224_017809	Rathboy Lake
 ETC_20151224_017810	Sekta Forest
@@ -17962,7 +17962,7 @@ ETC_20151224_017962	Belohnung Buff - Recovery
 ETC_20151224_017963	HP/SP/STA Erholungsrate increases
 ETC_20151224_017964	Catacombs Corpse
 ETC_20151224_017965	Belohnung Buff - Attack
-ETC_20151224_017966	Belohnung Buff - Defense
+ETC_20151224_017966	Belohnung Buff - Verteidigung
 ETC_20151224_017967	Changing
 ETC_20151224_017968	In the state of a transformed monster.
 ETC_20151224_017969	The rotating disk responded
@@ -17978,7 +17978,7 @@ ETC_20151224_017978	Reduce the monster's HP
 ETC_20151224_017979	Reduces the monster's HP and defense
 ETC_20151224_017980	Reward Buff - Attack Rate Increase
 ETC_20151224_017981	Increases attack
-ETC_20151224_017982	Reward Buff - Defense Rate increase
+ETC_20151224_017982	Reward Buff - Verteidigung Rate increase
 ETC_20151224_017983	Increases defense and gradually increases stamina
 ETC_20151224_017984	Increases Erholungsrate
 ETC_20151224_017985	HP Erholungsrate per Sekunde and SP Erholungsrate per Sekunde increase
@@ -17992,7 +17992,7 @@ ETC_20151224_017992	Number Hi Low
 ETC_20151224_017993	Number Baseball Game
 ETC_20151224_017994	Find the next number
 ETC_20151224_017995	Number Combination
-ETC_20151224_017996	Defense Gimmick
+ETC_20151224_017996	Verteidigung Gimmick
 ETC_20151224_017997	Find the same dice Gimmick
 ETC_20151224_017998	Pair up
 ETC_20151224_017999	Catch the Tail
@@ -18966,7 +18966,7 @@ ETC_20151224_018966	OptDesc/Golden Bell Shield Skill Lv +1
 ETC_20151224_018967	OptDesc/Simony Skill Lv +1
 ETC_20151224_018968	OptDesc/Indulgentia Skill Lv +1
 ETC_20151224_018969	OptDesc/Discerning Evil Skill Lv +1
-ETC_20151224_018970	OptDesc/Increase Magie Defense Skill Lv +1
+ETC_20151224_018970	OptDesc/Increase Magie Verteidigung Skill Lv +1
 ETC_20151224_018971	OptDesc/Oblation Skill Lv +1
 ETC_20151224_018972	OptDesc/Smite Skill Lv +1
 ETC_20151224_018973	OptDesc/Restoration Skill Lv +1
@@ -19671,7 +19671,7 @@ ETC_20151224_019671	Return to Nature
 ETC_20151224_019672	Bring to Begleiter
 ETC_20151224_019673	Nächster Gildenturm
 ETC_20151224_019674	Place the {Name} item to raise Guild EXP.
-ETC_20151224_019675	Available Attribute Points 
+ETC_20151224_019675	Available Attribute Punkte 
 ETC_20151224_019676	Declare War
 ETC_20151224_019677	Are you sure you want to declare a war?
 ETC_20151224_019678	Entferne Tower
@@ -19857,7 +19857,7 @@ ETC_20151224_019857	Your Instanced Dungeon Unlimited Entries Gutschein is alread
 ETC_20151224_019858	Your current entry count is 0.
 ETC_20151224_019859	Your reset voucher will disappear from your inventory when it is used and will only apply to the current character.
 ETC_20151224_019860	Skill Reset
-ETC_20151224_019861	  Resets all Skill Points
+ETC_20151224_019861	  Resets all Skill Punkte
 ETC_20151224_019862	Erhöhte EXP von Monstern
 ETC_20151224_019863	You cannot buy the currently equipped hairstyle.
 ETC_20151224_019864	Arrange PC Logout
@@ -19912,7 +19912,7 @@ ETC_20151224_019912	[Begleiter Trader]{nl}            Taurus
 ETC_20151224_019913	[Markt Manager]{nl}         Tilliana
 ETC_20151224_019914	[Lagerwächterin]{nl}          Aisa
 ETC_20151224_019915	[Orsha's Magie Association]{nl}           Florianna
-ETC_20151224_019916	[Wings of Vibora]{nl}            Rosia
+ETC_20151224_019916	[Flügel of Vibora]{nl}            Rosia
 ETC_20151224_019917	Novaha Relic
 ETC_20151224_019918	Mind Control Crystal
 ETC_20151224_019919	Guardian Statue
@@ -20245,8 +20245,8 @@ ETC_20160224_020245	Protects against Tera Prison Cutters' SP adsorption.
 ETC_20160224_020246	Divine Energy
 ETC_20160224_020247	The divine energy that allows you to attack Panto Totems is currently active.
 ETC_20160224_020248	Unable to level down
-ETC_20160224_020249	Defense Discharge
-ETC_20160224_020250	Magie Defense Discharge
+ETC_20160224_020249	Verteidigung Discharge
+ETC_20160224_020250	Magie Verteidigung Discharge
 ETC_20160224_020251	Physical Enhancement
 ETC_20160224_020252	Increases attack and defense and increases damage inflicted/reduces damage received for specific skills.
 ETC_20160224_020253	Stronger Hieb property attacks.
@@ -20421,11 +20421,11 @@ ETC_20160224_020421	Following Battle NPC
 ETC_20160224_020422	Virtov Set
 ETC_20160224_020423	Ice Property Attack {img green_up_arrow 16 16} 12
 ETC_20160224_020424	Ice Property Attack {img green_up_arrow 16 16} 26
-ETC_20160224_020425	Stich-Type Defense {img green_up_arrow 16 16} 25
+ETC_20160224_020425	Stich-Type Verteidigung {img green_up_arrow 16 16} 25
 ETC_20160224_020426	Virtov Leder Set
-ETC_20160224_020427	Schlag-Type Defense {img green_up_arrow 16 16} 25
+ETC_20160224_020427	Schlag-Type Verteidigung {img green_up_arrow 16 16} 25
 ETC_20160224_020428	Virtov Plate Set
-ETC_20160224_020429	Hieb-Type Defense {img green_up_arrow 16 16} 25
+ETC_20160224_020429	Hieb-Type Verteidigung {img green_up_arrow 16 16} 25
 ETC_20160224_020430	Lolopanther Set
 ETC_20160224_020431	SP Recovery {img green_up_arrow 16 16} 100
 ETC_20160224_020432	Erd-Eigenschaft Attack {img green_up_arrow 16 16} 42
@@ -20463,17 +20463,17 @@ ETC_20160224_020463	Rezept - Attack Boost Potion: Lightning
 ETC_20160224_020464	Rezept - Attack Boost Potion: Earth
 ETC_20160224_020465	Rezept - Attack Boost Potion: Heilig
 ETC_20160224_020466	Rezept - Attack Boost Potion: Dark
-ETC_20160224_020467	Rezept - Defense Boost Potion: Stab
-ETC_20160224_020468	Rezept - Defense Boost Potion: Hieb
-ETC_20160224_020469	Rezept - Defense Boost Potion: Schlag
-ETC_20160224_020470	Rezept - Defense Boost Potion: Missile
-ETC_20160224_020471	Rezept - Defense Boost Potion: Fire
-ETC_20160224_020472	Rezept - Defense Boost Potion: Ice
-ETC_20160224_020473	Rezept - Defense Boost Potion: Gift
-ETC_20160224_020474	Rezept - Defense Boost Potion: Lightning
-ETC_20160224_020475	Rezept - Defense Boost Potion: Earth
-ETC_20160224_020476	Rezept - Defense Boost Potion: Heilig
-ETC_20160224_020477	Rezept - Defense Boost Potion: Dark
+ETC_20160224_020467	Rezept - Verteidigung Boost Potion: Stab
+ETC_20160224_020468	Rezept - Verteidigung Boost Potion: Hieb
+ETC_20160224_020469	Rezept - Verteidigung Boost Potion: Schlag
+ETC_20160224_020470	Rezept - Verteidigung Boost Potion: Missile
+ETC_20160224_020471	Rezept - Verteidigung Boost Potion: Fire
+ETC_20160224_020472	Rezept - Verteidigung Boost Potion: Ice
+ETC_20160224_020473	Rezept - Verteidigung Boost Potion: Gift
+ETC_20160224_020474	Rezept - Verteidigung Boost Potion: Lightning
+ETC_20160224_020475	Rezept - Verteidigung Boost Potion: Earth
+ETC_20160224_020476	Rezept - Verteidigung Boost Potion: Heilig
+ETC_20160224_020477	Rezept - Verteidigung Boost Potion: Dark
 ETC_20160224_020478	Rezept - Academy
 ETC_20160224_020479	Ein Rezept to create a construction for the guild.
 ETC_20160224_020480	Rezept - Forge
@@ -20656,7 +20656,7 @@ ETC_20160224_020656	Storing an item in Team Storage{nl}reduces its Potential.{nl
 ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of items you can trade.{nl}Do you still want to store it?
 ETC_20160224_020658	You've exhausted your available trades.
 ETC_20160224_020659	Schlag-Type
-ETC_20160224_020660	Schlag-Type Defense
+ETC_20160224_020660	Schlag-Type Verteidigung
 ETC_20160224_020661	Verzaubert
 ETC_20160224_020662	Diese Sammlung teilst du dir mit deinem Team.{nl}Der Gegenstand kann nicht zurückgenommen werden nachdem er einmal{nl}hinzugefügt wurde.{nl}Wirklich hinzufügen? 
 ETC_20160224_020663	You have already registered this recipe.
@@ -21034,7 +21034,7 @@ ETC_20160310_021032	Teile Geschichten aus Kämpfen
 ETC_20160310_021033	Teile Geschichten über Abenteuer
 ETC_20160310_021034	Jiangshi
 ETC_20160310_021035	Cheers
-ETC_20160310_021036	Defeated
+ETC_20160310_021036	Besiegt
 ETC_20160310_021037	Scatter Flowers
 ETC_20160310_021038	Thanks
 ETC_20160310_021039	Cossack Dance
@@ -21271,11 +21271,11 @@ ETC_20160323_021269	Remove Dangerous Magie Circles
 ETC_20160323_021270	Charge Pattern Time Settings
 ETC_20160323_021271	Bronza Set
 ETC_20160323_021272	Argint Set
-ETC_20160323_021273	Magie Defense {img green_up_arrow 16 16} 14
+ETC_20160323_021273	Magie Verteidigung {img green_up_arrow 16 16} 14
 ETC_20160323_021274	Auru Set
-ETC_20160323_021275	Magie Defense {img green_up_arrow 16 16} 18
+ETC_20160323_021275	Magie Verteidigung {img green_up_arrow 16 16} 18
 ETC_20160323_021276	Platina Set
-ETC_20160323_021277	Magie Defense {img green_up_arrow 16 16} 22
+ETC_20160323_021277	Magie Verteidigung {img green_up_arrow 16 16} 22
 ETC_20160323_021278	1 day=overall instanced dungeons. 0=instanced dungeons per server
 ETC_20160323_021279	Rezept - Old Cane Restoration Tome
 ETC_20160323_021280	A tome used to restore old canes.
@@ -21720,7 +21720,7 @@ ETC_20160411_021718	Golden Bell Shield Skill Lv +1
 ETC_20160411_021719	Simony Skill Lv +1
 ETC_20160411_021720	Indulgentia Skill Lv +1
 ETC_20160411_021721	Discerning Evil Skill Lv +1
-ETC_20160411_021722	Increase Magie Defense Skill Lv +1
+ETC_20160411_021722	Increase Magie Verteidigung Skill Lv +1
 ETC_20160411_021723	Oblation Skill Lv +1
 ETC_20160411_021724	Smite Skill Lv +1
 ETC_20160411_021725	Restoration Skill Lv +1
@@ -22015,7 +22015,7 @@ ETC_20160718_022014	Tevhrin Stalactite Cave Section 4
 ETC_20160718_022015	Tevhrin Stalactite Cave Section 5
 ETC_20160718_022016	Khonot Forest
 ETC_20160718_022017	Khamadon Forest
-ETC_20160718_022018	Regional Guild Battle
+ETC_20160718_022018	Regionale Gildenschlacht
 ETC_20160718_022019	Someone that looks like a monk is fighting a few monsters{nl}Go and help him
 ETC_20160718_022020	I don't know who you are, but I would be very grateful for any help
 ETC_20160718_022021	Defeat the Crabil that is occupying the altar
@@ -22311,12 +22311,12 @@ ETC_20160718_022310	This item has expired.
 ETC_20160718_022311	This item is not expired.
 ETC_20160718_022312	Items that have expired cannot be equipped.
 ETC_20160718_022313	Stufe {Count} Transzendenz Damage Increase
-ETC_20160718_022314	Stufe {Count} Transzendenz Physical Defense Increase
+ETC_20160718_022314	Stufe {Count} Transzendenz Physical Verteidigung Increase
 ETC_20160718_022315	Stufe {Count} Transzendenz Accuracy Increase
 ETC_20160718_022316	Stufe {Count} Transzendenz Evasion Increase
 ETC_20160718_022317	Stufe {Count} Transzendenz Magical Amplification Increase
 ETC_20160718_022318	Stufe {Count} Transzendenz CON Increase
-ETC_20160718_022319	Stufe {Count} Transzendenz Magical Defense Increase
+ETC_20160718_022319	Stufe {Count} Transzendenz Magical Verteidigung Increase
 ETC_20160718_022320	You cannot trade Transcended items.
 ETC_20160718_022321	The item has expired or cannot be registered.
 ETC_20160718_022322	You cannot transform into this monster.
@@ -22359,7 +22359,7 @@ ETC_20160718_022358	You have found offerings
 ETC_20160718_022359	You have found Ceyral saplings
 ETC_20160718_022360	Digging up from the ground
 ETC_20160718_022361	You have found a Manaryll Tombstone
-ETC_20160718_022362	You have found Sticky Wings
+ETC_20160718_022362	You have found Sticky Flügel
 ETC_20160718_022363	Starting the Lolopanther Area
 ETC_20160718_022364	The ferret starts attacking you
 ETC_20160718_022365	Demons!
@@ -22560,7 +22560,7 @@ ETC_20160718_022559	You cannot change to neutral status during a guild war.
 ETC_20160718_022560	This guild is set to neutral status.{nl}You cannot declare war against it.
 ETC_20160718_022561	Your guild is set to neutral status.{nl}You cannot declare war on other guilds.
 ETC_20160718_022562	You cannot declare war without a Guild Tower.
-ETC_20160718_022563	The Guild Master{nl}has entered a Guild Battle.
+ETC_20160718_022563	The Guild Master{nl}has entered a Gildenschlacht.
 ETC_20160718_022564	The position of Guild Master can only be passed on within the Guild Hangout.
 ETC_20160718_022565	This user is not inside the Guild Hangout.
 ETC_20160718_022566	This user is not a Templar.
@@ -22580,7 +22580,7 @@ ETC_20160718_022579	This battle hasn't opened yet.
 ETC_20160718_022580	You have joined this league {COUNT} times out of a total allowed of {MAX} times.{nl}Start matching?
 ETC_20160718_022581	You have exceeded the daily participation count allowed for this league.{nl}This count is reset every day at {TIME}.
 ETC_20160718_022582	The Guild Master is looking for an opponent or has yet to apply for participation.
-ETC_20160718_022583	The Guild Battle has begun. Use the icons on the left of the minimap to participate.
+ETC_20160718_022583	The Gildenschlacht has begun. Use the icons on the left of the minimap to participate.
 ETC_20160718_022584	Please try again after {TIME} seconds.
 ETC_20160718_022585	You are activating the object,
 ETC_20160718_022586	Someone is activating the object.
@@ -22941,8 +22941,8 @@ ETC_20160811_022940	Yudejan Forest
 ETC_20160811_022941	Nobreer Forest
 ETC_20160811_022942	Mishekan Forest
 ETC_20160811_022943	Alembique Cave
-ETC_20160811_022944	Regional Guild Battle: 4-Ways
-ETC_20160811_022945	Uphill Defense
+ETC_20160811_022944	Regionale Gildenschlacht: 4-Ways
+ETC_20160811_022945	Uphill Verteidigung
 ETC_20160811_022946	Lake Mission
 ETC_20160811_022947	Thank you for your effort.
 ETC_20160811_022948	I'll open the door now.
@@ -23045,9 +23045,9 @@ ETC_20160811_023044	Error in card data. Please check.
 ETC_20160811_023045	Failed to defeat monster. Please check.
 ETC_20160811_023046	Falscher Index.
 ETC_20160811_023047	Guild Hangout Entrance Denied Log
-ETC_20160811_023048	Uphill Defense Mission
-ETC_20160811_023049	Starter Defense Mission: Event
-ETC_20160811_023050	Medium Defense Mission: Event
+ETC_20160811_023048	Uphill Verteidigung Mission
+ETC_20160811_023049	Starter Verteidigung Mission: Event
+ETC_20160811_023050	Medium Verteidigung Mission: Event
 ETC_20160811_023051	Wendet für Eure Charaktere für 1 Stunde verschiedene Effekte an. Rechtsklick zum verwenden.{nl} - Verbraucht Zeit, wenn du mit dem Spiel verbunden bist.{nl} - Verwendung als Herstellungsmaterial für x4 EXP Tome. {nl} Rezept kann vom Zubehör-Händler erworben werden.{nl}[EXP Tome Effekte]{nl} - +30% EXP beim töten von Monstern{nl}(Stapelbar mit Token-Vorteilen){nl}(Gilt nicht für EXP-Karten){nl} - Verdoppelung der STA Erholungsrate
 ETC_20160811_023052	Rote Edelstein Box
 ETC_20160811_023053	Eine Box, welche 4 Arten von Edelsteinen und ein Edelsteinschleifmittel enthält. Rechtsklick zum erhalten.
@@ -23255,7 +23255,7 @@ ETC_20160811_023254	Following Assistant NPC
 ETC_20160811_023255	Following Professional NPC
 ETC_20160811_023256	GM Monster Summoning Event
 ETC_20160811_023257	Period for reviewing penalties after rejoining guild
-ETC_20160811_023258	Period with Guild Battle disabled after rejoining guild
+ETC_20160811_023258	Period with Gildenschlacht disabled after rejoining guild
 ETC_20160811_023259	Apply Boss Card System
 ETC_20160811_023260	Use NISMS SOAP API related code in BillingShop Y/N
 ETC_20160811_023261	Only TP will be sold in BillingShop NISMS.
@@ -24026,7 +24026,7 @@ ETC_20160811_024025	The Red Crystal is not reacting to anything
 ETC_20160811_024026	Use
 ETC_20160811_024027	Do not use
 ETC_20160811_024028	Using Burning Crystal
-ETC_20160811_024029	You will be unable to participate in Regional Guild Battles for {Number1) days if you join another guild within {Number2} days of exiting your current guild. {nl}You'll be able to participate in Regional Guild Battles in {Time} days
+ETC_20160811_024029	You will be unable to participate in Regionale Gildenschlachts for {Number1) days if you join another guild within {Number2} days of exiting your current guild. {nl}You'll be able to participate in Regionale Gildenschlachts in {Time} days
 ETC_20160811_024030	It will be applied in accordance to your skill level. Do you wish to proceed?
 ETC_20160811_024031	You may only use the One-line Message Board 3 times per day.
 ETC_20160811_024032	You have reached the limit and cannot charge any more.
@@ -24120,65 +24120,65 @@ ETC_20160811_024119	The mission is beginning!
 ETC_20160811_024120	Divine Torch
 ETC_20160811_024121	Starting in 20 seconds
 ETC_20160811_024122	Stage 1 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024123	Uphill Defense Stage 1
+ETC_20160811_024123	Uphill Verteidigung Stage 1
 ETC_20160811_024124	Stage 2 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024125	Uphill Defense Stage 2
+ETC_20160811_024125	Uphill Verteidigung Stage 2
 ETC_20160811_024126	Stage 3 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024127	Uphill Defense Stage 3
+ETC_20160811_024127	Uphill Verteidigung Stage 3
 ETC_20160811_024128	Stage 4 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024129	Uphill Defense Stage 4
+ETC_20160811_024129	Uphill Verteidigung Stage 4
 ETC_20160811_024130	Stage 5 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024131	Uphill Defense Stage 5
+ETC_20160811_024131	Uphill Verteidigung Stage 5
 ETC_20160811_024132	Stage 6 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024133	Uphill Defense Stage 6
+ETC_20160811_024133	Uphill Verteidigung Stage 6
 ETC_20160811_024134	Stage 7 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024135	Uphill Defense Stage 7
+ETC_20160811_024135	Uphill Verteidigung Stage 7
 ETC_20160811_024136	Stage 8 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024137	Uphill Defense Stage 8
+ETC_20160811_024137	Uphill Verteidigung Stage 8
 ETC_20160811_024138	Stage 9 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024139	Uphill Defense Stage 9
+ETC_20160811_024139	Uphill Verteidigung Stage 9
 ETC_20160811_024140	Stage 10 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024141	Uphill Defense Stage 10
+ETC_20160811_024141	Uphill Verteidigung Stage 10
 ETC_20160811_024142	Stage 11 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024143	Uphill Defense Stage 11
+ETC_20160811_024143	Uphill Verteidigung Stage 11
 ETC_20160811_024144	Stage 12 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024145	Uphill Defense Stage 12
+ETC_20160811_024145	Uphill Verteidigung Stage 12
 ETC_20160811_024146	Stage 13 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024147	Uphill Defense Stage 13
+ETC_20160811_024147	Uphill Verteidigung Stage 13
 ETC_20160811_024148	Stage 14 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024149	Uphill Defense Stage 14
+ETC_20160811_024149	Uphill Verteidigung Stage 14
 ETC_20160811_024150	Stage 15 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024151	Uphill Defense Stage 15
+ETC_20160811_024151	Uphill Verteidigung Stage 15
 ETC_20160811_024152	Stage 16 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024153	Uphill Defense Stage 16
+ETC_20160811_024153	Uphill Verteidigung Stage 16
 ETC_20160811_024154	Stage 17 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024155	Uphill Defense Stage 17
+ETC_20160811_024155	Uphill Verteidigung Stage 17
 ETC_20160811_024156	Stage 18 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024157	Uphill Defense Stage 18
+ETC_20160811_024157	Uphill Verteidigung Stage 18
 ETC_20160811_024158	Stage 19 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024159	Uphill Defense Stage 19
+ETC_20160811_024159	Uphill Verteidigung Stage 19
 ETC_20160811_024160	Stage 20 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024161	Uphill Defense Stage 20
+ETC_20160811_024161	Uphill Verteidigung Stage 20
 ETC_20160811_024162	Stage 21 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024163	Uphill Defense Stage 21
+ETC_20160811_024163	Uphill Verteidigung Stage 21
 ETC_20160811_024164	Stage 22 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024165	Uphill Defense Stage 22
+ETC_20160811_024165	Uphill Verteidigung Stage 22
 ETC_20160811_024166	Stage 23 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024167	Uphill Defense Stage 23
+ETC_20160811_024167	Uphill Verteidigung Stage 23
 ETC_20160811_024168	Stage 24 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024169	Uphill Defense Stage 24
+ETC_20160811_024169	Uphill Verteidigung Stage 24
 ETC_20160811_024170	Stage 25 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024171	Uphill Defense Stage 25
+ETC_20160811_024171	Uphill Verteidigung Stage 25
 ETC_20160811_024172	Stage 26 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024173	Uphill Defense Stage 26
+ETC_20160811_024173	Uphill Verteidigung Stage 26
 ETC_20160811_024174	Stage 27 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024175	Uphill Defense Stage 27
+ETC_20160811_024175	Uphill Verteidigung Stage 27
 ETC_20160811_024176	Stage 28 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024177	Uphill Defense Stage 28
+ETC_20160811_024177	Uphill Verteidigung Stage 28
 ETC_20160811_024178	Stage 29 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024179	Uphill Defense Stage 29
+ETC_20160811_024179	Uphill Verteidigung Stage 29
 ETC_20160811_024180	Stage 30 is about to start!{nl}Protect the Divine Torch for 40 seconds.
-ETC_20160811_024181	Uphill Defense Stage 30
+ETC_20160811_024181	Uphill Verteidigung Stage 30
 ETC_20160811_024182	Mission Success : Returning in 60 seconds
 ETC_20160811_024183	Mission Success : Returning to the original zone in 60 seconds
 ETC_20160811_024184	Divine Torch - 80% HP
@@ -24603,7 +24603,7 @@ ETC_20161005_024602	Ghibulinas Forest
 ETC_20161005_024603	Mollogheo Forest
 ETC_20161005_024604	Ranko 26 Waters
 ETC_20161005_024605	Ranko 22 Waters
-ETC_20161005_024606	Regional Guild Battle : Lost Temple
+ETC_20161005_024606	Regionale Gildenschlacht : Lost Temple
 ETC_20161005_024607	Darkness Property Instanced Dungeon
 ETC_20161005_024608	Ground Property Instanced Dungeon
 ETC_20161005_024609	Zima Suecourt
@@ -24799,7 +24799,7 @@ ETC_20161005_024798	Are you hurt?
 ETC_20161005_024799	You made your mother worried sick.
 ETC_20161005_024800	Thank you for participating in the translation process.
 ETC_20161005_024801	[Rank 8] Pioneering Savior
-ETC_20161005_024802	Reach Rank 8 by the Wings of Vaivora
+ETC_20161005_024802	Reach Rank 8 by the Flügel of Vaivora
 ETC_20161005_024803	Reach Rank 8
 ETC_20161005_024804	The timing of the Lamp's magic stone
 ETC_20161005_024805	The timing in which the Lamp's magic stone reacts
@@ -24924,7 +24924,7 @@ ETC_20161005_024923	Wonderland Package - Archer (Weiblich)
 ETC_20161005_024924	Wonderland Package - Cleric (Männlich)
 ETC_20161005_024925	Wonderland Package - Cleric (Weiblich)
 ETC_20161005_024926	The Murmillo is a gladiatorial class that has a fine balance between offense and defense. It is capable of wearing a Cassis Crista to block ranged attacks or to enhance any shield related skills.
-ETC_20161005_024927	Offense, Defense
+ETC_20161005_024927	Offense, Verteidigung
 ETC_20161005_024928	Lancer
 ETC_20161005_024929	The Lancer is a cavalry class that uses strong anti-personnel skills. It is capable of charging through enemy magic circles and obstacles.
 ETC_20161005_024930	Elementalists harness the elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
@@ -25372,7 +25372,7 @@ ETC_20161005_025371	Recipe - Regard Horn Crossbow
 ETC_20161005_025372	Recipe - Vienarazis Mace
 ETC_20161005_025373	Recipe - Skull Smasher
 ETC_20161005_025374	Recipe - Pygry Spear
-ETC_20161005_025375	Recipe - Wingshard Spear
+ETC_20161005_025375	Recipe - Flügelhard Spear
 ETC_20161005_025376	Recipe - Sacmet
 ETC_20161005_025377	Recipe - Regard Horn Pike
 ETC_20161005_025378	Recipe - Double Stack
@@ -25418,7 +25418,7 @@ ETC_20161005_025417	You cannot change your equipment before picking up a thrown 
 ETC_20161005_025418	Your character's level cannot be higher than 280 in the Seasonal Server.
 ETC_20161005_025419	You are not the right gender to equip this.
 ETC_20161005_025420	AoE Attack Ratio is increased by {Value} for {Time} minutes.
-ETC_20161005_025421	AoE Defense Ratio is increased by {Value} for {Time} minutes.
+ETC_20161005_025421	AoE Verteidigung Ratio is increased by {Value} for {Time} minutes.
 ETC_20161005_025422	Unable to purchase
 ETC_20161005_025423	{#FF0000} The package and all included items are untradable.{/}
 ETC_20161005_025424	{#0054FF} The package and all included items are tradable.{/}
@@ -25477,7 +25477,7 @@ ETC_20161005_025476	Move to the Solmiki Area with your party leader
 ETC_20161005_025477	You cannot enter the Earth Tower Solmiki Area!{nl}The party members do not meet the specified conditions{nl}(Level not high enough)
 ETC_20161005_025478	Level Up {Auto_1}!
 ETC_20161005_025479	There are already more structures than is possible at your skill level. You must destroy one to place one.
-ETC_20161005_025480	You must have at least {Number} guild members in order to apply for the Regional Guild Battles.
+ETC_20161005_025480	You must have at least {Number} guild members in order to apply for the Regionale Gildenschlachts.
 ETC_20161005_025481	You cannot use it on yourself.
 ETC_20161005_025482	You might lose some of your silver, gems, cards or blessed gems when you become incapable of combat in this current area.
 ETC_20161005_025483	Welcome to the Jurate server.{nl}{nl}The Jurate server is a seasonal server that will only be operated for a short period of time.{nl}{nl}Please refer to the official homepage for more details.{/}
@@ -25823,7 +25823,7 @@ ETC_20161214_025822	A title given to CBT1 participants.
 ETC_20161214_025823	A title given to people who have met 100 NPCs.
 ETC_20161214_025824	Title awarded to users selected during the event.
 ETC_20161214_025825	A title that is rewarded to people that have discovered all of the treasure chests.
-ETC_20161214_025826	Reach Rank 8 by the Wings of Vaivora.
+ETC_20161214_025826	Reach Rank 8 by the Flügel of Vaivora.
 ETC_20161214_025827	A title that is awarded to the Swordsman that stood at the pinnacle of the Team Battle League.
 ETC_20161214_025828	A title that is awarded to the Wizard that stood at the pinnacle of the Team Battle League.
 ETC_20161214_025829	A title that is awarded to the Archer that stood at the pinnacle of the Team Battle League.
@@ -25884,7 +25884,7 @@ ETC_20161214_025883	Giant Buff
 ETC_20161214_025884	An enormous monster, like the leader of the group.
 ETC_20161214_025885	Evade Lv2
 ETC_20161214_025886	Berserker
-ETC_20161214_025887	Decreases Crit Resistance and changed Defense into 0.
+ETC_20161214_025887	Decreases Crit Resistance and changed Verteidigung into 0.
 ETC_20161214_025888	Distant Resistance
 ETC_20161214_025889	Resists distant attacks 10 times.
 ETC_20161214_025890	Neighbor of Yesterday
@@ -26321,7 +26321,7 @@ ETC_20161214_026320	Fire Property
 ETC_20161214_026321	This team name is already being used or otherwise unavailable.
 ETC_20161214_026322	Already sent friend request.
 ETC_20161214_026323	This mission cannot be enter as a different character.
-ETC_20161214_026324	Guild Battle Season: from {sMonth}/{sDay}/{sYear} to {eMonth}/ {eDay}/{eYear}
+ETC_20161214_026324	Gildenschlacht Season: from {sMonth}/{sDay}/{sYear} to {eMonth}/ {eDay}/{eYear}
 ETC_20161214_026325	You have exceeded the daily participation count allowed for this league.{nl}This count is reset every day at  {AMPM} {TIME}.
 ETC_20161214_026326	{Num} or more
 ETC_20161214_026327	Do you wish to cancel your participation registeration?
@@ -26353,16 +26353,16 @@ ETC_20161214_026352	Entered the Gele Plateau Mission.
 ETC_20161214_026353	Resist the Pantos' Attack
 ETC_20161214_026354	Destroy All Panto Totems
 ETC_20161214_026355	Defeat the Fierce Biteregina
-ETC_20161214_026356	Defeated the Fierce Biteregina!
+ETC_20161214_026356	Besiegt the Fierce Biteregina!
 ETC_20161214_026357	Defeat the Creepy Chapparition
-ETC_20161214_026358	Defeated the Creepy Chapparition!
+ETC_20161214_026358	Besiegt the Creepy Chapparition!
 ETC_20161214_026359	Avoid the plateau wind and destroy all the Panto totems!
 ETC_20161214_026360	Defeat the Dangerous Clymen
-ETC_20161214_026361	Defeated the Dangerous Clymen!
+ETC_20161214_026361	Besiegt the Dangerous Clymen!
 ETC_20161214_026362	Protect the Namott Barrier from the Pantos!
 ETC_20161214_026363	Protect the Namott Barrier
 ETC_20161214_026364	Defeat the Dreary Woodspirit
-ETC_20161214_026365	Defeated the Dreary Woodspirit
+ETC_20161214_026365	Besiegt the Dreary Woodspirit
 ETC_20161214_026366	Gele Plateau Mission completed!{nl}Moving to Tenet Garden in a few moments.
 ETC_20161214_026367	Gele Plateau Mission failed!{nl}Moving to Tenet Garden in a few moments.
 ETC_20161214_026368	Defend the Goddess Statue for 2 minutes!
@@ -26430,13 +26430,13 @@ ETC_20170213_026429	Purchase Valentine Chocolates recipe.
 ETC_20170213_026430	Give Valentine Chocolates.
 ETC_20170221_026431	Follower of Zemyna
 ETC_20170221_026432	Title awarded to outstanding players of the dice event.
-ETC_20170224_026433	Guild Battle 1st Place Set
-ETC_20170224_026434	Guild Battle 2nd Place Set
-ETC_20170224_026435	Guild Battle 3rd Place Set
+ETC_20170224_026433	Gildenschlacht 1st Place Set
+ETC_20170224_026434	Gildenschlacht 2nd Place Set
+ETC_20170224_026435	Gildenschlacht 3rd Place Set
 ETC_20170227_026436	Glow Effect
 ETC_20170303_026437	Fail to enter the Zone
 ETC_20170303_026438	Sugar Accessory Set
-ETC_20170303_026439	Physical Defense {img green_up_arrow 16 16}50{nl}                         Magic Defense{img green_up_arrow 16 16}50
+ETC_20170303_026439	Physical Verteidigung {img green_up_arrow 16 16}50{nl}                         Magic Verteidigung{img green_up_arrow 16 16}50
 ETC_20170303_026440	Large Type Attack {img green_up_arrow 16 16}200{nl}                         AoE Attack ratio{img green_up_arrow 16 16}1
 ETC_20170303_026441	Recipe - Candy Basket
 ETC_20170303_026442	A recipe that allows you to craft Candy Basket
@@ -26532,7 +26532,7 @@ ETC_20170313_026531	Regions you have yet to visit will not appear on the World M
 ETC_20170313_026532	{nl} {nl}Hovering the mouse cursor over a region will display its available quests and current exploration progress.{nl} {nl}
 ETC_20170313_026533	
 ETC_20170313_026534	{nl} {nl}Map-related key settings can be changed from the System Menu.
-ETC_20170313_026535	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20170313_026535	You can make your character stronger by allocating Status Punkte into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Magic Verteidigung, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
 ETC_20170313_026536	Make sure to understand the effects of each stat before investing your points in them.{nl}Click the button on the desired stat to apply the point(s). 
 ETC_20170313_026537	{nl} {nl}Each Rank allows you to raise the level of each skill up to 5.{nl}After that, each Circle increases the maximum skill level to a certain range.
 ETC_20170313_026538	{nl} {nl}Click Apply (O) after allocating the skill points to apply them.
@@ -26570,9 +26570,9 @@ ETC_20170313_026569	The right side of the Party interface shows the Party List a
 ETC_20170313_026570	The Monster window shows a monster's level, name, HP and other info.
 ETC_20170313_026571	{nl} {nl}The icon in the left side of the monster's HP bar also shows its grade.
 ETC_20170313_026572	Monsters are divided into regular, special, elite and boss monsters according to how ferocious they are.{nl} {nl}{img target_info_gauge_image 40 40}: Regular Monster{img expert_info_gauge_image 40 40}: Special Monster{nl}{img elitetarget_info_gauge_image 40 40}: Elite Monster{img bosstarget_info_gauge_image 40 40}: Boss Monster
-ETC_20170313_026573	{nl} {nl}Defeated monsters will be registered in your Adventure Journal, where you can see their detailed information under the Monster tab. 
+ETC_20170313_026573	{nl} {nl}Besiegt monsters will be registered in your Adventure Journal, where you can see their detailed information under the Monster tab. 
 ETC_20170313_026574	Press {img F4 40 40} to open the Adventure Journal. 
-ETC_20170313_026575	{nl} {nl}Defeated monsters will be registered in your Adventure Journal, where you can see detailed information about their properties under the Monster tab.
+ETC_20170313_026575	{nl} {nl}Besiegt monsters will be registered in your Adventure Journal, where you can see detailed information about their properties under the Monster tab.
 ETC_20170313_026576	{img attri_Fire 25 25}: Fire Property {img attri_Ice 25 25}: Ice Property {img attri_Lightning 25 25}: Lightning{nl}{img attri_Poison 25 25}: Poison Property{img attri_Earth 25 25}: Earth Properyt {img attri_Holy 25 25}: Holy Property{nl}{img attri_Dark 25 25}: Dark Property
 ETC_20170313_026577	{nl} {nl}Press {img F4 40 40} to open the Adventure Journal. 
 ETC_20170313_026578	[Rest Mode]: Press {img Insert 40 40} to enter Rest Mode.
@@ -26700,8 +26700,8 @@ ETC_20170313_026699	In instanzierten Dungeons und Missionen kannst du in einer P
 ETC_20170313_026700	Level Up - Extras
 ETC_20170313_026701	Es gibt ein paar besondere Möglichkeiten, um deinen Charakter zu entwickeln.
 ETC_20170313_026702	You can use EXP cards obtained from different game activities to speed up the leveling process.
-ETC_20170313_026703	{nl} {nl}You can obtain EXP cards from Wings of Vaivora NPCs as a reward for completing map exploration or defeating a certain number of monsters.
-ETC_20170313_026704	Wings of Vaivora NPCs are located in cities.
+ETC_20170313_026703	{nl} {nl}You can obtain EXP cards from Flügel of Vaivora NPCs as a reward for completing map exploration or defeating a certain number of monsters.
+ETC_20170313_026704	Flügel of Vaivora NPCs are located in cities.
 ETC_20170313_026705	{nl} {nl}Sometimes you will obtain EXP cards by defeating monsters in fields or dungeons.
 ETC_20170313_026706	{nl} {nl}Also, you can use PvP points to purchase EXP cards at the Point Shop.
 ETC_20170313_026707	The Point Shop is 
@@ -26788,8 +26788,8 @@ ETC_20170313_026787	You can equip multiples of the same card. The effects of eac
 ETC_20170313_026788	{nl} {nl}Card effects depend on the level of the card. Some cards can be used to increase the performance of other cards, and you can increase the level of a card through card synthesis.
 ETC_20170313_026789	{nl} {nl}You can {img mouseclick_right 40 40} equipped cards to unequip them, but cards of level 2 and above will drop one level every time they are unequipped.
 ETC_20170313_026790	Cards can be unequipped without the loss of levels by using TP.
-ETC_20170313_026791	Item Identification
-ETC_20170313_026792	Identifying unidentified items allows you to discover their hidden features.
+ETC_20170313_026791	Gegenstand Identifikation
+ETC_20170313_026792	Durch das Identifizieren nicht identifizierter Gegenstände, können dessen verborgenen Funktionen entdeckt werden.
 ETC_20170313_026793	Unidentified items with unknown features can be obtained only from certain regions.
 ETC_20170313_026794	{nl} {nl}After acquiring an unidentified item, you will need to bring it to Identifier Sandra in Fedimian.
 ETC_20170313_026795	{nl} {nl}Click the item you wish to identify, then click the confirmation button to begin the process of identification.
@@ -26806,8 +26806,8 @@ ETC_20170313_026805	The Warpstone allows you to move to a predetermined spot wit
 ETC_20170313_026806	{img mouseclick_right 40 40} the Warpstone to move your character to a predetermined spot within the current map.
 ETC_20170313_026807	The Warpstone can be used to escape dangerous situations.
 ETC_20170313_026808	{nl} {nl}Keep in mind, however, that the Warpstone has a cooldown time.
-ETC_20170313_026809	Class-specific Shops
-ETC_20170313_026810	Some classes can use skills to open personal shops.
+ETC_20170313_026809	Klassen-Spezifische Shops
+ETC_20170313_026810	Einige Klassen können Fähigkeiten nutzen, um persönliche Geschäfte zu eröffnen.
 ETC_20170313_026811	If you are of a class that can use skills to open a shop, you will be able to learn those skills. You can also find other players' shops around town.
 ETC_20170313_026812	{nl} {nl}[Repair]: Repairs damaged equipment.{nl}[Weapon Maintenance]: Temporarily increases a weapon's attack.{nl}[Armor Maintenance]: Temporarily increases an armor item's defense.
 ETC_20170313_026813	[Enchant Armor]: Applies enchantment features to an armor item.{nl}[Spell Shop]: Sells skills with beneficial effects.{nl}[Switch Gender]: Changes the sex of your character.
@@ -26836,26 +26836,26 @@ ETC_20170313_026835	{nl} {nl}Press {img V 40 40} to use the compass and find use
 ETC_20170313_026836	Using the Monster Stimulant
 ETC_20170313_026837	Use the stimulant on the monsters to provoke them into attacking each other.
 ETC_20170313_026838	{nl} {nl}Press {img V 40 40} to use the simulant on the monsters.
-ETC_20170313_026839	Field Bosses
-ETC_20170313_026840	Defeating powerful boss monsters will earn you special item rewards.
+ETC_20170313_026839	Gebietbosse
+ETC_20170313_026840	Wenn du mächtige Boss-Monster besiegst, verdienst du besondere Gegenstände.
 ETC_20170313_026841	Boss monsters will appear under certain circumstances.
 ETC_20170313_026842	Boss monsters are particularly powerful, so you are advised to fight them with a party with other players.
 ETC_20170313_026843	{nl} {nl}If your contribution to defeating a boss monster is great enough, you will receive a boss monster cube as reward.
 ETC_20170313_026844	{nl} {nl}The cubes you receive as reward will drop special items.
 ETC_20170313_026845	{nl} {nl}After you defeat certain boss monsters and obtain their cube, a temporary debuff will be applied to keep you from obtaining rewards.
 ETC_20170313_026846	Having this debuff applied means that you will not receive a cube even after defeating certain boss monsters.
-ETC_20170313_026847	Guild Wars
+ETC_20170313_026847	Gildenkrieg
 ETC_20170313_026848	Guilds can declare war and battle other guilds.
 ETC_20170313_026849	{nl} {nl}The war tab in the guild UI will show you the name of your opponent guild and remaining war time.
 ETC_20170313_026850	{nl} {nl}If you do not want to participate in guild wars, you can select the neutrality option from the war tab in the guild UI.
 ETC_20170313_026851	Guilds in a neutral status cannot declare war against other guilds nor have war declared against them.
-ETC_20170313_026852	Guilds can compete for a spot on the ranks of Regional Guild Battles.
-ETC_20170313_026853	Regional Guild Battles have guilds within the same server region battle for a spot in the rankings.
+ETC_20170313_026852	Gilden können um einen Platz in der Regionalen Gildenschlacht kämpfen.
+ETC_20170313_026853	Regionale Gildenschlachts have guilds within the same server region battle for a spot in the rankings.
 ETC_20170313_026854	Guild masters can choose to participate through the tower icon that appears beside the minimap window at certain times. Guilds can only participate if a minimum number of members are online, and there are limitations applied to the maximum number of participants as well. 
 ETC_20170313_026855	{nl} {nl}First, you will be matched with an opponent guild.{nl}After the matching process is complete, the guild master will be moved to the battle zone to prepare.
 ETC_20170313_026856	{nl} {nl}A window will appear to all guild members currently accessing the game, allowing them to join the battle.
-ETC_20170313_026857	{nl} {nl}The ranking is decided based on the number of victories and losses of each guild, and can be displayed by clicking the Guild Battle icon on the upper section of the guild window.
-ETC_20170313_026858	{nl} {nl}Regional Guild Battles operate on a seasonal system, with special prizes awarded to the winning guilds of each season.{nl} {nl}Prizes obtained from Regional Guild Battles are awarded to all participating guild members, so have your try at becoming a top-ranked guild.
+ETC_20170313_026857	{nl} {nl}The ranking is decided based on the number of victories and losses of each guild, and can be displayed by clicking the Gildenschlacht icon on the upper section of the guild window.
+ETC_20170313_026858	{nl} {nl}Regionale Gildenschlachts operate on a seasonal system, with special prizes awarded to the winning guilds of each season.{nl} {nl}Prizes obtained from Regionale Gildenschlachts are awarded to all participating guild members, so have your try at becoming a top-ranked guild.
 ETC_20170313_026859	Instanced Dungeons
 ETC_20170313_026860	Instanced dungeons allow you to develop your characters at a faster rate.
 ETC_20170313_026861	, when inputted on the chat window, shows you detailed information about all instanced dungeons.
@@ -26883,14 +26883,14 @@ ETC_20170313_026882	 At Fedimian's
 ETC_20170313_026883	you'll find Receptionist Ramda, from whom you can accept a set number of missions per day.
 ETC_20170313_026884	{nl} {nl}Select the mission you wish to participate in to be matched with other players before entering the mission zone.
 ETC_20170313_026885	{nl} {nl}Complete the mission to receive a Mystery Cube, from which you can obtain special material items.
-ETC_20170313_026886	The Uphill Defense Mission allows you to test your resilience in combat.
-ETC_20170313_026887	To enter the Uphill Defense Mission, speak with Sister Lhasa at the Saalus Convent. A daily entry limit is applied to this mission.
+ETC_20170313_026886	The Uphill Verteidigung Mission allows you to test your resilience in combat.
+ETC_20170313_026887	To enter the Uphill Verteidigung Mission, speak with Sister Lhasa at the Saalus Convent. A daily entry limit is applied to this mission.
 ETC_20170313_026888	{nl} {nl}The mission is divided into stages, and at each stage the monsters will converge and attack.
 ETC_20170313_026889	Your job is to protect the Divine Torch from the incoming monsters. The higher the stage, the fiercer the monsters.
 ETC_20170313_026890	{nl} {nl}At certain times, you will see Orbs of Fire appear in the defense zone.
 ETC_20170313_026891	You can exchange any Orbs if Fire collected for beneficial effects at the Essence Purifier, located in the center of the lower section.
 ETC_20170313_026892	{nl} {nl}Every time you clear a stage, a Treasure Chest will appear in the center of the lower section, from which you can obtain different useful items.
-ETC_20170313_026893	The Uphill Defense Mission also allows you to obtain PvP points, which you can use at the Point Shop to purchase items.
+ETC_20170313_026893	The Uphill Verteidigung Mission also allows you to obtain PvP points, which you can use at the Point Shop to purchase items.
 ETC_20170313_026894	Saalus Convent Mission
 ETC_20170313_026895	At Saalus Convent you can obtain special unique items.
 ETC_20170313_026896	To enter the mission, speak with Sister Aiste at the Saalus Convent. A daily entry limit is applied to this mission.
@@ -27494,11 +27494,11 @@ ETC_20170313_027493	Rare Flower
 ETC_20170313_027494	Singing Sphere
 ETC_20170313_027495	Shiny Object
 ETC_20170313_027496	Space Gap
-ETC_20170313_027497	Defeated all monsters!{nl}
+ETC_20170313_027497	Besiegt all monsters!{nl}
 ETC_20170313_027498	Collect the fragments!
 ETC_20170313_027499	Collect the unknown flower!
 ETC_20170313_027500	Collect the rare flower.
-ETC_20170313_027501	Defeated all the monsters!{nl}Check the writings!
+ETC_20170313_027501	Besiegt all the monsters!{nl}Check the writings!
 ETC_20170313_027502	Entered the Roxona Underground Facility Mission.
 ETC_20170313_027503	Defeat all head monsters inside the facility.
 ETC_20170313_027504	Petrification curse detected in some areas!{nl}A Blue Slime has appeared.
@@ -27573,7 +27573,7 @@ ETC_20170330_027572	Rich and mysterious like the deep night sky. Rechtsklick zum
 ETC_20170330_027573	Use to obtain 650 TP. 
 ETC_20170330_027574	Tak about the importance of an Appraiser Master
 ETC_20170330_027575	Search for books with ways to transform into a demon at the Sanctuary
-ETC_20170330_027576	Physical Defense {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 seconds when attacked by a Devil-type enemy (cooldown time 10 seconds)
+ETC_20170330_027576	Physical Verteidigung {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 seconds when attacked by a Devil-type enemy (cooldown time 10 seconds)
 ETC_20170330_027577	Max. no. of participants in group chat
 ETC_20170330_027578	Max. no. of group chats held by each player
 ETC_20170330_027579	When displayed as 0, the item cannot be enhanced, transcended, added sockets, awakened, traded 1:1, registered in the market, purchased, cancelled, sold to an NPC, deposited/withdrawn from personal and team storage, equipped on a companion or unequipped.
@@ -27633,10 +27633,10 @@ ETC_20170330_027632	The transformation wore off.{nl}Defeat the Pawndels and Pawn
 ETC_20170330_027633	{ZONE} is a level {ZONELV} area.{nl}Do you want to enter?
 ETC_20170330_027634	You have EXP Cards available.{nl}Do you want to move without using the EXP cards?
 ETC_20170330_027635	{@st41b}Class EXP:  
-ETC_20170330_027636	 You have defeated {COUNT} monsters!{nl}Receive your EXP card reward at the Wings of Vaivora!
-ETC_20170330_027637	 Defeat {COUNT} monsters to receive an EXP card reward!{nl}Rewards can be retrieved at the Wings of Vaivora.
-ETC_20170330_027638	 map exploration complete!{nl}Receive your EXP card reward at the Wings of Vaivora!
-ETC_20170330_027639	 map exploration: increase it by {PERCENT}% to receive an EXP card reward!{nl}Rewards can be retrieved at the Wings of Vaivora.
+ETC_20170330_027636	 You have defeated {COUNT} monsters!{nl}Receive your EXP card reward at the Flügel of Vaivora!
+ETC_20170330_027637	 Defeat {COUNT} monsters to receive an EXP card reward!{nl}Rewards can be retrieved at the Flügel of Vaivora.
+ETC_20170330_027638	 map exploration complete!{nl}Receive your EXP card reward at the Flügel of Vaivora!
+ETC_20170330_027639	 map exploration: increase it by {PERCENT}% to receive an EXP card reward!{nl}Rewards can be retrieved at the Flügel of Vaivora.
 ETC_20170330_027640	The Pendrosium is knocked out!{nl}Hurry and collect the honey!
 ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until after the ceasefire period that follows the end of the war.{nl}Are you sure you want to declare war?
 ETC_20170330_027642	You cannot disband your guild during a war.
@@ -27806,9 +27806,9 @@ ETC_20170420_027805	Evasion {img green_up_arrow 16 16}48{nl}                    
 ETC_20170420_027806	Physical Attack {img green_up_arrow 16 16}818
 ETC_20170420_027807	Increases physical defense by {img green_up_arrow 16 16}201{nl}                         When being attacked by Devil-type enemies{nl}                         5% chances of recovering 2% of your max. Hp every second for 5 seconds{nl}                         (Cooldown of 10 seconds)
 ETC_20170420_027808	Magic Resistance {img green_up_arrow 16 16}247{nl}                         Physical Attack {img green_up_arrow 16 16}571
-ETC_20170420_027809	Physical Defense{img green_up_arrow 16 16}50{nl}                         Magic Defense{img green_up_arrow 16 16}50
+ETC_20170420_027809	Physical Verteidigung{img green_up_arrow 16 16}50{nl}                         Magic Verteidigung{img green_up_arrow 16 16}50
 ETC_20170420_027810	Increases attack on Large enemies by {img green_up_arrow 16 16}200{nl}                         Increases AoE attack ratio by{img green_up_arrow 16 16}1
-ETC_20170420_027811	Max. Attribute Points
+ETC_20170420_027811	Max. Attribute Punkte
 ETC_20170420_027812	Silver required for purchasing one attribute point
 ETC_20170420_027813	No. of slots increased by expanding personal storage once
 ETC_20170420_027814	Price of each team storage expansion
@@ -27919,18 +27919,18 @@ ETC_20170605_027918	My Wedding Costume Package 	메이 웨딩 코스튬 상자
 ETC_20170605_027919	A package that contains a My Wedding Costume. Right-click to use. {nl} {nl}{@stToolTip_Red}The item obtained will match your character's gender.	메이 웨딩 코스튬이 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용할 수 있습니다. {nl} {nl}{@stToolTip_Red}사용 시 성별에 맞는 아이템이 지급됩니다.{/}				
 ETC_20170605_027920	Soul Crystal (4 Medals)	소울 크리스탈 (메달 4개)				
 ETC_20170605_027921	Using this Soul Crystal will resurrect you in the same position you died.{nl} Can be exchanged for 4 medals in the Exchange Shop.	전투 불능 시 소울 크리스탈을 사용하여 제자리에서 부활할 수 있습니다.{nl} 리사이클샵에서 메달 4개로 교환 가능합니다.				
-ETC_20170605_027922	Attribute Points 1,000 Ticket	특성 포인트 1,000				
+ETC_20170605_027922	Attribute Punkte 1,000 Ticket	특성 포인트 1,000				
 ETC_20170605_027923	Will increase attribute points by 1,000. Right-click to use. 	사용시 특성 포인트가 1,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ETC_20170605_027924	Shining Stat Reset Potion 	빛나는 스탯 초기화 포션				
 ETC_20170605_027925	Shining Skill Reset Potion 	빛나는 스킬 초기화 포션				
-ETC_20170605_027926	Attribute Points Box (Rank S) 	특성 포인트 상자 S급				
-ETC_20170605_027927	A box that contains 10 Attribute Points 1,000 Tickets. Right-click to obtain. 	사용시 1,000 특성 포인트가 10장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
-ETC_20170605_027928	Attribute Points Box (Rank A) 	특성 포인트 상자 A급				
-ETC_20170605_027929	A box that contains 5 Attribute Points 1,000 Tickets. Right-click to obtain. 	사용시 1,000 특성 포인트가 5장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
-ETC_20170605_027930	Attribute Points Box (Rank B) 	특성 포인트 상자 B급				
-ETC_20170605_027931	A box that contains 2 Attribute Points 1,000 Tickets. Right-click to obtain. 	사용시 1,000 특성 포인트가 2장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
-ETC_20170605_027932	Attribute Points Box (Rank C) 	특성 포인트 상자 C급				
-ETC_20170605_027933	A box that contains 1 Attribute Points 1,000 Ticket. Right-click to obtain. 	사용시 1,000 특성 포인트가 1장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
+ETC_20170605_027926	Attribute Punkte Box (Rank S) 	특성 포인트 상자 S급				
+ETC_20170605_027927	A box that contains 10 Attribute Punkte 1,000 Tickets. Right-click to obtain. 	사용시 1,000 특성 포인트가 10장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
+ETC_20170605_027928	Attribute Punkte Box (Rank A) 	특성 포인트 상자 A급				
+ETC_20170605_027929	A box that contains 5 Attribute Punkte 1,000 Tickets. Right-click to obtain. 	사용시 1,000 특성 포인트가 5장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
+ETC_20170605_027930	Attribute Punkte Box (Rank B) 	특성 포인트 상자 B급				
+ETC_20170605_027931	A box that contains 2 Attribute Punkte 1,000 Tickets. Right-click to obtain. 	사용시 1,000 특성 포인트가 2장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
+ETC_20170605_027932	Attribute Punkte Box (Rank C) 	특성 포인트 상자 C급				
+ETC_20170605_027933	A box that contains 1 Attribute Punkte 1,000 Ticket. Right-click to obtain. 	사용시 1,000 특성 포인트가 1장 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
 ETC_20170605_027934	Enchant Scroll Box (4 Scrolls) 	마법 부여 스크롤 상자 (4장)				
 ETC_20170605_027935	A box that contains 4 Enchant Scrolls. Right-click to obtain. 	마법 부여 스크롤 4장이 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
 ETC_20170605_027936	EXP Tome Box (4 Tomes) 	경험의 서 상자 (4개)				
@@ -28136,8 +28136,8 @@ ETC_20170615_028135	??̫???̨Ω ?谿횦 踰꾩??	리플레이 재생 버전
 ETC_20170615_028136	??̫???̨Ω 濡쒖쭿踰�??	리플레이 로직 버전				
 ETC_20170615_028137	??̫???̨Ω ?l?	리플레이 날짜				
 ETC_20170615_028138	??̫???̨Ω ??ʭɬ?	리플레이 리비전				
-ETC_20170615_028139	500 Attribute Points	특성 포인트 500				
-ETC_20170615_028140	Gives 500 Attribute Points. Right-click to use.	사용시 특성 포인트가 500 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ETC_20170615_028139	500 Attribute Punkte	특성 포인트 500				
+ETC_20170615_028140	Gives 500 Attribute Punkte. Right-click to use.	사용시 특성 포인트가 500 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ETC_20170615_028141	Exchange Medal Box Grade A	리사이클 메달 상자 A급				
 ETC_20170615_028142	A box containing 200 Exchange Medals. Right-click to use and obtain the medals.	리사이클 메달 200개가 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
 ETC_20170615_028143	Exchange Medal Box Grade B	리사이클 메달 상자 B급				
@@ -28157,7 +28157,7 @@ ETC_20170615_028156	Artisan Recipe - Heart of Glory	장인의 제작서-하트 �
 ETC_20170615_028157	Artisan Recipe - Astra Bow	장인의 제작서-아스트라 보우				
 ETC_20170615_028158	Artisan Recipe - Regard Horn Crossbow	장인의 제작서-리가드 혼 크로스보우				
 ETC_20170615_028159	Artisan Recipe - Skull Smasher	장인의 제작서-스컬 스매셔				
-ETC_20170615_028160	Artisan Recipe - Wingshard Spear	장인의 제작서-윙샤드 스피어				
+ETC_20170615_028160	Artisan Recipe - Flügelhard Spear	장인의 제작서-윙샤드 스피어				
 ETC_20170615_028161	Artisan Recipe - Regard Horn Pike	장인의 제작서-리가드 혼 파이크				
 ETC_20170615_028162	Artisan Recipe - Emengard Dagger	장인의 제작서-에멘가드 대거				
 ETC_20170615_028163	Artisan Recipe - Regard Horn Staff	장인의 제작서-리가드 혼 스태프				
@@ -28450,7 +28450,7 @@ ETC_20170726_028449	Pawpaw Tree	포포트리
 ETC_20170726_028450	[Fishing Manager]{nl}          Joha	[낚시터 관리인]{nl}          요하				
 ETC_20170726_028451	Narvas Temple Annex	나르바스 사원 별관	ETC_20150317_001386	Monastery 22_5	수도원 22_5	
 ETC_20170726_028452	Mission succeeded!{nl}You will return in 30 seconds	미션 성공!{nl}30초 후에 돌아갑니다				
-ETC_20170726_028453	Attack Monsters and Reach 60 Points	몬스터를 타격해 60포인트를 달성하세요				
+ETC_20170726_028453	Attack Monsters and Reach 60 Punkte	몬스터를 타격해 60포인트를 달성하세요				
 ETC_20170726_028454	Defeat monsters to obtain points!{nl}Kepa: +1{nl}Popolion: +3	몬스터를 처치해 점수를 획득하세요!{nl}케파 : +1{nl}포포리온 : +3				
 ETC_20170726_028455	Defeat the Siaulogre and the remaining monsters.	샤울로우거를 우선 처치하고 모든 몬스터를 처치하세요				
 ETC_20170726_028456	New monsters will appear every 30 seconds while the Siaulogre is alive.	샤울로우거가 살아있으면 30초 마다 몬스터가 생성됩니다				
@@ -28477,8 +28477,8 @@ ETC_20170810_028476	Available now.	바로 획득 가능합니다.
 ETC_20170901_028477	Aspiring Pledge of the Blade	칼날서약 용병단 지망생				
 ETC_20170901_028478	A title given to participants of the Kivotos event.	키보토스 이벤트 참여자에게 지급되는 칭호입니다.				
 ETC_20170901_028479	A title awarded to winners of the 2017 Summer Fanart Festival.	2017년 여름 팬아트 공모전 수상자에게 주어지는 칭호.				
-ETC_20170901_028480	Small Wings Triple Set Box	작은 날개 3종 박스				
-ETC_20170901_028481	Right-click to use and obtain the items.{nl}Item list{nl}- Small Steam Punk Wings{nl}- Small Mint Angel Wings{nl}- Broken Pink Heart Wings	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl}획득 가능 목록{nl} - 작은 스팀 펑크 날개{nl} - 작은 민트 천사 날개{nl} - 깨진 핑크 날개				
+ETC_20170901_028480	Small Flügel Triple Set Box	작은 날개 3종 박스				
+ETC_20170901_028481	Right-click to use and obtain the items.{nl}Item list{nl}- Small Steam Punk Flügel{nl}- Small Mint Angel Flügel{nl}- Broken Pink Heart Flügel	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl}획득 가능 목록{nl} - 작은 스팀 펑크 날개{nl} - 작은 민트 천사 날개{nl} - 깨진 핑크 날개				
 ETC_20170901_028482	Token Box (x5)	토큰 상자 (5개)				
 ETC_20170901_028483	Right-click to obtain the following items:{nl} - Token x5	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 토큰 (5개)				
 ETC_20170901_028484	Token Box (x10)	토큰 상자 (10개)				
@@ -28586,23 +28586,23 @@ ETC_20170912_028585	Boss Monster Sections	보스 몬스터 구간 개수
 ETC_20170912_028586	Boss Monster Hunt 1st Section Max. Kill Count	보스 몬스터 처치 첫 번째 구간 최대 킬 카운트				
 ETC_20170912_028587	Boss Monster Hunt 2nd Section Max. Kill Count	보스 몬스터 처치 두 번째 구간 최대 킬 카운트				
 ETC_20170912_028588	Boss Monster Hunt 3rd Section Max. Kill Count	보스 몬스터 처치 세 번째 구간 최대 킬 카운트				
-ETC_20170912_028589	Max. Monster Points	몬스터 최대 점수				
+ETC_20170912_028589	Max. Monster Punkte	몬스터 최대 점수				
 ETC_20170912_028590	Regular Item Sections	일반 아이템 구간 개수				
 ETC_20170912_028591	Regular Item Acquisition 1st Section Max. Count	일반 아이템 획득 첫 번째 구간 최대 획득 카운트				
 ETC_20170912_028592	Regular Item Acquisition 2nd Section Max. Count	일반 아이템 획득 두 번째 구간 최대 획득 카운트				
 ETC_20170912_028593	Regular Item Acquisition 3rd Section Max. Count	일반 아이템 획득 세 번째 구간 최대 획득 카운트				
 ETC_20170912_028594	Equipment Item Sections	장비 아이템 구간 개수				
 ETC_20170912_028595	Equipment Item Acquisition 1st Section Max. Count	장비 아이템 획득 첫 번째 구간 최대 획득 카운트				
-ETC_20170912_028596	Max. Item Acquisition Points	아이템 획득 최대 점수				
+ETC_20170912_028596	Max. Item Acquisition Punkte	아이템 획득 최대 점수				
 ETC_20170912_028597	Item Crafting 1st Section Max. Count	아이템 제작 첫 번째 구간 최대 제작 카운트				
-ETC_20170912_028598	Max. Item Crafting Points	아이템 제작 최대 점수				
-ETC_20170912_028599	Max. Life Points	생활 최대 점수				
-ETC_20170912_028600	Max. Mission/Instanced Dungeon Points	미션/인스턴스 던전 최대 점수				
+ETC_20170912_028598	Max. Item Crafting Punkte	아이템 제작 최대 점수				
+ETC_20170912_028599	Max. Life Punkte	생활 최대 점수				
+ETC_20170912_028600	Max. Mission/Instanced Dungeon Punkte	미션/인스턴스 던전 최대 점수				
 ETC_20170912_028601	N/A	자주 쌓이는 정보들은 일정 주기마다 업데이트함. 그 주기 값(초). 현재 대상은 몬스터 킬카운트, 아이템 획득/소비 횟수, 개인상점 판매 기록				
 ETC_20170912_028602	N/A	구간 갱신 정보 주기적으로 몽고로그 남겨달라고 하셔서 주기 데이타로 뺌. 그 주기 값(초)				
 ETC_20170912_028603	N/A	모험일지 랭킹 한 페이지당 보여줄 랭크 정보 개수				
-ETC_20170912_028604	Points to Add Per Quest	퀘스트 하나당 추가될 점수				
-ETC_20170912_028605	Points to Add Per Achievement	업적 하나당 추가될 점수				
+ETC_20170912_028604	Punkte to Add Per Quest	퀘스트 하나당 추가될 점수				
+ETC_20170912_028605	Punkte to Add Per Achievement	업적 하나당 추가될 점수				
 ETC_20170912_028606	Power of Encouragement	응원의 힘				
 ETC_20170912_028607	Movement speed increased by the encouragement of those you helped!	도움을 부탁한 사람들의 응원에 격려받아 이동 속도가 증가합니다!				
 ETC_20170912_028608	Detecting	디택팅				
@@ -28630,7 +28630,7 @@ ETC_20170912_028629	{nl} {nl}Open your inventory using the {img F2 40 40} key to
 ETC_20170912_028630	{img mouseclick_right 40 40} Right-click a card with the slots open or drag and drop it to equip. You can equip up to 3 identical cards per property.	장착 슬롯이 열려있는 상태에서 카드를 {img mouseclick_right 40 40}하거나, 드래그 앤 드롭하여 카드를 장착시킬 수 있으며, 카드의 속성별로 동일한 카드를 최대 3장까지 장착할 수 있습니다.	ETC_20170313_026785	The higher the rank of your character, the more card slots will be available.	케릭터의 랭크가 높아질수록 개방되는 슬롯의 개수가 증가합니다.	
 ETC_20170912_028631	{nl} {nl}Card effects increase along with the card level.{nl}You can combine cards to level them up.	{nl} {nl}카드의 특수효과는 카드의 레벨에 따라 성능이{nl}증가하며, 카드 합성을 통해서 카드 레벨을{nl}증가시킬 수 있습니다.	ETC_20170313_026786	{nl} {nl}With the tab open, {img mouseclick_right 40 40} a card to equip it onto a free slot.	{nl} {nl}탭이 열려있는 상태에서 카드를 {img mouseclick_right 40 40}하여 슬롯에{nl}카드를 장착시킬 수 있습니다.	
 ETC_20170912_028632	Guild Emblem	길드 엠블럼				
-ETC_20170912_028633	Emblems allow you to add some personality to your guild.	길드 엠블럼을 통해 소속 길드의 개성을 드러낼 수 있습니다.				
+ETC_20170912_028633	Mit Emblems kannst du deiner Gilde etwas Persönlichkeit hinzufügen.	길드 엠블럼을 통해 소속 길드의 개성을 드러낼 수 있습니다.				
 ETC_20170912_028634	To register an emblem, the guild master can go to the settings tab of the Guild window and upload an image.	길드 엠블럼은 길드 마스터만 등록이 가능하며,{nl}길드창의 설정 탭의 이미지 등록 버튼을 통해 등록 할 수있습니다.				
 ETC_20170912_028635	{nl} {nl}Browse through your folder path to find the correct image file.	{nl} {nl}이미지 등록 버튼을 누르면 이미지 파일 폴더에 저장 된 파일명이 나타납니다.				
 ETC_20170912_028636	Only images sized 64x64 in PNG format are allowed.	폴더 경로는 [Nexon] - [TreeOfSavior] - [release] - [UploadEmblem] 이며, 폴더 열기 버튼을 누르면 해당 폴더를 열어줍니다.{nl}이미지는 64*64 Png파일인 경우에만 노출이 됩니다.				
@@ -28641,14 +28641,14 @@ ETC_20170912_028640	{nl} {nl}Using inappropriate images can result in account re
 ETC_20170912_028641	Press the {img F10 40 40} key or type 	{img F10 40 40}키를 누르거나 채팅 창에 	ETC_20150729_013857	Chatting window	채팅 창에 	
 ETC_20170912_028642	Speak to Sister Aiste in the Saalus Convent to play a mission (daily entries limited).{nl}You can reenter the mission until it is completed.	살러스 수녀원에 위치한 수녀 아이스테를 통해 미션을 수행할 수 있으며, 일일 완료 횟수 제한이 있습니다.{nl} 완료하기 전까지 계속 입장하실 수 있습니다.	ETC_20170313_026896	To enter the mission, speak with Sister Aiste at the Saalus Convent. A daily entry limit is applied to this mission.	살러스 수녀원에 위치한 수녀 아이스테를 통해 미션을 수행할 수 있으며, 일일 수행 횟수 제한이 있습니다.	
 ETC_20170912_028643	{nl} {nl}Clear the mission to receive a Saalus Cube and Cube of Blessing as rewards.{nl}Token users can receive an additional cube of each kind after the mission.	{nl} {nl}해당 미션을 성공하면 살러스 큐브와 함께 축복의{nl}큐브를 보상으로 받을 수 있습니다.{nl}토큰을 사용 중이라면 큐브를 1개씩 추가로 받을 수 있습니다.	ETC_20170313_026898	{nl} {nl}If you manage to complete the mission, you will receive a Saalus Cube and a Cube of Blessing as reward.	{nl} {nl}해당 미션을 성공하면 살러스 큐브와 함께 축복의{nl}큐브를 보상으로 받을 수 있습니다.	
-ETC_20170912_028644	Guild Territory Wars	길드 콜로니전				
-ETC_20170912_028645	With Guild Territory Wars you can win amazing prizes.	길드 콜로니전을 통해 막대한 재화를 얻을 수 있습니다.				
-ETC_20170912_028646	Guild Territory Wars open every week{nl}and give you a chance at winning amazing prizes.	각 서버에서 매주 마다 열리는 길드 콜로니전을 통해{nl}보상으로 막대한 재화를 얻을 수 있습니다.				
+ETC_20170912_028644	Gilde-Territorium-Kriege	길드 콜로니전				
+ETC_20170912_028645	Mit Gilde-Territorium-Kriege kannst du tolle Preise gewinnen.	길드 콜로니전을 통해 막대한 재화를 얻을 수 있습니다.				
+ETC_20170912_028646	Gilde-Territorium-Kriege open every week{nl}and give you a chance at winning amazing prizes.	각 서버에서 매주 마다 열리는 길드 콜로니전을 통해{nl}보상으로 막대한 재화를 얻을 수 있습니다.				
 ETC_20170912_028647	 {nl}[Important]{nl}- To participate in the Territory Wars, you need to set the option in the Guild window's Territory Wars tab to  	 {nl}[유의사항]{nl}-  콜로니전 시작 5분 전까지 길드창의 콜로니전 탭에서 참가 여부 옵션을 				
 ETC_20170912_028648	.{nl}- Only a Guild Master of the Templar class can opt in or out of Territory Wars.{nl}- After selecting  	로 변경한 길드는 콜로니전에 참가할 수 있습니다.{nl}- 참가 여부 옵션은 길드 마스터만 변경할 수 있으며, 길드 마스터가 템플러 클래스를 가지고 있어야 합니다.{nl}- 참가 여부 옵션을 				
 ETC_20170912_028649	, the option for transferring the role of guild master will not be available.{nl}- Guilds with a seized Spot will have their Territory Wars option automatically set to  	로 변경 시, 길드 마스터 위임이 불가능합니다.{nl}- 길드 콜로니전에서 스팟 지역을 점령한 길드는{nl}참가 여부 옵션이 				
 ETC_20170912_028650	.	로 고정됩니다.				
-ETC_20170912_028651	{nl} {nl}Guild Territory Wars take place every Sunday at 8 PM in maps with Spots.	{nl} {nl}매주 일요일 오후 8시에 여러 스팟 지역에서{nl}한 시간 동안 길드 콜로니전이 진행됩니다.				
+ETC_20170912_028651	{nl} {nl}Gilde-Territorium-Kriege take place every Sunday at 8 PM in maps with Spots.	{nl} {nl}매주 일요일 오후 8시에 여러 스팟 지역에서{nl}한 시간 동안 길드 콜로니전이 진행됩니다.				
 ETC_20170912_028652	Spot Areas	스팟 지역				
 ETC_20170912_028653	Maps with Spots you can seize during the Territory Wars.	이란 콜로니전을 진행할 수 있는 필드 지역을 지칭합니다.				
 ETC_20170912_028654	{nl} {nl}When the Territory Wars begin, guilds with the option set to  	{nl} {nl}길드 콜로니전이 시작되면 참가 여부 옵션이 				
@@ -28699,10 +28699,10 @@ ETC_20170912_028698	Grants Token benefits to all your characters in the server f
 ETC_20170912_028699	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}- Additional +1 reward from Saalus Missions	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 살러스 수녀원 미션 완료 보상 +1	ETC_20170330_027569	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	
 ETC_20170912_028700	Grants Token benefits to all your characters in the server for 1 hour. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}- Additional +1 reward from Saalus Missions	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 살러스 수녀원 미션 완료 보상 +1	ETC_20170330_027570	Grants Token benefits to all your characters in the server for 1 hour. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	
 ETC_20170912_028701	An Instanced Dungeon Multiply Token received as an Adventure Journal reward. Use it to consume your remaining daily entries at once and multiply currency and EXP gains.	모험일지 보상으로 받은 인스턴스 던전 배수권. 인스턴스 던전 잔여 횟수를 추가로 소모해, 획득 아이템과 경험치를 추가로 소모한 배수만큼 얻도록 합니다.				
-ETC_20170912_028702	1,000 Attribute Points (AJ)	특성 포인트 1,000(모험일지 보상)				
-ETC_20170912_028703	100 Attribute Points (AJ)	특성 포인트 100(모험일지 보상)				
-ETC_20170912_028704	Gives 100 Attribute Points. Right-click to use.	사용시 특성 포인트가 100 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
-ETC_20170912_028705	500 Attribute Points (AJ)	특성 포인트 500(모험일지 보상)				
+ETC_20170912_028702	1,000 Attribute Punkte (AJ)	특성 포인트 1,000(모험일지 보상)				
+ETC_20170912_028703	100 Attribute Punkte (AJ)	특성 포인트 100(모험일지 보상)				
+ETC_20170912_028704	Gives 100 Attribute Punkte. Right-click to use.	사용시 특성 포인트가 100 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ETC_20170912_028705	500 Attribute Punkte (AJ)	특성 포인트 500(모험일지 보상)				
 ETC_20170912_028706	Tuxedo Cat Costume Set Box (Male)	턱시도 냥이 코스튬 세트 상자(남)				
 ETC_20170912_028707	Right-click to use and obtain the items.{nl}- Tuxedo Cat Head (Male){nl}- Tuxedo Cat Costume	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} -턱시도 냥이 헤드(남){nl} -턱시도 냥이 코스튬				
 ETC_20170912_028708	Tuxedo Cat Costume Set Box (Female)	턱시도 냥이 코스튬 세트 상자(여)				
@@ -28727,9 +28727,9 @@ ETC_20170912_028726	Hanaming Costume Set Box (Male)	하나밍 코스튬 세트 �
 ETC_20170912_028727	Right-click to use and obtain the items.{nl}- Hanaming Head (Male){nl}- Hanaming Costume	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} -하나밍 헤드(남){nl} -동물 인형 코스튬				
 ETC_20170912_028728	Hanaming Costume Set Box (Female)	하나밍 코스튬 세트 상자(여)				
 ETC_20170912_028729	Right-click to use and obtain the items.{nl}- Hanaming Head (Female){nl}- Hanaming Costume	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} -하나밍 헤드(여){nl} -동물 인형 코스튬				
-ETC_20170912_028730	1,000 Attribute Points (TBL)	특성 포인트 1,000(팀 배틀 리그 보상)				
-ETC_20170912_028731	500 Attribute Points (TBL)	특성 포인트 500(팀 배틀 리그 보상)				
-ETC_20170912_028732	100 Attribute Points (TBL)	특성 포인트 100(팀 배틀 리그 보상)				
+ETC_20170912_028730	1,000 Attribute Punkte (TBL)	특성 포인트 1,000(팀 배틀 리그 보상)				
+ETC_20170912_028731	500 Attribute Punkte (TBL)	특성 포인트 500(팀 배틀 리그 보상)				
+ETC_20170912_028732	100 Attribute Punkte (TBL)	특성 포인트 100(팀 배틀 리그 보상)				
 ETC_20170912_028733	Enchant Scroll Box (x10)	마법 부여 스크롤 상자 (10장)				
 ETC_20170912_028734	Right-click to obtain the following items:{nl} - Enchant Scroll x10	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 마법 부여 스크롤 (10장)				
 ETC_20170912_028735	Leticia's Secret Cube	레티샤 시크릿 큐브				
@@ -28744,8 +28744,8 @@ ETC_20170912_028743	Fedimian Suburbs Time Check	페디미안 외곽 시간 체�
 ETC_20170912_028744	Check Field Gimmick	필드 기믹 현재 참가중 체크				
 ETC_20170912_028745	Min. level for guild operations	길드 관련 작업을 할 수 있는 최소 레벨				
 ETC_20170912_028746	Min. guild level for neutrality	길드 중립 선포 가능한 최소 길드 레벨				
-ETC_20170912_028747	Uphill Defense Ranking Reset Day	업힐 디펜스 랭킹 초기화 요일				
-ETC_20170912_028748	Uphill Defense Ranking Reset Time	업힐 디펜스 랭킹 초기화 시간				
+ETC_20170912_028747	Uphill Verteidigung Ranking Reset Day	업힐 디펜스 랭킹 초기화 요일				
+ETC_20170912_028748	Uphill Verteidigung Ranking Reset Time	업힐 디펜스 랭킹 초기화 시간				
 ETC_20170912_028749	Territory Wars Rewards (Day): 1(SUN)-7(SAT)	콜로니전 보상 지급 요일. 1(일)~7(토)				
 ETC_20170912_028750	Territory Wars Rewards (Time): 0-23(h)	콜로니전 보상 지급 시간. 0~23(시)				
 ETC_20170912_028751	Territory Wars Max. Silver Reward (unit: hundred million)	콜로니전 보상 지급 상한선 실버(억)				
@@ -28789,7 +28789,7 @@ ETC_20170912_028788	Unauthorized program detected.{nl}Access denied.	불법 프�
 ETC_20170912_028789	[Premium] Male Helmet	[프리미엄]남자 헬멧				
 ETC_20170912_028790	[Premium] Female Helmet	[프리미엄]여자 헬멧				
 ETC_20170912_028791	Maximum of {Eng} characters allowed.	최대 한글 {Local}글자, 영문 {Eng}글자 까지 입력이 가능합니다.				
-ETC_20170912_028792	Stage {STEP} complete.{nl} Acquired {POINT} Uphill Points!	{STEP}단계 통과{nl} 업힐 포인트 : {POINT} 획득!	ETC_20160723_022912	Passed Stage {STEP}{nl} Acquired {POINT} PVP points!	{STEP}단계 통과{nl} PVP포인트 : {POINT} 획득!	
+ETC_20170912_028792	Stage {STEP} complete.{nl} Acquired {POINT} Uphill Punkte!	{STEP}단계 통과{nl} 업힐 포인트 : {POINT} 획득!	ETC_20160723_022912	Passed Stage {STEP}{nl} Acquired {POINT} PVP points!	{STEP}단계 통과{nl} PVP포인트 : {POINT} 획득!	
 ETC_20170912_028793	Saalus Mission Entry Voucher applied.	살러스 미션 1회 입장권이 적용되셨습니다	ETC_20170313_027076	Saalus Mission Entry Voucher applied as error compensation.	오류 보상용 살러스 미션 1회 입장권이 적용되셨습니다	
 ETC_20170912_028794	Saalus Convent Missions Completed: 0{nl}Cannot use an entry voucher.	살러스 수녀원 미션 완료 횟수 : 0{nl}1회 입장권을 사용할 수 없습니다				
 ETC_20170912_028795	[Coupon: {VALUE}]	[쿠폰:{VALUE}]				
@@ -28823,8 +28823,8 @@ ETC_20170912_028822	The settlers are having a hard time dealing with the dead cr
 ETC_20170912_028823	A merchant has lost all his goods on the way to Fedimian!{nl}Collect the lost goods in the outskirts of Fedimian and bring them back to the merchant!	페디미안으로 교역하러 온 행상인이 모든 교역품을 떨어뜨렸다고 합니다!{nl}페디미안 외곽 주변에 있는 교역품들을 모아 행상인에게 전해주세요!				
 ETC_20170912_028824	There are still stone statues left to purify!{nl}Hurry and purify them!	아직 오염된 순례자 석상이 남아있습니다!{nl}남아있는 순례자 석상부터 먼저 정화하세요.				
 ETC_20170912_028825	Sorry, it was taken by another player.	이미 다른 사람이 가져갔습니다.				
-ETC_20170912_028826	Enter Uphill Defense Mission	업힐 디펜스 미션 입장				
-ETC_20170912_028827	Open Uphill Defense Shop	업힐 디펜스 상점 열기				
+ETC_20170912_028826	Enter Uphill Verteidigung Mission	업힐 디펜스 미션 입장				
+ETC_20170912_028827	Open Uphill Verteidigung Shop	업힐 디펜스 상점 열기				
 ETC_20170912_028828	Change Position	직위변경	ETC_20151224_019659	Change Title	직책변경	
 ETC_20170912_028829	{CallMemberName} used {SkillName}.{nl}Will you accept?	{CallMemberName}가 {SkillName}을 사용했습니다. 수락하시겠습니까?				
 ETC_20170912_028830	Can only be used nearby a Guild Tower, in a city or inside the Guild Hangout.	길드타워 근처, 마을, 길드 아지트에서만 사용이 가능합니다.	ETC_20151224_019711	Can only be used nearby a Guild Tower.	길드타워 근처에서만 사용이 가능합니다.	
@@ -28862,7 +28862,7 @@ ETC_20170912_028861	Report Inappropriate Emblem	부적절 길드 엠블럼 신�
 ETC_20170912_028862	Are you sure you want to report {Name} for an inappropriate emblem?	{Name}님을 부적절 길드 엠블럼 사용 유저로 신고하시겠습니까?				
 ETC_20170912_028863	{Name} has been reported. Thank you.	{Name}님에 대한 부적절 길드 엠블럼 사용 신고가 접수되었습니다. 감사합니다.				
 ETC_20170912_028864	Use the {Key} key to make {Target} become {Done}.	{Key}키로 {Target}가 {Done}됩니다.				
-ETC_20170912_028865	Uphill Defense Shop	업힐 디펜스 상점	ETC_20150729_014010	Team Battle League Shop	팀 배틀 리그 상점	
+ETC_20170912_028865	Bergauf Verteidigung Shop	업힐 디펜스 상점	ETC_20150729_014010	Team Battle League Shop	팀 배틀 리그 상점	
 ETC_20170912_028866	Cannot craft or enhance items inside instanced dungeons and missions.	인던이나 미션에선 아이템을 제작하거나 강화할 수 없습니다.				
 ETC_20170912_028867	Two-handed Blunt Weapons	양손 둔기류				
 ETC_20170912_028868	Cannot be used yet.	아직 사용할 수 없습니다.				
@@ -28924,17 +28924,17 @@ ETC_20170912_028923	Do you want to change this option to {VALUE}?	길드 콜로�
 ETC_20170912_028924	Cannot enter now.	지금은 입장할 수 없습니다.				
 ETC_20170912_028925	The Territory Wars have ended. Cannot enter.	지금은 길드 콜로니전이 종료되어 입장할 수 없습니다.				
 ETC_20170912_028926	Territory Wars Ongoing	콜로니전 진행중				
-ETC_20170912_028927	Guild Territory Wars starting in 30 minutes.	길드 콜로니전 시작 30분 전입니다.				
-ETC_20170912_028928	Guild Territory Wars starting in 10 minutes.	길드 콜로니전 시작 10분 전입니다.				
-ETC_20170912_028929	Guild Territory Wars starting in 5 minutes.{nl}Guilds with Spots seized may enter the Spot Area now.	길드 콜로니전 시작 5분 전입니다.{nl}스팟 점령 길드는 해당 스팟 지역으로 미리 입장할 수 있습니다.				
-ETC_20170912_028930	Guild Territory Wars starting in 1 minute.	길드 콜로니전 시작 1분 전입니다.				
-ETC_20170912_028931	Guild Territory Wars have begun.{nl}Players participating in the wars can now move to the Spot Areas.	길드 콜로니전이 시작되었습니다.{nl}콜로니전에 참가한 플레이어들은 각 스팟 지역으로 입장이 가능합니다.				
-ETC_20170912_028932	Guild Territory Wars ending in 30 minutes.	길드 콜로니전 종료 30분 전입니다.				
-ETC_20170912_028933	Guild Territory Wars ending in 10 minutes.	길드 콜로니전 종료 10분 전입니다.				
-ETC_20170912_028934	Guild Territory Wars ending in 5 minutes.	길드 콜로니전 종료 5분 전입니다.				
-ETC_20170912_028935	Guild Territory Wars ending in 1 minute.	길드 콜로니전 종료 1분 전입니다.				
-ETC_20170912_028936	Guild Territory Wars ending in {sec} seconds.	길드 콜로니전 종료{nl}{sec}초 전				
-ETC_20170912_028937	Guild Territory Wars have ended.	길드 콜로니전이 종료되었습니다.				
+ETC_20170912_028927	Gilde-Territorium-Kriege starting in 30 minutes.	길드 콜로니전 시작 30분 전입니다.				
+ETC_20170912_028928	Gilde-Territorium-Kriege starting in 10 minutes.	길드 콜로니전 시작 10분 전입니다.				
+ETC_20170912_028929	Gilde-Territorium-Kriege starting in 5 minutes.{nl}Guilds with Spots seized may enter the Spot Area now.	길드 콜로니전 시작 5분 전입니다.{nl}스팟 점령 길드는 해당 스팟 지역으로 미리 입장할 수 있습니다.				
+ETC_20170912_028930	Gilde-Territorium-Kriege starting in 1 minute.	길드 콜로니전 시작 1분 전입니다.				
+ETC_20170912_028931	Gilde-Territorium-Kriege have begun.{nl}Players participating in the wars can now move to the Spot Areas.	길드 콜로니전이 시작되었습니다.{nl}콜로니전에 참가한 플레이어들은 각 스팟 지역으로 입장이 가능합니다.				
+ETC_20170912_028932	Gilde-Territorium-Kriege ending in 30 minutes.	길드 콜로니전 종료 30분 전입니다.				
+ETC_20170912_028933	Gilde-Territorium-Kriege ending in 10 minutes.	길드 콜로니전 종료 10분 전입니다.				
+ETC_20170912_028934	Gilde-Territorium-Kriege ending in 5 minutes.	길드 콜로니전 종료 5분 전입니다.				
+ETC_20170912_028935	Gilde-Territorium-Kriege ending in 1 minute.	길드 콜로니전 종료 1분 전입니다.				
+ETC_20170912_028936	Gilde-Territorium-Kriege ending in {sec} seconds.	길드 콜로니전 종료{nl}{sec}초 전				
+ETC_20170912_028937	Gilde-Territorium-Kriege have ended.	길드 콜로니전이 종료되었습니다.				
 ETC_20170912_028938	The option can only be changed up to 5 minutes before the wars begin or 1 minute after they end.	콜로니전 시작 5분 전부터 종료 1분 후까지는 참가 여부 변경을 할 수 없습니다.				
 ETC_20170912_028939	Guilds with Spots seized cannot change their participation option.	점령 지역이 있는 길드는 콜로니전 참가 여부를 변경할 수 없습니다.				
 ETC_20170912_028940	Respawn in nearest city ({SEC} seconds)	가까운 도시에서 부활하기 ({SEC}초)				
@@ -29912,11 +29912,11 @@ ETC_20171128_029906	You can check your progress or team rankings in your Adventu
 ETC_20171128_029907	Use the contents on the left such as Monsters, Items, Crafting, Living, Dungeon, Growth, and Adventure to gain Adventure Score.	좌측 항목에 표시된 몬스터, 아이템, 제작, 생활, 던전, 성장, 탐험과 관련된 콘텐츠 이용을 통해 모험 점수를 획득할 수 있습니다.	ETC_20150729_013727	You can earn Adventure Index through Items, Monsters, Crafting, Map, and Game Progression.	아이템 습득, 몬스터 사냥, 제작, 맵 탐험, 컨텐츠 진행으로 모험지수를 획득할 수 있습니다.	
 ETC_20171128_029908	{nl} {nl}Adventure Score on the left can be categorized into Reset{nl}and Un-reset. {nl}Receive various rewards with Adventure Score gained {nl}from each category.	{nl} {nl}좌측 항목에서 획득하는 모험 점수는 크게 초기화와{nl}비초기화 부문으로 나뉘어져 획득되며, 각 항목에서{nl}획득한 모험 점수를 통해 다양한 보상을 받을 수{nl}있습니다.	ETC_20170313_026564	The right side shows your character's Adventure Journal and Team Battle League ranking.	우측에는 모험일지와 팀 배틀 리그를 바탕으로 한{nl}캐릭터 랭킹을 확인할 수 있습니다.	
 ETC_20171128_029909	Resetting Adventure Score: {nl}{img adventure_monster 50 37}   : Monster {img adventure_item 50 37}  : Item {img adventure_making 50 37}  : Crafting {img adventure_living 50 37}  : Living     {img adventure_dungeon 50 37}  : Dungeon{nl} {nl}Un-resetting Adventure Score: {nl}{img adventure_grow 50 37}  : Growth     {img adventure_explore 50 37}  : Adventure	모험 점수가 초기화되는 항목 :{nl}{img adventure_monster 50 37}  : 몬스터 {img adventure_item 50 37}  : 아이템 {img adventure_making 50 37}  : 제작 {img adventure_living 50 37}  : 생활     {img adventure_dungeon 50 37}  : 던전{nl} {nl}모험 점수가 초기화되지 않는 항목 :{nl}{img adventure_grow 50 37}  : 성장     {img adventure_explore 50 37}  : 탐험				
-ETC_20171128_029910	{nl} {nl}You can get rewards from the Wings of Vaivora NPC.{nl}Rewards are divided into Ranking, Growth, and Adventure.	{nl} {nl}보상은 바이보라 날개 NPC를 통해 받을 수 있으며,{nl}랭킹 보상, 성장 보상, 탐험 보상으로 나뉘어 집니다.				
+ETC_20171128_029910	{nl} {nl}You can get rewards from the Flügel of Vaivora NPC.{nl}Rewards are divided into Ranking, Growth, and Adventure.	{nl} {nl}보상은 바이보라 날개 NPC를 통해 받을 수 있으며,{nl}랭킹 보상, 성장 보상, 탐험 보상으로 나뉘어 집니다.				
 ETC_20171128_029911	#N/A	{nl} {nl}랭킹 보상은 매월 1일~10일 사이에 바이보라 날개{nl}NPC를 통해 받을 수 있습니다.				
 ETC_20171128_029912	Adventure Score counted in Ranking: {nl}{img adventure_monster 50 37}  : Monster {img adventure_item 50 37}  : Item {img adventure_making 50 37}  : Crafting {img adventure_living 50 37}  : Living     {img adventure_dungeon 50 37}  : Dungeon{nl} {nl}Adventure Score counted in Ranking will be reset on the 1st day of every month.	랭킹에 반영되는 모험 점수 항목 :{nl}{img adventure_monster 50 37}  : 몬스터 {img adventure_item 50 37}  : 아이템 {img adventure_making 50 37}  : 제작 {img adventure_living 50 37}  : 생활     {img adventure_dungeon 50 37}  : 던전{nl} {nl}랭킹에 반영되는 모험 점수는 매월 1일 초기화되니 이점 유의하세요.				
-ETC_20171128_029913	{nl} {nl}The Growth and Adventure rewards are given{nl}whenever the Adventure Score of the relevant items (growth or adventure) reaches certain scores{nl}by the Wings of Vaivora NPC. 	{nl} {nl}성장 및 탐험 보상은 해당 항목(성장 또는 탐험)의{nl}모험 점수가 일정 점수 구간에 도달할 때 마다{nl}바이보라 날개 NPC를 통해 받을 수 있습니다.				
-ETC_20171128_029914	When you open the Adventure Journal through the Wings of Vaivora NPC and click a treasure chest, {img TUTO_JOURNAL_ICON_1 105 30}  button under the reward list window will be activated. You can get the reward with the button.	바이보라 날개 NPC를 통해 모험일지를 열어 보물상자를 클릭하면 보상리스트창 아래 {img TUTO_JOURNAL_ICON_1 105 30}  버튼이 활성화되며, 해당 버튼을 통해 보상을 받을 수 있습니다.				
+ETC_20171128_029913	{nl} {nl}The Growth and Adventure rewards are given{nl}whenever the Adventure Score of the relevant items (growth or adventure) reaches certain scores{nl}by the Flügel of Vaivora NPC. 	{nl} {nl}성장 및 탐험 보상은 해당 항목(성장 또는 탐험)의{nl}모험 점수가 일정 점수 구간에 도달할 때 마다{nl}바이보라 날개 NPC를 통해 받을 수 있습니다.				
+ETC_20171128_029914	When you open the Adventure Journal through the Flügel of Vaivora NPC and click a treasure chest, {img TUTO_JOURNAL_ICON_1 105 30}  button under the reward list window will be activated. You can get the reward with the button.	바이보라 날개 NPC를 통해 모험일지를 열어 보물상자를 클릭하면 보상리스트창 아래 {img TUTO_JOURNAL_ICON_1 105 30}  버튼이 활성화되며, 해당 버튼을 통해 보상을 받을 수 있습니다.				
 ETC_20171128_029915	{nl} {nl}The contents on the right shows team rankings based on the Adventure Journal, team battle leagues, and the uphill defense.	{nl} {nl}우측 항목에서는 모험일지와 팀 배틀 리그, 업힐디펜스를 바탕으로 한 팀 랭킹을 확인할 수 있습니다.				
 ETC_20171128_029916	Applies Token benefits to all your characters in the server for 30 days. Right-click to use. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl}- Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 	{nl}TP샵에서 판매하는 토큰 효과{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 개인 거래 30회 가능{nl} - 살러스 수녀원 미션 완료 보상 +1{nl} - 레이드 던전 입장 아이템 소모 개수 -2	ETC_20170912_028617	{nl}TP Shop Token effects{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - Additional +1 reward from Saalus Missions	{nl}TP샵에서 판매하는 토큰 효과{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 개인 거래 30회 가능{nl} - 살러스 수녀원 미션 완료 보상 +1	
 ETC_20171128_029917	Once your character dies, you will get an Incapable of Combat Penalty. 	캐릭터가 사망하게 되면 사망 패널티를 받게됩니다.	ETC_20170313_026718	The penalty applied to becoming incapable of combat depends on the difficulty of the map.	캐릭터가 사망하게 되면 맵의 난이도에 따라 패널티를 받게됩니다.	
@@ -29924,10 +29924,10 @@ ETC_20171128_029918	The Incapable of Combat Penalty will be given from the area 
 ETC_20171128_029919	{nl} {nl}The higher the number of stars, the more severe{nl}the penalty will be.	{nl} {nl}별의 개수가 높아질수록 부여되는 패널티 또한{nl}증가합니다.	ETC_20170313_026720	{nl} {nl}The higher the map difficulty, the more severe the penalty will be.	{nl} {nl}맵의 난이도는 높아질수록 부여되는 패널티가{nl}증가합니다.	
 ETC_20171128_029920	{nl} {nl}Your Gems, Silver, Blessed Shards, or other precious items may get lost or destroyed due to the Incapable of Combat Penalty.	{nl} {nl}사망 패널티로 젬, 실버, 축복받은 조각 등 플레이어의 귀중한 아이템이 일부 유실되거나 소멸될 수 있습니다.				
 ETC_20171128_029921	You can regain the Gems lost due to the Incapable of Combat Penalty at the spot where your character was killed.{nl} {nl}However, you cannot regain {nl}the destroyed Silver and Blessed Shards. 	사망 패널티로 젬을 유실한 경우, 캐릭터가 사망한 위치로 이동하면 다시 습득할 수 있습니다.{nl} {nl}그러나 사망 패널티로 실버 및 축복받은 조각이{nl}소멸된 경우, 되찾을 수 없으니 유의하세요.				
-ETC_20171128_029922	You can purchase different items at the Uphill Defense Shop.	업힐 디펜스 상점에서 다양한 아이템을 구입할 수 있습니다.	ETC_20170313_026738	You can use PvP points to purchase different items at the Point Shop.	PVP포인트를 이용해 포인트 샵에서 다양한 아이템을 구입할 수 있습니다.	
-ETC_20171128_029923	Uphill Defense Shop can be used either by opening the Adventure Journal  	업힐 디펜스 상점은 모험 일지의 	ETC_20170313_026707	The Point Shop is 	포인트 샵은 모험 일지의 	
+ETC_20171128_029922	Du kannst verschiedene Gegenstände im Bergauf Verteidigung Shop kaufen.	업힐 디펜스 상점에서 다양한 아이템을 구입할 수 있습니다.	ETC_20170313_026738	You can use PvP points to purchase different items at the Point Shop.	PVP포인트를 이용해 포인트 샵에서 다양한 아이템을 구입할 수 있습니다.	
+ETC_20171128_029923	Uphill Verteidigung Shop can be used either by opening the Adventure Journal  	업힐 디펜스 상점은 모험 일지의 	ETC_20170313_026707	The Point Shop is 	포인트 샵은 모험 일지의 	
 ETC_20171128_029924	 to My Point Shop{nl}or by talking with Sister Lhasa in Saalus Convent.	 항목 내 포인트샵 또는 살러스 수녀원에 위치한 수녀 라사를{nl}통해 이용할 수 있습니다.	ETC_20170313_026739	 You can also visit the Team Battle League NPC to access it.	 또는{nl}팀 배틀리그 NPC를 통해 이용할 수 있습니다.	
-ETC_20171128_029925	You can obtain points to use at the Uphill Defense Shop by completing Uphill Defense Missions. 	{nl} {nl}업힐 디펜스 상점에서 이용하는 포인트는 업힐 디펜스 진행을 통해 획득할 수 있습니다.				
+ETC_20171128_029925	You can obtain points to use at the Uphill Verteidigung Shop by completing Uphill Verteidigung Missions. 	{nl} {nl}업힐 디펜스 상점에서 이용하는 포인트는 업힐 디펜스 진행을 통해 획득할 수 있습니다.				
 ETC_20171128_029926	The items sold at the Point Shop have a daily purchase limit, so keep that in mind.	포인트 샵에 있는 다양한 아이템들은 하루 구매수량이 제한되어 있으니 유의하세요.				
 ETC_20171128_029927	The instanced dungeons you can enter depend on the level of your character, and a daily entry limit is applied.	인스턴스 던전은 플레이어의 레벨에 따라 입장이 제한되며, 일일 입장 횟수가 제한됩니다.	ETC_20170313_026862	The instanced dungeons you can enter depend on the level of your character: those available will be displayed in green. There is also a daily entry limit to instanced dungeons.	인스턴스 던전은 플레이어의 레벨에 따라 입장이 제한되며, 입장이 가능한 던전은 초록색으로 표시되고 일일 입장 횟수가 제한됩니다.	
 ETC_20171128_029928	{nl} {nl}Dungeons can be accessed in Klaipeda through the Sentinel Rian.	{nl} {nl}클라페다에 던전 입장을 관리하고 있는 경비병 리엔이 위치하고 있습니다.	ETC_20170313_026863	{nl} {nl}Instanced dungeons can be entered by interacting with the corresponding notice board, although the location of the entrance in the map varies from dungeon to dungeon.	{nl} {nl}인스턴스 던전 입구를 이용하여 입장이 가능하며, 해당 입구 위치는 인스턴스 던전마다 각각 다릅니다.	
@@ -29998,8 +29998,8 @@ ETC_20171128_029992	Guild Emblem Change Voucher	길드 엠블럼 변경권
 ETC_20171128_029993	Use to change the emblem of your guild.	길드의 엠블럼을 1회 변경할 수 있습니다.				
 ETC_20171128_029994	Superior Urgent Repair Set	최고급 긴급 수리 세트				
 ETC_20171128_029995	A box containing 3 Superior Urgent Repair Kits. Right-click to obtain.	최고급 긴급 수리 키트가 3개 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.				
-ETC_20171128_029996	1,000 Attribute Points(Challenge Mode Reward)	특성 포인트 1,000(챌린지 모드 보상)				
-ETC_20171128_029997	500 Attribute Points (Challenge Mode Reward)	특성 포인트 500(챌린지 모드 보상)				
+ETC_20171128_029996	1,000 Attribute Punkte(Challenge Mode Reward)	특성 포인트 1,000(챌린지 모드 보상)				
+ETC_20171128_029997	500 Attribute Punkte (Challenge Mode Reward)	특성 포인트 500(챌린지 모드 보상)				
 ETC_20171128_029998	30 TP [Event - 14 Days]	10 TP[증정용 - 14일]				
 ETC_20171128_029999	Vakarine Package - Premium	바카리네 패키지 - 프리미엄				
 ETC_20171128_030000	Contains Token:15 Days [Vakarine] and x8 EXP Tome. Right-click to obtain. 	토큰:15일 [바카리네], x8 경험의서가 들어있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.				
@@ -30339,7 +30339,7 @@ ETC_20171128_030333	Using a Soul Crystal will resurrect you in the same position
 ETC_20171128_030334	Depending on your current map, you can lose Silver and items when you become incapable of combat. 	전투 불능이 되면 지역 설정에 따라 실버와 일부 아이템을 잃어버릴 수 있습니다. 	ETC_20150317_008883	The placed magic circles on the ground from a Cleric-type class may not be effective on Flying-type monsters.	성직자가 지면에 설치한 마법진은 비행형 몬스터에게 통하지 않을 수 있습니다.	
 ETC_20171128_030335	The durability of an equipped item decreases once the character becomes incapable of combat.	캐릭터가 전투 불능 상태가 되면 착용 중인 장비 아이템의 내구도가 감소합니다.	ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.	Ctrl 키를 눌러 타겟 고정을 On/Off 할 수 있습니다.	
 ETC_20171128_030336	One-handed swords and rods can be equipped by all classes except Archer-tree ones.	한손검과 로드는 아처계열을 제외한 모든 클래스가 사용할 수 있는 무기입니다.	ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.	Ctrl 키를 눌러 타겟 고정을 On/Off 할 수 있습니다.	
-ETC_20171128_030337	Attribute Points can be purchased at 1 point per 1,000 Silver.	특성 포인트는 1,000 실버당 1포인트로 구매할 수 있습니다.	ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.	Ctrl 키를 눌러 타겟 고정을 On/Off 할 수 있습니다.	
+ETC_20171128_030337	Attribute Punkte can be purchased at 1 point per 1,000 Silver.	특성 포인트는 1,000 실버당 1포인트로 구매할 수 있습니다.	ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.	Ctrl 키를 눌러 타겟 고정을 On/Off 할 수 있습니다.	
 ETC_20171128_030338	Leather armor doesn't provide a lot of defense, but if you complete a Leather set you can get additional critical rate and accuracy.	가죽 방어구는 방어력이 높지 않으나, 세트를 모아 장착하면 치명타 발생과 명중이 증가합니다.	ETC_20150317_008887	Press the Space bar key during a battle to face your current target.	전투중 스페이스바 키를 누르면 현재 타겟을 바라봅니다.	
 ETC_20171128_030339	Two-handed swords, rifles and some other types of weapons can only be equipped after advancing into certain classes.	양손검이나 장총 같은 일부 무기 계열은 특정 클래스로 전직해야만 장착할 수 있습니다.	ETC_20150317_008888	Your character's stats increases in proportion to the companion's stats when mounting it.	컴패니언 탑승 시 컴패니언의 능력치에 비례하여 캐릭터의 능력치가 상승합니다	
 ETC_20171128_030340	Cloth armor has good magic defense, and if you wear a full set you can decrease the magic damage you get.	천 방어구는 마법 방어력이 높으며, 세트를 모아 장착하면 받는 마법 피해가 감소합니다.	ETC_20150717_013500	in the chat menu 	채팅 입력에 	
@@ -30361,11 +30361,11 @@ ETC_20171128_030355	Wugushi characters can register boss monster cards in their 
 ETC_20171128_030356	If you're a Wugushi, you can purchase poison from your class master or charge it with certain monster materials.	무고사의 독액은 마스터에게서 구매하거나 일부 몬스터들의 재료 아이템으로 충전할 수 있습니다.	ETC_20160411_021436	Press F11 to view your list of collections registered at the Magic Association.	F11 키를 이용하여 마법협회 지부에서 등록한 콜렉션 목록을 확인할 수 있습니다.	
 ETC_20171128_030357	Only female cleric characters can advance into the Miko class. To become the class' male version, the Kannushi, you need to change your gender after you advance.	무녀는 여성 클레릭 캐릭터로만 전직할 수 있습니다. 무녀의 남성 버전인 칸누시는 무녀 전직 후 성별 전환으로만 얻을 수 있습니다.	ETC_20160411_021438	The Team Battle League ranking is reset every Monday at midnight.	팀 배틀리그 랭킹은 매주 월요일 0시에 초기화됩니다.	
 ETC_20171128_030358	Each DLC product can only be purchased and retrieved once per team.	바카리네 패키지는 팀당 1회 한정으로만 구매 가능한 아이템입니다.	ETC_20160411_021439	You can purchase EXP cards using the points earned through the Team Battle League.	팀 배틀리그를 통해 획득한 포인트로 경험치 카드를 구매할 수 있습니다.	
-ETC_20171128_030359	Bullet Marker characters can use double gun skills even when equipping only one pistol.	불릿 마커는 권총 하나만 장착해도 쌍권총 전투 스킬을 시전할 수 있습니다.	ETC_20160411_021441	Guild Wars start 1 hour after war has been declared and carry on for 1 week.	길드 전쟁은 전쟁 선포로부터 1시간 후 시작되며 1주일간 계속됩니다.	
+ETC_20171128_030359	Bullet Marker characters can use double gun skills even when equipping only one pistol.	불릿 마커는 권총 하나만 장착해도 쌍권총 전투 스킬을 시전할 수 있습니다.	ETC_20160411_021441	Gildenkrieg start 1 hour after war has been declared and carry on for 1 week.	길드 전쟁은 전쟁 선포로부터 1시간 후 시작되며 1주일간 계속됩니다.	
 ETC_20171128_030360	You can use Portal Shops setup by Sage characters to move to a different location without a Goddess Statue.	세이지의 포탈 상점을 이용하면 여신상이 없는 깊은 전장까지 한 번에 이동할 수 있습니다.	ETC_20160411_021442	Guild masters can set their guilds to 	길드장은 길드 전쟁 선포를 받지 않는 	
 ETC_20171128_030361	Swordsman classes can double tap a directional key to Dash (move quickly).	소드맨은 방향키를 두 번 빠르게 눌러 대쉬를 사용할 수 있습니다.	ETC_20160411_021445	Using a Token, you can transfer items between characters on the same account through Team Storage.	토큰 사용 중에는 팀 창고를 이용해 계정 내 캐릭터간 아이템 이동을 할 수 있습니다.	
-ETC_20171128_030362	Sorcerer characters can use boss monster cards for the Summoning skill.	소서러가 서모닝을 사용하려면 보스 몬스터 카드가 필요합니다.	ETC_20160411_021446	You can receive EXP Cards from the Wings of Vaivora NPCs by defeating a certain number of monsters.	몬스터를 일정 수 이상 처치하면 바이보라의 날개 NPC에게서 경험치 카드를 받을 수 있습니다.	
-ETC_20171128_030363	Squires can open several types of shops and set up their own camps.	스콰이어는 다양한 상점을 열거나 거점을 설치할 수 있습니다.	ETC_20160411_021447	You can receive EXP Cards from the Wings of Vaivora NPCs by achieving 100% exploration on a map.	맵 탐사율 100%를 달성하면 바이보라의 날개 NPC에게서 경험치 카드를 받을 수 있습니다.	
+ETC_20171128_030362	Sorcerer characters can use boss monster cards for the Summoning skill.	소서러가 서모닝을 사용하려면 보스 몬스터 카드가 필요합니다.	ETC_20160411_021446	You can receive EXP Cards from the Flügel of Vaivora NPCs by defeating a certain number of monsters.	몬스터를 일정 수 이상 처치하면 바이보라의 날개 NPC에게서 경험치 카드를 받을 수 있습니다.	
+ETC_20171128_030363	Squires can open several types of shops and set up their own camps.	스콰이어는 다양한 상점을 열거나 거점을 설치할 수 있습니다.	ETC_20160411_021447	You can receive EXP Cards from the Flügel of Vaivora NPCs by achieving 100% exploration on a map.	맵 탐사율 100%를 달성하면 바이보라의 날개 NPC에게서 경험치 카드를 받을 수 있습니다.	
 ETC_20171128_030364	When applying stat points or increasing attribute levels, you can right-click while pressing the [+] button to go up 10 points at a time.	스탯 포인트 증가 버튼[+]과 특성 레벨 증가 버튼[+]을 우클릭하면 한 번에 10씩 올릴 수 있습니다.	ETC_20170912_028764	The higher your team level, the more additional EXP your characters can earn. You can raise your team up to Lv 75. 	팀 레벨은 최대 75까지 올릴 수 있으며, 팀 레벨이 올라가면 레벨에 따라 추가 경험치를 받게 됩니다. 	
 ETC_20171128_030365	Thaumaturge characters can make their heads and arms swell to increase their stats.	쏘마터지는 얼굴과 팔의 크기를 키워 능력치를 향상시킵니다.	ETC_20160718_022277	You can use the option in the settings menu to automatically scroll down the chat window with when	채팅 입력 창 오른쪽에 있는 설정 메뉴에서 채팅 입력 시 채팅창 스크롤이 자동으로 맨 밑으로 이동하는 	
 ETC_20171128_030366	Archers can perform basic attacks while moving.	아처는 이동하면서 일반 공격이 가능합니다.	ETC_20160718_022280	You can use the Guild Chatting function by pressing Alt+Enter.	Alt+Enter 키를 입력해 길드 채팅을 할 수 있습니다.	
@@ -30498,7 +30498,7 @@ ETC_20171128_030492	Control the Throwing Power	던지기 파워 조절
 ETC_20171128_030493	Failed to create a pitch-pot.{nl}Move to a different location and try again.	투호를 생성하지 못했습니다.{nl}위치를 이동해 다시 시도해주세요.				
 ETC_20171128_030494	Pitch-pot Final Point: {#FFF200}{POINT}{/} points	동전 투호 최종 포인트 : {#FFF200}{POINT}{/}점				
 ETC_20171128_030495	This can't be used because it is too close to the pitch-pot.{nl}Current Distance: {DISTANCE}	투호와 거리가 가까워 사용 하실 수 없습니다.{nl}현재 거리 : {DISTANCE}				
-ETC_20171128_030496	Accuracy {#FFF200}+{POINT}{/} points{nl}Distance Value {#FFF200}+{VPOINT}{/}{nl}Accumulated Points: {#FFF200}{CURRPOINT}{/}	정확도 {#FFF200}+{POINT}{/}점{nl}거리 가중 {#FFF200}+{VPOINT}{/}{nl}누적 점수 : {#FFF200}{CURRPOINT}{/}				
+ETC_20171128_030496	Accuracy {#FFF200}+{POINT}{/} points{nl}Distance Value {#FFF200}+{VPOINT}{/}{nl}Accumulated Punkte: {#FFF200}{CURRPOINT}{/}	정확도 {#FFF200}+{POINT}{/}점{nl}거리 가중 {#FFF200}+{VPOINT}{/}{nl}누적 점수 : {#FFF200}{CURRPOINT}{/}				
 ETC_20171128_030497	You cannot create a pitch-pot because there is another pitch-pot in front of a character.	캐릭터 정면에 다른 투호가 있어서 투호를 생성 할 수 없습니다.				
 ETC_20171128_030498	This cannot be used when another pitch-pot is present.	투호 생성 위치에 충돌 상자가 있어서 생성할 수 없습니다.				
 ETC_20171128_030499	A pitch-pot is already present.	이미 투호가 생성되어 있습니다.				
@@ -31175,7 +31175,7 @@ ETC_20180108_031169	Premium Snowflake Costume Package (Male)	프리미엄 하얀
 ETC_20180108_031170	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Male) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 눈꽃 코스튬(남) x1 {nl} - 프리미엄 눈꽃 왕관 x1				
 ETC_20180108_031171	Premium Snowflake Costume Package (Female)	프리미엄 하얀 눈꽃 코스튬 패키지 (여)				
 ETC_20180108_031172	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Female) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 눈꽃 코스튬(여) x1 {nl} - 프리미엄 눈꽃 왕관 x1				
-ETC_20180108_031173	Attribute Points: 100	특성 포인트 100				
+ETC_20180108_031173	Attribute Punkte: 100	특성 포인트 100				
 ETC_20180108_031174	Appears when equipping the White Snowflake Footprint	하얀 눈꽃 발자국 착용시 발생				
 ETC_20180108_031175	{nl}You can receive the reward in {HOUR} hour(s).	 {nl}{HOUR} 시간후에 보상을 수령할 수 있습니다.				
 ETC_20180108_031176	Your party members have moved on to a higher stage of the challenge. You can no longer re-enter.	도전을 중지한 단계와 현재 파티원이 도전중인 단계가 달라 재입장할 수 없습니다.				
@@ -31220,7 +31220,7 @@ ETC_20180129_031214	Secret Recipe - Regard Horn Staff	비밀 제작서-리가드
 ETC_20180129_031215	Secret Recipe - Heart of Glory	비밀 제작서-하트 오브 글로리				
 ETC_20180129_031216	Secret Recipe - Skull Breaker	비밀 제작서-스컬 브레이커				
 ETC_20180129_031217	Secret Recipe - Emengard Dagger	비밀 제작서-에멘가드 대거				
-ETC_20180129_031218	Secret Recipe - Wingshard Spear	비밀 제작서-윙샤드 스피어				
+ETC_20180129_031218	Secret Recipe - Flügelhard Spear	비밀 제작서-윙샤드 스피어				
 ETC_20180129_031219	Secret Recipe - Regard Horn Pike	비밀 제작서-리가드 혼 파이크				
 ETC_20180129_031220	Secret Recipe - Black Horn	비밀 제작서-블랙 혼				
 ETC_20180129_031221	Secret Recipe - Regard Horn Crossbow	비밀 제작서-리가드 혼 크로스보우				
@@ -31266,8 +31266,8 @@ ETC_20180208_031260	TOS 4EVER	평생겜 트오세 고고혓
 ETC_20180208_031261	Title given to participants of the fan creation contest.	트리 오브 작명왕에서 선정된 칭호입니다.				
 ETC_20180208_031262	Additional Earth damage +{@st66d_y}{s16}[%d]{/}	땅 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}				
 ETC_20180208_031263	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack received of using Pain Barrier Lv 1	피격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 페인배리어 1레벨 사용				
-ETC_20180208_031264	Strike Defense +{@st66d_y}{s16}[%d]{/}{/}	때리기류 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031265	Physical Defense +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec after using an HP potion	HP 포션 종류 사용 시 10초간 물리 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
+ETC_20180208_031264	Strike Verteidigung +{@st66d_y}{s16}[%d]{/}{/}	때리기류 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031265	Physical Verteidigung +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec after using an HP potion	HP 포션 종류 사용 시 10초간 물리 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031266	Damage to Flying-type monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%	공중형 몬스터에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				
 ETC_20180208_031267	Physical Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031268	Damage to Plate-wearing enemies increased by {@st66d_y}{s16}[%d]{/}{/}%%	판금 갑옷 대상에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				
@@ -31275,7 +31275,7 @@ ETC_20180208_031269	STR +{@st66d_y}{s16}[%d]{/}{/}	힘 스탯 +{@st66d_y}{s16}[%
 ETC_20180208_031270	Additional Dark damage +{@st66d_y}{s16}[%d]{/}{/}	어둠 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031271	Critical Attack +{@st66d_y}{s16}[%d]{/}{/}	치명타 공격력 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031272	Damage to Mutant-type property monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%	변이형 속성 몬스터에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				
-ETC_20180208_031273	Magic Defense +{@st66d_y}{s16}[%d]{/}{/}	마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031273	Magic Verteidigung +{@st66d_y}{s16}[%d]{/}{/}	마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031274	STA potion effects +{@st66d_y}{s16}[%d]{/}{/}%%	STA 포션 종류 효과 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031275	Physical Attack +{@st66d_y}{s16}[%d]{/}{/} when equipping Pierce weapons	찌르기류 무기 착용 시 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031276	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Earth monsters	땅 속성 몬스터 처치 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 SP 5%% 회복				
@@ -31309,7 +31309,7 @@ ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP afte
 ETC_20180208_031304	Silence status resistance +{@st66d_y}{s16}[%d]{/}{/}	침묵 상태 저항 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of reducing damage taken by 10%% for 5 sec	공격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 5초간 받는 대미지 10%% 감소				
 ETC_20180208_031306	Lightning property resistance +{@st66d_y}{s16}[%d]{/}{/}	전기 속성 저항력 +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031307	Pierce Defense +{@st66d_y}{s16}[%d]{/}{/}	찌르기류 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031307	Pierce Verteidigung +{@st66d_y}{s16}[%d]{/}{/}	찌르기류 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Dark monsters	어둠 속성 몬스터 처치 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 SP 5%% 회복				
 ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Poison monsters	독 속성 몬스터 처치 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 SP 5%% 회복				
 ETC_20180208_031310	Damage to sleeping enemies increased by {@st66d_y}{s16}[%d]{/}{/}%%	수면 상태 이상에 걸린 대상에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				
@@ -31335,7 +31335,7 @@ ETC_20180208_031329	Block Penetration +{@st66d_y}{s16}[%d]{/}{/}	블럭 관통 +
 ETC_20180208_031330	Carry Weight +{@st66d_y}{s16}[%d]{/}{/}%%	휴대 가능무게 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031331	Damage to Boss monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%	보스 몬스터에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				
 ETC_20180208_031332	HP Recovery +{@st66d_y}{s16}[%d]{/}{/}	HP 회복력 +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031333	Physical Defense +{@st66d_y}{s16}[%d]{/}{/}, Magic Defense +{@st66d_y}{s16}[%d]{/}{/}	물리 방어력 +{@st66d_y}{s16}[%d]{/}{/}, 마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031333	Physical Verteidigung +{@st66d_y}{s16}[%d]{/}{/}, Magic Verteidigung +{@st66d_y}{s16}[%d]{/}{/}	물리 방어력 +{@st66d_y}{s16}[%d]{/}{/}, 마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031334	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Lightning monsters	전기 속성 몬스터 처치 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 SP 5%% 회복				
 ETC_20180208_031335	Additional Poison damage +{@st66d_y}{s16}[%d]{/}	독 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031336	Magic Attack +{@st66d_y}{s16}[%d]{/}{/}	마법 공격력 +{@st66d_y}{s16}[%d]{/}{/}				
@@ -31355,10 +31355,10 @@ ETC_20180208_031349	Accuracy +{@st66d_y}{s16}[%d]{/}{/}	명중 +{@st66d_y}{s16}[
 ETC_20180208_031350	SPR +{@st66d_y}{s16}[%d]{/}{/}	정신 스탯 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031351	{@st66d_y}{s16}[%d]{/}{/}%% chance of respawning with 10%% HP restored after becoming incapable of combat 	전투 불능 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 10%%의 HP가 회복된 상태로 부활 				
 ETC_20180208_031352	Blind state resistance +{@st66d_y}{s16}[%d]{/}{/}%%	블라인드 상태 저항 +{@st66d_y}{s16}[%d]{/}{/}%%				
-ETC_20180208_031353	Magic Defense +{@st66d_y}{s16}[%d]{/}{/}%%	마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
+ETC_20180208_031353	Magic Verteidigung +{@st66d_y}{s16}[%d]{/}{/}%%	마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031354	HP potion effects +{@st66d_y}{s16}[%d]{/}{/}%%	HP 포션 종류 효과 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031355	CON +{@st66d_y}{s16}[%d]{/}{/}	체력 스탯 +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031356	Slash Defense +{@st66d_y}{s16}[%d]{/}{/}	베기류 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031356	Slash Verteidigung +{@st66d_y}{s16}[%d]{/}{/}	베기류 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031357	Bleeding status resistance +{@st66d_y}{s16}[%d]{/}{/}%%	출혈 상태 저항 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031358	Critical Resistance +{@st66d_y}{s16}[%d]{/}{/}	치명타 저항 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031359	Physical Attack +{@st66d_y}{s16}[%d]{/}{/} when equipping Slash weapons	베기류 무기 착용 시 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}				
@@ -31372,7 +31372,7 @@ ETC_20180208_031366	Additional Lightning damage +{@st66d_y}{s16}[%d]{/}{/}	전�
 ETC_20180208_031367	Stun status resistance +{@st66d_y}{s16}[%d]{/}{/}, Sleep status resistance +{@st66d_y}{s16}[%d]{/}{/} 	스턴 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}, 수면 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/} 				
 ETC_20180208_031368	AoE attack ratio +{@st66d_y}{s16}[%d]{/}{/}	광역 공격 비율 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031369	Max. HP +{@st66d_y}{s16}[%d]{/}{/}	최대 HP +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031370	Magic Defense +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec when using HP potions	HP 포션 종류 사용 시 10초간 마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
+ETC_20180208_031370	Magic Verteidigung +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec when using HP potions	HP 포션 종류 사용 시 10초간 마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of slowing down enemy for 3 sec	공격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 상대방에게 3초간 슬로우 상태				
 ETC_20180208_031372	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 2%% HP when attacked by Medium-sized monsters	중형 몬스터에게 피격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 HP 2%% 회복				
 ETC_20180208_031373	Stun status resistance +{@st66d_y}{s16}[%d]{/}{/}%%	스턴 상태 저항 +{@st66d_y}{s16}[%d]{/}{/}%%				
@@ -31383,7 +31383,7 @@ ETC_20180208_031377	Additional Fire damage +{@st66d_y}{s16}[%d]{/}{/}	불 속성
 ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 	지능 스텟 +{@st66d_y}{s16}[%d]{/}{/}, 정신 스탯 +{@st66d_y}{s16}[%d]{/}{/} 				
 ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 3%% HP when attacked by Large monsters	대형 몬스터에게 피격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 HP 3%% 회복				
 ETC_20180208_031380	Fire property resistance +{@st66d_y}{s16}[%d]{/}{/}	불 속성 속성 저항력 +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031381	Physical Defense +{@st66d_y}{s16}[%d]{/}{/}%%	물리 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
+ETC_20180208_031381	Physical Verteidigung +{@st66d_y}{s16}[%d]{/}{/}%%	물리 방어력 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031382	Critical Rate +{@st66d_y}{s16}[%d]{/}{/}	치명타 발생 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031383	Provocation when attacking +{@st66d_y}{s16}[%d]{/}{/}%%	공격 시 증가하는 도발 수치 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031384	Damage to bleeding enemies increased by {@st66d_y}{s16}[%d]{/}{/}%%	출혈 상태 이상에 걸린 대상에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				

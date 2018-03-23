@@ -1359,7 +1359,7 @@ QUEST_LV_0200_20150317_001358	Touching it/FIRE/2/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0200_20150317_001359	Notice/!/A flock of Big Blue Gribas have appeared!#5
 QUEST_LV_0200_20150317_001360	Interruption of the monster blocking the road
 QUEST_LV_0200_20150317_001361	Notice/!/Besiege the monster blocking the road!#8
-QUEST_LV_0200_20150317_001362	Notice/!/Defeated the monster blocking the road!#8
+QUEST_LV_0200_20150317_001362	Notice/!/Besiegt the monster blocking the road!#8
 QUEST_LV_0200_20150317_001363	Grudge of A Nameless Warrior
 QUEST_LV_0200_20150317_001364	Trying on the necklace/MAKING/2/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0200_20150317_001365	Notice/!/Besiege this werewolf {nl}which seems to have lead the keepsake owner to death!#5
@@ -2200,7 +2200,7 @@ QUEST_LV_0200_20150317_002199	Pray for his soul in front of the belongings of th
 QUEST_LV_0200_20150317_002200	You've got enough Sakmoli Roots that you would use to lure Throneweavers. Sprich mit dem Sad Owl Sculpture.
 QUEST_LV_0200_20150317_002201	Besiege Throneweaver
 QUEST_LV_0200_20150317_002202	Besiege Throneweaver for the Sad Owl
-QUEST_LV_0200_20150317_002203	Defeated the Throneweaver that was destroying the owl sculptures. Sprich mit the Sad Owl again.
+QUEST_LV_0200_20150317_002203	Besiegt the Throneweaver that was destroying the owl sculptures. Sprich mit the Sad Owl again.
 QUEST_LV_0200_20150317_002204	Besiege Throneweaver
 QUEST_LV_0200_20150317_002205	Sprich mit Soldier Rudolfas
 QUEST_LV_0200_20150317_002206	Sprich mit Soldier Rudolfas
@@ -2573,7 +2573,7 @@ QUEST_LV_0200_20150317_002572	Set up scarecrows with amulets on it in Druva's fa
 QUEST_LV_0200_20150317_002573	Sprich mit Ruined Bee Farmer Logen
 QUEST_LV_0200_20150317_002574	It seems like Logen is in a bad mood. Ask him what's wrong.
 QUEST_LV_0200_20150317_002575	Bee Farmer Logen says his bee farm had to close down because of the monsters. Enact revenge against the monsters for Logen's sake.
-QUEST_LV_0200_20150317_002576	Defeated the monsters as Logen requested. Return to Logen.
+QUEST_LV_0200_20150317_002576	Besiegt the monsters as Logen requested. Return to Logen.
 QUEST_LV_0200_20150317_002577	Sprich mit Priest Dazine
 QUEST_LV_0200_20150317_002578	Go to Priest Dazine in the Spring Light Woods.
 QUEST_LV_0200_20150317_002579	Collect the Fragmented Symbol of Austeja
@@ -2610,7 +2610,7 @@ QUEST_LV_0200_20150317_002609	Sprich mit Villager Emil
 QUEST_LV_0200_20150317_002610	Villager Emil in the Spring Light Woods wants to ask you a favor. Go to Villager Emil.
 QUEST_LV_0200_20150317_002611	Besiege the monsters around the village
 QUEST_LV_0200_20150317_002612	Emils says that it is too dangerous to go to Three Brooks Woods. Besiege the monsters so that the route will be safe.
-QUEST_LV_0200_20150317_002613	Defeated enough monsters. Go back and talk to Emil of Spring Light Woods.
+QUEST_LV_0200_20150317_002613	Besiegt enough monsters. Go back and talk to Emil of Spring Light Woods.
 QUEST_LV_0200_20150317_002614	Sprich mit Pharmacist Tiana
 QUEST_LV_0200_20150317_002615	Pharmacist Tiana makes medicine using herbs from Spring Light Woods. Sprich mit her.
 QUEST_LV_0200_20150317_002616	Collect Spring Light Grass
@@ -2717,7 +2717,7 @@ QUEST_LV_0200_20150317_002716	There are mutated Tree Root Crystals in Zikore Sho
 QUEST_LV_0200_20150317_002717	Besiege the monsters swarming out
 QUEST_LV_0200_20150317_002718	Monsters jumped out when you touched the Tree Root Crystal! Besiege them all within time limit.
 QUEST_LV_0200_20150317_002719	Destroy the mutated Tree Root Crystal in Zikore Shore
-QUEST_LV_0200_20150317_002720	Defeated all monsters. Destroy the Tree Root Crystal again.
+QUEST_LV_0200_20150317_002720	Besiegt all monsters. Destroy the Tree Root Crystal again.
 QUEST_LV_0200_20150317_002721	Destroy the Tree Root Crystal
 QUEST_LV_0200_20150317_002722	There is a Tree Root Crystal to the east of Pilgrim's Grave. You must destroy that Tree Root Crystal in order to release the curse on this land.
 QUEST_LV_0200_20150317_002723	Besiege Cactusvel
@@ -2743,7 +2743,7 @@ QUEST_LV_0200_20150317_002742	All the monsters came out of the treasure chest wh
 QUEST_LV_0200_20150317_002743	There seems to be a pilgrim in trouble near Vinas Brewery. Approach him and listen to his story.
 QUEST_LV_0200_20150317_002744	When Pilgrim Gracius touched the altar, something went wrong. Pilgrim Gracius fainted and monsters rushed out. First, defeat all the monsters.
 QUEST_LV_0200_20150317_002745	Sprich mit Pilgrim Gracius
-QUEST_LV_0200_20150317_002746	Defeated all the monsters. Pilgrim Gracius regained his senses again so ask him what happened.
+QUEST_LV_0200_20150317_002746	Besiegt all the monsters. Pilgrim Gracius regained his senses again so ask him what happened.
 QUEST_LV_0200_20150317_002747	Besiege the monsters that rushed out of the altar
 QUEST_LV_0200_20150317_002748	Sprich mit Gracius
 QUEST_LV_0200_20150317_002749	Try talking to Gracius
@@ -2763,7 +2763,7 @@ QUEST_LV_0200_20150317_002762	The pilgrim who was trapped by Merge gave you the 
 QUEST_LV_0200_20150317_002763	Seems like you can now listen to the story behind this place from Gracius.
 QUEST_LV_0200_20150317_002764	Free the soul from the monster
 QUEST_LV_0200_20150317_002765	Angry souls are not only in the altar but also trapped in the monsters. You can see the monsters with souls in it when you use the dye of light that Gracius gave you. Get those monsters and free the souls.
-QUEST_LV_0200_20150317_002766	Defeated all the monsters that had souls trapped inside them. Sprich mit Pilgrim Gracius agian.
+QUEST_LV_0200_20150317_002766	Besiegt all the monsters that had souls trapped inside them. Sprich mit Pilgrim Gracius agian.
 QUEST_LV_0200_20150317_002767	Besiege the monsters with souls trapped inside them
 QUEST_LV_0200_20150317_002768	Sprich mit Gracius to free the souls trapped in each altar.
 QUEST_LV_0200_20150317_002769	Free the souls
@@ -2781,7 +2781,7 @@ QUEST_LV_0200_20150317_002780	There is an Altar associated with the souls of Sca
 QUEST_LV_0200_20150317_002781	Protect the souls of the altar.
 QUEST_LV_0200_20150317_002782	Souls and monsters trying to harm the souls appeared when you touched the altar. You must defeat all the monsters before they harm the souls.
 QUEST_LV_0200_20150317_002783	Sprich mit the Trapped Soul.
-QUEST_LV_0200_20150317_002784	Defeated all the monsters around the angry souls. Now talk to the soul.
+QUEST_LV_0200_20150317_002784	Besiegt all the monsters around the angry souls. Now talk to the soul.
 QUEST_LV_0200_20150317_002785	Besiege the monsters summoned by the soul of the pilgrim.
 QUEST_LV_0200_20150317_002786	Branginti Hill Altar
 QUEST_LV_0200_20150317_002787	There are many altars in Scattered Stairway. See what story is behind the altar in Branginti Hill.
@@ -2799,7 +2799,7 @@ QUEST_LV_0200_20150317_002798	Northern Rudiziu Trail Altar
 QUEST_LV_0200_20150317_002799	There are altars with unknown purposes in Scattered Stairway. The altar in the North Rudiziu Trail is half destroyed making it even harder to know its purpose. Go and take a close look at it.
 QUEST_LV_0200_20150317_002800	Merge suddenly appeared when you approached the altar and started destroying the souls that appeared nearby the altar! Besiege the Merge!
 QUEST_LV_0200_20150317_002801	Examine the Altar again
-QUEST_LV_0200_20150317_002802	Defeated the merge. What were the souls that you saw before the Merge appeared? Check the altar again.
+QUEST_LV_0200_20150317_002802	Besiegt the merge. What were the souls that you saw before the Merge appeared? Check the altar again.
 QUEST_LV_0200_20150317_002803	Besiege Merge
 QUEST_LV_0200_20150317_002804	Cool the Altar
 QUEST_LV_0200_20150317_002805	The altar at Osimas Highway keeps producing a red light. Go check it out.
@@ -6034,12 +6034,12 @@ QUEST_LV_0200_20150401_006037	Kupole Audra says the power gathered by Blut can o
 QUEST_LV_0200_20150401_006038	Hauberk successfully absorbed Blut's powers. Go and help Kupole Zydrone in Nuzikalti Hall.
 QUEST_LV_0200_20150401_006039	Punishment of the Demon Lord Blut
 QUEST_LV_0200_20150401_006040	Prepared to defeat Demon Lord Blut. Help Kupole Zydrone and defeat Blut.
-QUEST_LV_0200_20150401_006041	Defeated the Demon Lord Blut. Sprich mit Kupole Zydrone.
+QUEST_LV_0200_20150401_006041	Besiegt the Demon Lord Blut. Sprich mit Kupole Zydrone.
 QUEST_LV_0200_20150401_006042	Sprich mit Kupole Medeina
 QUEST_LV_0200_20150401_006043	Kupole Medeina in Shirtis Surveillance aisle looks very seious. Sprich mit Medeina.
 QUEST_LV_0200_20150401_006044	Besiege the demon servants of Nuaele
 QUEST_LV_0200_20150401_006045	Kupole Medeina said the barrier of Goddess should be stabilized by extinguishing the Nuaele's power. Besiege the demons of Nuaele.
-QUEST_LV_0200_20150401_006046	Defeated Nuaele's demons. Go back and report to Medeina.
+QUEST_LV_0200_20150401_006046	Besiegt Nuaele's demons. Go back and report to Medeina.
 QUEST_LV_0200_20150401_006047	Seems like Kupole Medeina has a good idea. Sprich mit Medeina.
 QUEST_LV_0200_20150401_006048	Some of Nuaele's demons used to be Hauberk's demons who received empowered manes from Hauberk before. Besiege Nuaele's demons in 2nd Isolation Area and get the manes of Hauberk.
 QUEST_LV_0200_20150401_006049	Retriefe Hauberk's manes. Give it to Medeina.
@@ -6050,11 +6050,11 @@ QUEST_LV_0200_20150401_006053	Found out Nuaele's plans. Tell Medeina about it.
 QUEST_LV_0200_20150401_006054	Figured out Nuaele's plans. Ask Medeina on what to do next.
 QUEST_LV_0200_20150401_006055	Besiege Nuaele's demons
 QUEST_LV_0200_20150401_006056	Kupole Medeina suggested defeating the strongest and most loyal servant of Nuaele. Besiege the monsters of Nuaele in 4th Isolation Area.
-QUEST_LV_0200_20150401_006057	Defeated Nuaele's demons. Sprich mit Kupole Medeina.
+QUEST_LV_0200_20150401_006057	Besiegt Nuaele's demons. Sprich mit Kupole Medeina.
 QUEST_LV_0200_20150401_006058	Ready to defeat Nuaele. Sprich mit Kupole Medeina.
 QUEST_LV_0200_20150401_006059	Besiege Demon Lord Nuaele
 QUEST_LV_0200_20150401_006060	Meet Kupole Aldona and head to Nuaele's territory to defeat Nuaele.
-QUEST_LV_0200_20150401_006061	Defeated Nuaele. Sprich mit Kupole Medeina.
+QUEST_LV_0200_20150401_006061	Besiegt Nuaele. Sprich mit Kupole Medeina.
 QUEST_LV_0200_20150401_006062	Vakarine says that you need to complete the Evening Star Key to get rid of the power controlling Dionys. Go to Kupole Zydrone to complete the key.
 QUEST_LV_0200_20150401_006063	Remove Klein Dimensional Crack
 QUEST_LV_0200_20150401_006064	Kupole Zydrone asked you to remove the small dimensional cracks that interferes with charging the Evening Star Key.
@@ -6109,12 +6109,12 @@ QUEST_LV_0200_20150401_006112	Protect Goddess Vakarine
 QUEST_LV_0200_20150401_006113	You successfully closed the dimensional crack! Sprich mit Goddess Vakarine.
 QUEST_LV_0200_20150401_006114	Kupole Audra is planning to take care of the rest of the demons. Sprich mit Kupole Audra.
 QUEST_LV_0200_20150401_006115	With their commander lost, the demons are trying to escape the Demon Prison. Besiege the demons that are trying to escape.
-QUEST_LV_0200_20150401_006116	Defeated the demons trying to escape. Bericht an Kupole Audra.
+QUEST_LV_0200_20150401_006116	Besiegt the demons trying to escape. Bericht an Kupole Audra.
 QUEST_LV_0200_20150401_006117	Kupole Audra still has some favors to ask of you. Sprich mit Kupole Audra.
 QUEST_LV_0200_20150401_006118	Gathered all the keepsakes. Give it to Kupole Audra.
 QUEST_LV_0200_20150401_006119	Demon Lord is gone but his demons are left. Sprich mit Kupole Medeina.
 QUEST_LV_0200_20150401_006120	Kupole Medeina asked you to defeat the demons left in 1st Isolation Area to stabilize Demon Prison.
-QUEST_LV_0200_20150401_006121	Defeated the demons of the Nuaele. Sprich mit Kupole Medeina.
+QUEST_LV_0200_20150401_006121	Besiegt the demons of the Nuaele. Sprich mit Kupole Medeina.
 QUEST_LV_0200_20150401_006122	Kupole Medeina seems like something's bothering her. Sprich mit Kupole Medeina.
 QUEST_LV_0200_20150401_006123	Kupole Medeina asked you to find the necklace she lost while fighting the demons in the 4th Isolation Area.
 QUEST_LV_0200_20150401_006124	Give to Kupole Medeina
@@ -6122,7 +6122,7 @@ QUEST_LV_0200_20150401_006125	Retrieved all the necklaces. Give it to Kupole Med
 QUEST_LV_0200_20150401_006126	Seems like Kupole Zydrone needs your hlep. Sprich mit Kupole Zydrone.
 QUEST_LV_0200_20150401_006127	Besiege the demon gone wild
 QUEST_LV_0200_20150401_006128	Kupole Zydrone says that the demons that came out of Valtruss' influence became wild and strange. Besiege the demons in Orualma.
-QUEST_LV_0200_20150401_006129	Defeated the wild demons. Bericht an Kupole Zydrone.
+QUEST_LV_0200_20150401_006129	Besiegt the wild demons. Bericht an Kupole Zydrone.
 QUEST_LV_0200_20150401_006130	Kupole Aldona feels pity seeing Dionys in pain. Sprich mit Kupole Aldona.
 QUEST_LV_0200_20150401_006131	Collect Dionys' Claws
 QUEST_LV_0200_20150401_006132	Kupole Aldona says Dionys might recover his strength if you bring back its claws. Find and defeat the demons near Rearda Seal that was attacked by Dionys and get Dionys' claw back.
@@ -6135,10 +6135,10 @@ QUEST_LV_0200_20150401_006138	Collected all the pieces of the Mark of Star. Give
 QUEST_LV_0200_20150401_006139	Successfully caught Hauberk but his demons are still left. Sprich mit Kupole Daiva.
 QUEST_LV_0200_20150401_006140	Besiege the demons
 QUEST_LV_0200_20150401_006141	Kupole Daiva asked you to defeat Hauberk's demons that fled to Aklaga Isolation Area.
-QUEST_LV_0200_20150401_006142	Defeated all Hauberk's remnant forces. Tell Kupole Daiva about it.
+QUEST_LV_0200_20150401_006142	Besiegt all Hauberk's remnant forces. Tell Kupole Daiva about it.
 QUEST_LV_0200_20150401_006143	Hauberk's remnants are showing suspicous movement. Sprich mit Kupole Sigita.
 QUEST_LV_0200_20150401_006144	Besiege Hauberk's remnant forces
-QUEST_LV_0200_20150401_006145	Defeated Hauberk's remnanats in Ishdevi Hermitage. Sprich mit Kupole Sigita.
+QUEST_LV_0200_20150401_006145	Besiegt Hauberk's remnanats in Ishdevi Hermitage. Sprich mit Kupole Sigita.
 QUEST_LV_0200_20150401_006146	Seems like Kupole Sigita made an important decision. Sprich mit Kupole Sigita.
 QUEST_LV_0200_20150401_006147	Collect Demon's Teeth
 QUEST_LV_0200_20150401_006148	Kupole Sigita says it's about that we show them a lesson. Besiege the demons that hid in Hradeti Crossroad and collect the demon's teeth.
@@ -6146,7 +6146,7 @@ QUEST_LV_0200_20150401_006149	Deliver to Kupole Sigita
 QUEST_LV_0200_20150401_006150	Gathered all demon's teeth. Give it to Kupole Sigita.
 QUEST_LV_0200_20150401_006151	Goddess Vakarine spent all her strength in closing the gap and has a favor to ask you. Sprich mit Goddess Vakarine.
 QUEST_LV_0200_20150401_006152	Goddess Vakarine says the demons should not be gathered around for the future. Besiege the demons gathered nearby Vanaga Surveillance area.
-QUEST_LV_0200_20150401_006153	Defeated the demons nearby Vanaga Surveillance area. Sprich mit Goddess Vakarine.
+QUEST_LV_0200_20150401_006153	Besiegt the demons nearby Vanaga Surveillance area. Sprich mit Goddess Vakarine.
 QUEST_LV_0200_20150401_006154	Goddess Vakarine seems concerned for Dionys in pain. Sprich mit Goddess Vakarine.
 QUEST_LV_0200_20150401_006155	Colleted empty souls. Give it to Goddess Vakarine.
 QUEST_LV_0200_20150401_006156	Seems like there are gaps forming around. Sprich mit Goddess Vakarine.
@@ -6990,7 +6990,7 @@ QUEST_LV_0200_20150428_006993	Use Hauberk's seal fragment to suppress the demons
 QUEST_LV_0200_20150428_006994	Found out Nuaele's plans. Tell Kupole Aurne about Nuaele's plans.
 QUEST_LV_0200_20150428_006995	Figured out the plans of Nuaele. Sprich mit Kupole Arune on what to do next.
 QUEST_LV_0200_20150428_006996	Kupole Arune suggested defeating the strongest and most loyal servants of Nuaele. Besiege the Harugals in the 4th Isolation Area.
-QUEST_LV_0200_20150428_006997	Defeated the Harugals. Sprich mit Kupole Arune again.
+QUEST_LV_0200_20150428_006997	Besiegt the Harugals. Sprich mit Kupole Arune again.
 QUEST_LV_0200_20150428_006998	Besiege Harugals in the 4th Isolation Area
 QUEST_LV_0200_20150428_006999	You're prepared to defeat the Demon Lord Nuaele. Sprich mit Kupole Arune.
 QUEST_LV_0200_20150428_007000	Besiege the Demon Lord Nuaele
@@ -7966,7 +7966,7 @@ QUEST_LV_0200_20150714_007969	Notice/The Sanctum has been purified#3
 QUEST_LV_0200_20150714_007970	Scooping up the Water
 QUEST_LV_0200_20150714_007971	Notice/!/The Goddess Statue started to be attacked immediately after being worshiped!{nl}Remove the vines covering the Goddess Statue and protect it from the incoming monsters!#6
 QUEST_LV_0200_20150714_007972	Explaining about the Sanctum
-QUEST_LV_0200_20150714_007973	Notice/Defeated the Ironbaum attacking pilgrims! You can now be blessed at the Sanctum#3
+QUEST_LV_0200_20150714_007973	Notice/Besiegt the Ironbaum attacking pilgrims! You can now be blessed at the Sanctum#3
 QUEST_LV_0200_20150714_007974	Notice/Witas has perished{nl}Dig a grave for Witas and bury him#5
 QUEST_LV_0200_20150714_007975	Notice/!/There is only a portion of a picture in the frame you discovered{nl}Try obtaining the rest of the painting from nearby monsters#5
 QUEST_LV_0200_20150714_007976	Notice/!/The chest is locked{nl}Try to obtain the key by defeating nearby monsters!#5
@@ -8083,7 +8083,7 @@ QUEST_LV_0200_20150714_008086	The Third Epitaph (2)
 QUEST_LV_0200_20150714_008087	Lighting fire to vines/FIRE/3/TRACK_BEFORE/None
 QUEST_LV_0200_20150714_008088	Reading Epitaph/READ/3/TRACK_AFTER/None
 QUEST_LV_0200_20150714_008089	Interpreting the Tombstone's Story
-QUEST_LV_0200_20150714_008090	Notice/There seems to be a need to collect all epitaph contents{nl}Ask the Wings of Vibora in Klaipeda#5
+QUEST_LV_0200_20150714_008090	Notice/There seems to be a need to collect all epitaph contents{nl}Ask the Flügel of Vibora in Klaipeda#5
 QUEST_LV_0200_20150714_008091	Another Tombstone (1)
 QUEST_LV_0200_20150714_008092	Go to the right side and pull the lever
 QUEST_LV_0200_20150714_008093	Notice/!/Go to the right and pull the levers in order#5
@@ -8216,7 +8216,7 @@ QUEST_LV_0200_20150714_008219	Examine the Petrification Detector and defeat Spar
 QUEST_LV_0200_20150714_008220	Royal Army Guard Retia asked you to defeat Sparnashorn that is endangering the soldiers. Check the petrification detector in the old market then lure to the Sparnashorn to defeat it.
 QUEST_LV_0200_20150714_008221	Besiege the monsters in Assembly Hall Site
 QUEST_LV_0200_20150714_008222	Graverobber Hubertas asked you to defeat the monsters in Assembly Hall Site for them to rob the grave.
-QUEST_LV_0200_20150714_008223	Defeated the monsters in Assembly Hall site as Graverobber Hubertas asked. Return to him.
+QUEST_LV_0200_20150714_008223	Besiegt the monsters in Assembly Hall site as Graverobber Hubertas asked. Return to him.
 QUEST_LV_0200_20150714_008224	Graverobber Hubertas requested that you obtain monster claws to give to the Royal Army.
 QUEST_LV_0200_20150714_008225	Give it to Graverobber Hubertas
 QUEST_LV_0200_20150714_008226	Stehle the petrified stolen goods
@@ -8502,8 +8502,8 @@ QUEST_LV_0200_20150714_008505	You've collected enough kindling and oil, so burn 
 QUEST_LV_0200_20150714_008506	Besiege the monsters while burning down the vines
 QUEST_LV_0200_20150714_008507	The fire lighted well on the vine, but monsters rushed in after smelling the burning oil. Besiege the monsters while the vines burn down.
 QUEST_LV_0200_20150714_008508	Only the tombstone remains after all the vines have burned down. Although it's now sooty, you won't have a problem reading the epitaph. Read the epitaph.
-QUEST_LV_0200_20150714_008509	Meet the Wings of Vibora in Klaipeda
-QUEST_LV_0200_20150714_008510	The tombstones contain the memoirs of a fairy. Some of the memoirs are hard to understand, so look for someone who could interpret it. The Wings of Vibora at Klaipeda should know something.
+QUEST_LV_0200_20150714_008509	Meet the Flügel of Vibora in Klaipeda
+QUEST_LV_0200_20150714_008510	The tombstones contain the memoirs of a fairy. Some of the memoirs are hard to understand, so look for someone who could interpret it. The Flügel of Vibora at Klaipeda should know something.
 QUEST_LV_0200_20150714_008511	Another Tombstone
 QUEST_LV_0200_20150714_008512	Examine the tombstone in the Namu Temple Ruins.
 QUEST_LV_0200_20150714_008513	Read the writings on the tombstone
@@ -8514,7 +8514,7 @@ QUEST_LV_0200_20150714_008517	Meet Justas
 QUEST_LV_0200_20150714_008518	Meet Justas at the Research Lager
 QUEST_LV_0200_20150714_008519	Justas seems to be in trouble. Besiege the monsters that are attacking Justas.
 QUEST_LV_0200_20150714_008520	Sprich mit Justas
-QUEST_LV_0200_20150714_008521	Defeated all the monsters. Sprich mit Justas and find out what this is all about.
+QUEST_LV_0200_20150714_008521	Besiegt all the monsters. Sprich mit Justas and find out what this is all about.
 QUEST_LV_0200_20150714_008522	Justas seems to have been through this often. Sprich mit him and ask how he ended up here alone.
 QUEST_LV_0200_20150714_008523	Collect Bone Fragments 
 QUEST_LV_0200_20150714_008524	Justas asked you to collect materials for the anti-rust solution from defeating Hallowventer Archer. {nl}{nl} Collect Bone Fragments to make an anti-rust solution to remove and prevent rust on the metal plate left by Demetrius.
@@ -8814,7 +8814,7 @@ QUEST_LV_0200_20150717_008817	The Jewel of Prominence is stabilized but the expl
 QUEST_LV_0200_20150717_008818	Protect Grita while she is stabilizing the magic.
 QUEST_LV_0200_20150717_008819	Grita said we have to go to the Magie Control Room. Protect Grita while she stabilizes the magic.
 QUEST_LV_0200_20150717_008820	You defeated all the monsters, but the Tower is still shaking. Ask Grita what to do next.
-QUEST_LV_0200_20150717_008821	Defeated all the monsters that threatened Grita. Ask Grita what to do next.
+QUEST_LV_0200_20150717_008821	Besiegt all the monsters that threatened Grita. Ask Grita what to do next.
 QUEST_LV_0200_20150717_008822	Go to Mage Tower 5F
 QUEST_LV_0200_20150717_008823	Grita told you to give the Jewel of Prominence to the goddess while she takes care of the tower. Go to the 5th floor of the Mage Tower where the goddess is located.
 QUEST_LV_0200_20150717_008824	Besiege Grinender that is blocking the way to the 5th Floor
@@ -8836,7 +8836,7 @@ QUEST_LV_0200_20150717_008839	Alchemist Saliamonas asked you to defeat the Rubab
 QUEST_LV_0200_20150717_008840	You've defeated Rubabos as requested by Saliamonas. Return to Saliamonas.
 QUEST_LV_0200_20150717_008841	Besiege Arma that mocked the Sealed Stone
 QUEST_LV_0200_20150717_008842	The Sealed Stone asked you to defeat the Arma that mocked it. Besiege Arma for the Stone.
-QUEST_LV_0200_20150717_008843	Defeated Arma that mocked the Stone. Bericht an den Stone.
+QUEST_LV_0200_20150717_008843	Besiegt Arma that mocked the Stone. Bericht an den Stone.
 QUEST_LV_0200_20150717_008844	Disciple Hones says that Shadowgaler has the Seelenkristall which is the key to finding the teacher's legacy. Use the Eye of Truth to find Shadowgaler and defeat it.
 QUEST_LV_0200_20150717_008845	Hones' Memo : Go to the Shrine of Remembrance if you've collected all the Magie Stone of Contract fragments. You can restore the Magie Stone in the preservation magic tile.
 QUEST_LV_0200_20150717_008846	Jane's spirit and Archon will be freed when you stop the Magie Stone of Interaction. You can weaken the Archon by using the seal that supress the Spell power on the Archon.
@@ -9045,7 +9045,7 @@ QUEST_LV_0200_20150908_009048	The bushes were too sturdy so you hurt your hands.
 QUEST_LV_0200_20150908_009049	Don't touch it as you burn it!
 QUEST_LV_0200_20150908_009050	Lighting up the bushes
 QUEST_LV_0200_20150908_009051	Reading the epitaph
-QUEST_LV_0200_20150908_009052	You are unsure of what was written on the tombstone.{nl}Go to the Wings of Vibora in Klaipeda and ask.
+QUEST_LV_0200_20150908_009052	You are unsure of what was written on the tombstone.{nl}Go to the Flügel of Vibora in Klaipeda and ask.
 QUEST_LV_0200_20150908_009053	Go to the right side and pull the levers consecutively
 QUEST_LV_0200_20150908_009054	Pull the lever
 QUEST_LV_0200_20150908_009055	You have obtained the Metal Plate!
@@ -9547,7 +9547,7 @@ QUEST_LV_0200_20151001_009550	Amanda asked you to hand over the records from Ruk
 QUEST_LV_0200_20151001_009551	You've received the silence scroll from Wilhelmina Carriot. Let's hand it over to the Graverobber Amanda.
 QUEST_LV_0200_20151001_009552	Graverobber Amanda asked you to defeat Gargoyle that are standing at the gathering place in order to enter the Fortress of the Land. Use the silence scroll which you've received from Wilhelmina Carriot and make sure the sound doesn't go out from it and defeat the Gargoyle.
 QUEST_LV_0200_20151001_009553	The spirit that is tied to the seal stone wants to be freed. Besiege Blindlems and the spell dolls to set the spirit free from it restraints.
-QUEST_LV_0200_20151001_009554	Defeated the Blindlems and Spell dolls. Return to the seal stone and free its spirit.
+QUEST_LV_0200_20151001_009554	Besiegt the Blindlems and Spell dolls. Return to the seal stone and free its spirit.
 QUEST_LV_0200_20151001_009555	Black Spell Puppe
 QUEST_LV_0200_20151001_009556	You've entered the Fortress of the Land safely. Sprich mit Amanda who is waiting for you.
 QUEST_LV_0200_20151001_009557	Collect the herbs
@@ -9949,7 +9949,7 @@ QUEST_LV_0200_20151224_009952	The Netherbovine in Poslinkis Forest is known for 
 QUEST_LV_0200_20151224_009953	For us who believe in the goddesses, working with darkness is taboo.{nl}Although there are those who risk it for the single purpose of defeating the goddesses' enemies.
 QUEST_LV_0200_20151224_009954	Your abilities are remarkable.{nl}I'd say you're more than qualified to learn the highest level of the Elementalist.{nl}
 QUEST_LV_0200_20151224_009955	Allow me to teach you, then.
-QUEST_LV_0200_20151224_009956	I have a task for you. The request came from Wings of Vibora.{nl}It seems like some baron opened a portal that needs to be closed.{nl}
+QUEST_LV_0200_20151224_009956	I have a task for you. The request came from Flügel of Vibora.{nl}It seems like some baron opened a portal that needs to be closed.{nl}
 QUEST_LV_0200_20151224_009957	It was... the Demon Prison.{nl}I wonder what this person was thinking of opening a place full with crawling demons.{nl}
 QUEST_LV_0200_20151224_009958	Apparently they sent this request to other places as well, but we can't miss it, can we?{nl}Be the first to complete the task and I'll teach you one of the strongest Wugushi techniques.
 QUEST_LV_0200_20151224_009959	Your target is the Rajatoad in Demon Prison District 1.{nl}An easy opponent for a Wugushi, but you can never be too careful in that prison.
@@ -9957,7 +9957,7 @@ QUEST_LV_0200_20151224_009960	Some people have really lost their sense out of fe
 QUEST_LV_0200_20151224_009961	Seems like you did a very good job after all.{nl}It was a difficult task, but I have to admit you have skills.{nl}
 QUEST_LV_0200_20151224_009962	Alright. Let's get started on the new technique. {nl}I promise to look after you until you become a top Wugushi.
 QUEST_LV_0200_20151224_009963	So you came to learn the last technique of the Scouts.{nl}Before that, there's something I want you to do for me.{nl}
-QUEST_LV_0200_20151224_009964	It's a favor for the Scout Master...{nl}Apparently the Wings of Vibora sent us a request but there's no one to carry it out.{nl}
+QUEST_LV_0200_20151224_009964	It's a favor for the Scout Master...{nl}Apparently the Flügel of Vibora sent us a request but there's no one to carry it out.{nl}
 QUEST_LV_0200_20151224_009965	And you're a full-fledged Scout now.{nl}I think this will be a good chance to see what you've learned so far, {nl}and I'm confident you can pull through it...{nl}What do you say?
 QUEST_LV_0200_20151224_009966	The mission is to defeat the Deadborn in Demon Prison District 1.{nl}They're very powerful monsters, but for someone of {nl}your level it won't be that difficult of an opponent.
 QUEST_LV_0200_20151224_009967	Your expertise in reconnaissance and stealth won't keep you safe forever.{nl}I hope you keep that in mind and take care.{nl}
@@ -10195,7 +10195,7 @@ QUEST_LV_0200_20151224_010198	The Thaumaturge Klassenmeister told you that he ha
 QUEST_LV_0200_20151224_010199	You have passed the Thaumaturge Klassenmeister's test! Return to the Thaumaturge Klassenmeister.
 QUEST_LV_0200_20151224_010200	The Elementalist Master told you that you need to overcome Darkness elemental property you don't usually handle. Learn the Darkness elemental property by defeating Netherbovine at Poslinkis Forest.
 QUEST_LV_0200_20151224_010201	You have defeated the Netherbovine. Return to the Elementalist Master.
-QUEST_LV_0200_20151224_010202	The Wugushi Master has asked you to do a request from Wings of Vibora. Go defeat Rajatoad at Demon Prison District 1.
+QUEST_LV_0200_20151224_010202	The Wugushi Master has asked you to do a request from Flügel of Vibora. Go defeat Rajatoad at Demon Prison District 1.
 QUEST_LV_0200_20151224_010203	You have defeated the Rajatoad. Return to the Wugushi Master.
 QUEST_LV_0200_20151224_010204	The Scout Klassenmeister has asked you a request from the Scout Master to prove your skills. Go defeat Deadborn at Demon Prison District 1 and prove him your skills.
 QUEST_LV_0200_20151224_010205	You have defeated the Deadborn. Return to the Scout Klassenmeister.
@@ -10502,7 +10502,7 @@ QUEST_LV_0200_20160718_010505	Demon Chitriguila is trying to craft an orb to des
 QUEST_LV_0200_20160718_010506	Kupole Arune seems to know something. Sprich mit Kupole Arune.
 QUEST_LV_0200_20160718_010507	Sprich mit Tomalov
 QUEST_LV_0200_20160718_010508	Tomalov in Genar Field is waiting for someone to help him.
-QUEST_LV_0200_20160718_010509	Collecting Sticky Wings
+QUEST_LV_0200_20160718_010509	Collecting Sticky Flügel
 QUEST_LV_0200_20160718_010510	Tomalov wants to join the Kedoran Merchant Alliance and the entry test is to bring sticky wings. Help him on his test by getting slimy wings from Kepari Shamans and Orange Dandels.
 QUEST_LV_0200_20160718_010511	Report to Tomalov
 QUEST_LV_0200_20160718_010512	You've obtained a sufficient amount of sticky wings. Hand them over to Tomalov.

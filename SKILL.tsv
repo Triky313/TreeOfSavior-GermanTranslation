@@ -1670,7 +1670,7 @@ SKILL_20150317_001669	Cursed a target.
 SKILL_20150317_001670	Natural recovery impossible, magic defense decreases.
 SKILL_20150317_001671	Süchtige Aura
 SKILL_20150317_001672	Spreads Gift to nearnach enemies. Limited running and item usage.
-SKILL_20150317_001673	Growth
+SKILL_20150317_001673	Wachstum
 SKILL_20150317_001674	Confusion
 SKILL_20150317_001675	Can't distinguish friend and foe.
 SKILL_20150317_001676	Staggered
@@ -5847,7 +5847,7 @@ SKILL_20151224_005846	Detects hidden enemies #{CaptionRatio}# mal{nl}Hounding AI
 SKILL_20151224_005847	Detoxifies a poisoned ally. If the Gift is of a higher rank than the antidote, the duration will be reduced instead.
 SKILL_20151224_005848	{#339999}{ol}[Verwirrung]{/}{/} Dauer: 10 Sekunden{nl}Gilt maximal #{CaptionRatio}# mal{nl}Verbraucht #{SpendPoison}# Gift Pots
 SKILL_20151224_005849	{#DD5500}{ol}[Physisch] - [Gift]{/}{/}{nl}Create a Gift puddle nach throwing a pot filled with Gift. Any enemy who come into contact with the puddle is poisoned.
-SKILL_20151224_005850	{#DD5500}{ol}[Physisch] - [Gift]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies are replaced with a newly born Gift insect.
+SKILL_20151224_005850	{#DD5500}{ol}[Physisch] - [Gift]{/}{/}{nl}Throw Jincan to attack enemies. Besiegt enemies are replaced with a newly born Gift insect.
 SKILL_20151224_005851	Blockzähler: #{CaptionRatio}#{nl}Bewegungsgeschwindigkeit: -#{CaptionRatio2}#
 SKILL_20151224_005852	Maximum Dauer: #{CaptionRatio2}# Sekunden{nl}Verbraucht #{CaptionRatio}# SP per Sekunde
 SKILL_20151224_005853	Skill Kritrate: +#{CaptionRatio}#%
@@ -7324,7 +7324,7 @@ SKILL_20170227_007323	Erhöht +100 Angriff, +80 Angriffsgeschwindigkeit und +5 B
 SKILL_20170227_007324	Strawberry Candy
 SKILL_20170227_007325	Erhöht +100 Physisch, Magic Angriff for five minute.
 SKILL_20170227_007326	Soda Candy
-SKILL_20170227_007327	Erhöht +100 Physisch, Magic Defense for five minute.
+SKILL_20170227_007327	Erhöht +100 Physisch, Magic Verteidigung for five minute.
 SKILL_20170227_007328	Lemon Candy
 SKILL_20170227_007329	Erhöht +3 Bewegungsgeschwindigkeit für 5 Minuten.
 SKILL_20170227_007330	Sweet Boy Buff
@@ -7339,7 +7339,7 @@ SKILL_20170313_007338	Angriff: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRat
 SKILL_20170313_007339	Place a flag that raises the combat abilities of the pirate crew. A combo is activated if multiple enemies are defeated near the Jolly Roger. Achieving a combo of 300 activates a fever buff that grants additional damage to missile attacks.
 SKILL_20170313_007340	Flag Dauer: #{CaptionTime}# Sekunden{nl}Missile Angriff Damage: +#{CaptionRatio}#%{nl}Fever Dauer: 10 Sekunden
 SKILL_20170313_007341	Temporarily increases speed of basic attacks and dagger attacks. Reduces stamina consumption um 5% per Jolly Roger skill level when Jolly Roger buff is applied.
-SKILL_20170313_007342	Angriff per Stack: +#{CaptionRatio}#%{nl}Defense per Stack: -#{CaptionRatio3}#% (max. 100%){nl}Maximum Stacks: #{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden
+SKILL_20170313_007342	Angriff per Stack: +#{CaptionRatio}#%{nl}Verteidigung per Stack: -#{CaptionRatio3}#% (max. 100%){nl}Maximum Stacks: #{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20170313_007343	Angriff: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes #{CaptionRatio3}#% SP per second{nl}Maximum Dauer: 10 Sekunden
 SKILL_20170313_007344	Ride the summoned devil from the Grimoire and take control of it. When mounted on the devil, its physical and magic attack increases proportionally to the riding character's magic attack.
 SKILL_20170313_007345	Manipulate time to make a monster reappear on the same spot it was defeated. You must use it near monsters for it to have effect. Reincarnated monsters cannot be reincarnated again.
@@ -7350,7 +7350,7 @@ SKILL_20170313_007349	{#993399}{ol}[Magic]{/}{/}Creates a temporary magic circle
 SKILL_20170313_007350	{#993399}{ol}[Magic]-[Holy]{/}{/}Unleashes a divine magic attack in a straight line.
 SKILL_20170313_007351	{#993399}{ol}[Magic]{/}{/}Increases the chance of resistance of you and your party members against status ailments.
 SKILL_20170313_007352	Angriff: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden{nl}Consumes #{SpendPoison}# Poison Pot Poison
-SKILL_20170313_007353	{#DD5500}{ol}[Physisch] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies have a chance to be replaced with a poison insect that attacks other enemies.
+SKILL_20170313_007353	{#DD5500}{ol}[Physisch] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Besiegt enemies have a chance to be replaced with a poison insect that attacks other enemies.
 SKILL_20170313_007354	Consumes #{SpendPoison}# Poison Pot Poison{nl}Max. no. of poison insects: #{CaptionRatio}#{nl}Poison insect duration: 3 Sekunden
 SKILL_20170313_007355	Angriff 350% + #{SkillAtkAdd}#{nl}Attribute attack #{CaptionRatio}#%{nl}AoE attack ratio #{SkillSR}#
 SKILL_20170313_007356	Angriff 150% + #{SkillAtkAdd}#{nl}Attribute attack #{CaptionRatio}#%{nl}AoE attack ratio #{SkillSR}#
@@ -7370,7 +7370,7 @@ SKILL_20170313_007369
 SKILL_20170313_007370	
 SKILL_20170313_007371	
 SKILL_20170313_007372	
-SKILL_20170313_007373	Max. Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Ausweichen & Defense: -#{CaptionRatio}#{nl} Dauer for allies: #{CaptionTime}# Sekunden{nl}Dauer for enemies #{CaptionRatio2}# Sekunden
+SKILL_20170313_007373	Max. Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Ausweichen & Verteidigung: -#{CaptionRatio}#{nl} Dauer for allies: #{CaptionTime}# Sekunden{nl}Dauer for enemies #{CaptionRatio2}# Sekunden
 SKILL_20170313_007374	Change to a state where you become temporarily invincible from all attacks.
 SKILL_20170313_007375	Max. duration 1.5 Sekunden{nl}Long range projectile, can defend magic
 SKILL_20170313_007376	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Summons the wagon of the goddess to explode at a predetermined spot, dealing damage to nearby enemies.
@@ -8155,7 +8155,7 @@ SKILL_20170313_008154	* Inflicts stun at a 2% chance pro Fähigkeitslevel when p
 SKILL_20170313_008155	* Adds to the chance of automatically being healed at a 2% pro Fähigkeitslevel when using [Heal]{nl}* Increases cooldown time by 3 Sekunden
 SKILL_20170313_008156	* Increases duration of [Deprotected Zone]'s magic circle by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 5
 SKILL_20170313_008157	* Deals damage equal to 100% of magic attack to nearby Devil-type monsters when using [Divine Might]{nl}* Erhöht SP Verbrauch um 12
-SKILL_20170313_008158	* Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Defense]{nl}* [Weakened Defense] can be stacked up to 10 times{nl}* Erhöht SP Verbrauch um 6
+SKILL_20170313_008158	* Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Verteidigung]{nl}* [Weakened Verteidigung] can be stacked up to 10 times{nl}* Erhöht SP Verbrauch um 6
 SKILL_20170313_008159	* Increases range applied by [Safety Zone] to 15{nl}* Erhöht SP Verbrauch um 6
 SKILL_20170313_008160	* Decreases damage taken when applied with a character's [Guardian Saint] um 5% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 14
 SKILL_20170313_008161	* [Heal] will not inflict damage nor react to enemies{nl}* Erhöht SP Verbrauch um 3
@@ -8273,7 +8273,7 @@ SKILL_20170313_008272	* Craft a dispeller to prevent harmful effects{nl}* Craft 
 SKILL_20170313_008273	* Increases the attack of Indulgentia based on the number of items in the Offering Box
 SKILL_20170313_008274	* Increases duration of [Spell Shop] by 5 minutes pro Fähigkeitslevel when you endow a registered effect to an ally
 SKILL_20170313_008275	* Donation is possible through the Pardoner Master{nl}* The donation amount varies slightly each time
-SKILL_20170313_008276	* Increases duration of [Increase Magic Defense] by 1 second pro Fähigkeitslevel{nl}* Increases cooldown time by 5 Sekunden
+SKILL_20170313_008276	* Increases duration of [Increase Magic Verteidigung] by 1 second pro Fähigkeitslevel{nl}* Increases cooldown time by 5 Sekunden
 SKILL_20170313_008277	* Erhöht ausgeteilten Schaden mit [Carnivory] um 1% pro Fähigkeitslevel
 SKILL_20170313_008278	* Increases duration of [Chortasmata] by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10
 SKILL_20170313_008279	* Increases evasion of small-type monster transformed by [Shape Shifting] or [Transform] by 20% pro Fähigkeitslevel
@@ -8413,7 +8413,7 @@ SKILL_20170420_008412	Angriff #{SkillFactor}#%{nl}{nl}AoE Angriff Ratio #{SkillS
 SKILL_20170420_008413	Angriff: #{SkillFactor}#%{nl}Target 5
 SKILL_20170420_008414	Angriff: #{SkillFactor}#%{nl}Dauer 6 Sekunden
 SKILL_20170420_008415	{#DD5500}{ol}[Physisch] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increases attack according to the character's height and the boots' defense.
-SKILL_20170420_008416	Targets: #{CaptionRatio}#{nl}Maximum Physical Defense: -#{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden
+SKILL_20170420_008416	Targets: #{CaptionRatio}#{nl}Maximum Physical Verteidigung: -#{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20170420_008417	Increases your attack when you keep repeatedly attacking one particular enemy.
 SKILL_20170420_008418	Angriff per Stack: 1.5% Increase{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Increase Angriffsgeschw. #{CaptionRatio}{nl}Dauer: #{CaptionTime}# Sekunden
 SKILL_20170420_008419	{#DD5500}{ol}[Physisch] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw it away.
@@ -8426,7 +8426,7 @@ SKILL_20170420_008425	Angriff: #{SkillFactor}#{nl}{#339999}{ol}[Stun]{/}{/} Daue
 SKILL_20170420_008426	{#DD5500}{ol}[Physisch] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Blind] on the enemy. Adds additional damage to frozen and petrified enemies.
 SKILL_20170420_008427	Angriff: #{SkillFactor}#{nl}{#339999}{ol}[Shock]{/}{/} Dauer 3 Sekunden {nl}AoE Angriff Ratio: #{SkillSR}#
 SKILL_20170420_008428	{#DD5500}{ol}[Physisch] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with [Unbalanced].
-SKILL_20170420_008429	Angriff: #{SkillFactor}#{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Dauer: #{CaptionTime}# Sekunden
+SKILL_20170420_008429	Angriff: #{SkillFactor}#{nl}Verteidigung: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Dauer: #{CaptionTime}# Sekunden
 SKILL_20170420_008430	Angriff: #{SkillFactor}#{nl}Maximum Dauer: 10 Sekunden
 SKILL_20170420_008431	{#DD5500}{ol}[Physisch] - [Strike]{/}{/}{nl}Use your shield and sword to successively attack enemies.
 SKILL_20170420_008432	Angriff: #{SkillFactor}#% x 4{nl}{nl}AoE Angriff Ratio: #{SkillSR}#
@@ -8530,7 +8530,7 @@ SKILL_20170420_008529	Angriff #{SkillFactor}#{nl}Stigma duration 20 Sekunden
 SKILL_20170420_008530	Zusätzlicher Schaden #{SkillAtkAdd}#{nl}Max Dauer 5 Sekunden{nl}Requires summoned Evil Spirits
 SKILL_20170420_008531	Angriff: #{SkillFactor}#%{nl}Consumes 1 Rune Stone{nl}Casting Time: 64 Sekunden
 SKILL_20170420_008532	Dauer: #{CaptionTime}# Sekunden{nl}Increases Ice-property skill attack by 150%{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 Sekunden
-SKILL_20170420_008533	Giant Size Dauer: #{CaptionTime}# Sekunden{nl}Magic Circle Dauer: 10 Sekunden{nl}Defense, Maximum HP: #{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 Sekunden
+SKILL_20170420_008533	Giant Size Dauer: #{CaptionTime}# Sekunden{nl}Magic Circle Dauer: 10 Sekunden{nl}Verteidigung, Maximum HP: #{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 Sekunden
 SKILL_20170420_008534	Angriff: #{SkillFactor}#% x 5{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 Sekunden
 SKILL_20170420_008535	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Dauer: #{CaptionTime}# Sekunden{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 Sekunden
 SKILL_20170420_008536	Angriff: #{SkillFactor}#%{nl}Dauer 1.5 Sekunden
@@ -8575,7 +8575,7 @@ SKILL_20170420_008574	0.5 Sekunden Angriff #{SkillAtkAdd}#{nl}{#339999}{ol}[Pois
 SKILL_20170420_008575	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearby enemies whenever it is attacked. {nl}
 SKILL_20170420_008576	{#DD5500}{ol}[Physisch] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemy who come into contact with the puddle is poisoned. {nl}
 SKILL_20170420_008577	0.5 Sekunden attack #{SkillFactor}#%{nl}Dauer #{CaptionTime}# Sekunden{nl}Consumes  #{SpendPoison}# Poison Pot
-SKILL_20170420_008578	{#DD5500}{ol}[Physisch] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies have a chance to be replaced with a poison insect that attacks other enemies.{nl}Damage increases with STR.
+SKILL_20170420_008578	{#DD5500}{ol}[Physisch] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Besiegt enemies have a chance to be replaced with a poison insect that attacks other enemies.{nl}Damage increases with STR.
 SKILL_20170420_008579	Applies a poison once to the weapon of you and your party members for the next attack.{nl}Damage increases with STR.
 SKILL_20170420_008580	Angriff: #{SkillFactor}#%{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to Maximum Targets: #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Dauer #{CaptionTime}#
 SKILL_20170420_008581	Maximum Dauer: #{CaptionRatio2}# Sekunden{nl}Consumes #{CaptionRatio}# SP per second
@@ -8586,7 +8586,7 @@ SKILL_20170420_008585	Angriff: #{SkillAtkAdd}#{nl}STR: +#{CaptionRatio}#{nl}Daue
 SKILL_20170420_008586	{#DD5500}{ol}[Physisch] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate may stun the enemy. Attacking from the back deals extra damage.
 SKILL_20170420_008587	Angriff #{SkillFactor}#% x 2 times{nl}Critical chance #{CaptionRatio}#%
 SKILL_20170420_008588	Angriff: #{SkillFactor}#{nl}Bleeding Dauer: #{CaptionTime}# Sekunden{nl}Consumes 1 Broadhead Arrow
-SKILL_20170420_008589	Angriff: #{SkillFactor}#%{nl}Physical Defense: -#{CaptionRatio}#% {nl}Removes Reflect Shield{nl}Consumes 1 Bodkin Arrow
+SKILL_20170420_008589	Angriff: #{SkillFactor}#%{nl}Physical Verteidigung: -#{CaptionRatio}#% {nl}Removes Reflect Shield{nl}Consumes 1 Bodkin Arrow
 SKILL_20170420_008590	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires a barbed arrowhead. Deals a number of hits depending on an enemy's defense type.
 SKILL_20170420_008591	Angriff: #{SkillFactor}#%{nl}Cloth armor-type Targets: 3 hits{nl}Leather armor-type Targets: 2 hits{nl}Plate armor-Type targets: 1 hit{nl}Ghost armor-type targets: Nullifies{nl}Consumes 1 Barbed Arrow
 SKILL_20170420_008592	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires an arrow that, upon hitting an enemy, creates a cross-shaped explosion.
@@ -8632,7 +8632,7 @@ SKILL_20170420_008631	Angriff: #{SkillFactor}#%{nl}Casting Time: #{CaptionTime}#
 SKILL_20170420_008632	Holy Property Angriff: +#{CaptionRatio}#{nl}Additional Property Damage: +#{CaptionRatio2}#{nl}Dauer: #{CaptionTime}# Sekunden{nl}Consumes 1 Gyslotis
 SKILL_20170420_008633	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates an exorcism circle that damages enemies inside, then deals continuous damage.
 SKILL_20170420_008634	0.4 Sekunden Angriff #{SkillFactor}#%{nl}Dauer #{CaptionTime}#Seconds
-SKILL_20170420_008635	Magic Defense: -#{CaptionRatio}#% decrease{nl}Hexing Dauer: #{CaptionTime}# Sekunden
+SKILL_20170420_008635	Magic Verteidigung: -#{CaptionRatio}#% decrease{nl}Hexing Dauer: #{CaptionTime}# Sekunden
 SKILL_20170420_008636	Angriff: #{SkillFactor}#%{nl}Angriff bonus on 3rd attack #{CaptionRatio}#times ~ #{CaptionRatio2}#times
 SKILL_20170420_008637	Angriff#{SkillFactor}#%{nl}Max. duration 10 Sekunden{nl}Requires summoned zombies
 SKILL_20170420_008638	Angriff #{SkillFactor}#%{nl}Max. targets #{CaptionRatio2}#
@@ -9196,7 +9196,7 @@ SKILL_20170420_009195	* Decreases the interval of [Cure]'s magic circle by 0.2 S
 SKILL_20170420_009196	* Adds to the chance of automatically being healed at a 2% pro Fähigkeitslevel when using [Heal]{nl} Erhöht SP Verbrauch um 20%
 SKILL_20170420_009197	* Erhöht die Dauer von [Deprotected Zone]'s magic circle by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009198	* Deals damage equal to 100% of magic attack to nearby Devil-type monsters when using [Divine Might]{nl}* Erhöht SP Verbrauch um 10%
-SKILL_20170420_009199	* Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Defense]{nl}* [Weakened Defense] can be stacked up to 10 times{nl} Erhöht SP Verbrauch um 10%
+SKILL_20170420_009199	* Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Verteidigung]{nl}* [Weakened Verteidigung] can be stacked up to 10 times{nl} Erhöht SP Verbrauch um 10%
 SKILL_20170420_009200	* Erhöht die Reichweite von [Safety Zone] auf 15{nl}* Erhöht SP Verbrauch um 80%
 SKILL_20170420_009201	* Decreases damage taken when applied with a character's [Guardian Saint] um 5% pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009202	* [Heal] will not inflict damage nor react to enemies{nl}* Erhöht SP Verbrauch um 10%
@@ -9272,7 +9272,7 @@ SKILL_20170420_009271	 [Palm Strike] no longer knocks enemies down{nl}* Only app
 SKILL_20170420_009272	* [Hand Knife] no longer knocks enemies down{nl}* Only applies if attribute is set to ON{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009273	* Erhöht den Schaden von [Indulgentia] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009274	* Adds 1 target pro Fähigkeitslevel to the applied effects of [Discerning Evil]{nl}* Erhöht SP Verbrauch um 30%
-SKILL_20170420_009275	* Erhöht die Dauer von [Increase Magic Defense] by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20%
+SKILL_20170420_009275	* Erhöht die Dauer von [Increase Magic Verteidigung] by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 20%
 SKILL_20170420_009276	* Erhöht den Schaden von [Carnivory] um 0.5% pro Fähigkeitslevel
 SKILL_20170420_009277	* Erhöht die Dauer von [Chortasmata] by 1 second pro Fähigkeitslevel{nl}* Erhöht SP Verbrauch um 10%
 SKILL_20170420_009278	* Increases evasion of small-type monster transformed by [Shape Shifting] or [Transform] by 50 pro Fähigkeitslevel
@@ -9347,11 +9347,11 @@ SKILL_20170510_009346	Targets: #{CaptionRatio}#{nl}Physical defense max. decreas
 SKILL_20170510_009347	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Fires continuous shots with a pistol to damage multiple enemies ahead.
 SKILL_20170510_009348	Dauer: #{CaptionTime}# Sekunden{nl}Chance of doubling the duration: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Angriff on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillFactor}#%
 SKILL_20170510_009349	Summon the devil of card inserted in Grimore. The attack and defense of the summoned devil will be decided according to character's level, and increase 5% for each star on the corresponding card. Grimore can only equip Devil type monster cards.
-SKILL_20170510_009350	Summons a Devil-type boss monster{nl}Devil's Additional Angriff: #{CaptionRatio}#%{nl}Devil's Additional Defense: #{CaptionRatio}#%
+SKILL_20170510_009350	Summons a Devil-type boss monster{nl}Devil's Additional Angriff: #{CaptionRatio}#%{nl}Devil's Additional Verteidigung: #{CaptionRatio}#%
 SKILL_20170510_009351	Salamion Dauer: #{CaptionTime}# Sekunden{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Zusätzlicher Schaden: +#{CaptionRatio}#%{nl}Add. Salamion defense #{CaptionRatio}#%
 SKILL_20170510_009352	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Angriff enemies with a summoned devil based on the secondary card equipped in the Grimoire.
 SKILL_20170510_009353	Create a Shoggoth with stats based on the cards that are placed in the Necronomicon. The attack and defense of the Shoggoth is affected by your skill level. The Shoggoth's stats increase um 5% for each star on the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
-SKILL_20170510_009354	Shoggoth's Zusätzlicher Schaden: #{CaptionRatio}#%{nl}Shoggoth's Additional Defense: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s)
+SKILL_20170510_009354	Shoggoth's Zusätzlicher Schaden: #{CaptionRatio}#%{nl}Shoggoth's Additional Verteidigung: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s)
 SKILL_20170510_009355	Add. Corpse Tower attack #{CaptionRatio3}#%{nl}Corpse Tower #{CaptionRatio}# second duration{nl}No. of defenses: #{CaptionTime}#{nl}Consumes #{CaptionRatio2}# corpses
 SKILL_20170510_009356	Summons #{CaptionRatio}# Skeleton Soldiers{nl}Add. Skeleton Soldier attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5
 SKILL_20170510_009357	Summons #{CaptionRatio}# Skeleton Archers{nl}Add. Skeleton Archer attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5
@@ -9481,8 +9481,8 @@ SKILL_20170605_009480	Wedding Cake	웨딩 케잌
 SKILL_20170605_009481	For 60 minutes, 10% increase in EXP gains, plus movement speed +3 and HP +10	60분간 이동속도 +3, 체력 +10, 경험치 10% 증가합니다.				
 SKILL_20170605_009482	GM Attack 	GM 공격력				
 SKILL_20170605_009483	Physical and Magic Attack increased by +1	물리, 마법 공격력이 수치당 +1 증가합니다.				
-SKILL_20170605_009484	GM Defense 	GM 방어력				
-SKILL_20170605_009485	Defense increased by +1	방어력이 수치당 +1 증가합니다.				
+SKILL_20170605_009484	GM Verteidigung 	GM 방어력				
+SKILL_20170605_009485	Verteidigung increased by +1	방어력이 수치당 +1 증가합니다.				
 SKILL_20170605_009486	GM Max HP 	GM 최대HP				
 SKILL_20170605_009487	Max HP increased by +1	최대HP가 수치당 +1% 증가합니다.				
 SKILL_20170609_009488	Party Firecracker	파티 폭죽				
@@ -9513,9 +9513,9 @@ SKILL_20170726_009512	Property resistance / Property attack	속성 저항력 속
 SKILL_20170726_009513	Kite Moor Set	카이트 무어 세트				
 SKILL_20170726_009514	Shock Boom Effect	쇼크 봄 발생				
 SKILL_20170726_009515	Frienoet	프리에노 세트				
-SKILL_20170726_009516	Stack Defense Increase	스택형 방어력 증가				
+SKILL_20170726_009516	Stack Verteidigung Increase	스택형 방어력 증가				
 SKILL_20170726_009517	Pasiuteset	파시우테스 세트				
-SKILL_20170726_009518	Stack Defense Check	스택형 방어력 체크용도				
+SKILL_20170726_009518	Stack Verteidigung Check	스택형 방어력 체크용도				
 SKILL_20170726_009519	Pasiuteset Check	파시우테스 세트 체크				
 SKILL_20170726_009520	Stack Magic Attack Check	스택형 마공 체크 용도				
 SKILL_20170726_009521	Lynnki Sit Set Check	리느키 시트 세트 체크				
@@ -9583,14 +9583,14 @@ SKILL_20170912_009582	Links party members and shares buff effects. Can be cancel
 SKILL_20170912_009583	Shrink the size of monsters.	몬스터의 몸 크기를 작게 줄여버립니다.	SKILL_20150729_004933	Shrink the size of your target.	대상의 몸 크기를 작게 줄여버립니다.	
 SKILL_20170912_009584	Enlarges the size of monsters. Increases the target's maximum HP by 2 times and doubles loot dropped.	몬스터의 몸 크기를 크게 키워버립니다. 대상은 최대 체력이 2배가 되고 경험치, 드랍하는 아이템 개수가 2배로 적용됩니다.	SKILL_20170330_008377	Enlarges the size of your target. Increases the target's maximum HP by 2 times and doubles loot dropped.	대상의 몸 크기를 크게 키워버립니다. 대상은 최대 체력이 2배가 되고 경험치, 드랍하는 아이템 개수가 2배로 적용됩니다.	
 SKILL_20170912_009585	Temporarily enlarge you and your party member's offhand, increasing attack and defense if it is equipped with a shield or subweapon. Effects increase with the caster's INT and SPR.	자신과 파티원의 방패 및 보조무기를 든 손을 일시적으로 크게하여 공격력, 방어력을 상승시킵니다. 시전자의 지능과 정신에 따라 효과가 증가합니다.	SKILL_20161214_007216	Temporarily enlarge you and your party member's offhand, increasing attack and defense if it is equipped with a shield or dagger.	자신과 파티원의 방패 및 단검을 든 손을 일시적으로 크게하여 공격력, 방어력을 상승시킵니다. 시전자의 지능에 따라 효과가 증가합니다.	
-SKILL_20170912_009586	Shield, Physical Defense: +#{CaptionRatio}#{nl}Subweapon, Physical/Magic Attack: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds	방패, 물리 방어력 #{CaptionRatio}# 증가{nl}보조무기, 물리/마법 공격력 #{CaptionRatio2}# 증가{nl}지속시간 #{CaptionTime}#초	SKILL_20150717_004851	Shield, Physical/Magic Defense: +#{CaptionRatio}#{nl}Dagger, Physical/Magic Attack: +#{CaptionRatio2}#{nl}No other effect when equipping a secondary weapon{nl}Duration: #{CaptionTime}# seconds	방패, 물리/마법 방어력 #{CaptionRatio}# 증가{nl}단검, 물리/마법 공격력 #{CaptionRatio2}# 증가{nl}그 외 보조무기 착용 시 효과 없음{nl}지속시간 #{CaptionTime}#초	
+SKILL_20170912_009586	Shield, Physical Verteidigung: +#{CaptionRatio}#{nl}Subweapon, Physical/Magic Attack: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds	방패, 물리 방어력 #{CaptionRatio}# 증가{nl}보조무기, 물리/마법 공격력 #{CaptionRatio2}# 증가{nl}지속시간 #{CaptionTime}#초	SKILL_20150717_004851	Shield, Physical/Magic Verteidigung: +#{CaptionRatio}#{nl}Dagger, Physical/Magic Attack: +#{CaptionRatio2}#{nl}No other effect when equipping a secondary weapon{nl}Duration: #{CaptionTime}# seconds	방패, 물리/마법 방어력 #{CaptionRatio}# 증가{nl}단검, 물리/마법 공격력 #{CaptionRatio2}# 증가{nl}그 외 보조무기 착용 시 효과 없음{nl}지속시간 #{CaptionTime}#초	
 SKILL_20170912_009587	Summon the devil of card inserted in Grimore. The attack and defense of the summoned devil will be decided according to character's level, and increase 5% for each star on the corresponding card. Grimore can only equip Devil type monster cards.	그리모어에 삽입한 카드의 악마를 소환합니다. 스킬 레벨에 따라 소환된 악마의 공격력, 방어력이 증가합니다. 카드의 별 숫자만큼 소환된 악마의 공격력, 방어력이 5%씩 추가로 증가합니다. 그리모어에는 악마형 몬스터 카드만 장착할 수 있습니다.	SKILL_20170510_009349	Summon the devil of card inserted in Grimore. The attack and defense of the summoned devil will be decided according to character's level, and increase 5% for each star on the corresponding card. Grimore can only equip Devil type monster cards.	그리모어에 삽입한 카드의 악마를 소환합니다. 스킬 레벨에 따라 소환된 악마의 공격력, 방어력이 증가합니다. 카드의 별 숫자만큼 소횐된 악마의 공격력, 방어력이 5%씩 추가로 증가합니다. 그리모어에는 악마형 몬스터 카드만 장착할 수 있습니다.	
-SKILL_20170912_009588	Summons a Devil-type boss monster{nl}Devil's Additional Attack: #{CaptionRatio}#%{nl}Devil's Additional Defense: #{CaptionRatio}#%{nl}Duration 900 seconds	악마형 보스 소환{nl}악마 추가 공격력 #{CaptionRatio}#%{nl}악마 추가 방어력 #{CaptionRatio}#%{nl}지속시간 900초	SKILL_20170510_009350	Summons a Devil-type boss monster{nl}Devil's Additional Attack: #{CaptionRatio}#%{nl}Devil's Additional Defense: #{CaptionRatio}#%	악마형 보스 소환{nl}악마 추가 공격력 #{CaptionRatio}#%{nl}악마 추가 방어력 #{CaptionRatio}#%	
-SKILL_20170912_009589	Salamion's Level: #{CaptionRatio2}#{nl}Salamion's Additional Attack: #{CaptionRatio}#%{nl}Salamion's Additional Defense #{CaptionRatio}#%{nl}Duration: 300 seconds	살라미온 레벨 #{CaptionRatio2}#{nl}살라미온 추가 공격력 #{CaptionRatio}#%{nl}살라미온 추가 방어력 #{CaptionRatio}#%{nl}지속시간 300초	SKILL_20170510_009351	Salamion Duration: #{CaptionTime}# seconds{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Damage: +#{CaptionRatio}#%{nl}Add. Salamion defense #{CaptionRatio}#%	살라미온 #{CaptionTime}#초 지속{nl}살리미온 레벨 #{CaptionRatio2}#{nl}살라미온 추가 공격력 #{CaptionRatio}#%{nl}살라미온 추가 방어력 #{CaptionRatio}#%	
-SKILL_20170912_009590	Shoggoth's Additional Damage: #{CaptionRatio}#%{nl}Shoggoth's Additional Defense: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s){nl}Duration 900 seconds	쇼고스 추가 공격력 #{CaptionRatio}#%{nl}쇼고스 추가 방어력 #{CaptionRatio}#%{nl}사체 #{CaptionTime}#개 소비{nl}지속시간 900초	SKILL_20170510_009354	Shoggoth's Additional Damage: #{CaptionRatio}#%{nl}Shoggoth's Additional Defense: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s)	쇼고스 추가 공격력 #{CaptionRatio}#%{nl}쇼고스 추가 방어력 #{CaptionRatio}#%{nl}사체 #{CaptionTime}#개 소비	
+SKILL_20170912_009588	Summons a Devil-type boss monster{nl}Devil's Additional Attack: #{CaptionRatio}#%{nl}Devil's Additional Verteidigung: #{CaptionRatio}#%{nl}Duration 900 seconds	악마형 보스 소환{nl}악마 추가 공격력 #{CaptionRatio}#%{nl}악마 추가 방어력 #{CaptionRatio}#%{nl}지속시간 900초	SKILL_20170510_009350	Summons a Devil-type boss monster{nl}Devil's Additional Attack: #{CaptionRatio}#%{nl}Devil's Additional Verteidigung: #{CaptionRatio}#%	악마형 보스 소환{nl}악마 추가 공격력 #{CaptionRatio}#%{nl}악마 추가 방어력 #{CaptionRatio}#%	
+SKILL_20170912_009589	Salamion's Level: #{CaptionRatio2}#{nl}Salamion's Additional Attack: #{CaptionRatio}#%{nl}Salamion's Additional Verteidigung #{CaptionRatio}#%{nl}Duration: 300 seconds	살라미온 레벨 #{CaptionRatio2}#{nl}살라미온 추가 공격력 #{CaptionRatio}#%{nl}살라미온 추가 방어력 #{CaptionRatio}#%{nl}지속시간 300초	SKILL_20170510_009351	Salamion Duration: #{CaptionTime}# seconds{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Damage: +#{CaptionRatio}#%{nl}Add. Salamion defense #{CaptionRatio}#%	살라미온 #{CaptionTime}#초 지속{nl}살리미온 레벨 #{CaptionRatio2}#{nl}살라미온 추가 공격력 #{CaptionRatio}#%{nl}살라미온 추가 방어력 #{CaptionRatio}#%	
+SKILL_20170912_009590	Shoggoth's Additional Damage: #{CaptionRatio}#%{nl}Shoggoth's Additional Verteidigung: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s){nl}Duration 900 seconds	쇼고스 추가 공격력 #{CaptionRatio}#%{nl}쇼고스 추가 방어력 #{CaptionRatio}#%{nl}사체 #{CaptionTime}#개 소비{nl}지속시간 900초	SKILL_20170510_009354	Shoggoth's Additional Damage: #{CaptionRatio}#%{nl}Shoggoth's Additional Verteidigung: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s)	쇼고스 추가 공격력 #{CaptionRatio}#%{nl}쇼고스 추가 방어력 #{CaptionRatio}#%{nl}사체 #{CaptionTime}#개 소비	
 SKILL_20170912_009591	Summons #{CaptionRatio}# Skeleton Soldiers{nl}Add. Skeleton Soldier attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Duration 300 seconds{nl}Maximum Level: 5	해골 병사 #{CaptionRatio}#마리 소환{nl}해골 병사 추가 공격력 #{CaptionRatio3}#%{nl}사체 #{CaptionRatio2}#개 소비{nl}지속시간 300초{nl}5레벨 마스터	SKILL_20170510_009356	Summons #{CaptionRatio}# Skeleton Soldiers{nl}Add. Skeleton Soldier attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5	해골 병사 #{CaptionRatio}#마리 소환{nl}해골 병사 추가 공격력 #{CaptionRatio3}#%{nl}사체 #{CaptionRatio2}#개 소비{nl}5레벨 마스터	
 SKILL_20170912_009592	Summons #{CaptionRatio}# Skeleton Archers{nl}Add. Skeleton Archer attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Duration 300 seconds{nl}Maximum Level: 5	해골 궁수 #{CaptionRatio}#마리 소환{nl}해골 궁수 추가 공격력 #{CaptionRatio3}#%{nl}사체 #{CaptionRatio2}#개 소비{nl}지속시간 300초{nl}5레벨 마스터	SKILL_20170510_009357	Summons #{CaptionRatio}# Skeleton Archers{nl}Add. Skeleton Archer attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5	해골 궁수 #{CaptionRatio}#마리 소환{nl}해골 궁수 추가 공격력 #{CaptionRatio3}#%{nl}사체 #{CaptionRatio2}#개 소비{nl}5레벨 마스터	
-SKILL_20170912_009593	Moving Shot Movement Speed: +#{CaptionRatio3}#%{nl}Evasion: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds	무빙샷 이동속도 #{CaptionRatio3}#% 증가{nl}회피 #{CaptionRatio2}# 증가{nl}#{CaptionTime}#초 지속	SKILL_20170420_008542	Moving Shot Movement Speed: +#{CaptionRatio3}#%{nl}Physical Defense: -#{CaptionRatio}#{nl}Evasion: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds	무빙샷 이동속도 #{CaptionRatio3}#% 증가{nl}물리 방어력 #{CaptionRatio}# 감소{nl}회피 #{CaptionRatio2}# 증가{nl}#{CaptionTime}#초 지속	
+SKILL_20170912_009593	Moving Shot Movement Speed: +#{CaptionRatio3}#%{nl}Evasion: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds	무빙샷 이동속도 #{CaptionRatio3}#% 증가{nl}회피 #{CaptionRatio2}# 증가{nl}#{CaptionTime}#초 지속	SKILL_20170420_008542	Moving Shot Movement Speed: +#{CaptionRatio3}#%{nl}Physical Verteidigung: -#{CaptionRatio}#{nl}Evasion: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds	무빙샷 이동속도 #{CaptionRatio3}#% 증가{nl}물리 방어력 #{CaptionRatio}# 감소{nl}회피 #{CaptionRatio2}# 증가{nl}#{CaptionTime}#초 지속	
 SKILL_20170912_009594	Temporarily increases evasion when riding a Companion.	컴패니언 탑승시 일정 시간 동안 회피율이 증가합니다.	SKILL_20161005_006649	While riding your companion, the skill increases evasion rate and decreases movement speed for a period of time.	컴패니언 탑승시 일정 시간 동안 회피율이 증가하고, 이동속도가 감소합니다.	
 SKILL_20170912_009595	Evasion: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds	회피율 증가 #{CaptionRatio}#%{nl}지속시간 #{CaptionTime}#초	SKILL_20161005_006650	Evasion Rate: +#{CaptionRatio}#%{nl}Movement Speed: -#{CaptionRatio2}#	회피율 증가 #{CaptionRatio}#%{nl}이동속도 감소 #{CaptionRatio2}#	
 SKILL_20170912_009596	Set up a roost where the hawk can sit. The hawk will wait for the owner's order on the roost. The roost disappears when you move away from it.	매가 대기할 수 있는 횃대를 설치합니다. 횃대에 앉은 매는 주인의 지령을 상시 대기합니다. 횃대에서 멀어지면 횃대는 사라집니다.	SKILL_20150414_003815	Set up a roost where the hawk can sit. The hawk will wait for the owner's order on the roost. The roost disappears when you move away from it.	매가 대기할 수 있는 횃대를 설치합니다. 횃대에 앉은 매는 매는 주인의 지령을 상시 대기합니다. 횃대에서 멀어지면 횃대는 사라집니다.	
@@ -9603,12 +9603,12 @@ SKILL_20170912_009602	Explosion Attack: #{SkillFactor}#%{nl}Charm Duration: #{Ca
 SKILL_20170912_009603	{#993399}{ol}[Magic]{/}{/}{nl}Install Creeping Death charm that moves slowly forward. Creeping Death deals continuous damage to the targets coming in contact with it while moving. Deals additional damage when exploding via Begone Demon.	{#993399}{ol}[마법]{/}{/}{nl}앞으로 천천히 이동하는 파사부를 설치합니다. 파사부는 움직이는 동안 부딪치는 적에게 연속적인 피해를 주며, 급급여율령으로 터질때는 추가대미지를 줍니다.	SKILL_20170420_008680	{#993399}{ol}[Magic]{/}{/}{nl}Install Creeping Death charm that moves slowly foward. Creeping Death deals continuous damage to the targets coming in contact with it while moving. Deals additional damage when exploding via Begone Demon.	{#993399}{ol}[마법]{/}{/}{nl}앞으로 천천히 이동하는 파사부를 설치합니다. 파사부는 움직이는 동안 부딪치는 적에게 연속적인 피해를 주며, 급급여율령으로 터질떄는 추가대미지를 줍니다.	
 SKILL_20170912_009604	Decreases damage received from Slash, Pierce, Bow, Gun and Magic attacks.	베기, 찌르기, 활, 총, 마법 공격에 대한 피해가 감소	SKILL_20170525_009463	Decreases damage received from Slash, Pierce, Bow and Gun attacks	베기, 찌르기, 활, 총 공격에 대한 피해가 감소	
 SKILL_20170912_009605	 has been converted.	개종되었습니다.				
-SKILL_20170912_009606	Cavalry Charge: Defense	카발리 챠지: 방어				
+SKILL_20170912_009606	Cavalry Charge: Verteidigung	카발리 챠지: 방어				
 SKILL_20170912_009607	Shield Charger Activated	실드 차져 가동중				
 SKILL_20170912_009608	Shield Charger buff cannot be received while this effect is active.	해당 효과가 유지되는 동안 실드 차져 버프를 받을 수 없습니다.				
 SKILL_20170912_009609	Decreases the shield gauge instead of HP when receiving damage.{nl}The shield gauge is equivalent to your max. HP.{nl}Shield amounts exceeding your max. HP are displayed as x2, x3, and so on in the shield gauge.	피해를 입으면 HP 대신 실드 게이지의 실드가 감소합니다.{nl}실드 게이지는 자신의 최대 HP량 만큼 나타내며,{nl}최대 HP보다 높은 실드량은 실드 게이지에 x2, x3....로 표시됩니다	SKILL_20161005_006837	When receiving damage, it decreases shield gauge instead of HP.{nl}The shield gauge is displayed in terms of one's own max. HP and{nl}shield gauges exceeding max. HP will be displayed with an indicators like x2, x3 etc.{nl}Furthermore, the max. shield gauge obtainable per rank is fixed.	피해를 입으면 HP 대신 실드 게이지의 실드가 감소합니다.{nl}실드 게이지는 자신의 최대 HP량 만큼 나타내며,{nl}최대 HP보다 높은 실드량은 실드 게이지에 x2, x3....로 표시됩니다.{nl}또한 랭크별로 얻을 수 있는 최대 실드량이 한정되어 있습니다.	
 SKILL_20170912_009610	Attack +100, attack speed +80, movement speed +3	공격력 +100, 공격 속도 +80, 이동속도 +3				
-SKILL_20170912_009611	Decreased Physical/Magical Defense	물리/마법 방어력 감소				
+SKILL_20170912_009611	Decreased Physical/Magical Verteidigung	물리/마법 방어력 감소				
 SKILL_20170912_009612	Max. HP increases.	최대HP가 증가합니다.	SKILL_20170605_009487	Max HP increased by +1	최대HP가 수치당 +1% 증가합니다.	
 SKILL_20170912_009613	Stamina +20, movement speed +3, and 300 HP/100 SP recovered every 10 seconds for 60 minutes.	60분 동안 획득 스테미나 +20, 이동속도 +3, 10초마다 HP 300 /SP 100 회복 버프	SKILL_20170709_009492	EXP gains +100%, Stamina +20, Movement Speed +3 for 1 hour	60분 동안 획득 경험치 +100%, 스테미나 +20, 이동속도 +3	
 SKILL_20170912_009614	Kupole's Prayer	큐폴의 기도				
@@ -9813,14 +9813,14 @@ SKILL_20171128_009812	Place a glyph on the ground symbolizing Ogoun Feray, the l
 SKILL_20171128_009813	Zombie Damage: +#{CaptionRatio3}#%{nl}STR: +#{CaptionRatio}#{nl}AoE Attack Ratio: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Glyph Duration: 15 seconds	좀비 대미지 #{CaptionRatio3}#% 증가{nl}힘 #{CaptionRatio}# 증가{nl}광역 공격 비율 #{CaptionRatio2}# 증가{nl}지속시간 #{CaptionTime}#초{nl}문양 지속시간 15초	SKILL_20160224_006236	STR: +#{CaptionRatio}#{nl}AoE Attack Ratio: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Glyph Duration: 15 seconds	힘 #{CaptionRatio}# 증가{nl}광역 공격 비율 #{CaptionRatio2}# 증가{nl}지속시간 #{CaptionTime}#초{nl}문양 지속시간 15초	
 SKILL_20171128_009814	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl} Deals magical damage to enemies in front of you. Has a chance of instantly defeating Mutant and Devil-type enemies.	{#993399}{ol}[마법] - [신성]{/}{/}{nl}전방의 적에게 성속성 마법 대미지를 주며 확률적으로 변이형 또는 악마형 적을 한 번에 처치합니다.	SKILL_20150414_003874	Has a chance of instantly defeating Mutant or Devil-type enemies.	확률적으로 변이형 또는 악마형 적을 한 번에 처치합니다.	
 SKILL_20171128_009815	Sanctuary	생츄어리				
-SKILL_20171128_009816	Increase ally Physical Defense and Magic Defense within range. Allies also deal additional Holy property damage while their defense is increased.	범위 안의 아군의 물리 방어력과 마법 방어력을 증가 시켜줍니다. 또한 증가한 방어력만큼 성속성 추가 대미지를 줍니다.				
-SKILL_20171128_009817	Physical Defense: +#{CaptionRatio}#{nl}Magic Defense: +#{CaptionRatio2}#{nl}Duration: 10 seconds {nl}Consumes #{SpendItemCount}# Holy Water{nl}Consumes #{CaptionRatio3}# SP per second	물리 방어력 #{CaptionRatio}# 증가{nl}마법 방어력 #{CaptionRatio2}# 증가{nl}지속시간 10초{nl}성수 #{SpendItemCount}#개 소비{nl}1초당 SP #{CaptionRatio3}#소비				
+SKILL_20171128_009816	Increase ally Physical Verteidigung and Magic Verteidigung within range. Allies also deal additional Holy property damage while their defense is increased.	범위 안의 아군의 물리 방어력과 마법 방어력을 증가 시켜줍니다. 또한 증가한 방어력만큼 성속성 추가 대미지를 줍니다.				
+SKILL_20171128_009817	Physical Verteidigung: +#{CaptionRatio}#{nl}Magic Verteidigung: +#{CaptionRatio2}#{nl}Duration: 10 seconds {nl}Consumes #{SpendItemCount}# Holy Water{nl}Consumes #{CaptionRatio3}# SP per second	물리 방어력 #{CaptionRatio}# 증가{nl}마법 방어력 #{CaptionRatio2}# 증가{nl}지속시간 10초{nl}성수 #{SpendItemCount}#개 소비{nl}1초당 SP #{CaptionRatio3}#소비				
 SKILL_20171128_009818	Demolition	데몰리션				
 SKILL_20171128_009819	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Attack Speed]{/}{/}{nl}Strike the enemy hard with a two-handed blunt weapon.  	{#DD5500}{ol}[물리] - [때리기]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}양손 둔기로 적을 강하게 내려칩니다. 				
 SKILL_20171128_009820	Attack: #{SkillFactor}#% x 7{nl}AoE Attack Ratio: #{SkillSR}#	공격력 #{SkillFactor}#% x 7회{nl}광역 공격 비율 #{SkillSR}#				
 SKILL_20171128_009821	Extend the duration of harmful effects applied to the enemy forcibly. Once the duration has been increased, the debuff doesn't increase again.	적에게 적용된 해로운 효과의 지속시간을 강제로 연장시킵니다. 한번 지속시간이 증가한 디버프는 다시 증가하지 않습니다.	SKILL_20150414_003891	Extend the duration of harmful effects applied to an enemy.	적에게 적용된 해로운 효과의 지속시간을 강제로 연장시킵니다.	
 SKILL_20171128_009822	Able to sell skills that consume items{nl}Additional Duration: +#{CaptionRatio}#%	아이템 소비하는 스킬 등록 가능{nl}추가 지속시간 #{CaptionRatio}#%	SKILL_20151224_005892	Able to register skills that consume items{nl}Additional Duration: #{CaptionRatio}# minutes	아이템 소비하는 스킬 등록 가능{nl}추가 지속시간 #{CaptionRatio}#분	
-SKILL_20171128_009823	Magic Defense: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Holy Water	마법 방어력 #{CaptionRatio}# 증가{nl}지속시간 #{CaptionTime}#초{nl}성수 #{SpendItemCount}#개 소비	SKILL_20150918_005143	Magic Defense: +#{CaptionRatio}#{nl}Duration: 45 seconds	마법 방어력 #{CaptionRatio}# 증가{nl}지속시간 45초	
+SKILL_20171128_009823	Magic Verteidigung: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Holy Water	마법 방어력 #{CaptionRatio}# 증가{nl}지속시간 #{CaptionTime}#초{nl}성수 #{SpendItemCount}#개 소비	SKILL_20150918_005143	Magic Verteidigung: +#{CaptionRatio}#{nl}Duration: 45 seconds	마법 방어력 #{CaptionRatio}# 증가{nl}지속시간 45초	
 SKILL_20171128_009824	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by collecting money to offer to the gods. Enemies, with the exception of boss monsters, can be instantly killed at a 10% chance. The chance of immediate death increases by up to 2 times, depending on the SPR.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}신에게 바치기 위해 모은 금전으로 적을 공격합니다. 보스를 제외한 적은 1/10 확률로 즉시 사망할 수 있습니다. 즉시 사망할 확률은 자신의 정신에 따라 최대 2배까지 증가합니다.	SKILL_20151224_005894	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by collecting money to offer to the gods. Enemies, with the exception of boss monsters, can be instantly killed at a 10% chance and the offered money can be picked back up again.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}신에게 바치기 위해 모은 금전으로 적을 공격합니다. 보스를 제외한 적은 1/10 확률로 즉시 사망할 수 있고, 1/10 확률로 바쳐진 돈은 다시 땅에 떨어져 재 습득할 수 있습니다.	
 SKILL_20171128_009825	When casting, removes the magic circle around and summons the magic circle for blocking the magic attack. Cooldown reduces with skill level.	시전 시 자신 주변의 마법진을 제거하고 마법 공격을 막아주는 마법진을 소환합니다. 스킬 레벨이 증가할수록 재사용 대기시간이 감소합니다.	SKILL_20151016_005307	Nullifies all magic near you.	자신 주변의 모든 마법을 무효화 시킵니다.	
 SKILL_20171128_009826	Removes nearby magic circles{nl}Maximum Duration: #{CaptionTime}# {nl}Cooldown -#{CaptionRatio}# second(s)	주변 마법진 제거{nl}최대 #{CaptionTime}#초 지속{nl}재사용 대기시간 #{CaptionRatio}#초 감소	SKILL_20170726_009509	Removes nearby Magic Circles {nl}Maximum Duration: #{CaptionTime}# seconds{nl}Targets: #{CaptionRatio}#	주변 마법진 제거{nl}최대 #{CaptionTime}#초 지속{nl}적용 대상 #{CaptionRatio}#	
@@ -10108,7 +10108,7 @@ SKILL_20171128_010107	Tase: Extra Magazine	테이즈: 추가 탄창
 SKILL_20171128_010108	* Increases continuous count of [Tase] by 1 per attribute level{nl} Increases SP consumption by 20% 	* 스킬 [테이즈]의 지속 횟수가 특성 레벨당 1 증가{nl}* SP 소모 20%증가				
 SKILL_20171128_010109	Bloody Overdrive: Ricochet	블러디 오버드라이브: 도탄				
 SKILL_20171128_010110	* Enemies hit by [Bloody Overdrive] have a 5% chance per attribute level of being affected by ricochet{nl}* Increases SP consumption by 50%	* 스킬 [블러디 오버드라이브]에 피격된 적이 특성 레벨당 5%{nl}    확률로 도탄 발생{nl}* SP 소모 50%증가				
-SKILL_20171128_010111	Mozambique Drill: Ignore Defense	모잠비크 드릴: 방어 무시				
+SKILL_20171128_010111	Mozambique Drill: Ignore Verteidigung	모잠비크 드릴: 방어 무시				
 SKILL_20171128_010112	* Ignores enemy defense by 10% per attribute level when using [Mozambique Drill]{nl}* Increases SP consumption by 30%	* 스킬 [모잠비크 드릴]이 적의 방어력을 특성 레벨당 10% 무시{nl}* SP 소모 30%증가				
 SKILL_20171128_010113	Mozambique Drill: Ricochet	모잠비크 드릴: 도탄				
 SKILL_20171128_010114	* Creates a ricochet effect on enemies attacked with [Mozambique Drill]{nl}* Increases SP consumption by 50%	* 스킬 [모잠비크 드릴]에 피격된 적으로부터 도탄 발생{nl}* SP 소모 50%증가				
@@ -10130,7 +10130,7 @@ SKILL_20171128_010129	* Enemies hit by [Demolition] have a 1% chance per attribu
 SKILL_20171128_010130	Golden Bell Shield: Pain Barrier	금종조: 페인 배리어	SKILL_20150714_004686	Golden Bell Shield: Safety Zone	금종조: 세이프티 존	
 SKILL_20171128_010131	* Receive a Pain Barrier effect for 5 seconds when [Golden Bell Shield] effect ends{nl}* Increases cooldown by 10 seconds	* [금종조]의 효과가 끝난 뒤 5초간 페인 배리어 효과를 받음{nl}* 재사용 대기시간 10초 증가	SKILL_20170420_009270	* Applies Golden Bell Shield buff to characters nearby when using [Golden Bell Shield]{nl}* Increases SP consumption by 10%	* [금종조]를 사용 중일 때 시전자를 중심으로{nl}    일정 범위에 있는 캐릭터는 금종조 버프를 받게됨{nl}* SP 소모 30%증가	
 SKILL_20171128_010132	* Increases duration of buffs applied to allies from [Spell Shop] by 40% per attribute level	* [주문 판매상점 개설]에 등록된 효과를 동료에게 부여할 때{nl}    효과의 지속시간이 특성 레벨당 40%씩 추가	SKILL_20170313_008274	* Increases duration of [Spell Shop] by 5 minutes per attribute level when you endow a registered effect to an ally	* [주문 판매상점 개설]에 등록된 효과를 동료에게 부여할 때{nl}    효과의 지속시간이 특성 레벨당 5분씩 증가	
-SKILL_20171128_010133	* Increases duration of [Increase Magic Defense] by 20 seconds per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [마법방어력 증가]의 지속시간이 특성 레벨당 20초씩 증가{nl}* SP 소모 20%증가	SKILL_20170420_009275	* Increases duration of [Increase Magic Defense] by 1 second per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [마법방어력 증가]의 지속시간이 특성 레벨당 1초씩 증가{nl}* SP 소모 20%증가	
+SKILL_20171128_010133	* Increases duration of [Increase Magic Verteidigung] by 20 seconds per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [마법방어력 증가]의 지속시간이 특성 레벨당 20초씩 증가{nl}* SP 소모 20%증가	SKILL_20170420_009275	* Increases duration of [Increase Magic Verteidigung] by 1 second per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [마법방어력 증가]의 지속시간이 특성 레벨당 1초씩 증가{nl}* SP 소모 20%증가	
 SKILL_20171128_010134	Decatose: Enhance	데카토스: 강화				
 SKILL_20171128_010135	* Increases damage dealt with [Decatose] by 0.5% per attribute level	* 적에게 입히는 [데카토스]의 대미지가 특성 레벨당 0.5% 증가				
 SKILL_20171128_010136	* Increases duration of [Forecast] by 1 minute per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [포어캐스트]의 지속시간이 특성 레벨당 1분씩 증가{nl}* SP 소모 20%증가	SKILL_20170420_009285	* Increases duration of [Forecast] by 2 seconds per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [포어캐스트]의 지속시간이 특성 레벨당 2초씩 증가{nl}* SP 소모 20%증가	
@@ -10278,7 +10278,7 @@ SKILL_20180208_010277	When mounted, boosts you mobility to shoot the enemies rap
 SKILL_20180208_010278	Set up a roost where the hawk can sit. The hawk will wait for the owner's order on the roost. The damage of Falconer skills is increased around the roost. The roost disappears when you move away from it.	매가 대기할 수 있는 횃대를 설치합니다. 횃대에 앉은 매는 주인의 지령을 상시 대기합니다. 횃대 주변에 있으면 응사 스킬의 대미지가 증가합니다. 횃대에서 멀어지면 횃대는 사라집니다.	SKILL_20170912_009596	Set up a roost where the hawk can sit. The hawk will wait for the owner's order on the roost. The roost disappears when you move away from it.	매가 대기할 수 있는 횃대를 설치합니다. 횃대에 앉은 매는 주인의 지령을 상시 대기합니다. 횃대에서 멀어지면 횃대는 사라집니다.	
 SKILL_20180208_010279	Range: #{CaptionRatio}#{nl}Roost Duration: #{CaptionRatio2}# sec{nl}Falconer skill damage +50%	제한 범위 #{CaptionRatio}#{nl}횃대 지속시간 #{CaptionRatio2}#초{nl}응사 스킬 대미지 50% 증가	SKILL_20150414_003816	Range: #{CaptionRatio}#{nl}Roost Duration: #{CaptionRatio2}# seconds	제한 범위 #{CaptionRatio}#{nl}횃대 지속시간 #{CaptionRatio2}#초	
 SKILL_20180208_010280	The Hawk flies, following you. AoE defense ratio of the target is fixed to 1.	자신을 따라오며 비행합니다. 범위의 대상은 광역 방어 비율이 1로 고정됩니다.	SKILL_20150714_004207	The hawk will encircle the targeted area. Reduces the AoE defense ratio of enemies within the{nl}radius.	지정한 위치를 중심으로 큰 원을 그리며 비행합니다. 범위의 대상은 광역 방어 비율이 줄어듭니다.	
-SKILL_20180208_010281	AoE defense ratio is fixed to 1{nl}Duration: #{CaptionRatio}# sec	광역 방어 비율 1로 고정{nl}지속시간 #{CaptionRatio}#초	SKILL_20150714_004208	AoE Defense Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds	광역 방어 비율 #{CaptionRatio}# 감소{nl}지속시간 10초	
+SKILL_20180208_010281	AoE defense ratio is fixed to 1{nl}Duration: #{CaptionRatio}# sec	광역 방어 비율 1로 고정{nl}지속시간 #{CaptionRatio}#초	SKILL_20150714_004208	AoE Verteidigung Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds	광역 방어 비율 #{CaptionRatio}# 감소{nl}지속시간 10초	
 SKILL_20180208_010282	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Your hawk circles above a targeted area and attacks enemies passing below. Deals additional damage to Beast type enemies.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}지정한 위치에 떠 있다가 그 아래를 지나는 적을 향해 활강하여 공격합니다. 야수형 적에게 주는 대미지가 증가합니다.	SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Your hawk circles above a targeted area and attacks enemies passing below.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}지정한 위치에 떠 있다가 그 아래를 지나는 적을 향해 활강하여 공격합니다.	
 SKILL_20180208_010283	Attack: #{SkillFactor}#%{nl}Duration: #{CaptionRatio}# sec{nl}+50% damage to Beast type enemies	공격력 #{SkillFactor}#%{nl}지속시간 #{CaptionRatio}#초{nl}야수형 적에게 주는 대미지 50% 증가	SKILL_20170420_008603	Attack: #{SkillFactor}#%{nl}Duration: #{CaptionRatio}# seconds	공격력 #{SkillFactor}#%{nl}지속시간 #{CaptionRatio}#초	
 SKILL_20180208_010284	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a training doll and have your hawk attack the targeted area. Deals additional damage to Beast type enemies.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}훈련시 사용하던 매 인형을 던져 그 곳을 공격하게 합니다. 야수형 적에게 주는 대미지가 증가합니다.	SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a training doll and have your hawk attack the targeted area.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}훈련시 사용하던 매 인형을 던져 그 곳을 공격하게 합니다.	
@@ -10298,10 +10298,10 @@ SKILL_20180208_010297	Enhances the Musket's steel wire to increase accuracy and 
 SKILL_20180208_010298	Accuracy +100{nl}Ignores 15% of enemy defense{nl}30% chance of 3 consecutive hits{nl}100% chance of critical attack of 3 consecutive hits{nl}Duration: #{CaptionTime}# sec	명중 100 증가{nl}적의 방어 15% 무시{nl}기본 공격 3연타 발동 확률 30%{nl}기본 공격 3연타 발동 시 치명타 확률 100%{nl}지속시간 #{CaptionTime}#초				
 SKILL_20180208_010299	Set up a shop to identify unidentified items. The chances of obtaining more sockets, higher potential and the number of item options increase with the skill level.	미감정 아이템을 감정할 수 있는 상점을 개설합니다. 스킬 레벨이 높을수록 소켓과 포텐셜, 아이템 옵션의 옵션 수가 추가될 확률이 증가합니다.	SKILL_20170313_007359	Set up a shop to identify unidentified items. The chances of obtaining more sockets and higher potential increase with the skill level.	미감정 아이템을 감정할 수 있는 상점을 개설합니다. 스킬 레벨이 높을수록 소켓과 포텐셜이 추가될 확률이 증가합니다.	
 SKILL_20180208_010300	Increased chance of additional sockets{nl}Increased chance of additional potential{nl}Increased chance of additional item stats	추가 소켓 확률 증가{nl}추가 포텐셜 확률 증가{nl}아이템 옵션의 옵션 수 추가 확률 증가	SKILL_20170313_007360	Increased chance of additional sockets{nl}Increased chance of additional potential	추가 소켓 확률 증가{nl}추가 포텐셜 확률 증가	
-SKILL_20180208_010301	Chace of Devaluation: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Monster physical and magic attack decreased #{CaptionRatio2}#%{nl}Monster physical and magic defense reduced#{CaptionRatio3}#%{nl}Monster duration: 120 sec{nl}Character duration: 20 sec	평가절하 확률 #{CaptionTime}#%{nl}적용 대상 #{CaptionRatio}#{nl}몬스터 물리, 마법 공격력 #{CaptionRatio2}#% 감소{nl}몬스터 물리, 마법 방어력 #{CaptionRatio3}#% 감소{nl}몬스터 대상 지속시간 120초{nl}캐릭터 대상 지속시간 20초	SKILL_20170313_007369	Devaluation Chance: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Monster Physical/Magical Attack: -#{CaptionRatio2}#%{nl}Physical/Magical Defense: -#{CaptionRatio3}#%{nl}Duration: 120 seconds	평가절하 확률 #{CaptionTime}#%{nl}적용 대상 #{CaptionRatio}#{nl}몬스터 물리, 마법 공격력 #{CaptionRatio2}#% 감소{nl}몬스터 물리, 마법 방어력 #{CaptionRatio3}#% 감소{nl}지속시간 120초	
-SKILL_20180208_010302	Increases allies' physical defense and magic defense within the range. Also deals additional Holy property damage equivalent to the increased defense value.	범위 안의 아군의 물리 방어력과 마법 방어력을 증가 시켜줍니다. 또한 증가한 방어력만큼 신성속성 추가 대미지를 줍니다.	SKILL_20171128_009816	Increase ally Physical Defense and Magic Defense within range. Allies also deal additional Holy property damage while their defense is increased.	범위 안의 아군의 물리 방어력과 마법 방어력을 증가 시켜줍니다. 또한 증가한 방어력만큼 성속성 추가 대미지를 줍니다.	
+SKILL_20180208_010301	Chace of Devaluation: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Monster physical and magic attack decreased #{CaptionRatio2}#%{nl}Monster physical and magic defense reduced#{CaptionRatio3}#%{nl}Monster duration: 120 sec{nl}Character duration: 20 sec	평가절하 확률 #{CaptionTime}#%{nl}적용 대상 #{CaptionRatio}#{nl}몬스터 물리, 마법 공격력 #{CaptionRatio2}#% 감소{nl}몬스터 물리, 마법 방어력 #{CaptionRatio3}#% 감소{nl}몬스터 대상 지속시간 120초{nl}캐릭터 대상 지속시간 20초	SKILL_20170313_007369	Devaluation Chance: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Monster Physical/Magical Attack: -#{CaptionRatio2}#%{nl}Physical/Magical Verteidigung: -#{CaptionRatio3}#%{nl}Duration: 120 seconds	평가절하 확률 #{CaptionTime}#%{nl}적용 대상 #{CaptionRatio}#{nl}몬스터 물리, 마법 공격력 #{CaptionRatio2}#% 감소{nl}몬스터 물리, 마법 방어력 #{CaptionRatio3}#% 감소{nl}지속시간 120초	
+SKILL_20180208_010302	Increases allies' physical defense and magic defense within the range. Also deals additional Holy property damage equivalent to the increased defense value.	범위 안의 아군의 물리 방어력과 마법 방어력을 증가 시켜줍니다. 또한 증가한 방어력만큼 신성속성 추가 대미지를 줍니다.	SKILL_20171128_009816	Increase ally Physical Verteidigung and Magic Verteidigung within range. Allies also deal additional Holy property damage while their defense is increased.	범위 안의 아군의 물리 방어력과 마법 방어력을 증가 시켜줍니다. 또한 증가한 방어력만큼 성속성 추가 대미지를 줍니다.	
 SKILL_20180208_010303	Hangman's Knot: Focused Attack	행맨스 낫 : 공격집중	SKILL_20151224_005934	Hangman's Knot: Splash	행맨스 낫 : 스플래쉬	
-SKILL_20180208_010304	AoE defense rate is fixed to 1, and damage received increased	광역 방어 비율이 1로 고정되고, 받는 피해가 증가함	SKILL_20151224_005935	Decreased AoE Defense Ratio	광역 방어 비율 감소	
+SKILL_20180208_010304	AoE defense rate is fixed to 1, and damage received increased	광역 방어 비율이 1로 고정되고, 받는 피해가 증가함	SKILL_20151224_005935	Decreased AoE Verteidigung Ratio	광역 방어 비율 감소	
 SKILL_20180208_010305	AoE defense rate fixed to 1	광역 방어 비율이 1로 고정된 상태	SKILL_20150414_003817	Circling	서클링	
 SKILL_20180208_010306	Stiff Legs	다리 경직				
 SKILL_20180208_010307	Movement speed -50%{nl}Reduced debuff duration for boss monster	이동 속도 50%감소{nl}보스 몬스터에게는 디버프 지속시간이 감소됩니다.				
@@ -10350,7 +10350,7 @@ SKILL_20180208_010349	Te Trong: Enhance	때트롱: 강화
 SKILL_20180208_010350	* Increases damage dealt with [Te Trong] by 0.5% per attribute level	* 적에게 입히는 [때트롱]의 대미지가 특성 레벨당 0.5% 증가				
 SKILL_20180208_010351	Khao Loi: Enhance	카오로이: 강화				
 SKILL_20180208_010352	* Increases damage dealt with [Khao Loi] by 0.5% per attribute level	* 적에게 입히는 [카오로이]의 대미지가 특성 레벨당 0.5% 증가				
-SKILL_20180208_010353	Hangman's Knot: Focused Attack	행맨스 낫: 공격집중	SKILL_20150717_004775	Hangman's Knot: Splash Defense	행맨스 낫: 스플래시방어	
+SKILL_20180208_010353	Hangman's Knot: Focused Attack	행맨스 낫: 공격집중	SKILL_20150717_004775	Hangman's Knot: Splash Verteidigung	행맨스 낫: 스플래시방어	
 SKILL_20180208_010354	* AoE defense ratio of enemies gathered by [Hangman's Knot] is fixed to 1{nl}* Enemies gathered by [Hangman's Knot] takes additional 5% damage per attribute level{nl}* Increases SP consumption by 10%	* 스킬 [행맨스 낫]으로 모아진 적들의 광역 방어 비율이{nl}    1로 고정됨{nl}* 스킬 [행맨스 낫]으로 모아진 적들이 받는 피해가{nl}    특성 레벨당 5% 증가{nl}* SP 소모 10%증가	SKILL_20170420_008924	* Decreases AoE defense ratio of enemies gathered through [Hangman's Knot] by 1 per attribute level{nl}* Increases SP consumption by 10%	* 스킬 [행맨스낫]으로 모아진 적들의 광역 방어 비율이{nl}    특성 레벨당 1 감소{nl}* SP 소모 10%증가	
 SKILL_20180208_010355	* Applies [Shadow Thorn] as 2 hits on ground enemies{nl}* Increases SP consumption by 50%	* 스킬 [섀도우 쏜]이 지상형 몬스터 대상으로는 2연타 적용{nl}* SP 소모 50%증가	SKILL_20171128_010052	* Causes [Shadow Thorn] to inflict 2 hits on ground enemies{nl}* Increases SP consumption by 50%	* 스킬 [섀도우 쏜]이 지상형 대상으로는 2연타 적용{nl}* SP 소모 50%증가	
 SKILL_20180208_010356	* AoE attack ratio of caster increases by 3 for 11 sec when using [Circling]{nl} From Lv2, duration increases 1 sec per attribute level{nl}* Increases SP consumption by 10%	* 스킬 [서클링] 시전 시, 11초 동안 시전자의 광역공격 비율 3증가{nl}   2레벨 부터 지속시간이 특성 레벨당 1초씩 증가{nl}* SP 소모 10%증가	SKILL_20170420_009136	* If enemies within the range of [Circling] receive physical or missile attacks, there is 5% chance per attribute level that another enemy will receive the same damage{nl}* Increases SP consumption by 10%	* 스킬 [서클링] 범위 내에 있는 적이 물리 공격 및 미사일 공격을{nl}    당했을 때 특성 레벨당 5%의 확률로 다른 한명의 적도{nl}    함께 피해를 받음{nl}* SP 소모 10%증가	

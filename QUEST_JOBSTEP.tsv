@@ -1397,7 +1397,7 @@ QUEST_JOBSTEP_20150317_001396	Find the Priest Master in Klaipeda
 QUEST_JOBSTEP_20150317_001397	Exorcise the evil spirit from the soldier and defeat it
 QUEST_JOBSTEP_20150317_001398	The Priest Master asked you to prove your sincerity to the goddess. Find the possessed soldier in Minenarbeiter Dorf and perform an exorcism.
 QUEST_JOBSTEP_20150317_001399	Bericht an den Priest Master
-QUEST_JOBSTEP_20150317_001400	Defeated the evil spirit! Return to the Priest Master.
+QUEST_JOBSTEP_20150317_001400	Besiegt the evil spirit! Return to the Priest Master.
 QUEST_JOBSTEP_20150317_001401	Besiege the embodiment of the evil spirit
 QUEST_JOBSTEP_20150317_001402	Sprich mit the Wizard Master
 QUEST_JOBSTEP_20150317_001403	Go to the Wizard Master in Klaipeda
@@ -1447,7 +1447,7 @@ QUEST_JOBSTEP_20150317_001446	Archer Master emphasized on the importance of help
 QUEST_JOBSTEP_20150317_001447	Besiege the giant monster in Mage Tower 3F
 QUEST_JOBSTEP_20150317_001448	The Ruteelero Master says there aren't enough manpower to rebuild Fedimian and monsters are flooding out of the Mage Tower. Besiege the giant monster in Mage Tower 3F to serve as a warning.
 QUEST_JOBSTEP_20150317_001449	Bericht an den Ruteelero Master
-QUEST_JOBSTEP_20150317_001450	Defeated the Minotaur in Mage Tower 3F. Report back to the Ruteelero Master.
+QUEST_JOBSTEP_20150317_001450	Besiegt the Minotaur in Mage Tower 3F. Report back to the Ruteelero Master.
 QUEST_JOBSTEP_20150317_001451	Bericht an den Archer Master
 QUEST_JOBSTEP_20150317_001452	Completed the Ruteelero Master's favor. Report back to the Archer Master.
 QUEST_JOBSTEP_20150317_001453	Go to the Ranger Master in Klaipeda
@@ -1739,7 +1739,7 @@ QUEST_JOBSTEP_20150317_001738	Find the Sapper Master
 QUEST_JOBSTEP_20150317_001739	Find the Sapper Master in East Siauliai Woods
 QUEST_JOBSTEP_20150317_001740	Besiege Biteregina in Sunset Flag Forest
 QUEST_JOBSTEP_20150317_001741	The Sapper Master asked you to defeat Biteregina that threaten people in Sunset Flag Forest.
-QUEST_JOBSTEP_20150317_001742	Defeated Biteregina. Report back to The Sapper Master.
+QUEST_JOBSTEP_20150317_001742	Besiegt Biteregina. Report back to The Sapper Master.
 QUEST_JOBSTEP_20150317_001743	Meet the Fletcher Master in Remaining Tree Dale
 QUEST_JOBSTEP_20150317_001744	Collected Whistling Wood
 QUEST_JOBSTEP_20150317_001745	The Fletcher Master seems very busy, but if you could help him, it seems that you may be able to learn from him. At Pretense Intersection, look for grubby looking trees from the monsters and bring the trees that make clear sound among them.
@@ -1803,13 +1803,13 @@ QUEST_JOBSTEP_20150317_001802	Meet the Centurion Master at Starving Demon's Way
 QUEST_JOBSTEP_20150317_001803	Besiege Colimencia in Layered Rock Forest
 QUEST_JOBSTEP_20150317_001804	The Centurion Master told you that you need to be competent enough to control other people. Besiege Colimencia in Layered Rock Forest to prove your skills.
 QUEST_JOBSTEP_20150317_001805	Return to the Centurion Master
-QUEST_JOBSTEP_20150317_001806	Defeated Colimencia. Report back to the Centurion Master.
+QUEST_JOBSTEP_20150317_001806	Besiegt Colimencia. Report back to the Centurion Master.
 QUEST_JOBSTEP_20150317_001807	Besiege Colimencia
 QUEST_JOBSTEP_20150317_001808	Call of the Archer Master
 QUEST_JOBSTEP_20150317_001809	Call of the Archer Master
 QUEST_JOBSTEP_20150317_001810	The Archer Master in Klaipeda is looking for you
 QUEST_JOBSTEP_20150317_001811	Besiege Sparnashorn in Ruklys Street
-QUEST_JOBSTEP_20150317_001812	Defeated Sparnashorn. Report back to the Archer Master.
+QUEST_JOBSTEP_20150317_001812	Besiegt Sparnashorn. Report back to the Archer Master.
 QUEST_JOBSTEP_20150317_001813	Besiege Sparnashorn
 QUEST_JOBSTEP_20150317_001814	Call of the Ranger Master
 QUEST_JOBSTEP_20150317_001815	The Ranger Master in Klaipeda is looking for you
@@ -1842,13 +1842,13 @@ QUEST_JOBSTEP_20150317_001841	The Wugushi Master in Fedimian is looking for you
 QUEST_JOBSTEP_20150317_001842	Besiege Rajatoad in the central district
 QUEST_JOBSTEP_20150317_001843	The Wugushi Master told you about the importance of poison immunity. Besiege Rajatoad in the central district and go back to the Wugushi Master.
 QUEST_JOBSTEP_20150317_001844	Report back to the Wugushi Master
-QUEST_JOBSTEP_20150317_001845	Defeated Rajatoad. Report back to Wugushi Master.
+QUEST_JOBSTEP_20150317_001845	Besiegt Rajatoad. Report back to Wugushi Master.
 QUEST_JOBSTEP_20150317_001846	The Call of the Scout Master
 QUEST_JOBSTEP_20150317_001847	The Scout Master in Fedimian is looking for you.
 QUEST_JOBSTEP_20150317_001848	Besiege Deadborn in Ruklys Street
 QUEST_JOBSTEP_20150317_001849	Scout Master told you that if you want to be learned, you should be competent enough. Besiege Deadborn in Ruklys Street and report back to the Scout Master.
 QUEST_JOBSTEP_20150317_001850	Bericht an den Scout Master
-QUEST_JOBSTEP_20150317_001851	Defeated Deadborn. Sprich mit the Scout Master.
+QUEST_JOBSTEP_20150317_001851	Besiegt Deadborn. Sprich mit the Scout Master.
 QUEST_JOBSTEP_20150317_001852	Call of the Rogue Master
 QUEST_JOBSTEP_20150317_001853	Go to the Rogue Master in Fedimian
 QUEST_JOBSTEP_20150317_001854	Duel with the Rogue Master
@@ -1943,10 +1943,10 @@ QUEST_JOBSTEP_20150317_001942	Gather materials and make %s
 QUEST_JOBSTEP_20150317_001943	Go to the Peltasta Master in Klaipeda
 QUEST_JOBSTEP_20150317_001944	Besiege the Vubbes in Crystal Mine 1F
 QUEST_JOBSTEP_20150317_001945	You must pass the initiation challenge in order to become a Peltasta. Besiege the Vubbes invading Crystal Mine 1F.
-QUEST_JOBSTEP_20150317_001946	Defeated all the Vubbes. Report back to the Peltasta Master.
+QUEST_JOBSTEP_20150317_001946	Besiegt all the Vubbes. Report back to the Peltasta Master.
 QUEST_JOBSTEP_20150317_001947	Besiege the Vubbes in Crystal Mine 1F
 QUEST_JOBSTEP_20150317_001948	You must pass the initiation challenge in order to become a Highlander. Besiege the Vubbes invading Crystal Mine 1F.
-QUEST_JOBSTEP_20150317_001949	Defeated all the Vubbes. Report back to the Highlander Master.
+QUEST_JOBSTEP_20150317_001949	Besiegt all the Vubbes. Report back to the Highlander Master.
 QUEST_JOBSTEP_20150317_001950	Besiege the Vubbes in Crystal Mine 1F
 QUEST_JOBSTEP_20150317_001951	Sprich mit the Pyromancer Master in Klaipeda.
 QUEST_JOBSTEP_20150317_001952	Help with the Bokor Master's research
@@ -1974,7 +1974,7 @@ QUEST_JOBSTEP_20150317_001973	Meet the Priest Master
 QUEST_JOBSTEP_20150317_001974	The Krivis Master says you need to go on pilgrimage to reach a higher level. Get the offerings for the Goddess Statue in Fedimian from the Priest Master.
 QUEST_JOBSTEP_20150317_001975	Help the Priest Master's work
 QUEST_JOBSTEP_20150317_001976	The Priest Master says he'll give you the offering items if you get rid of the monsters threatening the residents. Besiege Rocktortuga in West Siauliai Woods.
-QUEST_JOBSTEP_20150317_001977	Defeated Rocktortuga. Return to the Priest Master and get the offering items.
+QUEST_JOBSTEP_20150317_001977	Besiegt Rocktortuga. Return to the Priest Master and get the offering items.
 QUEST_JOBSTEP_20150317_001978	Meet with the Cleric Master
 QUEST_JOBSTEP_20150317_001979	The Krivis Master says you need to go on pilgrimage to reach a higher level. Get the offerings for the Goddess Statue in Fedimian from the Cleric Master.
 QUEST_JOBSTEP_20150317_001980	Worship the Goddess Statue in Fedimian
@@ -1996,7 +1996,7 @@ QUEST_JOBSTEP_20150317_001995	Something seems to have happened to Bokor master w
 QUEST_JOBSTEP_20150317_001996	The Bokor Master seems to have been inspired from the jewel. Meet the Krivis Master and tell him to prepare a memorial service before you defeat Tutu.
 QUEST_JOBSTEP_20150317_001997	The Krivis Master told you the story behind the jewel. Sprich mit the Krivis Master regarding the memorial service.
 QUEST_JOBSTEP_20150317_001998	Told the Krivis Master to prepare the memorial service. Now it's time to defeat Tutu. Besiege it in East Siauliai Woods before it reaches Klaipeda.
-QUEST_JOBSTEP_20150317_001999	Defeated Tutu. Bericht an den Bokor Master.
+QUEST_JOBSTEP_20150317_001999	Besiegt Tutu. Bericht an den Bokor Master.
 QUEST_JOBSTEP_20150317_002000	Meet with Sculptor Tesla
 QUEST_JOBSTEP_20150317_002001	Sprich mit Sculptor Tesla in Rhombuspaving Dale
 QUEST_JOBSTEP_20150317_002002	Receive balm from the Cleric Master
@@ -2054,33 +2054,33 @@ QUEST_JOBSTEP_20150317_002053	Obtain the items after defeating the monsters.
 QUEST_JOBSTEP_20150317_002054	Sprich mit the Wizard Master in Klaipeda.
 QUEST_JOBSTEP_20150317_002055	Remove the threats of West Siauliai Woods
 QUEST_JOBSTEP_20150317_002056	The Wizard Master says he'll test your fundamentals. Besiege the wild Golems in West Siauliai Woods.
-QUEST_JOBSTEP_20150317_002057	Defeated the Golems in West Siauliai Woods. Bericht an den Wizard Master.
+QUEST_JOBSTEP_20150317_002057	Besiegt the Golems in West Siauliai Woods. Bericht an den Wizard Master.
 QUEST_JOBSTEP_20150317_002058	Eliminate the danger in Sunset Flag Forest
 QUEST_JOBSTEP_20150317_002059	You need to show your skills to the Cataphract Master. Besiege Biteregina that threaten people at Sunset Flag Forest.
-QUEST_JOBSTEP_20150317_002060	Defeated Biteregina. Bericht an den Cataphract Master.
+QUEST_JOBSTEP_20150317_002060	Besiegt Biteregina. Bericht an den Cataphract Master.
 QUEST_JOBSTEP_20150317_002061	Sprich mit the Pyromancer Master in Klaipeda.
 QUEST_JOBSTEP_20150317_002062	Besiege the Poata in East Siauliai Woods
 QUEST_JOBSTEP_20150317_002063	Pyromancer asked you to defeat the Poata in East Siauliai Woods.
-QUEST_JOBSTEP_20150317_002064	Defeated the Poata in East Siauliai Woods. Bericht an den Pyromancer Master.
+QUEST_JOBSTEP_20150317_002064	Besiegt the Poata in East Siauliai Woods. Bericht an den Pyromancer Master.
 QUEST_JOBSTEP_20150317_002065	Besiege the Mushcaria in West Siauliai Woods
 QUEST_JOBSTEP_20150317_002066	Prove your strength to the Cryomancer Master by defeating the Mushcaria in West Siauliai Woods.
-QUEST_JOBSTEP_20150317_002067	Defeated Mushcaria in West Siauliai Woods. Return and report to the Cryomancer Master.
+QUEST_JOBSTEP_20150317_002067	Besiegt Mushcaria in West Siauliai Woods. Return and report to the Cryomancer Master.
 QUEST_JOBSTEP_20150317_002068	Sprich mit the Psychokino Master in the Siauliai Minenarbeiter Dorf.
 QUEST_JOBSTEP_20150317_002069	Besiege the Vubbe Fighter at the Minenarbeiter Dorf
 QUEST_JOBSTEP_20150317_002070	Psychokino says the power to believe in yourself is the most important. Prove your confidence by defeating the Red Vubbe Fighter in Minenarbeiter Dorf.
 QUEST_JOBSTEP_20150317_002071	Bericht an Psychokino master
-QUEST_JOBSTEP_20150317_002072	Defeated Red Vubbe Fighter. Return and report to the Psychokino Master.
+QUEST_JOBSTEP_20150317_002072	Besiegt Red Vubbe Fighter. Return and report to the Psychokino Master.
 QUEST_JOBSTEP_20150317_002073	Besiege Red Vubbe Fighter
 QUEST_JOBSTEP_20150317_002074	Sprich mit the Linker Master at the Minenarbeiter Dorf.
 QUEST_JOBSTEP_20150317_002075	Besiege the unusual Vubbe Fighter in East Siauliai Woods
 QUEST_JOBSTEP_20150317_002076	The Linker Master wants to know how Mana is used. Show how it is used by defeating the Unusual Vubbe Fighter in East Siauliai Woods.
 QUEST_JOBSTEP_20150317_002077	Bericht an den Linker Master
-QUEST_JOBSTEP_20150317_002078	Defeated the unusual Vubbe Fighter in East Siauliai Woods. Return and report to the Linker Master.
+QUEST_JOBSTEP_20150317_002078	Besiegt the unusual Vubbe Fighter in East Siauliai Woods. Return and report to the Linker Master.
 QUEST_JOBSTEP_20150317_002079	Besiege the unusual Vubbe Fighter
 QUEST_JOBSTEP_20150317_002080	Besiege the Flaming Salamander in Mage Tower 1F
 QUEST_JOBSTEP_20150317_002081	The Thaumaturge Master says you need basic talent to receive enlightenment. Besiege the Salamander in Mage Tower 1F.
 QUEST_JOBSTEP_20150317_002082	Bericht an den Thaumaturge Master
-QUEST_JOBSTEP_20150317_002083	Defeated Salamander. Bericht an den Thaumaturge Master.
+QUEST_JOBSTEP_20150317_002083	Besiegt Salamander. Bericht an den Thaumaturge Master.
 QUEST_JOBSTEP_20150317_002084	Besiege Reaverpede in Remaining Tree Dale for the test of the Elementalist Master
 QUEST_JOBSTEP_20150317_002085	Bericht an den Elementalist Master
 QUEST_JOBSTEP_20150317_002086	You've succeeded in defeating Reaverpede. Bericht an den Elementalist Master.
@@ -2088,7 +2088,7 @@ QUEST_JOBSTEP_20150317_002087	Meet the Sorcerer Master in Crystal Brook
 QUEST_JOBSTEP_20150317_002088	Besiege Devilglove in Crystal Brook
 QUEST_JOBSTEP_20150317_002089	The Sorcerer Master wants to check your skills. Besiege Devilglove in Crystal Brook to prove your skills.
 QUEST_JOBSTEP_20150317_002090	Bericht an den Sorcerer Master
-QUEST_JOBSTEP_20150317_002091	Defeated Devilglove. Bericht an den Sorcerer Master.
+QUEST_JOBSTEP_20150317_002091	Besiegt Devilglove. Bericht an den Sorcerer Master.
 QUEST_JOBSTEP_20150317_002092	Sprich mit dem Necromancer Master in Starving Demon's Way
 QUEST_JOBSTEP_20150317_002093	Collect the corpses of monsters in Starving Demon's Way
 QUEST_JOBSTEP_20150317_002094	Necromancer told you to bring the corpses of the monsters. Bring Blue Fisherman Bone, Lepusbunny's Guts, and Harpeia's Beak from Starving Demon's Way.
@@ -2098,27 +2098,27 @@ QUEST_JOBSTEP_20150317_002097	Obtain %s
 QUEST_JOBSTEP_20150317_002098	Go to the Swordsman Master in Klaipeda
 QUEST_JOBSTEP_20150317_002099	Besiege Honeypin at Deep Indigo Forest
 QUEST_JOBSTEP_20150317_002100	The Swordsman Master is emphasizing the importance of training with actual fights. Besiege Honeypin at Deep Indigo Forest and accumulate the experiences.
-QUEST_JOBSTEP_20150317_002101	Defeated Honeypin. Bericht an den Swordsman Master.
+QUEST_JOBSTEP_20150317_002101	Besiegt Honeypin. Bericht an den Swordsman Master.
 QUEST_JOBSTEP_20150317_002102	Go to the Peltasta Master in Klaipeda
 QUEST_JOBSTEP_20150317_002103	Besiege Gaigalas in Flowerless Forest
 QUEST_JOBSTEP_20150317_002104	The Peltasta Master wants you to prove your skills. Besiege Gaigalas in Flowerless Forest and prove your skills.
-QUEST_JOBSTEP_20150317_002105	Defeated Gaigalas. Bericht an den Peltasta Master.
+QUEST_JOBSTEP_20150317_002105	Besiegt Gaigalas. Bericht an den Peltasta Master.
 QUEST_JOBSTEP_20150317_002106	Besiege Gaigalas
 QUEST_JOBSTEP_20150317_002107	Find the Highlander Master in Klaipeda.
 QUEST_JOBSTEP_20150317_002108	The Highlander Master wants you to accumulate more experiences. Besiege Honeypin at Deep Indigo Forest. 
-QUEST_JOBSTEP_20150317_002109	Defeated Honeypin. Bericht an den Highlander Master.
+QUEST_JOBSTEP_20150317_002109	Besiegt Honeypin. Bericht an den Highlander Master.
 QUEST_JOBSTEP_20150317_002110	The Hoplite Master possesses the skill which his colleagues can rely on. Besiege Colimencia in Layered Rock Forest to prove your skills.
-QUEST_JOBSTEP_20150317_002111	Defeated Colimencia. Bericht an den Hoplite Master.
+QUEST_JOBSTEP_20150317_002111	Besiegt Colimencia. Bericht an den Hoplite Master.
 QUEST_JOBSTEP_20150317_002112	Go to the Barbarian Master in East Siauliai Woods
 QUEST_JOBSTEP_20150317_002113	Meet the Barbarian Master at East Siauliai Woods
 QUEST_JOBSTEP_20150317_002114	The Barbarian Master wants to make other people to respect him by defeating Poata that are known for attacking people. Besiege Poata in Layered Rock Forest.
-QUEST_JOBSTEP_20150317_002115	Defeated Poata. Bericht an den Barbarian Master.
+QUEST_JOBSTEP_20150317_002115	Besiegt Poata. Bericht an den Barbarian Master.
 QUEST_JOBSTEP_20150317_002116	Meet the Ruteelero Master in Fedimian.
 QUEST_JOBSTEP_20150317_002117	The Ruteelero Master wants to accumulate real experiences. Besiege Colimencia in Layered Rock Forest to prove your skills.
-QUEST_JOBSTEP_20150317_002118	Defeated Colimencia. Bericht an Ruteeleo Master.
+QUEST_JOBSTEP_20150317_002118	Besiegt Colimencia. Bericht an Ruteeleo Master.
 QUEST_JOBSTEP_20150317_002119	Meet the Cataphract Master in High Crooked Road.
 QUEST_JOBSTEP_20150317_002120	The Cataphract Master told you that it is important to break anything that disturbes your way. Besiege Gaigalas in Flowerless Forest to prove your skills.
-QUEST_JOBSTEP_20150317_002121	Defeated Gaigalas. Bericht an den Cataphract Master.
+QUEST_JOBSTEP_20150317_002121	Besiegt Gaigalas. Bericht an den Cataphract Master.
 QUEST_JOBSTEP_20150317_002122	Go to the Squire Master in Fedimian
 QUEST_JOBSTEP_20150317_002123	Defeate Poata and find the seal of family
 QUEST_JOBSTEP_20150317_002124	The Squire Master has the symbol of the Legwyn family. Besiege Poata in Layered Rock Forest to find the symbol.
@@ -2129,46 +2129,46 @@ QUEST_JOBSTEP_20150317_002128	Sprich mit the Corsair Master
 QUEST_JOBSTEP_20150317_002129	Meet the Squire Master in Starving Demon's Way
 QUEST_JOBSTEP_20150317_002130	Corsair Master wants you to prove your skills. Besiege Honeypin in Deep Indigo Forest to prove your skills.
 QUEST_JOBSTEP_20150317_002131	Bericht an den Corsair Master
-QUEST_JOBSTEP_20150317_002132	Defeated Honeypin. Bericht an den Corsair Master.
+QUEST_JOBSTEP_20150317_002132	Besiegt Honeypin. Bericht an den Corsair Master.
 QUEST_JOBSTEP_20150317_002133	Sprich mit the Doppelsoeldner Master
 QUEST_JOBSTEP_20150317_002134	Meet the Doppelsoeldner Master in Forgotten Port.
 QUEST_JOBSTEP_20150317_002135	The Doppelsoeldner Master wants you to prove your skills by defeating Gaigalas in Flowerless Forest.
 QUEST_JOBSTEP_20150317_002136	Bericht an den Doppelsoeldner Master
-QUEST_JOBSTEP_20150317_002137	Defeated Gaigalas. Bericht an den Doppelsoeldner Master.
+QUEST_JOBSTEP_20150317_002137	Besiegt Gaigalas. Bericht an den Doppelsoeldner Master.
 QUEST_JOBSTEP_20150317_002138	Sprich mit the Chronomancer Master
 QUEST_JOBSTEP_20150317_002139	Sprich mit the Chronomancer Master in High Crooked Road.
 QUEST_JOBSTEP_20150317_002140	Besiege Reaverpede in Remaining Tree Dale
 QUEST_JOBSTEP_20150317_002141	For the test of the Chronomancer Master, defeat Reaverpede in Remaining Tree Dale.
 QUEST_JOBSTEP_20150317_002142	Bericht an den Chronomancer Master
-QUEST_JOBSTEP_20150317_002143	Defeated Reaverpede. Bericht an Chronomancer Master.
+QUEST_JOBSTEP_20150317_002143	Besiegt Reaverpede. Bericht an Chronomancer Master.
 QUEST_JOBSTEP_20150317_002144	Meet the Wizard Master
 QUEST_JOBSTEP_20150317_002145	Meet the Wizard Master in Klaipeda
 QUEST_JOBSTEP_20150317_002146	Besiege Ironbaum in East Siauliai Woods
 QUEST_JOBSTEP_20150317_002147	The Wizard Master is unsatisfied with the situtaion. No one is fighting against the monsters up front. Go to East Siauliai Woods and defeat Ironbaum.
-QUEST_JOBSTEP_20150317_002148	Defeated Ironbaum. Return to the Wizard Master.
+QUEST_JOBSTEP_20150317_002148	Besiegt Ironbaum. Return to the Wizard Master.
 QUEST_JOBSTEP_20150317_002149	Meet the Pyromancer Master
 QUEST_JOBSTEP_20150317_002150	Meet the Pyromancer Master in Klaipeda
 QUEST_JOBSTEP_20150317_002151	The Pyromancer Master is not pleased with the Cryomancer Master who isn't doing anything when Klaipeda is under threat. Besiege Ironbaum in East Siauliai Woods and show him how it should be done.
-QUEST_JOBSTEP_20150317_002152	Defeated Ironbaum. Return to the Pyromancer Master.
+QUEST_JOBSTEP_20150317_002152	Besiegt Ironbaum. Return to the Pyromancer Master.
 QUEST_JOBSTEP_20150317_002153	Meet the Cryomancer Master
 QUEST_JOBSTEP_20150317_002154	Meet the Cryomancer Master in Klaipeda
 QUEST_JOBSTEP_20150317_002155	The Cryomancer Master says other Masters are teasing him, he wants you to take care of it. Besiege Ironbaum in East Siauliai Woods.
-QUEST_JOBSTEP_20150317_002156	Defeated Ironbaum. Return to the Cryomancer Master.
+QUEST_JOBSTEP_20150317_002156	Besiegt Ironbaum. Return to the Cryomancer Master.
 QUEST_JOBSTEP_20150317_002157	Meet the Psychokino Master
 QUEST_JOBSTEP_20150317_002158	Meet the Psychokino Master at the Minenarbeiter Dorf
 QUEST_JOBSTEP_20150317_002159	Besiege the Werewolf at the Minenarbeiter Dorf
 QUEST_JOBSTEP_20150317_002160	The Psychokino Master is busy but doesn't want to pass on the chance of defeating the Werewolf to the Linker Master. Besiege the Werewolf in Minenarbeiter Dorf.
-QUEST_JOBSTEP_20150317_002161	Defeated the Werewolf. Return and report to the Psychokino Master.
+QUEST_JOBSTEP_20150317_002161	Besiegt the Werewolf. Return and report to the Psychokino Master.
 QUEST_JOBSTEP_20150317_002162	Meet the Linker Master
 QUEST_JOBSTEP_20150317_002163	Meet the Linker Master in Siauliai Minenarbeiter Dorf
 QUEST_JOBSTEP_20150317_002164	Besiege Werewolf in Siauliai Minenarbeiter Dorf
 QUEST_JOBSTEP_20150317_002165	The Linker Master wants a Linker apprentice to defeat the Werewolf and show the Psychokino Master who's the boss. Besiege the Werewolf at the Siauliai Minenarbeiter Dorf.
-QUEST_JOBSTEP_20150317_002166	Defeated the Werewolf. Return and report to the Linker Master.
+QUEST_JOBSTEP_20150317_002166	Besiegt the Werewolf. Return and report to the Linker Master.
 QUEST_JOBSTEP_20150317_002167	Meet the Thaumaturge Master
 QUEST_JOBSTEP_20150317_002168	Meet the Thaumaturge Master in Fedimian
 QUEST_JOBSTEP_20150317_002169	Besiege Netherbovine at Faultline
 QUEST_JOBSTEP_20150317_002170	The Thaumaturge Master told you that all the Masters are working toghther to defeat the monsters that are making mess so if you want to be a Thaumaturge, you should participate as well. Besiege Netherbovine that are making mess in Faultline.
-QUEST_JOBSTEP_20150317_002171	Defeated Netherbovine. Return and report to the Thaumaturge Master.
+QUEST_JOBSTEP_20150317_002171	Besiegt Netherbovine. Return and report to the Thaumaturge Master.
 QUEST_JOBSTEP_20150317_002172	Meet the Elementalist Master
 QUEST_JOBSTEP_20150317_002173	Meet the Elementalist Master in Fedimian
 QUEST_JOBSTEP_20150317_002174	Besiege Netherbovine in Faultline
@@ -2177,11 +2177,11 @@ QUEST_JOBSTEP_20150317_002176	You've succeeded in defeating Reaverpede. Bericht 
 QUEST_JOBSTEP_20150317_002177	Meet the Sorcerer Master
 QUEST_JOBSTEP_20150317_002178	Meet the Sorcerer Master in Crystal Brook
 QUEST_JOBSTEP_20150317_002179	The Sorcerer Master says you can't just stay in peace when the demons are roaming around. Go to the Goddess' Ancient Garden and defeat the Necroventer.
-QUEST_JOBSTEP_20150317_002180	Defeated Necroventer. Return and report to the Sorcerer Master.
+QUEST_JOBSTEP_20150317_002180	Besiegt Necroventer. Return and report to the Sorcerer Master.
 QUEST_JOBSTEP_20150317_002181	Meet the Chronomancer Master
 QUEST_JOBSTEP_20150317_002182	Meet the Chronomancer Master in High Crooked Road
 QUEST_JOBSTEP_20150317_002183	The Chronomancer Master is suspicous of your abilities. Besiege the Necroventer in Goddess' Ancient Garden to prove yourself.
-QUEST_JOBSTEP_20150317_002184	Defeated Necroventer. Return and report to the Chronomancer Master.
+QUEST_JOBSTEP_20150317_002184	Besiegt Necroventer. Return and report to the Chronomancer Master.
 QUEST_JOBSTEP_20150317_002185	Meet Vaidotas
 QUEST_JOBSTEP_20150317_002186	Find Vaidotas in Siauliai Minenarbeiter Dorf.
 QUEST_JOBSTEP_20150317_002187	Vaidotas says learning is not difficult but you have to be qualified for it. Besiege the Werewolf in the Minenarbeiter Dorf to prove yourself.

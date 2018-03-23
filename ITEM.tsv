@@ -1556,7 +1556,7 @@ ITEM_20150317_001555	Crystal Headband
 ITEM_20150317_001556	Pony Tail 
 ITEM_20150317_001557	Goggles used to protect your eyes. 
 ITEM_20150317_001558	Steel Visor 
-ITEM_20150317_001559	Wings Visor 
+ITEM_20150317_001559	Flügel Visor 
 ITEM_20150317_001560	Fedora 
 ITEM_20150317_001561	Goggles 
 ITEM_20150317_001562	Allows you to keep your eyes open in any condition. Fogging might be an issue, though. 
@@ -1623,7 +1623,7 @@ ITEM_20150317_001622	Glasses from the Otherworld
 ITEM_20150317_001623	If you wear this, you will enjoy a better depth perception. 
 ITEM_20150317_001624	Goat Horn 
 ITEM_20150317_001625	If you wear this, your headbutting power may increase. 
-ITEM_20150317_001626	Demon Wings 
+ITEM_20150317_001626	Demon Flügel 
 ITEM_20150317_001627	Wearing this won't give you any special powers against demons or vice-versa. 
 ITEM_20150317_001628	Silber Tiara 
 ITEM_20150317_001629	Sometimes the bride will wear this during her wedding. 
@@ -1661,11 +1661,11 @@ ITEM_20150317_001660	Desert Chupacabra Ears
 ITEM_20150317_001661	If you look carefully, you can see tiny soft hairs on these ears. 
 ITEM_20150317_001662	Mirtis Helm 
 ITEM_20150317_001663	A helmet previously used by Mirtis. 
-ITEM_20150317_001664	Red Devil Wings 
+ITEM_20150317_001664	Red Devil Flügel 
 ITEM_20150317_001665	Why do people want to attach wings to their heads? 
-ITEM_20150317_001666	Angel Wings 
+ITEM_20150317_001666	Angel Flügel 
 ITEM_20150317_001667	I now know that feeling of being alone. This was a mistake. 
-ITEM_20150317_001668	Fallen Angel Wings 
+ITEM_20150317_001668	Fallen Angel Flügel 
 ITEM_20150317_001669	The angels who committed sins are said to have had their wings turned black by their corruption. 
 ITEM_20150317_001670	Maid Headband 
 ITEM_20150317_001671	How can I serve you today, master? 
@@ -1931,7 +1931,7 @@ ITEM_20150317_001930	Permanently increases your maximum carry weight by 50. {nl}
 ITEM_20150317_001931	Cooldown Time Trank (CBT Test Purposes) 
 ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. {nl}Rechtsklick zum verwenden. Cooldown of 10 minutes. 
 ITEM_20150317_001933	Status Reset Scroll (CBT Test Purposes) 
-ITEM_20150317_001934	Resets all the Status Points of your character.{nl}(CBT Tester only) 
+ITEM_20150317_001934	Resets all the Status Punkte of your character.{nl}(CBT Tester only) 
 ITEM_20150317_001935	Lv8 EXP-Karte  
 ITEM_20150317_001936	Gibt 36000 EXP. {nl}50% chance of receiving additional EXP. {nl}Rechtsklick zum verwenden. 
 ITEM_20150317_001937	Lv9 EXP-Karte  
@@ -3125,7 +3125,7 @@ ITEM_20150317_003124	Krivis Relic
 ITEM_20150317_003125	A precious relic that the Krivis keep with them to symbolize their faithfulness. 
 ITEM_20150317_003126	Stone Orca Heart  
 ITEM_20150317_003127	An item that proves one's ability to the Schwert Master. It's the heart of Stone Orca. 
-ITEM_20150317_003128	Torn Bat Wings 
+ITEM_20150317_003128	Torn Bat Flügel 
 ITEM_20150317_003129	Green Ointment 
 ITEM_20150317_003130	A Vubbe ointment that is used to treat their injured. It's not possible to use it as is. 
 ITEM_20150317_003131	Royal Mausoleum Guardian Power Source 
@@ -4120,7 +4120,7 @@ ITEM_20150323_004119	Klein Stone Statue's Upper Body
 ITEM_20150323_004120	The upper body of a small stone statue. 
 ITEM_20150323_004121	Klein Stone Statue's Lower Body 
 ITEM_20150323_004122	The lower body of a small stone statue. 
-ITEM_20150323_004123	Klein Stone Statue's Wings 
+ITEM_20150323_004123	Klein Stone Statue's Flügel 
 ITEM_20150323_004124	The wings of a small stone statue. 
 ITEM_20150323_004125	Blunt Wooden Piece 
 ITEM_20150323_004126	A blunt piece of wood that used to be the head of a wooden hammer 
@@ -4624,7 +4624,7 @@ ITEM_20150414_004623	Watering Can
 ITEM_20150414_004624	Detector 
 ITEM_20150414_004625	5kg Dumbbell 
 ITEM_20150414_004626	When you pop the bubbles, you feel better. 
-ITEM_20150414_004627	Defeated Flag 
+ITEM_20150414_004627	Besiegt Flag 
 ITEM_20150414_004628	A mushroom with a hint of a woody scent. 
 ITEM_20150414_004629	White Bread 
 ITEM_20150414_004630	A soft, white bread. It tastes better if jam is spread on it. 
@@ -8694,7 +8694,7 @@ ITEM_20151224_008693	Peltasta Master Kostüm
 ITEM_20151224_008694	Beholder Kostüm
 ITEM_20151224_008695	Söldnerposten Manager Kostüm
 ITEM_20151224_008696	Paladin Master Kostüm
-ITEM_20151224_008697	Wings of Vibora Kostüm
+ITEM_20151224_008697	Flügel of Vibora Kostüm
 ITEM_20151224_008698	Haar-Kostüm 1
 ITEM_20151224_008699	Haar-Kostüm 2
 ITEM_20151224_008700	Haar-Kostüm 3
@@ -9161,7 +9161,7 @@ ITEM_20151224_009160	Blue Guardian Spider Leg
 ITEM_20151224_009161	A leg consisting of a type of exosqueleton. {nl}Obtained from Blue Guardian Spiders.
 ITEM_20151224_009162	Red Socket Horns
 ITEM_20151224_009163	Horns are always useful. {nl}Obtained from Red Sockets.
-ITEM_20151224_009164	Red Socket Wings
+ITEM_20151224_009164	Red Socket Flügel
 ITEM_20151224_009165	Sockets are able to fly even with no wings. The presence of wings simply signifies that they are demons. {nl}Obtained from Red Sockets.
 ITEM_20151224_009166	Darkness Crystal Fragment
 ITEM_20151224_009167	Nothing is known about this item. {nl}Obtained from Red Darkness Maidens.
@@ -10737,8 +10737,8 @@ ITEM_20160718_010736	Ceyral Saplings
 ITEM_20160718_010737	Some vivacious leaves Believer Dreka wants to offer Goddess Lada.
 ITEM_20160718_010738	Manaryll Tombstone
 ITEM_20160718_010739	A gravestone found near Manahas Village.
-ITEM_20160718_010740	Sticky Wings
-ITEM_20160718_010741	Wings obtained from defeating Dandels and Keparis.
+ITEM_20160718_010740	Sticky Flügel
+ITEM_20160718_010741	Flügel obtained from defeating Dandels and Keparis.
 ITEM_20160718_010742	Wooden Materials
 ITEM_20160718_010743	Wooden Fence
 ITEM_20160718_010744	Item needed to enhance the power of a bomb.
@@ -10824,8 +10824,8 @@ ITEM_20160723_010823	Title - Shady Geologist
 ITEM_20160723_010824	An item that allows you to obtain the "Shady Geologist" title.
 ITEM_20160723_010825	Increases movement speed by 2 and also increases physical/magic attack by 50 for 30 minutes. Rechtsklick zum verwenden. Cooldown of 30 seconds.
 ITEM_20160723_010826	Let's take it to the resident looking for the box.{nl}You can find the resident at either West Siauliai Woods or Lemprasa Pond.{nl}Warning! Do not open.
-ITEM_20160801_010827	300 Battle League Points
-ITEM_20160801_010828	Use to obtain 300 Battle League Points.{nl}These points can be redeemed at the Battle League Shop.
+ITEM_20160801_010827	300 Battle League Punkte
+ITEM_20160801_010828	Use to obtain 300 Battle League Punkte.{nl}These points can be redeemed at the Battle League Shop.
 ITEM_20160811_010829	An armband to commemorate those that participated in the Seasonal Server.
 ITEM_20160811_010830	Curling Back Perm
 ITEM_20160811_010831	Upper-bind Two-block
@@ -11355,7 +11355,7 @@ ITEM_20161005_011354	 - Increases damage by 50% when using [Spear Throw]
 ITEM_20161005_011355	Pygry Spear
 ITEM_20161005_011356	Solmiki Spear
 ITEM_20161005_011357	Despite its appearance, it is extremely deadly. Those that look down upon it for its toy-like facade will quickly regret it.
-ITEM_20161005_011358	Wingshard Spear
+ITEM_20161005_011358	Flügelhard Spear
 ITEM_20161005_011359	Tevhrin Pike
 ITEM_20161005_011360	Long ago, a weapon that neither Goddess nor demon could use was crafted; it was called the Tevhrin. Even so, it is hoped that this weapon will be used to pierce the enemies of the goddesses.
 ITEM_20161005_011361	Sacmet
@@ -11676,19 +11676,19 @@ ITEM_20161005_011675	Moglan Shell
 ITEM_20161005_011676	Sturdy Rondo Shell
 ITEM_20161005_011677	Ragged Butcher's Axe Fragment
 ITEM_20161005_011678	Akhlass Bishop's Cloak Fragment
-ITEM_20161005_011679	Akhlass Wings
-ITEM_20161005_011680	Black Shardstatue Wings
-ITEM_20161005_011681	Ragbird Wings
-ITEM_20161005_011682	Yellow Leafnut Wings
-ITEM_20161005_011683	Orange Grummer Wings
-ITEM_20161005_011684	Yellow Pyran Wings
-ITEM_20161005_011685	Blue Beetow Wings
-ITEM_20161005_011686	Green Bavon Wings
-ITEM_20161005_011687	Red Maize Wings
-ITEM_20161005_011688	Lyecorn Wings
-ITEM_20161005_011689	Tuthrycon Wings
-ITEM_20161005_011690	Mouringaka Wings
-ITEM_20161005_011691	Mourningbird Wings
+ITEM_20161005_011679	Akhlass Flügel
+ITEM_20161005_011680	Black Shardstatue Flügel
+ITEM_20161005_011681	Ragbird Flügel
+ITEM_20161005_011682	Yellow Leafnut Flügel
+ITEM_20161005_011683	Orange Grummer Flügel
+ITEM_20161005_011684	Yellow Pyran Flügel
+ITEM_20161005_011685	Blue Beetow Flügel
+ITEM_20161005_011686	Green Bavon Flügel
+ITEM_20161005_011687	Red Maize Flügel
+ITEM_20161005_011688	Lyecorn Flügel
+ITEM_20161005_011689	Tuthrycon Flügel
+ITEM_20161005_011690	Mouringaka Flügel
+ITEM_20161005_011691	Mourningbird Flügel
 ITEM_20161005_011692	Red Slime Core
 ITEM_20161005_011693	Red Wizard Shaman Doll Core
 ITEM_20161005_011694	Lakhorn Core
@@ -11799,7 +11799,7 @@ ITEM_20161005_011798	Tala Archer's Head Feather
 ITEM_20161005_011799	Tala Battle Boss' Hammer
 ITEM_20161005_011800	Green Flamme's Staff
 ITEM_20161005_011801	Green Rubblem Stone
-ITEM_20161005_011802	Green Bavon Wings
+ITEM_20161005_011802	Green Bavon Flügel
 ITEM_20161005_011803	Green Bavon Horns
 ITEM_20161005_011804	Green Zolem Core
 ITEM_20161005_011805	Green Zolem Fragment
@@ -11811,7 +11811,7 @@ ITEM_20161005_011810	Orange Lakhof Core
 ITEM_20161005_011811	Green Flamil's Weapon Fragment
 ITEM_20161005_011812	Thick Rondo Shell
 ITEM_20161005_011813	Rondo Horn
-ITEM_20161005_011814	Blck Shardstatue Undamaged Wings
+ITEM_20161005_011814	Blck Shardstatue Undamaged Flügel
 ITEM_20161005_011815	Blck Shardstatue Rope
 ITEM_20161005_011816	Black Temple Slave Assassin's Dagger
 ITEM_20161005_011817	Black Temple Slave's Cape
@@ -11819,7 +11819,7 @@ ITEM_20161005_011818	Amberdog's Cone Hat
 ITEM_20161005_011819	Scarecrow Scyth
 ITEM_20161005_011820	Straw Walker Scyth
 ITEM_20161005_011821	Ragbird Feather
-ITEM_20161005_011822	Ragbird Undamaged Wings
+ITEM_20161005_011822	Ragbird Undamaged Flügel
 ITEM_20161005_011823	Ragged Butcher's Ring
 ITEM_20161005_011824	Green Ellomago Tail
 ITEM_20161005_011825	Blue Woodluwa Claw
@@ -11831,9 +11831,9 @@ ITEM_20161005_011830	Red Maize Spore
 ITEM_20161005_011831	Red Siaulav Mask
 ITEM_20161005_011832	Black Temple Slave's Cross Bow
 ITEM_20161005_011833	Black Temple Slave's Glove
-ITEM_20161005_011834	Lyecorn Undamaged Wings
+ITEM_20161005_011834	Lyecorn Undamaged Flügel
 ITEM_20161005_011835	Tuthrycon Tail
-ITEM_20161005_011836	Tuthrycon Undamaged Wings
+ITEM_20161005_011836	Tuthrycon Undamaged Flügel
 ITEM_20161005_011837	Horned Golem Undamage Horn
 ITEM_20161005_011838	Bunkeybo Hair
 ITEM_20161005_011839	Nukhalong Antenna
@@ -12468,10 +12468,10 @@ ITEM_20161005_012467	Centaurus Crystal
 ITEM_20161005_012468	Sophia wishes to research the Centaurus Crystal in order to find out why the Ducky cannot seem to stand their ground against the Centaurus.
 ITEM_20161005_012469	Centaurus Dust
 ITEM_20161005_012470	Powder created by crushing Centaurus Crystals
-ITEM_20161005_012471	Blue Beetow Wings
-ITEM_20161005_012472	It is said that a lot of Blue Beetow Wings are needed in order to substitute Centaurus poison.
+ITEM_20161005_012471	Blue Beetow Flügel
+ITEM_20161005_012472	It is said that a lot of Blue Beetow Flügel are needed in order to substitute Centaurus poison.
 ITEM_20161005_012473	Dry Bracken Leaves
-ITEM_20161005_012474	Dry bracken leaves that have fallen off of the stem. It can be mixed with Blue Beetow Wings to substitute Centaurus poison.
+ITEM_20161005_012474	Dry bracken leaves that have fallen off of the stem. It can be mixed with Blue Beetow Flügel to substitute Centaurus poison.
 ITEM_20161005_012475	Whitetailed Grass
 ITEM_20161005_012476	Can relieve pain for a limited time.
 ITEM_20161005_012477	Kugheri Stimulant
@@ -12726,8 +12726,8 @@ ITEM_20161018_012725	Kugheri Sommi Tambourine
 ITEM_20161018_012726	Kugheri Tot's Necklace
 ITEM_20161018_012727	Kugheri Tot Fruit
 ITEM_20161018_012728	Yellow Leafnut Tail
-ITEM_20161018_012729	Yellow Leafnut Undamaged Wings
-ITEM_20161018_012730	Orange Grummer Undamaged Wings
+ITEM_20161018_012729	Yellow Leafnut Undamaged Flügel
+ITEM_20161018_012730	Orange Grummer Undamaged Flügel
 ITEM_20161018_012731	Orange Grummer Antenna
 ITEM_20161018_012732	Red Colimen Flower Leaf
 ITEM_20161018_012733	Yellow Caro Antenna
@@ -12747,11 +12747,11 @@ ITEM_20161018_012746	Kugheri Balzer's Braid
 ITEM_20161018_012747	Kugheri Symbani's Sword
 ITEM_20161018_012748	Kugheri Symbani's Hat Ornament
 ITEM_20161018_012749	Kugheri Zeffi's Ornament
-ITEM_20161018_012750	Mouringaka Undamaged Wings
+ITEM_20161018_012750	Mouringaka Undamaged Flügel
 ITEM_20161018_012751	Mouringaka Antenna
 ITEM_20161018_012752	Nabu's Undamaged Tail
 ITEM_20161018_012753	Morningbird Tail
-ITEM_20161018_012754	Mourningbird Undamaged Wings
+ITEM_20161018_012754	Mourningbird Undamaged Flügel
 ITEM_20161024_012755	Jack-O-Lantern Hair Ornament
 ITEM_20161024_012756	Haunted Artist
 ITEM_20161024_012757	An item that will award you with the Haunted Artist title. Rechtsklick um den Titel zu erhalten und zu verwenden.
@@ -12866,7 +12866,7 @@ ITEM_20161108_012864	Some say it calls for rain.
 ITEM_20161108_012865	Pink Pudding
 ITEM_20161108_012866	Black Checker
 ITEM_20161108_012867	Looks like something a chairperson might wear. The green-painted part stands out impressively.
-ITEM_20161108_012868	Black Gold-laced Butterfly Wings
+ITEM_20161108_012868	Black Gold-laced Butterfly Flügel
 ITEM_20161108_012869	Boss Bear Hat
 ITEM_20161108_012870	Red Checker
 ITEM_20161108_012871	Golden Rose Horn
@@ -15368,7 +15368,7 @@ ITEM_20170728_015366	Surf Board	서핑 보드
 ITEM_20170728_015367	Complete your surfer look with a real surfing board.	무더운 여름 서핑족을 위한 아이템입니다.				
 ITEM_20170810_015368	[Klaipeda] Goddess Sculpture Head	[클라페다] 여신의 얼굴 조각				
 ITEM_20170810_015369	A material item retrieved from a monster.{nl}Collect all the 4 parts of the sculpture and a recipe to craft a Restored Goddess Sculpture. 	이벤트 재료 아이템입니다.{nl}다른 여신의 조각과 함께 [이벤트] 복원된 여신상을 만들 수 있습니다.				
-ITEM_20170810_015370	[All cities] Goddess Sculpture Wings	[공용] 여신의 날개 조각				
+ITEM_20170810_015370	[All cities] Goddess Sculpture Flügel	[공용] 여신의 날개 조각				
 ITEM_20170810_015371	[Orsha] Goddess Sculpture Torso	[오르샤] 여신의 상단 조각				
 ITEM_20170810_015372	[Fedimian] Goddess Sculpture Legs	[페디미안] 여신의 하단 조각				
 ITEM_20170810_015373	[Event] Restored Goddess Sculpture	[이벤트] 복원된 여신상				
@@ -15409,14 +15409,14 @@ ITEM_20170901_015407	Pure White Nurse (Female)	퓨어 화이트 간호사 코스
 ITEM_20170901_015408	A traditional white nurse costume. Use to change your appearance.	퓨어 화이트 간호사 코스튬입니다. 착용하면 외형이 변경 됩니다.				
 ITEM_20170901_015409	Pure White Nurse (Male)	퓨어 화이트 간호사 코스튬(남)				
 ITEM_20170901_015410	Wing Test	날개테스트				
-ITEM_20170901_015411	Balloon Wings	풍선 날개				
-ITEM_20170901_015412	[Premium] Wings	[프리미엄] 날개				
+ITEM_20170901_015411	Balloon Flügel	풍선 날개				
+ITEM_20170901_015412	[Premium] Flügel	[프리미엄] 날개				
 ITEM_20170901_015413	A pair of wings made out of balloons. Unfortunately they don't let you fly.	풍선 모양의 날개입니다. 단, 실제 비행은 불가능합니다.				
-ITEM_20170901_015414	Broken Pink Heart Wings	깨진 핑크 하트 날개				
+ITEM_20170901_015414	Broken Pink Heart Flügel	깨진 핑크 하트 날개				
 ITEM_20170901_015415	A pair of wings shaped like a sad, broken heart. Unfortunately they don't let you fly.	하트 모양의 날개입니다. 단, 실제 비행은 불가능합니다.				
-ITEM_20170901_015416	Small Steam Punk Wings	작은 스팀 펑크 날개				
+ITEM_20170901_015416	Small Steam Punk Flügel	작은 스팀 펑크 날개				
 ITEM_20170901_015417	A pair of wings modeled after an eagle's. Unfortunately they don't let you fly.	독수리 날개입니다. 단, 실제 비행은 불가능합니다.				
-ITEM_20170901_015418	Small Mint Angel Wings	작은 민트 천사 날개				
+ITEM_20170901_015418	Small Mint Angel Flügel	작은 민트 천사 날개				
 ITEM_20170901_015419	The true wings of an angel. Unfortunately they don't let you fly.	천사의 날개입니다. 단, 실제 비행은 불가능합니다.				
 ITEM_20170901_015420	Use to obtain 1 random Monster Gem.{nl}Contains Monster Gems related to Swordsman, Wizard, Archer and Cleric classes.	몬스터 젬을 무작위로 1개 획득할 수 있습니다.{nl}소드맨, 위자드, 아쳐, 클래릭 관련 몬스터 젬이 들어 있습니다.	ITEM_20170717_015151	Use to obtain 1 random material item.{nl}Contains Monster Gems related to Swordsman, Wizard, Archer and Cleric classes.	재료 아이템을 무작위로 1개 획득할 수 있습니다.{nl}소드맨, 위자드, 아쳐, 클래릭 관련 몬스터 젬이 들어 있습니다.	
 ITEM_20170901_015421	Monster Gem Box: Rank 2	몬스터 젬 상자:2랭크				
@@ -15713,7 +15713,7 @@ ITEM_20170912_015711	A reward from the Letas Stream Mission.{nl}(The Masters' Un
 ITEM_20170912_015712	Master Badge	마스터의 증표				
 ITEM_20170912_015713	Companion Voucher	컴패니언 교환권				
 ITEM_20170912_015714	Adventure Journal Reward Item	모험일지 보상으로 얻는 아이템				
-ITEM_20170912_015715	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Companion at the Wings of Vaivora. 	모험일지 보상으로 얻은 컴패니언 교환권, 바이보라 날개에게서 교환 20개로 컴패니언을 교환할 수 있습니다. 				
+ITEM_20170912_015715	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Companion at the Flügel of Vaivora. 	모험일지 보상으로 얻은 컴패니언 교환권, 바이보라 날개에게서 교환 20개로 컴패니언을 교환할 수 있습니다. 				
 ITEM_20170912_015716	Team Storage Expansion Voucher +2	팀 창고 확장권 +2				
 ITEM_20170912_015717	Right-click to use. Increases your Team Storage slots by +2.	마우스 오른쪽 클릭으로 사용합니다. 사용시 팀 창고가 2칸 확장됩니다.				
 ITEM_20170912_015718	Team Storage Expansion Voucher +1	팀 창고 확장권 +1				
@@ -15782,9 +15782,9 @@ ITEM_20171013_015781	[Event] Aufgowle Bow	[이벤트] 아프가울레 보우
 ITEM_20171013_015782	[Event] Double Stack	[이벤트] 더블 스택				
 ITEM_20171013_015783	[Event] Lionhead Cannon	[이벤트] 라이온 헤드 캐논				
 ITEM_20171013_015784	[Event] Dragoon Piper	[이벤트] 드라군 파이퍼				
-ITEM_20171013_015785	Bat Wings	박쥐 날개				
+ITEM_20171013_015785	Bat Flügel	박쥐 날개				
 ITEM_20171013_015786	A pair of wings modeled after a bat.  Unfortunately they don't let you fly	박쥐 날개입니다. 단, 실제 비행은 불가능합니다.				
-ITEM_20171013_015787	Spider Web Wings	거미줄 날개				
+ITEM_20171013_015787	Spider Web Flügel	거미줄 날개				
 ITEM_20171013_015788	A pair of wings made from twigs and spider webs.  Unfortunately they don't let you fly	거미줄 날개입니다. 단, 실제 비행은 불가능합니다.				
 ITEM_20171013_015789	Bamboo Spear	죽창				
 ITEM_20171013_015790	A longish spear made from bamboo.	길죽한 대나무로 만들어진 죽창입니다.				
@@ -15799,17 +15799,17 @@ ITEM_20171013_015798	Will install a monster trap when used.{nl}Will be deleted w
 ITEM_20171013_015799	Monster Energy	몬스터의 기운				
 ITEM_20171013_015800	Event material item.{nl}Can be used to increase the level of captured monsters.{nl}Will be deleted when the event period ends.	이벤트 재료 아이템입니다.{nl}포획한 몬스터 레벨을 증가시킬 수 있습니다.{nl}이벤트 종료 후 일괄 삭제됩니다.				
 ITEM_20171013_015801	LV1 Blue Cube	푸른색 큐브 LV1				
-ITEM_20171013_015802	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Points{nl} - Advanced Gem Abrasive (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 고급 젬 연마제:14일				
+ITEM_20171013_015802	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Punkte{nl} - Advanced Gem Abrasive (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 고급 젬 연마제:14일				
 ITEM_20171013_015803	LV2 Blue Cube	푸른색 큐브 LV2				
-ITEM_20171013_015804	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Points{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일)				
+ITEM_20171013_015804	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Punkte{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일)				
 ITEM_20171013_015805	LV3 Blue Cube	푸른색 큐브 LV3				
-ITEM_20171013_015806	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Points{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl}   - Golden Anvil (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일)				
+ITEM_20171013_015806	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Punkte{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl}   - Golden Anvil (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일)				
 ITEM_20171013_015807	LV4 Blue Cube	푸른색 큐브 LV4				
-ITEM_20171013_015808	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Points{nl} - 1000 Attribute Points{nl} -Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl} - Golden Anvil (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일)				
+ITEM_20171013_015808	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Punkte{nl} - 1000 Attribute Punkte{nl} -Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl} - Golden Anvil (14 Days)	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일)				
 ITEM_20171013_015809	LV5 Blue Cube	푸른색 큐브 LV5				
-ITEM_20171013_015810	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Points{nl} - 1000 Attribute Points{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl} - Golden Anvil (14 Days){nl} - Level 270 Event Armor	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일){nl} - 270제 이벤트용 방어구				
+ITEM_20171013_015810	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Punkte{nl} - 1000 Attribute Punkte{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl} - Golden Anvil (14 Days){nl} - Level 270 Event Armor	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일){nl} - 270제 이벤트용 방어구				
 ITEM_20171013_015811	LV6 Blue Cube	푸른색 큐브 LV6				
-ITEM_20171013_015812	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Points{nl} - 1000 Attribute Points{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl} - Golden Anvil (14 Days){nl} - Level 270 Event Armor{nl} - Level 315 Event   Weapon	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일){nl} - 이벤트용 뉴트 방어구{nl} - 315제 이벤트용 무기				
+ITEM_20171013_015812	Gives one random item when used.{nl} - Talt{nl} - Fortune Cookie{nl} - 500 Attribute Punkte{nl} - 1000 Attribute Punkte{nl} - Advanced Gem Abrasive (14 Days){nl} - Silver Anvil (14 Days){nl} - Golden Anvil (14 Days){nl} - Level 270 Event Armor{nl} - Level 315 Event   Weapon	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 은빛 모루(14일){nl} - 황금 모루(14일){nl} - 이벤트용 뉴트 방어구{nl} - 315제 이벤트용 무기				
 ITEM_20171013_015813	Event Armor Box (Lv.270)	이벤트용 방어구 상자 (Lv. 270)				
 ITEM_20171013_015814	Use to select one level 270 equipment.	270제 방어구 장비를 선택할 수 있습니다.				
 ITEM_20171013_015815	Event Weapon Box (Lv. 315)	이벤트용 무기 상자 (Lv. 315)				
@@ -15892,7 +15892,7 @@ ITEM_20171113_015891	Fan away the heat with this friendly Kepa. Don't worry, it 
 ITEM_20171113_015892	Look at your cute penguin fan whenever you need to remind yourself of something cold.	작고 귀여운 펭귄 모양 부채입니다.				
 ITEM_20171113_015893	You're not a true Popolion fan if you don't have one of these.	작고 귀여운 포포리온 모양 부채입니다.				
 ITEM_20171120_015894	Blue Cube	푸른색 큐브				
-ITEM_20171120_015895	Use to obtain one of the following random items.{nl}- Believer's Potion{nl}- Talt{nl}- Fortune Cookie{nl}- Attribute Points: 500{nl}- Attribute Points: 1,000{nl}- Advanced Gem Abrasive: 14 Days{nl}- Instance Multiply Token (14 Days){nl}- Enchant Scroll (14 Days){nl}- Silver Anvil (14 Days){nl}- Event Armor{nl}- Lv 315 Event Weapon	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 수행자의 포션{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 인스턴스 던전 배수 토큰(14일){nl} - 마법 부여 스크롤(14일){nl} - 은빛 모루(14일){nl} - 다이아몬드 모루(14일){nl} - 이벤트용 뉴트 방어구{nl} - 315제 이벤트용 무기				
+ITEM_20171120_015895	Use to obtain one of the following random items.{nl}- Believer's Potion{nl}- Talt{nl}- Fortune Cookie{nl}- Attribute Punkte: 500{nl}- Attribute Punkte: 1,000{nl}- Advanced Gem Abrasive: 14 Days{nl}- Instance Multiply Token (14 Days){nl}- Enchant Scroll (14 Days){nl}- Silver Anvil (14 Days){nl}- Event Armor{nl}- Lv 315 Event Weapon	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 수행자의 포션{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 인스턴스 던전 배수 토큰(14일){nl} - 마법 부여 스크롤(14일){nl} - 은빛 모루(14일){nl} - 다이아몬드 모루(14일){nl} - 이벤트용 뉴트 방어구{nl} - 315제 이벤트용 무기				
 ITEM_20171120_015896	Title - First-rate Adventurer	칭호 - 초일류 모험가				
 ITEM_20171120_015897	Title given to players who achieved no. 1 in the Adventure Journal ranking. Right-click to use.	모험일지 랭킹 1위를 달성한 유저에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ITEM_20171127_015898	Practonium Box	프락토늄 상자				
@@ -16829,7 +16829,7 @@ ITEM_20171128_016828	This Matador costume is a symbol of prestige among the clas
 ITEM_20171128_016829	Tuned Fireworks	조율된 불꽃				
 ITEM_20171128_016830	[Bullet Marker Special Costume]	[불릿 마커 스페셜 코스튬]				
 ITEM_20171128_016831	This costume mimics the style of the first clothes Flint Winterwood received when he became recognized as Bullet Marker Master. It is unclear who offered him the garments.	플린트 윈터우드가 정식으로 불릿 마커 마스터로 인정받았을 때 처음으로 받은 선물의 모양의 본 딴 장식입니다. 그는 이 선물을 준 사람이 누구인지 밝히지는 않았지만, 자신이 창시한 직종이 정식 인가를 얻은 기념으로 삼기에는 충분하다고 여깁니다.				
-ITEM_20171128_016832	Prophecy Wings	예언의 날개				
+ITEM_20171128_016832	Prophecy Flügel	예언의 날개				
 ITEM_20171128_016833	[Zealot Special Costume]	[질럿 스페셜 코스튬]				
 ITEM_20171128_016834	Formerly a symbol of Laima's searchers, it soon became the costume of choice for all Zealots. It lacks representations of Jurate, in consideration of possible conflicts with the goddess' loremaster orders.	질럿 교단내 라이마 수색파의 상징이었으나 이후 내부 파벌에 관계 없이 원하는 질럿은 착용합니다. 유라테 회복파에서는 질럿 교단 내부가 아닌 외부의 유라테의 전승자 교단과 마찰을 고려해 유라테의 상징을 잘 사용하지 않습니다. 				
 ITEM_20171128_016835	Rank 10 Card	10랭크 카드				
@@ -16841,7 +16841,7 @@ ITEM_20171128_016840	Use this to allow one extra entry in Challenge Mode.	챌린
 ITEM_20171128_016841	Challenge Mode One Entry Voucher (1 Day)	챌린지 모드 1회 입장권 (1일)				
 ITEM_20171128_016842	Challenge Mode One Entry Voucher (14 Days)	챌린지 모드 1회 입장권 (14일)				
 ITEM_20171128_016843		오류 보상용 모험일지 랭킹 보상 상자 (1일)				
-ITEM_20171128_016844	Right-click to open and receive the following items:{nl} - Companion Voucher x12{nl} - x4 EXP Tome x3 {nl} - Attribute Points: 1,000 x2 {nl} - Instanced Dungeon Multiply Token x3{nl} - 500,000 Silver	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 12장{nl} - x4 경험의 서 3개 {nl} - 특성 포인트 1,000(모험일지 보상) 2개 {nl} - 인스턴스 던전 배수 토큰 3개 {nl} - 실버 500,000 				
+ITEM_20171128_016844	Right-click to open and receive the following items:{nl} - Companion Voucher x12{nl} - x4 EXP Tome x3 {nl} - Attribute Punkte: 1,000 x2 {nl} - Instanced Dungeon Multiply Token x3{nl} - 500,000 Silver	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 12장{nl} - x4 경험의 서 3개 {nl} - 특성 포인트 1,000(모험일지 보상) 2개 {nl} - 인스턴스 던전 배수 토큰 3개 {nl} - 실버 500,000 				
 ITEM_20171128_016845		할로윈 깜짝 큐브				
 ITEM_20171128_016846		할로윈 깜짝 큐브는 다음 목록중 1개를 무작위로 얻을 수 있습니다. {nl}획득 가능한 아이템 목록{nl} - 야광 해골 코스튬{nl} - 잭 오 랜턴 헬멧 코스튬 {nl} - 할로윈 팝업북 {nl} -  호박 등불				
 ITEM_20171128_016847	Contains an unknown object. Right-click to use.	사용하면 무언가 알 수 없는 것을 획득할 수 있을 것 같습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}12월 7일 점검 시, 일괄 삭제됩니다.	ITEM_20151022_007473	It seems to contain something unknown. {nl}Right-click to use.	사용하면 무언가 알 수 없는 것을 획득할 수 있을 것 같습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	
@@ -17194,7 +17194,7 @@ ITEM_20171207_017193	Magical Snowman Wand	눈사람 요술봉
 ITEM_20171207_017194	Will waving this Magical Snowman Wand create a Christmas miracle?	눈사람 요술봉을 휘두르면 크리스마스의 기적이 일어날까요?				
 ITEM_20171207_017195	Christmas Handbell	크리스마스 핸드벨				
 ITEM_20171207_017196	Jingle bells, jingle bells, jingle all the way...!	아름다운 크리스마스 핸드벨 소리를 들어보세요!				
-ITEM_20171207_017197	Ice Crystal Wings	얼음 결정 날개				
+ITEM_20171207_017197	Ice Crystal Flügel	얼음 결정 날개				
 ITEM_20171207_017198	A pair of wings made out of delicate ice crystals. Unfortunately they don't let you fly.	얼음 결정을 본따 만든 날개입니다. 단, 실제 비행은 불가능합니다.				
 ITEM_20171207_017199	Looting Chance Potion	루팅 찬스 증가 포션				
 ITEM_20171207_017200	Increases Looting Chance by +100 for 30 minutes. Right-click to use. Cooldown 30 seconds.	30분 동안 루팅찬스를 +100 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 30초.				
@@ -17243,7 +17243,7 @@ ITEM_20171211_017242	Welcome back!{nl}Use this gift to enter the Returning Savio
 ITEM_20171211_017243	New Rank Booster - Weapon Selection Box	New Rank Booster - 무기 선택 상자				
 ITEM_20171211_017244	Use to select a Lv 350 unidentified equipment item.	사용 시 원하는 350레벨 미감정 장비를 선택할 수 있습니다.				
 ITEM_20171211_017245	New Rank Booster - Armor Selection Box	New Rank Booster - 방어구 선택 상자				
-ITEM_20171218_017246	Attribute Points: 500 (14 Days)	특성 포인트 500 (14일)				
+ITEM_20171218_017246	Attribute Punkte: 500 (14 Days)	특성 포인트 500 (14일)				
 ITEM_20171222_017247	Lv 10 Enhancement Card	Lv10 강화용 카드				
 ITEM_20171222_017248	A card used to enhance a card. Increases a card's EXP by 5,400.	카드를 강화할 때 사용하는 강화용 카드입니다. 카드의 경험치를 5400 만큼 상승시킵니다.				
 ITEM_20171222_017249	New Year's Soup (3 Days)	떡국(3일)				
@@ -17264,11 +17264,11 @@ ITEM_20180108_017263	[Effect Costume]	[이펙트 코스튬]
 ITEM_20180108_017264	Gives the wearer's every step a chilly ice effect. 	착용자의 발걸음 마다 차가운 얼음 이펙트를 만들어냅니다. 				
 ITEM_20180108_017265	Adventure Journal Rank 1-10 Box (1 Day)	모험일지 1위~10위 랭킹 보상 상자 (1일)				
 ITEM_20180108_017266	Adventure Journal Rank 11-100 Box (1 Day)	모험일지 11위~100위 랭킹 보상 상자 (1일)				
-ITEM_20180108_017267	Right-click to open and receive the following items:{nl} - Companion Voucher x6{nl} - x4 EXP Tome x3 {nl} - Attribute Points: 1,000 x1 {nl} - Instanced Dungeon Multiply Token x3{nl} - 300,000 Silver 	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 6장{nl} - x4 경험의 서 3개 {nl} - 특성 포인트 1,000(모험일지 보상) 1개 {nl} - 인스턴스 던전 배수 토큰 3개 {nl} - 실버 300,000 				
+ITEM_20180108_017267	Right-click to open and receive the following items:{nl} - Companion Voucher x6{nl} - x4 EXP Tome x3 {nl} - Attribute Punkte: 1,000 x1 {nl} - Instanced Dungeon Multiply Token x3{nl} - 300,000 Silver 	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 6장{nl} - x4 경험의 서 3개 {nl} - 특성 포인트 1,000(모험일지 보상) 1개 {nl} - 인스턴스 던전 배수 토큰 3개 {nl} - 실버 300,000 				
 ITEM_20180108_017268	Adventure Journal Rank 101-200 Box (1 Day)	모험일지 101위~200위 랭킹 보상 상자 (1일)				
-ITEM_20180108_017269	Right-click to open and receive the following items:{nl} - Companion Voucher x5{nl} - x4 EXP Tome x2{nl} - Attribute Points: 500 x1 {nl} - Instanced Dungeon Multiply Token x2{nl} - 200,000 Silver 	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 5장{nl} - x4 경험의 서 2개 {nl} - 특성 포인트 500(모험일지 보상) 1개 {nl} - 인스턴스 던전 배수 토큰 2개 {nl} - 실버 200,000 				
+ITEM_20180108_017269	Right-click to open and receive the following items:{nl} - Companion Voucher x5{nl} - x4 EXP Tome x2{nl} - Attribute Punkte: 500 x1 {nl} - Instanced Dungeon Multiply Token x2{nl} - 200,000 Silver 	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 5장{nl} - x4 경험의 서 2개 {nl} - 특성 포인트 500(모험일지 보상) 1개 {nl} - 인스턴스 던전 배수 토큰 2개 {nl} - 실버 200,000 				
 ITEM_20180108_017270	Adventure Journal Rank 201-300 Box (1 Day)	모험일지 201위~300위 랭킹 보상 상자 (1일)				
-ITEM_20180108_017271	Right-click to open and receive the following items:{nl} - Companion Voucher x4{nl} - x4 EXP Tome x1{nl} - Attribute Points: 100 x3{nl} - 100,000 Silver 	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 4장{nl} - x4 경험의 서 1개 {nl} - 특성 포인트 100(모험일지 보상) 3개 {nl} - 실버 100,000 				
+ITEM_20180108_017271	Right-click to open and receive the following items:{nl} - Companion Voucher x4{nl} - x4 EXP Tome x1{nl} - Attribute Punkte: 100 x3{nl} - 100,000 Silver 	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다.{nl} - 컴패니언 교환권 4장{nl} - x4 경험의 서 1개 {nl} - 특성 포인트 100(모험일지 보상) 3개 {nl} - 실버 100,000 				
 ITEM_20180108_017272	Adventure Journal Rank Box (1 Day)	모험일지 랭킹 보상 상자 (1일)				
 ITEM_20180115_017273	Is there anything more magical than a unicorn horn? We think not. Just be careful not to poke anyone's eye out.{nl} Can be exchanged for medals at the Exchange Shop.	거대한 유니콘 뿔입니다. 얼음처럼 뾰족해서 찔리지 않게 조심해야 됩니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	ITEM_20180108_017259	Is there anything more magical than a unicorn horn? We think not. Just be careful not to poke anyone's eye out.	거대한 유니콘 뿔입니다. 얼음처럼 뾰족해서 찔리지 않게 조심해야 됩니다.	
 ITEM_20180115_017274	This huge pair of glasses is guaranteed to make you look cool. Freezing, even.{nl} Can be exchanged for medals at the Exchange Shop.	가면 대신 사용해도 문제없을 정도로 큰 안경입니다. 차가운 이미지 뒤에 숨고 싶다면 한 번쯤 착용해보세요{nl} 리사이클샵에서 메달로 교환 가능합니다.	ITEM_20180108_017261	This huge pair of glasses is guaranteed to make you look cool. Freezing, even.	가면 대신 사용해도 문제없을 정도로 큰 안경입니다. 차가운 이미지 뒤에 숨고 싶다면 한 번쯤 착용해보세요	
@@ -17318,7 +17318,7 @@ ITEM_20180129_017317	Regard Horn Staff [Untradable]	리가드 혼 스태프 [거
 ITEM_20180129_017318	Heart of Glory [Untradable]	하트 오브 글로리 [거래 불가]				
 ITEM_20180129_017319	Skull Breaker [Untradable]	스컬 브레이커 [거래 불가]				
 ITEM_20180129_017320	Emengard Dagger [Untradable]	에멘가드 대거 [거래 불가]				
-ITEM_20180129_017321	Wingshard Spear [Untradable]	윙샤드 스피어 [거래 불가]				
+ITEM_20180129_017321	Flügelhard Spear [Untradable]	윙샤드 스피어 [거래 불가]				
 ITEM_20180129_017322	Regard Horn Pike [Untradable]	리가드 혼 파이크 [거래 불가]				
 ITEM_20180129_017323	Black Horn [Untradable]	블랙 혼 [거래 불가]				
 ITEM_20180129_017324	Regard Horn Crossbow [Untradable]	리가드 혼 크로스보우 [거래 불가]				
@@ -17355,7 +17355,7 @@ ITEM_20180202_017354	Golden Pup Doll	황금 멍멍 인형
 ITEM_20180202_017355	The Golden Pup is all about good vibes and good luck.	황금색 개 인형입니다.				
 ITEM_20180202_017356	Golden Pup Paw Print	황금 멍멍 발바닥				
 ITEM_20180202_017357	Represent your pup pride with this golden paw print accessory.	황금색 개 발바닥입니다.				
-ITEM_20180202_017358	Giltine's Wings	길티네 날개				
+ITEM_20180202_017358	Giltine's Flügel	길티네 날개				
 ITEM_20180202_017359	A pair of wings created by to the image of Giltine's. Unfortunately, they don't let you fly.	누구인지 알 수 없지만 길티네 날개를 보았다고 주장하는 자가 만든 날개입니다. 단, 실제 비행은 불가능합니다.				
 ITEM_20180202_017360	Golden Pup Lucky Pouch	황금개 복주머니				
 ITEM_20180202_017361	Use to receive one of the following random items. {nl} - Golden Pup Lucky Pouch{nl} - 24K Gold Bar Pup Helmet {nl} - Golden Pup Armband	황금개 복주머니는 다음 목록중 1개를 무작위로 얻을 수 있습니다. {nl}획득 가능한 아이템 목록{nl} - 황금개 복주머니{nl} - 24K 금괴 멍멍 헤드 {nl} - 황금 멍멍 암밴드				
@@ -17519,9 +17519,9 @@ ITEM_20180208_017518	In some places, sticky taffy is offered to students as a wi
 ITEM_20180208_017519	Revitalize your body and mind after a stressful exam period. Recovers 600 HP and 200 SP every 10 seconds for 30 minutes. Right-click to use.	수능으로 지친 몸과 마음을 달래주는 비타민입니다. 사용 시 30분간 10초마다 HP 600, SP 200 회복의 효과를 얻습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.(12월 14일 일괄 삭제됩니다.)	ITEM_20161214_013213	Revitalize your body and mind after a stressful exam period. Recovers 600 HP and 200 SP every 10 seconds for 30 minutes. Right-click to use.	수능으로 지친 몸과 마음을 달래주는 비타민입니다. 사용 시 30분간 10초마다 HP 600, SP 200 회복의 효과를 얻습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.(12월 8일 일괄 삭제됩니다.)	
 ITEM_20180208_017520	A sweet treat to stimulate brain activity. Increases movement speed by 2 for 30 minutes. Right-click to use.	달달한 맛으로, 뇌의 회전을 도와주는 초콜릿입니다. 사용 시, 30분간 이동속도 +2 의 효과가 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.(12월 14일 일괄 삭제됩니다.)	ITEM_20161214_013215	A sweet treat to stimulate brain activity. Increases movement speed by 2 for 30 minutes. Right-click to use.	달달한 맛으로, 뇌의 회전을 도와주는 초콜릿입니다. 사용 시, 30분간 이동속도 +2 의 효과가 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.(12월 8일 일괄 삭제됩니다.)	
 ITEM_20180208_017521	Baby Pig Companion Voucher	아기돼지 컴패니언 교환권	ITEM_20170912_015713	Companion Voucher	컴패니언 교환권	
-ITEM_20180208_017522	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Baby Pig Companion at the Wings of Vaivora. 	모험일지 보상으로 얻은 아기돼지 컴패니언 교환권, 바이보라 날개에게서 교환권 20개로 아기돼지 컴패니언을 교환할 수 있습니다. 	ITEM_20170912_015715	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Companion at the Wings of Vaivora.	모험일지 보상으로 얻은 컴패니언 교환권, 바이보라 날개에게서 교환 20개로 컴패니언을 교환할 수 있습니다. 	
+ITEM_20180208_017522	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Baby Pig Companion at the Flügel of Vaivora. 	모험일지 보상으로 얻은 아기돼지 컴패니언 교환권, 바이보라 날개에게서 교환권 20개로 아기돼지 컴패니언을 교환할 수 있습니다. 	ITEM_20170912_015715	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Companion at the Flügel of Vaivora.	모험일지 보상으로 얻은 컴패니언 교환권, 바이보라 날개에게서 교환 20개로 컴패니언을 교환할 수 있습니다. 	
 ITEM_20180208_017523	Armadillo Companion Voucher	아르마딜로 컴패니언 교환권				
-ITEM_20180208_017524	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for an Armadillo Companion at the Wings of Vaivora. 	모험일지 보상으로 얻은 아르마딜로 컴패니언 교환권, 바이보라 날개에게서 교환권 20개로 아르마딜로 컴패니언을 교환할 수 있습니다. 				
+ITEM_20180208_017524	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for an Armadillo Companion at the Flügel of Vaivora. 	모험일지 보상으로 얻은 아르마딜로 컴패니언 교환권, 바이보라 날개에게서 교환권 20개로 아르마딜로 컴패니언을 교환할 수 있습니다. 				
 ITEM_20180208_017525	Amulet	호신부				
 ITEM_20180208_017526	A relic containing the spirits of the Nak Muay Master's mentors. Use to check your distance from the Nak Muay Master.	낙무아이 마스터의 스승 영혼이 깃든 물품. 사용 시 스승 영혼이 낙무아이 마스터와의 거리가 얼마나 되는지 알려줍니다.				
 ITEM_20180208_017527	Red Meduja Essence	붉은 미듀쟈의 정수				

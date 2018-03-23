@@ -2457,7 +2457,7 @@ UI_20161121_002456	Haupt erhältliche Ausrüstung
 UI_20161121_002457	{@st66b}Auto Match{nl}Re-Enter
 UI_20161121_002458	Entering the place previously matched.
 UI_20161121_002459	Auto Match
-UI_20161121_002460	Haupt Monster
+UI_20161121_002460	Hauptmonster
 UI_20161121_002461	Warten auf Teilnahme von Partymitgliedern.{nl}Eine Nachricht wird an Spieler mit entsprechenden Levelfortschritt gesendet.
 UI_20161121_002462	Auto Match{nl}mit Party
 UI_20161121_002463	Auto Match mit aktueller Gruppe
@@ -2601,10 +2601,10 @@ UI_20170330_002600	{s18}Gegenstände mit Ablaufdatum
 UI_20170330_002601	Verfallsdatum läuft bald ab. Schließen?
 UI_20170330_002602	{@st43}{s20}Abgelaufene Gegenstände{/}
 UI_20170330_002603	{s17}Alle oben genannten Gegenstände löschen?
-UI_20170330_002604	Main Drop Items
+UI_20170330_002604	Primäre Item Drops
 UI_20170330_002605	{@st41b}Kampf 2 bis 4 Spieler{/}
 UI_20170330_002606	{@st41b}Kampf 2 bis 4 Spieler
-UI_20170330_002607	{@st59}Delete Expired Items{/}
+UI_20170330_002607	{@st59}Lösche abgelaufen Items{/}
 UI_20170330_002608	{@st45tw2}Gegenstände gekauft{/}
 UI_20170330_002609	{@st45tw2}Gegenstände verkauft{/}
 UI_20170330_002610	{@st45tw2}Menge{/}
@@ -2661,32 +2661,32 @@ UI_20170726_002660	{@st66b}Color Settings	{@st66b}색 설정
 UI_20170726_002661	{@st66d}If at least one player is not a Token user,{nl}after the trade the item will become untradable.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	UI_20160811_002273	{@st66d}The item properties will be changed{nl}as both sides are not using Tokens.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용하지 않아{nl}아이템 속성이 변경 됩니다.{/}	
 UI_20170726_002662	{@st42b}Start{/}	{@st42b}시작{/}				
 UI_20170726_002663	To start fishing, select your bait.	낚시를 시작합니다. 사용할 미끼를 올려주세요.				
-UI_20170726_002664	Place your bait here.	미끼를 올려주세요				
-UI_20170726_002665	Close Tackle Box.	살림통을 닫습니다.				
-UI_20170726_002666	{@st43}Tackle Box{/}	{@st43}살림통{/}				
-UI_20170726_002667	{@sti1}Items{/}	{@sti1}아이템{/}				
-UI_20170726_002668	{@st42b}Receive Items{/}	{@st42b}아이템 수령{/}				
-UI_20170726_002669	{@st42b}Stop Fishing{/}	{@st42b}낚시 종료{/}				
-UI_20170726_002670	{@sti1}Fishing Cycles{/}	{@sti1}낚시 횟수{/}				
+UI_20170726_002664	Platziere deinen Köder hier.	미끼를 올려주세요				
+UI_20170726_002665	Schließe Angelkasten.	살림통을 닫습니다.				
+UI_20170726_002666	{@st43}Angelkasten{/}	{@st43}살림통{/}				
+UI_20170726_002667	{@sti1}Gegenstände{/}	{@sti1}아이템{/}				
+UI_20170726_002668	{@st42b}Gegenstände erhalten{/}	{@st42b}아이템 수령{/}				
+UI_20170726_002669	{@st42b}Fischen stoppen{/}	{@st42b}낚시 종료{/}				
+UI_20170726_002670	{@sti1}Angelzyklen{/}	{@sti1}낚시 횟수{/}				
 UI_20170726_002671	{@st43}Fishing Ranking{/}	{@st43}낚시 랭킹{/}				
 UI_20170726_002672	{@st59}Close Fishing Ranking.{/}	{@st59}낚시 랭킹 창을 닫습니다.{/}				
-UI_20170726_002673	Points	낚시 포인트				
+UI_20170726_002673	Punkte	낚시 포인트				
 UI_20170726_002674	You can move to your desired location.	거점 이동을 할 수 있습니다.				
 UI_20170726_002675	{nl}Daily entries are counted differently for each kind of dungeon. 	{nl}각 던전은 카테고리별로 입장 횟수가 카운트 됩니다. 				
-UI_20170726_002676	{@st59}Close Instanced Dungeons.{/}	{@st59}인스턴스 던전 창을 닫습니다{/}				
-UI_20170726_002677	{@st43}Instanced Dungeons{/}	{@st43}인스턴스 던전{/}				
+UI_20170726_002676	{@st59}Schließe Instanziierte Dungeons.{/}	{@st59}인스턴스 던전 창을 닫습니다{/}				
+UI_20170726_002677	{@st43}Instanziierte Dungeons{/}	{@st43}인스턴스 던전{/}				
 UI_20170726_002678	Name	던전 이름				
 UI_20170726_002679	One additional daily entry granted to Token users.	토큰 혜택으로 1회 추가 입장 가능합니다.				
-UI_20170726_002680	Entry Level	입장 레벨				
-UI_20170726_002681	Difficulty	난이도				
+UI_20170726_002680	Eintritt Level	입장 레벨				
+UI_20170726_002681	Schwierigkeit	난이도				
 UI_20170726_002682	Order	별				
-UI_20170726_002683	{@st66b}By level - low to high{/}	{@st66b}레벨 오름차순{/}				
-UI_20170726_002684	{@st66b}By level - high to low{/}	{@st66b}레벨 내림차순{/}				
+UI_20170726_002683	{@st66b}Nach Level - niedrig zu hoch{/}	{@st66b}레벨 오름차순{/}				
+UI_20170726_002684	{@st66b}Nach Level - hoch zu niedrig{/}	{@st66b}레벨 내림차순{/}				
 UI_20170726_002685	{@st66b}Daily entries reset every day at %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}				
 UI_20170726_002686	{@st43}{s22}See Location{/}	{@st43}{s22}던전 위치 보기{/}				
-UI_20170726_002687	{@st59}Close Location.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}				
+UI_20170726_002687	{@st59}Standort schließen.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}				
 UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}				
-UI_20170726_002689	{@st66b}Click a banner to go to the event announcement.{/}	{@st66b}배너를 클릭하면 해당 이벤트 페이지로 이동합니다{/}				
+UI_20170726_002689	{@st66b}Klicke auf einen Banner, um zur Ankündigung der Veranstaltung zu gelangen.{/}	{@st66b}배너를 클릭하면 해당 이벤트 페이지로 이동합니다{/}				
 UI_20170726_002690	{@st59}Close Events.{/}	{@st59}이벤트 안내 UI를 닫습니다{/}				
 UI_20170726_002691	{@st59}Exchange Equipment.{/}	{@st59}해당 번호로 장비를 교환합니다{/}				
 UI_20170726_002692	Open Event Banner	이벤트 배너를 엽니다				
@@ -2695,43 +2695,43 @@ UI_20170726_002694	{@st42}Necronomicon Fragments{/}	{@st42}네크로노미콘 �
 UI_20170726_002695	{@st66b}Show Amount of Poison{/}	{@st66b}메인 화면에 독의 양 표시하기{/}				
 UI_20170726_002696	{s20}Poison	{s20}독의 양				
 UI_20170726_002697	{@st42}Poison in Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}				
-UI_20170726_002698	{@st59}Tackle Box{/}	{@st59}낚시 살림통{/}				
+UI_20170726_002698	{@st59}Angelkasten{/}	{@st59}낚시 살림통{/}				
 UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}				
 UI_20170726_002700	{@st66b}See basic character info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
 UI_20170726_002701	{@st66b}Show HP and SP under character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
-UI_20170726_002702	{@st66b}Use multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}				
+UI_20170726_002702	{@st66b}Verwende Multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}				
 UI_20170726_002703	{@st59}Applies multithread update (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}				
 UI_20170726_002704	{@st66d}{s18}TP Cubes{/}	{@st66d}{s18}유료 확률형 아이템{/}				
 UI_20170726_002705	{@st43d}{s18}See our official website for the lists of items contained in TP Cubes.{/}	{@st43d}{s18}- 홈페이지 하단의 확률형 아이템 목록 메뉴에서 구성품과 확률을 확인 할 수 있습니다.{/}				
-UI_20170726_002706	{@st41}Select and confirm.{/}	{@st41}선택 후 확인을 눌러주세요{/}	UI_20170615_002657	{@st41}Select a recipe and confirm{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}	
-UI_20170726_002707	{@st59}Help{/}	{@st59}도움말{/}				
+UI_20170726_002706	{@st41}Auswählen und bestätigen.{/}	{@st41}선택 후 확인을 눌러주세요{/}	UI_20170615_002657	{@st41}Select a recipe and confirm{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}	
+UI_20170726_002707	{@st59}Hilfe{/}	{@st59}도움말{/}				
 UI_20170726_002708	Days/Hours/Minutes	일시분				
 UI_20170726_002709	{@st59}New{/}	{@st59}신규{/}				
 UI_20170726_002710	{@st59}Closing Soon{/}	{@st59}종료 임박{/}				
 UI_20170726_002711	{@st59}Exchange Period{/}	{@st59}교환 기간{/}				
 UI_20170726_002712	{@st66b}Receive Rewards	{@st66b}보상 받기				
-UI_20170901_002713	{@st59}Wings{/}	{@st59}날개{/}				
-UI_20170912_002714	{@st43b}Adventure Journal	{@st43b}모험 일지				
-UI_20170912_002715	{@st59}Adventure Journal Ranking	{@st59}모험일지 랭킹{/}				
-UI_20170912_002716	{@st59}Team Battle League Ranking{/}	{@st59}팀배틀리그 랭킹{/}				
-UI_20170912_002717	{@st59}Uphill Defense Ranking{/}	{@st59}업힐디펜스 랭킹{/}				
+UI_20170901_002713	{@st59}Flügel{/}	{@st59}날개{/}				
+UI_20170912_002714	{@st43b}Abenteuer Tagebuch	{@st43b}모험 일지				
+UI_20170912_002715	{@st59}Abenteuer Tagebuch Ranking	{@st59}모험일지 랭킹{/}				
+UI_20170912_002716	{@st59}Team Battle Liga Ranking{/}	{@st59}팀배틀리그 랭킹{/}				
+UI_20170912_002717	{@st59}Bergauf Verteidigung Ranking{/}	{@st59}업힐디펜스 랭킹{/}				
 UI_20170912_002718	{@st59}Main{/}	{@st59}메인{/}				
-UI_20170912_002719	{@st59}Monsters{/}	{@st59}몬스터{/}				
+UI_20170912_002719	{@st59}Monster{/}	{@st59}몬스터{/}				
 UI_20170912_002720	{@st59}Items{/}	{@st59}아이템{/}				
 UI_20170912_002721	{@st59}Crafting{/}	{@st59}제작{/}				
-UI_20170912_002722	{@st59}Life{/}	{@st59}생활{/}				
+UI_20170912_002722	{@st59}Leben{/}	{@st59}생활{/}				
 UI_20170912_002723	{@st59}Dungeons{/}	{@st59}던전{/}				
-UI_20170912_002724	{@st59}Growth{/}	{@st59}성장{/}				
+UI_20170912_002724	{@st59}Wachstum{/}	{@st59}성장{/}				
 UI_20170912_002725	{@st59}Exploration{/}	{@st59}탐험{/}				
 UI_20170912_002726	Team
 UI_20170912_002727	Charakter
-UI_20170912_002728	{img test_cooltime 24 24}Points reset on the 1st day of every month.{/}	{img test_cooltime 24 24} 매월 1일마다 점수가 초기화됩니다.{/}				
+UI_20170912_002728	{img test_cooltime 24 24}Punkte reset on the 1st day of every month.{/}	{img test_cooltime 24 24} 매월 1일마다 점수가 초기화됩니다.{/}				
 UI_20170912_002729	{@st41b}Top Ranks	{@st41b}상위 랭킹				
-UI_20170912_002730	{@st41b}My Nearest Ranks	{@st41b}내 주변 랭킹				
-UI_20170912_002731	{@st43b}Total %s Points	{@st43b}총 획득 점수 %s점				
+UI_20170912_002730	{@st41b}Meine nächsten Ränge	{@st41b}내 주변 랭킹				
+UI_20170912_002731	{@st43b}Total %s Punkte	{@st43b}총 획득 점수 %s점				
 UI_20170912_002732	{@st66b}More Monsters	{@st66b}몬스터 더 보기				
-UI_20170912_002733	{@st66d_y}%s Points / {/}{@st42}%s Points{/}	{@st66d_y}%s점 / {/}{@st42}%s점{/}				
-UI_20170912_002734	Defeated	처치횟수				
+UI_20170912_002733	{@st66d_y}%s Punkte / {/}{@st42}%s Punkte{/}	{@st66d_y}%s점 / {/}{@st42}%s점{/}				
+UI_20170912_002734	Besiegt	처치횟수				
 UI_20170912_002735	{@st41b}Area	{@st41b}서식지역				
 UI_20170912_002736	Descpription	설명문				
 UI_20170912_002737	Subcategory	하위 카테고리				
@@ -2743,27 +2743,27 @@ UI_20170912_002742	Name A-Z	이름 올림차 순
 UI_20170912_002743	Name Z-A	이름 내림차 순				
 UI_20170912_002744	%s Fishes Caught	물고기를 낚은 횟수  %s번				
 UI_20170912_002745	Clears
-UI_20170912_002746	Location
+UI_20170912_002746	Standort
 UI_20170912_002747	%s
-UI_20170912_002748	Class Points %s	클래스 점수  %s점				
+UI_20170912_002748	Class Punkte %s	클래스 점수  %s점				
 UI_20170912_002749	Team Level %s	팀 레벨 %s				
-UI_20170912_002750	Exploration	탐험				
+UI_20170912_002750	Erkundung	탐험				
 UI_20170912_002751	%s % Explored	총 탐사율 %s %				
 UI_20170912_002752	- Recommended level	- 권장레벨				
-UI_20170912_002753	- Exploration	- 탐색율				
+UI_20170912_002753	- Erkundung	- 탐색율				
 UI_20170912_002754	Type
-UI_20170912_002755	Acquisition Points %s	획득 점수 %s 점				
-UI_20170912_002756	Acquisition Points %s	획득점수 %s점				
+UI_20170912_002755	Acquisition Punkte %s	획득 점수 %s 점				
+UI_20170912_002756	Acquisition Punkte %s	획득점수 %s점				
 UI_20170912_002757	Status
 UI_20170912_002758	SPR +6
-UI_20170912_002759	Adventure Journal Ranking	모험일지 랭킹				
+UI_20170912_002759	Abenteuer Tagebuch Ranking	모험일지 랭킹				
 UI_20170912_002760	{@st66d_y}%s{/} Battles {@st66d_y}%s{/} Wins {@st66d_y}%s{/} Defeats	{@st66d_y}%s{/} 전 {@st66d_y}%s{/} 승 {@st66d_y}%s{/} 패				
-UI_20170912_002761	%s Points	%s 점				
+UI_20170912_002761	%s Punkte	%s 점				
 UI_20170912_002762	{@st59}Participation{/}	{@st59}참여{/}				
-UI_20170912_002763	Uphill Defense Ranking	업힐디펜스 랭킹				
-UI_20170912_002764	Total Points	누적 포인트				
+UI_20170912_002763	Bergauf Verteidigung Ranking	업힐디펜스 랭킹				
+UI_20170912_002764	Total Punkte	누적 포인트				
 UI_20170912_002765	{@st66b}Point Shop{/}	{@st66b}포인트샵{/}				
-UI_20170912_002766	{@st66b}Map Exploration	{@st66b}맵탐사				
+UI_20170912_002766	{@st66b}Map Erkundung	{@st66b}맵탐사				
 UI_20170912_002767	{@st66b}Quests/Achievements	{@st66b}퀘스트/업적				
 UI_20170912_002768	{@st66b}Collection	{@st66b}콜렉션				
 UI_20170912_002769	{@st66b}Personal Shops	{@st66b}개인 상점				
@@ -2773,16 +2773,16 @@ UI_20170912_002772	{@st59}Wizard{/}	{@st59}위자드 계열{/}
 UI_20170912_002773	{@st59}Archer{/}	{@st59}아처 계열{/}				
 UI_20170912_002774	{@st59}Cleric{/}	{@st59}클레릭 계열{/}				
 UI_20170912_002775	{@st66b}Spectate{/}	{@st66b}관전하기{/}				
-UI_20170912_002776	Area: %s	지역:%s				
-UI_20170912_002777	Area	지역 이름				
+UI_20170912_002776	Bereich: %s	지역:%s				
+UI_20170912_002777	Bereich	지역 이름				
 UI_20170912_002778	{@st42}{s18}My Character List	{@st42}{s18}완료한 내 캐릭터 목록				
 UI_20170912_002779	[%s] Reward List	[%s] 보상리스트				
-UI_20170912_002780	ⓘ Collect your rewards at the Wings of Vaivora.	ⓘ 바이보라 날개에게서 보상 아이템을 획득하실 수 있습니다.				
+UI_20170912_002780	ⓘ Collect your rewards at the Flügel of Vaivora.	ⓘ 바이보라 날개에게서 보상 아이템을 획득하실 수 있습니다.				
 UI_20170912_002781	Retrieve All	모두 받기				
 UI_20170912_002782	Territory Wars Alert	콜로니전 알람 메세지				
 UI_20170912_002783	Spot Last Seized By	현재 점령 중인 길드				
-UI_20170912_002784	Current Points	점령 포인트 현황				
-UI_20170912_002785	My Guild	내 길드				
+UI_20170912_002784	Current Punkte	점령 포인트 현황				
+UI_20170912_002785	Meine Gilde	내 길드				
 UI_20170912_002786	{@st66d}Return to a city in {s20}%s seconds.{/}	{@st66d}{s20}%s초 후에 도시로 귀환됩니다.{/}				
 UI_20170912_002787	{@st66d}Return to city{/}	{@st66d}도시 귀환{/}				
 UI_20170912_002788	{@st43}{s20}Protecting Guild{/}	{@st43}{s20}점령길드{/}				
@@ -2792,8 +2792,8 @@ UI_20170912_002791	{@st43}Exchange Artifact{/}	{@st43}유물 교환{/}
 UI_20170912_002792	{@st59}Close Exchange Artifact{/}	{@st59}유물 교환을 닫습니다{/}				
 UI_20170912_002793	{@st41b}Exchange	{@st41b}교환				
 UI_20170912_002794	To start fishing, select your bait.	낚시를 시작합니다. 사용할 미끼를 선택해주세요.	UI_20170726_002663	To start fishing, select your bait.	낚시를 시작합니다. 사용할 미끼를 올려주세요.	
-UI_20170912_002795	{@st43b}{s22}Stage %s Tackle Box{/}	{@st43b}{s22}%s 단계 살림통{/}				
-UI_20170912_002796	{@st66d_y}{s22}Stage %s Tackle Box{/}	{@st66d_y}{s22}%s 단계 살림통{/}				
+UI_20170912_002795	{@st43b}{s22}Stage %s Angelkasten{/}	{@st43b}{s22}%s 단계 살림통{/}				
+UI_20170912_002796	{@st66d_y}{s22}Stage %s Angelkasten{/}	{@st66d_y}{s22}%s 단계 살림통{/}				
 UI_20170912_002797	Max. %s slots{nl}Fished %s time(s)	최대 %s칸{nl}낚시 횟수 %s회				
 UI_20170912_002798	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP Upgrade{/}	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP 업그레이드{/}				
 UI_20170912_002799	{@st43}Image %s{/}	{@st43}이미지 %s{/}				
@@ -2802,10 +2802,10 @@ UI_20170912_002801	{@st59b}Enter image{nl}{@st59s}- Browse for an image and regi
 UI_20170912_002802	{@st66b}{s18}Open folder	{@st66b}{s18}폴더 열기				
 UI_20170912_002803	Open the folder containing the image.	이미지 등록된 폴더를 열어줍니다.				
 UI_20170912_002804	Update the list.	리스트를 갱신합니다.				
-UI_20170912_002805	{@st41b}{nl}Confirm	{@st41b}{nl}확인				
-UI_20170912_002806	{@st41b}{nl}Cancel	{@st41b}{nl}취소				
-UI_20170912_002807	{@st43}Guild	{@st43}길드				
-UI_20170912_002808	Guild Master	길드 마스터				
+UI_20170912_002805	{@st41b}{nl}Bestätigen	{@st41b}{nl}확인				
+UI_20170912_002806	{@st41b}{nl}Abbrechen	{@st41b}{nl}취소				
+UI_20170912_002807	{@st43}Gilde	{@st43}길드				
+UI_20170912_002808	Gildenleiter	길드 마스터				
 UI_20170912_002809	Founded	길드 개설일				
 UI_20170912_002810	Mitglieder
 UI_20170912_002811	%s/%s
@@ -2826,7 +2826,7 @@ UI_20170912_002825	{@st66d_y}{s18}Guild Level{/}	{@st66d_y}{s18}길드 레벨{/}
 UI_20170912_002826	{@st43b}{s18}Guild Tower(%s/1){/}	{@st43b}{s18}길드 타워 (%s/1){/}				
 UI_20170912_002827	Benefits	길드 혜택				
 UI_20170912_002828	Guild benefits updated to current Templar's Guild Tower level.	현재 템플러의 길드 타워 레벨로 길드 혜택을 갱신합니다.				
-UI_20170912_002829	Attribute Points: %s	특성 포인트: %s				
+UI_20170912_002829	Attribute Punkte: %s	특성 포인트: %s				
 UI_20170912_002830	ⓘ Guild upgrading is only available inside the Guild Tower.	ⓘ 길드 성장은 길드 타워에서만 가능합니다.				
 UI_20170912_002831	{@st43b}{s18}Guild Items{/}	{@st43b}{s18}길드 아이템{/}				
 UI_20170912_002832	{@st43b}{s18}Guild Funds{/}	{@st43b}{s18}길드 자금{/}				
@@ -2869,7 +2869,7 @@ UI_20170912_002868	Territory Wars	콜로니전
 UI_20170912_002869	{@st43}Send Items	{@st43}아이템 보내기				
 UI_20170912_002870	Sending
 UI_20170912_002871	Remaining
-UI_20170912_002872	Team Name {img %s 13 13}
+UI_20170912_002872	Teamname {img %s 13 13}
 UI_20170912_002873	Menge
 UI_20170912_002874	{@st41b}{nl}Send	{@st41b}{nl}보내기				
 UI_20170912_002875	{@st42b}{s20}Continue Shopping	{@st42b}{s20}연속 구매				
@@ -2882,22 +2882,22 @@ UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}	{@st43}{s22}레티샤 �
 UI_20170912_002882	Cube Name	큐브 이름이다				
 UI_20170912_002883	{nl}{img %s 40 40}{@st42b}{s20}Cubes  	{nl}{img %s 40 40}{@st42b}{s20}큐브 개봉  				
 UI_20170912_002884	ⓘ See the official website and item descriptions for more info.	ⓘ확률성 아이템의 확률은 공식 홈페이지에서 확인할 수 있습니다.				
-UI_20170912_002885	{@st43}Equip Monster Cards{/}	{@st43}몬스터 카드 장착{/}				
+UI_20170912_002885	{@st43}Monster Cards verwalten{/}	{@st43}몬스터 카드 장착{/}				
 UI_20170912_002886	{@st59}Close Equip Monster Cards{/}	{@st59}몬스터 카드 장착 UI를 닫습니다{/}				
 UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}	{@st59}팀내 유일한 템플러 직업을 가진 길드 마스터 캐릭터{/}	UI_20161221_002518	{@st59}No Guild Master Templar Character{/}	{@st59}템플러 직업을 가진 길드 마스터 캐릭터{/}	
 UI_20170912_002888	{@st66b}Respawn in nearby city (30 seconds){/}	{@st66b}가까운 도시에서 부활하기 (30초){/}				
-UI_20170912_002889	{@st66b}Show Party Name{/}	{@st66b}파티 이름 표시{/}				
+UI_20170912_002889	{@st66b}Zeige Party Name{/}	{@st66b}파티 이름 표시{/}				
 UI_20170912_002890	{@st66b}Recipe Material Obtained{/}	{@st66b}레시피 재료 획득 시 팝업{/}				
 UI_20170912_002891	{@st43}PvP Settings{/}	{@st43}PVP 설정{/}				
 UI_20170912_002892	{@st66b}Damage Font Scale (%s){/}	{@st66b}대미지 폰트 스케일 (%s){/}				
-UI_20170912_002893	{@st66b}Show Tile Range{/}	{@st66b}장판 범위 표시{/}				
+UI_20170912_002893	{@st66b}Zeige Tile Range{/}	{@st66b}장판 범위 표시{/}				
 UI_20170912_002894	{@st66b}Use Attack Effects	{@st66b}타격 효과 사용				
 UI_20170912_002895	{@st66b}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}	{@st66b}팀 이름은 모든 캐릭터를 대표하는 이름이며, 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{nl}팀 이름 변경에는 150TP가 소모되니 신중히 입력해 주세요.{/}	UI_20150717_001732	{@st41b}             A Team Name represents all your characters.{nl}                It's a common name used within the game.{nl}                  (Changing your Team Name will cost TP!){/}	{@st66b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}	
-UI_20170912_002896	{@st41}%s Points	{@st41}%s 점수				
+UI_20170912_002896	{@st41}%s Punkte	{@st41}%s 점수				
 UI_20170912_002897	Text	텍스트				
 UI_20170912_002898	Qtt.	몇				
 UI_20170912_002899	{@st66b}Rank %s	{@st66b}%s위				
-UI_20170912_002900	{@st66b}%s Points	{@st66b}%s점				
+UI_20170912_002900	{@st66b}%s Punkte	{@st66b}%s점				
 UI_20170912_002901	Maps	맵				
 UI_20170912_002902	Type	타입				
 UI_20170912_002903	Item Type	아이템 타입				

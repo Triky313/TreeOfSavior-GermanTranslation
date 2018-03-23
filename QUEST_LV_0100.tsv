@@ -703,7 +703,7 @@ QUEST_LV_0100_20150317_000702	Did Laima know that the world would turn out like 
 QUEST_LV_0100_20150317_000703	Es wäre nicht verwunderlich wenn die Welt morgen unter ginge.{nl}Nur will ich wissen warum die Göttinnen verschwanden…
 QUEST_LV_0100_20150317_000704	Drücke {Img F1 40 40} um weitere Statuspunkte zum verbessern der Werte zu verwenden.{nl}
 QUEST_LV_0100_20150317_000705	Drücke {Img F10 40 40} um das Hilfe-Menü für weitere Informationen zu öffnen.
-QUEST_LV_0100_20150317_000706	Press {Img F3 40 40} to open the Skill window.{nl}Use your Skill Points on the skills you want to enhance, then click on 'O' to confirm. {nl}
+QUEST_LV_0100_20150317_000706	Press {Img F3 40 40} to open the Skill window.{nl}Use your Skill Punkte on the skills you want to enhance, then click on 'O' to confirm. {nl}
 QUEST_LV_0100_20150317_000707	Find and offer worship to all the Göttin Statuen scattered around the world while you travel. You will surely be compensated for doing so. {nl}
 QUEST_LV_0100_20150317_000708	Drücke {Img F10 40 40} um das Hilfe-Fenster für weitere Informationen zu öffnen.
 QUEST_LV_0100_20150317_000709	The other troops are fighting at the Minenarbeiter Dorf and we are blocking the monsters from{nl}coming though here. I don't think the Vubbes are smart enough to make use of tactics... {nl}though I am concerned about that.
@@ -3520,7 +3520,7 @@ QUEST_LV_0100_20150317_003519	Mysterious Slate (3)
 QUEST_LV_0100_20150317_003520	I'll go and meet the Paladin Master
 QUEST_LV_0100_20150317_003521	Besiege Lepus blocking the way
 QUEST_LV_0100_20150317_003522	Notice/!/Besiege Lepus who is blocking the way!#8
-QUEST_LV_0100_20150317_003523	Notice/!/Defeated Lepus who was blocking the way!#8
+QUEST_LV_0100_20150317_003523	Notice/!/Besiegt Lepus who was blocking the way!#8
 QUEST_LV_0100_20150317_003524	Report of Moody
 QUEST_LV_0100_20150317_003525	I'll find the report and give it to offier Lutas
 QUEST_LV_0100_20150317_003526	Trophy (2)
@@ -3537,7 +3537,7 @@ QUEST_LV_0100_20150317_003536	Another enemy
 QUEST_LV_0100_20150317_003537	I'll go and check on it
 QUEST_LV_0100_20150317_003538	Fear from the Sky (1)
 QUEST_LV_0100_20150317_003539	I'll participate
-QUEST_LV_0100_20150317_003540	Using Status Points
+QUEST_LV_0100_20150317_003540	Using Status Punkte
 QUEST_LV_0100_20150317_003541	Try increasing a Status
 QUEST_LV_0100_20150317_003542	to check status #7
 QUEST_LV_0100_20150317_003543	The Road Back 
@@ -3984,7 +3984,7 @@ QUEST_LV_0100_20150317_003983	Return to Aras and tell him that the Vubbe Fighter
 QUEST_LV_0100_20150317_003984	Discuss with Aras about Minenarbeiter Dorf
 QUEST_LV_0100_20150317_003985	As soon as you thought you could finally get permission to enter the Minenarbeiter Dorf, the Vubbes attacked. Let's defeat them first. 
 QUEST_LV_0100_20150317_003986	Sprich mit Aras again
-QUEST_LV_0100_20150317_003987	Defeated the attacking Vubbes in a close fight. Return to Aras and get permission to enter the Minenarbeiter Dorf.
+QUEST_LV_0100_20150317_003987	Besiegt the attacking Vubbes in a close fight. Return to Aras and get permission to enter the Minenarbeiter Dorf.
 QUEST_LV_0100_20150317_003988	Besiege the monsters that are chasing the refugees
 QUEST_LV_0100_20150317_003989	Sprich mit Vaidotas
 QUEST_LV_0100_20150317_003990	You arrived at Crystal Mine 3F, where the villagers may be imprisoned. Sprich mit Vaidotas about finding the residents.
@@ -4088,7 +4088,7 @@ QUEST_LV_0100_20150317_004087	Sprich mit Soldier York
 QUEST_LV_0100_20150317_004088	Soldier York is breathing heavily. Sprich mit him.
 QUEST_LV_0100_20150317_004089	Besiege the Siaulamb Lagoon
 QUEST_LV_0100_20150317_004090	Soldier York is frustated at the monsters crossing the line. Go to the 2nd supplies warehouse and defeat the Siaulamb Lagoons.
-QUEST_LV_0100_20150317_004091	Defeated the Siaulamb Lagoons. Tell Soldier York about it.
+QUEST_LV_0100_20150317_004091	Besiegt the Siaulamb Lagoons. Tell Soldier York about it.
 QUEST_LV_0100_20150317_004092	Sprich mit Adjutant General Paulina
 QUEST_LV_0100_20150317_004093	Adjutant General Paulina seems angry. Sprich mit him.
 QUEST_LV_0100_20150317_004094	Retrieving the supplies stolen by the Siaulambs in each warehouse
@@ -4499,7 +4499,7 @@ QUEST_LV_0100_20150317_004498	Bring die Flüchtlinge sicher zurück. Sprich mit 
 QUEST_LV_0100_20150317_004499	Sag der Heilerdame dass sie wieder zurück in das Dorf gehen können.
 QUEST_LV_0100_20150317_004500	Besiege die Monster
 QUEST_LV_0100_20150317_004501	Die Dame sagt, dass sie nicht mit ihren Patienten zurückgehen kann, es gibt zu viele Monster hier. Besiege die Monster für sie. 
-QUEST_LV_0100_20150317_004502	Defeated the monsters. Tell the lady to go back to the village. 
+QUEST_LV_0100_20150317_004502	Besiegt the monsters. Tell the lady to go back to the village. 
 QUEST_LV_0100_20150317_004503	Sprich mit the Minenarbeiter Dorf Mayor
 QUEST_LV_0100_20150317_004504	Sprich mit the mayor again to enter the Crystal Mines. 
 QUEST_LV_0100_20150317_004505	Rescue Vaidotas who is kidnapped by the Vubbes
@@ -5134,7 +5134,7 @@ QUEST_LV_0100_20150317_005133	Follower Algis says you need to defeat any pursuin
 QUEST_LV_0100_20150317_005134	Activated the altar and shifted the demons' interest to the altar. Return to Follower Algis.
 QUEST_LV_0100_20150317_005135	Besiege Egnome.
 QUEST_LV_0100_20150317_005136	Follower Algis asked you to defeat the Egnome wandering inside the church.
-QUEST_LV_0100_20150317_005137	Defeated enough Egnome. Return to Follower Algis. 
+QUEST_LV_0100_20150317_005137	Besiegt enough Egnome. Return to Follower Algis. 
 QUEST_LV_0100_20150317_005138	Inserted the altar pieces on the eight pillars of Sventove Central Hall. Gesti hasn't realized yet. Proceed to the next plan with Follower Algis. 
 QUEST_LV_0100_20150317_005139	Fight with Gesti
 QUEST_LV_0100_20150317_005140	Gesti was weakened with the power of the Central Altar and the eight pillars. Now you can fight equally against Gesti. Disable Gesti while Follower Algis prepares the Divine Sphere.
@@ -5161,13 +5161,13 @@ QUEST_LV_0100_20150317_005160	Sprich mit Follower Kayetonas
 QUEST_LV_0100_20150317_005161	Removed the Demon Summoning Circles as requested by Watcher Kenneth. Tell Follower Kayetonas at Flower Greeting Hill that there were Demon Summoning Circles. 
 QUEST_LV_0100_20150317_005162	Besiege severed demons' souls
 QUEST_LV_0100_20150317_005163	Watcher Kenneth told you to weaken the demons to less than half HP, then use the holy powers of the barrier to sever their souls and defeat them. 
-QUEST_LV_0100_20150317_005164	Defeated enough severed souls in Pumpura Hill. Bericht an Follower Kayetonas.
+QUEST_LV_0100_20150317_005164	Besiegt enough severed souls in Pumpura Hill. Bericht an Follower Kayetonas.
 QUEST_LV_0100_20150317_005165	Besiege the demon monsters nearby Kenneth
 QUEST_LV_0100_20150317_005166	Kenneth asked you to defeat the nearby monsters while he takes a rest.
-QUEST_LV_0100_20150317_005167	Defeated the monsters while Kenneth rested. Tell Follower Kayetonas about it. 
+QUEST_LV_0100_20150317_005167	Besiegt the monsters while Kenneth rested. Tell Follower Kayetonas about it. 
 QUEST_LV_0100_20150317_005168	Follower Kayetonas at Emerald Bluff is looking for someone that will fight with him.
 QUEST_LV_0100_20150317_005169	Minotaur appeared from the sky like Follower Kayetonas said. Besiege Minotaur so that it won't get to the Paladin Master. 
-QUEST_LV_0100_20150317_005170	Defeated Minotaur together with Follower Kayetonas. Sprich mit Follower Kayetonas.
+QUEST_LV_0100_20150317_005170	Besiegt Minotaur together with Follower Kayetonas. Sprich mit Follower Kayetonas.
 QUEST_LV_0100_20150317_005171	The Paladin Master at Emerald Bluffs is waiting for you at Uzbaiga Hillside.
 QUEST_LV_0100_20150317_005172	Listen to Follower Algis' explanations
 QUEST_LV_0100_20150317_005173	The Paladin Master ask you to listen to Follower Algis about the Tenet Church, the first Paladin, and the Seal of Space. Listen to Follower Algis before he leaves. 
@@ -5335,7 +5335,7 @@ QUEST_LV_0100_20150317_005334	Sprich mit Watcher Erra
 QUEST_LV_0100_20150317_005335	Watcher Erra at Fallen Tree Garden is waiting for someone to help her.
 QUEST_LV_0100_20150317_005336	Besiege Seedmia
 QUEST_LV_0100_20150317_005337	The Seedmias are causing trouble for Watcher Erra. Besiege the Seedmias and return to Erra. 
-QUEST_LV_0100_20150317_005338	Defeated the Seedmias as Erra requested. Inform Erra about it.  
+QUEST_LV_0100_20150317_005338	Besiegt the Seedmias as Erra requested. Inform Erra about it.  
 QUEST_LV_0100_20150317_005339	Get Mallardu Fat
 QUEST_LV_0100_20150317_005340	Watcher Erra said you need to wake up the sleeping Nepenthes before being able to extract it's sap. Besiege the Mallardus and collect their fat, which can be used to burn Nepenthes.
 QUEST_LV_0100_20150317_005341	Gathered enough fat as Watcher Erra requested. Return to Watcher Erra.
@@ -5353,7 +5353,7 @@ QUEST_LV_0100_20150317_005352	The Pantos are following orders when you burned th
 QUEST_LV_0100_20150317_005353	Sprich mit Follower Alfonsas
 QUEST_LV_0100_20150317_005354	Follower Alfonsas at Fallen Tree Garden is waiting for someone to help him.
 QUEST_LV_0100_20150317_005355	Follower Alfonsas said there are too many demons for him to handle by himself, so he asked for your help. Besiege the demons along the way to the Temple Courtyard.
-QUEST_LV_0100_20150317_005356	Defeated enough demons as Follower Alfonsas asked. Return to him. 
+QUEST_LV_0100_20150317_005356	Besiegt enough demons as Follower Alfonsas asked. Return to him. 
 QUEST_LV_0100_20150317_005357	Beschreibe die Dämonenbeschwörerkreise
 QUEST_LV_0100_20150317_005358	Follower Alfonsas said that scribbling on the Demon Summoning Circles alters them greatly. Avoid the monsters and scribble the circles.
 QUEST_LV_0100_20150317_005359	A little vandalism on the summoning circle absorbed back the summoned demons. It was small but a good try. Return and let Follower Alfonsas know about it. 
@@ -5361,7 +5361,7 @@ QUEST_LV_0100_20150317_005360	Find Follower Algis
 QUEST_LV_0100_20150317_005361	Follower Algis at Fallen Tree Garden is waiting for someone to help him.
 QUEST_LV_0100_20150317_005362	Pursue Gesti
 QUEST_LV_0100_20150317_005363	Arrived at the Temple Courtyard and saw Gesti entering the church. Besiege the Chapparition and follow Gesti.
-QUEST_LV_0100_20150317_005364	Defeated Chapparition but Gesti already blocked the entrance. Ask Follower Algis what to do next. 
+QUEST_LV_0100_20150317_005364	Besiegt Chapparition but Gesti already blocked the entrance. Ask Follower Algis what to do next. 
 QUEST_LV_0100_20150317_005365	Trace Rexipher
 QUEST_LV_0100_20150317_005366	Rexipher has kidnapped Cyrenia Odell. Go to Overlooking Crossroad and follow Rexipher.
 QUEST_LV_0100_20150317_005367	Destroy the Royal Mausoleum Defense Device at Sesija Entrance 
@@ -5422,7 +5422,7 @@ QUEST_LV_0100_20150317_005421	Hide behind a tree
 QUEST_LV_0100_20150317_005422	Besiege the lured Ravinepede
 QUEST_LV_0100_20150317_005423	It is the monster that the memo mentioned. Besiege Ravinepede and collect the treasure!
 QUEST_LV_0100_20150317_005424	Sprich mit Technician Orion
-QUEST_LV_0100_20150317_005425	Defeated Ravinepede. Return to Technician Orion.
+QUEST_LV_0100_20150317_005425	Besiegt Ravinepede. Return to Technician Orion.
 QUEST_LV_0100_20150317_005426	Besiege Ravinepede
 QUEST_LV_0100_20150317_005427	Place Hogma's Amulet
 QUEST_LV_0100_20150317_005428	Collected all amulets of Hogma. Place the amulet in the stone pillar on the south of Geltonas Highland.
@@ -5451,13 +5451,13 @@ QUEST_LV_0100_20150317_005450	Sprich mit Grave Keeper Romas
 QUEST_LV_0100_20150317_005451	Grave Keeper Romas is looking at you with pity. Sprich mit him.
 QUEST_LV_0100_20150317_005452	Pass Grave Keeper Romas' Test
 QUEST_LV_0100_20150317_005453	Grave Keeper Romas says he had to bury a Revelator once so do not be over confident. Besiege 15 monsters nearby within 2 minutes and prove that you are not weak.
-QUEST_LV_0100_20150317_005454	Defeated 15 monsters in 2 minutes. Sprich mit Grave Keeper Romas.
+QUEST_LV_0100_20150317_005454	Besiegt 15 monsters in 2 minutes. Sprich mit Grave Keeper Romas.
 QUEST_LV_0100_20150317_005455	Besiege monsters within 2 minutes
 QUEST_LV_0100_20150317_005456	The Paladin Master has something to say. Sprich mit him.
 QUEST_LV_0100_20150317_005457	Besiege Field Boss Chapparition
 QUEST_LV_0100_20150317_005458	The Paladin Master says there is a monster slaying people. Find and defeat the spooky Chapparition in the Tenet Church. 
 QUEST_LV_0100_20150317_005459	Tenet Church
-QUEST_LV_0100_20150317_005460	Defeated the Chapparition. Bericht an den Paladin Master. 
+QUEST_LV_0100_20150317_005460	Besiegt the Chapparition. Bericht an den Paladin Master. 
 QUEST_LV_0100_20150317_005461	Besiege spooky Chaparition
 QUEST_LV_0100_20150317_005462	Sprich mit the resentful soul
 QUEST_LV_0100_20150317_005463	There is a person you see for the first time, but if blurry. Sprich mit him.
@@ -5528,19 +5528,19 @@ QUEST_LV_0100_20150317_005527	Ask Cordelier about the unpleasant vibration that 
 QUEST_LV_0100_20150317_005528	Check the bookshelf in the Reading Room
 QUEST_LV_0100_20150317_005529	Check the bookshelf in the Reading Room to find out about the vibration felt in the Reading Room.
 QUEST_LV_0100_20150317_005530	Bericht an Cordelier
-QUEST_LV_0100_20150317_005531	Defeated the Ginklas that suddenly appeared. Bericht an Cordelier.
+QUEST_LV_0100_20150317_005531	Besiegt the Ginklas that suddenly appeared. Bericht an Cordelier.
 QUEST_LV_0100_20150317_005532	Sprich mit the Sealed Stone
 QUEST_LV_0100_20150317_005533	There's a strange sound coming from the Groß Reading Room. Sprich mit the Sealed Stone.
 QUEST_LV_0100_20150317_005534	Besiege Belegg and Blindlem
 QUEST_LV_0100_20150317_005535	A stone emitting strange sounds said its soul was trapped. It's hard to believe, but defeat the Blindlem and Beleggs as the stone requested.
 QUEST_LV_0100_20150317_005536	Sprich mit the Sealed Stone
-QUEST_LV_0100_20150317_005537	Defeated the Blindlem and Beleggs. Return to the Sealed Stone and release its trapped soul.
+QUEST_LV_0100_20150317_005537	Besiegt the Blindlem and Beleggs. Return to the Sealed Stone and release its trapped soul.
 QUEST_LV_0100_20150317_005538	Besiege Blindlem
 QUEST_LV_0100_20150317_005539	Besiege Belegg
 QUEST_LV_0100_20150317_005540	The Sealed Stone is in the forum. It seems like it needs help so talk to it. 
 QUEST_LV_0100_20150317_005541	Besiege the observer Golem
 QUEST_LV_0100_20150317_005542	The Sealed Stone asked you to defeat the monitors and free its spirit. Do the Sealed Stone a favor.
-QUEST_LV_0100_20150317_005543	Defeated the Golem. Sprich mit the Sealed Stone.
+QUEST_LV_0100_20150317_005543	Besiegt the Golem. Sprich mit the Sealed Stone.
 QUEST_LV_0100_20150317_005544	Besiege the observer Golem
 QUEST_LV_0100_20150317_005545	The Sealed Stone seems to have another favor. Sprich mit the Sealed Stone.
 QUEST_LV_0100_20150317_005546	Besiege the observer Phyracon
@@ -5554,14 +5554,14 @@ QUEST_LV_0100_20150317_005553	Return to the Sealed Stone and release the spirit.
 QUEST_LV_0100_20150317_005554	There is a Sealed Stone in the office. Sprich mit it. 
 QUEST_LV_0100_20150317_005555	Besiege the monsters nearby to release
 QUEST_LV_0100_20150317_005556	The soul restraint on the seal stone wants to be free. Besiege the Blindlem and Shaman dolls to free it.
-QUEST_LV_0100_20150317_005557	Defeated the Blindlem and Shaman doll. Return to the seal stone and free its soul.
+QUEST_LV_0100_20150317_005557	Besiegt the Blindlem and Shaman doll. Return to the seal stone and free its soul.
 QUEST_LV_0100_20150317_005558	Observer Blindlem
 QUEST_LV_0100_20150317_005559	Observer Shaman doll
 QUEST_LV_0100_20150317_005560	There is a Sealed Stone in the 1st Library. Sprich mit it.
 QUEST_LV_0100_20150317_005561	Besiege the observer Infrorocktor
 QUEST_LV_0100_20150317_005562	Seal stone says it will do no harm and asks you to defeat the observer. Besiege the Infrorocktor for the seal stone.
 QUEST_LV_0100_20150317_005563	Bericht an den Sealed Stone
-QUEST_LV_0100_20150317_005564	Defeated the Observer Infrorocktor as the seal stone wanted. Return to the stone and talk to it.
+QUEST_LV_0100_20150317_005564	Besiegt the Observer Infrorocktor as the seal stone wanted. Return to the stone and talk to it.
 QUEST_LV_0100_20150317_005565	The Sealed Stone has more favors to ask. Sprich mit the Sealed Stone.
 QUEST_LV_0100_20150317_005566	Besiege Fallenlem and get the voice of seal stone 
 QUEST_LV_0100_20150317_005567	The Seal Stone wants you to get back its stolen voice. Gather the voices of seal stone held by Fallenlem.
@@ -5598,13 +5598,13 @@ QUEST_LV_0100_20150317_005597	Got the hardened crystals. Join Furry Odd in Machi
 QUEST_LV_0100_20150317_005598	Met Furry Odd near the Machinery room. Sprich mit her.
 QUEST_LV_0100_20150317_005599	Besiege Yonazolem
 QUEST_LV_0100_20150317_005600	Furry Odd says she saw a Yonazolem inside the machine room. Besiege the Yonazolem while Furry Odd stops the monsters at the entrance.
-QUEST_LV_0100_20150317_005601	Defeated Yonazolem. Return to Furry Odd.
+QUEST_LV_0100_20150317_005601	Besiegt Yonazolem. Return to Furry Odd.
 QUEST_LV_0100_20150317_005602	There is a Sealed Stone near the Magie Stabilizing Device. Sprich mit it.
 QUEST_LV_0100_20150317_005603	The Sealed Stone asked you to defeat the monsters nearby so that it can be freed. What will happen when all of them are freed? First, defeat the monsters as the seal requested.
 QUEST_LV_0100_20150317_005604	Finished the request of the Sealed Stone. Release the soul.
 QUEST_LV_0100_20150317_005605	Find the Sealed Stone
 QUEST_LV_0100_20150317_005606	There is a Sealed Stone in the 2nd Machinery Room. Sprich mit it.
-QUEST_LV_0100_20150317_005607	Defeated the monsters around. Go to the Stone and release the possessed soul.
+QUEST_LV_0100_20150317_005607	Besiegt the monsters around. Go to the Stone and release the possessed soul.
 QUEST_LV_0100_20150317_005608	Sprich mit Simon Shaw
 QUEST_LV_0100_20150317_005609	There is a well-dressed, gentlemanly wizard resisting the monsters. Sprich mit Simon Shaw.
 QUEST_LV_0100_20150317_005610	Besiege Black Drake and retrieve the Flame Charms
@@ -5619,10 +5619,10 @@ QUEST_LV_0100_20150317_005618	Find Simon Shaw
 QUEST_LV_0100_20150317_005619	Simon Shaw is not back. Go to the Klein Hall where he went chasing Bearkaras.
 QUEST_LV_0100_20150317_005620	Simon looks very tired. Sprich mit him.
 QUEST_LV_0100_20150317_005621	Simon says he can't defeat Bearkaras on his own. Besiege the Bearkaras for him.
-QUEST_LV_0100_20150317_005622	Defeated Bearkaras. Tell Simon Shaw about it so that he can be relieved.
+QUEST_LV_0100_20150317_005622	Besiegt Bearkaras. Tell Simon Shaw about it so that he can be relieved.
 QUEST_LV_0100_20150317_005623	If you have released all the trapped souls in the seal stone along your way from the Mage Tower, you can get the last mission from the suspicious lamp on the way to Keturidu Grand Hall.
 QUEST_LV_0100_20150317_005624	If you do the seal stone's favors, then you will be able to find out the identity of those trapped inside the seal stones. Kill the monsters guarding around the seal stone as requested.
-QUEST_LV_0100_20150317_005625	Defeated all the monsters around. Return to the seal stone.
+QUEST_LV_0100_20150317_005625	Besiegt all the monsters around. Return to the seal stone.
 QUEST_LV_0100_20150317_005626	If you have released all the trapped souls in the seal stone along your way from the Mage Tower, you can get the last mission from the suspicious lamp on the way to Keturidu Grand Hall. Sprich mit the Seal Stone again.
 QUEST_LV_0100_20150317_005627	Besiege the seal monitor Stone Whale
 QUEST_LV_0100_20150317_005628	Stone Whale that was guarding Hauberk woke up. Besiege the Stone Whale.
@@ -5660,7 +5660,7 @@ QUEST_LV_0100_20150317_005659	Found all the cable car parts as Matthew asked. Gi
 QUEST_LV_0100_20150317_005660	Retrieve the %s from Zignuts 
 QUEST_LV_0100_20150317_005661	Besiege the Poata, which is a threat to the cable car
 QUEST_LV_0100_20150317_005662	Watcher Matthew asked you to defeat the Poata, so it can't destroy the cable car again. Soil Poata's nest at Margas Hills to lure it out, and defeat it. 
-QUEST_LV_0100_20150317_005663	Defeated the Poata as Watcher Matthew requested. Tell the good news to him.
+QUEST_LV_0100_20150317_005663	Besiegt the Poata as Watcher Matthew requested. Tell the good news to him.
 QUEST_LV_0100_20150317_005664	Besiege Poata
 QUEST_LV_0100_20150317_005665	Sprich mit Molly
 QUEST_LV_0100_20150317_005666	Watcher Molly is looking for someone brave to help her great plan.
@@ -5684,7 +5684,7 @@ QUEST_LV_0100_20150317_005683	Besiege Simorph
 QUEST_LV_0100_20150317_005684	Besiege Simorph with the shaman dolls
 QUEST_LV_0100_20150317_005685	Besiege Simorph at Valio Mountain Cabin Hill
 QUEST_LV_0100_20150317_005686	Destroyed all the Totems as requested. Search for Simorph, and defeat it.
-QUEST_LV_0100_20150317_005687	Defeated Simorph with the Shaman Dolls as Mori requested. Tell Mori about it. 
+QUEST_LV_0100_20150317_005687	Besiegt Simorph with the Shaman Dolls as Mori requested. Tell Mori about it. 
 QUEST_LV_0100_20150317_005688	Purify the demon corrupted land
 QUEST_LV_0100_20150317_005689	Use the summon scroll to summon a shaman doll and bring it to Labure Highway. The shaman doll will find the demon corrupted land.
 QUEST_LV_0100_20150317_005690	Besiege Wild Carnivore
@@ -5698,7 +5698,7 @@ QUEST_LV_0100_20150317_005697	Besiege Panto Shamans and get %s
 QUEST_LV_0100_20150317_005698	Get rope for ritual
 QUEST_LV_0100_20150317_005699	Sammle Mushcaria's Enchanted Mane
 QUEST_LV_0100_20150317_005700	Watcher Basil asked you go hunt the Mushcaria in Tustinti Plateau and collect it's Enchanted Mane. 
-QUEST_LV_0100_20150317_005701	Defeated Mushcaria and retrieved it's Enchanted Mane. Give it to Watcher Basil.
+QUEST_LV_0100_20150317_005701	Besiegt Mushcaria and retrieved it's Enchanted Mane. Give it to Watcher Basil.
 QUEST_LV_0100_20150317_005702	Besiege Mushcaria and get %s
 QUEST_LV_0100_20150317_005703	Get Mushcaria's Enchanted Mane
 QUEST_LV_0100_20150317_005704	Sprich mit Goddess Saule
@@ -5711,7 +5711,7 @@ QUEST_LV_0100_20150317_005710	You are blocked by the barrier. Check the barrier 
 QUEST_LV_0100_20150317_005711	Besiege the demon restraining the goddess.
 QUEST_LV_0100_20150317_005712	The barrier disappeared and you can see someone trapped by the demon. First, defeat the demon. 
 QUEST_LV_0100_20150317_005713	Sprich mit the lady
-QUEST_LV_0100_20150317_005714	Defeated the demons that were trapping the lady. She seens to have a strong and holy power. Sprich mit the lady.
+QUEST_LV_0100_20150317_005714	Besiegt the demons that were trapping the lady. She seens to have a strong and holy power. Sprich mit the lady.
 QUEST_LV_0100_20150317_005715	Besiege Harpeia
 QUEST_LV_0100_20150317_005716	Check the binding magic circle in Drugys Courtyard.
 QUEST_LV_0100_20150317_005717	There is a binding magic circle imbued with dark energy in Drugys Courtyard. Demons have prepared it. Go check it out.
@@ -5736,7 +5736,7 @@ QUEST_LV_0100_20150317_005735	You found the key to finally release Goddess Saule
 QUEST_LV_0100_20150317_005736	Remove restraining sphere that is trapping Goddess Saule
 QUEST_LV_0100_20150317_005737	Use the key to release Goddess Saule from the restraining sphere.
 QUEST_LV_0100_20150317_005738	Goddess Saule is freed. Sprich mit her.
-QUEST_LV_0100_20150317_005739	Defeated Bramble and got the revelation. Return to Goddess Saule. 
+QUEST_LV_0100_20150317_005739	Besiegt Bramble and got the revelation. Return to Goddess Saule. 
 QUEST_LV_0100_20150317_005740	The revelation tells you to go to Great King Zachariel's Royal Mausoleum. Sprich mit the goddess.
 QUEST_LV_0100_20150317_005741	Search for portals near Grassy Brookside
 QUEST_LV_0100_20150317_005742	According to the Paladin Master, the Iridescent Valley spoken of in the revelation is most likely the Grassy Brookside region. Follow the revelation to Grassy Brookside.
@@ -5750,7 +5750,7 @@ QUEST_LV_0100_20150317_005749	Sprich mit the Old Man
 QUEST_LV_0100_20150317_005750	Find the villager sent by the Old Man
 QUEST_LV_0100_20150317_005751	The Old Man says he sent a villager to Nugria Sanctum to see of the portal is working but he has not heard since. Find the villager who was sent to Nugria Sanctum.
 QUEST_LV_0100_20150317_005752	Sprich mit the Injured Villager
-QUEST_LV_0100_20150317_005753	Defeated the monsters that attacked the villager. Sprich mit the villager.
+QUEST_LV_0100_20150317_005753	Besiegt the monsters that attacked the villager. Sprich mit the villager.
 QUEST_LV_0100_20150317_005754	Besiege the monsters that attacked the villager
 QUEST_LV_0100_20150317_005755	Found the villager, but he seems hurt. Ask what happened.
 QUEST_LV_0100_20150317_005756	Check the altar at Nugria Sanctum
@@ -5815,7 +5815,7 @@ QUEST_LV_0100_20150317_005814	Answer to the riddle
 QUEST_LV_0100_20150317_005815	Release the seal at Pasagos Cliff.
 QUEST_LV_0100_20150317_005816	The Sanctum seals are in various locations in Broken Pillar Canyon. Find and break the Pasagos Cliff seal.
 QUEST_LV_0100_20150317_005817	Monsters suddenly appeared as you tried to release the seal. Besiege them and protect yourself. 
-QUEST_LV_0100_20150317_005818	Defeated all the monsters that were interfering. Try to release the seal again. 
+QUEST_LV_0100_20150317_005818	Besiegt all the monsters that were interfering. Try to release the seal again. 
 QUEST_LV_0100_20150317_005819	The Sanctum seals are in various locations in Broken Pillar Canyon. Find and break the seal on the way to the Collapsed Sanctum.
 QUEST_LV_0100_20150317_005820	Your attempt to release the seal summoned sentinels. Destroy all the sentinels. 
 QUEST_LV_0100_20150317_005821	Destroy the sentinels
@@ -5842,7 +5842,7 @@ QUEST_LV_0100_20150317_005841	There are many dead people around due to the monst
 QUEST_LV_0100_20150317_005842	Ambush of Hogmas
 QUEST_LV_0100_20150317_005843	Hogmas hiding appeared when you touched the dead body. Besiege them. 
 QUEST_LV_0100_20150317_005844	Confort the body to rest in peace
-QUEST_LV_0100_20150317_005845	Defeated all the monsters nearby. Comfor the bodies to rest in peace. 
+QUEST_LV_0100_20150317_005845	Besiegt all the monsters nearby. Comfor the bodies to rest in peace. 
 QUEST_LV_0100_20150317_005846	Besiege the Hogmas ambushing
 QUEST_LV_0100_20150317_005847	Tzedej Altar
 QUEST_LV_0100_20150317_005848	There is a something sealed at the Tzedej Altar at King's Plateau. Approach and attempt to break it.
@@ -5920,7 +5920,7 @@ QUEST_LV_0100_20150317_005919	Examine the shabby box
 QUEST_LV_0100_20150317_005920	Volda says we should defeat the brush trap balls that the Siaulambs eat. Find the brush trap balls inside the shabby box in the 2nd Supplies Warehouse. 
 QUEST_LV_0100_20150317_005921	Besiege the remnants of Siaulambs
 QUEST_LV_0100_20150317_005922	Found the pouch full of brush trap balls and the Siaulambs went mad and start to attack. Besiege all the Siaulambs.
-QUEST_LV_0100_20150317_005923	Defeated all remnanats of Siaulambds but there is no place to burn the brash trap balls. Give it to Volda. 
+QUEST_LV_0100_20150317_005923	Besiegt all remnanats of Siaulambds but there is no place to burn the brash trap balls. Give it to Volda. 
 QUEST_LV_0100_20150317_005924	You must give Moody's report to Officer Liudas. Return to Liudas in Central Supplies Lager and talk to him.
 QUEST_LV_0100_20150317_005925	Check the monster in Amzina Curved Path
 QUEST_LV_0100_20150317_005926	Liudas says he got a report about a Groß monster showing up. Check the monster in Amzina Curved Path. 
@@ -5931,15 +5931,15 @@ QUEST_LV_0100_20150317_005930	Sprich mit Liudas in Malkos Felled Area
 QUEST_LV_0100_20150317_005931	Liudas says he has to take care of things himself. Follow Liudas to Malkos Felled Area. 
 QUEST_LV_0100_20150317_005932	Besiege the monsters attacking Liudas
 QUEST_LV_0100_20150317_005933	Sprich mit the Scout.
-QUEST_LV_0100_20150317_005934	Sprich mit the Scout to learn about Status Points.
-QUEST_LV_0100_20150317_005935	 - use this key to open your Character Information then use Status Points
+QUEST_LV_0100_20150317_005934	Sprich mit the Scout to learn about Status Punkte.
+QUEST_LV_0100_20150317_005935	 - use this key to open your Character Information then use Status Punkte
 QUEST_LV_0100_20150317_005936	Listen to the Scout and try using a Status.
 QUEST_LV_0100_20150317_005937	Sprich mit the Scout
 QUEST_LV_0100_20150317_005938	Sprich mit the Scout again
 QUEST_LV_0100_20150317_005939	On the road back
 QUEST_LV_0100_20150317_005940	You feel something suspicious when worshiping the Goddess Statue. Sprich mit the Statue again.
 QUEST_LV_0100_20150317_005941	Mushcaria has appeared! Besiege it. 
-QUEST_LV_0100_20150317_005942	Defeated Mushcaria!
+QUEST_LV_0100_20150317_005942	Besiegt Mushcaria!
 QUEST_LV_0100_20150317_005943	You have completed retrieving the supplies. Sprich mit the Supply Officer again.
 QUEST_LV_0100_20150317_005944	Besiege Tutu
 QUEST_LV_0100_20150317_005945	Tutu made a surprise ambush. Besiege Tutu.
@@ -5952,7 +5952,7 @@ QUEST_LV_0100_20150317_005951	Sprich mit Liaison Officer Nian
 QUEST_LV_0100_20150317_005952	Nian is informing you about the mysterious stone
 QUEST_LV_0100_20150317_005953	Besiege the monsters attacking Liaison Officer Nian
 QUEST_LV_0100_20150317_005954	Touched the mysterious stone to take a closer look but then monsters appeared! Better defeat the monsters first. 
-QUEST_LV_0100_20150317_005955	Defeated the monsters. Sprich mit Nian about what happened. 
+QUEST_LV_0100_20150317_005955	Besiegt the monsters. Sprich mit Nian about what happened. 
 QUEST_LV_0100_20150317_005956	Sprich mit Historian Adelle
 QUEST_LV_0100_20150317_005957	Historian Adelle know it was someone Nian sent. Ask why she is not withdrawing.
 QUEST_LV_0100_20150317_005958	Collect stones with mysterious patterns
@@ -5973,7 +5973,7 @@ QUEST_LV_0100_20150317_005972	Besiege the Bebraspion that is interfering the rub
 QUEST_LV_0100_20150317_005973	You got Adelle the stones she want so try to persuade her to withdraw.
 QUEST_LV_0100_20150317_005974	Besiege the monsters
 QUEST_LV_0100_20150317_005975	Could it be because of the stones? Monsters are attacking. Protect yourself from the attacks.
-QUEST_LV_0100_20150317_005976	Defeated all the monsters that attacked. Persuade Adelle quickly to withdraw.
+QUEST_LV_0100_20150317_005976	Besiegt all the monsters that attacked. Persuade Adelle quickly to withdraw.
 QUEST_LV_0100_20150317_005977	Kolin says he doesn't know Rexipher. Ask another historian about Rexipher. 
 QUEST_LV_0100_20150317_005978	Gorath seems to be in trouble. Sprich mit him.
 QUEST_LV_0100_20150317_005979	Sprich mit Historian Badat
@@ -6033,7 +6033,7 @@ QUEST_LV_0100_20150317_006032	Got enough Amalas. Give it to Ahylas.
 QUEST_LV_0100_20150317_006033	Treasure Jäger Eden at High Winding Road is waiting for someone's help.
 QUEST_LV_0100_20150317_006034	Besiege Tama
 QUEST_LV_0100_20150317_006035	Treasure Jäger Eden asked you to defeat Tamas in the northern area if you want to help his search for treasure. 
-QUEST_LV_0100_20150317_006036	Defeated enough Tamas as Treasure Jäger Eden requested. Return to Treasure Jäger Eden.
+QUEST_LV_0100_20150317_006036	Besiegt enough Tamas as Treasure Jäger Eden requested. Return to Treasure Jäger Eden.
 QUEST_LV_0100_20150317_006037	Find the Fourth Piece of Gravestone
 QUEST_LV_0100_20150317_006038	Treasure Jäger says he's sure that Tama swallowed the relics. Besiege Tama and get the relics. 
 QUEST_LV_0100_20150317_006039	Tama has the fourth gravestone piece as the treasure hunter said. Give it to Treasure Jäger Eden.
@@ -6076,7 +6076,7 @@ QUEST_LV_0100_20150317_006075	Found the last epitaph but a Reaverpede is guardin
 QUEST_LV_0100_20150317_006076	Read the last epitaph of Agailla Flurry and get her Divination.
 QUEST_LV_0100_20150317_006077	Besiege the monsters nearby Ruklys' memorial stone
 QUEST_LV_0100_20150317_006078	Epigraphist Schmid asked you to defeat the monsters near the memorial stone while he prepares to restore the stone.
-QUEST_LV_0100_20150317_006079	Defeated the monsters as Schmid asked you. Go to him and help him restore. 
+QUEST_LV_0100_20150317_006079	Besiegt the monsters as Schmid asked you. Go to him and help him restore. 
 QUEST_LV_0100_20150317_006080	Check the strange sack
 QUEST_LV_0100_20150317_006081	There is a strange sack in front. Looks like it's empty.
 QUEST_LV_0100_20150317_006082	Collect experiment materials
@@ -6188,7 +6188,7 @@ QUEST_LV_0100_20150317_006187	Goddess Saule Believer Nojus is anxiously waiting 
 QUEST_LV_0100_20150317_006188	Find the 'ominous voice'
 QUEST_LV_0100_20150317_006189	Believer Nojus told you where the ominous voice is coming from. Go and find it.
 QUEST_LV_0100_20150317_006190	Go to Fallen Worry Forest
-QUEST_LV_0100_20150317_006191	Defeated the Poata summoned by the Beholder. Go deep into the Thorn Forest to find Bramble.
+QUEST_LV_0100_20150317_006191	Besiegt the Poata summoned by the Beholder. Go deep into the Thorn Forest to find Bramble.
 QUEST_LV_0100_20150317_006192	Besiege the summoned Poata
 QUEST_LV_0100_20150317_006193	Sprich mit Believer Alvydas
 QUEST_LV_0100_20150317_006194	Goddess Saule Believer Alvydas is watching you.
@@ -6200,7 +6200,7 @@ QUEST_LV_0100_20150317_006199	Goddess Saule Gläubige Raminta needs your help.
 QUEST_LV_0100_20150317_006200	Besiege die Quelle der Bösen Energie
 QUEST_LV_0100_20150317_006201	Gläubige Raminta says she found the demon spreading an evil energy. Besiege Rikaus for her. 
 QUEST_LV_0100_20150317_006202	Bericht an Gläubige Raminta
-QUEST_LV_0100_20150317_006203	Defeated Rikaus that was spreading evil energy. Bericht an Gläubige Raminta.
+QUEST_LV_0100_20150317_006203	Besiegt Rikaus that was spreading evil energy. Bericht an Gläubige Raminta.
 QUEST_LV_0100_20150317_006204	Besiege Rikaus
 QUEST_LV_0100_20150317_006205	Sprich mit Gläubiger Evaldas
 QUEST_LV_0100_20150317_006206	Goddess Saule Gläubiger Evaldas needs your help.
@@ -6232,7 +6232,7 @@ QUEST_LV_0100_20150317_006231	Sprich mit Believer Bronius
 QUEST_LV_0100_20150317_006232	Goddess Saule Believer Bronius is hiding and waiting anxiously for your help.
 QUEST_LV_0100_20150317_006233	Besiege the Merogs
 QUEST_LV_0100_20150317_006234	Believer Bronius says the monsters are after him. Besiege the monsters.
-QUEST_LV_0100_20150317_006235	Defeated the monsters. Sprich mit Believer Bronius.
+QUEST_LV_0100_20150317_006235	Besiegt the monsters. Sprich mit Believer Bronius.
 QUEST_LV_0100_20150317_006236	Besiege the monsters trying to kill the Believer
 QUEST_LV_0100_20150317_006237	Sprich mit Believer Samantha
 QUEST_LV_0100_20150317_006238	Goddess Saule Believer Samantha at Fallen Worry Forest is waiting for your help.
@@ -6259,7 +6259,7 @@ QUEST_LV_0100_20150317_006258	Sprich mit Believer Kazis
 QUEST_LV_0100_20150317_006259	Goddess Saule Believer Kazis needs your help.
 QUEST_LV_0100_20150317_006260	Purify Karadas Path
 QUEST_LV_0100_20150317_006261	Believer Kazis says the Honeypin is making it difficult to do purifying work. Activate the altar for Believer Kazis.
-QUEST_LV_0100_20150317_006262	Defeated the Honeypin. Return to Believer Kazis.
+QUEST_LV_0100_20150317_006262	Besiegt the Honeypin. Return to Believer Kazis.
 QUEST_LV_0100_20150317_006263	You agreed to meet Believer Jurga in Giliaii Courtyard to plan a fight against Bramble.
 QUEST_LV_0100_20150317_006264	Besiege Bramble and retrieve the revelation
 QUEST_LV_0100_20150317_006265	Arrived at Giliaii Courtyard, where Bramble is. Besiege it and retrieve the revelation!
@@ -6546,7 +6546,7 @@ QUEST_LV_0100_20150323_006545	James suggested a bet. Besiege the monsters in Owl
 QUEST_LV_0100_20150323_006546	Besiege the monsters in Owl Burial Ground
 QUEST_LV_0100_20150323_006547	Besiege the monsters in Lemprasa Pond
 QUEST_LV_0100_20150323_006548	Officer Liudas say he'll give you an accessory if you defeat the monsters around. Besiege the monsters around Lemprasa Pond.
-QUEST_LV_0100_20150323_006549	Defeated a lot of monsters in Lemprasa Pond. Bericht an Offier Liudas. 
+QUEST_LV_0100_20150323_006549	Besiegt a lot of monsters in Lemprasa Pond. Bericht an Offier Liudas. 
 QUEST_LV_0100_20150323_006550	Historian Collin wants to honor the explorers who died while exploring this area. Burn the oration in their honor in front of the epitaph at Rukas Plateau.
 QUEST_LV_0100_20150323_006551	Burned the oration in fron of the epitaph in Rukas Plateau. Bericht an Historian Collin.
 QUEST_LV_0100_20150323_006552	Guards in Strautas are waiting for someone's help.
@@ -9085,7 +9085,7 @@ QUEST_LV_0100_20151001_009084	Return to Knight Aras and tell him that you have d
 QUEST_LV_0100_20151001_009085	Sprich mit Knight Aras about the Minenarbeiter Dorf
 QUEST_LV_0100_20151001_009086	It seems that Vubbes of Miner's village went deep into the east forest of Siaulai. Let's first defeat the Vubbes you see. 
 QUEST_LV_0100_20151001_009087	You barely defeated the Vubbes that barged in. Return to Aras and ask him about the circumstances at Miner's village.
-QUEST_LV_0100_20151001_009088	Defeated Panto Totem and Simorph with the shaman dolls as Mori requested. Tell Mori about it. 
+QUEST_LV_0100_20151001_009088	Besiegt Panto Totem and Simorph with the shaman dolls as Mori requested. Tell Mori about it. 
 QUEST_LV_0100_20151001_009089	Purified the corrupted area and defeated Carnivore as Mori requested. Tell Mori about it. 
 QUEST_LV_0100_20151001_009090	Restore Carolis Altar
 QUEST_LV_0100_20151001_009091	Gathering the power of the owls
@@ -10294,7 +10294,7 @@ QUEST_LV_0100_20151016_010293	Sprich mit a resident of the town XX
 QUEST_LV_0100_20151016_010294	There is someone whom you think is a resident of the town XX. Speak with him.
 QUEST_LV_0100_20151016_010295	Sprich mit the supposed resident of the town XX
 QUEST_LV_0100_20151016_010296	Demons have appeared. Besiege them all.
-QUEST_LV_0100_20151016_010297	Defeated all the demons. Tell Rose and the resident that it is safe now.
+QUEST_LV_0100_20151016_010297	Besiegt all the demons. Tell Rose and the resident that it is safe now.
 QUEST_LV_0100_20151016_010298	Save Rose and the Einwohner
 QUEST_LV_0100_20151016_010299	Sprich mit a resident of the town XX
 QUEST_LV_0100_20151016_010300	Listen to what the resident of the town xx has to say.
@@ -12089,7 +12089,7 @@ QUEST_LV_0100_20151224_012088	You literally saved my live.{nl}I wouldn't have be
 QUEST_LV_0100_20151224_012089	Please don't tell anyone about the investigations that we are conducting here.{nl}There will be an uproar if the refugees coming to Orsha find out.
 QUEST_LV_0100_20151224_012090	This is... Did Brophen ask you to give this to me?{nl}Thank you very much.{nl}
 QUEST_LV_0100_20151224_012091	Mayor Romanas went ahead towards the Temporary Settler Lager.{nl}I was here waiting for Brophen.{nl}
-QUEST_LV_0100_20151224_012092	Oh, by the way, I've overheard Brophen going on about this.{nl}Have you heard about Skill Points?{nl}
+QUEST_LV_0100_20151224_012092	Oh, by the way, I've overheard Brophen going on about this.{nl}Have you heard about Skill Punkte?{nl}
 QUEST_LV_0100_20151224_012093	I've heard that you can use them to learn new skills or enhance skills you've already learned.{nl}I'm sure it will help you in combat if you carefully choose what to invest in.
 QUEST_LV_0100_20151224_012094	You've begun to become quite a celebrity.{nl}Rumors about you that were whispered outside the city can now be heard everywhere.
 QUEST_LV_0100_20151224_012095	Thanks to you, we have Bishop Urbonas back...{nl}Now all that is left is to take care of the remaining demons, {nl}but why are they suddenly appearing all over the place?
