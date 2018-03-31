@@ -26909,16 +26909,16 @@ ETC_20170313_026908	Matching Error Occurred
 ETC_20170313_026909	Saalus Convent Error
 ETC_20170313_026910	Item data different from DB data.
 ETC_20170313_026911	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 1 hour.
-ETC_20170313_026912	
+ETC_20170313_026912	Grants Token benefits to all your characters in the server for 1 hour. Right-click to use. Remaining time is displayed in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades
 ETC_20170313_026913	Skill Reset Potion (14 Days)
-ETC_20170313_026914	
-ETC_20170313_026915	
-ETC_20170313_026916	
-ETC_20170313_026917	
+ETC_20170313_026914	Rocksodon Package
+ETC_20170313_026915	Right-click to use and obtain the following items:{nl} - 650 TP x1{nl} - Rocksodon Box x1
+ETC_20170313_026916	Item Package
+ETC_20170313_026917	Right-click to use and obtain the following items:{nl} - Honey Dumpling x30{nl} - Instanced Dungeon Reset Voucher x10
 ETC_20170313_026918	Premium Instanced Dungeon Package
 ETC_20170313_026919	Right-click to use and acquire the following items.{nl}- Instanced Clear Voucher [{img star_mark 20 20}] x3{nl} - Instanced Dungeon Reset Voucher x1{nl} - EXP Tome x3
 ETC_20170313_026920	Kupole Server Savior Package
-ETC_20170313_026921	
+ETC_20170313_026921	Appraisers are a class that can identify unidentified items. In combat, Appraisers use their skills to evaluate both allies and enemies.
 ETC_20170313_026922	Appraiser
 ETC_20170313_026923	NPC Hunting Grounds Entrance
 ETC_20170313_026924	Tree Root Crystal 1
@@ -26931,28 +26931,28 @@ ETC_20170313_026930	Random2
 ETC_20170313_026931	23_1TransportationDevice
 ETC_20170313_026932	42_1TransportationDevice
 ETC_20170313_026933	42_1TransportationDevice2
-ETC_20170313_026934	
-ETC_20170313_026935	Rank 7 Advancement (Test)
-ETC_20170313_026936	
-ETC_20170313_026937	Rank 7 Advancement (Test)
-ETC_20170313_026938	
-ETC_20170313_026939	
-ETC_20170313_026940	
-ETC_20170313_026941	
-ETC_20170313_026942	
-ETC_20170313_026943	
-ETC_20170313_026944	
-ETC_20170313_026945	
-ETC_20170313_026946	
-ETC_20170313_026947	
+ETC_20170313_026934	Gather Signatures on the Royal Order
+ETC_20170313_026935	About the Special Chemical
+ETC_20170313_026936	Obtain the Special Chemical
+ETC_20170313_026937	Receive the Fencer Master's Family Heirloom
+ETC_20170313_026938	Give the Certificate to the Fencer Master
+ETC_20170313_026939	Gather Signatures on the Royal Order
+ETC_20170313_026940	Tell Someone About the Suspicious Order
+ETC_20170313_026941	Talk About What You Found About the Order
+ETC_20170313_026942	Pick Up Accessory Merchant Jurus' Products
+ETC_20170313_026943	Give the Certificate to Accessory Merchant Jurus
+ETC_20170313_026944	Talk About the Royal Order
+ETC_20170313_026945	Deliver the Special Chemical
+ETC_20170313_026946	Use Appraiser Attributes
+ETC_20170313_026947	Purchase Appraiser Items
 ETC_20170313_026948	Use the Symbol of Faith to Find the Monster That Ate the Sanctum's Insignia
-ETC_20170313_026949	Obtain Matsum Stamen
+ETC_20170313_026949	Obtain Matsum Stamen
 ETC_20170313_026950	Collect Magic From the Magic Collectors
 ETC_20170313_026951	Collect Power
 ETC_20170313_026952	Second Pilgrim
 ETC_20170313_026953	Open the Hidden Chest
 ETC_20170313_026954	Investigate the Martuis Storage Room
-ETC_20170313_026955	
+ETC_20170313_026955	Find the Maven Abbey Wooden Pole at Deveera Forest Road
 ETC_20170313_026956	Talk to the Mysterious Hunter
 ETC_20170313_026957	Collect Fragments
 ETC_20170313_026958	Protect the Magic Circle from the Demons While It Is Completed
@@ -26983,10 +26983,10 @@ ETC_20170313_026982	Defeat a Special, Elite or Boss Monster of a Level Equal or 
 ETC_20170313_026983	Play the Trumpet to Appease the Divine Spirit
 ETC_20170313_026984	Use the Detector to Find the Evil Spirit, Then Use the Draining Orb
 ETC_20170313_026985	Install the Sphere to Comfort the Petrified Victims
-ETC_20170313_026986	
-ETC_20170313_026987	
-ETC_20170313_026988	
-ETC_20170313_026989	
+ETC_20170313_026986	Pick Up the Item From the Fencer Master
+ETC_20170313_026987	Pick Up the Item From Accessory Merchant Jurus
+ETC_20170313_026988	Deliver the Certificate to the Fencer Master
+ETC_20170313_026989	Deliver the Certificate to Accessory Merchant Jurus
 ETC_20170313_026990	Check Requirements to Unlock Deciphering the Mysterious Writings
 ETC_20170313_026991	Check Requirements to Unlock In an Unexpected Place
 ETC_20170313_026992	Check Requirements to Unlock Rune Tombstone
@@ -26999,24 +26999,24 @@ ETC_20170313_026998	Check Requirements to Unlock It's Alright
 ETC_20170313_026999	Check Requirements to Unlock Just What I Was Craving
 ETC_20170313_027000	Check Requirements to Unlock Appease the Divine Spirit
 ETC_20170313_027001	Check Requirements to Unlock Eternal Rest Interrupted
-ETC_20170313_027002	
+ETC_20170313_027002	Unlock Appraiser
 ETC_20170313_027003	Find the Hidden Dice
 ETC_20170313_027004	Find the Hidden Dice Event
 ETC_20170313_027005	Max. Number of Regular Gem Multiples
-ETC_20170313_027006	
-ETC_20170313_027007	
-ETC_20170313_027008	
-ETC_20170313_027009	
-ETC_20170313_027010	
-ETC_20170313_027011	
+ETC_20170313_027006	Max. Amount Allowed in Identification Shop
+ETC_20170313_027007	When a user deducts a purchased item in the Steam Inventory system, if 0 the item is deducted via the TradeSetUnowned API, if 1 via the ConsumeItem API.
+ETC_20170313_027008	MemoryDump txt file saved in ChatServer Y/N. 1=Y
+ETC_20170313_027009	1 means the system log was sent from the client.
+ETC_20170313_027010	0 means not used, 1 means always failed, 2 means always successful. Used for determining the state of purchase requests when transmission fails.
+ETC_20170313_027011	Leaving this value as 1 means the Steam Inventory list is taken not from the Steam server but from reading the release\steamInvList.txt file.
 ETC_20170313_027012	Automatching Level Limits Relaxed Time1 (MS)
 ETC_20170313_027013	Automatching Level Limits Relaxed Time2 (MS)
-ETC_20170313_027014	
-ETC_20170313_027015	
+ETC_20170313_027014	Recipe - Reagent
+ETC_20170313_027015	Recipe for a reagent.
 ETC_20170313_027016	Recipe - Smurto Bracelet
 ETC_20170313_027017	Recipe - Ismintis Bracelet
 ETC_20170313_027018	Recipe - Stipiria Bracelet
-ETC_20170313_027019	Recipe - Svenus Bracelet
+ETC_20170313_027019	Recipe - Svenus Bracelet
 ETC_20170313_027020	Recipe - Feather Helmet
 ETC_20170313_027021	Recipe - Kietas Necklace
 ETC_20170313_027022	Recipe - Pejnus Necklace
@@ -27029,10 +27029,10 @@ ETC_20170313_027028	This item cannot be combined.
 ETC_20170313_027029	You can equip a maximum of {VALID_CNT} gems of the same type.
 ETC_20170313_027030	This item cannot be used as material.
 ETC_20170313_027031	Item has reached maximum level.
-ETC_20170313_027032	
-ETC_20170313_027033	
-ETC_20170313_027034	
-ETC_20170313_027035	
+ETC_20170313_027032	Cannot be used while enhancing an item.
+ETC_20170313_027033	Cannot enhance or transcend items while {BUFFNAME} is active.
+ETC_20170313_027034	Shop name must be shorter than {ENG_LEN} characters.
+ETC_20170313_027035	Identification price must be lower than {PRICE}.
 ETC_20170313_027036	Basic: Basis Stats, mit zusätzlichem Aufstiegsbonus{nl}Zugewiesen: Einfache Zuordnung stats{nl}Andere: Zusätzliche Stats von Gegenständen und anderem
 ETC_20170313_027037	Importing purchase records.
 ETC_20170313_027038	Display komplett.
@@ -31643,8 +31643,311 @@ ETC_20180214_031637	Exchange {@st66d_y}{s16}Old Golden Coin{/}{/} and Gem.	{@st6
 ETC_20180214_031638	Winter Penguin	윈터펭	ETC_20180214_031632	Golden Pup	황금개	
 ETC_20180219_031639	 {nl}"{NAME}" has played "{DAY} Days" in a row.{nl} EXP buff is available after logging in 2 days in a row.{nl}EXP buff varies depending on consecutive attendance days.	 {nl}"{NAME} 구원자"는 "{DAY}일" 연속으로 출석하셨습니다.{nl} 2일 이상 연속으로 출석을 해야 경험치 버프를 받을 수 있습니다.{nl}경험치 버프는 연속 출석 일수에 따라 달라집니다.				
 ETC_20180219_031640	Get EXP buff	경험치 버프 받기				
-ETC_20180219_031641	Weekend EXP	주말 경험치				
-ETC_20180219_031642	Attendance EXP	출석 경험치				
-ETC_20180228_031643		모델의 정점중에 NAN 값이 발견됨.				
-ETC_20180228_031644		라이칸스로피 수인화(남)				
-ETC_20180228_031645		라이칸스로피 수인화(여)	
+ETC_20180219_031641	Weekend EXP
+ETC_20180219_031642	Attendance EXP
+ETC_20180305_031643	NAN value found in model.
+ETC_20180305_031644	/BonusCount
+ETC_20180305_031645	Lycanthrope (Male)
+ETC_20180305_031646	Lycanthrope (Female)
+ETC_20180316_031647	50 Attribute Points
+ETC_20180316_031648	Gives 50 Attribute Points. Right-click to use.
+ETC_20180316_031649	[Event] Guildies Gather Up!
+ETC_20180316_031650	Check In and Receive Guild Rewards
+ETC_20180320_031651	{GUILD} Guild{nl} {nl}Yesterday's attendance: {COUNT1}{nl}Today's attendance : {COUNT2}
+ETC_20180320_031652	Guild check-in complete. Your rewards have been delivered.
+ETC_20180320_031653	Helgasercle's Reflection
+ETC_20180320_031654	Demon Lord Mirtis
+ETC_20180320_031655	Demon Lord Rexipher
+ETC_20180320_031656	Marnox
+ETC_20180320_031657	A title given to players who recovered the damaged books 150 times.
+ETC_20180320_031658	A title given to players who recovered the damaged books 200 times.
+ETC_20180320_031659	Baby Explorer
+ETC_20180320_031660	You are now taking your first steps in exploration. Good job!{nl}Title given to players who have completed 10 of Anastazija's riddles.
+ETC_20180320_031661	Ready to Explore
+ETC_20180320_031662	You're all set to start exploring the world outside.{nl}Title given to players who have completed 30 of Anastazija's riddles.
+ETC_20180320_031663	Exploration Expert
+ETC_20180320_031664	You've seen enough of the world, you know what you're doing.{nl}Title given to players who have completed 50 of Anastazija's riddles.
+ETC_20180320_031665	Dexter is My Boy
+ETC_20180320_031666	You played with Dexter so many times you became best friends.{nl}Title given to players who played with Dexter 30 times.
+ETC_20180320_031667	Ranko Area
+ETC_20180320_031668	Fantasy Library Area
+ETC_20180320_031669	Adventurer
+ETC_20180320_031670	Times played with Dexter
+ETC_20180320_031671	Spreading Curse
+ETC_20180320_031672	Cannot recover HP. Spreads to others.
+ETC_20180320_031673	Accuracy, critical chance increased
+ETC_20180320_031674	Awakened Field Boss
+ETC_20180320_031675	Field Boss is awakened, attack and defense are increased.
+ETC_20180320_031676	You were caught in the petrifying curse. You won't be able to move much for a few moments.
+ETC_20180320_031677	Petrification After Effects
+ETC_20180320_031678	You fell into the Curse of Petrification.
+ETC_20180320_031679	You temporarily become invincible, but cannot execute any attacks.
+ETC_20180320_031680	Blood Explosion
+ETC_20180320_031681	Receive great damage when [Bleeding] status persists.
+ETC_20180320_031682	Cheeky
+ETC_20180320_031683	Nervous
+ETC_20180320_031684	Evil
+ETC_20180320_031685	Sigh
+ETC_20180320_031686	Peace
+ETC_20180320_031687	Collection: 2nd Demon Prison
+ETC_20180320_031688	Increase minimum critical chance +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031689	Decrease damage from characters -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031690	Increase physical defense +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031691	Increase Magic defense +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031692	Recovers @{st66d_y}{s16}[%d]{/}{/}SP per monsters defeated
+ETC_20180320_031693	Movement speed +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180320_031694	Decrease Property Compatibility Penalty {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031695	EXP Gain +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180320_031696	Damage to Beast-type monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031697	The soldiers operating at the thorny Glade Hillroad seem to be facing a problem with an enormous monster. According to the reports, the monster is a Rocktortuga. Go and check whether the gigantic Rocktortuga is really roaming the thorny area.
+ETC_20180320_031698	The cave Kupoles noticed some suspicious movement in Khonot Forest and they're asking for help. Defeat the Bebraspion and protect the forest.
+ETC_20180320_031699	A fierce plant monster has appeared in Paupys Crossing and it's terrorizing the people of Orsha. Defeat the Colimencia and protect the city.
+ETC_20180320_031700	A wild Kirmeleech has appeared in Viltis Forest and it's attacking a group of adventurers. Defeat the Kirmeleech and protect them.
+ETC_20180320_031701	A deranged Cactusvel has appeared in Overlong Bridge Valley, threatening to take up the place of the Shnayim that once wandered the region. Help the local soldiers defeat the monster and bring peace back into Overlong Bridge Valley.
+ETC_20180320_031702	Alchemist Sophia has been noticing some strange monster activity in Khamadon Forest  and she's trying to get to the source of it. Go to Khamadon Forest and help her investigate.
+ETC_20180320_031703	Defeat Riteris
+ETC_20180320_031704	An urgent message has arrived from the Elgos Abbot. Residual energy from the Kruvina has attracted a lone Riteris which is now threatening the entire monastery. Help the Elgos Abbot protect it.
+ETC_20180320_031705	Defeat Pantorex
+ETC_20180320_031706	Defeat Heretic Pantorex
+ETC_20180320_031707	The watchers in Tenet Garden believe that the Pantos have a new king. They say the dangerous Panto leader is gathering an army in order to take control of the region. The situation must be stopped before it gets out of control.
+ETC_20180320_031708	Invest stat points in STR/CON/INT/SPR/DEX to develop your character.{nl}{nl}- STR: Increases physical attack and accuracy{nl}{nl}- CON: Increases max. HP, HP recovery (including from spells and potions), max. stamina and block{nl}{nl}- INT: Increases magic attack{nl}{nl}- SPR: Increases max. SP, SP recovery (including from spells and potions) and HP and skill damage of the summons{nl}{nl}- DEX: Increases attack speed, evasion, block penetration and critical attack{nl}
+ETC_20180320_031709	{nl} {nl}From Guild Quests or Instanced Dungeons, you can obtain 
+ETC_20180320_031710	Guild items can be obtained through guild quests. You can {img mouseclick_left 40 40} the items to distribute them to your guild members.
+ETC_20180320_031711	Guild members are able to participate in guild quests.
+ETC_20180320_031712	The guild master is able to select a guild quest from the Guild Tower.
+ETC_20180320_031713	Guild Quests are available only to guilds with{nl}a Templar Master and a Guild Tower skill of level 4 and above.
+ETC_20180320_031714	Guild Quests can be selected from the Guild Tower by the guild master or another member with that authority.{nl}The guild master can change Guild Quest authority settings at the Guild info window ({img Alt 40 40}+{img G 40 40}).
+ETC_20180320_031715	{nl} {nl}Guild Quests can consist of Guild Boss Raids, Guild Missions, etc.{nl}In order to play Guild Quests, you need Guild Tickets.
+ETC_20180320_031716	Each quest consumes 1 ticket, and the system{nl}resets every Monday at 6AM (server time).{nl} {nl}
+ETC_20180320_031717	After the guild master or a member with quest{nl}authority starts a Guild Quest, there is a period for{nl}recruiting participants.
+ETC_20180320_031718	The member who opens the quest is automatically added to the participant list, while other members can click the button to participate.{nl} {nl}
+ETC_20180320_031719	After all the participants are gathered, you can interact with the corresponding NPC and start the quest.{nl}The first quest can only be started by players with Guild Quest authority.
+ETC_20180320_031720	{nl}According to the kind of Guild Quest,{nl}you will receive different rewards.{nl}You can get guild currency{nl}to upgrade your guild, or{nl}items to grow on your Guild Hangout.
+ETC_20180320_031721	Rewards are sent to the guild storage, and can be distributed to guild members by the guild master.
+ETC_20180320_031722	Cards can be unequipped without the loss of level by using silver.{nl}Card Level *2,000 silver is consumed.
+ETC_20180320_031723	Legend Card
+ETC_20180320_031724	Legend cards can be equipped to obtain special beneficial effects.
+ETC_20180320_031725	Legend Card can be obtained through features such as raids, Demon Lord field bosses, Guild Quests, etc.
+ETC_20180320_031726	{nl} {nl}The Legend Card Slot is locked.
+ETC_20180320_031727	{nl} {nl}In order to unlock and activate the Legend Card slot,{nl}you need to complete the corresponding quests.
+ETC_20180320_031728	{nl} {nl}Only 1 Legend Card can be equipped.
+ETC_20180320_031729	{nl} {nl}A fee of 1,000,000 Silver is required to unequip{nl}a Legend Card without it reducing its level.
+ETC_20180320_031730	{nl} {nl}To enhance a Legend Card, press {img Insert 40 40} to enter Rest Mode, then click {img icon_rest_Legendcard 40 40}
+ETC_20180320_031731	Enhance Legend Card
+ETC_20180320_031732	  to access the function.
+ETC_20180320_031733	{nl} {nl}Legend Cards are enhanced instead of synthesized like regular cards.
+ETC_20180320_031734	The chances of success/failure/card loss depend on the Legend Card{nl}being enhanced and the grade/level of the 4 fodder cards.{nl}All fodder cards are consumed, regardless{nl}of whether the enhancement is successful.{nl}However, you can use less than 4 cards in your attempt.
+ETC_20180320_031735	{nl} {nl}If a Legend Card of 6 stars or more is destroyed, you receive{nl}an enhancing card depending on the level of the lost card.
+ETC_20180320_031736	{nl} {nl}Legend Enhancement Cards are worth 5x more than regular cards,{nl}or 0.5x more than Legend Cards when used as fodder.{nl}Legend Enhancement Cards can be upgraded through regular cards.
+ETC_20180320_031737	However, these cards can only be used to enhance Legend Cards.{nl}They cannot be equipped or used as fodder for regular cards.
+ETC_20180320_031738	{nl} {nl}
+ETC_20180320_031739	Some classes can learn certain skills that allow them to open their own special shops.{nl} {nl}When you are logged out, only the shop you opened last will remain available to other players. When you are in the game, you can have one more shop open at the same time.{nl} {nl}
+ETC_20180320_031740	Multiply Tokens are used to get more rewards and EXP{nl}from instanced dungeons and Mercenary Post missions.{nl} {nl}You can use as many Tokens as the number of entries you have left.{nl}Here's how:
+ETC_20180320_031741	 to receive the corresponding amount of rewards after clearing the dungeon or mission.
+ETC_20180320_031742	Guild Event Error
+ETC_20180320_031743	Guild Event Warning
+ETC_20180320_031744	Guild Event Information
+ETC_20180320_031745	Check log for skill learning through AnyoneSkill
+ETC_20180320_031746	Packet length exception processed
+ETC_20180320_031747	Redis Alert
+ETC_20180320_031748	Check Statue Load
+ETC_20180320_031749	DB Deadlock Log
+ETC_20180320_031750	Santa Costume Package (Female)
+ETC_20180320_031751	Right-click to use and obtain the items.{nl}- 1x Santa Costume (Female){nl}- 2x Tree Ornament Cube
+ETC_20180320_031752	Santa Costume Package (Male)
+ETC_20180320_031753	Right-click to use and obtain the items.{nl}- 1x Santa Costume (Male){nl}- 2x Tree Ornament Cube
+ETC_20180320_031754	#N/A
+ETC_20180320_031755	#N/A
+ETC_20180320_031756	If you exchange your current gear for {@st66d_y}Lv 15 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031757	N key
+ETC_20180320_031758	{/} to open the World Map {@st66d_y}
+ETC_20180320_031759	{/} and find a location to hunt monsters in. You can also purchase equipment from the {@st66d_y}
+ETC_20180320_031760	{/} NPC in town.
+ETC_20180320_031761	If you exchange your current gear for {@st66d_y}Lv 40 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031762	If you exchange your current gear for {@st66d_y}Lv 75 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031763	If you exchange your current gear for {@st66d_y}Lv 120 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031764	If you exchange your current gear for {@st66d_y}Lv 170 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031765	If you exchange your current gear for {@st66d_y}Lv 220 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031766	If you exchange your current gear for {@st66d_y}Lv 270 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031767	If you exchange your current gear for {@st66d_y}Lv 315 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031768	If you exchange your current gear for {@st66d_y}Lv 350 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031769	{/} {@st66d_y}
+ETC_20180320_031770	{/} NPC to access the instanced dungeons.
+ETC_20180320_031771	Mercenary Post Missions
+ETC_20180320_031772	{/} NPC to access the Mercenary Post missions.
+ETC_20180320_031773	{/} NPC to access daily quests.
+ETC_20180320_031774	Party Quests
+ETC_20180320_031775	{/} NPC to access party quests.
+ETC_20180320_031776	{/} NPC to access Saalus Convent missions.
+ETC_20180320_031777	Uphill Defense Mission
+ETC_20180320_031778	{/} NPC to access the Uphill Defense Mission.
+ETC_20180320_031779	Challenge Mode
+ETC_20180320_031780	{/}: Defeat the purple monsters in {@st66d_y}fields of level 200 and above{/} to create a portal to the Challenge Mode.{nl}Inside, your Looting Chance, i.e. {@st66d_y}your chances of getting random stat equipment increase{/} and, for each Stage, you can receive {@st66d_y}
+ETC_20180320_031781	{/} as reward.
+ETC_20180320_031782	{/} is the item consumed to enter it, and you can receive {@st66d_y}
+ETC_20180320_031783	Lv 350 Unique Equipment Recipes
+ETC_20180320_031784	{/} as reward.{nl}{@st66d_y}
+ETC_20180320_031785	{/} is where you need to go to begin the raid.
+ETC_20180320_031786	Equip Monster Cards
+ETC_20180320_031787	{/} {@st66d_y}
+ETC_20180320_031788	{/}: here, click {@st66d_y}
+ETC_20180320_031789	{/} to open the {@st66d_y}
+ETC_20180320_031790	{/} UI and equip a card.{nl}You check a card's effects through its tooltip, and you can {@st66d_y}
+ETC_20180320_031791	Enhance Card Levels
+ETC_20180320_031792	{/} by pressing the {@st66d_y}
+ETC_20180320_031793	Insert key for Rest Mode
+ETC_20180320_031794	{/} and then the {@st66d_y}
+ETC_20180320_031795	F key for Card Synthesis
+ETC_20180320_031796	{/} to open the corresponding UI.
+ETC_20180320_031797	Heretic Pantorex
+ETC_20180320_031798	Magical Orb
+ETC_20180320_031799	[Kedoran Alliance]{nl}Geraldasia
+ETC_20180320_031800	[Kedoran Alliance]{nl}Geraldason
+ETC_20180320_031801	Buy Thaumaturge Items
+ETC_20180320_031802	Buy Cryomancer Items
+ETC_20180320_031803	Buy Wizard Items
+ETC_20180320_031804	Buy Sorcerer Items
+ETC_20180320_031805	Claim Collection Reward Item
+ETC_20180320_031806	Use Magic Association Shop
+ETC_20180320_031807	Fantasy Library Area Collection
+ETC_20180320_031808	Ranko Waters Area Collection
+ETC_20180320_031809	Defeat the Varle King
+ETC_20180320_031810	Adventurer Gimmick
+ETC_20180320_031811	Play with Dexter
+ETC_20180320_031812	Legend Card Slots
+ETC_20180320_031813	Silver spent per star when removing regular monster cards
+ETC_20180320_031814	Silver spent per star when removing legend cards
+ETC_20180320_031815	 When left on 1, it applies the time of imc's Namespace local system. Can be changed in the script.
+ETC_20180320_031816	NGS Version 4.0
+ETC_20180320_031817	Weekly instanced dungeon reset day. 1 (Sunday) - 7 (Saturday)
+ETC_20180320_031818	Tormenta is surrounded by an ominous aura.
+ETC_20180320_031819	Magic Shield Skill Lv +1
+ETC_20180320_031820	Storm Dust Skill Lv +1
+ETC_20180320_031821	Quick and Dead Skill Lv +1
+ETC_20180320_031822	Recipe - Monster Card Album: Black
+ETC_20180320_031823	Recipe for Monster Card Album: Black.
+ETC_20180320_031824	Recipe - Pheltremin
+ETC_20180320_031825	Recipe - Ulstermite
+ETC_20180320_031826	Recipe - Akro Galia Bangle
+ETC_20180320_031827	Recipe - Aiskus Bracelet
+ETC_20180320_031828	Recipe - Achiva Bracelet
+ETC_20180320_031829	Recipe - Mirti Bracelet
+ETC_20180320_031830	Recipe - Ufhor Pearl Bracelet
+ETC_20180320_031831	Recipe - Pik'o Pearl Bracelet
+ETC_20180320_031832	You can check your collections registered at the Magic Association under the Exploration tab of your Adventure Journal.
+ETC_20180320_031833	Failed to acquire Session Code. Please login again.
+ETC_20180320_031834	Failed to send whisper. Please try again.
+ETC_20180320_031835	Failed to invite to Group Chat. Please try again.
+ETC_20180320_031836	Not enough Belorbs.
+ETC_20180320_031837	Fodder items are automatically consumed, regardless of the result.{nl}The Legend Card can be destroyed depending on the success of the enhancement.{nl} {nl}Are you sure you want to enhance?
+ETC_20180320_031838	Legend Cards cannot be enhanced with regular Monster Cards.
+ETC_20180320_031839	Only enhances Legend Cards.
+ETC_20180320_031840	Your Legend Card slot is locked.{nl}You need to unlock it in order to equip a card.
+ETC_20180320_031841	Only 1 Legend Card can be equipped.
+ETC_20180320_031842	Only accepts Belorbs.
+ETC_20180320_031843	Please select a Legend Card to enhance.
+ETC_20180320_031844	Please add cards to use as fodder.
+ETC_20180320_031845	Legend Enhancement Cards cannot be equipped.
+ETC_20180320_031846	Failed to sell the item. Please try again.
+ETC_20180320_031847	Failed to store the item in the warehouse. Please try again.
+ETC_20180320_031848	Are you sure you want to repair?{nl}{ol}{Price} Silver{/}
+ETC_20180320_031849	You have exceeded the maximum amount of registrations.
+ETC_20180320_031850	Already in progress. Please try again later.
+ETC_20180320_031851	Cannot move channels.{nl}Either your character is unable to move channels, or your current map does not allow it.
+ETC_20180320_031852	You are about to receive {#aa0000}{ol}{ItemCount}{/}{/} item(s) which cannot be transferred via Team Storage.{nl}The item(s) {#aa0000}{ol}cannot be transferred to other characters{/}{/}.{nl} {nl}Are you sure you want to give the item(s) to {#ffffff}{ol}{PC}{/}{/}?
+ETC_20180320_031853	Failed to display TP purchase list.{nl}Please try again later.{nl}If the problem persists, please send us a Support ticket with the error code.{nl}Error code: {Code}
+ETC_20180320_031854	Failed to transfer TP.{nl}Please try again later.{nl}If the problem persists, please send us a Support ticket with the error code.{nl}Error code: {Code}
+ETC_20180320_031855	Please select a guild quest
+ETC_20180320_031856	Item: {COUNT} time(s) per team
+ETC_20180320_031857	{ITEM} x{COUNT}
+ETC_20180320_031858	Use Monster Energy x{COUNT} to level up {NAME} to Lv {LV}
+ETC_20180320_031859	You need Monster Energy x{COUNT} to increase one level.
+ETC_20180320_031860	Receive Blue Orb Dungeon Coin
+ETC_20180320_031861	You have less than Blue Orb Dungeon Coin x{COUNT} in your inventory!
+ETC_20180320_031862	Capture Successful!
+ETC_20180320_031863	Capture Failed!
+ETC_20180320_031864	Unable to proceed while joined by a companion.
+ETC_20180320_031865	Level {LV} or higher are allowed.
+ETC_20180320_031866	Treasure Chest can be opened after defeating the Boss Monster.
+ETC_20180320_031867	{@st42}{s18}Previous quest [currently logged in character]{/}
+ETC_20180320_031868	Get Rank Reset Voucher for Shinobi C1
+ETC_20180320_031869	Get Rank Reset Voucher for Wizard C1 or higher
+ETC_20180320_031870	Searching for the token
+ETC_20180320_031871	You have found the Adventurer's Token!
+ETC_20180320_031872	Try the Riddle
+ETC_20180320_031873	Check total of riddles sloved
+ETC_20180320_031874	Return!
+ETC_20180320_031875	So far you've guessed 
+ETC_20180320_031876	 right.
+ETC_20180320_031877	What can you tell me about the Bookshelf of Ripped Books?
+ETC_20180320_031878	Sure, I can gather a few Ripped Book Pages.
+ETC_20180320_031879	Please explain.
+ETC_20180320_031880	I have some book pages for you.
+ETC_20180320_031881	Woof! Woof!
+ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.
+ETC_20180320_031883	Failed to create {TYPE}. Please try again later.
+ETC_20180320_031884	Next Guild Level
+ETC_20180320_031885	Guild Quest Area
+ETC_20180320_031886	Guild Boss Raid
+ETC_20180320_031887	Guild Quest{nl}Would you like to start {nl}{GuildEvent}?
+ETC_20180320_031888	You are not participating in a guild quest.
+ETC_20180320_031889	Guild Quest
+ETC_20180320_031890	Guild Quests cannot be canceled after they have been initialized.
+ETC_20180320_031891	Only members with Guild Quest authority can initialize one.
+ETC_20180320_031892	Place an item to increase guild EXP.
+ETC_20180320_031893	The quest will begin after all the participants have been recruited.
+ETC_20180320_031894	A Guild Quest is already in progress.
+ETC_20180320_031895	The previous Guild Quest was not correctly terminated.{nl}Resetting Guild Quest progress status.
+ETC_20180320_031896	Guild member {Name} has obtained {ItemName}.
+ETC_20180320_031897	Failed to register the item to the market. Please try again.
+ETC_20180320_031898	Do you wish to purchase?{nl}{ol}{Price} Silver{/}
+ETC_20180320_031899	Check Next Collection Compensation List
+ETC_20180320_031900	Close the Reward List
+ETC_20180320_031901	Failed to retrieve the costume.
+ETC_20180320_031902	 {nl}Monster name : {NAME} / Current level :  {LV}{nl}In order to increase the level 
+ETC_20180320_031903	  is required. 
+ETC_20180320_031904	 Enter the amount.{nl}You need 1  
+ETC_20180320_031905	  per level, and to increase 5 levels at a time you need one  
+ETC_20180320_031906	.
+ETC_20180320_031907	Fedimian Under Attack Event
+ETC_20180320_031908	Special Blue Orb Event
+ETC_20180320_031909	Looting Chance +100 (30 min.): {@st66d}{needSilver} Silver{/}
+ETC_20180320_031910	[Kedora Alliance]{nl}Geraldasia
+ETC_20180320_031911	[Kedora Alliance]{nl}Geraldason
+ETC_20180320_031912	Blue Greentoshell
+ETC_20180320_031913	Quest failed. All players have been incapacitated.
+ETC_20180320_031914	Defeat the monster in the Basement Facility!
+ETC_20180320_031915	Start Log
+ETC_20180320_031916	End Log
+ETC_20180320_031917	1st Room Log
+ETC_20180320_031918	2,3,4th Room Log
+ETC_20180320_031919	6th Room Log
+ETC_20180320_031920	Boss Room Log
+ETC_20180320_031921	Mission failed.
+ETC_20180320_031922	1 minute and 30 seconds from Phyracon 
+ETC_20180320_031923	Failed Guild Quest.
+ETC_20180320_031924	The first mission has begun.{nl}Defeat 50 monsters within the time limit.
+ETC_20180320_031925	Defeat 50 Monsters
+ETC_20180320_031926	The first mission has begun.{nl}Defeat 60 monsters within the time limit.
+ETC_20180320_031927	Defeat 60 Monsters
+ETC_20180320_031928	The first mission has begun.{nl}Defeat 70 monsters within the time limit.
+ETC_20180320_031929	Defeat 70 Monsters
+ETC_20180320_031930	The first mission has begun.{nl}Defeat 80 monsters within the time limit.
+ETC_20180320_031931	Defeat 80 Monsters
+ETC_20180326_031932	A title given to honorary reporters of The Popolion Post.
+ETC_20180326_031933	2nd Anniversary Event - Receive Invitations List
+ETC_20180326_031934	Your progress: {COUNT}/55{nl}Today's invitation is for the {JOB} Master.
+ETC_20180326_031935	Your progress: {COUNT}/55{nl}You already checked today's invitation.
+ETC_20180326_031936	Arbor Day Event Helper
+ETC_20180326_031937	[Lancer Master]{nl} Noer Parecius
+ETC_20180326_031938	[Fletcher Master]{nl}Visvaldas Black
+ETC_20180326_031939	[Falconer Master]{nl} Genklas Metai
+ETC_20180326_031940	[Cannoneer Master]{nl}Eda Saker Bazaras
+ETC_20180326_031941	[Hunter Master]{nl}    Fiona Ieva
+ETC_20180326_031942	[Sapper Master]{nl} Leonard Quicktongue
+ETC_20180326_031943	[Mergen Master]{nl}Vhangomont Breogen
+ETC_20180326_031944	[Monk Master]{nl} Olfas Grimm
+ETC_20180326_031945	[Pardoner Master]{nl}Mistes Goldmund
+ETC_20180326_031946	[Paladin Master] {nl} Valentinas Naimon
+ETC_20180326_031947	[Taoist Master]{nl} GeHong
+ETC_20180326_031948	[Zealot Master]{nl}    Eliza Tal	
