@@ -11353,3 +11353,27 @@ QUEST_LV_0200_20171128_011356	The history of the Bullet Marker has just begun.{n
 QUEST_LV_0200_20180208_011357	Iona	이오나				
 QUEST_LV_0200_20180208_011358	It's been hard taking care of the bees after they became aggressive.{nl}The people of the village have been trying, but it's not easy.	벌들이 난폭해져 양봉에 어려움이 있어요.{nl}마을 사람들이 이 어려움을 타개하려고 노력 중이지만, 쉽지 않아요.				이오나
 QUEST_LV_0200_20180208_011359	Because of the bee problem, we can no longer make our typical honey liquor.	벌들이 난폭해지는 바람에 이곳에서 맛볼 수 있는 벌꿀술을 맛 볼 수 없게 됐어요.				이오나
+QUEST_LV_0200_20180418_011360	I am the only one left in the Legwyn family, so each symbol is important to me.	르귄 가문은 이제 저밖에 남지 않았기에 사소한 가문의 증표 하나하나가 모두 소중하답니다.	QUEST_JOBSTEP_20150317_000671	I am the only one left in the Legwyn family, so each symbol is important to me.	르귄가문은 이제 저밖에 남지 않았기에 사소한 가문의 증표 하나하나가 모두 소중하답니다.	스콰이어 마스터
+QUEST_LV_0200_20180418_011361	It's okay if it's not intact.{nl}If we at least have the seal of the family, we can let the rest of the world know that the Legwyn family is still alive.	완전히 온전하지 않아도 좋습니다.{nl}가문의 인장만 있다면 르귄 가문은 아직 살아 있다는 것을 널리 알릴 수 있겠지요.	QUEST_JOBSTEP_20150730_003066	It's okay if it's not intact.{nl}If we have the seal of the family, we can let the rest of the world know that the Legwyn family is still alive.	완전히 온전하지 않아도 좋습니다.{nl}가문의 인장만 있다면 르귄 가는 아직 살아 있다는 것을 널리 알릴 수 있겠지요.	스콰이어 마스터
+QUEST_LV_0200_20180418_011362	How horrible...{nl}If I become the official heir of the Legwyn family, I will not forget this.	이렇게 처참한 상태라니.. {nl}제가 르귄 가문의 정식 상속자가 되면 절대 용서하지 않을 겁니다.{nl}	QUEST_JOBSTEP_20150730_003067	So horrible...{nl}If I become the official heir of the Legwyn family, I will not forgive about this.	이렇게 처참한 상태라니.. {nl}제가 르귄 가의 정식 상속자가 되면 절대 용서하지 않을 겁니다.{nl}	스콰이어 마스터
+QUEST_LV_0200_20180418_011363	A request came in, are you interested?{nl} This will be a good way to test your skills.	의뢰가 하나 들어왔는데, 혹시 해 볼 생각 없어?{nl}네 기량을 시험해볼 수 있는 좋은 의뢰인데 말이야.				스카우트 마스터
+QUEST_LV_0200_20180418_011364	Highly impressive. You've proven your skill.{nl}It's nice to know that we can work together if another request comes in. Thanks. 	정말 멋진걸? 네 기량은 충분해.{nl}다음에 또 의뢰가 들어올 때 같이 일할 수 있음 좋겠네. 고마워.				스카우트 마스터
+QUEST_LV_0200_20180418_011365	You will help? Thank you.{nl}From my sources a Poata in Greene Manor should be carrying the ornament.{nl}	도와주신다고요? 감사합니다.{nl}들은 정보로는 장식은 그린가의 장원에 있는 포아타가 가지고 있다고 하더군요.{nl}				스콰이어 마스터
+QUEST_LV_0200_20180418_011366	Please check if the Poata has the Legwyn family ornament.{nl} Please... I request this of you. 	혹여 포아타와 마주치시거든 그 녀석에게서 르귄 가문의 장식이 있는지 확인해주세요.{nl}꼭.. 부탁드립니다.				스콰이어 마스터
+QUEST_LV_0200_20180418_011367	This... this is the ornament of the Legwyn family.{nl} I cannot thank you enough for finding it for me. 	이건.. 르귄 가문의 장식이 맞습니다.{nl}일부러 저를 위해서 이렇게까지 찾아주시다니.. 정말 감사합니다.				스콰이어 마스터
+QUEST_LV_0200_20180418_011368	The world knows me as the Squire Master.{nl}But, I am also the sole survivor of the Legwyn family.{nl}	세상이 아는 저는 스콰이어 마스터입니다만, 한편으로는 르귄 가문의 유일한 생존자이기도 합니다.{nl}				스콰이어 마스터
+QUEST_LV_0200_20180418_011369	As the last of the family I wish to restore its name.{nl}If you come across the Seal of our family at the Legwyn Family Residence please bring it to me. Please...	저는 마지막 당주로서 가문을 다시 일으키려고 합니다.{nl}르귄 가문의 저택에서 르귄 가문의 인장을 보시거든 가져와주셨으면 합니다. 꼭.. 부탁드립니다.				스콰이어 마스터
+QUEST_LV_0200_20180418_011370	There are a lot of requests out there, but this one is too good to miss, no?{nl} What do you think? Give it a shot? 	우리 말고도 여러 곳에 의뢰를 한 모양인데, 놓칠 순 없잖아?{nl}어때, 해보지 않겠어?				무고사 마스터
+QUEST_LV_0200_20180418_011371	Seems like you did a very good job after all.{nl}It was a difficult task, but I have to admit you have skills.{nl}	보아하니 훌륭하게 완수했나 보군.{nl}어려운 임무였는데, 정말 네 실력을 인정해야겠네.				무고사 마스터
+QUEST_LV_0200_20180418_011372	You say you want to learn about us?{nl}Well then, it would help you if you learned about the research carried out by earlier Psychokinos.	우리에 대해 알고 싶다고?{nl}그렇다면 선대 사이코키노들이 무엇을 연구했는지 알아보는 게 더 도움이 될 거야.				사이코키노 마스터
+QUEST_LV_0200_20180418_011373	From your face I can tell the tomes were helpful.{nl}That is Psychokinos. Enticing, don't you agree? Hehehe.	자네 표정을 보니 마법서의 내용이 확실히 도움이 된 것 같군.{nl}그래, 사이코키노란 그런 거야. 정말 매력적이라고 생각되지 않아? 후훗.				사이코키노 마스터
+QUEST_LV_0200_20180418_011374	Attitude Towards the Dark Property [Elementalist Advancement]	어둠 속성을 상대하는 자세[엘리멘탈리스트 전직]				
+QUEST_LV_0200_20180418_011375	A Long Tail Gets Caught	꼬리가 길면 잡힌다				
+QUEST_LV_0200_20180418_011376	Honor of the Legwyn Family	르귄 가문의 명예				
+QUEST_LV_0200_20180418_011377	Legwyn Family's Seal 	르귄 가문의 인장				
+QUEST_LV_0200_20180418_011378	The Master of Poison 	독의 고수				
+QUEST_LV_0200_20180418_011379	Magic Studies of Psychokino	사이코키노의 마법공부				
+QUEST_LV_0200_20180418_011380	The Scout Master wants to check your abilities. Defeat Deadborn at District 1 of Demon Prison and return to the Scout Master.	스카우트 마스터는 당신의 기량을 확인하고 싶어 합니다. 마족수감소 1구역에서 데드본을 처치하고 스카우트 마스터에게 돌아가세요.				
+QUEST_LV_0200_20180418_011381	 Retrieve the Legwyn Family Ornament from the Poata	포아타에게서 르귄 가문의 장식 찾기				
+QUEST_LV_0200_20180418_011382	The Squire Master is looking for the ornament the Legwyn family. Defeat Poata at Greene Manor and retrieve the ornament.	스콰이어 마스터는 르귄 가문의 장식을 찾고 있습니다. 그린가의 장원의 포아타를 처치하여 장식을 찾아오세요.				
+QUEST_LV_0200_20180418_011383	Defeat Monsters and Obtain Fragments of Legwyn's Seal	몬스터를 처치해서 르귄 가문의 인장 조각 수집		

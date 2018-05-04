@@ -26071,7 +26071,7 @@ ETC_20161214_026070	{img green_up_arrow 16 16} 6 magic defense, {img red_down_ar
 ETC_20161214_026071	Solmiki Cloth Set
 ETC_20161214_026072	All Stats {img green_up_arrow 16 16}25
 ETC_20161214_026073	Max. SP {img green_up_arrow 16 16}1437 Increase
-ETC_20161214_026074	Earth Property Additional Damage {img green_up_arrow 16 16}162
+ETC_20161214_026074	Earth Property Zusätzlicher Schaden {img green_up_arrow 16 16}162
 ETC_20161214_026075	Physical Attack {img green_up_arrow 16 16}571{nl}                         Magic Amplification {img green_up_arrow 16 16}69
 ETC_20161214_026076	Solmiki Leather Set
 ETC_20161214_026077	Critical Attack {img green_up_arrow 16 16}225 Increase{nl}                         Accuracy {img green_up_arrow 16 16}100 Increase
@@ -27212,447 +27212,447 @@ ETC_20170313_027211	The Vikaras Mage is already awake.
 ETC_20170313_027212	If only I can finish this I can help the soldiers.{nl}Can I make it though?
 ETC_20170313_027213	If I can't the soldiers are gonna finish me.{nl}I have to be strong.
 ETC_20170313_027214	I can do it.{nl}I can defeat the Gaigalas this time.
-ETC_20170313_027215	
-ETC_20170313_027216	
-ETC_20170313_027217	
-ETC_20170313_027218	
-ETC_20170313_027219	
-ETC_20170313_027220	
-ETC_20170313_027221	
-ETC_20170313_027222	
-ETC_20170313_027223	
-ETC_20170313_027224	
-ETC_20170313_027225	
-ETC_20170313_027226	
-ETC_20170313_027227	
-ETC_20170313_027228	
-ETC_20170313_027229	
-ETC_20170313_027230	
-ETC_20170313_027231	
-ETC_20170313_027232	
-ETC_20170313_027233	
-ETC_20170313_027234	
-ETC_20170313_027235	
-ETC_20170313_027236	
-ETC_20170313_027237	
-ETC_20170313_027238	
-ETC_20170313_027239	One or more party members already have a quest in progress.
-ETC_20170313_027240	Accept Quest
-ETC_20170313_027241	This item can only be used inside a city.
-ETC_20170313_027242	Must meet quest requirements.{nl}Min. level: 
-ETC_20170313_027243	Turn on.
-ETC_20170313_027244	Turn off.
-ETC_20170313_027245	Kick.
-ETC_20170313_027246	Enter code.
-ETC_20170313_027247	Pick lock.
-ETC_20170313_027248	Use Fluflu Bomb!
-ETC_20170313_027249	Checking root crystal...
-ETC_20170313_027250	 Root sprout effects applied!
-ETC_20170313_027251	Destroyed mutated Tree Root Crystal.
-ETC_20170313_027252	Shaman Doll
-ETC_20170313_027253	The Shaman Doll has obtained 
-ETC_20170313_027254	 in magic.
-ETC_20170313_027255	You already summoned the doll.
-ETC_20170313_027256	The doll cannot be summoned here.
-ETC_20170313_027257	You don't have a Fluflu Bomb!
-ETC_20170313_027258	Restarting map...
-ETC_20170313_027259	Prüfe Map...
-ETC_20170313_027260	No magic to collect.
-ETC_20170313_027261	Collected magic.
-ETC_20170313_027262	Restart the map near a magic collector.
-ETC_20170313_027263	Map startet neu!
-ETC_20170313_027264	See Hethran Badge Lv1 Rewards
-ETC_20170313_027265	See Hethran Badge Lv2 Rewards
-ETC_20170313_027266	See Hethran Badge Lv3 Rewards
-ETC_20170313_027267	About the Jewelry Merchant
-ETC_20170313_027268	Find the magic collectors located at Salvia Forest.{nl}When you find one, restart the map and collect their magic.
-ETC_20170313_027269	The code was incorrect and the chest vanished.{nl}Find another chest.
-ETC_20170313_027270	The code is correct!{nl}The chest is opening.
-ETC_20170313_027271	Abandoned code guessing.
-ETC_20170313_027272	Find the magic collectors located at Tevhrin Stalactite Cave Section 1.{nl}When you find one, restart the map and collect their magic.
-ETC_20170313_027273	You have collected enough power.{nl}Activate the observation device.
-ETC_20170313_027274	Collected device power.
-ETC_20170313_027275	Purified poison field!
-ETC_20170313_027276	The chest has vanished.{nl}Find another chest.
-ETC_20170313_027277	Checking the fragment...
-ETC_20170313_027278	Defeat the incoming monsters!
-ETC_20170313_027279	Collecting the fragments...
-ETC_20170313_027280	Obtained fragments.
-ETC_20170313_027281	Failed to protect the magic circle.
-ETC_20170313_027282	Purification failed.
-ETC_20170313_027283	Purification successful!
-ETC_20170313_027284	Placing the wand...
-ETC_20170313_027285	Checking unknown flower...
-ETC_20170313_027286	Collecting unknown flower...
-ETC_20170313_027287	Collected unknown flower!
-ETC_20170313_027288	Collected Cyst fluid!
-ETC_20170313_027289	Collected herbs!
-ETC_20170313_027290	The herbs broke upon being pulled.
-ETC_20170313_027291	A pink tree root came out of the herb's roots!
-ETC_20170313_027292	Checking rare flower...
-ETC_20170313_027293	Collecting rare flower...
-ETC_20170313_027294	Collected rare flower!
-ETC_20170313_027295	Checking trap...
-ETC_20170313_027296	Spraying the scent...
-ETC_20170313_027297	The Pendrosium is passed out!{nl}Hurry and collect the honey!
-ETC_20170313_027298	Collecting honey...
-ETC_20170313_027299	Collected the honey!
-ETC_20170313_027300	Collected all the honey!
-ETC_20170313_027301	This device is on.{nl}Turn on another device.
-ETC_20170313_027302	All devices are on.{nl}Activate the devices!
-ETC_20170313_027303	Turn on all the devices!
-ETC_20170313_027304	Collecting spores...
-ETC_20170313_027305	Collected the spores!
-ETC_20170313_027306	Failed to collect the spores.
-ETC_20170313_027307	Burying the Hallucination Stone...
-ETC_20170313_027308	You have buried all the stones!{nl}Report back to Monk Jones.
-ETC_20170313_027309	Investigating object...
-ETC_20170313_027310	It's a broken piece of glass.
-ETC_20170313_027311	Checking the chest...
-ETC_20170313_027312	Found a bag of emergency food supplies!
-ETC_20170313_027313	There's nothing here.
-ETC_20170313_027314	Defeat the incoming monsters!
-ETC_20170313_027315	Checking the writings...
-ETC_20170313_027316	Checked the writings!
-ETC_20170313_027317	Failed to activate the devices.
-ETC_20170313_027318	
-ETC_20170313_027319	
-ETC_20170313_027320	
-ETC_20170313_027321	
-ETC_20170313_027322	
-ETC_20170313_027323	
-ETC_20170313_027324	
-ETC_20170313_027325	
-ETC_20170313_027326	
-ETC_20170313_027327	
-ETC_20170313_027328	
-ETC_20170313_027329	
-ETC_20170313_027330	
-ETC_20170313_027331	
-ETC_20170313_027332	
-ETC_20170313_027333	
-ETC_20170313_027334	
-ETC_20170313_027335	
-ETC_20170313_027336	
-ETC_20170313_027337	
-ETC_20170313_027338	
-ETC_20170313_027339	
-ETC_20170313_027340	
-ETC_20170313_027341	
-ETC_20170313_027342	
-ETC_20170313_027343	
-ETC_20170313_027344	
-ETC_20170313_027345	
-ETC_20170313_027346	
-ETC_20170313_027347	
-ETC_20170313_027348	
-ETC_20170313_027349	
-ETC_20170313_027350	
-ETC_20170313_027351	
-ETC_20170313_027352	
-ETC_20170313_027353	
-ETC_20170313_027354	
-ETC_20170313_027355	
-ETC_20170313_027356	
-ETC_20170313_027357	
-ETC_20170313_027358	
-ETC_20170313_027359	
-ETC_20170313_027360	
-ETC_20170313_027361	
-ETC_20170313_027362	
-ETC_20170313_027363	
-ETC_20170313_027364	
-ETC_20170313_027365	
-ETC_20170313_027366	
-ETC_20170313_027367	
-ETC_20170313_027368	
-ETC_20170313_027369	
-ETC_20170313_027370	
-ETC_20170313_027371	
-ETC_20170313_027372	
-ETC_20170313_027373	
-ETC_20170313_027374	
-ETC_20170313_027375	
-ETC_20170313_027376	
-ETC_20170313_027377	
-ETC_20170313_027378	
-ETC_20170313_027379	
-ETC_20170313_027380	
-ETC_20170313_027381	
-ETC_20170313_027382	
-ETC_20170313_027383	
-ETC_20170313_027384	
-ETC_20170313_027385	
-ETC_20170313_027386	
-ETC_20170313_027387	
-ETC_20170313_027388	
-ETC_20170313_027389	
-ETC_20170313_027390	
-ETC_20170313_027391	
-ETC_20170313_027392	
-ETC_20170313_027393	
-ETC_20170313_027394	
-ETC_20170313_027395	
-ETC_20170313_027396	
-ETC_20170313_027397	
-ETC_20170313_027398	
-ETC_20170313_027399	
-ETC_20170313_027400	
-ETC_20170313_027401	
-ETC_20170313_027402	
-ETC_20170313_027403	
-ETC_20170313_027404	
-ETC_20170313_027405	
-ETC_20170313_027406	
-ETC_20170313_027407	
-ETC_20170313_027408	
-ETC_20170313_027409	
-ETC_20170313_027410	
-ETC_20170313_027411	
-ETC_20170313_027412	
-ETC_20170313_027413	
-ETC_20170313_027414	
-ETC_20170313_027415	
-ETC_20170313_027416	
-ETC_20170313_027417	
-ETC_20170313_027418	
-ETC_20170313_027419	
-ETC_20170313_027420	
-ETC_20170313_027421	
-ETC_20170313_027422	
-ETC_20170313_027423	
-ETC_20170313_027424	
-ETC_20170313_027425	
-ETC_20170313_027426	
-ETC_20170313_027427	
-ETC_20170313_027428	
-ETC_20170313_027429	
-ETC_20170313_027430	
-ETC_20170313_027431	
-ETC_20170313_027432	
-ETC_20170313_027433	
-ETC_20170313_027434	
-ETC_20170313_027435	
-ETC_20170313_027436	
-ETC_20170313_027437	
-ETC_20170313_027438	
-ETC_20170313_027439	
-ETC_20170313_027440	
-ETC_20170313_027441	
-ETC_20170313_027442	
-ETC_20170313_027443	
-ETC_20170313_027444	
-ETC_20170313_027445	
-ETC_20170313_027446	
-ETC_20170313_027447	
-ETC_20170313_027448	The chest is locked.
-ETC_20170313_027449	Buff obtained from shop is already applied.
-ETC_20170313_027450	Includes prohibited characters.
-ETC_20170313_027451	Can include one (-) or one (_), but no (,).
-ETC_20170313_027452	Includes prohibited BlockName.
-ETC_20170313_027453	Successfully registered the item.{nl}Please allow up to 2 hours for items, excluding Tokens, to be shown on the Market.
-ETC_20170313_027454	Gegenstand [{#0000ff}{ITEM}{#000000}] {#ff0000}{COUNT}{#000000} verkauft
-ETC_20170313_027455	Es sind {#ff0000}Silver{#000000} zum abholen bereit.{nl}You may retrieve it from the {#0000ff}[Market Retrieve Tab]{#000000}.
-ETC_20170313_027456	Gegenstand ist aktuell gesperrt.
-ETC_20170313_027457	Benutze Shop
-ETC_20170313_027458	
-ETC_20170313_027459	
-ETC_20170313_027460	
-ETC_20170313_027461	Sammlung: 
-ETC_20170313_027462	Nach Name
-ETC_20170313_027463	Nach Status
-ETC_20170313_027464	
-ETC_20170313_027465	Purchase failed.
-ETC_20170313_027466	{REWARD} reward(s) received.
-ETC_20170313_027467	Reach level {NEXTLV} to receive the next reward.
-ETC_20170313_027468	Receive
-ETC_20170313_027469	Prüfe Ziel Level
-ETC_20170313_027470	
-ETC_20170313_027471	
-ETC_20170313_027472	
-ETC_20170313_027473	
-ETC_20170313_027474	
-ETC_20170313_027475	
-ETC_20170313_027476	
-ETC_20170313_027477	
-ETC_20170313_027478	Braun
-ETC_20170313_027479	Badge Collector
-ETC_20170313_027480	Catacombs Dungeon 2
-ETC_20170313_027481	[Chaplain Master]{nl}         Ceslovas
-ETC_20170313_027482	Hidden Treasure Chest
-ETC_20170313_027483	Abandoned Chest
-ETC_20170313_027484	Scented Herb
-ETC_20170313_027485	[Identifier]{nl}  Sandra
-ETC_20170313_027486	
-ETC_20170313_027487	Completed Magic Circle
-ETC_20170313_027488	Zima Suecourt Observation Device
-ETC_20170313_027489	Collector
-ETC_20170313_027490	[Chaplain Master]{nl}  Ceslovas
-ETC_20170313_027491	Dead Liverwort
-ETC_20170313_027492	Inner Wall Observation Device
-ETC_20170313_027493	Rare Flower
-ETC_20170313_027494	Singing Sphere
-ETC_20170313_027495	Shiny Object
-ETC_20170313_027496	Space Gap
-ETC_20170313_027497	Besiegt all monsters!{nl}
-ETC_20170313_027498	Collect the fragments!
-ETC_20170313_027499	Collect the unknown flower!
-ETC_20170313_027500	Collect the rare flower.
-ETC_20170313_027501	Besiegt all the monsters!{nl}Check the writings!
-ETC_20170313_027502	Entered the Roxona Underground Facility Mission.
-ETC_20170313_027503	Defeat all head monsters inside the facility.
-ETC_20170313_027504	Petrification curse detected in some areas!{nl}A Blue Slime has appeared.
-ETC_20170313_027505	Petrification curse detected in some areas!{nl}A Blue Elet has appeared.
-ETC_20170313_027506	Petrification curse detected in some areas!{nl}A Brown Terra Imp has appeared.
-ETC_20170313_027507	Petrification curse detected in some areas!{nl}A Black Rajapearlite has appeared.
-ETC_20170313_027508	Roxona Underground Facility Mission failed!{nl}Returning to Ruklys Street.
-ETC_20170313_027509	Roxona Underground Facility Mission complete!{nl}Returning to Ruklys Street.
-ETC_20170313_027510	The trap was activated, attracting all nearby monsters!{nl}Defeat the incoming monsters!
-ETC_20170313_027511	You have defeated the monsters!{nl}Destroy the activated trap!
-ETC_20170313_027512	Failed to retrieve TP. Error code: {Code}
-ETC_20170313_027513	Awaiting TP retrieval. Please try again later.
-ETC_20170314_027514	One or more party members have used all daily entries.{nl}You will be able to advance only until the Lolopanther Area.
-ETC_20170327_027515	Receive Anniversary Firecrackers
-ETC_20170327_027516	Cannot be used while riding or interacting with a companion.
-ETC_20170327_027517	Receive Event Items
-ETC_20170330_027518	Main Building
-ETC_20170330_027519	Grand Corridor
-ETC_20170330_027520	Penitence Route
-ETC_20170330_027521	Sanctuary
-ETC_20170330_027522	Sentry Bailey
-ETC_20170330_027523	Drill Ground of Confliction
-ETC_20170330_027524	Resident Quarter
-ETC_20170330_027525	Storage Quarter
-ETC_20170330_027526	Storage
-ETC_20170330_027527	Solitary Cells
-ETC_20170330_027528	Workshop
-ETC_20170330_027529	Investigation Room
-ETC_20170330_027530	Ruklys Hall of Fame
-ETC_20170330_027531	Extension
-ETC_20170330_027532	Evacuation Residential District
-ETC_20170330_027533	Tough Luck
-ETC_20170330_027534	Use this and good things are sure to come your way.
-ETC_20170330_027535	Lucky One
-ETC_20170330_027536	Golden Luck
-ETC_20170330_027537	Eternal Fortune
-ETC_20170330_027538	Life is Sweet
-ETC_20170330_027539	A title given to players who ate 5 Valentine Chocolates.
-ETC_20170330_027540	Not on a Diet
-ETC_20170330_027541	A title given to players who ate 20 Valentine Chocolates.
-ETC_20170330_027542	Chocolate Meister
-ETC_20170330_027543	A title given to players who ate 50 Valentine Chocolates.
-ETC_20170330_027544	Sugar Rush
-ETC_20170330_027545	A title given to players who ate 70 Valentine Chocolates.
-ETC_20170330_027546	A title given to players who ate 100 Valentine Chocolates.
-ETC_20170330_027547	TOS Music Master
-ETC_20170330_027548	A title given to the winners of the TOS Cover Contest.
-ETC_20170330_027549	Burial Ground Itinerant
-ETC_20170330_027550	Increases the maximum amount of members in a guild by 3 pro Fähigkeitslevel.
-ETC_20170330_027551	Undefined message.
-ETC_20170330_027552	Double login error.
-ETC_20170330_027553	Product number missing NISMS.
-ETC_20170330_027554	Failed to load NISMS cash inventory data.
-ETC_20170330_027555	No NISMS items.
-ETC_20170330_027556	NISMS cannot find item.
-ETC_20170330_027557	Grants Token benefits to all your characters in the server for 30 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
-ETC_20170330_027558	Grants Token benefits to all your characters in the server for 7 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027559	Grants Token benefits to all your characters in the server for 5 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027560	Grants Token benefits to all your characters in the server for 1 day. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027561	Grants Token benefits to all your characters in the server for 3 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027562	Grants Token benefits to all your characters in the server for 6 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027563	Grants Token benefits to all your characters in the server for 12 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027564	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027565	Grants Token benefits to all your characters in the server for 30 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
-ETC_20170330_027566	Grants Token benefits to all your characters in the server for 15 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027567	Grants Token benefits to all your characters in the server for 3 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027568	Grants Token benefits to all your characters in the server for 5 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027569	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027570	Grants Token benefits to all your characters in the server for 1 hour. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}
-ETC_20170330_027571	Midnight Blue Hair Dye
-ETC_20170330_027572	Rich and mysterious like the deep night sky. Rechtsklick zum verwenden Check the Character Settings tab for the registered color.
-ETC_20170330_027573	Use to obtain 650 TP. 
-ETC_20170330_027574	Tak about the importance of an Appraiser Master
-ETC_20170330_027575	Search for books with ways to transform into a demon at the Sanctuary
-ETC_20170330_027576	Physical Verteidigung {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 seconds when attacked by a Devil-type enemy (cooldown time 10 seconds)
-ETC_20170330_027577	Max. no. of participants in group chat
-ETC_20170330_027578	Max. no. of group chats held by each player
-ETC_20170330_027579	When displayed as 0, the item cannot be enhanced, transcended, added sockets, awakened, traded 1:1, registered in the market, purchased, cancelled, sold to an NPC, deposited/withdrawn from personal and team storage, equipped on a companion or unequipped.
-ETC_20170330_027580	Group ID to allow for access when no. of characters exceeds no. of slots available
-ETC_20170330_027581	Set to 1 to login to DB (same as internal server) regardless of country
-ETC_20170330_027582	Set Sleep time equal to each frame in zone server. (msec) Used for testing when zone server frames are low.
-ETC_20170330_027583	Max. no. of cabinet items sent from zone server to client. Server crashes if number is too large
-ETC_20170330_027584	No. of members increased according to guild member attribute
-ETC_20170330_027585	Available 2-4 matching time (ms)
-ETC_20170330_027586	Process Exception(s) After Delete
-ETC_20170330_027587	Use to create a Candy Basket.
-ETC_20170330_027588	Gray
-ETC_20170330_027589	Yellow
-ETC_20170330_027590	Light Green
-ETC_20170330_027591	Green
-ETC_20170330_027592	Pink
-ETC_20170330_027593	Purple
-ETC_20170330_027594	Light Blue
-ETC_20170330_027595	Blue
-ETC_20170330_027596	Turquoise
-ETC_20170330_027597	Account or PcEtc or session property check
-ETC_20170330_027598	Account or PcEtc or session property revision
-ETC_20170330_027599	Expired items cannot be used as materials.
-ETC_20170330_027600	Cooldown time: {Sec} seconds
-ETC_20170330_027601	Tradable via Market
-ETC_20170330_027602	Your companion is not in active mode.
-ETC_20170330_027603	Cannot log out during the matching process.
-ETC_20170330_027604	Attribute point limit exceeded.
-ETC_20170330_027605	Not enough attribute points.
-ETC_20170330_027606	Cannot move to another map during the matching process.
-ETC_20170330_027607	Groups
-ETC_20170330_027608	You cannot create any more group chats.
-ETC_20170330_027609	The other player cannot create any more group chats.
-ETC_20170330_027610	Group Chat
-ETC_20170330_027611	Expired items have been deleted.
-ETC_20170330_027612	Failed to delete expired times. Please try again.
-ETC_20170330_027613	No expired items.
-ETC_20170330_027614	sehen
-ETC_20170330_027615	Connection to the chat server is unstable. Try again later.
-ETC_20170330_027616	Tab {Count}
-ETC_20170330_027617	Autoscroll to bottom when new message arrives
-ETC_20170330_027618	New Chat
-ETC_20170330_027619	The room is full.
-ETC_20170330_027620	{Name} Chat
-ETC_20170330_027621	Invitation is not valid.
-ETC_20170330_027622	You are already in the chat room.
-ETC_20170330_027623	{Name}'s Group Chat
-ETC_20170330_027624	{Text} [{Cnt} people]
-ETC_20170330_027625	Created new room.
-ETC_20170330_027626	{Name} has joined.
-ETC_20170330_027627	{Name} has left.
-ETC_20170330_027628	Blocked player.
-ETC_20170330_027629	(Level {Auto_1} reached on completion)
-ETC_20170330_027630	{COUNT} out of {MAXCOUNT} completed.
-ETC_20170330_027631	The Kingdom's Lost Treasures
-ETC_20170330_027632	The transformation wore off.{nl}Defeat the Pawndels and Pawnds and use the Transformation Scroll!
-ETC_20170330_027633	{ZONE} is a level {ZONELV} area.{nl}Do you want to enter?
-ETC_20170330_027634	You have EXP Cards available.{nl}Do you want to move without using the EXP cards?
-ETC_20170330_027635	{@st41b}Class EXP:  
-ETC_20170330_027636	 You have defeated {COUNT} monsters!{nl}Receive your EXP card reward at the Flügel of Vaivora!
-ETC_20170330_027637	 Defeat {COUNT} monsters to receive an EXP card reward!{nl}Rewards can be retrieved at the Flügel of Vaivora.
-ETC_20170330_027638	 map exploration complete!{nl}Receive your EXP card reward at the Flügel of Vaivora!
-ETC_20170330_027639	 map exploration: increase it by {PERCENT}% to receive an EXP card reward!{nl}Rewards can be retrieved at the Flügel of Vaivora.
-ETC_20170330_027640	The Pendrosium is knocked out!{nl}Hurry and collect the honey!
-ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until after the ceasefire period that follows the end of the war.{nl}Are you sure you want to declare war?
-ETC_20170330_027642	You cannot disband your guild during a war.
-ETC_20170330_027643	You cannot disband your guild during the ceasefire.
-ETC_20170330_027644	Gekauft
-ETC_20170330_027645	Verkauft
-ETC_20170330_027646	Ausgelaufen
-ETC_20170330_027647	{Day}d {Hour}h {Min}m
-ETC_20170330_027648	{Hour}h {Min}m {Sec}s
-ETC_20170330_027649	{Min}m {Sec}s
-ETC_20170330_027650	You will be matched in a party of {MIN_MEMBER} players minimum.{nl}This option can only be changed by cancelling auto match.{nl}Do you accept to enter as a 2 to 4 member party?
-ETC_20170330_027651	Cancelled 2 to 4 auto match.{nl}Cancelled for all party members.
-ETC_20170330_027652	Chat Tab Toggle
-ETC_20170330_027653	Silber sofort vom Markt abzurufen
-ETC_20170330_027654	
-ETC_20170330_027655	
+ETC_20170313_027215	I'm a friend of Knight Commander Uska's.	기사단장 우스카의 소개로 왔다고 한다				
+ETC_20170313_027216	Good luck with your work.	그 일이 잘 되길 바란다고 한다				
+ETC_20170313_027217	You have obtained the second signature.{nl}Obtain one last signature on the order.	칙명 위임장에 서명을 받았습니다{nl}나머지 한 명에게 서명을 받으세요				
+ETC_20170313_027218	Talk About the Gap and the Chemical Smell	서명란에 간격이 넓은것과 약품 냄새에 대해 말하기				
+ETC_20170313_027219	I'll talk about it later.	나중에 말하겠다고 한다				
+ETC_20170313_027220	Showing the royal order to Inesa Hamondale...	오르샤 영주에게 백지 위임장 보여주는 중				
+ETC_20170313_027221	Collecting Weynd flowers...	산들거리 꽃 채집 중				
+ETC_20170313_027222	Filled the bottle with water.	물병에 물을 담았습니다				
+ETC_20170313_027223	The bottle is full.	물병에 물이 가득합니다				
+ETC_20170313_027224	Watering the flowers...	적당량의 물을 주는 중				
+ETC_20170313_027225	Collecting Driekple flowers...	드릭폴리 꽃 채집 중				
+ETC_20170313_027226	Filling the bottle...	물병에 물을 담는 중				
+ETC_20170313_027227	Not enough water.	물이 부족합니다				
+ETC_20170313_027228	Handing a copy of the royal order...	칙명 위임장 사본을 전달하는 중				
+ETC_20170313_027229	Received the Fencer Master's family heirloom.	펜서 마스터의 가보를 받았습니다				
+ETC_20170313_027230	Pick up the accessories from Merchant Jurus.	악세서리 상인 유르스에게 가 감정할 악세서리를 받으세요				
+ETC_20170313_027231	Received the bag of accessories.	악세서리가 든 가방을 받았습니다				
+ETC_20170313_027232	Pick up the family heirloom from the Fencer Master.	펜서 마스터에게 가 감정할 가보를 받으세요				
+ETC_20170313_027233	Delivered the certificate to the Fencer Master.	펜서 마스터에게 가보와 품질 인증서를 전달했습니다				
+ETC_20170313_027234	Deliver the bag of accessories and the{nl}certificate to Accessory Merchant Jurus.	악세서리 상인 유르스에게 가{nl}악세서리가 든 가방과 품질 인증서를 전달하세요				
+ETC_20170313_027235	Delivered the bag of accessories and the{nl}certificate to Accessory Merchant Jurus.	악세서리 상인에게 악세서리가 든 가방과{nl}품질 인증서를 전달했습니다				
+ETC_20170313_027236	Deliver the family heirloom and the{nl}certificate to the Fencer Master.	펜서 마스터에게 가{nl}가보와 품질 인증서를 전달하세요				
+ETC_20170313_027237	I'll deliver the letter of appointment myself.	공식 위임장 전해준다				
+ETC_20170313_027238	Don't worry about it anymore.	신경 쓰지 말라고 한다				
+ETC_20170313_027239	One or more party members already have a quest in progress.	파티원 중 일부가 이미 퀘스트를 수행하고 있습니다				
+ETC_20170313_027240	Accept Quest	퀘스트를 수락한다				
+ETC_20170313_027241	This item can only be used inside a city.	해당 아이템은 도시에서만 사용할 수 있습니다				
+ETC_20170313_027242	Must meet quest requirements.{nl}Min. level: 	퀘스트를 시작하기 위한 조건을 만족하지 못 했습니다{nl}제한 레벨 : 				
+ETC_20170313_027243	Turn on.	작동시킨다	ETC_20161214_026272	Let me start.	조작한다	
+ETC_20170313_027244	Turn off.	작동을 멈춘다				
+ETC_20170313_027245	Kick.	발로 찬다				
+ETC_20170313_027246	Enter code.	암호를 푼다				
+ETC_20170313_027247	Pick lock.	자물쇠를 딴다				
+ETC_20170313_027248	Use Fluflu Bomb!	폴루폴루 폭탄을 쓴다!				
+ETC_20170313_027249	Checking root crystal...	나무뿌리 수정 확인 중				
+ETC_20170313_027250	 Root sprout effects applied!	 님에게 뿌리 숙주 효과가 발생했습니다!				
+ETC_20170313_027251	Destroyed mutated Tree Root Crystal.	변형된 나무뿌리 수정을 파괴했습니다				
+ETC_20170313_027252	Shaman Doll	관측용 주술인형				
+ETC_20170313_027253	The Shaman Doll has obtained 	관측용 주술인형이 				
+ETC_20170313_027254	 in magic.	만큼 마력을 획득했습니다				
+ETC_20170313_027255	You already summoned the doll.	이미 관측용 주술인형을 소환했습니다				
+ETC_20170313_027256	The doll cannot be summoned here.	이곳에선 관측용 주술인형을 소환할 수 없습니다				
+ETC_20170313_027257	You don't have a Fluflu Bomb!	폴루폴루 폭탄이 없습니다!				
+ETC_20170313_027258	Restarting map...	지도 갱신 중				
+ETC_20170313_027259	Checking map...	지도 확인 중				
+ETC_20170313_027260	No magic to collect.	수집할 마력이 없습니다				
+ETC_20170313_027261	Collected magic.	마력을 수집했습니다				
+ETC_20170313_027262	Restart the map near a magic collector.	주변의 수집 수정구에서{nl}지도를 갱신해 주세요				
+ETC_20170313_027263	Map restarted!	지도가 갱신되었습니다!				
+ETC_20170313_027264	See Hethran Badge Lv1 Rewards	헤스란 증표 Lv1 보상을 본다				
+ETC_20170313_027265	See Hethran Badge Lv2 Rewards	헤스란 증표 Lv2 보상을 본다				
+ETC_20170313_027266	See Hethran Badge Lv3 Rewards	헤스란 증표 Lv3 보상을 본다				
+ETC_20170313_027267	About the Jewelry Merchant	귀금속 상인에 대하여				
+ETC_20170313_027268	Find the magic collectors located at Salvia Forest.{nl}When you find one, restart the map and collect their magic.	살비야스 숲에 설치된 마력 수집구를 찾으세요{nl}마력 수집구에서 지도를 갱신한 후 마력이 모여있는 수집구를 찾아 마력을 수집하세요				
+ETC_20170313_027269	The code was incorrect and the chest vanished.{nl}Find another chest.	비밀번호가 틀려서 상자가 사라집니다{nl}다른 상자를 찾아보세요				
+ETC_20170313_027270	The code is correct!{nl}The chest is opening.	비밀번호를 맞췄습니다!{nl}상자가 열립니다				
+ETC_20170313_027271	Abandoned code guessing.	비밀번호 맞추기를 멈췄습니다				
+ETC_20170313_027272	Find the magic collectors located at Tevhrin Stalactite Cave Section 1.{nl}When you find one, restart the map and collect their magic.	테브린 종유동 1구역에 설치된 마력 수집구를 찾으세요{nl}마력 수집구에서 지도를 갱신한 후 마력이 모여있는 수집구를 찾아 마력을 수집하세요				
+ETC_20170313_027273	You have collected enough power.{nl}Activate the observation device.	관측기 동력을 충분히 모았습니다.{nl}관측기를 활성화 시키세요				
+ETC_20170313_027274	Collected device power.	관측기 동력이 모였습니다.				
+ETC_20170313_027275	Purified poison field!	독지대를 해독했습니다!				
+ETC_20170313_027276	The chest has vanished.{nl}Find another chest.	상자를 잘 못 건드려서 상자가 사라집니다.{nl}다른 상자를 찾아보세요				
+ETC_20170313_027277	Checking the fragment...	파편을 확인하는 중				
+ETC_20170313_027278	Defeat the incoming monsters!	몰려오는 몬스터들을 먼저 처치하세요!				
+ETC_20170313_027279	Collecting the fragments...	파편을 수집하는 중				
+ETC_20170313_027280	Obtained fragments.	파편을 획득했습니다				
+ETC_20170313_027281	Failed to protect the magic circle.	마법진을 보호하는데 실패했습니다				
+ETC_20170313_027282	Purification failed.	정화에 실패했습니다				
+ETC_20170313_027283	Purification successful!	정화에 성공하였습니다!				
+ETC_20170313_027284	Placing the wand...	지팡이를 올려놓는 중				
+ETC_20170313_027285	Checking unknown flower...	정체불명의 꽃을 확인하는 중				
+ETC_20170313_027286	Collecting unknown flower...	정체불명의 꽃을 채집하는 중				
+ETC_20170313_027287	Collected unknown flower!	정체불명의 꽃을 채집하였습니다!				
+ETC_20170313_027288	Collected Cyst fluid!	시스트의 체액을 모두 수집했습니다!				
+ETC_20170313_027289	Collected herbs!	약초를 채집하는데 성공했습니다				
+ETC_20170313_027290	The herbs broke upon being pulled.	채집하는 도중 약초가 뜯겨나갔습니다				
+ETC_20170313_027291	A pink tree root came out of the herb's roots!	약초 뿌리에서 분홍 나무뿌리 두더지가 튀어나왔습니다!				
+ETC_20170313_027292	Checking rare flower...	희귀한 꽃을 살펴보는 중				
+ETC_20170313_027293	Collecting rare flower...	희귀한 꽃을 채집하는 중				
+ETC_20170313_027294	Collected rare flower!	희귀한 꽃을 채집하였습니다!				
+ETC_20170313_027295	Checking trap...	함정을 확인하는 중				
+ETC_20170313_027296	Spraying the scent...	향수를 뿌리는 중				
+ETC_20170313_027297	The Pendrosium is passed out!{nl}Hurry and collect the honey!	펜드로시움이 기절했습니다!{nl}어서 꿀을 채집하세요!				
+ETC_20170313_027298	Collecting honey...	꿀을 채집하는 중				
+ETC_20170313_027299	Collected the honey!	꿀 채집을 성공했습니다!				
+ETC_20170313_027300	Collected all the honey!	꿀을 모두 채집했습니다!				
+ETC_20170313_027301	This device is on.{nl}Turn on another device.	장치가 작동중입니다!{nl}다른 장치도 작동시키세요!				
+ETC_20170313_027302	All devices are on.{nl}Activate the devices!	장치가 모두 작동중입니다!{nl}장치를 이용해 활성화 시키세요!				
+ETC_20170313_027303	Turn on all the devices!	모든 장치를 작동시키세요!				
+ETC_20170313_027304	Collecting spores...	포자를 채집하는 중				
+ETC_20170313_027305	Collected the spores!	포자를 채집하는데 성공했습니다!				
+ETC_20170313_027306	Failed to collect the spores.	포자를 채집하는데 실패했습니다				
+ETC_20170313_027307	Burying the Hallucination Stone...	환각마법석을 묻는 중				
+ETC_20170313_027308	You have buried all the stones!{nl}Report back to Monk Jones.	환각마법석을 모두 묻어두었습니다!{nl}수도사 욘스에게 돌아가 이 사실을 알려주세요				
+ETC_20170313_027309	Investigating object...	물체를 확인하는 중				
+ETC_20170313_027310	It's a broken piece of glass.	깨진 유리조각이었습니다				
+ETC_20170313_027311	Checking the chest...	궤짝을 확인하는 중				
+ETC_20170313_027312	Found a bag of emergency food supplies!	비상식량이 담긴 주머니를 발견했습니다!				
+ETC_20170313_027313	There's nothing here.	아무것도 없습니다				
+ETC_20170313_027314	Defeat the incoming monsters!	몰려오는 몬스터를 우선 처치하세요!				
+ETC_20170313_027315	Checking the writings...	글귀를 확인하는 중				
+ETC_20170313_027316	Checked the writings!	글귀를 확인했습니다!				
+ETC_20170313_027317	Failed to activate the devices.	장치들을 활성화 시키는데 실패했습니다				
+ETC_20170313_027318	Placed the Magic Concentration Orb.	마력이 충만한 구슬을 배치했습니다				
+ETC_20170313_027319	You have placed all the Magic Concentration Orbs.{nl}Report back to Revelator Mihail.	마력이 충만한 구슬을 모두 배치했습니다{nl}계시자 미하일에게 보고하세요				
+ETC_20170313_027320	The magic core has revealed itself!	마력핵이 모습을 드러냈습니다!				
+ETC_20170313_027321	Picked the dandelions.	민들레를 뽑아냈습니다				
+ETC_20170313_027322	You have removed enough dandelions.{nl}Return to Farmer Darcy.	민들레를 어느정도 제거했습니다{nl}농부 다이시에게 돌아가세요				
+ETC_20170313_027323	Found a Miren's Old Bag!	미렌의 낡은 봇짐을 발견했습니다!				
+ETC_20170313_027324	Sprayed the herbicide on the grape vines.	포도 넝쿨에 제초제를 뿌렸습니다				
+ETC_20170313_027325	Finished spraying the herbicide on the grape vines.{nl}Return to Tenant Farmer Charlotte.	포도 넝쿨에 제초제를 모두 뿌렸습니다{nl}소작인 샬롯에게 돌아가세요				
+ETC_20170313_027326	Obtained the empty beehive.{nl}Bring it to Villager Darren.	빈 벌집을 획득했습니다{nl}마을 청년 다렌에게 돌아가 빈 벌집을 전해주세요				
+ETC_20170313_027327	Removed the cork stopper and extracted the oil!	코르크마개를 제거해 기름통의 기름을 빼냈습니다!				
+ETC_20170313_027328	Extracted all the oil from the barrel.{nl}Return to Brewer Dorjen.	주변의 기름통에 들어있던 기름을 모두 빼낸 것 같습니다{nl}양조업자 도르젠을 찾아가 보세요				
+ETC_20170313_027329	Obtained the honeycomb!{nl}Deliver it to Maras.	달콤한 벌통조각을 획득했습니다{nl}마라스에게 돌아가 달콤한 벌통조각을 전해주세요				
+ETC_20170313_027330	Found the altar's magic piece!{nl}Report back to Maras.	제단에서 마석조각을 발견했습니다{nl}마라스에게 돌아가 이 사실을 알려주세요				
+ETC_20170313_027331	Obtained a honeycomb.	벌통 조각을 획득했습니다				
+ETC_20170313_027332	You have collected all the honeycombs.{nl}Deliver them to Valda.	벌통 조각을 모두 수집한 것 같습니다{nl}발다에게 수집한 벌통 조각을 전해주세요				
+ETC_20170313_027333	Planted the seeds.	밭에 씨를 뿌렸습니다				
+ETC_20170313_027334	You have planted all the seeds.{nl}Return to Riesz.	가지고 있던 씨를 모두 뿌렸습니다{nl}리스에게 돌아가세요				
+ETC_20170313_027335	Obtained a bee tree branch.	벌나무 가지를 획득했습니다				
+ETC_20170313_027336	You have collected sufficient bee tree branches.{nl}Return to Priest Raeli.	벌나무 가지를 제법 모았습니다{nl}사제 라엘리에에게 돌아가세요				
+ETC_20170313_027337	Obtained demon ashes.	불타버린 마족의 재를 획득했습니다				
+ETC_20170313_027338	You have collected sufficient demon ashes.{nl}Deliver them to Priest Raeli.	마족의 재를 충분히 모았습니다{nl}사제 라엘리에에게 돌아가 불타버린 마족의 재를 전해주세요				
+ETC_20170313_027339	Obtained an oak wood plank.	손질된 목재를 획득했습니다				
+ETC_20170313_027340	You have collected sufficient oak wood planks.{nl}Deliver them to Farmer Druva.	손질된 목재를 충분히 수집했습니다.{nl}농사꾼 드루바에게 돌아가 목재를 전해주세요				
+ETC_20170313_027341	Obtained a fragmented symbol of Austeja.	조각난 아우스테야의 상징을 획득했습니다				
+ETC_20170313_027342	You have collected all the fragmented symbols of Austeja.{nl}Return to Austeja Altar and restore them.	조각난 아우스테야의 상징을 모두 모았습니다{nl}아우스테야 제단으로 이동해 아우스테야의 상징을 복구하세요				
+ETC_20170313_027343	Found Dulke's package.	둘케의 짐꾸러미를 찾았습니다				
+ETC_20170313_027344	You have found all of Dulke's packages.{nl}Return to Merchant Dulke.	둘케가 잃어버린 짐꾸러미를 모두 찾았습니다{nl}상인 돌케에게 돌아가세요				
+ETC_20170313_027345	Collected Spring Light Grass.	봄볕초를 채집했습니다				
+ETC_20170313_027346	You have collected sufficient Spring Light Grass.{nl}Deliver it to Pharmacist Tiana.	봄볕초를 충분히 채집했습니다{nl}약사 티아나에게 봄볕초를 전해주세요				
+ETC_20170313_027347	Picked up the fallen scripture sheets.	바닥에 떨어져 있던 경전 낱장을 주웠습니다				
+ETC_20170313_027348	Obtained a Tempas mushroom.	템파스 버섯을 획득했습니다				
+ETC_20170313_027349	You have collected sufficient Tempas mushrooms.{nl}Return to Wiley.	템파스 버섯을 충분히 모았습니다{nl}와일리에게 돌아가세요				
+ETC_20170313_027350	Obtained a Rocktor's stony leg.	락터의 돌다리를 획득했습니다				
+ETC_20170313_027351	You have collected enough Rocktor stony legs.{nl}Return to Hunter Reina.	락터의 돌다리를 충분히 모았습니다{nl}헌터 레이나에게 돌아가세요				
+ETC_20170313_027352	Obtained Cockat meat.	코카트의 고기를 획득했습니다				
+ETC_20170313_027353	You have collected enough Cockat meat.{nl}Return to Hunter Reina.	충분한 양의 고기를 획득했습니다{nl}헌터 레이나에게 돌아가세요				
+ETC_20170313_027354	Obtained Chafperor thorn venom.	체이퍼러의 가시독을 획득했습니다				
+ETC_20170313_027355	Obtained toxic thorn tree stump sap.	가시나무 밑둥의 진한 독을 획득했습니다				
+ETC_20170313_027356	Obtained spring water venom.	샘에 고인 독액을 획득했습니다				
+ETC_20170313_027357	You have collected samples of all three types of poison.{nl}Return to Hunter Natasha and deliver the samples.	맹독 표본을 모두 수집했습니다{nl}헌터 나타샤에게 돌아가 수집한 맹독 표본들을 전해주세요				
+ETC_20170313_027358	Obtained the Woodluwa leaves.{nl}Return to Hunter Natasha.	우르드와의 잎사귀를 획득했습니다{nl}헌터 나타샤에게 돌아가세요				
+ETC_20170313_027359	Obtained Chevas' herbs.	체바스가 찾아낸 약초를 획득했습니다				
+ETC_20170313_027360	You have collected enough herbs.{nl}Return to Hunter Bastille.	약초를 충분히 수집했습니다{nl}헌터 바스틸에게 돌아가세요				
+ETC_20170313_027361	Obtained an empty honeycomb.	빈 벌집을 획득했습니다				
+ETC_20170313_027362	Obtained Woodluwa essence.	우드르와의 진액을 획득했습니다				
+ETC_20170313_027363	You have collected a sufficient amount of Woodluwa essence.{nl}Return to Monk Chad.	우드르와의 진액을 어느정도 수집한 것 같습니다{nl}수도사 채드에게 돌아가세요				
+ETC_20170313_027364	Obtained Liverwort cap.	우산이끼의 갓을 획득했습니다				
+ETC_20170313_027365	Obtained Stonecon fragments.	스토내콘의 파편을 획득했습니다				
+ETC_20170313_027366	You have obtained sufficient evidence of having defeated Liverworts and Stonacons.{nl}Return to Monk Goss.	우산이끼와 스토내콘을 처치한 증거를 충분히 모았습니다{nl}수도사 거스에게 돌아가세요				
+ETC_20170313_027367	Obtained Acylado Hydrophyte.	아실라도 수초를 획득했습니다				
+ETC_20170313_027368	You have collected enough Acylado Hydrophyte.{nl}Return to Monk Jones.	아실라도 수초를 충분히 수집한 것 같습니다{nl}수도사 욘스에게 돌아가세요				
+ETC_20170313_027369	Obtained a Loftlem eye.	로프틀렘의 눈을 획득했습니다				
+ETC_20170313_027370	You have collected enough Loftlem eyes.{nl}Show them to Monk Jones.	로프틀렘의 눈을 어느정도 확보했습니다{nl}수도사 욘스에게 돌아가 로프틀렘의 눈을 보여주세요				
+ETC_20170313_027371	Collected enough Liverwort spores.{nl}Return to Monk Jones.	우산이끼의 포자를 충분히 채집했습니다{nl}수도사 욘스에게 돌아가세요				
+ETC_20170313_027372	Found the crystal sphere.{nl}Deliver it to Monk Goss.	수정구를 발견했습니다{nl}수도사 거스에게 돌아가 수정구를 전해주세요				
+ETC_20170313_027373	Removed the strange lump.	이상한 덩어리를 제거했습니다				
+ETC_20170313_027374	You have removed most of the strange lumps.{nl}Report back to Monk Potos.	이상한 덩어리를 대부분 제거했습니다{nl}수도사 포토스에게 돌아가 이 사실을 알려주세요				
+ETC_20170313_027375	Obtained Tyla Monastery crystal.	탈라수도원의 경전을 획득했습니다				
+ETC_20170313_027376	Obtained Lepusbunny Assassin fur.	레푸스버니 암살자의 털가죽을 획득했습니다				
+ETC_20170313_027377	You have obtained enough fur.{nl}Deliver it to Baskez.	충분한 털가죽이 모였습니다{nl}바스케즈에게 돌아가 털가죽을 전해주세요				
+ETC_20170313_027378	Obtained flint.	부싯돌을 획득했습니다				
+ETC_20170313_027379	You have collected enough flints.{nl}Deliver them to Higgs.	부싯돌을 어느정도 확보했습니다{nl}힉스에게 돌아가 확보한 부싯돌을 전해주세요				
+ETC_20170313_027380	Obtained Siaulav Mage emergency food.	샤울라브 메이지의 비상식량을 획득했습니다				
+ETC_20170313_027381	You have collected enough food from the Siaulav Mages.{nl}Return to Supply Officer Ronda.	샤울라브 메이지의 비상식량이 충분히 모였습니다{nl}보급병 론다에게 돌아가세요				
+ETC_20170313_027382	Obtained plateau potatoes.	고원 감자를 캐냈습니다				
+ETC_20170313_027383	You have collected enough plateau potatoes.{nl}Deliver them to Supply Officer Ronda.	고원 감자를 충분히 채집했습니다{nl}보급병 론다에게 채집한 고원 감자를 전해주세요				
+ETC_20170313_027384	Obtained bar fragment.	쓸 만한 창살조각을 획득했습니다				
+ETC_20170313_027385	You have collected enough bar fragments.{nl}Return to Supply Officer Ronda.	창살조각을 어느정도 수집했습니다{nl}보급병 론다에게 돌아가세요				
+ETC_20170313_027386	Obtained a Blue Lapasape spotted mushroom.	푸른 라프세이프의 얼룩 버섯을 획득했습니다				
+ETC_20170313_027387	You have collected enough spotted mushrooms from Blue Lapasapes.{nl}Return to Commanding Officer Ades.	푸른 라프세이프의 얼룩 버섯을 충분히 확보했습니다{nl}분대장 아데스에게 돌아가세요				
+ETC_20170313_027388	Obtained a Tini shining horn.	티니의 빛나는 뿔을 획득했습니다				
+ETC_20170313_027389	You have collected enough shining horns from Tinis.{nl}Return to Outsider Mark.	티니의 빛나는 뿔이 충분히 모였습니다{nl}타지 주민 마크에게 돌아가세요				
+ETC_20170313_027390	Obtained Taumas herb.	타우마스 약초를 획득했습니다				
+ETC_20170313_027391	You have collected enough Taumas herbs.{nl}Deliver them to Pilgrim Phylia.	타우마스 약초를 충분히 구했습니다{nl}순례자 필리아에게 돌아가 약초를 전해주세요				
+ETC_20170313_027392	Found Jacob's lost luggage.{nl}Return to Pilgrim Jacob.	제이콥의 잃어버린 짐을 찾았습니다{nl}순례자 제이콥에게 돌아가세요				
+ETC_20170313_027393	Obtained a sturdy branch.{nl}Return to Pilgrim Jacob.	튼튼한 나뭇가지를 획득했습니다{nl}순례자 제이콥에게 돌아가세요				
+ETC_20170313_027394	Obtained Tini meat.	티니의 고기를 획득했습니다				
+ETC_20170313_027395	Obtained enough Tini meat.{nl}Deliver it to Pilgrim Brad.	티니의 고기를 충분히 획득했습니다{nl}순례자 브래드에게 돌아가 고기를 전해주세요				
+ETC_20170313_027396	Obtained Spion fur.	스피온의 털가죽을 획득했습니다				
+ETC_20170313_027397	Collected enough Spion fur.{nl}Return to Pilgrim Jordan.	스피온의 털가죽을 충분히 획득했습니다{nl}순례자 요단에게 돌아가세요				
+ETC_20170313_027398	Collected Salvia Bramble Fruit.	살비야스 덤불 열매를 채집했습니다				
+ETC_20170313_027399	You have collected enough fruit.{nl}Return to Pilgrim Diane.	살비야스 덤불 열매를 충분히 채집했습니다{nl}순례자 다이앤에게 돌아가세요				
+ETC_20170313_027400	Obtained flammable leaves.	잘타는 나뭇잎을 획득했습니다				
+ETC_20170313_027401	You have collected enough flammable leaves.{nl}Deliver them to Believer Clark.	잘타는 나뭇잎을 충분히 모았습니다{nl}신도 클라크에게 나뭇잎을 전해주세요				
+ETC_20170313_027402	Found Monk Dorma's holy water.{nl}Return to Pilgrim Vados.	수도사 도르마의 성수를 발견했습니다{nl}순례자 바도스에게 돌아가세요				
+ETC_20170313_027403	Obtained abandoned plant roots.	버려진 식물 구근을 획득했습니다				
+ETC_20170313_027404	You have collected enough abandoned roots.{nl}Return to Monk Dorma.	버려진 식물 구근을 어느정도 확보했습니다{nl}수도사 도르마에게 돌아가세요				
+ETC_20170313_027405	Obtained Lepusbunny meat.	레푸스버니의 고기를 획득했습니다				
+ETC_20170313_027406	You have collected enough Lepusbunny meat.{nl}Deliver it to Pilgrim George.	레푸스버니의 고기를 충분히 획득했습니다{nl}순례자 조지에게 돌아가 고기를 전해주세요				
+ETC_20170313_027407	Collected Ouaas tree sap.	오아쓰 나무의 수액을 채취했습니다				
+ETC_20170313_027408	Obtained a suppression device fragment.	억제 장치의 조각을 획득했습니다				
+ETC_20170313_027409	You have collected all suppression device fragments.{nl}Return to Monk Stella.	억제 장치의 조각을 모두 획득한 것 같습니다{nl}수도사 스텔라에게 돌아가세요				
+ETC_20170313_027410	Talk to Monk Dorma and find a way to prove ownership of the monastery.	수도사 도르마와 대화해 그가 수도원 소속임을 증명할 방법을 찾으세요				
+ETC_20170313_027411	You have gathered enough food.{nl}Deliver it to Monk Stella.	식량을 어느정도 확보했습니다{nl}수도사 스텔라에게 식량을 전해주세요				
+ETC_20170313_027412	Obtained herbs.	약초를 획득했습니다				
+ETC_20170313_027413	You have collected enough herbs.{nl}Deliver them to Monk Stella.	약초를 어느정도 채집했습니다{nl}수도사 스텔라에게 채집한 약초를 전해주세요				
+ETC_20170313_027414	Destroy the Black Crystal!	검은 수정을 파괴하세요!				
+ETC_20170313_027415	The soldier spirits seem to be at peace now.{nl}Report back to Victoras' Spirit.	인근의 떠도는 병사 영혼들이 안식을 찾은 것 같습니다{nl}빅토라스 영혼에게 돌아가 얘기해보세요				
+ETC_20170313_027416	Collected Yega bracken spores.	예가 고사리 포자낭을 수집했습니다				
+ETC_20170313_027417	You have collected enough spores.{nl}Deliver them to Alchemist Sophia.	포자낭이 충분하게 모였습니다{nl}알케미스트 소피야에게 수집한 포자낭을 전해주세요				
+ETC_20170313_027418	Obtained ancient parchment book.	양피지 고문서를 획득했습니다				
+ETC_20170313_027419	You have collected enough parchment books.{nl}Deliver them to Investigation Team Leader Ella.	양피지를 충분히 회수했습니다{nl}조사대장 엘라에게 돌아가 회수한 양피지를 전해주세요				
+ETC_20170313_027420	Obtained acceptable book.	상태가 양호한 서적을 획득했습니다				
+ETC_20170313_027421	You have collected enough books.{nl}Deliver them to Investigator Gasper.	상태가 양호한 서적들을 어느정도 획득한 것 같습니다{nl}조사원 개스퍼에게 돌아가 획득한 서적들을 전해주세요				
+ETC_20170313_027422	Obtained a hidden slate.	숨겨진 석판을 획득했습니다				
+ETC_20170313_027423	You have found all hidden slates.{nl}Deliver them to Investigator Gasper.	숨겨놓았던 석판들을 모두 찾아낸 것 같습니다{nl}조사원 개스퍼에게 돌아가 찾아낸 석판들을 전해주세요				
+ETC_20170313_027424	Obtained vine.	쓸만한 덩굴을 획득했습니다				
+ETC_20170313_027425	You have collected enough vines to use as ropes.{nl}Return to Investigator Horatio.	로프 대용으로 쓰일 덩굴을 충분히 모았습니다{nl}조사원 호레이쇼에게 돌아가세요				
+ETC_20170313_027426	Obtained Goblin Shaman jewels.	고블린 주술사의 보석을 획득했습니다				
+ETC_20170313_027427	You have collected enough jewels from the Goblin Shamans.{nl}Return to Investigator Horatio.	고블린 주술사의 보석을 충분히 모았습니다{nl}조사원 호레이쇼에게 돌아가세요				
+ETC_20170313_027428	Obtained Whitetailed grass.	흰꼬리풀을 획득했습니다				
+ETC_20170313_027429	You have gathered enugh Whitetailed grass.{nl}Return to Refugee Brandon.	흰꼬리풀을 충분히 채집했습니다{nl}피난민 브랜든에게 돌아가세요				
+ETC_20170313_027430	Obtained Poison Sack.	자극받은 독주머니를 획득했습니다				
+ETC_20170313_027431	You have collected enough Poison Sacks.{nl}Return to Vilhelmas.	독주머니를 어느정도 모았습니다{nl}빌헬마스에게 돌아가세요				
+ETC_20170313_027432	Obtained Kugheri Paralysis Poison	쿠게리 마비약을 획득했습니다				
+ETC_20170313_027433	You have collected enough poison from the Kugheris.{nl}Return to Vilhelmas.	쿠게리 마비약을 충분히 모았습니다{nl}빌헬마스에게 돌아가세요				
+ETC_20170313_027434	Obtained Leafnut Tailfruit.	리프넛의 꼬리열매를 획득했습니다				
+ETC_20170313_027435	You have collected enough Leafnut Tailfruit.{nl}Deliver the fruits to Refugee Mylija.	꼬리열매가 넉넉히 모였습니다{nl}피난민 밀리아에게 꼬리열매를 전해주세요				
+ETC_20170313_027436	Obtained sturdy stick.	단단한 나무막대를 획득했습니다				
+ETC_20170313_027437	You have collected enough sturdy sticks now.{nl}Return to Refugee Greg.	단단한 나무막대를 충분히 모았습니다{nl}피난민 그렉에게 돌아가세요				
+ETC_20170313_027438	Obtained Orange Grummer legs.	주황 그루머의 다리를 획득했습니다				
+ETC_20170313_027439	You have collected plenty of Orange Grummer legs.{nl}Return to Lord Ryudhas.	주황 그루머의 다리를 넉넉히 모았습니다{nl}영주 리우다스에게 돌아가세요				
+ETC_20170313_027440	Found the Joquvas Family Shield.{nl}Give the shield to Roberta.	요쿠바스 가문의 방패를 발견했습니다{nl}로베르타에게 돌아가 발견한 방패를 전해주세요				
+ETC_20170313_027441	Obtained Syla dandelion dew.	실라 민들레 이슬을 획득했습니다				
+ETC_20170313_027442	You have collected plenty of Syla dandelion dew.{nl}Deliver it to Indraja.	실라 민들레 이슬을 넉넉히 모았습니다{nl}인드라야에게 돌아가 이슬을 전해주세요				
+ETC_20170313_027443	Obtained demon orders.	마족의 명령서를 획득했습니다				
+ETC_20170313_027444	You have collected enough documents.{nl}Deliver them to Indraja.	마족의 명령서를 충분히 모았습니다{nl}인드라야에게 돌아가세요				
+ETC_20170313_027445	Obtained Kugheri Shaman Staff	쿠게리 주술용 지팡이를 획득했습니다				
+ETC_20170313_027446	You have collected enough Kugheri Shaman Staffs.{nl}Return to Indraja.	쿠게리 주술용 지팡이를 충분히 모았습니다{nl}인드라야에게 돌아가세요				
+ETC_20170313_027447	A Blue Sparnashorn has appeared!	푸른 스파나스혼이 등장했습니다!				
+ETC_20170313_027448	The chest is locked.	상자가 잠겨있습니다				
+ETC_20170313_027449	Buff obtained from shop is already applied.	상점에서 받은 버프가 이미 적용 중입니다.				
+ETC_20170313_027450	Includes prohibited characters.	허용되지 않은 글자가 포함되어 있습니다.				
+ETC_20170313_027451	Can include one (-) or one (_), but no (,).	(-), (_)는 1개만 포함 가능합니다. (, )는 불가능합니다.				
+ETC_20170313_027452	Includes prohibited BlockName.	사용할 수 없는 BlockName이 포함되어 있습니다.				
+ETC_20170313_027453	Successfully registered the item.{nl}Please allow up to 2 hours for items, excluding Tokens, to be shown on the Market.	마켓 아이템 등록에 성공했습니다.{nl}토큰을 제외한 모든 아이템은{nl}판매 리스트에 보이기까지 최대 2시간이 소요됩니다.	ETC_20151224_019722	Successfully registered the item.{nl}Please allow 30 minutes to 2 hours for items, excluding Tokens, to be shown on the Market.	마켓 아이템 등록에 성공했습니다.{nl}토큰을 제외한 모든 아이템은{nl}30분에서 2시간 사이에 판매 리스트에 보여집니다.	
+ETC_20170313_027454	Item [{#0000ff}{ITEM}{#000000}] {#ff0000}{COUNT}{#000000} sold	아이템 [{#0000ff}{ITEM}{#000000}] {#ff0000}{COUNT}{#000000}개 판매완료				
+ETC_20170313_027455	You have {#ff0000}Silver{#000000} ready to retrieve.{nl}You may retrieve it from the {#0000ff}[Market Retrieve Tab]{#000000}.	수령 가능한 {#ff0000}실버{#000000}가 있습니다.{nl}{#0000ff}[마켓 수령함]{#000000}에서 수령 가능합니다.				
+ETC_20170313_027456	Item is currently locked.	아이템이 현재 잠금 상태에 있습니다.	ETC_20151022_016433	This item is currently locked	해당 아이템이 현재 잠금 상태에 있습니다.	
+ETC_20170313_027457	Use Shop	상점 이용하기				
+ETC_20170313_027458	{img Silver 20 20}	감정 비용				
+ETC_20170313_027459	 's item has been identified.	 님의 아이템을 감정하였습니다.				
+ETC_20170313_027460	Enter a value between {MIN} and {MAX}.	{MIN}~{MAX} 사이의 값을 입력해주세요				
+ETC_20170313_027461	Collection: 	콜렉션:				
+ETC_20170313_027462	By Name	이름 순				
+ETC_20170313_027463	By Status	상태 순				
+ETC_20170313_027464	Cannot be used with no accessories equipped. 	착용 중인 악세서리가 없어 사용할 수 없습니다. 				
+ETC_20170313_027465	Purchase failed.	구매 실패.{nl}넥슨캐시 보안 설정을 변경해 주세요.{nl}넥슨캐시를 사용할 게임에 트리오브세이비어가 선택되어야 합니다.	ETC_20160811_024057	Your account is locked.	사용자의 캐시가 잠겨있습니다.	
+ETC_20170313_027466	{REWARD} reward(s) received.	{REWARD}회 보상을 수령하였습니다.				
+ETC_20170313_027467	Reach level {NEXTLV} to receive the next reward.	{NEXTLV}레벨을 달성하면 보상을 받을 수 있습니다.				
+ETC_20170313_027468	Receive	 받기				
+ETC_20170313_027469	Check target level	목표레벨 확인				
+ETC_20170313_027470	Red Pine	레드파인				
+ETC_20170313_027471	Kalis	칼리스				
+ETC_20170313_027472	Hazel	헤이즐				
+ETC_20170313_027473	Blue Daisy	블루데이지				
+ETC_20170313_027474	Mulberry	멀버리				
+ETC_20170313_027475	Gardenia	가르데니아				
+ETC_20170313_027476	Quercus	퀘르쿠스				
+ETC_20170313_027477	Retinispora	레티니스포라				
+ETC_20170313_027478	Brown	브라운				
+ETC_20170313_027479	Badge Collector	증표 수집가				
+ETC_20170313_027480	Catacombs Dungeon 2	카타콤 제2던전				
+ETC_20170313_027481	[Chaplain Master]{nl}         Ceslovas	[채플린 마스터]{nl}         케슬로바스				
+ETC_20170313_027482	Hidden Treasure Chest	숨겨진 보물상자				
+ETC_20170313_027483	Abandoned Chest	버려진 궤짝				
+ETC_20170313_027484	Scented Herb	냄새나는 풀				
+ETC_20170313_027485	[Identifier]{nl}  Sandra	[감정사]{nl}  산드라				
+ETC_20170313_027486	[Appraiser Master]{nl}        Sandra	[감정사 마스터]{nl}        산드라				
+ETC_20170313_027487	Completed Magic Circle	완성 된 마법진				
+ETC_20170313_027488	Zima Suecourt Observation Device	지마 수코트 관측기				
+ETC_20170313_027489	Collector	수집 수정구				
+ETC_20170313_027490	[Chaplain Master]{nl}  Ceslovas	[채플린 마스터]{nl}  케슬로바스	QUEST_20151224_003140	Chaplain Master	채플린 마스터	
+ETC_20170313_027491	Dead Liverwort	죽은 우산이끼				
+ETC_20170313_027492	Inner Wall Observation Device	내성벽 지구 관측기				
+ETC_20170313_027493	Rare Flower	희귀한 꽃				
+ETC_20170313_027494	Singing Sphere	노래하는 구슬				
+ETC_20170313_027495	Shiny Object	반짝이는 물체				
+ETC_20170313_027496	Space Gap	공간의 틈	ETC_20150317_009450	Suspicious Chasm	수상한 틈새	
+ETC_20170313_027497	Defeated all monsters!{nl}	몬스터들을 모두 처치했습니다!{nl}				
+ETC_20170313_027498	Collect the fragments!	파편을 수집하세요!				
+ETC_20170313_027499	Collect the unknown flower!	정체불명의 꽃을 채집하세요!				
+ETC_20170313_027500	Collect the rare flower.	희귀한 꽃을 채집하세요				
+ETC_20170313_027501	Defeated all the monsters!{nl}Check the writings!	몬스터를 모두 처치하였습니다!{nl}글귀의 내용을 확인하세요!				
+ETC_20170313_027502	Entered the Roxona Underground Facility Mission.	록소나 지하시설 미션에 입장했습니다				
+ETC_20170313_027503	Defeat all head monsters inside the facility.	시설 내부의 모든 우두머리 몬스터들을 처치하세요				
+ETC_20170313_027504	Petrification curse detected in some areas!{nl}A Blue Slime has appeared.	일부 지역에서 석화 저주가 발생했습니다!{nl}푸른 슬라임이 나타납니다				
+ETC_20170313_027505	Petrification curse detected in some areas!{nl}A Blue Elet has appeared.	일부 지역에서 석화 저주가 발생했습니다!{nl}푸른 엘렛이 나타납니다				
+ETC_20170313_027506	Petrification curse detected in some areas!{nl}A Brown Terra Imp has appeared.	일부 지역에서 석화 저주가 발생했습니다!{nl}갈색 테라임프가 나타납니다				
+ETC_20170313_027507	Petrification curse detected in some areas!{nl}A Black Rajapearlite has appeared.	모야부르카가 석화 저주에서 풀려났습니다{nl}검은 라자펄라이트가 나타납니다				
+ETC_20170313_027508	Roxona Underground Facility Mission failed!{nl}Returning to Ruklys Street.	록소나 지하시설 미션 실패!{nl}루클리스 거리로 돌아갑니다				
+ETC_20170313_027509	Roxona Underground Facility Mission complete!{nl}Returning to Ruklys Street.	록소나 지하시설 미션 성공!{nl}루클리스 거리로 돌아갑니다				
+ETC_20170313_027510	The trap was activated, attracting all nearby monsters!{nl}Defeat the incoming monsters!	함정이 발동되어 퍼진 강한 악취에 몬스터들이 반응합니다!{nl}몰려오는 몬스터를 우선 처치하세요!				
+ETC_20170313_027511	You have defeated the monsters!{nl}Destroy the activated trap!	몰려오는 몬스터를 모두 처치했습니다!{nl}발동 된 함정을 파괴하세요!				
+ETC_20170313_027512	Failed to retrieve TP. Error code: {Code}	TP 구매 리스트 조회에 실패하였습니다. 에러코드 : {Code}	ETC_20170313_027039	Failed to display TP purchase list. Error code: {Code}	TP 지급 작업이 실패하였습니다. 에러코드 : {Code}	
+ETC_20170313_027513	Awaiting TP retrieval. Please try again later.	이전 지급 요청이 진행중입니다. 잠시 후 다시 시도해 주세요.				
+ETC_20170314_027514	One or more party members have used all daily entries.{nl}You will be able to advance only until the Lolopanther Area.	파티 구성원 중, 남은 입장 횟수가 0인 파티원이 있습니다{nl}롤로팬서 구간까지 도전할 수 있습니다				
+ETC_20170327_027515	Receive Anniversary Firecrackers	1주년 폭죽 받기				
+ETC_20170327_027516	Cannot be used while riding or interacting with a companion.	컴패니언 탑승 상태에서 사용할 수 없습니다.				
+ETC_20170327_027517	Receive Event Items	만우절 아이템 받기				
+ETC_20170330_027518	Main Building	대성당 본당				
+ETC_20170330_027519	Grand Corridor	대성당 대회랑				
+ETC_20170330_027520	Penitence Route	대성당 참회로				
+ETC_20170330_027521	Sanctuary	대성당 지성소				
+ETC_20170330_027522	Sentry Bailey	대지의 요새 전초구역				
+ETC_20170330_027523	Drill Ground of Confliction	대지의 요새 대립의 훈련장				
+ETC_20170330_027524	Resident Quarter	대지의 요새 거주구역				
+ETC_20170330_027525	Storage Quarter	대지의 요새 저장구역				
+ETC_20170330_027526	Storage	칼레이마스 보관실				
+ETC_20170330_027527	Solitary Cells	칼레이마스 독방구역				
+ETC_20170330_027528	Workshop	칼레이마스 작업장				
+ETC_20170330_027529	Investigation Room	칼레이마스 심문실				
+ETC_20170330_027530	Ruklys Hall of Fame	대지의 요새 루클리스 전당				
+ETC_20170330_027531	Extension	대지의 요새 확장구역				
+ETC_20170330_027532	Evacuation Residential District	대지의 요새 피난거주구				
+ETC_20170330_027533	Tough Luck	소길				
+ETC_20170330_027534	Use this and good things are sure to come your way.	착용하고 있으면 좋은 일이 생길 것 같다.				
+ETC_20170330_027535	Lucky One	중길				
+ETC_20170330_027536	Golden Luck	길				
+ETC_20170330_027537	Eternal Fortune	대 길				
+ETC_20170330_027538	Life is Sweet	달콤한 인생				
+ETC_20170330_027539	A title given to players who ate 5 Valentine Chocolates.	발렌타인 초콜릿 5개를 먹으면 지급되는 칭호입니다.				
+ETC_20170330_027540	Not on a Diet	다이어트 내일부터				
+ETC_20170330_027541	A title given to players who ate 20 Valentine Chocolates.	발렌타인 초콜릿 20개를 먹으면 지급되는 칭호입니다.				
+ETC_20170330_027542	Chocolate Meister	초코 러브 마이스터				
+ETC_20170330_027543	A title given to players who ate 50 Valentine Chocolates.	발렌타인 초콜릿 50개를 먹으면 지급되는 칭호입니다.				
+ETC_20170330_027544	Sugar Rush	혈당주의				
+ETC_20170330_027545	A title given to players who ate 70 Valentine Chocolates.	발렌타인 초콜릿 70개를 먹으면 지급되는 칭호입니다.				
+ETC_20170330_027546	A title given to players who ate 100 Valentine Chocolates.	발렌타인 초콜릿 100개를 먹으면 지급되는 칭호입니다.				
+ETC_20170330_027547	TOS Music Master	TOS 음악대장				
+ETC_20170330_027548	A title given to the winners of the TOS Cover Contest.	OST 커버연주 공모전 참여자에게 주어지는 칭호.				
+ETC_20170330_027549	Burial Ground Itinerant	매너클 순회자				
+ETC_20170330_027550	Increases the maximum amount of members in a guild by 3 per attribute level.	길드 최대 인원을 특성 레벨당 +3명 증가시킵니다.	ETC_20151224_018009	Increases the maximum amount of members in a guild by 1 per attribute level.	길드 최대 인원을 특성 레벨당 +1명 증가시킵니다.	
+ETC_20170330_027551	Undefined message.	정의되지 않은 메세지 입니다.				
+ETC_20170330_027552	Double login error.	중복 로그인 관련 에러				
+ETC_20170330_027553	Product number missing NISMS.	NISMS 존재하지 않는 상품 번호 입니다.				
+ETC_20170330_027554	Failed to load NISMS cash inventory data.	NISMS 캐시 인벤토리 정보를 가져오는데 실패하였습니다.				
+ETC_20170330_027555	No NISMS items.	NISMS 아이템 개수가 0개 입니다.				
+ETC_20170330_027556	NISMS cannot find item.	NISMS 찾을 수 없는 아이템 입니다.				
+ETC_20170330_027557	Grants Token benefits to all your characters in the server for 30 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 30일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여 시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 개인 거래 30회 가능	ETC_20160718_022141	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 30일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 개인 거래 30회 가능	
+ETC_20170330_027558	Grants Token benefits to all your characters in the server for 7 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 7일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}				
+ETC_20170330_027559	Grants Token benefits to all your characters in the server for 5 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 5일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}				
+ETC_20170330_027560	Grants Token benefits to all your characters in the server for 1 day. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20160718_022144	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능	
+ETC_20170330_027561	Grants Token benefits to all your characters in the server for 3 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3시간동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20160718_022145	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3시간동안 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능	
+ETC_20170330_027562	Grants Token benefits to all your characters in the server for 6 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 6시간동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20160718_022146	Applies Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 6시간동안 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능	
+ETC_20170330_027563	Grants Token benefits to all your characters in the server for 12 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 12시간동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20160718_022147	Applies Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 12시간동안 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 경험치 20% 증가{nl} - 최대 버프 적용 개수 증가{nl}- 프리미엄 제스쳐 사용 가능	
+ETC_20170330_027564	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}				
+ETC_20170330_027565	Grants Token benefits to all your characters in the server for 30 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 30일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 개인 거래 30회 가능	ETC_20160718_022149	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - 1 extra instance entry for missions and dungeons{nl} - Enables 30 personal trades	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 30일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다..{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능{nl} - 개인 거래 30회 가능	
+ETC_20170330_027566	Grants Token benefits to all your characters in the server for 15 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 15일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}				
+ETC_20170330_027567	Grants Token benefits to all your characters in the server for 3 hours. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3시간동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20161214_025929	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3시간동안 혜택이 적용됩니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능	
+ETC_20170330_027568	Grants Token benefits to all your characters in the server for 5 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 5일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20161214_025930	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 5일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능	
+ETC_20170330_027569	Grants Token benefits to all your characters in the server for 3 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20161214_025933	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}Upon pick-up, use within 14 days.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Increased maximum buff count{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 3일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다. 획득 후부터 14일동안 사용 가능합니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능	
+ETC_20170330_027570	Grants Token benefits to all your characters in the server for 1 hour. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Team Storage {nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl}	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl}	ETC_20170313_026912	Grants Token benefits to all your characters in the server for 1 hour. Right-click to use. Remaining time is displayed in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 개인 거래 30회 가능	
+ETC_20170330_027571	Midnight Blue Hair Dye	미드나이트 블루 염색약				
+ETC_20170330_027572	Rich and mysterious like the deep night sky. Right-click to use. Check the Character Settings tab for the registered color.	짙은 밤하늘을 연상시키는 군청색입니다. 마우스 우클릭으로 사용 가능하고, 등록된 색은 캐릭터 설정에서 확인할 수 있습니다.				
+ETC_20170330_027573	Use to obtain 650 TP. 	사용 시 650 TP를 획득합니다. 				
+ETC_20170330_027574	Tak about the importance of an Appraiser Master	감정사 마스터의 필요성에 대해 이야기 하기				
+ETC_20170330_027575	Search for books with ways to transform into a demon at the Sanctuary	대성당 지성소에서 마족으로 변신할 수 있는 방법이 담긴 문헌 수색	ETC_20150323_009926	Find documents about the method of demon transformation in the Sanctuary	지성소에서 마족으로 변신할 수 있는 방법이 담긴 문헌 수색	
+ETC_20170330_027576	Physical Defense {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 seconds when attacked by a Devil-type enemy (cooldown time 10 seconds)	물리 방어력 {img green_up_arrow 16 16}201{nl}                         악마형 대상에게 피격 시, 5% 확률로 5초동안 체력 회복 (재사용 대기시간 10초)	ETC_20161214_026081	Physical Attack {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 seconds when attacked by a Devil-type enemy	물리 방어력 {img green_up_arrow 16 16}201{nl}                         악마형 대상에게 피격 시, 5% 확률로 5초동안 체력 회복	
+ETC_20170330_027577	Max. no. of participants in group chat	그룹 채팅에 참여 가능한 최대 인원수				
+ETC_20170330_027578	Max. no. of group chats held by each player	한 유저가 소유 가능한 최대 그룹 채팅 갯수				
+ETC_20170330_027579	When displayed as 0, the item cannot be enhanced, transcended, added sockets, awakened, traded 1:1, registered in the market, purchased, cancelled, sold to an NPC, deposited/withdrawn from personal and team storage, equipped on a companion or unequipped.	0일 경우 감정 아이템의 강화, 초월, 소켓추가, 각성, 1:1거래, 마켓 등록, 구매, 취소, NPC 상점 판매, 개인 및 팀 창고 in/out, 컴패니언 장비 슬롯 장착, 해제 불가				
+ETC_20170330_027580	Group ID to allow for access when no. of characters exceeds no. of slots available	캐릭터 갯수가 슬롯 갯수를 초과해도 접속을 허용할 그룹 아이디				
+ETC_20170330_027581	Set to 1 to login to DB (same as internal server) regardless of country	이 값을 1로 두면 설정된 국가 옵션에 관계없이 무조건 DB로그인(사내서버처럼)합니다				
+ETC_20170330_027582	Set Sleep time equal to each frame in zone server. (msec) Used for testing when zone server frames are low.	존서버의 각 프레임에 해당 시간만큼 Sleep을 줍니다.(msec) 존서버 프레임이 낮은 경우의 테스트를 위해 사용됩니다.				
+ETC_20170330_027583	Max. no. of cabinet items sent from zone server to client. Server crashes if number is too large	존서버에서 클라로 최대 보낼 수 있는 캐비넷 아이템 개수. 너무 크면 서버 죽는대여				
+ETC_20170330_027584	No. of members increased according to guild member attribute	길드 멤버 특성 레벨에 의해 추가될 멤버 수				
+ETC_20170330_027585	Available 2-4 matching time (ms)	4인 이하 매칭 가능 시간(MS)				
+ETC_20170330_027586	Process Exception(s) After Delete	삭제후예외처리				
+ETC_20170330_027587	Use to create a Candy Basket.	사탕 세트를 만들 수 있는 제작서{nl}(4월6일 일괄 삭제됩니다.)	ETC_20170303_026442	A recipe that allows you to craft Candy Basket	사탕 세트를 만들 수 있는 제작서	
+ETC_20170330_027588	Gray	회색				
+ETC_20170330_027589	Yellow	노랑				
+ETC_20170330_027590	Light Green	연두				
+ETC_20170330_027591	Green	초록				
+ETC_20170330_027592	Pink	분홍				
+ETC_20170330_027593	Purple	보라				
+ETC_20170330_027594	Light Blue	하늘				
+ETC_20170330_027595	Blue	파랑				
+ETC_20170330_027596	Turquoise	청록				
+ETC_20170330_027597	Account or PcEtc or session property check	Account or PcEtc or 세션 프로퍼티 확인	ETC_20160811_023300	Check account or session property	Account or 세션 프로퍼티 확인	
+ETC_20170330_027598	Account or PcEtc or session property revision	Account or PcEtc or 세션 프로퍼티 수정	ETC_20160811_023301	Modify account or session property	Account or 세션 프로퍼티 수정	
+ETC_20170330_027599	Expired items cannot be used as materials.	사용기간이 만료된 아이템은 재료로 사용할 수 없습니다.				
+ETC_20170330_027600	Cooldown time: {Sec} seconds	재사용 대기시간 : {Sec}초	ETC_20150317_001775	Cooldown: {Sec} seconds	재사용 대기 시간 : {Sec}초	
+ETC_20170330_027601	Tradable via Market	마켓 거래 가능				
+ETC_20170330_027602	Your companion is not in active mode.	컴패니언이 휴면 상태입니다.				
+ETC_20170330_027603	Cannot log out during the matching process.	매칭 요청 중에는 로그아웃 할 수 없습니다.				
+ETC_20170330_027604	Attribute point limit exceeded.	특성 포인트 보유 한도를 초과합니다.				
+ETC_20170330_027605	Not enough attribute points.	특성 포인트가 부족합니다.				
+ETC_20170330_027606	Cannot move to another map during the matching process.	매칭 요청 중에는 맵 이동을 할 수 없습니다.				
+ETC_20170330_027607	Groups	그룹	ETC_20160718_022329	Notice	공지	
+ETC_20170330_027608	You cannot create any more group chats.	더 이상 새로운 채팅방을 생성할 수 없습니다.				
+ETC_20170330_027609	The other player cannot create any more group chats.	더 이상 상대방이 새로운 채팅방을 생성할 수 없습니다.				
+ETC_20170330_027610	Group Chat	그룹 채팅				
+ETC_20170330_027611	Expired items have been deleted.	기간 만료 아이템이 일괄 삭제 되었습니다.				
+ETC_20170330_027612	Failed to delete expired times. Please try again.	기간 만료 아이템 삭제에 실패했습니다. 다시 시도 부탁드립니다.				
+ETC_20170330_027613	No expired items.	기간 만료 아이템이 없습니다.				
+ETC_20170330_027614	See	보기				
+ETC_20170330_027615	Connection to the chat server is unstable. Try again later.	채팅 서버와의 연결이 원할하지 않습니다. 잠시 후 다시 시도해주세요.				
+ETC_20170330_027616	Tab {Count}	탭{Count}				
+ETC_20170330_027617	Autoscroll to bottom when new message arrives	새 메시지 도착 시 스크롤바 하단 이동				
+ETC_20170330_027618	New Chat	새 채팅				
+ETC_20170330_027619	The room is full.	방의 최대 인원이 가득 찼습니다.				
+ETC_20170330_027620	{Name} Chat	{Name}님과의 대화				
+ETC_20170330_027621	Invitation is not valid.	유효하지 않은 초대장입니다.				
+ETC_20170330_027622	You are already in the chat room.	이미 접속중인 채팅방입니다.				
+ETC_20170330_027623	{Name}'s Group Chat	{Name}님의 그룹채팅				
+ETC_20170330_027624	{Text} [{Cnt} people]	{Text} [{Cnt}명]				
+ETC_20170330_027625	Created new room.	새로운 방이 생성되었습니다.				
+ETC_20170330_027626	{Name} has joined.	{Name}님이 입장하셨습니다.				
+ETC_20170330_027627	{Name} has left.	{Name}님이 퇴장하셨습니다.				
+ETC_20170330_027628	Blocked player.	차단된 대상입니다.				
+ETC_20170330_027629	(Level {Auto_1} reached on completion)	(완료 시 {Auto_1} 레벨 달성)	ETC_20150317_001942	{Auto_1} level achievement when completed {@st42b}	{@st42b}완료 시 {Auto_1} 레벨 달성	
+ETC_20170330_027630	{COUNT} out of {MAXCOUNT} completed.	총 {MAXCOUNT}회 중 {COUNT}회 완료하셨습니다.				
+ETC_20170330_027631	The Kingdom's Lost Treasures	왕국의 잃어버린 보물				
+ETC_20170330_027632	The transformation wore off.{nl}Defeat the Pawndels and Pawnds and use the Transformation Scroll!	변신이 풀렸습니다{nl}자신감 버프가 없다면 폰델과 폰드를 처치 후 변신 스크롤을 사용하세요!				
+ETC_20170330_027633	{ZONE} is a level {ZONELV} area.{nl}Do you want to enter?	{ZONE}지역은 {ZONELV} 레벨 지역입니다.{nl}이동 하시겠습니까?				
+ETC_20170330_027634	You have EXP Cards available.{nl}Do you want to move without using the EXP cards?	사용하실 수 있는 경험치 카드가 있습니다.{nl}경험치 카드를 사용하지 않고 바로 이동하시겠습니까?				
+ETC_20170330_027635	{@st41b}Class EXP:  	{@st41b}클래스 경험치 : 				
+ETC_20170330_027636	 You have defeated {COUNT} monsters!{nl}Receive your EXP card reward at the Wings of Vaivora!	 {COUNT}마리 처치 달성!{nl}바이보라의 날개를 찾아가셔서 경험치 카드를 받으세요!				
+ETC_20170330_027637	 Defeat {COUNT} monsters to receive an EXP card reward!{nl}Rewards can be retrieved at the Wings of Vaivora.	 {COUNT}마리를 처치하면 경험치 카드를 받으실 수 있습니다!{nl}경험치 카드는 바이보라의 날개에서 받으실 수 있습니다.				
+ETC_20170330_027638	 map exploration complete!{nl}Receive your EXP card reward at the Wings of Vaivora!	의 맵탐색률 100%를 달성!{nl}바이보라의 날개를 찾아가셔서 경험치 카드를 받으세요!				
+ETC_20170330_027639	 map exploration: increase it by {PERCENT}% to receive an EXP card reward!{nl}Rewards can be retrieved at the Wings of Vaivora.	의 맵탐색률 {PERCENT}%를 올리시면 경험치 카드를 받으실 수 있습니다!{nl}경험치 카드는 바이보라의 날개에서 받으실 수 있습니다.				
+ETC_20170330_027640	The Pendrosium is knocked out!{nl}Hurry and collect the honey!	팬드로시움이 기절했습니다!{nl}어서 꿀을 채집하세요!	ETC_20170313_027297	The Pendrosium is passed out!{nl}Hurry and collect the honey!	펜드로시움이 기절했습니다!{nl}어서 꿀을 채집하세요!	
+ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until after the ceasefire period that follows the end of the war.{nl}Are you sure you want to declare war?	전쟁을 선포하면, 전쟁이 끝나고 휴전 시간이 끝날 때까지 길드 해산을 할 수 없습니다.{nl}정말 전쟁을 선포하시겠습니까?	ETC_20151224_019677	Are you sure you want to declare a war?	정말 전쟁을 선포하시겠습니까?	
+ETC_20170330_027642	You cannot disband your guild during a war.	전쟁 중인 길드가 있는 상태에서는 길드 해산을 할 수 없습니다	ETC_20151224_019705	You cannot disband a guild while you are at war.	전쟁 상태에서는 길드를 해산할 수 없습니다.	
+ETC_20170330_027643	You cannot disband your guild during the ceasefire.	휴전 중인 길드가 있는 상태에서는 길드 해산을 할 수 없습니다				
+ETC_20170330_027644	Purchased	구매{nl}완료				
+ETC_20170330_027645	Sold	판매{nl}완료				
+ETC_20170330_027646	Cancelled	판매{nl}취소				
+ETC_20170330_027647	{Day}d {Hour}h {Min}m	{Day}일 {Hour}시 {Min}분				
+ETC_20170330_027648	{Hour}h {Min}m {Sec}s	{Hour}시 {Min}분 {Sec}초				
+ETC_20170330_027649	{Min}m {Sec}s	{Min}분 {Sec}초				
+ETC_20170330_027650	You will be matched in a party of {MIN_MEMBER} players minimum.{nl}This option can only be changed by cancelling auto match.{nl}Do you accept to enter as a 2 to 4 member party?	최소 {MIN_MEMBER}명으로 매칭되는 데에 동의합니다.{nl}이 옵션은 자동매칭을 취소할 때까지 바꿀 수 없습니다.{nl}정말 4인 이하 입장에 동의하시겠습니까?				
+ETC_20170330_027651	Cancelled 2 to 4 auto match.{nl}Cancelled for all party members.	4인 이하 입장을 취소합니다.{nl}파티원 전부 취소됩니다.				
+ETC_20170330_027652	Chat Tab Toggle	채팅 탭 전환				
+ETC_20170330_027653	Able to retrieve Market silver instantaneously	마켓 판매금 즉시 수령 가능				
+ETC_20170330_027654	N/A	고객님의 넥슨캐시 보호를 위해 선물하기가 제한되었습니다.				
+ETC_20170330_027655	N/A	고객님의 넥슨캐시 보호를 위해 구매하기가 제한되었습니다.				
 ETC_20170330_027656	Receive event rewards
 ETC_20170330_027657	Receive hidden rewards
 ETC_20170330_027658	Apply Goddess' Blessing stage 1.
@@ -27778,7 +27778,7 @@ ETC_20170420_027777	Skill Material Merchant
 ETC_20170420_027778	Leaf Penguin
 ETC_20170420_027779	Goddess' Level Up Chest Helper
 ETC_20170420_027780	Defeat a Monster of a Level Equal or Superior to Yours With Your Companion
-ETC_20170420_027781	Additional Dark Attack {img green_up_arrow 16 16} 30
+ETC_20170420_027781	Zusätzlicher Dunkel Angriff{img green_up_arrow 16 16} 30
 ETC_20170420_027782	HP Recovery {img green_up_arrow 16 16} 16
 ETC_20170420_027783	All Stats {img green_up_arrow 16 16} 1
 ETC_20170420_027784	Adds {img green_up_arrow 16 16} 12 Earth property damage to basic attacks
@@ -27794,9 +27794,9 @@ ETC_20170420_027793	SPR {img green_up_arrow 16 16} 6
 ETC_20170420_027794	1% chance of recovering 200 SP for 5 seconds when attacked by a Devil-type enemy
 ETC_20170420_027795	When attacking an enemy from behind with Backstab{nl}                         {img green_up_arrow 16 16}150% attack increase{nl}                         evasion {img red_down_arrow 16 16}188 decrease
 ETC_20170420_027796	Porapore buff effects when using physical attacks{nl}                         Upon reaching 100 Porapore buff stacks, for 10 seconds{nl}                         Ligh and Dark property add. damage{nl}                         increase by {img green_up_arrow 16 16}8% of your magic defense
-ETC_20170420_027797	Ice Property Additional Damage {img green_up_arrow 16 16} 12
-ETC_20170420_027798	Ice Property Additional Damage {img green_up_arrow 16 16} 26
-ETC_20170420_027799	Earth Property Additional Damage {img green_up_arrow 16 16} 42
+ETC_20170420_027797	Ice Property Zusätzlicher Schaden {img green_up_arrow 16 16} 12
+ETC_20170420_027798	Ice Property Zusätzlicher Schaden {img green_up_arrow 16 16} 26
+ETC_20170420_027799	Earth Property Zusätzlicher Schaden {img green_up_arrow 16 16} 42
 ETC_20170420_027800	HP Recovery {img green_up_arrow 16 16}240
 ETC_20170420_027801	All Stats {img green_up_arrow 16 16}6
 ETC_20170420_027802	Adds {img green_up_arrow 16 16}110 Frost property attack to basic attacks{nl}                         Increases STR and SPR by {img green_up_arrow 16 16}12
@@ -28173,8 +28173,8 @@ ETC_20170621_028172	N/A	로그의 해쉬값
 ETC_20170621_028173	Pirate	해적 단원 남자				
 ETC_20170621_028174	Pirate	해적 단원 여자				
 ETC_20170621_028175	Request Wooden Boards	해적 단원의 요청				
-ETC_20170621_028176	{Item} item locked.	{Item} 아이템의 잠금이 설정되었습니다.				
-ETC_20170621_028177	{Item} item unlocked.	{Item} 아이템의 잠금이 해제되었습니다.				
+ETC_20170621_028176	{Item} item gesperrt.	{Item} 아이템의 잠금이 설정되었습니다.				
+ETC_20170621_028177	{Item} item freigeschaltet.	{Item} 아이템의 잠금이 해제되었습니다.				
 ETC_20170703_028178	N/A	커맨더 세이버에서 y 포지션에 nan 들어와서 자꾸 DB에러 나는거 잡기 위한 용도				
 ETC_20170703_028179	Popolion Costume Package	포포리온 코스튬 패키지				
 ETC_20170703_028180	Right-click to use and obtain the contents.{nl}- Popolion Costume x1{nl]- Popolion Head x1{nl}{@stToolTip_Red}The items received will match the gender of the character that opens the package.{/}	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 포포리온 코스튬 x1{nl} - 포포리온 헤드 x1{nl}{@stToolTip_Red}사용 시 성별에 맞는 아이템이 지급됩니다.{/}				
@@ -28213,10 +28213,10 @@ ETC_20170717_028212	Rune Caster Unlock Voucher	룬캐스터 클래스 해금권
 ETC_20170717_028213	Use to unlock the Rune Caster class after reaching Rank 6. Right-click to use.	사용 시 6랭크 달성 후 룬캐스터 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ETC_20170717_028214	Shinobi Unlock Voucher	시노비 클래스 해금권				
 ETC_20170717_028215	Use to unlock the Shinobi class after reaching Rank 7. Right-click to use.	사용 시 7랭크 달성 후 시노비 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.				
-ETC_20170717_028216	Unlocked: {JOBNAME}	해금 완료 : {JOBNAME}				
+ETC_20170717_028216	Freigeschaltet: {JOBNAME}	해금 완료 : {JOBNAME}				
 ETC_20170717_028217	The corresponding class is already unlocked; cannot use item.	이미 해금되어있어서 아이템을 사용할 수 없습니다.				
 ETC_20170717_028218	Incorrect class tree; cannot use item.	클래스 계열이 달라서 아이템을 사용할 수 없습니다.				
-ETC_20170717_028219	{JOBNAME} class unlocked	{JOBNAME} 클래스 해금 성공				
+ETC_20170717_028219	{JOBNAME} Klasse freigeschaltet	{JOBNAME} 클래스 해금 성공				
 ETC_20170717_028220	Reach Rank {RANK}	{RANK}랭크				
 ETC_20170717_028221	 and select the 	 달성 시 				
 ETC_20170717_028222	 class!	 클래스 선택가능!				
@@ -29932,7 +29932,7 @@ ETC_20171128_029926	The items sold at the Point Shop have a daily purchase limit
 ETC_20171128_029927	The instanced dungeons you can enter depend on the level of your character, and a daily entry limit is applied.	인스턴스 던전은 플레이어의 레벨에 따라 입장이 제한되며, 일일 입장 횟수가 제한됩니다.	ETC_20170313_026862	The instanced dungeons you can enter depend on the level of your character: those available will be displayed in green. There is also a daily entry limit to instanced dungeons.	인스턴스 던전은 플레이어의 레벨에 따라 입장이 제한되며, 입장이 가능한 던전은 초록색으로 표시되고 일일 입장 횟수가 제한됩니다.	
 ETC_20171128_029928	{nl} {nl}Dungeons can be accessed in Klaipeda through the Sentinel Rian.	{nl} {nl}클라페다에 던전 입장을 관리하고 있는 경비병 리엔이 위치하고 있습니다.	ETC_20170313_026863	{nl} {nl}Instanced dungeons can be entered by interacting with the corresponding notice board, although the location of the entrance in the map varies from dungeon to dungeon.	{nl} {nl}인스턴스 던전 입구를 이용하여 입장이 가능하며, 해당 입구 위치는 인스턴스 던전마다 각각 다릅니다.	
 ETC_20171128_029929	{nl} {nl}Speak with Sentinel Rian to select the dungeon and begin matching with other players{nl}before entering.	{nl} {nl}경비병 리엔과의 대화를 통해 던전에 입장할 수 있으며, 매칭을 통해 다른 플레이어들과 함께 입장할 수{nl}있습니다.	ETC_20170313_026864	{nl} {nl}Press {img space 40 40} at the entrance of the instanced dungeon to begin matching with other players before you enter.	{nl} {nl}인스턴스 던전 입구 앞에서 {img space 40 40}키를 사용해 던전에 입장할 수 있으며, 매칭을 통해 다른 플레이어들과{nl}함께 입장할 수 있습니다.	
-ETC_20171128_029930	Unique Raid	유니크 레이드				
+ETC_20171128_029930	Einzigartiger Raid	유니크 레이드				
 ETC_20171128_029931	You can obtain a recipe for powerful equipment through the Unique Raid.	유니크 레이드를 통해 강력한 장비의 레시피를 획득할 수 있습니다.				
 ETC_20171128_029932	You can enter the Unique Raid according to{nl}your level.	유니크 레이드는 플레이어의 레벨에 따라 입장이{nl}제한됩니다.				
 ETC_20171128_029933	{nl} {nl}You need a special item to enter the Unique Raid.{nl}You can obtain this as a challenge mode reward.	{nl} {nl}유니크 레이드에 입장하기 위해서는 특별한{nl}입장 아이템이 필요하며, 챌린지 모드의 보상을 통해{nl}획득할 수 있습니다.				
@@ -31272,7 +31272,7 @@ ETC_20180208_031266	Damage to Flying-type monsters increased by {@st66d_y}{s16}[
 ETC_20180208_031267	Physical Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031268	Damage to Plate-wearing enemies increased by {@st66d_y}{s16}[%d]{/}{/}%%	판금 갑옷 대상에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				
 ETC_20180208_031269	STR +{@st66d_y}{s16}[%d]{/}{/}	힘 스탯 +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031270	Additional Dark damage +{@st66d_y}{s16}[%d]{/}{/}	어둠 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031270	Zusätzlicher Dunkel Schaden +{@st66d_y}{s16}[%d]{/}{/}	어둠 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031271	Critical Attack +{@st66d_y}{s16}[%d]{/}{/}	치명타 공격력 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031272	Damage to Mutant-type property monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%	변이형 속성 몬스터에게 주는 대미지{@st66d_y}{s16}[%d]{/}{/}%% 증가				
 ETC_20180208_031273	Magic Verteidigung +{@st66d_y}{s16}[%d]{/}{/}	마법 방어력 +{@st66d_y}{s16}[%d]{/}{/}				
@@ -31377,9 +31377,9 @@ ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of slowing dow
 ETC_20180208_031372	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 2%% HP when attacked by Medium-sized monsters	중형 몬스터에게 피격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 HP 2%% 회복				
 ETC_20180208_031373	Stun status resistance +{@st66d_y}{s16}[%d]{/}{/}%%	스턴 상태 저항 +{@st66d_y}{s16}[%d]{/}{/}%%				
 ETC_20180208_031374	Subweapon physical attack +{@st66d_y}{s16}[%d]{/}{/}	보조 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}				
-ETC_20180208_031375	Additional Ice damage +{@st66d_y}{s16}[%d]{/}{/}	얼음 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031375	Zusätzlicher Eisschaden +{@st66d_y}{s16}[%d]{/}{/}	얼음 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031376	STR +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 	힘 스텟 +{@st66d_y}{s16}[%d]{/}{/}, 정신 스탯 +{@st66d_y}{s16}[%d]{/}{/} 				
-ETC_20180208_031377	Additional Fire damage +{@st66d_y}{s16}[%d]{/}{/}	불 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180208_031377	Zusätzlich Feuerschaden +{@st66d_y}{s16}[%d]{/}{/}	불 속성 추가 대미지 +{@st66d_y}{s16}[%d]{/}{/}				
 ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 	지능 스텟 +{@st66d_y}{s16}[%d]{/}{/}, 정신 스탯 +{@st66d_y}{s16}[%d]{/}{/} 				
 ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 3%% HP when attacked by Large monsters	대형 몬스터에게 피격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 HP 3%% 회복				
 ETC_20180208_031380	Fire property resistance +{@st66d_y}{s16}[%d]{/}{/}	불 속성 속성 저항력 +{@st66d_y}{s16}[%d]{/}{/}				
@@ -31951,3 +31951,552 @@ ETC_20180326_031945	[Pardoner Master]{nl}Mistes Goldmund
 ETC_20180326_031946	[Paladin Master] {nl} Valentinas Naimon
 ETC_20180326_031947	[Taoist Master]{nl} GeHong
 ETC_20180326_031948	[Zealot Master]{nl}    Eliza Tal	
+ETC_20180402_031949	Good Student Stamp	참 잘했어요 도장				
+ETC_20180406_031950	PC_ICON_INFO Test	PC_ICON_INFO 테스트				
+ETC_20180406_031951	Attention on SP use	이 sp 는 사용에 주의 하세요				
+ETC_20180409_031952	Failed to generate actor instance.	엑터 인스턴스를 생성하지 못했습니다.				
+ETC_20180409_031953	Select forced client location sync Y/N.	클라이언트 이동 동기화를 강제로 할 지 결정.				
+ETC_20180413_031954	The Territory Wars are a way to build your guild's reputation.	길드 콜로니전을 통해 길드의 명성을 드높일 수 있습니다.	ETC_20170912_028645	With Guild Territory Wars you can win amazing prizes.	길드 콜로니전을 통해 막대한 재화를 얻을 수 있습니다.	
+ETC_20180413_031955	Guild Territory Wars are a type of large-scale GvG content.	길드 콜로니전은 길드 단위의 대규모 PvP 콘텐츠{nl}입니다.	ETC_20170912_028646	Guild Territory Wars open every week{nl}and give you a chance at winning amazing prizes.	각 서버에서 매주 마다 열리는 길드 콜로니전을 통해{nl}보상으로 막대한 재화를 얻을 수 있습니다.	
+ETC_20180413_031956	{nl} {nl}Territory Wars sessions take place on a set schedule in maps called Spot Areas.	{nl} {nl}길드 콜로니전은 여러 스팟 지역에서 일정 시간 동안{nl}동시에 진행됩니다.	ETC_20170912_028651	{nl} {nl}Guild Territory Wars take place every Sunday at 8 PM in maps with Spots.	{nl} {nl}매주 일요일 오후 8시에 여러 스팟 지역에서{nl}한 시간 동안 길드 콜로니전이 진행됩니다.	
+ETC_20180413_031957	 Your guild can win points by entering the Spot.	 길드가 진입할 경우,{nl}점령 포인트를 획득할 수 있습니다.	ETC_20170912_028661	  guild enters the Spot, they earn points.	 길드가 진입할 경우,  점령 포인트를 획득할 수 있습니다.	
+ETC_20180413_031958	{nl} {nl}Spot Areas contain devices called Amplifiers.	{nl} {nl}또한 각 스팟 지역마다 콜로니 증폭기가 생성됩니다.	ETC_20170912_028671	{nl} {nl}Whichever guild seizes the Spot receives a buff,{nl}which can increase its effects over time{nl}depending on how long the Spot is maintained under the guild.	{nl} {nl}스팟 지역을 점령한 길드는 점령 버프를 받게 되며,{nl}점령 유지 시간이 길어질수록 일정 시간마다 더 높은{nl}단계의 버프 효과를 얻을 수 있습니다.	
+ETC_20180413_031959	The guild of the player who deals the last blow to an Amplifier receives a temporary buff and, the more Amplifiers your guild destroys, the more points you get in the Wars.{nl} {nl}The guild currently holding the Spot cannot attack the Amplifiers, and the Spot Area generates new ones whenever the Spot is taken by another guild. Keep in mind that you will not receive the corresponding buff if you are outside the Spot Area.	증폭기를 마지막으로 파괴한 인원의 길드는 이동속도 증가 버프를 일시적으로 받을 수 있으며, 증폭기를 파괴한 개수에 따라 점령 포인트 획득 수치가 증가하여 점령 포인트를 빠르게 획득할 수 있습니다.{nl} {nl}점령 길드는 증폭기를 공격할 수 없으며, 스팟 지역의 점령 길드가 바뀌면 증폭기가 재배치됩니다. 증폭기를 파괴한 스팟 지역을 벗어날 경우, 해당 버프의 효과를 받을 수 없으니 유의하세요.	ETC_20170912_028672	This buff, however, cannot be obtained outside of the Spot Area.	스팟 지역을 벗어날 경우, 해당 버프의 효과를 받을 수 없으니 유의하세요.	
+ETC_20180413_031960	{nl} {nl}Also, every once in a while a powerful monster will appear in the Spot Area.{nl}The last guild to attack the monster receives a temporary but very useful buff.	{nl} {nl}그 밖에도 스팟 지역에서는 일정 시간마다 강력한{nl}몬스터가 등장하며, 해당 몬스터를 마지막으로 타격한{nl}인원의 길드는 강력한 버프를 일시적으로 받을 수{nl}있습니다.	ETC_20170912_028674	{nl} {nl}At the end of the Territory Wars, the guild that seizes the Spot receives the corresponding rewards.	{nl} {nl}길드 콜로니전이 종료되면 스팟 지역을 점령하고 있던{nl}길드에게 보상이 지급됩니다.	
+ETC_20180413_031961	Keep in mind that you will not receive the corresponding buff if you are outside the Spot Area.{nl} {nl}After the session ends, you can check the World Map to see which guilds seized which Spots.{nl} {nl}For more information on schedules and benefits, please check our official website at treeofsavior.com.	스팟 지역을 벗어날 경우, 해당 버프의 효과를 받을 수 없으니 유의하세요.{nl} {nl}길드 콜로니전 종료 후 길드창 및 월드맵을 통해{nl}각 스팟 점령 길드를 확인할 수 있습니다.{nl} {nl}자세한 일정 및 점령 혜택은 공식 홈페이지 내 공지사항을 통해 확인해 주세요.	ETC_20170912_028675	All rewards are sent to the guild storage at once. You can check the rewards at the Territory Wars tab of the Guild window.	점령 보상은 길드 보관함으로 일괄적으로 지급되며, 지급될 보상 내용은 길드창의 콜로니전 탭에서 확인할 수 있습니다.	
+ETC_20180413_031962	Challenge Reset Box	챌린지 초기화 상자				
+ETC_20180413_031963	Right-click to use and obtain the items.{nl} - Challenge Portal Scroll x5{nl} - Challenge Mode One Entry Voucher x 5	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 챌린지 포탈 생성 스크롤 x5{nl} - 챌린지 모드 1회 입장권 x 5				
+ETC_20180413_031964	Territory Amplifier	콜로니 증폭기				
+ETC_20180413_031965	Territory Wars Beta Set	콜로니전 베타 세트				
+ETC_20180413_031966	Receive First Win Rewards	길드 콜로니전 첫 승리 보상 받기				
+ETC_20180413_031967	Amplifier destroyed!{nl}(Last blow: [{name}] from [{partyName}])	콜로니 증폭기가 파괴되었습니다!{nl}(마지막 타격자 : [{partyName}] 길드의 [{name}])				
+ETC_20180413_031968	[{name}] dealt the last blow to an Amplifier!{nl}All guild members receive the [{buff}] buff!	길드 내 [{name}] 유저가 증폭기를 마지막으로 타격하는데 성공했습니다!{nl}보상으로[{buff}] 버프를 받았습니다!				
+ETC_20180413_031969	Participation reward sent: [{itemName}] x{itemCount}{nl}(Daily count: {nowCount}/{limitCount})	길드 콜로니전 참여 보상으로  [{itemName}] x {itemCount} 개 지급{nl}(일일 지급 횟수 : {nowCount}/{limitCount} 회)				
+ETC_20180413_031970	{Name} has been defeated by {From} from {FromGuild}.	{FromGuild}의 {From}에게 길드원 {Name}님이 당했습니다.				
+ETC_20180413_031971	Special {number}-day attendance reward:{nl}[{itemName1}] x{itemCount1}{nl}[{itemName2}] x{itemCount2}	길드 콜로니전 {number}회 참여 보상으로 특별한 아이템이 지급됩니다. {nl}[{itemName1}] x {itemCount1} 개{nl}[{itemName2}] x {itemCount2} 개				
+ETC_20180413_031972	Territory Wars participation rewards are now available.{nl}Press [F2] to check your inventory.{nl}(Guild participation rewards will be sent to your Guild Storage.)	길드 콜로니전 첫 참여 보상으로 다양한 아이템이 지급됩니다.{nl}[F2]키를 눌러 현재 캐릭터의 인벤토리를 확인해 주세요.{nl}(길드 단위로 지급되는 아이템은 [길드 보관함]을 확인해 주세요.)				
+ETC_20180413_031973	First win reward: [{itemName}] x{itemCount}{nl}(The item will be sent to your Guild Storage.)	길드 콜로니전 첫 승리 보상으로  [{itemName}] x {itemCount} 개 지급{nl}(지급된 아이템은 길드 단위로 지급됩니다. [길드 보관함]을 확인해 주세요.)				
+ETC_20180413_031974	This option can only be used by a guild master after their guild has had their first Territory Wars win.	콜로니전에서 첫 승리한 길드의 길드마스터만 이용할 수 있습니다.				
+ETC_20180413_031975	Received first win reward.{nl}Please check your Guild Storage.	이미 첫 승리 보상을 받았습니다.{nl}길드 보관함을 확인해 주세요.				
+ETC_20180418_031976	Bloms and Virdneys became monsters through the same process. The only difference is that Virdneys sprouted from the ground.	블롬과 버드니는 같은 원리에 의해 몬스터로 변했지만, 버드니의 경우는 새순에서 변했다는 차이가 있습니다.	ETC_20161005_024493	The only difference between it and a Blom is that it was a bud when it became a monster despite going through the same transformation process.	블룸과 버드니는 같은 원리에 의해 몬스터로 변했지만, 버드니의 경우는 새순에서 변했다는 차이가 있습니다.	
+ETC_20180418_031977	Velcoffer	벨코퍼				
+ETC_20180418_031978	Velcoffer Guards aren't demons, but regular animals that mutated into monsters. What's more, the advent of these beasts wasn't caused by Medzio Diena. The Sage Master speculates that they were one of the monster species said to have been exiled from our world in a joint effort by goddesses and demons. As there are no records of these monsters prior to Medzio Diena, it's possible that the disaster set them free from the seals that detained them.	벨코퍼가드는 마족이 아니라 우리 세계의 동물이 변한 것이라는 점은 당혹스러운 사실입니다. 심지어 이 야수는 신수의 날로 인해 변한 것도 아닙니다. 세이지 마스터는 이 몬스터가 여신과 마족이 함께 힘을 합쳐서 세상에서 격리했다는 전설로 전해지는 몬스터의 한 종류가 아닐까 추측하고 있습니다. 그렇다면 이 몬스터가 신수의 날 이전 출현기록이 없다는 사실은 그간 이런 몬스터를 묶어둔 봉인들이 약해지고 있다는 뜻일지도 모릅니다.				
+ETC_20180418_031979	Tainted Gargoyle	오염된 가고일				
+ETC_20180418_031980	As Demon Lord Vaiga gradually takes on Gesti's legacy, the demons that protected his territory have been appearing more frequently in our world. One example of that is the Tainted Gargoyle.	마왕 바이가가 제스티의 빈자리를 점점 대신하면서, 그의 영역을 지키던 마족들이 점차 우리 세상에 더 많이 소환되고 있습니다. 이 가고일 역시 그러한 사례 가운데 하나입니다.				
+ETC_20180418_031981	Cave Minivern	동굴 미니베니오				
+ETC_20180418_031982	Cave Miniverns are the scavengers of the demon world. They can feed on carcasses, but they tend to hunt other small necrophagous animals. These monsters aren't built to live underground, but they are often spotted in sewers or caves, where they go to hunt.	동굴 미니베니오는 마족 세계의 청소부 역할을 합니다. 동물의 사체를 먹기도 하지만, 그런 사체를 노리는 작은 동물을 주로 사냥합니다. 따라서 하수구나 동굴 등에서 자주 목격되지만 거주지는 마계든 우리 세계든 지상이며, 그런 장소는 사냥을 위해 내려간다고 합니다.				
+ETC_20180418_031983	Velcoffaner	벨코페이너				
+ETC_20180418_031984	Better known as subordinates of Demon Lord Kartas. Although some monsters tend to change masters with ease, this species is said to dutifully obey every whim of their commandant.	마왕 카르타스의 부하들이 대표적이긴 하지만, 그외에도 몇몇 마족들은 눈앞의 강자를 따라 주인을 바꾸는 일을 서슴없이 합니다. 다만 이 몬스터의 경우에는 카르타스의 변덕 혹은 변덕스러우느 명령에 의해 움직인다는 이야기도 있습니다				
+ETC_20180418_031985	Cave Minivern Warrior	동굴 미니베니오 전사				
+ETC_20180418_031986	Cave Miniverns are less prone to following orders, preferring to listen to their instinctive needs. Therefore, this species was modified by high-rank demons to play a more specific role in combat. It is slightly stronger and more intelligent than other Miniverns.	동굴 미니베니오가 명령보다는 본능과 욕구를 따라 움직이기 때문에 상위마족들이 그 중 몇을 택해 보다 특별한 역할을 맡기기 위해 변형한 존재입니다. 따라서 동료들보다 약간 더 세고 조금 더 지능이 높은 편입니다.				
+ETC_20180418_031987	Cave Minivern Mage	동굴 미니베니오 마법사				
+ETC_20180418_031988	Some Cave Minivern Warriors have the ability to draw out magic from their bodies through the process of awakening. These monsters are an example of that.	동굴 미니베이노 전사 가운데 가끔 스스로 각성하여 주어지지 않은 마력을 자신의 몸에서 끌어내는 개체가 나오기도 합니다. 이 몬스터가 바로 그러한 사례에 해당합니다.				
+ETC_20180418_031989	Velcoffer Prop	연출용 벨코퍼 프랍				
+ETC_20180418_031990	Velcoffer Prop_2	연출용 벨코퍼 프랍_2				
+ETC_20180418_031991	Velcoffer Prop_3	연출용 벨코퍼 프랍_3				
+ETC_20180418_031992	Velcoffer Stone Statue	벨코퍼 석상				
+ETC_20180418_031993	Terra Taumas	테라 타우마스				
+ETC_20180418_031994	Terra Gremlin	테라 그렘린				
+ETC_20180418_031995	Terra Mallet Wyvern	테라 말렛와이번				
+ETC_20180418_031996	Terra Gaigalas	테라 가이갈라스				
+ETC_20180418_031997	Ominous Stone Statue	불길한 기운이 감도는 석상				
+ETC_20180418_031998	Terra Rytaswort	테라 리타스워트				
+ETC_20180418_031999	Fire Fox Shikigami	불여우 식신령				
+ETC_20180418_032000	Greenwood Shikigami	생목의 식신령				
+ETC_20180418_032001	Convent	수녀원	ETC_20161214_025798	Convent Scriptorium Mission	수녀원 기록실 미션	
+ETC_20180418_032002	Velcoffer's Nest	벨코퍼의 둥지				
+ETC_20180418_032003	A Yeti has appeared, and it's coming for you!	책을 찾던 중 갑자기 나타난 예티가 당신을 위협합니다!				
+ETC_20180418_032004	Allow me to summon the evil spirits.	그럼, 악령을 소환하겠습니다.				
+ETC_20180418_032005	Defeat the evil spirits.	자, 이제 악령을 처치해주세요.				
+ETC_20180418_032006	Pyromancer Master's Box	파이로맨서 마스터의 상자				
+ETC_20180418_032007	The Moa destroyed the Fletcher Master's materials! Defeat it!	플레쳐 마스터의 재료를 부순 모아를 처치하세요!				
+ETC_20180418_032008	Your agility training has begun.{nl}Attack the pell when the light blinks.	민첩성 훈련이 시작됐습니다{nl}검 연습대에서 빛이 날 떄 공격을 하세요				
+ETC_20180418_032009	A title given to event participants.	캐릭터 성장 이벤트 참여자에게 지급되는 칭호입니다.				
+ETC_20180418_032010	{img Collar_achieve_Halloween1 24 24}Certified Trick-or-Treater	{img Collar_achieve_Halloween1 24 24}나이트메어 세이비어	ETC_20171023_029027	Certified Trick-or-Treater	나이트메어 세이비어	
+ETC_20180418_032011	2018 Lucky Year	2018 대박맞은				
+ETC_20180418_032012	A title granted by the Golden Dog.	무술년 황금개가 선물한 칭호입니다.				
+ETC_20180418_032013	Ultimate Savior	궁극의 구원자				
+ETC_20180418_032014	A title given to event participants.	Reveal 이벤트 참여자에게 지급되는 칭호입니다.				
+ETC_20180418_032015	Philanthropist	자선가				
+ETC_20180418_032016	Taxpayer	납세자				
+ETC_20180418_032017	Savior of Elgos Abbot	엘고스 수도원의 은인				
+ETC_20180418_032018	Complete main story quest of Elgos Abbey.	엘고스 수도원 주 스토리 퀘스트를 완료한 유저에게 주어지는 칭호.				
+ETC_20180418_032019	Sacred Calling	사명을 함께 이룬 자				
+ETC_20180418_032020	Complete main story quest of Kalejimas Prison.	칼레이마스 감옥 주 스토리 퀘스트를 완료한 유저에게 주어지는 칭호.				
+ETC_20180418_032021	Witness of Sacrifice	고귀한 희생을 목격한 자				
+ETC_20180418_032022	Complete main story quest of Tevhrin Stalactite Cave.	테브린 종유동 주 스토리 퀘스트를 완료한 유저에게 주어지는 칭호.				
+ETC_20180418_032023	Metallurgist	야금사				
+ETC_20180418_032024	Hanaming Destroyer	하나밍 박멸자				
+ETC_20180418_032025	Trusted Ally	친근한 동료				
+ETC_20180418_032026	Rookie Challenger	챌린지 도전자				
+ETC_20180418_032027	Cleared Challenge Mode 1 time.	챌린지 모드 1회 클리어.				
+ETC_20180418_032028	Rookie Challenger	챌린지의 도전자				
+ETC_20180418_032029	Seasoned Challenger	챌린지 토벌자				
+ETC_20180418_032030	Cleared Challenge Mode 50 times.	챌린지 모드 50회 클리어.				
+ETC_20180418_032031	Seasoned Challenger	챌린지의 토벌자				
+ETC_20180418_032032	Expert Challenger	챌린지 학살자				
+ETC_20180418_032033	Cleared Challenge Mode 100 times.	챌린지 모드 100회 클리어.				
+ETC_20180418_032034	Expert Challenger	챌린지의 학살자				
+ETC_20180418_032035	Veteran Challenger	챌린지 정복자				
+ETC_20180418_032036	Cleared Challenge Mode 200 times.	챌린지 모드 200회 클리어.				
+ETC_20180418_032037	Veteran Challenger	챌린지의 정복자				
+ETC_20180418_032038	Ultimate Challenger	챌린지 심판자				
+ETC_20180418_032039	Cleared Challenge Mode 500 times.	챌린지 모드  500회 클리어.				
+ETC_20180418_032040	Ultimate Challenger	챌린지의 심판자				
+ETC_20180418_032041	Charging HP	체력 충전 중				
+ETC_20180418_032042	Charging HP required for Retiarius training.	레티아리이 훈련에 필요한 체력을 충전 중입니다.				
+ETC_20180418_032043	Stamina Training	지구력 훈련 중				
+ETC_20180418_032044	Stamina training in progress. Movement speed adjusted, companion mount not available.	지구력 훈련을 진행 중입니다. 이동속도 변경 및 컴패니언 탑승이 불가합니다.				
+ETC_20180418_032045	Agility Training	민첩 훈련				
+ETC_20180418_032046	Now.	지금이다.				
+ETC_20180418_032047	Provides protection against the Seal Stone's evil energy.	봉인석의 불길한 힘에 대한 피해를 상쇄시켜줍니다.				
+ETC_20180418_032048	Charge	충전				
+ETC_20180418_032049	The divine power is gathering.	신성한 힘이 모이고 있습니다.				
+ETC_20180418_032050	Terra Essence	테라 정수				
+ETC_20180418_032051	You're carrying the Terra Essence.	테라 정수를 가지고 있습니다.				
+ETC_20180418_032052	Increased Lightning property resistance of Kubus. 	큐바스의 전기 속성 저항력이 상승합니다. 	ETC_20150317_005829	Increased Lightning property resistance of Kubus.	큐바스의 번개 속성 저항력이 상승합니다. 	
+ETC_20180418_032053	5% of max. SP absorbed.	최대 SP의 5%씩 흡수합니다.				
+ETC_20180418_032054	Field boss awakened, attack increased and property damage received decreased.	필드 보스가 각성하여 공격력이 상승하며 속성 추가 대미지 피해를 적게 받습니다.				
+ETC_20180418_032055	Erosion	침식				
+ETC_20180418_032056	The curse caused erosion in the body.	저주가 몸을 침식하였습니다.				
+ETC_20180418_032057	Erosion Curse	저주 침식중				
+ETC_20180418_032058	Velcoffer's curse is erosive to the body.	벨코퍼의 저주가 몸을 침식하여 갑니다.				
+ETC_20180418_032059	Velcoffer Awakening	벨코퍼 각성				
+ETC_20180418_032060	Fire Fox Shikigami buff that takes the caster's attack.	시전자의 공격력을 받아오는 불여우 식신령 버프 입니다.				
+ETC_20180418_032061	Magic attack +{@st66d_y}{s16}[%d]{/}{/} when using Strike weapons	때리기류 무기 착용시 마법 공격력 +{@st66d_y}{s16}[%d]{/}{/}	ETC_20180208_031287	Magic Attack +{@st66d_y}{s16}[%d]{/}{/} when equipping Strike weapons	타격류 무기 착용시 마법 공격력 +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20180418_032062	Physical attack +{@st66d_y}{s16}[%d]{/}{/} when using Strike weapons	때리기류 무기 착용 시 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}	ETC_20180208_031298	Physical Attack +{@st66d_y}{s16}[%d]{/}{/} when equipping Strike weapons	타격류 무기 착용 시 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20180418_032063	#VALUE!	{img attribute_fire 25 25} : 불 속성 {img attribute_ice 25 25} : 얼음 속성 {img attribute_lightning 25 25}: 전기 속성{nl}{img attribute_earth 25 25} : 땅 속성 {img attribute_poison 25 25} : 독 속성 {img attribute_holy 25 25} : 신성 속성{nl}{img attribute_dark 25 25} : 어둠 속성 {img attribute_soul 25 25} : 염 속성	ETC_20170313_026576	{img attri_Fire 25 25}: Fire Property {img attri_Ice 25 25}: Ice Property {img attri_Lightning 25 25}: Lightning{nl}{img attri_Poison 25 25}: Poison Property{img attri_Earth 25 25}: Earth Properyt {img attri_Holy 25 25}: Holy Property{nl}{img attri_Dark 25 25}: Dark Property	{img attri_Fire 25 25} : 불 속성 {img attri_Ice 25 25} : 얼음 속성 {img attri_Lightning 25 25}: 전기 속성{nl}{img attri_Poison 25 25} : 독 속성{img attri_Earth 25 25} : 땅 속성 {img attri_Holy 25 25} : 신성 속성{nl}{img attri_Dark 25 25} : 어둠 속성	
+ETC_20180418_032064	{nl} {nl}After defeating the final boss monster in an instanced dungeon, you will receive that dungeon's cube as a reward.	{nl} {nl}인스턴스 던전의 최종 보스 몬스터를 처치하면 해당{nl}인스턴스 던전의 큐브를 보상으로 얻을 수 있습니다.	ETC_20170313_026865	{nl} {nl}After defeating the final boss monster in an instanced dungeon, you will receive a boss monster cube as reward.	{nl} {nl}인스턴스 던전의 최종 보스 몬스터를 처치하면 해당{nl}보스몬스터의 큐브를 보상으로 얻을 수 있습니다.	
+ETC_20180418_032065	{nl} {nl}The basic reward for clearing an instanced dungeon is one cube, with additional rewards granted according to your degree of completion.	{nl} {nl}보상으로 얻을 수 있는 큐브의 개수는 기본으로 1개이며{nl}인스턴스 던전 진행 시 우측 중간에 나타나는 인던{nl}달성률에 따라 추가적으로 더 얻으실 수 있습니다.	ETC_20170313_026844	{nl} {nl}The cubes you receive as reward will drop special items.	{nl} {nl}보상으로 얻은 큐브를 통해 특별한 아이템을 획득할 수 있습니다.	
+ETC_20180418_032066	Right-click a player on the party member info window to report them on one of the categories available.{nl} {nl}You can only report the same character once per day{nl}(resets at 06:00 server time).{nl} {nl}Players reported multiple times may have different degrees of restrictions applied to their accounts.	화면 좌측의 파티원 정보 창에서 해당 플레이어를 우클릭 시, 불량 사용자 신고가 가능하며 신고하게 된 사유를 선택할 수 있습니다.{nl} {nl}신고는 내 캐릭터 당 매일 1회 가능하며, 횟수는 매일{nl}아침 6시에 초기화 됩니다.{nl} {nl}신고가 누적된 플레이어는 불이익을 당할 수 있으니 유의하세요.				
+ETC_20180418_032067	Status Info	상태 정보				
+ETC_20180418_032068	Status Alert	상태 경고				
+ETC_20180418_032069	Auto Add Channel Abnormal	자동 채널 추가 비정상				
+ETC_20180418_032070	Auto Remove Channel Abnormal	자동 채널 제거 비정상				
+ETC_20180418_032071	Log Transmitted from Client	Client로 부터 전송된 로그				
+ETC_20180418_032072	Processed by message alert.	특정 메세지를 알럿으로 처리.				
+ETC_20180418_032073	Random Stat Error	랜덤 옵션 관련 에러				
+ETC_20180418_032074	Remaining Drive Capacity (MB)	드라이브의 남은 용량(MB)					
+ETC_20180418_032075	Disc Access Rate per Sec (100%% = 1 sec)	초당 디스크 엑세스 비율(100%% = 1초)				
+ETC_20180418_032076	No. of packets sent by server	해당 서버가 보낸 총 패킷 갯수					
+ETC_20180418_032077	Size of packets sent by server	해당 서버가 보낸 총 패킷 크기					
+ETC_20180418_032078	No. of packets received by server	해당 서버가 받은 총 패킷 갯수					
+ETC_20180418_032079	Size of packets received by server	해당 서버가 받은 총 패킷 크기					
+ETC_20180418_032080	No. of packets received by barrack server from client server	배럭서버가 클라이언트로 부터 받은 패킷 개수					
+ETC_20180418_032081	Size of packets received by barrack server from client server	배럭서버가 클라이언트로 부터 받은 패킷 크기					
+ETC_20180418_032082	Mission instance disabled standby	미션 인스턴스 비활성대기 개수					
+ETC_20180418_032083	No. of total instanced dungeon match requests	통합 인던 매칭 요청 횟수					
+ETC_20180418_032084	No. of total instanced dungeon re-enter requests	통합 인던 매칭 재입장 횟	수				
+ETC_20180418_032085	No. of total successful instanced dungeon matches	통합 인던 매칭 성공 횟수					
+ETC_20180418_032086	No. of total canceled instanced dungeon matches	통합 인던 매칭 취소 횟수					
+ETC_20180418_032087	No. of packets sent from global zone server to chat server	글로벌 존서버에서 채팅서버로 보낸 패킷 개수					
+ETC_20180418_032088	Size of packets sent from global zone server to chat server	글로벌 존서버에서 채팅서버로 보낸 패킷 크기					
+ETC_20180418_032089	No. of packets received by global zone server from relation server	글로벌 존서버가 릴레이션서버로 부터 받은 패킷 개				
+ETC_20180418_032090	Size of packets received by global zone server from relation server	글로벌 존서버가 릴레이션서버로 부터 받은 패킷 크				
+ETC_20180418_032091	Easy	마스터의 초급 훈련				
+ETC_20180418_032092	Medium	마스터의 중급 훈련				
+ETC_20180418_032093	High	마스터의 상급 훈련				
+ETC_20180418_032094	Advanced	마스터의 최상급 훈련				
+ETC_20180418_032095	#N/A	엘룸의 젬	ETC_20151102_016766	Ellom Gem	엘롬의 젬	
+ETC_20180418_032096	Retiarius	레티아리이				
+ETC_20180418_032097	The Retiarii are gladiators who use the net (or 'rete'), one-handed spear and dagger as their main weapons in combat. This class is specialized in using the rete to entrap or disarm their opponents.{nl}Meet their Master at Tenents' Farm.	레티아리이는 투망과 한손창, 단검으로 무장하고 전투하는 검투사 클래스입니다. 투망을 이용하여 상대를 포박하고 장비를 해제시켜 상대의 전투능력을 상실시키는 재주에 능합니다.{nl}테넌츠 농장에 있는 레티아리이 마스터를 만나세요.				
+ETC_20180418_032098	The Retiarii are gladiators who use the net (or 'rete'), one-handed spear and dagger as their main weapons in combat. This class is specialized in using the rete to entrap or disarm their opponents.	레티아리이는 투망과 한손창, 단검으로 무장하고 전투하는 검투사 클래스입니다. 투망을 이용하여 상대를 포박하고 장비를 해제시켜 상대의 전투능력을 상실시키는 재주에 능합니다.				
+ETC_20180418_032099	Pyromancers use successive fire magic to fight against multiple enemies.	불을 다루는 파이로맨서는 강력한 불 지속 마법을 사용하여 다수의 적을 제압합니다.				
+ETC_20180418_032100	Cryomancers use powerful ice magic to freeze enemies, or protect their allies from enemies by using ice walls.	얼음을 다루는 크리오맨서는 강력한 마법으로 적을 얼리거나 얼음 장벽으로 적을 가둬 동료를 보조합니다.				
+ETC_20180418_032101	Onmyoji	음양사				
+ETC_20180418_032102	The Onmyoji are able to summon divine spirits and use the magic of Yin and Yang in combat, which allows them to face a large number of opponents simultaneously.{nl}To meet their Master, speak to Uska in Klaipeda.	음양사는 식신령을 소환하고 음양오행에 관련된 마법을 사용하는 클래스 입니다. 다수의 적을 효과적으로 상대할 수 있습니다.{nl}클라페다의 기사단장 우스카에게 초조해 보인다며 말을 걸면 시작됩니다.				
+ETC_20180418_032103	The Onmyoji are able to summon divine spirits and use the magic of Yin and Yang in combat, which allows them to face a large number of opponents simultaneously.	음양사는 식신령을 소환하고 음양오행에 관련된 마법을 사용하는 클래스 입니다. 다수의 적을 효과적으로 상대할 수 있습니다.				
+ETC_20180418_032104	Magic Stone Tower	마석탑				
+ETC_20180418_032105	Retiarius Master	레티아리 마스터				
+ETC_20180418_032106	Paper Doll (White)	종이 인형(하얀색)				
+ETC_20180418_032107	Paper Doll (Red)	종이 인형(빨간색)				
+ETC_20180418_032108	Paper Doll (Black)	종이 인형(검정색)				
+ETC_20180418_032109	I came to talk to you about the Onmyoji support project.	음양사 본향 지원과 관련해 이야기 하기				
+ETC_20180418_032110	You look awfully restless.	오늘따라 초조해 보인다고 얘기한다.	ETC_20180316_031649	[Event] Guildies Gather Up!	[이벤트] 길드 출석 및 보상	
+ETC_20180418_032111	Acquire Retiarius Attributes	레티아리이 특성 사용				
+ETC_20180418_032112	Purchase Retiarius Items	레티아리이 물품 구입				
+ETC_20180418_032113	Let me tell you about my journey.	지나온 여정에 대해 이야기한다				
+ETC_20180418_032114	Acquire Onmyoji Attributes	음양사 특성 사용				
+ETC_20180418_032115	Purchase Onmyoji Items	음양사 물품 구입				
+ETC_20180418_032116	Follow the Bokor Master's request.	보코르 마스터의 요청대로 하기				
+ETC_20180418_032117	Listen to the Bokor Master's answer.	보코르 마스터의 대답 듣기				
+ETC_20180418_032118	Defeat the Monster	갑자기 나타난 예치 처치				
+ETC_20180418_032119	Search Near the Mine Worker's Resting Place	광산 휴게소 주변에 책 수색				
+ETC_20180418_032120	Unlock Onmyoji	음양사 해금				
+ETC_20180418_032121	Points Acquired	획득 포인트				
+ETC_20180418_032122	Unlock Retiarius	레티아리이 해금				
+ETC_20180418_032123	2018 White Day Set	2018년 화이트데이 세트				
+ETC_20180418_032124	Physical Defense{img green_up_arrow 16 16} 60{nl}                         Magic Defense{img green_up_arrow 16 16} 60	물리 방어력 {img green_up_arrow 16 16}60 증가{nl}                         마법 방어력{img green_up_arrow 16 16}60 증가				
+ETC_20180418_032125	Movement Speed {img green_up_arrow 16 16} 2	이동속도 {img green_up_arrow 16 16}2 증가				
+ETC_20180418_032126	Use random stat comparison log	랜덤 옵션 비교 로그 사용				
+ETC_20180418_032127	[Pillar of Protection] activated.	[보호의 단]이 작동합니다.				
+ETC_20180418_032128	Go, my servants! Let no one stand in my way!	나의 종속들이여, 날 방해하는 것들을 없애라				
+ETC_20180418_032129	Try and stop me, foolish saviors!	어리석은 구원자들이여 날 방해하지 마라!!				
+ETC_20180418_032130	Recipe - Retribution Potion: Demon	제작서-징벌의 포션: 악마				
+ETC_20180418_032131	Recipe to craft Retribution Potion: Demon.{nl}Crafts 10 Potions at a time.	징벌의 포션: 악마를 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032132	Recipe - Retribution Potion: Mutant	제작서-징벌의 포션: 변이				
+ETC_20180418_032133	Recipe to craft Retribution Potion: Mutant.{nl}Crafts 10 Potions at a time.	징벌의 포션: 변이를 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032134	Recipe - Retribution Potion: Insect	제작서-징벌의 포션: 곤충				
+ETC_20180418_032135	Recipe to craft Retribution Potion: Insect.{nl}Crafts 10 Potions at a time.	징벌의 포션: 곤충을 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032136	Recipe - Retribution Potion: Plant	제작서-징벌의 포션: 식물				
+ETC_20180418_032137	Recipe to craft Retribution Potion: Plant.{nl}Crafts 10 Potions at a time.	징벌의 포션: 식물을 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032138	Recipe - Retribution Potion: Beast	제작서-징벌의 포션: 야수				
+ETC_20180418_032139	Recipe to craft Retribution Potion: Beast.{nl}Crafts 10 Potions at a time.	징벌의 포션: 야수를 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032140	Recipe - Aegis Potion: Demon	제작서-가호의 포션: 악마				
+ETC_20180418_032141	Recipe to craft Aegis Potion: Demon.{nl}Crafts 10 Potions at a time.	가호의 포션: 악마를 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032142	Recipe - Aegis Potion: Mutant	제작서-가호의 포션: 변이				
+ETC_20180418_032143	Recipe to craft Aegis Potion: Mutant.{nl}Crafts 10 Potions at a time.	가호의 포션: 변이를 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032144	Recipe - Aegis Potion: Insect	제작서-가호의 포션: 곤충				
+ETC_20180418_032145	Recipe to craft Aegis Potion: Insect.{nl}Crafts 10 Potions at a time.	가호의 포션: 곤충을 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032146	Recipe - Aegis Potion: Plant	제작서-가호의 포션: 식물				
+ETC_20180418_032147	Recipe to craft Aegis Potion: Plant.{nl}Crafts 10 Potions at a time.	가호의 포션: 식물을 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032148	Recipe - Aegis Potion: Beast	제작서-가호의 포션: 야수				
+ETC_20180418_032149	Recipe to craft Aegis Potion: Beast.{nl}Crafts 10 Potions at a time.	가호의 포션: 야수를 만들 수 있는 제작서{nl}한번에 10개의 포션이 제조됩니다.				
+ETC_20180418_032150	Recipe to craft Ominous Spirit Crystals.	불길한 영혼 결정을 만들 수 있는 제작서	ETC_20170726_028337	A recipe to craft material items.{nl}Produces 3 Ominous Spirit Crystals.	재료를 만들 수 있는 제작서 {nl}불길한 영혼 결정 3개를 얻을 수 있습니다.	
+ETC_20180418_032151	Recipe - Electra Necklace	제작서-일렉트라 네클리스				
+ETC_20180418_032152	Recipe - Ledas Necklace	제작서-레다스 네클리스				
+ETC_20180418_032153	Recipe - Zemej Necklace	제작서-제메이 네클리스				
+ETC_20180418_032154	Retiarius Advancement	레티아리이 전직				
+ETC_20180418_032155	Onmyoji Advancement	음양사 전직				
+ETC_20180418_032156	Blessed Shards cannot be extracted.{nl} {nl} - Cannot extract from items of Stage 2 and below.{nl} {nl} - Using the scroll requires  	축복받은 조각 추출 불가{nl} {nl} - 초월 2단계 미만일 경우 추출 불가능합니다. {nl} {nl} - 초월 스크롤만 사용하여 	ETC_20170510_027884	The transcendence stage of the item is too low to dismantle it.	초월 단계가 부족하여 분해할 수 없습니다.	
+ETC_20180418_032157	Blessed Gems successfully used for transcendence	초월에 성공한 여신의 축복석				
+ETC_20180418_032158	.	이 없을 경우 추출 불가능합니다.				
+ETC_20180418_032159	Items that have been enhanced, transcended, added sockets, equipped with gems or otherwise {nl}{@st66d_y}{s19}processed{/}{/} cannot be used for card synthesis.	강화, 초월, 소켓 추가, 젬 장착 등{nl}{@st66d_y}{s19}가공된 장비{/}{/}는 합성 재료로 사용할 수 없습니다.				
+ETC_20180418_032160	Equipment items that have been {@st47}{s18}enhanced, transcended, equipped with gems, added sockets or awakened{/}{/} can be dismantled.	{@st47}{s18}강화, 초월, 젬 장착, 소켓 추가, 각성{/}{/}된 장비 아이템이 분해될 수 있습니다.				
+ETC_20180418_032161	Click the item to transcend.	초월할 아이템을 클릭해주세요.				
+ETC_20180418_032162	This item cannot be transcended.	초월할 수 없는 아이템입니다.				
+ETC_20180418_032163	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable{/}.{nl} - If transcendence {#62100c}fails{/}, the item's potential is {#62100c}reduced by 1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}모든 거래가 불가능{/} 합니다.{nl} - 초월{#62100c}실패시{/} 포텐셜이{#62100c}1감소{/} 합니다.				
+ETC_20180418_032164	Accept the trade?	거래를 최종적으로 승인하시겠습니까?				
+ETC_20180418_032165	You have reached the limit of Soul Crystal use. You can no longer use Soul Crystals.	소울 크리스탈 제한 개수를 모두 소진하여 더는 사용할 수 없습니다.				
+ETC_20180418_032166	Can only be used if one or more Mercenary Post mission entries have been consumed.	오늘 의뢰소 미션에 입장한 횟수가 1 이상일 때만 사용 가능합니다				
+ETC_20180418_032167	Applied Mercenary Post One Entry Voucher	의뢰소 미션 1회 입장권이 적용되었습니다				
+ETC_20180418_032168	Target Monster Count: {COUNT}	목표 몬스터 : {COUNT}				
+ETC_20180418_032169	Target {COUNT1}: Current {COUNT2}{nl}Points: {#FFFF00}{VALUE}	목표 {COUNT1} : 현재 {COUNT2}{nl}획득 점수 : {#FFFF00}{VALUE}				
+ETC_20180418_032170	Target {COUNT1}: Current {COUNT2}{nl}Failed to acquire points!	목표 {COUNT1} : 현재 {COUNT2}{nl}점수 획득 실패!				
+ETC_20180418_032171	Acquired a total of {POINT} points!	총 획득 {POINT} 점 획득!				
+ETC_20180418_032172	Receive Lucky Pouch	복주머니 받기				
+ETC_20180418_032173	Current character title.	현재 캐릭터가 보유하고 있는 칭호 입니다				
+ETC_20180418_032174	Participate in the trial.	시험에 참여한다				
+ETC_20180418_032175	Receive Master Trial Voucher	마스터의 시험권 받기				
+ETC_20180418_032176	Participate in the Master Trial.	마스터의 시험에 참여한다				
+ETC_20180418_032177	Low	초급				
+ETC_20180418_032178	Medium	중급				
+ETC_20180418_032179	High	상급				
+ETC_20180418_032180	Advanced	최상급				
+ETC_20180418_032181	Exchange Shards for Cubes	조각을 큐브로 교환한다				
+ETC_20180418_032182	Exchange Trial Vouchers for lower difficulty	상위 시험권을 하위 시험권으로 교환한다				
+ETC_20180418_032183	The event has ended.	4월 5일까지만 사용 가능합니다{nl}사용 기간이 지났습니다				
+ETC_20180418_032184	You already received Attribute Points today.	오늘은 이미 특성 포인트를 받으셨습니다				
+ETC_20180418_032185	 Defeat Monsters in {ZONE}	 {ZONE}지역 몬스터 소탕				
+ETC_20180418_032186	Requires {ZONE} class advancement	{CLASS}클래스로 전직 후에 사용 가능합니다				
+ETC_20180418_032187	Hit by Frost Bullet.	냉기탄을 맞혔습니다	ETC_20171128_030696	Hit by the Frost Bullets.	냉기탄을 맞췄습니다	
+ETC_20180418_032188	Hit by Fire Bullet.	화염탄을 맞혔습니다	ETC_20171128_030697	Hit by the Fire Bullets.	화염탐을 맞췄습니다	
+ETC_20180418_032189	Hit by Lightning Bullet.	전기탄을 맞혔습니다	ETC_20171128_030698	Hit by the Lightning Bullets.	전기탄을 맞췄습니다	
+ETC_20180418_032190	I'm interested in the class of Retiarius.	레티아리이에 관심이 생긴다고 한다				
+ETC_20180418_032191	It was fun getting to learn about the Retiarius.	레티아리이란 검투사 직업을 알게 되어 즐거웠다고 한다				
+ETC_20180418_032192	I want to know if I can become a Retiarius.	레티아리이가 될 수 있는지 검증 받고 싶다고 한다				
+ETC_20180418_032193	A test? That's not for me, then.	시험까지는 부담된다고 한다				
+ETC_20180418_032194	I want to know about the strength training.	근력 훈련에 대해서 묻는다				
+ETC_20180418_032195	I want to know about the stamina training.	지구력 훈련에 대해서 묻는다				
+ETC_20180418_032196	I want to know about the agility training.	민첩성 훈련에 대해서 묻는다				
+ETC_20180418_032197	I want to know about the endurance training.	맷집 훈련에 대해서 묻는다				
+ETC_20180418_032198	How do you practice for gladiator matches?	극적인 상황 연출 훈련에 대해서 묻는다				
+ETC_20180418_032199	How do you recharge HP?	체력충전은 어떻게 하는지 묻는다				
+ETC_20180418_032200	I need to rest.	휴식이 필요하다고 한다				
+ETC_20180418_032201	Remaining HP: {NUM}	남은 체력 : {NUM}				
+ETC_20180418_032202	Insufficient HP.{nl}Please inform the Retiarius Master.	훈련에 필요한 체력이 부족합니다{nl}레티아리이 마스터에게 휴식이 필요하다고 말하세요				
+ETC_20180418_032203	HP recharged.	체력을 충분히 충전했습니다				
+ETC_20180418_032204	Lifting dumbbell...	덤벨을 이용한 근력 훈련 중				
+ETC_20180418_032205	Strength training complete.	근력 훈련을 모두 완료했습니다				
+ETC_20180418_032206	Stamina training complete.	지구력 훈련을 모두 완료했습니다				
+ETC_20180418_032207	Agility training complete.	민첩성 훈련을 모두 완료했습니다				
+ETC_20180418_032208	Endurance training complete.	맷집 훈련을 모두 완료했습니다				
+ETC_20180418_032209	Gladiator training complete.	극적인 상황 연출 훈련을 모두 완료했습니다				
+ETC_20180418_032210	{COUNT} strength training sessions left.	근력 훈련이 {COUNT}회 남았습니다				
+ETC_20180418_032211	{COUNT} stamina training sessions left.	지구력 훈련이 {COUNT}회 남았습니다				
+ETC_20180418_032212	{COUNT} agility training sessions left.	민첩성 훈련이 {COUNT}회 남았습니다				
+ETC_20180418_032213	{COUNT} endurance training sessions left.	맷집 훈련이 {COUNT}회 남았습니다				
+ETC_20180418_032214	{COUNT} gladiator training sessions left.	극적인 상황 연출 훈련이 {COUNT}회 남았습니다				
+ETC_20180418_032215	{nl}{COUNT} times left.	{nl}앞으로 {COUNT}회 남았습니다				
+ETC_20180418_032216	Consuming the food...	음식을 섭취하는 중				
+ETC_20180418_032217	Consumed the food.{nl}HP will be restored in 3 minutes.	음식을 섭취했습니다{nl}3분 뒤 체력이 모두 충전됩니다				
+ETC_20180418_032218	Picking up sandbag...	훈련용 모래 주머니를 차는 중				
+ETC_20180418_032219	Please use near the Retiarius Master.	레티아리이 마스터 근처에서 착용하세요				
+ETC_20180418_032220	Run to the flag in the Farm Assembly Hall.	농장 집회소의 깃발이 있는 곳까지 뛰세요				
+ETC_20180418_032221	Run to the flag in Riaum Hill.	리아움 둔덕의 깃발이 있는 곳까지 뛰세요				
+ETC_20180418_032222	Run to the flag in Ginan Farm Road.	기난 농장로의 깃발이 있는 곳까지 뛰세요				
+ETC_20180418_032223	Run to the flag in the Harvest Storage.	농작물 창고의 깃발이 있는 곳까지 뛰세요				
+ETC_20180418_032224	Run to the flag in Farm the Oasthouse.	건조 작업장의 깃발이 있는 곳까지 뛰세요				
+ETC_20180418_032225	Run to the flag near the Retiarius Master.	레티아리이 마스터가 있는 곳까지 뛰세요				
+ETC_20180418_032226	You are not participating in the stamina training.{nl}To start training, pick up the sandbag near the Retiarius Master.	지구력 훈련 중이 아닙니다{nl}지구력 훈련을 시작하시려면 레티아리이 마스터 근처에서{nl}훈련용 모래 주머니를 사용하세요				
+ETC_20180418_032227	Start agility training.	민첩성 훈련을 진행한다				
+ETC_20180418_032228	Do not start agility training.	민첩성 훈련을 진행하지 않는다				
+ETC_20180418_032229	Continue agility training.	민첩성 훈련을 계속 진행한다				
+ETC_20180418_032230	Stop agility training.	민첩성 훈련을 그만둔다				
+ETC_20180418_032231	{point} times left in agility training.	민첩성 훈련 {point}회 남았습니다				
+ETC_20180418_032232	You need to defeat {Count} more monsters{nl}to complete your gladiator training.	앞으로 {Count}마리를 더 처치해야{nl}극적인 상황 연출 훈련에 성공할 수 있습니다				
+ETC_20180418_032233	You need to complete {GOAL1} more strength training session(s).	앞으로 근력 훈련을 {GOAL1}회를 해야 합니다				
+ETC_20180418_032234	Strength training complete.	근력 훈련을 완료했습니다				
+ETC_20180418_032235	You need to complete {GOAL1} more stamina training session(s).	앞으로 지구력 훈련을 {GOAL1}회를 해야 합니다				
+ETC_20180418_032236	Stamina training complete.	지구력 훈련을 완료했습니다				
+ETC_20180418_032237	You need to complete {GOAL1} more agility training session(s).	앞으로 민첩성 훈련을 {GOAL1}회를 해야 합니다				
+ETC_20180418_032238	Agility training complete.	민첩성 훈련을 완료했습니다				
+ETC_20180418_032239	You need to complete {GOAL1} more gladiator training session(s).	앞으로 극적인 상황 연출 훈련을 {GOAL1}회를 해야 합니다				
+ETC_20180418_032240	Gladiator training complete.	극적인 상황 연출 훈련을 완료했습니다				
+ETC_20180418_032241	You have completed {point} agility training sessions. You don't need to complete any more.	민첩성 훈련을 {point}회 완료하여 더 이상 훈련을 진행하지 않아도 됩니다				
+ETC_20180418_032242	Title Stage {num}	칭호 보유 {num} 단계				
+ETC_20180418_032243	Title Stage 1 applied.{nl}STR +1, physical attack +5{nl}Move to a different map to update.	칭호 보유 1단계 적용 중입니다{nl}힘 1, 물리 공격력 5 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032244	Title Stage 2 applied.{nl}STR +1, CON +1, physical attack +5, physical defense +10{nl}Move to a different map to update.	칭호 보유 2단계 적용 중입니다{nl}힘 1, 체력 1, 물리 공격력 5, 물리 방어력 10 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032245	Title Stage 3 applied.{nl}STR +1, CON +1, INT +1, physical attack +5, magic attack +5, physical defense +10{nl}Move to a different map to update.	칭호 보유 3단계 적용 중입니다{nl}힘 1, 체력 1, 지능 1, 물리 공격력 5, 마법 공격력 5, 물리 방어력 10 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032246	Title Stage 4 applied.{nl}STR +1, CON +1, INT +1, SPR +1 physical attack +5, magic attack +5, physical defense +10, magical defense +10{nl}Move to a different map to update.	칭호 보유 4단계 적용 중입니다{nl}힘 1, 체력 1, 지능 1, 정신 1, 물리 공격력 5, 마법 공격력 5, 물리 방어력 10, 마법 방어력 10 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032247	Title Stage 5 applied.{nl}STR +1, CON +1, INT +1, SPR +1, DEX +1, physical attack +5, magic attack +5, physical defense +10, magical defense +10, SP +25{nl}Move to a different map to update.	칭호 보유 5단계 적용 중입니다{nl}힘 1, 체력 1, 지능 1, 정신 1, 민첩 1, 물리 공격력 5, 마법 공격력 5, 물리 방어력 10, 마법 방어력 10, SP 25 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032248	Title Stage 6 applied.{nl}STR +2, CON +1, INT +1, SPR +1, DEX +1, physical attack +10, magic attack +5, physical defense +10, magical defense +10, SP +25{nl}Move to a different map to update.	칭호 보유 6단계 적용 중입니다{nl}힘 2, 체력 1, 지능 1, 정신 1, 민첩 1, 물리 공격력 10, 마법 공격력 5, 물리 방어력 10, 마법 방어력 10, SP 25 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032249	Title Stage 7 applied.{nl}STR +2, CON +2, INT +1, SPR +1, DEX +1, physical attack +10, magic attack +5, physical defense +20, magical defense +10, SP +25{nl}Move to a different map to update.	칭호 보유 7단계 적용 중입니다{nl}힘 2, 체력 2, 지능 1, 정신 1, 민첩 1, 물리 공격력 10, 마법 공격력 5, 물리 방어력 20, 마법 방어력 10, SP 25 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032250	Title Stage 8 applied.{nl}STR +2, CON +2, INT +2, SPR +1, DEX +1, physical attack +10, magic attack +10, physical defense +20, magical defense +10, SP +25{nl}Move to a different map to update.	칭호 보유 8단계 적용 중입니다{nl}힘 2, 체력 2, 지능 2, 정신 1, 민첩 1, 물리 공격력 10, 마법 공격력 10, 물리 방어력 20, 마법 방어력 10, SP 25 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032251	Title Stage 9 applied.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +1, physical attack +10, magic attack +10, physical defense +20, magical defense +20, SP +25{nl}Move to a different map to update.	칭호 보유 9단계 적용 중입니다{nl}힘 2, 체력 2, 지능 2, 정신 2, 민첩 1, 물리 공격력 10, 마법 공격력 10, 물리 방어력 20, 마법 방어력 20, SP 25 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032252	Title Stage 10 applied.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +2, physical attack +10, magic attack +10, physical defense +20, magical defense +20, SP +50{nl}Move to a different map to update.	칭호 보유 10단계 적용 중입니다{nl}힘 2, 체력 2, 지능 2, 정신 2, 민첩 2, 물리 공격력 10, 마법 공격력 10, 물리 방어력 20, 마법 방어력 20, SP 50 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032253	Title Stage 11 applied.{nl}STR +3, CON +2, INT +2, SPR +2, DEX +2, physical attack +15, magic attack +10, physical defense +20, magical defense +20, SP +50{nl}Move to a different map to update.	칭호 보유 11단계 적용 중입니다{nl}힘 3, 체력 2, 지능 2, 정신 2, 민첩 2, 물리 공격력 15, 마법 공격력 10, 물리 방어력 20, 마법 방어력 20, SP 50 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032254	Title Stage 12 applied.{nl}STR +3, CON +3, INT +2, SPR +2, DEX +2, physical attack +15, magic attack +10, physical defense +30, magical defense +20, SP +50{nl}Move to a different map to update.	칭호 보유 12단계 적용 중입니다{nl}힘 3, 체력 3, 지능 2, 정신 2, 민첩 2, 물리 공격력 15 마법 공격력 10, 물리 방어력 30, 마법 방어력 20, SP 50 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032255	Title Stage 13 applied.{nl}STR +3, CON +3, INT +3, SPR +2, DEX +2, physical attack +15, magic attack +15, physical defense +30, magical defense +20, SP +50{nl}Move to a different map to update.	칭호 보유 13단계 적용 중입니다{nl}힘 3, 체력 3, 지능 3, 정신 2, 민첩 2, 물리 공격력 15 마법 공격력 15, 물리 방어력 30, 마법 방어력 20, SP 50 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032256	Title Stage 14 applied.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +2, physical attack +15, magic attack +15, physical defense +30, magical defense +30, SP +50{nl}Move to a different map to update.	칭호 보유 14단계 적용 중입니다{nl}힘 3, 체력 3, 지능 3, 정신 3, 민첩 2, 물리 공격력 15 마법 공격력 15, 물리 방어력 30, 마법 방어력 30, SP 50 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032257	Title Stage 15 applied.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +3, physical attack +15, magic attack +15, physical defense +30, magical defense +30, SP +75{nl}Move to a different map to update.	칭호 보유 15단계 적용 중입니다{nl}힘 3, 체력 3, 지능 3, 정신 3, 민첩 3, 물리 공격력 15 마법 공격력 15, 물리 방어력 30, 마법 방어력 30, SP 75 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032258	Title Stage 16 applied.{nl}STR +4, CON +3, INT +3, SPR +3, DEX +3, physical attack +20, magic attack +15, physical defense +30, magical defense +30, SP +75{nl}Move to a different map to update.	칭호 보유 16단계 적용 중입니다{nl}힘 4, 체력 3, 지능 3, 정신 3, 민첩 3, 물리 공격력 20 마법 공격력 15, 물리 방어력 30, 마법 방어력 30, SP 75 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032259	Title Stage 17 applied.{nl}STR +4, CON +4, INT +3, SPR +3, DEX +3, physical attack +20, magic attack +15, physical defense +40, magical defense +30, SP +75{nl}Move to a different map to update.	칭호 보유 17단계 적용 중입니다{nl}힘 4, 체력 4, 지능 3, 정신 3, 민첩 3, 물리 공격력 20 마법 공격력 15, 물리 방어력 40, 마법 방어력 30, SP 75 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032260	Title Stage 18 applied.{nl}STR +4, CON +4, INT +4, SPR +3, DEX +3, physical attack +20, magic attack +20, physical defense +40, magical defense +30, SP +75{nl}Move to a different map to update.	칭호 보유 18단계 적용 중입니다{nl}힘 4, 체력 4, 지능 4, 정신 3, 민첩 3, 물리 공격력 20 마법 공격력 20, 물리 방어력 40, 마법 방어력 30, SP 75 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032261	Title Stage 19 applied.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +3, physical attack +20, magic attack +20, physical defense +40, magical defense +40, SP +75{nl}Move to a different map to update.	칭호 보유 19단계 적용 중입니다{nl}힘 4, 체력 4, 지능 4, 정신 4, 민첩 3, 물리 공격력 20 마법 공격력 20, 물리 방어력 40, 마법 방어력 40, SP 75 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032262	Title Stage 20 applied.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +4, physical attack +20, magic attack +20, physical defense +40, magical defense +40, SP +100{nl}Move to a different map to update.	칭호 보유 20단계 적용 중입니다{nl}힘 4, 체력 4, 지능 4, 정신 4, 민첩 4, 물리 공격력 20 마법 공격력 20, 물리 방어력 40, 마법 방어력 40, SP 100 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032263	Title Stage 21 applied.{nl}STR +5, CON +4, INT +4, SPR +4, DEX +4, physical attack +25, magic attack +20, physical defense +40, magical defense +40, SP +100{nl}Move to a different map to update.	칭호 보유 21단계 적용 중입니다{nl}힘 5, 체력 4, 지능 4, 정신 4, 민첩 4, 물리 공격력 25 마법 공격력 20, 물리 방어력 40, 마법 방어력 40, SP 100 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032264	Title Stage 22 applied.{nl}STR +5, CON +5, INT +4, SPR +4, DEX +4, physical attack +25, magic attack +20, physical defense +50, magical defense +40, SP +100{nl}Move to a different map to update.	칭호 보유 22단계 적용 중입니다{nl}힘 5, 체력 5, 지능 4, 정신 4, 민첩 4, 물리 공격력 25 마법 공격력 20, 물리 방어력 50, 마법 방어력 40, SP 100 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032265	Title Stage 23 applied.{nl}STR +5, CON +5, INT +5, SPR +4, DEX +4, physical attack +25, magic attack +25, physical defense +50, magical defense +40, SP +100{nl}Move to a different map to update.	칭호 보유 23단계 적용 중입니다{nl}힘 5, 체력 5, 지능 5, 정신 4, 민첩 4, 물리 공격력 25 마법 공격력 25, 물리 방어력 50, 마법 방어력 40, SP 100 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032266	Title Stage 24 applied.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +4, physical attack +25, magic attack +25, physical defense +50, magical defense +50, SP +100{nl}Move to a different map to update.	칭호 보유 24단계 적용 중입니다{nl}힘 5, 체력 5, 지능 5, 정신 5, 민첩 4, 물리 공격력 25 마법 공격력 25, 물리 방어력 50, 마법 방어력 50, SP 100 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032267	Title Stage 25 applied.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +5, physical attack +25, magic attack +25, physical defense +50, magical defense +50, SP +125{nl}Move to a different map to update.	칭호 보유 25단계 적용 중입니다{nl}힘 5, 체력 5, 지능 5, 정신 5, 민첩 5, 물리 공격력 25 마법 공격력 25, 물리 방어력 50, 마법 방어력 50, SP 125 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032268	Title Stage 26 applied.{nl}STR +6, CON +5, INT +5, SPR +5, DEX +5, physical attack +30, magic attack +25, physical defense +50, magical defense +50, SP +125{nl}Move to a different map to update.	칭호 보유 26단계 적용 중입니다{nl}힘 6, 체력 5, 지능 5, 정신 5, 민첩 5, 물리 공격력 30 마법 공격력 25, 물리 방어력 50, 마법 방어력 50, SP 125 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032269	Title Stage 27 applied.{nl}STR +6, CON +6, INT +5, SPR +5, DEX +5, physical attack +30, magic attack +25, physical defense +60, magical defense +50, SP +125{nl}Move to a different map to update.	칭호 보유 27단계 적용 중입니다{nl}힘 6, 체력 6, 지능 5, 정신 5, 민첩 5, 물리 공격력 30 마법 공격력 25, 물리 방어력 60, 마법 방어력 50, SP 125 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032270	Title Stage 28 applied.{nl}STR +6, CON +6, INT +6, SPR +5, DEX +5, physical attack +30, magic attack +30, physical defense +60, magical defense +50, SP +125{nl}Move to a different map to update.	칭호 보유 28단계 적용 중입니다{nl}힘 6, 체력 6, 지능 6, 정신 5, 민첩 5, 물리 공격력 30 마법 공격력 30, 물리 방어력 60, 마법 방어력 50, SP 125 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032271	Title Stage 29 applied.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +5, physical attack +30, magic attack +30, physical defense +60, magical defense +60, SP +125{nl}Move to a different map to update.	칭호 보유 29단계 적용 중입니다{nl}힘 6, 체력 6, 지능 6, 정신 6, 민첩 5, 물리 공격력 30 마법 공격력 30, 물리 방어력 60, 마법 방어력 60, SP 125 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032272	Title Stage 30 applied.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +6, physical attack +30, magic attack +30, physical defense +60, magical defense +60, SP +150{nl}Move to a different map to update.	칭호 보유 30단계 적용 중입니다{nl}힘 6, 체력 6, 지능 6, 정신 6, 민첩 6, 물리 공격력 30 마법 공격력 30, 물리 방어력 60, 마법 방어력 60, SP 150 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032273	Title Stage 31 applied.{nl}STR +7, CON +6, INT +6, SPR +6, DEX +6, physical attack +35, magic attack +30, physical defense +60, magical defense +60, SP +150{nl}Move to a different map to update.	칭호 보유 31단계 적용 중입니다{nl}힘 7, 체력 6, 지능 6, 정신 6, 민첩 6, 물리 공격력 35 마법 공격력 30, 물리 방어력 60, 마법 방어력 60, SP 150 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032274	Title Stage 32 applied.{nl}STR +7, CON +7, INT +6, SPR +6, DEX +6, physical attack +35, magic attack +30, physical defense +70, magical defense +60, SP +150{nl}Move to a different map to update.	칭호 보유 32단계 적용 중입니다{nl}힘 7, 체력 7, 지능 6, 정신 6, 민첩 6, 물리 공격력 35 마법 공격력 30, 물리 방어력 70, 마법 방어력 60, SP 150 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032275	Title Stage 33 applied.{nl}STR +7, CON +7, INT +7, SPR +6, DEX +6, physical attack +35, magic attack +35, physical defense +70, magical defense +60, SP +150{nl}Move to a different map to update.	칭호 보유 33단계 적용 중입니다{nl}힘 7, 체력 7, 지능 7, 정신 6, 민첩 6, 물리 공격력 35 마법 공격력 35, 물리 방어력 70, 마법 방어력 60, SP 150 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032276	Title Stage 34 applied.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +6, physical attack +35, magic attack +35, physical defense +70, magical defense +70, SP +150{nl}Move to a different map to update.	칭호 보유 34단계 적용 중입니다{nl}힘 7, 체력 7, 지능 7, 정신 7, 민첩 6, 물리 공격력 35 마법 공격력 35, 물리 방어력 70, 마법 방어력 70, SP 150 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032277	Title Stage 35 applied.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +7, physical attack +35, magic attack +35, physical defense +70, magical defense +70, SP +175{nl}Move to a different map to update.	칭호 보유 35단계 적용 중입니다{nl}힘 7, 체력 7, 지능 7, 정신 7, 민첩 7, 물리 공격력 35 마법 공격력 35, 물리 방어력 70, 마법 방어력 70, SP 175 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032278	Title Stage 36 applied.{nl}STR +8, CON +7, INT +7, SPR +7, DEX +7, physical attack +40, magic attack +35, physical defense +70, magical defense +70, SP +175{nl}Move to a different map to update.	칭호 보유 36단계 적용 중입니다{nl}힘 8, 체력 7, 지능 7, 정신 7, 민첩 7, 물리 공격력 40 마법 공격력 35, 물리 방어력 70, 마법 방어력 70, SP 175 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032279	Title Stage 37 applied.{nl}STR +8, CON +8, INT +7, SPR +7, DEX +7, physical attack +40, magic attack +35, physical defense +80, magical defense +70, SP +175{nl}Move to a different map to update.	칭호 보유 37단계 적용 중입니다{nl}힘 8, 체력 8, 지능 7, 정신 7, 민첩 7, 물리 공격력 40 마법 공격력 35, 물리 방어력 80, 마법 방어력 70, SP 175 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032280	Title Stage 38 applied.{nl}STR +8, CON +8, INT +8, SPR +7, DEX +7, physical attack +40, magic attack +40, physical defense +80, magical defense +70, SP +175{nl}Move to a different map to update.	칭호 보유 38단계 적용 중입니다{nl}힘 8, 체력 8, 지능 8, 정신 7, 민첩 7, 물리 공격력 40 마법 공격력 40, 물리 방어력 80, 마법 방어력 70, SP 175 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032281	Title Stage 39 applied.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +7, physical attack +40, magic attack +40, physical defense +80, magical defense +80, SP +175{nl}Move to a different map to update.	칭호 보유 39단계 적용 중입니다{nl}힘 8, 체력 8, 지능 8, 정신 8, 민첩 7, 물리 공격력 40 마법 공격력 40, 물리 방어력 80, 마법 방어력 80, SP 175 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032282	Title Stage 40 applied.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +8, physical attack +40, magic attack +40, physical defense +80, magical defense +80, SP +200{nl}Move to a different map to update.	칭호 보유 40단계 적용 중입니다{nl}힘 8, 체력 8, 지능 8, 정신 8, 민첩 8, 물리 공격력 40 마법 공격력 40, 물리 방어력 80, 마법 방어력 80, SP 200 상승합니다{nl}새로운 칭호를 획득 시 지역을 이동하면 갱신됩니다				
+ETC_20180418_032283	Putting down sandbag...	훈련용 모래 주머니 해제 중				
+ETC_20180418_032284	Sandbag down.	훈련용 모래 주머니를 해제했습니다				
+ETC_20180418_032285	HP recharged.{nl}Training will be easier now.	훈련 체력을 모두 채웠습니다{nl}전보다 훈련하는데 수월해집니다				
+ETC_20180418_032286	Zusätzliche HP aufgeladen.{nl}Training will be even easier now.	훈련 체력이 추가로 충전됐습니다{nl}전보다 훈련하는데 수월해집니다				
+ETC_20180418_032287	Acquired 50 HP.{nl}You can start training again.	훈련 체력 50을 획득했습니다{nl}훈련을 진행할 수 있습니다				
+ETC_20180418_032288	Strength ({muscular}/25){nl}Stamina ({endurande}/3){nl}Agility ({agility}/20){nl}Gladiator ({simulation}/20){nl}Training HP: {stamina}	근력 훈련({muscular}/25){nl}지구력 훈련({endurande}/3){nl}민첩성 훈련({agility}/20){nl}극적인 상황 연출 훈련({simulation}/20){nl}훈련 체력 : {stamina}				
+ETC_20180418_032289	Insufficient HP for training.{nl}Please eat and get some rest first.	훈련에 필요한 체력이 부족합니다{nl}음식을 먹고 휴식을 취해 훈련 체력을 충전하세요				
+ETC_20180418_032290	3 Hits Missed / 1 Point Subtracted	3회 실패하여 타격 회수가 1 차감됩니다				
+ETC_20180418_032291	Missed {count} hits!{nl}Make sure to attack when you see the exclamation point.	{count}회 잘못 공격했습니다!{nl}느낌표가 뜨는 때에 맞춰 공격하세요				
+ETC_20180418_032292	3 Hits Missed	3회 실패했습니다				
+ETC_20180418_032293	{nl}Gladiator Training ({simulation}/20)	{nl}극적인 상황 연출 훈련({simulation}/20)				
+ETC_20180418_032294	Strength ({muscular}/25){nl}Stamina ({endurande}/3){nl}Agility ({agility}/20){nl}Gladiator ({simulation}/20){nl}All training complete. Talk to the Retiarius Master.	근력 훈련({muscular}/25){nl}지구력 훈련({endurande}/3){nl}민첩성 훈련({agility}/20){nl}극적인 상황 연출 훈련({simulation}/20){nl}모든 훈련을 완료했습니다. 레티아리이 마스터와 대화하세요				
+ETC_20180418_032295	Please dismount to proceed{nl}with the stamina training.	컴패니언을 탑승한 상태에서는{nl}지구력 훈련을 진행할 수 없습니다				
+ETC_20180418_032296	There are still evil spirits around. Defeat them.	아직 악령들이 남아있으니 처리해주십시오.				
+ETC_20180418_032297	The box contains an old scroll!{nl}Return to the Cryomancer Master.	상자 안에서 오래된 스크롤을 획득했습니다!{nl}크리오맨서 마스터에게 돌아가세요.				
+ETC_20180418_032298	The box is locked.{nl}Defeat the monsters nearby and try again.	상자가 열리지 않습니다.{nl}주변에 있는 몬스터를 전부 처치하고 시도하세요!				
+ETC_20180418_032299	The Guardian of the Contract has appeared!	상자를 열려고 하자 계약의 수호자가 나타났습니다!				
+ETC_20180418_032300	You have entered the two-dimensional world!	링커 서브 마스터가 준 열쇠를 통해 이면세계로 들어왔습니다!				
+ETC_20180418_032301	You have found the Linker Sumbaster's book!	링커 서브 마스터가 찾고 있던 책을 발견했습니다!				
+ETC_20180418_032302	It's hard to pick up the book with the Yeti's attack!{nl}Defeat the Yeti first.	예티의 공격으로 책을 줍기가 어렵습니다!{nl}예티를 처치한 후 다시 책을 주으러 오세요.				
+ETC_20180418_032303	You have found the Cryomancer Master's book!	크리오맨서 마스터가 말한 책을 찾았습니다!				
+ETC_20180418_032304	Sorry, I have no time to talk.	대화를 나눌 시간이 없다고 한다				
+ETC_20180418_032305	I don't think I can do that much.	부담감이 크다며 거절한다				
+ETC_20180418_032306	Klaipeda Item Merchant	클라페다 잡화 상인				
+ETC_20180418_032307	Lord of Orsha, Inesa Hamondale	오르샤 영주				
+ETC_20180418_032308	Kedora Merchant Alliance, Leopoldas	케도라 상단 레오폴다스				
+ETC_20180418_032309	Add in.	도로 집어넣는다				
+ETC_20180418_032310	Crafting Fur Pieces...	털 뭉치 만드는 중				
+ETC_20180418_032311	Not enough materials to craft the Fur Pieces.{nl}(Min. {cnt} items required)	털 뭉치를 만들기 위한 재료의 최소 개수가 부족합니다{nl}(최소 개수 : {cnt} 개)				
+ETC_20180418_032312	You have gathered enough Fur Pieces.	털 뭉치를 충분히 모았습니다				
+ETC_20180418_032313	Used Saltisdaughter Fur x{cnt1} to create {cnt2} Fur Pieces.	살티스도터의 털가죽 {cnt1} 개를 이용해 살티스도터의 털 뭉치 {cnt2} 개를 획득했습니다				
+ETC_20180418_032314	[{NPC_NAME}]: donation problem solved.	음양사 본향 지원에 필요한 [{NPC_NAME}]의 임무를 해결했습니다				
+ETC_20180418_032315	Lumber Pile	쌓여있는 목재				
+ETC_20180418_032316	Looking for dry wood...	잘 마른 목재 찾는 중				
+ETC_20180418_032317	Obtained dry wood.	잘 마른 목재를 획득했습니다				
+ETC_20180418_032318	No dry wood here.	잘 마른 목재가 보이지 않습니다				
+ETC_20180418_032319	You have gathered enough wood.	잘 마른 목재를 충분히 모았습니다				
+ETC_20180418_032320	Found a good mushroom sample.	자세히 살펴보자, 표본으로 쓸만한 버섯 종균을 발견했습니다				
+ETC_20180418_032321	No good mushroom samples here.	표본으로 쓸만한 버섯 종균이 보이지 않습니다				
+ETC_20180418_032322	You have gathered enough samples.	버섯 종균 표본을 충분히 구했습니다				
+ETC_20180418_032323	Found some grape seeds.	자세히 살펴보자, 표본으로 쓸만한 포도 씨앗을 발견했습니다				
+ETC_20180418_032324	No good grape seeds here.	표본으로 쓸만한 포도 씨앗이 보이지 않습니다				
+ETC_20180418_032325	You have gathered enough seeds.	포도 씨앗 표본을 충분히 구했습니다				
+ETC_20180418_032326	Processing leather...	가죽 손질하는 중				
+ETC_20180418_032327	Not enough materials to process the leather.{nl}(Min. {cnt} items required)	가죽을 손질하기 위한 재료의 최소 개수가 부족합니다{nl}(최소 개수 : {cnt} 개)				
+ETC_20180418_032328	You have gathered enough leather.	손질된 가죽을 충분히 모았습니다				
+ETC_20180418_032329	Used Ducky Leather x{cnt1} to create {cnt2} Processed Leather.	더키의 생가죽 {cnt1} 개를 손질하여 손질된 더키 가죽 {cnt2} 개를 획득했습니다				
+ETC_20180418_032330	{nl}(Excluding {cnt} pieces of leather that ripped when being processed)	{nl}(손질 중 구멍이 나서 버린 가죽 {cnt} 개 제외)				
+ETC_20180418_032331	Explaining the situation...	상황을 얘기하는 중				
+ETC_20180418_032332	Looking around...	풀숲을 뒤져보는 중				
+ETC_20180418_032333	Found a hard thistle.	자세히 살펴보자, 억센 엉겅퀴를 발견했습니다				
+ETC_20180418_032334	No hard thistles here.	엉겅퀴와 비슷한 꽃이 보이지 않습니다				
+ETC_20180418_032335	You have gathered enough hard thistles.	억센 엉겅퀴를 충분히 구했습니다				
+ETC_20180418_032336	I'm done checking everything.	모두 확인했다고 얘기한다				
+ETC_20180418_032337	I don't remember...	기억이 안 난다고 얘기한다				
+ETC_20180418_032338	Using the detector...	탐지기를 사용하는 중				
+ETC_20180418_032339	Checking the spot...	빛나는 곳을 확인하는 중				
+ETC_20180418_032340	Found a sack with Dimensional Stones.	견본용 차원석이 담긴 자루를 발견했습니다				
+ETC_20180418_032341	No reaction.	아무 반응을 보이지 않는다				
+ETC_20180418_032342	Obtained all sacks.	견본용 차원석이 담긴 자루를 모두 획득했습니다				
+ETC_20180418_032343	Bag of Grain	곡식 포대				
+ETC_20180418_032344	Using scroll...	주문서 사용하는 중				
+ETC_20180418_032345	Applied protection magic.	곡식 포대에 보존 마법을 걸었습니다				
+ETC_20180418_032346	This bag is already protected.	이미 보존 마법이 걸려있습니다				
+ETC_20180418_032347	This bag is full of bugs.	포대 안에 벌레가 들끓습니다				
+ETC_20180418_032348	This bag has no grain in it.	포대 안에 곡식이 비어있습니다				
+ETC_20180418_032349	This bag isn't full yet.	포대 안에 곡식이 충분히 쌓이지 않았습니다				
+ETC_20180418_032350	Finished protecting all the bags.	보존 마법을 거는 작업을 모두 완료했습니다				
+ETC_20180418_032351	No bags of grain nearby.	근처에 곡식 포대가 없습니다				
+ETC_20180418_032352	Finished completing all the donation tasks.	음양사 본향 지원과 관련된 모든 임무를 완료했습니다				
+ETC_20180418_032353	Can you explain that thing again?	다시 한번 설명해 달라고 한다				
+ETC_20180418_032354	Everything is settled.	모두 확인하고 오는 길이라고 얘기한다				
+ETC_20180418_032355	Where is the Onmyoji Master again?	음양사 마스터의 위치를 다시 알려달라고 한다				
+ETC_20180418_032356	Let me explain the current situation.	현재 상황을 전한다				
+ETC_20180418_032357	Oh, sorry, I mistook you for someone else.	사람을 잘못 봤다고 얘기한다				
+ETC_20180418_032358	I'll think about it.	생각해 보겠다고 한다.				
+ETC_20180418_032359	White Paper Doll	하얀 종이 인형				
+ETC_20180418_032360	Red Paper Doll	빨간 종이 인형				
+ETC_20180418_032361	Using the Shikiban...	육임식반 사용 중				
+ETC_20180418_032362	Acquired {add_point} point(s){nl}(Total: {total_point})	{add_point}점 획득{nl}(현재 점수 : {total_point})				
+ETC_20180418_032363	Please check [See other characters' effects] under your Game Settings.{nl}You are required to activate this option to continue.	[게임 설정]에서 [다른 캐릭터 이펙트 보기]에 체크 표시를 해주세요{nl}체크 표시가 되어있지 않다면 해당 임무를 진행하기가 어렵습니다				
+ETC_20180418_032364	The Wings of Vaivora would love to hear about your new story.{nl}Visit one of their NPCs in town for a reward!	바이보라의 날개 NPC에게 들려줄 만한 경험담이 있습니다{nl}바이보라의 날개 NPC를 찾아가셔서 경험담을 전하고 보상을 받으세요!				
+ETC_20180418_032365	Cannot be used by teams without a guild.	가입된 길드가 없으면 사용할 수 없습니다.				
+ETC_20180418_032366	Can only be used if one or more weekly Guild Quest entries have been consumed.	금주 길드 퀘스트에 입장한 횟수가 1 이상일 때만 사용 가능합니다				
+ETC_20180418_032367	Applied Guild Quest One Entry Voucher	길드 퀘스트 1회 입장권이 적용되었습니다				
+ETC_20180418_032368	Dark Property	어둠속성	ETC_20150714_012665	Dark Property	암흑속성	
+ETC_20180418_032369	Holy Property	신성속성	ETC_20150714_012666	Gender Property	성속성	
+ETC_20180418_032370	An empty box.	빈 상자입니다.	ETC_20150317_003142	Empty box	빈 상자	
+ETC_20180418_032371	Dark attack +10	어둠 공격력 +10 증가	ETC_20150317_003599	Increase Dark Attack by +10	암흑 공격력 +10 증가	
+ETC_20180418_032372	#N/A	[Error Code nil] 서버에 접속이 원활하지 않습니다.				
+ETC_20180418_032373	#N/A	[Error Code 0] 서버에 접속이 원활하지 않습니다.				
+ETC_20180418_032374	#N/A	[요청 실패] 다시 시도해주세요.				
+ETC_20180418_032375	#N/A	[요청 성공]				
+ETC_20180418_032376	#N/A	[Error Code -3] 서버 인증 실패				
+ETC_20180418_032377	#N/A	[Error Code -2] 유저 인증에 실패하였습니다.				
+ETC_20180418_032378	#N/A	[Error Code -1] 알 수 없는 에러				
+ETC_20180418_032379	#N/A	[Error Code 1] 해당 팀에 권한이 없습니다.				
+ETC_20180418_032380	#N/A	[Error Code 2] 전쟁 중에는 사용하실 수 없습니다.				
+ETC_20180418_032381	#N/A	[Error Code 3] 휴전 중에는 사용하실 수 없습니다.				
+ETC_20180418_032382	#N/A	[Error Code 4] 길드원이 남아 있어 사용하실 수 없습니다.				
+ETC_20180418_032383	#N/A	[Error Code 5] 대상 팀이 없습니다.				
+ETC_20180418_032384	#N/A	[Error Code 6] 사용가능 한도를 초과했습니다.				
+ETC_20180418_032385	#N/A	[Error Code 7] 현재 변경할 수 없는 기간입니다.				
+ETC_20180418_032386	#N/A	[Error Code 8] 현재 권한에서는 설정하실 수 없습니다.				
+ETC_20180418_032387	#N/A	[Error Code 9] 대상 캐릭터가 없습니다.				
+ETC_20180418_032388	#N/A	[Error Code 10] 대상 직급이 없습니다..				
+ETC_20180418_032389	#N/A	[Error Code 11] 사용하실 수 없는 단어가 있습니다.				
+ETC_20180418_032390	#N/A	[Error Code 12] 생성하실 수 있는 수를 초과했습니다.				
+ETC_20180418_032391	#N/A	[Error Code 13] 중복되는 이름이 있습니다.				
+ETC_20180418_032392	#N/A	[Error Code 14] 길드 마스터에게는 사용하실 수 없습니다.				
+ETC_20180418_032393	#N/A	[Error Code 15] 기간 제한으로 사용하실 수 없습니다.				
+ETC_20180418_032394	#N/A	[Error Code 16] 아이템이 없거나 부족합니다.				
+ETC_20180418_032395	#N/A	[Error Code 17] 최고치를 달성해 사용하실 수 없습니다.				
+ETC_20180418_032396	#N/A	[Error Code 18] 포인트가 부족합니다.				
+ETC_20180418_032397	#N/A	[Error Code 19] 대상이 없습니다.				
+ETC_20180418_032398	#N/A	[Error Code 20] 길드 자금이 부족합니다.				
+ETC_20180418_032399	#N/A	[Error Code 21] 변경하려는 파일이 규칙과 맞지 않습니다.				
+ETC_20180418_032400	#N/A	[Error Code 22] 운영상 제재 기간 중에는 사용하실 수 없습니다.				
+ETC_20180418_032401	#N/A	[Error Code 23] 인벤토리 무게가 초과되었습니다.				
+ETC_20180418_032402	#N/A	[Error Code 24] 실버가 부족합니다.				
+ETC_20180418_032403	#N/A	[Error Code 25] 입력 내용이 없습니다.				
+ETC_20180418_032404	#N/A	[Error Code 26] 입력할 수 있는 글자수를 초과 했습니다.				
+ETC_20180418_032405	#N/A	[Error Code 27] 해당 길드가 중립 상태입니다.				
+ETC_20180418_032406	#N/A	[Error Code 28] 콜로니전 참가로 설정되어 있습니다.				
+ETC_20180418_032407	#N/A	[Error Code 29] 콜리니전 시작 준비, 진행, 종료 후 정리 기간에는 사용할 수 없습니다.				
+ETC_20180418_032408	#N/A	[Error Code 30] 접속 중인 길드원 수가 부족합니다.				
+ETC_20180418_032409	#N/A	[Error Code 31] 길드창고에 아이템이 존재합니다.				
+ETC_20180418_032410	#N/A	[Error Code 32] 대상 권한 코드가 존재하지 않습니다.				
+ETC_20180418_032411	#N/A	[Error Code 33] 해당 유저는 이미 길드에 가입된 상태입니다.				
+ETC_20180418_032412	#N/A	[Error Code 34] 현재 맵에서는 불가능합니다.				
+ETC_20180418_032413	#N/A	[Error Code 35] 직업이 템플러가 아니면 불가능합니다.				
+ETC_20180418_032414	#N/A	[Error Code 36] 대상이 길드원이 아닙니다.				
+ETC_20180418_032415	#N/A	[Error Code 37] 자신에게 사용할 수 없습니다.				
+ETC_20180418_032416	#N/A	[Error Code 38] 사용할 수 없는 대상입니다.				
+ETC_20180418_032417	#N/A	[Error Code 39] 대상 길드가 존재하지 않습니다.				
+ETC_20180418_032418	#N/A	[Error Code 40] 대상 한 줄 글이 존재하지 않습니다.				
+ETC_20180418_032419	#N/A	[Error Code 41] 길드가 일치하지 않습니다.				
+ETC_20180418_032420	#N/A	[Error Code 42] 입력된 문자가 너무 짧습니다.				
+ETC_20180418_032421	#N/A	[Error Code 100] 등록된 이미지가 없습니다.				
+ETC_20180418_032422	#N/A	[Error Code 101] 먼저 홍보글을 등록하셔야 합니다.				
+ETC_20180418_032423	#N/A	[Error Code 102] 유저 또는 길드가 잘못되었습니다.				
+ETC_20180418_032424	#N/A	[Error Code 103] 요청에 포함된 이미지가 없습니다.				
+ETC_20180418_032425	#N/A	[Error Code 104] 길드 배너 등록에 실패하였습니다.				
+ETC_20180418_032426	#N/A	이미 신청한 길드입니다.				
+ETC_20180418_032427	#N/A	[Error Code 202] 신청한 이력이 없습니다.				
+ETC_20180418_032428	#N/A	[Error Code 203] 이미 요청을 수락한 상태입니다.				
+ETC_20180418_032429	#N/A	[Error Code 300] 잘못된 정렬 기준입니다.				
+ETC_20180418_032430	#N/A	[Error Code 301] 잘못된 페이지 요청입니다.				
+ETC_20180418_032431	#N/A	[Error Code 302] 잘못된 정렬 타입입니다.				
+ETC_20180418_032432	#N/A	[Error Code 400] 길드 소개 이미지 등록에 실패하였습니다.				
+ETC_20180418_032433	#N/A	[Error Code 900] DB 조회 또는 기록 중 에러 발생				
+ETC_20180418_032434	#N/A	[Error Code 901] guild_disband 실행 에러				
+ETC_20180418_032435	#N/A	[Error Code 902]서버로 잘못된 Parameter 정보가 전달되었습니다				
+ETC_20180418_032436	#N/A	[Error Code 903] 서버로 잘못된 URL이 전달되었습니다				
+ETC_20180418_032437	#N/A	[Error Code 904] 서버오류로 정상적인 처리가 되지 않았습니다				
+ETC_20180418_032438	#N/A	[Error Code 204] 승낙 또는 거절 상태의 신청서는 삭제하실 수 없습니다.				
+ETC_20180418_032439	#N/A	[Error Code 43] 연속으로 실행하실 수 없는 작업입니다.{nl}잠시뒤 다시 실행해주세요.				
+ETC_20180418_032440	#N/A	성공적으로 갱신되었습니다.				
+ETC_20180418_032441	#N/A	지금 당장 하실 수 없습니다.				
+ETC_20180418_032442	#N/A	길드 가입신청이 완료되었습니다.				
+ETC_20180418_032443	#N/A	가입이 거절되어 현재는 가입 신청이 불가능합니다. 1주일 이후에 다시 신청해주세요.				
+ETC_20180418_032444	#N/A	해당 길드원을 추방하였습니다.				
+ETC_20180418_032445	#N/A	배너를 등록하기 전에 길드 홍보글을 등록해주세요				
+ETC_20180418_032446	#N/A	길드 권한 기능에 문제가 있어, 해당 기능을 임시 제한하였습니다.{nl} 이용에 불편을 드려 죄송합니다.{nl}{nl}※ 정상화 예정일 : 2018.04.05(목)				
+ETC_20180418_032447	#N/A	성공적으로 업로드했습니다.				
+ETC_20180418_032448	Releasing seal...	봉인 해제중..				
+ETC_20180418_032449	Collecting Terra Essence...	테라 정수 수집중..				
+ETC_20180418_032450	Placing Terra Essence on the altar...	제단에 테라 정수를 바치는 중..				
+ETC_20180418_032451	Using Teleportation Magic Circle...	이동 마법진 사용중				
+ETC_20180418_032452	[Onmyoji Master]{nl}Ahiro Seimei	[음양사 마스터]{nl}아히로 세이메이				
+ETC_20180418_032453	Sapper Master	섀퍼 마스터	ETC_20150317_000391	Chafer	체이퍼	
+ETC_20180418_032454	Practice Post (Fire)	연습용 목인 (불)	ETC_20150317_009191	Practice Post (Fire)	연습용 목인 (화염)	
+ETC_20180418_032455	Practice Post (Earth)	연습용 목인 (땅)	ETC_20150317_009194	Practice Post (Earth)	연습용 목인 (대지)	
+ETC_20180418_032456	[Retiarius Master]{nl}        Caecilia	[레티아리이 마스터]{nl}        카이킬리아				
+ETC_20180418_032457	Talk to the Murmillo Master	무르밀로 마스터와 대화하세요				
+ETC_20180418_032458	Training complete!{nl}Returning in 10 seconds.	훈련 완료!{nl}10초 후에 돌아갑니다				
+ETC_20180418_032459	Defeat the Boss in Under 5 Minutes	5분안에 보스를 처치하세요				
+ETC_20180418_032460	Talk to the Falconer Master	응사 마스터와 대화하세요				
+ETC_20180418_032461	Talk to the Warlock Master	워록 마스터와 대화하세요				
+ETC_20180418_032462	Defeat Velcoffer.	벨코퍼를 처치하세요.				
+ETC_20180418_032463	Open Door	문열림				
+ETC_20180418_032464	The road is no longer being blocked by the evil aura.	사악한 기운으로 가로막혀있던 길이 열렸습니다.				
+ETC_20180418_032465	Altar of Protection	보호의 제단				
+ETC_20180418_032466	Boss Stage Warp	보스스테이지워프				
+ETC_20180418_032467	Use the warp to teleport!	워프를 타고 이동하세요!				
+ETC_20180418_032468	Product	연출				
+ETC_20180418_032469	Jump Final	Final넘어가기	ETC_20180418_032468	Product	연출	
+ETC_20180418_032470	Entrance	입장 멘트				
+ETC_20180418_032471	Start	시작멘트	ETC_20180418_032470	Entrance	입장 멘트	
+ETC_20180418_032472	Starting. Beware of the curse.	시작 합니다. 저주에 주의하세요				
+ETC_20180418_032473	Return to City	마을로 돌아가기				
+ETC_20180418_032474	Boss Stage Conditions	BOSS스테이지조건				
+ETC_20180418_032475	30 minutes left.	제한 시간 30분 남았습니다.				
+ETC_20180418_032476	Velcoffer has been defeated.	벨코퍼를 처치 하였습니다				
+ETC_20180418_032477	Jump End	end넘어가기				
+ETC_20180418_032478	Defeat the Tainted Gargoyle.	오염된 가고일을 처치하세요.				
+ETC_20180418_032479	The dark energy that was blocking the road has disappeared.	길을 막고 있던 어두운 기운이 사라졌습니다.				
+ETC_20180420_032480	Statue of Goddess Zemyna	여신 제미나의 상 수호				
+ETC_20180420_032481	Stage 1: Monster attack.	1차 : 몬스터 습격.				
+ETC_20180420_032482	Mission ending in 5 minutes.	5분 뒤 미션이 종료됩니다.				
+ETC_20180420_032483	Mission ending in 3 minutes.	3분 뒤 미션이 종료됩니다.				
+ETC_20180420_032484	Statue of Goddess Zemyna HP: 80% 	여신 제미나의 상 :  HP 80% 				
+ETC_20180420_032485	Statue of Goddess Zemyna HP: 50% 	여신 제미나의 상 :  HP 50% 				
+ETC_20180420_032486	Statue of Goddess Zemyna HP: 30% 	여신 제미나의 상 :  HP 30% 				
+ETC_20180420_032487	Statue of Goddess Zemyna HP: 10% 	여신 제미나의 상 :  HP 10% 				
+ETC_20180420_032488	Stage 2: Monster attack.	2차 : 몬스터 습격.				
+ETC_20180420_032489	Stage 3: Monster attack.	3차 : 몬스터 습격.				
+ETC_20180420_032490	Goal: Defeat the boss monster.	목표 : 보스 몬스터 처치.				
+ETC_20180420_032491	Stage 4: Monster attack.	4차 : 몬스터 습격.				
+ETC_20180420_032492	Stage 5: Monster attack.	5차 : 몬스터 습격.				
+ETC_20180420_032493	Goal: Defeat all monsters.	목표 : 모든 몬스터 처치.				
+ETC_20180420_032494	Stage 6: Monster attack.	6차 : 몬스터 습격.				
+ETC_20180425_032495		콜로니전 정보 로그				
+ETC_20180425_032496		3차 : 네크로벤터를 처치하세요.				
+ETC_20180425_032497		5차 : 모든 몬스터를 처치하세요.				

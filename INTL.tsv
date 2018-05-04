@@ -94,3 +94,50 @@ INTL_20180219_000093	Demon Prison Guild (Recommended Lv : 115){nl}Only you and y
 INTL_20180219_000094	Fallen Legwyn Family (Recommended Lv : 230){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?	쇠락한 르귄가문의 저택 (권장 레벨:230)에 입장하시겠습니까?{nl}당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.				
 INTL_20180219_000095	Castle Underground (Recommended Lv : 300){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?	캐슬 지하 (권장 레벨:300)에 입장하시겠습니까?{nl}당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.				
 INTL_20180219_000096	EXP Helper	성장 지원 도우미	INTL_20180214_000092	Weekend EXP Helper	주말 경험치 지원	
+INTL_20180305_000097	 {nl}{CUBE}s opened: {@st66d_y}{s18}{SUM}{/}{/}{nl}Open {@st66d_y}{s18}{COUNT}{/}{/} more Cubes to receive the reward for {@st66d_y}{s18}{BOUNS}{/}{/} Cubes.{nl}You can receive the reward(s) for {@st66d_y}{s18}{REWARD}{/}{/} Cubes opened.{nl}Would you like to receive the reward(s) now?	 {nl}{CUBE} 사용 횟수 : {@st66d_y}{s18}{SUM}{/}{/}{nl}앞으로 {@st66d_y}{s18}{COUNT}{/}{/}회 사용시 {@st66d_y}{s18}{BOUNS}{/}{/}회 보상을 받을 수 있습니다.{nl}{@st66d_y}{s18}{REWARD}{/}{/} 회 보상을 받을 수 있습니다.{nl}수령하시겠습니까?				
+INTL_20180305_000098	 {nl}{CUBE}s opened: {@st66d_y}{s18}{SUM}{/}{/}{nl}Open {@st66d_y}{s18}{COUNT}{/}{/} more Cubes to receive the reward for {@st66d_y}{s18}{BOUNS}{/}{/} Cubes.	 {nl}{CUBE}  사용 횟수 : {@st66d_y}{s18}{SUM}{/}{/}{nl}앞으로 {@st66d_y}{s18}{COUNT}{/}{/}회 사용시 {@st66d_y}{s18}{BOUNS}{/}{/}회 보상을 받을 수 있습니다.				
+INTL_20180305_000099	Bonus Cube	보너스 큐브				
+INTL_20180312_000100	Title given to winners of the 2nd Anniversary fanart event.	스팀 2주년 팬아트 수상자에게 주어지는 칭호 입니다.				
+INTL_20180312_000101	Title - Happy 2nd Anniversary!	칭호 - Happy 2nd Anniversary!				
+INTL_20180312_000102	Ttitle given to winners of the 2nd Anniversary fanart event. Right-click to use.	스팀 팬아트 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180312_000103	 {nl}You've been assigned to team {@st66d_y}{s18}{TEAM}{/}{/}.{nl}Defeat monsters to collect {@st66d_y}{s18}{ITEM}s{/}{/}.	 {nl}{@st66d_y}{s18}{TEAM}{/}{/} 에 배정되었습니다.{nl}몬스터 처치시 {@st66d_y}{s18}{ITEM}{/}{/}을 획득할 수 있습니다.				
+INTL_20180312_000104	Item Exchange	아이템 교환				
+INTL_20180312_000105	Vaivora's Team Challenge	마을 축제				
+INTL_20180312_000106	Event Buff	이벤트 버프				
+INTL_20180316_000107	The power of the firecracker has spread to all party members.	기념을 축하하는 폭죽의 힘이 공유되고 있습니다.				
+INTL_20180316_000108	Shining Battlebird Egg	빛나는 전투 뱁새 알				
+INTL_20180316_000109	2nd Anniversary Firecracker	2주년 폭죽				
+INTL_20180316_000110	2nd Anniversary Event item.{nl}Increases movement speed +4, AoE attack ratio +1 and EXP gains +25% of all party members for 30 minutes.	2주년 이벤트 아이템입니다.{nl} 30분간 파티원 전체의 이동속도 +4, 광역 공격 비율 +1 경험치 25% 증가의 효과를 줍니다.				
+INTL_20180316_000111	Start 2nd Anniversary Event	이벤트 워프 주문서 - 2주년 이벤트 시작				
+INTL_20180316_000112	An event Warp Scroll.{nl}Use it to move to the 2nd Anniversary Event NPC.	이벤트용 워프 주문서입니다.{nl}사용 시 2주년 이벤트 시작 npc 앞으로 이동합니다.				
+INTL_20180316_000113	Steam 2nd Anniversary Arm Band	스팀 2주년 암밴드				
+INTL_20180316_000114	An arm band accessory celebrating 2 years of TOS on Steam.	스팀 2주년을 기념하여 제작된 암밴드 입니다.				
+INTL_20180316_000115	Smiley Orange	스마일 오렌지				
+INTL_20180316_000116	GM Orange's little orange friend. This peculiar orange is known for its many expressions, which makes some people think it was affected by Medzio Diena.	GM 오렌지의 머리 위에있는 오렌지. 다양한 표정을 지을 수 있는 것으로 보아 Medzio Diena의 영향을 받았다고 의심된다.				
+INTL_20180316_000117	Sardine Coffee	정어리 커피				
+INTL_20180316_000118	GM Papaya's coffee cup. Although it contains coffee (and a sardine), the cup's contents never spill, much to the amusement of onlookers.	GM 파파야의 커피. 살아있는 정어리가 들어있다. 마법적인 힘으로 인해 어떤 각도에서든 머리에서 떨어지지 않는다.				
+INTL_20180316_000119	Spiral Glasses	뱅글 안경				
+INTL_20180316_000120	Dr. No's famous spiral glasses. Wear them with a can of Red Ox in your hand for the best results. Side effects: May cause dizziness.	Dr. No의 안경. 일을 할 때 Red Ox과 같이 사용하면 효율이 높아진다고 한다. 주의: 같이있을 경우 어지러울 수 있다.				
+INTL_20180316_000121	Shining Battlebird Egg Package	빛나는 전투 뱁새 패키지				
+INTL_20180316_000122	Right-click to use and obtain the items.{nl} - Shining Battlebird Egg x1{nl} - Battlebird Feed x50	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 빛나는 전투 뱁새 알{nl} - 뱁새용 모이 50개				
+INTL_20180316_000123	Shining Penguin Egg Package	빛나는 펭귄 패키지				
+INTL_20180316_000124	Right-click to use and obtain the items.{nl} - Shining Penguin Egg x1{nl} - Sardine x50	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 빛나는 펭귄 알{nl} - 정어리 50개				
+INTL_20180316_000125	Right-click to use and obtain the items.{nl} - Steam 2nd Anniversary Arm Ban x1d{nl} - Leaf Penguin Egg x1{nl} - Enhancement Coupon: 100,000 Silver x10{nl}- Attribute Points: 1,000 x1{nl}- Event Warp Scroll - Start 2nd Anniversary Event x1{nl}- Highly Condensed HP Potion x20{nl}- Highly Condensed SP Potion x20{nl}- Lv2 Settlement Support Potion x10{nl}- 2nd Anniversary Firecracker x5{nl}- Goddess Statue x5{nl}- Highly Condensed Movement Speed Potion x5{nl}- Token: 15 Days [Event]	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 스팀 2주년 암밴드{nl} - 펭그린 알{nl} - 강화 실버 할인 쿠폰 : 10만 실버 10개{nl}- 특성 포인트 1,000{nl}- 이벤트 워프 주문서 - 2주년 이벤트 시작{nl}- 고농축 HP포션 20개{nl}- 고농축 SP포션 20개{nl}- 정착 지원 포션 Lv2 10개{nl}- 2주년 폭죽 5개{nl}- 여신의 조각상 5개{nl}- 고농축 이동속도 증가 포션 5개{nl}- 토큰:15일[증정용]				
+INTL_20180326_000126	List of Invited Masters	마스터 명단 리스트				
+INTL_20180326_000127	This document lists all the Class Masters invited to TOS' 2nd anniversary celebrations.{nl}(Will be deleted at the end of the event.)	초대장을 가진 마스터들의 명단을 기록하고 있습니다.{nl}(사용 시 이벤트 진행 상황을 확인할 수 있습니다.)				
+INTL_20180326_000128	An event Warp Scroll.{nl}Use it to move to the 2nd Anniversary Event NPC.	이벤트용 워프 주문서입니다.{nl}사용 시 2주년 이벤트 도우미 npc 앞으로 이동합니다.	INTL_20180316_000112	An event Warp Scroll.{nl}Use it to move to the 2nd Anniversary Event NPC.	이벤트용 워프 주문서입니다.{nl}사용 시 2주년 이벤트 시작 npc 앞으로 이동합니다.	
+INTL_20180326_000129	Title - Honorary TPP Reporter	칭호 - Honorary TPP Reporter				
+INTL_20180326_000130	A title given to honorary reporters of The Popolion Post. Right-click to use.	The Popolion Post 잡지의 명예 기자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180402_000131	A cute balloon puppy. Be careful around spiky things with it.	강아지 모양에 풍선 인형입니다. 찌르면 터질지도 모릅니다.				
+INTL_20180402_000132	Daemon State Record Y/N [True:1, False:0]	Daemon State 기록 여부[True:1, False:0]				
+INTL_20180406_000133	Title given to players who have collected the [Event] Revelations. Right-click to use.	[이벤트] 계시를 찾은 구원자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180406_000134	[Event] Crystal Mine Revelation	[이벤트]첫번째 계시				
+INTL_20180406_000135	An event Revelation.{nl}Can be exchanged for a title at the Event Notice Board.	계시 이벤트 아이템입니다.{nl}이벤트 알림판에서 칭호로 교환할 수 있습니다.				
+INTL_20180406_000136	Title - Crystal Mine Revelator	칭호 - [EVENT]Crystal Mine Revelation				
+INTL_20180406_000137	Please retrieve the "Crystal Mine Revelator" title first.	칭호 - [이벤트]첫 번째 계시 획득자를 먼저 획득해 주세요.				이벤트 알림판
+INTL_20180406_000138	Receive Title	칭호 받기				
+INTL_20180406_000139	Receive Buff	버프 받기				
+INTL_20180406_000140	The First Revelation: Crystal Mine	첫 번째 세계관 이벤트 : 수정광산				
+INTL_20180418_000141	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 펭그린 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개 {nl} - 고로				
+INTL_20180420_000142	Fedimian's Hero Cube	페디미안 수호 큐브				
+INTL_20180420_000143	A cube awarded to the brave heroes who saved Fedimian from the monsters.	페디미안을 수호한 구원자에게 주어지는 보상입니다.				

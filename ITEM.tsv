@@ -17546,5 +17546,698 @@ ITEM_20180208_017545	Strawberry Cupcake	딸기 과자
 ITEM_20180208_017546	A small treat made to soothe a spirit with a sweet tooth.	영혼을 위로하기 위해 만든 딸기 과자.				
 ITEM_20180208_017547	Iona's Box	이오나가 준 상자				
 ITEM_20180208_017548	A gift from Iona to appease a departed spirit.	영혼을 위로하기 위해 이오나가 만든 상자				
-ITEM_20180228_017549	Restores 30 Stamina.{nl}Available List{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Dog	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 펭그린 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개	ITEM_20151224_008765	Food that a companion enjoys.{nl}Completely restores your companion's HP and restores their Stamina by 60.	컴패니언이 좋아하는 먹이입니다. 컴패니언의 HP를 모두 회복하고 스태미나가 +60 회복됩니다.	
-ITEM_20180228_017550	Food that is healthy for penguins.{nl}Restores HP completely and Stamina by 15.{nl}Available List{nl} - Penguin{nl} - Pengmarine{nl} - Winter Penguin	펭귄의 건강을 책임지는 먹이입니다. 펭귄의 HP를 모두 회복하고 스태미나가 +15 회복됩니다.{nl}사용가능 목록{nl} - 펭귄{nl} - 펭마린 {nl} - 윈터펭	ITEM_20160520_010567	Feed it to Penguin. It will restore all its HP and Stamina by 15.	펭귄의 건강을 책임지는 먹이입니다. 펭귄의 HP를 모두 회복하고 스태미나가 +15 회복됩니다.	
+ITEM_20180305_017549	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 펭그린 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개	ITEM_20151224_008765	Food that a companion enjoys.{nl}Completely restores your companion's HP and restores their Stamina by 60.	컴패니언이 좋아하는 먹이입니다. 컴패니언의 HP를 모두 회복하고 스태미나가 +60 회복됩니다.	
+ITEM_20180305_017550	Healthy food for your Penguin. Restores all of the HP and +15 Stamina.{nl}Good for:{nl} - Penguin{nl} - Pengmarine{nl} - Winter Penguin	펭귄의 건강을 책임지는 먹이입니다. 펭귄의 HP를 모두 회복하고 스태미나가 +15 회복됩니다.{nl}사용가능 목록{nl} - 펭귄{nl} - 펭마린 {nl} - 윈터펭	ITEM_20160520_010567	Feed it to Penguin. It will restore all its HP and Stamina by 15.	펭귄의 건강을 책임지는 먹이입니다. 펭귄의 HP를 모두 회복하고 스태미나가 +15 회복됩니다.	
+ITEM_20180312_017551	Looting Chance Potion (14 Days)	루팅 찬스 증가 포션 (14일)				
+ITEM_20180312_017552	Increases Looting Chance by 100 for 30 minutes. Right-click to use. Cooldown of 30 minutes.{nl}- Cannot be stacked with other Looting Chance potions.	30분 동안 루팅찬스를 +100 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 30분.{nl} - 루팅 찬스 포션은 중첩해서 사용 할 수 없습니다.				
+ITEM_20180312_017553	Lena Token	클라페다의 증표				
+ITEM_20180312_017554	A token representing Wings of Vaivora's Lena from Klaipeda.{nl}Will be automatically deleted after the event.	클라페다에서 생산된 동전입니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+ITEM_20180312_017555	Rosia Token	오르샤의 증표				
+ITEM_20180312_017556	A token representing Wings of Vaivora's Rosia from Orsha.{nl}Will be automatically deleted after the event.	오르샤에서 생산된 동전입니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+ITEM_20180312_017557	Vaivora Token	평화의 증표				
+ITEM_20180312_017558	A token representing the Wings of Vaivora.{nl}Will be automatically deleted after the event.	어딘가에서 생산된 동전입니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+ITEM_20180316_017559	[GM] Special Transformation Scroll	[GM] 특별한 변신 스크롤	INTL_20171013_000048	Special Transformation Scroll	특별한 변신 스크롤	
+ITEM_20180320_017560	You need the head to fully transform into a lucky golden puppy! Right-click to use and change your appearance.	복실복실 황금개 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다. 염색약의 색상이 적용되지 않습니다.	ITEM_20180202_017345	You need the head to fully transform into a lucky golden puppy! Right-click to use and change your appearance.	복실복실 황금개 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다.	
+ITEM_20180320_017561	Why stick to looking golden when you can BE gold? 24K, baby. Right-click to use and change your appearance.	24K 금괴 멍멍 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다. 염색약의 색상이 적용되지 않습니다.	ITEM_20180202_017347	Why stick to looking golden when you can BE gold? 24K, baby. Right-click to use and change your appearance.	24K 금괴 멍멍 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다.	
+ITEM_20180320_017562	A weapon that uses a physical pipe to magnify magical power instead of jewels which were used by the majority of the great mages of that era. This was a very Masinios-like decision and the product of his early mid days.	지닌 힘의 확대를 위해 동시대의 많은 마법사들이 주로 사용한 보석류가 아니라 물리적인 관을 사용한 무기입니다. 마시니오스다운 선택이며, 그의 초중반기 제작품에 해당합니다.	ITEM_20171128_016073	A weapon that uses a physical pipe to magnify magical power instead of jewels which were used by the majority of the great mages of that era. This was a very Masinios-like decision and the product of his early mid days.	지닌 힘의 확대를 위대 동시대의 많은 마법사들이 주로 사용한 보석류가 아니라 물리적인 관을 사용한 무기입니다. 마시니오스다운 선택이며, 그의 초중반기 제작품에 해당합니다.	
+ITEM_20180320_017563	 - Increase Backstab damage by 150%{nl}  - Impale Dagger skill level {img green_up_arrow 16 16}1	 - 백스탭 공격력 150% 추가{nl}  - 임페일 대거 스킬 레벨 {img green_up_arrow 16 16}1 증가	ITEM_20180208_017401	 - Increase Backstab damage by 150%	 - 백스탭 공격력 150% 추가	
+ITEM_20180320_017564	 - Full Metal Jacket skill level {img green_up_arrow 16 16}1{nl}  - Limacon skill level {img green_up_arrow 16 16}1{nl}  - Quick and Dead skill level {img green_up_arrow 16 16}1	 - 풀 메탈 자켓 스킬 레벨 {img green_up_arrow 16 16} 1{nl}  - 리마콘 스킬 레벨 {img green_up_arrow 16 16} 1{nl}  - 퀵 앤드 데드 스킬 레벨 {img green_up_arrow 16 16} 1	ITEM_20171128_016264	 - Full Metal Jacket skill level {img green_up_arrow 16 16}1{nl}  - Limacon skill level {img green_up_arrow 16 16}1{nl}  - Pistol Shot skill level {img green_up_arrow 16 16}1	 - 풀 메탈 자켓 스킬 레벨 {img green_up_arrow 16 16} 1{nl}  - 리마콘 스킬 레벨 {img green_up_arrow 16 16} 1{nl}  - 피스톨 샷 스킬 레벨 {img green_up_arrow 16 16} 1	
+ITEM_20180320_017565	Achiva Bracelet	아키바 브레이슬릿				
+ITEM_20180320_017566	A common leather bracelet adorned with a flower trinket.	평범한 가죽 브레이슬릿에 꽃 문양을 배치한 포인트가 돋보입니다.				
+ITEM_20180320_017567	Mirti Bracelet	미르티 브레이슬릿				
+ITEM_20180320_017568	A bracelet decorated with colorful designs. The patterns were in fashion at the time the bracelet was created.	알록달록 문양을 배치하여 독특한 형태를 띄고 있습니다.  당시 유행하던 문양의 배치인것 같습니다.				
+ITEM_20180320_017569	Ufhor Pearl Bracelet	우프올 펄 브레이슬릿				
+ITEM_20180320_017570	Originally a pearl bracelet, the central ornament was changed to produce different effetcs. Now, this bracelet's offensive properties are known to tire the wearer.	펄 브레이슬릿을 기반으로 중앙의 보석을 바꾸어 성능을 변경했습니다. 지나치게 공격적인 면을 강조하다 보니 사용자에게 피로를 줍니다.				
+ITEM_20180320_017571	Pik'o Pearl Bracelet	피크오 펄 브레이슬릿				
+ITEM_20180320_017572	This bracelet reflects the efforts of its makers to achieve a balanced performance through the use of a stable gem.	안정화 된 보석을 배치하여 평균적인 능력을 강조하고자한 노력이 엿보이는 브레이슬릿입니다.				
+ITEM_20180320_017573	Akro Galia Bangle	아크리오 갈리아 뱅글				
+ITEM_20180320_017574	Product of countless experiments, this bracelet has been improved over time to produce the best results. Improving it any further would require a large amount of resources, which is why it hasn't been experimented on for some time.	수많은 실험을 통해 과거 성공과 실패가 공존하는 결과물에서 좀 더 완성형에 가깝도록 개량했습니다. 더 이상 개량하기에 큰 노력이 필요하여 실험을 멈췄다는 이야기가 있습니다.				
+ITEM_20180320_017575	Aiskus Bracelet	아이스쿠스 브레이슬릿				
+ITEM_20180320_017576	A bracelet made of mixed materials, said to improve mental clarity. Many of its wearers have experienced deeper states of meditation.	머리를 맑게 해주기 위해 여러 재료를 섞어 만들었습니다. 정확히 이것 때문이다는 알 수 없으나 명상이 좀 더 잘된다고 합니다.				
+ITEM_20180320_017577	Santa Costume (Male)	산타 코스튬(남)	ITEM_20171207_017185	Sexy Santa Costume (Male)	비치 산타 코스튬(남)	
+ITEM_20180320_017578	Santa Costume (Female)	산타 코스튬(여)	ITEM_20171207_017187	Sexy Santa Costume (Female)	비치 산타 코스튬(여)	
+ITEM_20180320_017579	Hair accessory given to participants of the 2017 G-STAR.	2017 G-STAR 및 2017 4회 네코제에 참여하면 받을 수 있는 헤어 장식입니다.	ITEM_20150317_001606	An ornate hat with tassels. Used sometimes by a high ranking official or by reputable people.	머리에 술을 달아 멋을 부린 모자입니다. 지위가 높은 사람들이 사용하기도 합니다.	
+ITEM_20180320_017580	Hair accessory given to participants of the 2017 G-STAR.	2017 4회 네코제에 참여하면 받을 수 있는 헤어 장식입니다.	ITEM_20150317_001629	Sometimes the bride will wear this during her wedding.	때로 결혼식에서 신부가 이것으로 머리를 장식하곤 합니다.	
+ITEM_20180320_017581	A cat headwear piece. Right-click to use.{nl}Can be exchanged for medals at the Exchange Shop.	고양이를 본따 만든 머리핀입니다. 오른쪽 클릭으로 장착할 수 있습니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	ITEM_20150317_001552	A costume for the hair slot.{nl}Right-click to equip.	머리 장식입니다. 오른쪽 클릭으로 장착할 수 있습니다.	
+ITEM_20180320_017582	You can wear the crown lopsided and pretend to be a tired king. Just don't try to impersonate an actual king, unless you want to get arrested.{nl} Can be exchanged for medals at the Exchange Shop.	비스듬히 쓴 왕관이 많은 일로 지친 왕의 모습을 연출 할 수 있습니다. 그렇다고 왕을 사칭하면 안 돼요! 오른쪽 클릭으로 장착할 수 있습니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	ITEM_20150317_001552	A costume for the hair slot.{nl}Right-click to equip.	머리 장식입니다. 오른쪽 클릭으로 장착할 수 있습니다.	
+ITEM_20180320_017583	Lightning Cloud	번개 구름	ITEM_20170512_014917	Cloud Lightning	구름 번개	
+ITEM_20180320_017584	Golden brown, fresh out of the toaster. Too bad you can't eat it.{nl}But you can exchange it for medals at the Exchange Shop.	갓 구운 토스트를 올려놓은 모양입니다. 하지만 먹을 수 없어서 슬프죠.{nl} 리사이클샵에서 메달로 교환 가능합니다.	ITEM_20160811_010840	Requires a description.	디스크립션이 필요합니다.	
+ITEM_20180320_017585	An imaginative crown made from a gigantic red pudding. 	붉은색의 거대한 푸딩을 이용해 만든 왕관입니다. 	ITEM_20160811_010840	Requires a description.	디스크립션이 필요합니다.	
+ITEM_20180320_017586	#N/A	누구인지 알 수 없지만 길티네 날개를 보았다고 주장하는 자가 만든 날개입니다. 단, 실제 비행은 불가능합니다.{nl} 리사이클 메달로 교환 가능합니다.	ITEM_20180202_017359	A pair of wings created by to the image of Giltine's. Unfortunately, they don't let you fly.	누구인지 알 수 없지만 길티네 날개를 보았다고 주장하는 자가 만든 날개입니다. 단, 실제 비행은 불가능합니다.	
+ITEM_20180320_017587	A pair of wings made out of ice. Unfortunately they don't let you fly.{nl} Can be exchanged for medals.	얼음 결정을 본따 만든 날개입니다. 단, 실제 비행은 불가능합니다.{nl} 리사이클 메달로 교환 가능합니다.	ITEM_20171207_017198	A pair of wings made out of delicate ice crystals. Unfortunately they don't let you fly.	얼음 결정을 본따 만든 날개입니다. 단, 실제 비행은 불가능합니다.	
+ITEM_20180320_017588	#N/A	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개	ITEM_20180305_017549	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 펭그린 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개	
+ITEM_20180320_017589	Shining Lv2 Gem Abrasive	빛나는 2성 젬 연마제	ITEM_20161005_012543	Shining Basic Gem Abrasive	빛나는 하급 젬 연마제	
+ITEM_20180320_017590	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 300	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 300				
+ITEM_20180320_017591	Shining Lv3 Gem Abrasive	빛나는 3성 젬 연마제	ITEM_20161005_012544	Shining Intermediate Gem Abrasive	빛나는 중급 젬 연마제	
+ITEM_20180320_017592	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 1200	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 1200				
+ITEM_20180320_017593	Shining Lv4 Gem Abrasive	빛나는 4성 젬 연마제	ITEM_20161005_012545	Shining Advanced Gem Abrasive	빛나는 고급 젬 연마제	
+ITEM_20180320_017594	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 3900	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 3900				
+ITEM_20180320_017595	Shining Lv5 Gem Abrasive	빛나는 5성 젬 연마제	ITEM_20161005_012546	Shining Superior Gem Abrasive	빛나는 최고급 젬 연마제	
+ITEM_20180320_017596	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 14700	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700				
+ITEM_20180320_017597	Gem Abrasive: 5000	젬 연마제: 5000	ITEM_20161005_012558	Gem Abrasive: 5000	젬 연마제 : 5000	
+ITEM_20180320_017598	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 500{nl} Can be exchanged for medals at the Exchange Shop.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 5000{nl} 리사이클샵에서 메달로 교환 가능합니다.	ITEM_20161108_012914	Used to enhance gems. Amplifies the EXP of gems.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20180320_017599	Increases EXP gains, movement speed and maximum HP according to number of stacks for 30 minutes. Maximum 5 stacks.	30분간 중첩에 따라 경험치, 이동속도, 최대HP가 증가하며, 최대 5중첩까지 가능합니다. 2월 22일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180320_017600	Looting Chance: 100	루팅 찬스: 100				
+ITEM_20180320_017601	Increases looting chance by 100 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.	60분 동안 루팅찬스를 +100 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60분.{nl} - 루팅 찬스 포션은 중첩해서 사용 할 수 없습니다.				
+ITEM_20180320_017602	Looting Chance: 300	루팅 찬스: 300				
+ITEM_20180320_017603	Increases looting chance by 300 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- cannot be stacked with other looting chance potion.	60분 동안 루팅찬스를 +300 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60분.{nl} - 루팅 찬스 포션은 중첩해서 사용 할 수 없습니다.				
+ITEM_20180320_017604	Looting Chance: 500	루팅 찬스: 500				
+ITEM_20180320_017605	Increases looting chance by 500 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.	60분 동안 루팅찬스를 +500 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60분.{nl} - 루팅 찬스 포션은 중첩해서 사용 할 수 없습니다.				
+ITEM_20180320_017606	Collection: Coasts	콜렉션:해안 지역				
+ITEM_20180320_017607	Collection: Fantasy Library	콜렉션:환상도서관 지역				
+ITEM_20180320_017608	Collection: Narvas Temple	콜렉션:나르바스 사원 지역				
+ITEM_20180320_017609	Collection: Lanko Waters	콜렉션:란코 수역				
+ITEM_20180320_017610	Collection: Sage Master's Bookmark	콜렉션:세이지 마스터의 책갈피				
+ITEM_20180320_017611	Collection: Explorer Finds	콜렉션:탐험 중의 발견				
+ITEM_20180320_017612	Collection: Little Dexter's Gift	콜렉션:대길이의 선물				
+ITEM_20180320_017613	Sage Master's Red Bookmark	세이지 마스터의 붉은색 책갈피				
+ITEM_20180320_017614	Collection Exclusive Items	콜렉션 전용 아이템				
+ITEM_20180320_017615	A red bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 붉은색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017616	Sage Master's Orange Bookmark	세이지 마스터의 주황색 책갈피				
+ITEM_20180320_017617	An orange bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 주황색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017618	Sage Master's Yellow Bookmark	세이지 마스터의 노랑색 책갈피				
+ITEM_20180320_017619	A yellow bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 노랑색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017620	Sage Master's Green Bookmark	세이지 마스터의 초록색 책갈피				
+ITEM_20180320_017621	A green bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 초록색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017622	Sage Master's Blue Bookmark	세이지 마스터의 푸른색 책갈피				
+ITEM_20180320_017623	A blue bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 푸른색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017624	Sage Master's Indigo Bookmark	세이지 마스터의 감청색 책갈피				
+ITEM_20180320_017625	An indigo bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 감청색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017626	Sage Master's Violet Bookmark	세이지 마스터의 보라색 책갈피				
+ITEM_20180320_017627	A violet bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 보라색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017628	Small Mithril Ore Fragment	작은 미스릴 광석 조각				
+ITEM_20180320_017629	A piece of shiny silver-like mineral. It's too small to be used in crafting, but it fits just right in a modest treasure box. Collection item.	빛나는 은색의 광물 조각입니다. 장비 제작에 쓰기엔 너무 작지만 상자에 소장하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017630	Small Ithildin Ore Fragment	작은 이실딘 광석 조각				
+ITEM_20180320_017631	In the early days of the Kingdom, this precious ore could not be mined without the blessing of a goddess. Nowadays, it's not that difficult. This piece is small enough to fit in a box. Collection item.	건국 초기에는 여신의 점지를 받지 않으면 캘 수 없는 귀한 보석이었습니다. 현재는 그렇게 채굴이 어렵지는 않습니다. 크기가 작아 상자에 보관하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017632	Small Phydecium Fragment	작은 피데슘 조각				
+ITEM_20180320_017633	Fragment of a green stone. It's too small to be used in crafting, but it fits just right in a modest treasure box. Collection item.	푸른 빛을 띄는 광석입니다. 장비 제작에 쓰기엔 너무 작지만 상자에 소장하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017634	Small Opal Fragment	작은 오팔 조각				
+ITEM_20180320_017635	This stone is a mix of many colors. It's too small to be used in crafting, but it fits just right in a modest treasure box. Collection item.	여러가지 색상을 발하는 보석입니다. 장비 제작에 쓰기엔 너무 작지만 상자에 소장하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017636	Small Garnet Fragment	작은 가넷 조각				
+ITEM_20180320_017637	Though red like a ruby stone, this mineral isn't as scarce. It's too small to be used in crafting, but it fits just right in a modest treasure box. Collection item.	루비와 같은 붉은 계통의 보석이지만 희소성은 떨어집니다. 장비 제작에 쓰기엔 너무 작지만 상자에 소장하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017638	Small Obsidian Fragment	작은 옵시디안 조각				
+ITEM_20180320_017639	Fragment of a black translucent stone. It's too small to be used in crafting, but it fits just right in a modest treasure box. Collection item.	불투명한 검은 빛의 보석입니다. 장비 제작에 쓰기엔 너무 작지만 상자에 소장하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017640	Small Peridot Fragment	작은 페리도트 조각				
+ITEM_20180320_017641	A green precious stone, known in legends to protect humans from evil spirits. It's too small to be used in crafting, but it fits just right in a modest treasure box. Collection item.	녹색의 보석입니다. 악령으로부터 지켜준다는 전설이 있습니다. 장비 제작에 쓰기엔 너무 작지만 상자에 소장하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017642	Small Zircon Fragment	작은 지르콘 조각				
+ITEM_20180320_017643	Fragment of a brown precious stone. It's too small to be used in crafting, but it fits just right in a modest treasure box. Collection item.	갈색 빛을 가진 보석입니다. 장비 제작에 쓰기엔 너무 작지만 상자에 소장하기에 알맞은 크기입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017644	Wilting Weeds	뜯어진 잡초				
+ITEM_20180320_017645	A handful of common weeds brought by Dexter the cat. From the teeth marks, he seems to have ripped them off with his mouth. Collection item.	대길이가 준 흔한 잡초입니다. 입으로 뜯었는지 이빨 자국들이 여기저기에 보입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017646	Someone's Mallet	누군가의 나무 망치				
+ITEM_20180320_017647	A mallet brought by Dexter the cat. It looks like it was used for a long time. Where in the goddesses' realm did Dexter get this?	대길이가 준 나무 망치입니다. 사용됐던 것인지 여기저기에 사람이 이용한 흔적이 보입니다. 이런 걸 어디서 가져온 걸까요? 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017648	Fresh Fish	신선한 생선				
+ITEM_20180320_017649	A small fish brought by Dexter the cat. It must have been caught just now, it's still jumping about. Does Dexter go fishing? Collection item.	대길이가 물어온 작은 물고기입니다. 잡은 지 얼마 안됐는지 아직 팔딱팔딱 뛰고 있습니다. 대길이가 낚시해서 잡은 걸까요? 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017650	Rusty Screw	녹슨 나사				
+ITEM_20180320_017651	A rusty screw brought by Dexter the cat. It's pretty rusty all over. Dexter's owner should be worried that his cat was carrying this in his mouth. Collection item.	대길이가 준 녹슨 나사입니다. 곳곳에 녹슨 흔적을 보아 대길이가 이걸 물고 있었다고 생각하니 걱정됩니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017652	Unripe Apple	덜 익은 사과				
+ITEM_20180320_017653	An unripe apple brought by Dexter the cat. It's going to be a couple of days until it's good to eat. Collection item.	대길이가 준 덜익은 풋사과입니다. 풋사과라고 하기에도 덜 익어보여 먹기에는 좀 애매한 것 같습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017654	Torn Wood Pieces	잘게 쪼개진 나무 조각들				
+ITEM_20180320_017655	Torn pieces of wood brought by Dexter the cat. They are quite small, enough to be carried by Dexter with his mouth. Collection item.	대길이가 준 나무 조각들입니다. 잘게잘게 쪼개져 있어서인지 대길이가 물어오기 편한 크기로 보입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017656	Dented Knife	이가 빠진 식칼				
+ITEM_20180320_017657	A knife brought by Dexter the cat. It looks worn out and unkempt. Someone should really teach Dexter not to bring home such dangerous things. Collection item.	대길이가 물어온 식칼입니다. 손질을 하지 않아 여기저기 흔적이 보입니다. 다음에 대길이이게 위험한 걸 물어오지 않도록 혼내야겠습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017658	A Dimensional Search Scroll given by Kupole Rugile. Use it to check the dimensional crack that is being invaded by the demons. Collection item.	큐폴 루길레가 준 차원 탐색 스크롤입니다. 이걸 이용하면 마족이 침공하는 차원의 틈새를 확인할 수 있습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017659	A crystallized fragment of a distorted dimension. It radiates light in many different colors. Collection item.	차원의 일그러짐이 결정화된 파편입니다. 아름다운 빛깔로 빛나고 있습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017660	A core containing demonic energy. Kupole Danute used this with the Dimensional Essence to create protection crystals. Collection item.	마족의 마력이 담긴 핵입니다. 큐폴 다누테는 이것과 차원의 정수를 이용해 수호의 수정 수호도구를 만들었습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017661	A source of magic used to charge the Flicid Collapsing Device. Collection item.	푸른 빛을 띠고 있는 마력원입니다. 플리시드 붕괴장치를 충전하기 위해 사용됩니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017662	A glowing tool dropped by a Carapace. The beads embedded in the center are shining with bright blue light. Collection item.	캐러페이스가 떨어뜨렸던 빛나는 도구. 중앙에 박혀있는 구슬에는 영롱한 푸른 빛이 반짝이고 있습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017663	A match, the kind provided by supply soldiers. Used for various purposes. Collection item.	저항군에서 보급품으로 주는 성냥. 다양한 용도로 쓰이고 있습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017664	This arrow was found in a demon that fought Leonardas in a fierce battle. Collection item.	마족에게 박혀있었던 화살. 레오나르다스가 마족과 치열한 전투를 벌인 흔적입니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017665	Leaves that grow from Lily Velly and Jelly Velly monsters. They look moist, as if they were just watered. Collection item.	호수에서 자라난 릴리 벨리와 젤리 벨리에게서 나던 잎. 방금까지도 물을 머금은 듯 촉촉한 느낌이 살아있습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017666	It looks like it was just cut off, but at the same time it's wet with water from the lake and it emits a mysterious energy. Collection item.	잘려진 채로 떨어져 있었지만 호수의 물을 먹고 있었는지 촉촉하며 신비한 기운이 감돌고 있습니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017667	A water bottle, like those distributed by supply soldiers. It looks rusty in some places, so it probably doesn't belong to Leonardas. Collection item.	저항군의 부대원들에게 보급품으로 나눠준 물병. 오랜 시간동안 습기많은 곳에 있어 녹슨 흔적들을 보아 레오나르다스의 물건은 아닌 듯 합니다. 콜렉션 전용 아이템입니다.				
+ITEM_20180320_017668	#N/A	황금개 복주머니는 다음 목록중 1개를 무작위로 얻을 수 있습니다. {nl}획득 가능한 아이템 목록{nl} - 복실복실 황금개 코스튬 상자{nl} - 24K 금괴 멍멍 헤드 {nl} - 황금 멍멍 암밴드	ITEM_20180202_017361	Use to receive one of the following random items. {nl} - Golden Pup Lucky Pouch{nl} - 24K Gold Bar Pup Helmet {nl} - Golden Pup Armband	황금개 복주머니는 다음 목록중 1개를 무작위로 얻을 수 있습니다. {nl}획득 가능한 아이템 목록{nl} - 황금개 복주머니{nl} - 24K 금괴 멍멍 헤드 {nl} - 황금 멍멍 암밴드	
+ITEM_20180320_017669	(Old) Mirtis Cube	(구) 미르티스 큐브				
+ITEM_20180320_017670	(Old) Helgasercle Cube	(구) 헬가세르클 큐브				
+ITEM_20180320_017671	(Old) Rexipher Cube	(구) 렉시퍼 큐브				
+ITEM_20180320_017672	(Old) Marnox Cube	(구) 마르녹스 큐브				
+ITEM_20180320_017673	(Old) Nuaele Cube	(구) 누아엘레 큐브				
+ITEM_20180320_017674	(Old) Zaura Cube	(구) 자우라 큐브				
+ITEM_20180320_017675	(Old) Blut Cube	(구) 블룻 큐브				
+ITEM_20180320_017676	Shining Demon Lord Mirtis Cube	빛나는 마군주 미르티스 큐브				
+ITEM_20180320_017677	Contains an unknown object. Right-click to use.{nl}- The chances of obtaining a high-grade item are higher than normal cubes.	사용하면 무언가 알 수 없는 것을 획득할 수 있을 것 같습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} - 고급 아이템과 레전드 카드가 나올 확률이 일반 큐브에 비해 높습니다.				
+ITEM_20180320_017678	Shining Demon Lord Helgasercle Cube	빛나는 마군주 헬가 세르클 큐브				
+ITEM_20180320_017679	Shining Demon Lord Rexipher Cube	빛나는 마군주 렉시퍼 큐브				
+ITEM_20180320_017680	Shining Demon Lord Marnox Cube	빛나는 마군주 마르녹스 큐브				
+ITEM_20180320_017681	Shining Demon Lord Nuaele Cube	빛나는 마군주 누아엘레 큐브				
+ITEM_20180320_017682	Shining Demon Lord Zaura Cube	빛나는 마군주 자우라 큐브				
+ITEM_20180320_017683	Shining Demon Lord Blut Cube	빛나는 마군주 블룻 큐브				
+ITEM_20180320_017684	Demon Lord Mirtis Cube	마군주 미르티스 큐브				
+ITEM_20180320_017685	Demon Lord Helgasercle Cube	마군주 헬가 세르클 큐브				
+ITEM_20180320_017686	Demon Lord Rexipher Cube	마군주 렉시퍼 큐브				
+ITEM_20180320_017687	Demon Lord Marnox Cube	마군주 마르녹스 큐브				
+ITEM_20180320_017688	Demon Lord Nuaele Cube	마군주 누아엘레 큐브				
+ITEM_20180320_017689	Demon Lord Zaura Cube	마군주 자우라 큐브				
+ITEM_20180320_017690	Demon Lord Blut Cube	마군주 블룻 큐브				
+ITEM_20180320_017691	Guild Quest Reward: Boss Raid	길드 퀘스트 보상: 보스 레이드				
+ITEM_20180320_017692	Reward box for successfully completing Boss Raid during Guild Quest.{nl}High chance to obtain ore.	길드 퀘스트 중 보스 레이드에 성공하여 획득한 보상 상자입니다.{nl} 주로 광물을 획득할 수 있습니다.				
+ITEM_20180320_017693	Guild Quest Reward: Mission	길드 퀘스트 보상: 미션				
+ITEM_20180320_017694	Reward box for successfully completing Mission during Guild Quest.{nl}High chance to obtain seed.	길드 퀘스트 중 미션에 성공하여 획득한 보상 상자입니다.{nl} 주로 씨앗을 획득할 수 있습니다.				
+ITEM_20180320_017695	Guild Quest Reward: Hair Accessory	길드 퀘스트 보상: 헤어 악세서리				
+ITEM_20180320_017696	Reward box for successfully completing Mission during Guild Quest.{nl}High chance to obtain Hair Accessory.	길드 퀘스트 중 미션에 성공하여 획득한 추가 보상 상자입니다. {nl} 헤어 악세서리를 얻을 수 있습니다.				
+ITEM_20180320_017697	Condensed Earth Tower 5F Cube	응축된 대지의 탑 5층 큐브				
+ITEM_20180320_017698	Condensed Earth Tower 10F Cube	응축된 대지의 탑 10층 큐브				
+ITEM_20180320_017699	Condensed Earth Tower 15F Cube	응축된 대지의 탑 15층 큐브				
+ITEM_20180320_017700	Condensed Earth Tower 20F Cube	응축된 대지의 탑 20층 큐브				
+ITEM_20180320_017701	Condensed Earth Tower 25F Cube	응축된 대지의 탑 25층 큐브				
+ITEM_20180320_017702	Condensed Earth Tower 30F Cube	응축된 대지의 탑 30층 큐브				
+ITEM_20180320_017703	Condensed Earth Tower 35F Cube	응축된 대지의 탑 35층 큐브				
+ITEM_20180320_017704	Condensed Earth Tower 40F Cube	응축된 대지의 탑 40층 큐브				
+ITEM_20180320_017705	(Old) The First Refuge Raid Dungeon Cube	(구) 첫 번째 피난처 레이드 던전 큐브	ITEM_20171128_016863	The First Refuge Raid Dungeon Cube	첫 번째 피난처 레이드 던전 큐브	
+ITEM_20180320_017706	Lv 300 Challenge Cube	Lv300 챌린지 보상 큐브	ITEM_20171128_016891	Challenge Cube	챌린지 보상 큐브	
+ITEM_20180320_017707	Lv 200 Challenge Cube	Lv200 챌린지 보상 큐브				
+ITEM_20180320_017708	Shining Golden Socket	빛나는 황금 소켓				
+ITEM_20180320_017709	Helgasercle Card	헬가 세르클 카드	ITEM_20150317_002047	Helgasercle Card	헬가세르클 카드	
+ITEM_20180320_017710	[Grimoire Equip Effect] Summons Helgasercle when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 헬가 세르클 형태의 악마 소환	ITEM_20161214_013143	[Grimoire Equip Effect] Summons Helgasercle when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 헬가세르클 형태의 악마 소환	
+ITEM_20180320_017711	Demon Lord Marnox Card	마군주 마르녹스 카드				
+ITEM_20180320_017712	[Card Equip Effect] Minimum Critical Chance +[{img star_mark 20 20}*2]%	[슬롯 장착 효과] 최소 치명타 확률 [★ * 2]% 증가				
+ITEM_20180320_017713	[Grimoire Equip Effect] Summons Demon Lord Marnox when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 마르녹스 형태의 악마 소환				
+ITEM_20180320_017714	Demon Lord Blut Card	마군주 블룻 카드				
+ITEM_20180320_017715	[Card Equip Effect] [{img star_mark 20 20}*3]% reduced damage taken in PVP	[슬롯 장착 효과] PVP시 받는 대미지 [★ * 3]% 감소				
+ITEM_20180320_017716	[Grimoire Equip Effect] Summons Demon Lord Blut when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 블룻 형태의 악마 소환				
+ITEM_20180320_017717	Demon Lord Zaura Card	마군주 자우라 카드				
+ITEM_20180320_017718	[Card Equip Effect] Physical Defense +[{img star_mark 20 20}*10]%	[슬롯 장착 효과] 물리 방어력 [★ * 10]% 증가				
+ITEM_20180320_017719	[Grimoire Equip Effect] Summons Demon Lord Zaura when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 자우라 형태의 악마 소환				
+ITEM_20180320_017720	Demon Lord Nuaele Card	마군주 누아엘레 카드				
+ITEM_20180320_017721	[Card Equip Effect] Magic Defense +[{img star_mark 20 20}*10]%	[슬롯 장착 효과] 마법 방어력 [★ * 10]% 증가				
+ITEM_20180320_017722	[Grimoire Equip Effect] Summons Demon Lord Nuaele when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 누아엘레 형태의 악마 소환				
+ITEM_20180320_017723	Demon Lord Helgasercle Card	마군주 헬가 세르클 카드				
+ITEM_20180320_017724	[Card Equip Effect] Recover [{img star_mark 20 20}*20] SP per monster defeated	[슬롯 장착 효과] 몬스터 처치 시 1마리당 SP [★ * 20]회복				
+ITEM_20180320_017725	[Grimoire Equip Effect] Summons Demon Lord Helgasercle when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 헬가 세르클 형태의 악마 소환				
+ITEM_20180320_017726	Demon Lord Rexipher Card	마군주 렉시퍼 카드				
+ITEM_20180320_017727	[Card Equip Effect] Movement Speed +[{img star_mark 20 20}]	[슬롯 장착 효과] 이동속도 [★] 증가				
+ITEM_20180320_017728	[Grimoire Equip Effect] Summons Demon Lord Rexipher when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 렉시퍼 형태의 악마 소환				
+ITEM_20180320_017729	Demon Lord Mirtis Card	마군주 미르티스 카드				
+ITEM_20180320_017730	[Card Equip Effect] Reduce property penalties by [{img star_mark 20 20}*10]% 	[슬롯 장착 효과] 속성 상성에 따른 페널티 [★ * 10]% 감소 				
+ITEM_20180320_017731	[Grimoire Equip Effect] Summons Demon Lord Mirtis when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 미르티스 형태의 악마 소환				
+ITEM_20180320_017732	Prodigious Kugheri Balzermancer Card	영험한 쿠게리 발저맨서  카드				
+ITEM_20180320_017733	[Card Equip Effect] EXP Gain +[{img star_mark 20 20}]%	[슬롯 장착 효과] 경험치 획득량 [★]% 증가				
+ITEM_20180320_017734	Heretic Pantorex Card	이단자 판토렉스 카드				
+ITEM_20180320_017735	[Card Equip Effect] Increases damage against Beast-type monsters by [{img star_mark 20 20}*7]%	[슬롯 장착 효과] 야수형 몬스터에게 주는 대미지 [★ * 7]% 증가				
+ITEM_20180320_017736	Ripped Legend Enhancement Card	찢어진 레전드 강화용 카드				
+ITEM_20180320_017737	Use to enhance Legend cards up to Lv4.{nl}Cannot be equipped or used to enhance non-Legend cards.	레전드 카드 강화에 사용할 수 있는 강화용 카드입니다. LV4까지 성장할 수 있습니다.{nl}레전드 강화용 카드는 착용 및 일반 카드 합성 재료로 사용할 수 없습니다.				
+ITEM_20180320_017738	Old Legend Enhancement Card	오래된 레전드 강화용 카드				
+ITEM_20180320_017739	Use to enhance Legend cards up to Lv6.{nl}Cannot be equipped or used to enhance non-Legend cards.	레전드 카드 강화에 사용할 수 있는 강화용 카드입니다. LV6까지 성장할 수 있습니다.{nl}레전드 강화용 카드는 착용 및 일반 카드 합성 재료로 사용할 수 없습니다.				
+ITEM_20180320_017740	Legend Enhancement Card	레전드 강화용 카드				
+ITEM_20180320_017741	Use to enhance Legend cards up to Lv8.{nl}Cannot be equipped or used to enhance non-Legend cards.	레전드 카드 강화에 사용할 수 있는 강화용 카드입니다. LV8까지 성장할 수 있습니다.{nl}레전드 강화용 카드는 착용 및 일반 카드 합성 재료로 사용할 수 없습니다.				
+ITEM_20180320_017742	Shining Legend Enhancement Card	빛나는 레전드 강화용 카드				
+ITEM_20180320_017743	Use to enhance Legend cards up to Lv10.{nl}Cannot be equipped or used to enhance non-Legend cards.	레전드 카드 강화에 사용할 수 있는 강화용 카드입니다. LV10까지 성장할 수 있습니다.{nl}레전드 강화용 카드는 착용 및 일반 카드 합성 재료로 사용할 수 없습니다.				
+ITEM_20180320_017744	Gem Abrasive: 3000	젬 연마제: 3000	ITEM_20150714_005273	Lv1 Gem Abrasive	LV1 젬 연마제	
+ITEM_20180320_017745	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 3000	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 3000	ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.	
+ITEM_20180320_017746	Time Crystal	시간의 결정	ITEM_20150428_005036	Dimensional Fragment	차원의 조각	
+ITEM_20180320_017747	Gem Abrasive: 15500	젬 연마제: 15500	ITEM_20150714_005274	Lv2 Gem Abrasive	LV2 젬 연마제	
+ITEM_20180320_017748	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 15500	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다. {nl} - 획득 젬 경험치: 15500	ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.	
+ITEM_20180320_017749	Gem Abrasive: 31000	젬 연마제: 31000	ITEM_20151001_006979	Lv3 Gem Abrasive	LV3 젬 연마제	
+ITEM_20180320_017750	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 31000	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 31000	ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.	
+ITEM_20180320_017751	Gem Abrasive: 62000	젬 연마제: 62000	ITEM_20151001_006980	Lv4 Gem Abrasive	LV4 젬 연마제	
+ITEM_20180320_017752	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 62000	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 62000	ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.	
+ITEM_20180320_017753	Gem Abrasive: 124000	젬 연마제: 124000	ITEM_20151001_006981	Lv5 Gem Abrasive	LV5 젬 연마제	
+ITEM_20180320_017754	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 124000	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 124000	ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.	
+ITEM_20180320_017755	2-Star Gem Abrasive	2성 젬 연마제	ITEM_20151022_007498	Basic Gem Abrasive	하급 젬 연마제	
+ITEM_20180320_017756	3-Star Gem Abrasive	3성 젬 연마제	ITEM_20151022_007499	Intermediate Gem Abrasive	중급 젬 연마제	
+ITEM_20180320_017757	4-Star Gem Abrasive	4성 젬 연마제	ITEM_20151022_007500	Advanced Gem Abrasive	고급 젬 연마제	
+ITEM_20180320_017758	5-Star Gem Abrasive	5성 젬 연마제				
+ITEM_20180320_017759	7-Star Gem Abrasive	7성 젬 연마제	ITEM_20160224_010177	Lv9 Gem Abrasive	LV9 젬 연마제	
+ITEM_20180320_017760	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 230700	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 230700				
+ITEM_20180320_017761	8-Star Gem Abrasive	8성 젬 연마제	ITEM_20160224_010178	Lv10 Gem Abrasive	LV10 젬 연마제	
+ITEM_20180320_017762	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 1094700	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 1094700				
+ITEM_20180320_017763	4-Star Gem Abrasive: 14 Days	4성 젬 연마제:14일	ITEM_20161005_011774	Advanced Gem Abrasive: 14 Days	고급 젬 연마제:14일	
+ITEM_20180320_017764	Used to enhance gems. It drastically increases a gem's EXP. Upon pick-up, use within 14 days.{nl}- Gem EXP Gain: 3900	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다. 획득 후부터 14일동안 사용 가능합니다.{nl} - 획득 젬 경험치: 3900	ITEM_20161005_011775	Used to enhance gems. It drastically increases the EXP of a gem. Upon pick-up, use within 14 days.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다. 획득 후부터 14일동안 사용 가능합니다.	
+ITEM_20180320_017765	5-Star Gem Abrasive: 14 Days	5성 젬 연마제:14일	ITEM_20161005_011776	Superior Gem Abrasive: 14 Days	최고급 젬 연마제:14일	
+ITEM_20180320_017766	Used to enhance gems. It drastically increases a gem's EXP. Upon pick-up, use within 14 days.{nl}- Gem EXP Gain: 	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다. 획득 후부터 14일동안 사용 가능합니다.{nl} - 획득 젬 경험치: 14700	ITEM_20161005_011775	Used to enhance gems. It drastically increases the EXP of a gem. Upon pick-up, use within 14 days.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다. 획득 후부터 14일동안 사용 가능합니다.	
+ITEM_20180320_017767	Shining 7-Star Gem Abrasive	빛나는 7성 젬 연마제	ITEM_20161214_013200	Shining Lv9 Gem Abrasive	빛나는 LV9 젬 연마제	
+ITEM_20180320_017768	Shining 8-Star Gem Abrasive	빛나는 8성 젬 연마제	ITEM_20161214_013201	Shining Lv10 Gem Abrasive	빛나는 LV10 젬 연마제	
+ITEM_20180320_017769	Shining Gem Abrasive: 145340	빛나는 젬 연마제: 145340	ITEM_20170615_015002	Shining LV 7 Gem Abrasive	빛나는 LV7 젬 연마제	
+ITEM_20180320_017770	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 145340	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다. {nl} - 획득 젬 경험치: 145340	ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.	
+ITEM_20180320_017771	Bookshelf of Ripped Books	찢어진 책의 책장				
+ITEM_20180320_017772	A page ripped off a book, like the kind the Sage Master is collecting. Gather a few of these pages and take them to the Sage Master to exchange them for something else.	세이지 마스터가 최근 모으고 있다는 찢어진 책의 책장입니다. 책장을 모아 세이지 마스터에게 가져다주면 책 또는 아이템으로 교환해줍니다.				
+ITEM_20180320_017773	Guild Quest Reward Coin: Bronze	길드 퀘스트 보상 주화 : 동				
+ITEM_20180320_017774	A coin used to gain +100 guild EXP.	길드 경험치를 +100 상승시킬 수 있는 아이템입니다.				
+ITEM_20180320_017775	Guild Quest Reward Coin: Silver	길드 퀘스트 보상 주화 : 은				
+ITEM_20180320_017776	A coin used to gain +200 guild EXP.	길드 경험치를 +200 상승시킬 수 있는 아이템입니다.				
+ITEM_20180320_017777	Guild Quest Reward Coin: Gold	길드 퀘스트 보상 주화 : 금				
+ITEM_20180320_017778	A coin used to gain +400 guild EXP.	길드 경험치를 +400 상승시킬 수 있는 아이템입니다.				
+ITEM_20180320_017779	Belorb	벨로브				
+ITEM_20180320_017780	This Belorb is a copy produced by the Magic Association which, despite looking similar to original Belorbs, does not possess the full extent of their power.{nl}Belorbs were once divine objects kept by demons and goddesses. In fact, the outbreak of the Divine Tree occurred when demons interrupted their supply of Belorbs, which the Tree requires in order to function.	이 벨로브는 마법 협회에서 복제한 벨로브입니다. 복제는 성공했지만 원래의 강력한 효과에는 못 미칩니다.{nl}대부분의 사람들은 모르지만, 벨로브는 실은 여신과 마족들이 관리하던 신계의 물질입니다.{nl}벨로브는 창조신인 신수에게 일정 주기로 반드시 공급되어야 했으나, 마족들이 그 공급을 중단하였고, 그 결과 신수의 폭주가 발생하였습니다.				
+ITEM_20180320_017781	Time Crystal Fragment	시간의 결정 파편				
+ITEM_20180320_017782	Enhancement Card: 100	강화용 카드 : 100				
+ITEM_20180320_017783	A card used to enhance a card. Increases a card's EXP by 100.	카드를 강화할 때 사용하는 강화용 카드입니다. 카드의 경험치를 100 만큼 상승시킵니다.				
+ITEM_20180320_017784	Emoticon: Kupole (Cheeky)	이모티콘: 큐폴(데헷)				
+ITEM_20180320_017785	Emoticon: Kupole (Nervous)	이모티콘: 큐폴(땀땀)				
+ITEM_20180320_017786	Emoticon: Kupole (Shocked)	이모티콘: 큐폴(충격)				
+ITEM_20180320_017787	Emoticon: Kupole (Evil)	이모티콘: 큐폴(히죽)				
+ITEM_20180320_017788	Emoticon: Kupole (Sigh)	이모티콘: 큐폴(한숨)				
+ITEM_20180320_017789	Emoticon: Kupole (Peace)	이모티콘: 큐폴(더블피스)				
+ITEM_20180320_017790	Pheltremin	펠트레민				
+ITEM_20180320_017791	High elasticity mineral created through the combination of Phydecium and Mithril. Used as a material for other items.	피데슘과 미스릴을 일정 비율로 섞어 제작된 탄성이 뛰어난 광물로 성질이 변했습니다. 아이템의 재료로 사용됩니다.				
+ITEM_20180320_017792	Ulstermite	울스터마이트				
+ITEM_20180320_017793	Mineral of high fire properties created through the combination of Terranium and Mithril. Used as a material for other items.	붉은 기운을 띈 테라늄과 미스릴을 일정 비율로 섞어 제작된 강렬한 화속성 기운을 머금은 금속입니다. 아이템의 재료로 사용됩니다.				
+ITEM_20180320_017794	Right-click to use. Upon use, the companion is immediately registered.{nl}- Can be mounted without a riding skill, and your character will not dismount when attacked. If you attack, however, you dismount automatically.{nl}- Use the mounting shortcut keys to ride the Sled from wherever you are.{nl}- Buff: +6 movement speed.{nl}- Cannot be used with mounted skills.{nl}- Can be exchanged for medals.	마우스 오른쪽 클릭으로 사용 가능하며, 사용 시 바로 컴패니언으로 등록됩니다. {nl}- 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승할 수 있고 피격에도 내리지 않습니다. 단, 공격 시 탑승 상태가 해제됩니다.{nl}- 탑승 단축키를 이용하여 썰매와 거리 관계 없이 바로 탑승 가능합니다. {nl}- 탑승 버프 이동속도가 6으로 증가합니다.{nl}- 컴패니언을 이용한 스킬을 사용할 수 없습니다.{nl}- 리사이클 메달로 교환 가능합니다.	ITEM_20171207_017203	Right-click to use and register your companion.{nl}This companion can be mounted without the riding skill and you will now dismount when attacked.{nl}Use the shortcut keys to mount it anywhere.{nl}Increases movement speed by 6 when mounted.{nl}Cannot use mounted skills while riding this companion.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl}- 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능하고 피격에도 내리지 않습니다. {nl}- 탑승 단축키를 이용하여 어디서든 탑승 가능합니다. {nl}- 탑승 버프 이동속도가 4로 증가합니다.{nl}- 컴패니언을 이용한 스킬을 사용할 수 없습니다.	
+ITEM_20180320_017795	Use to open the popup book. Use again to put it away. Interact with the open book to play the background music. The book closes automatically after 10 minutes.{nl}Can be exchanged for medals at the Exchange Shop.	사용 시 팝업북이 생성됩니다. 재사용 시 팝업북이 사라집니다. 팝업북과 대화를 하시면 배경음악이 변경됩니다. 생성 후 10분 뒤에 팝업북이 자동으로 사라집니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20180320_017796	#N/A	하이레이번의 비공식 항해일지1				
+ITEM_20180320_017797	Story of Hayraven. Right-click to read. 	하이레이번에 대한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017798	#N/A	하이레이번의 비공식 항해일지2				
+ITEM_20180320_017799	Golden Note - War Journal Vol.1	황금노래용병단 일지 : 참전				
+ITEM_20180320_017800	Story of the Golden Note mercenaries. Right-click to read. 	황금노래용병단에 대한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017801	Golden Note - War Journal Vol.2	황금노래용병단 일지 : 종전				
+ITEM_20180320_017802	Master of the Arena Vol. 1	투기장의 주인1				
+ITEM_20180320_017803	Story of the battle arena. Right-click to read. 	투기장에 대한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017804	Master of the Arena Vol. 2	투기장의 주인2				
+ITEM_20180320_017805	Literature of the Kingdom: The Polanyi Territories Vol. 1	왕국문헌 폴라니 영지1				
+ITEM_20180320_017806	Story of the Pledge of the Blade mercenaries. Right-click to read. 	칼날서약단에 대한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017807	Literature of the Kingdom: The Polanyi Territories Vol. 2	왕국문헌 폴라니 영지2				
+ITEM_20180320_017808	#N/A	니코폴리스의 기원				
+ITEM_20180320_017809	Story of the origin of Nicopolis. Right-click to read. 	니코폴리스의 기원에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017810	#N/A	왕릉의 전설				
+ITEM_20180320_017811	Story of the royal mausoleum of Zachariel the Great. Right-click to read. 	자카리엘 왕릉에 관해 전해져오는 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017812	#N/A	현대 마스터 총람 3권				
+ITEM_20180320_017813	Story of the current Class Masters, written by the Sage Master. Right-click to read. 	세이지 마스터가 집필한 현재 마스터들에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017814	#N/A	태고의 사건들 : 보루타에 관하여				
+ITEM_20180320_017815	Story of the legendary dragon Boruta. Right-click to read. 	전설의 용 보루타에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017816	#N/A	허먼메데일 도하 사건				
+ITEM_20180320_017817	Story of the Herrmun-Madale river crossing incident during the era of Jeromel I. Right-click to read. 	제르멜 1세 때 있었던 허먼메데일 도하 사건에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017818	#N/A	타오카카의 모험				
+ITEM_20180320_017819	Story of Taokaka's adventure during the era of King Melkhiel. Right-click to read. 	멜키엘 국왕 시절에 창작된 타오카카의 모험 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017820	#N/A	크리델라 오테로 이야기 1권				
+ITEM_20180320_017821	Story of Matador Master Chridela Otero. Right-click to read. 	마타도르 마스터인 크리델라 오테로에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017822	#N/A	크리델라 오테로 이야기 2권				
+ITEM_20180320_017823	#N/A	질럿 마스터 이야기 1권				
+ITEM_20180320_017824	Story of Zealot Master Eliza Tal. Right-click to read. 	질럿 마스터인 엘리자 탈에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017825	#N/A	섀도우맨서 마스터의 실험기 1권				
+ITEM_20180320_017826	Story of Shadowmancer Master Eclipse Ubik. Right-click to read. 	섀도우맨서 마스터인 이클립스 유빅에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017827	#N/A	겨울의 부싯돌				
+ITEM_20180320_017828	Story of Bullet Marker Flint Winterwood. Right-click to read. 	불릿 마커 마스터인 플린트 윈터우드에 관한 이야기. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017829	Opinion about the Nheto Forest Paintings written by Chronomancer Master Lucid Winterspoon. Right-click to read. 	크로노맨서 마스터인 루시드 윈터스푼이 작성한 네토 숲의 단풍화에 관한 소견서. 마우스 우클릭으로 읽을 수 있습니다. 				
+ITEM_20180320_017830	[E-Run] 5-Star Gem Abrasive	[E-Run] 5성 젬 연마제	ITEM_20171128_016932	[E-Run] Shining Superior Gem Abrasive	[E-Run] 최고급 젬 연마제	
+ITEM_20180320_017831	Used to enhance gems. Amplifies the EXP of gems.{nl}Gem EXP Gain: 14700{nl}Will be deleted when the event period ends.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700{nl}1월 18일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016933	Used to enhance gems, Amplifies the EXP of gems	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180320_017832	Special Blue Orb	특별한 푸른 구슬	ITEM_20171013_015793	Tamer's Blue Orb	특별한 블루 오브	
+ITEM_20180320_017833	 during the event mission.{nl}Will be deleted when the event period ends. 	에서만 사용 가능합니다.{nl}2월 22일 점검 시, 일괄 삭제됩니다.	ITEM_20171013_015796	during the event mission.{nl}Will be deleted when the event period ends.	에서만 사용 가능합니다.{nl}이벤트 종료 후 일괄 삭제됩니다.	
+ITEM_20180320_017834	Will install a monster trap when used.{nl}Will be deleted when the event period ends. 	사용시 포획용 덫이 설치됩니다.{nl}2월 22일 점검 시, 일괄 삭제됩니다.	ITEM_20171013_015798	Will install a monster trap when used.{nl}Will be deleted when the event period ends.	사용시 포획용 덫이 설치됩니다.{nl}이벤트 종료 후 일괄 삭제됩니다.	
+ITEM_20180320_017835	Event material item.{nl}Can be used to increase the level of captured monsters.{nl}Will be deleted when the event period ends. 	이벤트 재료 아이템입니다.{nl}포획한 몬스터 레벨을 증가시킬 수 있습니다.{nl}2월 22일 점검 시, 일괄 삭제됩니다.	ITEM_20171013_015800	Event material item.{nl}Can be used to increase the level of captured monsters.{nl}Will be deleted when the event period ends.	이벤트 재료 아이템입니다.{nl}포획한 몬스터 레벨을 증가시킬 수 있습니다.{nl}이벤트 종료 후 일괄 삭제됩니다.	
+ITEM_20180320_017836	Use to obtain a random reward item.{nl}Will be deleted after the event period.	사용시 보상 아이템 중 한가지 아이템이 랜덤으로 지급됩니다.{nl}2월 22일 점검 시, 일괄 삭제됩니다.	ITEM_20171120_015895	Use to obtain one of the following random items.{nl}- Believer's Potion{nl}- Talt{nl}- Fortune Cookie{nl}- Attribute Points: 500{nl}- Attribute Points: 1,000{nl}- Advanced Gem Abrasive: 14 Days{nl}- Instance Multiply Token (14 Days){nl}- Enchant Scroll (14 Days){nl}- Silver Anvil (14 Days){nl}- Event Armor{nl}- Lv 315 Event Weapon	사용시 무작위로 1개 아이템이 지급됩니다.{nl} - 수행자의 포션{nl} - 탈트{nl} - 포춘쿠키{nl} - 특성 포인트 500{nl} - 특성 포인트 1000{nl} - 고급 젬 연마제:14일{nl} - 인스턴스 던전 배수 토큰(14일){nl} - 마법 부여 스크롤(14일){nl} - 은빛 모루(14일){nl} - 다이아몬드 모루(14일){nl} - 이벤트용 뉴트 방어구{nl} - 315제 이벤트용 무기	
+ITEM_20180320_017837	Blue Fragment	푸른색 조각	ITEM_20171013_015817	Pieces of Blue Orb	블루 오브 조각	
+ITEM_20180320_017838	Event material item.{nl}Can be exchanged for useful items.{nl}Will be deleted when the event period ends.	이벤트 재료 아이템입니다.{nl}쓸모있는 아이템으로 교환이 가능합니다.{nl}2월 22일 점검 시, 일괄 삭제됩니다.	ITEM_20171013_015818	Event material item.{nl}Can be exchanged for useful items.{nl}Will be deleted when the event period ends.	이벤트 재료 아이템입니다.{nl}쓸모있는 아이템으로 교환이 가능합니다.{nl}이벤트 종료 후 일괄 삭제됩니다.	
+ITEM_20180320_017839	Created to celebrate TOS' 2nd Anniversary.	2주년 이벤트 아이템입니다.				
+ITEM_20180320_017840	2nd Anniversary Seeds	2주년 씨앗				
+ITEM_20180320_017841	Created to celebrate TOS' 2nd Anniversary.{nl}Can be exchanged for items at the event shop. Will be deleted after the event period.	2주년 기념 이벤트로 지급하는 아이템입니다.{nl}이벤트 상점에서 이벤트 아이템과 교환할 수 있습니다.1월 25일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180320_017842	Christmas Firecracker	크리스마스 이벤트용 폭죽				
+ITEM_20180320_017843	Christmas event item. Will be deleted after the event period.	크리스마스 이벤트용 아이템입니다. 1월 25일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180320_017844	Challenge Portal Scroll (14 Days)	챌린지 포탈 생성 스크롤(14일)				
+ITEM_20180320_017845	Use to create a Challenge Portal.	사용 시 챌린지 포탈이 생성 됩니다.				
+ITEM_20180320_017846	Frozen Monster Card Album	눈 덮인 몬스터 카드첩				
+ITEM_20180320_017847	A card album covered in snow. You're advised to read it in a quiet, secluded place.{nl}Can be used from level 100 and up.{nl}Use to summon a level 330 boss monster. The summoned boss disappears after 10 minutes.{nl}Can only be used in fields.	눈 덮인 카드첩입니다. 조용하고 한적한 곳에서 읽어보시길 추천합니다.{nl}100레벨 이상 사용가능{nl}사용시 330LV의 보스 몬스터가 소환됩니다. 소환된 보스는 10분 후 사라집니다.{nl}필드에서만 사용할 수 있습니다.				
+ITEM_20180320_017848	Christmas Gift Key	성탄 선물 열쇠				
+ITEM_20180320_017849	Christmas event item. Will be deleted after the event period. 	크리스마스 이벤트용 아이템입니다.{nl}12월24일, 25일 레티샤 옆에 생성되는 				
+ITEM_20180320_017850	 Take it to the event NPC to receive your reward. Will be deleted after the event period.	 NPC에게 가지고 가면 보상 아이템을 받으실 수 있습니다.{nl}12월 28일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180320_017851	New Year's Card	연하장				
+ITEM_20180320_017852	A 2018 New Year's card.	구원자님께 드리는 2018년 연하장입니다.				
+ITEM_20180320_017853	Monster Card Album: Black	몬스터 카드첩 : 블랙				
+ITEM_20180320_017854	A card album emitting an ominous energy. You're advised to read it in a quiet, secluded place.{nl}Can be used from level 300 and up.{nl}Use to summon a level 330 boss monster or a field boss monster (higher field boss monsters will drop cubes).{nl}The summoned boss disappears after 10 minutes (field boss monsters disappear after 120 minutes).{nl}Can only be used in fields.	불길한 기운이 느껴지는 카드첩입니다. 조용하고 한적한 곳에서 읽어보시길 추천합니다.{nl}300레벨 이상 사용가능{nl}사용시 330LV의 카드 보스 몬스터와 필드 보스 몬스터 중 1종이 소환됩니다.(상위 필드 보스 소환 시 해당 보스의 큐브를 획득할 수 있습니다.){nl}소환된 보스는 10분 후 사라집니다. 단, 상위 필드 보스의 경우 120분 후에 사라집니다.{nl}필드에서만 사용할 수 있습니다.				
+ITEM_20180320_017855	Adventurer's Token	탐험가의 증표				
+ITEM_20180320_017856	A token made by Anastazija as proof of all the locations she explored. 	탐험가 아나스타지야가 자신이 탐험했다는 것을 남기기 위해 만들어둔 증표입니다. 증표의 뒷면에는 				
+ITEM_20180320_017857	I, Anastazija, have explored this entire region	나, 아나스타지야가 이곳 전부를 탐험함.				
+ITEM_20180320_017858	Is engraved on the back of the token.	이라고 적혀있습니다.				
+ITEM_20180402_017859	Preppy Freshman School Uniform (Male)	새내기 사립 교복 코스튬(남)				
+ITEM_20180402_017860	Your classic private academy uniform. Use to change your appearance.	새내기 사립 교복 코스튬입니다. 착용하면 외형이 변경됩니다.				
+ITEM_20180402_017861	Preppy Freshman School Uniform (Female)	새내기 사립 교복 코스튬(여)				
+ITEM_20180402_017862	Mint Freshman School Uniform (Male)	새내기 민트 교복 코스튬(남)				
+ITEM_20180402_017863	Look minty fresh and ready for school. Use to change your appearance.	새내기 민트 교복 코스튬입니다. 착용하면 외형이 변경됩니다.				
+ITEM_20180402_017864	Pink Freshman School Uniform (Female)	새내기 벚꽃 교복 코스튬(여)				
+ITEM_20180402_017865	The best uniform for the Spring semester. Use to change your appearance.	새내기 벚꽃 교복 코스튬입니다. 착용하면 외형이 변경됩니다.				
+ITEM_20180402_017866	Student Council School Uniform (Male)	반듯한 학생 회장 교복 코스튬(남)				
+ITEM_20180402_017867	For the student who is wise and responsible. Use to change your appearance.	반듯한 학생 회장 교복 코스튬입니다. 착용하면 외형이 변경됩니다.				
+ITEM_20180402_017868	Mint Freshman School Uniform (Female)	새내기 민트 교복 코스튬(여)				
+ITEM_20180402_017869	Pink Freshman School Uniform (Male)	새내기 벚꽃 교복 코스튬(남)				
+ITEM_20180402_017870	Student Council School Uniform (Female)	반듯한 학생 회장 교복 코스튬(여)				
+ITEM_20180402_017871	Trouble Gang School Uniform (Male)	흑골 불량 서클 교복 코스튬(남)				
+ITEM_20180402_017872	You may be suspended for wearing this to school. Use to change your appearance.	흑골 불량 서클 교복 코스튬입니다. 착용하면 외형이 변경됩니다.				
+ITEM_20180402_017873	Trouble Gang School Uniform (Female)	흑골 불량 서클 교복 코스튬(여)				
+ITEM_20180402_017874	Velcoffer Horns	벨코퍼의 뿔				
+ITEM_20180402_017875	An ornament made from the horns of Velcoffer's guards, said to inspire terror in all the little demons.{nl}Can be exchanged for medals at the Exchange Shop.	벨코퍼 가드의 뿔을 축소하여 만든 장식입니다.{nl}어지간한 작은 악마들은 뿔을 보고 겁에 질린다고 합니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20180402_017876	Velcoffer Wings Ornament	벨코퍼의 날개 장식				
+ITEM_20180402_017877	An ornament made to the image of Velcoffer's wings. The resemblance is uncanny.{nl}Can be exchanged for medals at the Exchange Shop.	벨코퍼 가드의 날개를 본떠 제작한 장식입니다.{nl}왠지 모를 힘이 느껴집니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20180402_017878	Genealogical Standards Manual	족보의 정석 교과서				
+ITEM_20180402_017879	Wear this book on your head to absorb the information it contains.{nl}Can be exchanged for medals at the Exchange Shop.	이 책에는 여러분이 알 수 없는 많은 것이 들어있습니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20180402_017880	Nerd Glasses	선배 안경				
+ITEM_20180402_017881	You're not a committed nerd until you're wearing these glasses.{nl}Can be exchanged for medals at the Exchange Shop.	검은 뿔테는 공부하는 선배들의 필수 아이템입니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20180402_017882	Fancy Backpack	명품 책가방				
+ITEM_20180402_017883	The latest in designer backpacks.{nl}Can be exchanged for medals.	수제 명품 책가방 지금이 마지막 기회입니다. 단, 실제 비행은 불가능합니다.{nl} 리사이클 메달로 교환 가능합니다.				
+ITEM_20180402_017884	Good Student Stamp	참 잘했어요 스탬프				
+ITEM_20180402_017885	Jump to display the effect.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프시 참 잘했어요 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20180402_017886	Freshman School Uniform Box (Male)	신학기 교복 코스튬 상자 (남)				
+ITEM_20180402_017887	Freshman School Uniform Box (Female)	신학기 교복 코스튬 상자 (여)				
+ITEM_20180413_017888	An armband given to beta testers of the new Guild Territory Wars.	콜로니전 베타 참여자에게 지급되는 암밴드 입니다.				
+ITEM_20180413_017889	Shining 9 Star Gem Abrasive	빛나는 9성 젬 연마제				
+ITEM_20180413_017890	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 5414700	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 5414700				
+ITEM_20180413_017891	Challenge Portal Scroll	챌린지 포탈 생성 스크롤				
+ITEM_20180413_017892	Title - No. 1 Territory Wars Tester	칭호 - No. 1 Territory Wars Tester				
+ITEM_20180413_017893	A title given to players who provided the best feedback on the Guild Territory Wars.	콜로니전 우수 피드백 유저에게 주어지는 칭호입니다.				
+ITEM_20180418_017894	TOS Specialty Armband	TOS 스페셜티 암밴드				
+ITEM_20180418_017895	A special armband for a special savior. 	뇌오세의 스페셜리스트임을 증명하는 암밴드입니다.				
+ITEM_20180418_017896	Two-handed Sword [Strike]	양손검[때리기]				
+ITEM_20180418_017897	Rod [Strike]	로드[때리기]				
+ITEM_20180418_017898	One-handed Blunt [Strike]	한손둔기[때리기]				
+ITEM_20180418_017899	Two-handed Blunt [Strike]	양손둔기[때리기]				
+ITEM_20180418_017900	Staff [Strike]	스태프[때리기]				
+ITEM_20180418_017901	The magic extracted from ferns can be made to possess either light seeking or shunning characteristics. However, due to cost and practicality reasons, it is made to resist darkness even if it is theoretically possible to make it resist light.	고사리의 특징에서 뽑아내는 마력으로 지양성과 혐광성 가운에 어느 한쪽의 성질을 지니게 할 수 있습니다. 그러나 비용과 실용성을 고려하여 어둠에 저항하도록 만들게 되고 그 반대로 만드는 일은 이론상 가능하여도 실제로 제작되지 않습니다.				
+ITEM_20180418_017902	Some wizards tried but have failed to find if the new appearance of magical items in the Allerno region is due to the demons. Items that resist darkness such as this are proof that the theory is unlikely.	어떤 마법사들은 아렐르로 지방에 새로운 마법물품이 나타난 일이 마족의 소행인지 알아내려 했으나 정확한 근거를 찾지 못했습니다. 그러나 이 장비처럼 어둠속성 저항력을 지닌 장비로 볼 때 마족기원설은 근거가 약하다는 것이 중론입니다.	ITEM_20151022_007401	Some mages tried to find if whether the new appearances of magical items in the Allerno region is due to demons but failed to do so. Items that resist darkness such as this are proof that the theory is unlikely.	어떤 마법사들은 아렐르로 지방에 새로운 마법물품이 나타난 일이 마족의 소행인지 알아내려 했으나 정확한 근거를 찾지 못했습니다. 그러나 이 장비처럼 암흑속성 저항력을 지닌 장비로 볼 때 마족기원설은 근거가 약하다는 것이 중론입니다.	
+ITEM_20180418_017903	Something of equal equivalence must be paid when depending on the dark energy.	어둠의 힘에 의지하면 상응하는 대가가 있기 마련입니다.	ITEM_20160520_010471	Something equivalent must be paid when depending on the dark energy.	암흑의 힘에 의지하면 상응하는 대가가 있기 마련입니다.	
+ITEM_20180418_017904	Sugar Necklace (Physical) (7 Days)	화이트데이 목걸이 (물리)(7일)				
+ITEM_20180418_017905	Special items for a sugary filled day. Equip with the Sugar Bracelet to complete the set and receive the effects. This item will be deleted when the event is over.	화이트데이 이벤트 아이템입니다. 화이트데이 팔찌와 함께 착용하면 세트 효과를 얻습니다. 4월 5일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_017906	Sugar Necklace (Magic) (7 Days)	화이트데이 목걸이 (마법)(7일)				
+ITEM_20180418_017907	A slightly broken necklace, which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 목걸이로, 어둠속성 공격을 막아내는 데 탁월한 효능을 보이지만, 살짝 망가져 있는 것으로 보입니다.	ITEM_20160623_010653	A slightly broken necklace, which seems to be very effective at blocking Dark property damage. It is said to have been found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 목걸이로, 암흑속성 공격을 막아내는 데 탁월한 효능을 보이지만, 살짝 망가져 있는 것으로 보입니다.	
+ITEM_20180418_017908	A necklace which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 목걸이로, 어둠속성 공격을 막아내는 데 탁월한 효능을 보입니다.	ITEM_20160623_010661	A necklace which seems to be very effective at blocking Dark property damage. It is said to have been found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 목걸이로, 암흑속성 공격을 막아내는 데 탁월한 효능을 보입니다.	
+ITEM_20180418_017909	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Fireball{nl} - Fire Wall{nl} - Flare{nl} - Fire Pillar{nl} - Hell Breath{nl} - Flame Ground{nl} - Meteor{nl} - Incineration{nl} - Prominence{nl} - Combustion{nl} - Immolation	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}   - 파이어볼{nl}   - 파이어월{nl}   - 플레어{nl}   - 파이어 필라{nl}   - 헬브레스{nl}   - 플레임 그라운드{nl}   - 메테오{nl}   - 소각{nl}   - 홍염{nl}   - 컴버스천{nl}   - 이몰레이션	ITEM_20170420_014530	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}  - Fireball, Fire Wall, Flare, Fire Pillar, Hell Breath, Flame Ground, Meteor, Incineration, Prominence	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}  - 파이어볼, 파이어월, 플레어, 파이어 필라, 헬브레스, 플레임 그라운드, 메테오, 소각, 홍염	
+ITEM_20180418_017910	Electra Necklace	일렉트라 네클리스	ITEM_20161006_012670	Test Lightning Necklace	테스트 전격 네클리스	
+ITEM_20180418_017911	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Electrocute{nl} - Zaibas{nl} - Divine Punishment{nl} - Fanatic Illusion	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}   - 일렉트로큐트{nl}   - 자이바스{nl}   - 천형부{nl}   - 파나틱 일루젼				
+ITEM_20180418_017912	A necklace made from crystal struck by lightening. It feels as though it could give you a shock. 	번개 맞은 수정을 이용하여 제작했습니다. 왠지 모르게 찌릿찌릿한 느낌이지만 그냥 느낌일 뿐입니다. 				
+ITEM_20180418_017913	Ledas Necklace	레다스 네클리스	ITEM_20161006_012671	Test Glacier Necklace	테스트 빙한 네클리스	
+ITEM_20180418_017914	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Ice Bolt{nl} - Ice Pike{nl} - Ice Blast{nl} - Snow Rolling{nl} - Frost Pillar{nl} - Hail{nl} - Freezing Sphere{nl} - Water Shikigami	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}   - 아이스볼트{nl}   - 아이스파이크{nl}   - 아이스 블래스트{nl}   - 스노우 롤링{nl}   - 프로스트필라{nl}   - 헤일{nl}   - 프리징 스피어{nl}   - 살수의 식신령				
+ITEM_20180418_017915	Made by a talented craftsman using icicles that will never melt. Wear it in the summer and you will feel especially cool. 	누군가 흘린 얼음 조각이 녹지 않는 것을 신기하게 여긴 장인이 세공하여 만들었습니다. 여름에 착용하면 매우 시원합니다.				
+ITEM_20180418_017916	Zemej Necklace	제메이 네클리스				
+ITEM_20180418_017917	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Earthquake{nl} - Storm Dust{nl} - Greenwood Shikigami{nl} - Toyou	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가 {nl}   - 어스퀘이크{nl}   - 스톰 더스트{nl}   - 생목의 식신령{nl}   - 토용				
+ITEM_20180418_017918	Emits an unidentifiable warm energy. Equip it and your body will become warm and your cares will fade away.	알수 없는 푸근한 기운이 감돌고 있습니다. 착용하기만해도 마음이 편안해지고 몸이 단단해집니다.				
+ITEM_20180418_017919	A necklace occasionally found in the labyrinth that has been treated to various transmutations and has become very effective at blocking Dark property damage.	미궁 깊은곳에서 종종 발견된다고 하는 목걸이에 여러가지 연성 과정을 거쳐, 어둠속성 공격을 막아내는것에 매우 효과적입니다.	ITEM_20160623_010669	A necklace occasionally found in the labyrinth that has been treated to various transmutations and has become very effective at blocking Dark property damage.	미궁 깊은곳에서 종종 발견된다고 하는 목걸이에 여러가지 연성 과정을 거쳐, 암흑속성 공격을 막아내는것에 매우 효과적입니다.	
+ITEM_20180418_017920	Sugar Bracelet (Physical) (7 Days)	화이트데이 팔찌 (물리)(7일)				
+ITEM_20180418_017921	Special items for a sugary filled day. Equip with the Sugar Necklace to complete the set and receive the effects. This item will be deleted when the event period ends.	화이트데이 이벤트 아이템입니다. 화이트데이 목걸이와 함께 착용하면 세트 효과를 얻습니다. 4월 5일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_017922	Sugar Bracelet (Magic) (3 Days)	화이트데이 팔찌 (마법)(7일)				
+ITEM_20180418_017923	A slightly broken bracelet, which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 팔찌로, 어둠속성 공격을 막아내는 데 탁월한 효능을 보이지만, 살짝 망가져 있는 것으로 보입니다.	ITEM_20160623_010675	A slightly broken bracelet, which seems to be very effective at blocking Dark property damage. It is said to have been found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 팔찌로, 암흑속성 공격을 막아내는 데 탁월한 효능을 보이지만, 살짝 망가져 있는 것으로 보입니다.	
+ITEM_20180418_017924	A bracelet which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 팔찌로, 어둠속성 공격을 막아내는 데 탁월한 효능을 보입니다.	ITEM_20160623_010683	A bracelet which seems to be very effective at blocking Dark property damage. It is said to have been found occasionally deep inside the labyrinth.	미궁 깊은곳에서 종종 발견된다고 하는 팔찌로, 암흑속성 공격을 막아내는 데 탁월한 효능을 보입니다.	
+ITEM_20180418_017925	A bracelet occasionally found in the labyrinth that has become very effective at blocking Dark property damage due to the various materials added to it.	미궁 깊은곳에서 나온 팔찌에 여러 재료를 덧붙인 것으로, 어둠속성 공격을 막아내는것에 매우 탁월한 효능을 보입니다.	ITEM_20160623_010691	A necklace occasionally found in the labyrinth that has various materials added on to become very effective at blocking Dark property damage.	미궁 깊은곳에서 나온 팔찌에 여러 재료를 덧붙인 것으로, 암흑속성 공격을 막아내는것에 매우 탁월한 효능을 보입니다.	
+ITEM_20180418_017926	Retiarius Tiro Costume	레티아리이 티로의 코스튬				
+ITEM_20180418_017927	Tiro is the title given to rookie gladiators and as such, this outfit is given to those just starting their gladiator training. 	티로는 신참검투사를 의미하는 단어이며 따라서 이 의상은 새로 검투사가 된 사람에게 주어집니다.				
+ITEM_20180418_017928	Retiarius Tiro Special Costume	레티아리이 티로의 스페셜 코스튬				
+ITEM_20180418_017929	Retiarius Provocator Costume	레티아리이 프로보케이터 코스튬				
+ITEM_20180418_017930	To excite the spectators for the main attraction is a role fit for gladiators who have less experience in the arena. 	도발자는 경기의 흥취를 돕기 위해 경험이 적은 검투사들이 맡던 역할입니다.				
+ITEM_20180418_017931	Retiarius Provocator Special Costume	레티아리이 프로보케이터 스페셜 코스튬				
+ITEM_20180418_017932	Retiarius Primus Palus Costume	레티아리이 프리머스 팔루스 코스튬				
+ITEM_20180418_017933	Primus Palus, a high ranking gladiator. A title given to gladiators who have survived countless fights in the arena.	프리머스 팔루스. 즉, 일급검투사는 오랜 시간 투기장에서 생존한 경험많은 검투사를 지칭합니다.				
+ITEM_20180418_017934	Retiarius Primus Palus Special Costume	레티아리이 프리머스 팔루스 스페셜 코스튬				
+ITEM_20180418_017935	Retiarius Rudiarius Costume	레티아리이 루디아리우스 코스튬				
+ITEM_20180418_017936	Rudiarius is a title given to gladiators who have earned their freedom and have fulfilled all requirements to retire from the arena.	루디아리우스는 자유검투사를 의미하는 단어로 검투사로서의 모든 의무를 마치고 은퇴할 수 있는 자격을 지닌 자에게 주어진 호칭입니다.				
+ITEM_20180418_017937	Retiarius Rudiarius Special Costume	레티아리이 루디아리우스 스페셜 코스튬				
+ITEM_20180418_017938	Onmyoji Robe Costume	음양사의 가운 코스튬				
+ITEM_20180418_017939	A basic outfit given to less experienced Onmyoji.	초보 음양사에게 주어지는 기본 의상입니다.				
+ITEM_20180418_017940	Onmyoji Robe Special Costume	음양사의 가운 스페셜 코스튬				
+ITEM_20180418_017941	Onmyoji Kingdom Costume	음양사의 왕국의상 코스튬				
+ITEM_20180418_017942	An outfit that commemorates the kingdom chosen by the Onmyoji.	음양사가 왕국에 정착한 해를 기념하는 의상입니다.				
+ITEM_20180418_017943	Onmyoji Kingdom Special Costume	음양사의 왕국의상 스페셜 코스튬				
+ITEM_20180418_017944	Onmyoji Origin Costume 	음양사의 본향의상 코스튬				
+ITEM_20180418_017945	An outfit designed to celebrate and remember one's Onmyoji origins. 	음양사의 본향을 기념하고 기억하는 의미로 제작된 의상입니다.				
+ITEM_20180418_017946	Onmyoji Origin Special Costume 	음양사의 본향의상 스페셜 코스튬				
+ITEM_20180418_017947	Onmyoji Royal Court Costume	음양사의 왕실예복 코스튬				
+ITEM_20180418_017948	A special outfit that was handed down from the royal family to the Onmyoji thousands of years ago. 	천년제를 즈음하여 왕실이 재단하여 내려준 방식의 음양사만을 위한 특별한 의상입니다.				
+ITEM_20180418_017949	Onmyoji Royal Court Special Costume	음양사의 왕실예복 스페셜 코스튬				
+ITEM_20180418_017950	A hat worn by those participating in a parade or unique event.{nl}Can be exchanged for medals at the Exchange Shop.	행진을 하거나 특별한 행사에 참여할 때 사용되는 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20150317_001592	A hat used for a special event or when marching.	행진을 하거나 특별한 행사에 참여할 때 사용되는 모자입니다.	
+ITEM_20180418_017951	#N/A	착용한다고 마족에게 영향을 받거나 주지는 않습니다.{nl}- 리사이클샵에서 메달로 교환 가능합니다.	ITEM_20150317_001627	Wearing this won't give you any special powers against demons or vice-versa.	착용한다고 마족에게 영향을 받거나 주지는 않습니다.	
+ITEM_20180418_017952	An ornament fashioned to look like a mystical unicorn horn. Sadly, there is nothing that can compare to the real thing.{nl}Can be exchanged for medals at the Exchange Shop.	신비의 동물인 유니콘의 뿔을 본따 만든 장식입니다. 진짜 유니콘의 뿔과 같은 능력은 없습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20150317_001657	The horn of a Unicorn. It is considered a mythical item.	전설로 내려전해오는 유니콘의 뿔입니다.	
+ITEM_20180418_017953	If you wear this ornament when you feel goosebumps, the ghosts will accept you as one of them{nl}Can be exchanged for medals at the Exchange Shop.	으스스한 느낌이 들 때 이 장식을 장착하면 망자가 착용자를 자신과 같은 망자로 느낀다고 합니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20150317_001552	A costume for the hair slot.{nl}Right-click to equip.	머리 장식입니다. 오른쪽 클릭으로 장착할 수 있습니다.	
+ITEM_20180418_017954	Rumors say, if you wear this mask, you'll be invited to a party in a faraway land.{nl}Can be exchanged for medals at the Exchange Shop	머나먼 이국에서는 이 가면을 착용해야만 참가할 수 있는 파티가 존재한다고 합니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20150317_001552	A costume for the hair slot.{nl}Right-click to equip.	머리 장식입니다. 오른쪽 클릭으로 장착할 수 있습니다.	
+ITEM_20180418_017955	A blue ribbon tied in a beautiful knot.{nl}Can be exchanged for medals at the Exchange Shop.	예쁜 매듭으로 묶인 파란색의 리본입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20150317_001552	A costume for the hair slot.{nl}Right-click to equip.	머리 장식입니다. 오른쪽 클릭으로 장착할 수 있습니다.	
+ITEM_20180418_017956	Woohoo! Wear this ornament when you want to throw away your burdens and find a place where you can belong in your natural state of being.{nl}Can be exchanged for medals at the Exchange Shop.	우-하차! 우하차! 거추장스러운 것들을 벗어던지고 자연의 상태로 돌아가고 싶을 때 이 장식을 착용하면 소속감까지 느낄 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20151224_008728	Feather decoration is common characteristic between the tribes.	깃털 장식은 여러 부족들 사이의 공통적인 특징입니다.	
+ITEM_20180418_017957	#N/A	경비병의 모자	ITEM_20161108_012776	TestHairAccessory5	테스트헤어장식5	
+ITEM_20180418_017958	#N/A	치안 업무를 담당하는 병사들이 근무시 착용하는 모자입니다.{nl}리사이클샵에서 메달로 교환 가능합니다.	ITEM_20160811_010840	Requires a description.	디스크립션이 필요합니다.	
+ITEM_20180418_017959	Rumors say, in a faraway land wearing this will transform you into a passionate dancer. {nl}Can be exchanged for medals at the Exchange Shop.	머나먼 이국에서는 이 장식을 착용한 상태에서 격렬한 춤을 춘다고 합니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20170330_014078	An ornament commonly placed on the heads of horses.{nl}Can be exchanged for medals at the Exchange Shop.	말 머리 위에 다는 장식입니다. {nl}리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20180418_017960	A crown created on behalf of a nameless queen.{nl} Can be exchanged for medals in the Exchange Shop.	이름없는 여왕을 위해서 제작된 왕관입니다.{nl} 리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20160811_010840	Requires a description.	디스크립션이 필요합니다.	
+ITEM_20180418_017961	Wear this during an "Yes! Eureka!" moment and you'll be able to maximize the excitement.{nl} Can be exchanged for medals in the Exchange Shop. 	그래! 바로 이거야! 하는 순간 이 장식을 착용하면 그 기쁨을 극대화 할 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20170420_014552	Yes! This is it!{nl}Can be exchanged for medals at the Exchange Shop.	그래! 바로 이거야!{nl} 리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20180418_017962	Wear this when you're angry and you'll be able to convey your absolute fury!{nl}Can be exchanged for medals in the Exchange Shop. 	으아! 화가난다! 하는 순간 이 장식을 착용해 다른 사람에게 자신의 분노를 표현할 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20170512_014919	A headwear piece. Right-click to use.{nl}Can be exchanged for medals at the Exchange Shop.	머리 장식입니다. 오른쪽 클릭으로 장착할 수 있습니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20180418_017963	What a delicious looking strawberry-flavored dessert pudding! Wait, don't eat it! It's just for looks.{nl}Can be exchanged for medals in the Exchange Shop. 	딸기가 들어간 맛있어 보이는 푸딩 모양의 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20170330_014084	A pudding made with strawberries. Yum.{nl}Can be exchanged for medals at the Exchange Shop.	딸기가 들어간 푸딩입니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20180418_017964	A hair accessory in the shape of butterfly wings. the black lace and golden details give it an aura of opulence.{nl}Can be exchanged for medals at the Exchange Shop.	나비 날개 모양에 머리 장식입니다. 검은색 레이스와 금빛 장식을 이용하여 우아함을 표현하였습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20170330_014085	A hair accessory in the shape of butterfly wings. the black lace and golden details give it an aura of opulence.{nl}Can be exchanged for medals at the Exchange Shop.	나비 날개 모양에 머리 장식입니다. 검은색 레이스와 금빛 장식을 이용하여 우아함을 표현하였습니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20180418_017965	An ornament that embodies the power of a boss bear. It's said that even the strongest of bears will cry and run away after seeing this.{nl}Can be exchanged for medals at the Exchange Shop.	곰들 사이에서 악명 높은 두목곰을 형상화한 장식입니다. 어린 곰들은 이 장식을 보면 울면서 도망간다고 합니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.	ITEM_20160811_010840	Requires a description.	디스크립션이 필요합니다.	
+ITEM_20180418_017966	A cool hat that stands out for its red-checkers design.{nl}Can be exchanged for medals at the Exchange Shop.	붉은색 체크 무늬가 돋보이는 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20160811_010840	Requires a description.	디스크립션이 필요합니다.	
+ITEM_20180418_017967	An ornament made from beautiful starfish and brightly colored seashells. If mermaids exist, you'll attract them with this.{nl}Can be exchanged for medals at the Exchange Shop.	아름다운 불가사리와 영롱한 빛깔의 조개를 이용해 만든 장식입니다. 인어가 있다면 인어의 호감을 받을 수도 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20160811_010840	Requires a description.	디스크립션이 필요합니다.	
+ITEM_20180418_017968	For when you go on a picnic or just simply want to embody the feeling.{nl}Can be exchanged for medals at the Exchange Shop.	소풍을 가거나 소풍을 가고 싶을 때 이 장식을 착용하면 소풍의 기분을 만끽할 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20170307_013546	The weather is so nice, how about a picnic?{nl}Can be exchanged for medals at the Exchange Shop.	날씨도 좋은데 소풍이나 가볼까요?{nl} 리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20180418_017969	This adornment decorated with fresh, delicious hanging fruits will make you want to eat them to abate your hunger.{nl}Can be exchanged for medals at the Exchange Shop.	싱싱해 보이는 열매가 달려있는 장식입니다. 배가 고프다면 열매를 하나씩 먹고 싶어집니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20151224_008739	You can pick and eat the fruits if you ever feel hungry.	배가 고프다면 열매를 하나씩 따먹을 수도 있습니다.	
+ITEM_20180418_017970	[Reveal] Deathweaver Cutter (30 Days)	[Reveal] 데스위버 커터 (30일)	ITEM_20171128_016716	[E-Run] Deathweaver Cutter (30 Days)	[E-Run] 데스위버 커터 (30일)	
+ITEM_20180418_017971	[Reveal] Deatheweaver Tooth (30 Days)	[Reveal] 데스위버 투스 (30일)	ITEM_20171128_016717	[E-Run] Deatheweaver Tooth (30 Days)	[E-Run] 데스위버 투스 (30일)	
+ITEM_20180418_017972	[Reveal] Deathweaver Rod (30 Days)	[Reveal] 데스위버 로드 (30일)	ITEM_20171128_016719	[E-Run] Deathweaver Rod (30 Days)	[E-Run] 데스위버 로드 (30일)	
+ITEM_20180418_017973	[Reveal] Melinas Staff (30 Days)	[Reveal] 멜리나스 스태프 (30일)	ITEM_20171128_016720	[E-Run] Melinas Staff (30 Days)	[E-Run] 멜리나스 스태프 (30일)	
+ITEM_20180418_017974	[Reveal] Deathweaver Bow (30 Days)	[Reveal] 데스위버 보우 (30일)	ITEM_20171128_016722	[E-Run] Deathweaver Bow (30 Days)	[E-Run] 데스위버 보우 (30일)	
+ITEM_20180418_017975	[Reveal] Deathweaver Cross Bow (30 Days)	[Reveal] 데스위버 크로스보우 (30일)	ITEM_20171128_016723	[E-Run] Deathweaver Cross Bow (30 Days)	[E-Run] 데스위버 크로스보우 (30일)	
+ITEM_20180418_017976	[Reveal] Vubbe Morning Star (30 Days)	[Reveal] 부베 모닝스타 (30일)	ITEM_20171128_016724	[E-Run] Vubbe Morning Star (30 Days)	[E-Run] 부베 모닝스타 (30일)	
+ITEM_20180418_017977	[Reveal] Vubbe Armor (30 Days)	[Reveal] 부베 아머 (30일)	ITEM_20171128_016726	[E-Run] Vubbe Armour (30 Days)	[E-Run] 부베 아머 (30일)	
+ITEM_20180418_017978	[Reveal] Vubbe Boots (30 Days)	[Reveal] 부베 팬츠 (30일)	ITEM_20171128_016727	[E-Run] Vubbe Pants (30 Days)	[E-Run] 부베 팬츠 (30일)	
+ITEM_20180418_017979	[Reveal] Cheminis Sword (30 Days)	[Reveal] 케미니스 소드 (30일)	ITEM_20171128_016728	[E-Run] Cheminis Sword (30 Days)	[E-Run] 케미니스 소드 (30일)	
+ITEM_20180418_017980	[Reveal] Chapparition Two-Hand Sword (30 Days)	[Reveal] 채퍼리션 투 핸드 소드 (30일)	ITEM_20171128_016729	[E-Run] Chapparition Two-Hand Sword (30 Days)	[E-Run] 채퍼리션 투 핸드 소드 (30일)	
+ITEM_20180418_017981	[Reveal] Chapparition Rod (30 Days)	[Reveal] 채퍼리션 로드 (30일)	ITEM_20171128_016730	[E-Run] Chapparition Rod (30 Days)	[E-Run] 채퍼리션 로드 (30일)	
+ITEM_20180418_017982	[Reveal] Patrice Staff (30 Days)	[Reveal] 파트리스 스태프 (30일)	ITEM_20171128_016731	[E-Run] Patrice Staff (30 Days)	[E-Run] 파트리스 스태프 (30일)	
+ITEM_20180418_017983	[Reveal] Chapparition Bow (30 Days)	[Reveal] 채퍼리션 보우 (30일)	ITEM_20171128_016733	[E-Run] Chapparition Bow (30 Days)	[E-Run] 채퍼리션 보우 (30일)	
+ITEM_20180418_017984	[Reveal] Chapparition Shooter (30 Days)	[Reveal] 채퍼리션 슈터 (30일)	ITEM_20171128_016734	[E-Run] Chapparition Shooter (30 Days)	[E-Run] 채퍼리션 슈터 (30일)	
+ITEM_20180418_017985	[Reveal] Chapparition Mace (30 Days)	[Reveal] 채퍼리션 메이스 (30일)	ITEM_20171128_016735	[E-Run] Chapparition Mace (30 Days)	[E-Run] 채퍼리션 메이스 (30일)	
+ITEM_20180418_017986	[Reveal] Silver Spear (30 Days)	[Reveal] 실버 스피어 (30일)	ITEM_20171128_016736	[E-Run] Silver Spear (30 Days)	[E-Run] 실버 스피어 (30일)	
+ITEM_20180418_017987	[Reveal] Cheminis Pike (30 Days)	[Reveal] 케미니스 파이크 (30일)	ITEM_20171128_016737	[E-Run] Cheminis Pike (30 Days)	[E-Run] 케미니스 파이크 (30일)	
+ITEM_20180418_017988	[Reveal] Mark Tunic (30 Days)	[Reveal] 마크 튜닉 (30일)	ITEM_20171128_016738	[E-Run] Mark Tunic (30 Days)	[E-Run] 마크 튜닉 (30일)	
+ITEM_20180418_017989	[Reveal] Mark Pants (30 Days)	[Reveal] 마크 팬츠 (30일)	ITEM_20171128_016739	[E-Run] Mark Pants (30 Days)	[E-Run] 마크 팬츠 (30일)	
+ITEM_20180418_017990	[Reveal] Durandal (30 Days)	[Reveal] 듀란달 (30일)	ITEM_20171128_016740	[E-Run] Durandal (30 Days)	[E-Run] 듀란달 (30일)	
+ITEM_20180418_017991	[Reveal] Flamini (30 Days)	[Reveal] 플라미니 (30일)	ITEM_20171128_016742	[E-Run] Flamini (30 Days)	[E-Run] 플라미니 (30일)	
+ITEM_20180418_017992	[Reveal] Secretum (30 Days)	[Reveal] 세크레툼 (30일)	ITEM_20171128_016743	[E-Run] Secretum (30 Days)	[E-Run] 세크레툼 (30일)	
+ITEM_20180418_017993	[Reveal] Candle Staff (30 Days)	[Reveal] 캔들 스태프 (30일)	ITEM_20171128_016745	[E-Run] Candle Staff (30 Days)	[E-Run] 캔들 스태프 (30일)	
+ITEM_20180418_017994	[Reveal] Heart Seeker (30 Days)	[Reveal] 하트 시커 (30일)	ITEM_20171128_016746	[E-Run] Heart Seeker (30 Days)	[E-Run] 하트 시커 (30일)	
+ITEM_20180418_017995	[Reveal] Shooting Star (30 Days)	[Reveal] 슈팅스타 (30일)	ITEM_20171128_016747	[E-Run] Shooting Star (30 Days)	[E-Run] 슈팅스타 (30일)	
+ITEM_20180418_017996	[Reveal] Escanciu Mace (30 Days)	[Reveal] 에산치우 메이스 (30일)	ITEM_20171128_016749	[E-Run] Escanciu Mace (30 Days)	[E-Run] 에산치우 메이스 (30일)	
+ITEM_20180418_017997	[Reveal] Doom Spear (30 Days)	[Reveal] 둠 스피어 (30일)	ITEM_20171128_016750	[E-Run] Doom Spear (30 Days)	[E-Run] 둠 스피어 (30일)	
+ITEM_20180418_017998	[Reveal] Laideca (30 Days)	[Reveal] 라이데카 (30일)	ITEM_20171128_016751	[E-Run] Laideca (30 Days)	[E-Run] 라이데카 (30일)	
+ITEM_20180418_017999	[Reveal] Brigandine Armor (30 Days)	[Reveal] 브리간딘 아머 (30일)	ITEM_20171128_016753	[E-Run] Brigandine Armor (30 Days)	[E-Run] 브리간딘 아머 (30일)	
+ITEM_20180418_018000	[Reveal] Brigandine Pants (30 Days)	[Reveal] 브리간딘 팬츠 (30일)	ITEM_20171128_016755	[E-Run] Brigandine Pants (30 Days)	[E-Run] 브리간딘 팬츠 (30일)	
+ITEM_20180418_018001	[Reveal] Belnium (30 Days)	[Reveal] 벨니웁 (30일)	ITEM_20171128_016756	[E-Run] Velniup (30 Days)	[E-Run] 벨니웁 (30일)	
+ITEM_20180418_018002	[Reveal] Tily Two-Hand Sword (30 Days)	[Reveal] 틸리 투 핸드 소드 (30일)	ITEM_20171128_016757	[E-Run] Tilly Two-Hand Sword (30 Days)	[E-Run] 틸리 투 핸드 소드 (30일)	
+ITEM_20180418_018003	[Reveal] Temere (30 Days)	[Reveal] 테메레 (30일)	ITEM_20171128_016758	[E-Run] Temere (30 Days)	[E-Run] 테메레 (30일)	
+ITEM_20180418_018004	[Reveal] Sunflower (30 Days)	[Reveal] 선플라워 (30일)	ITEM_20171128_016761	[E-Run] Sunflower (30 Days)	[E-Run] 선플라워 (30일)	
+ITEM_20180418_018005	[Reveal] Wilding Bane (30 Days)	[Reveal] 와이들링 베인 (30일)	ITEM_20171128_016762	[E-Run] Wilding Bane (30 Days)	[E-Run] 와이들링 베인 (30일)	
+ITEM_20180418_018006	[Reveal] Seimos Crossbow (30 Days)	[Reveal] 세이모스 크로스보우 (30일)	ITEM_20171128_016765	[E-Run] Seimos Crossbow (30 Days)	[E-Run] 세이모스 크로스보우 (30일)	
+ITEM_20180418_018007	[Reveal] Seimos Mace (30 Days)	[Reveal] 세이모스 메이스 (30일)	ITEM_20171128_016766	[E-run] Seimos Mace (30 Days)	[E-Run] 세이모스 메이스 (30일)	
+ITEM_20180418_018008	[Reveal] Seimos Spear (30 Days)	[Reveal] 세이모스 스피어 (30일)	ITEM_20171128_016767	[E-Run] Seimos Spear (30 Days)	[E-Run] 세이모스 스피어 (30일)	
+ITEM_20180418_018009	[Reveal] Seimos Pike (30 Days)	[Reveal] 세이모스 파이크 (30일)	ITEM_20171128_016768	[E-Run] Seimos Pike (30 Days)	[E-Run] 세이모스 파이크 (30일)	
+ITEM_20180418_018010	[Reveal] Hunting Armor (30 Days)	[Reveal] 헌팅 아머 (30일)	ITEM_20171128_016769	[E-Run] Hunting Armor (30 Days)	[E-Run] 헌팅 아머 (30일)	
+ITEM_20180418_018011	[Reveal] Hunting Pants (30 Days)	[Reveal] 헌팅 팬츠 (30일)	ITEM_20171128_016771	[E-Run] Hunting Pants (30 Days)	[E-Run] 헌팅 팬츠 (30일)	
+ITEM_20180418_018012	[Reveal] Flame (30 Days)	[Reveal] 플레임 (30일)	ITEM_20171128_016772	[E-Run] Flame (30 Days)	[E-Run] 플레임 (30일)	
+ITEM_20180418_018013	[Reveal] Hell and Heaven (30 Days)	[Reveal] 헬 엔드 헤븐 (30일)	ITEM_20171128_016773	[E-Run] Hell and Heaven (30 Days)	[E-Run] 헬 엔드 헤븐 (30일)	
+ITEM_20180418_018014	[Reveal] Casti Rod (30 Days)	[Reveal] 카스티 로드 (30일)	ITEM_20171128_016774	[E-Run] Casti Rod (30 Days)	[E-Run] 카스티 로드 (30일)	
+ITEM_20180418_018015	[Reveal] Maledoom (30 Days)	[Reveal] 말레둠 (30일)	ITEM_20171128_016775	[E-Run] Malledoom (30 Days)	[E-Run] 말레둠 (30일)	
+ITEM_20180418_018016	[Reveal] Casti Bow (30 Days)	[Reveal] 카스티 보우 (30일)	ITEM_20171128_016776	[E-Run] Casti Bow (30 Days)	[E-Run] 카스티 보우 (30일)	
+ITEM_20180418_018017	[Reveal] Caracha Cross Bow (30 Days)	[Reveal] 카라챠 크로스보우 (30일)	ITEM_20171128_016777	[E-Run] Karacha Cross Bow (30 Days)	[E-Run] 카라챠 크로스보우 (30일)	
+ITEM_20180418_018018	[Reveal] Drake Tail (30 Days)	[Reveal] 드레이크 테일 (30일)	ITEM_20171128_016778	[E-Run] Drake Tail (30 Days)	[E-Run] 드레이크 테일 (30일)	
+ITEM_20180418_018019	[Reveal] Casti Spear (30 Days)	[Reveal] 카스티 스피어 (30일)	ITEM_20171128_016779	[E-Run] Casti Spear (30 Days)	[E-Run] 카스티 스피어 (30일)	
+ITEM_20180418_018020	[Reveal] Magas Pike (30 Days)	[Reveal] 마가스 파이크 (30일)	ITEM_20171128_016780	[E-Run] Magas Pike (30 Days)	[E-Run] 마가스 파이크 (30일)	
+ITEM_20180418_018021	[Reveal] Dualist (30 Days)	[Reveal] 듀얼리스트 (30일)	ITEM_20171128_016781	[E-Run] Duelist (30 Days)	[E-Run] 듀얼리스트 (30일)	
+ITEM_20180418_018022	[Reveal] Veteran Tunic (30 Days)	[Reveal] 베테랑 튜닉 (30일)	ITEM_20171128_016783	[E-Run] Veteran Tunic (30 Days)	[E-Run] 베테랑 튜닉 (30일)	
+ITEM_20180418_018023	[Reveal] Veteran Pants (30 Days)	[Reveal] 베테랑 팬츠 (30일)	ITEM_20171128_016784	[E-Run] Veteran Pants (30 Days)	[E-Run] 베테랑 팬츠 (30일)	
+ITEM_20180418_018024	[Reveal] Pensara Sword (30 Days)	[Reveal] 펜사라 소드 (30일)	ITEM_20171128_016785	[E-Run] Pensara Sword (30 Days)	[E-Run] 펜사라 소드 (30일)	
+ITEM_20180418_018025	[Reveal] Pensara Two-Hand Sword (30 Days)	[Reveal] 펜사라 투 핸드 소드 (30일)	ITEM_20171128_016786	[E-Run] Pensara Two-Hand Sword (30 Days)	[E-Run] 펜사라 투 핸드 소드 (30일)	
+ITEM_20180418_018026	[Reveal] Pensara Rod (30 Days)	[Reveal] 펜사라 로드 (30일)	ITEM_20171128_016787	[E-Run] Pensara Rod (30 Days)	[E-Run] 펜사라 로드 (30일)	
+ITEM_20180418_018027	[Reveal] Power Staff (30 Days)	[Reveal] 파워 스태프 (30일)	ITEM_20171128_016788	[E-Run] Power Staff (30 Days)	[E-Run] 파워 스태프 (30일)	
+ITEM_20180418_018028	[Reveal] Markmen (30 Days)	[Reveal] 마크맨 (30일)	ITEM_20171128_016790	[E-Run] Marksman (30 Days)	[E-Run] 마크맨 (30일)	
+ITEM_20180418_018029	[Reveal] Didel Grand Cross (30 Days)	[Reveal] 디델 그랜드 크로스 (30일)	ITEM_20171128_016792	[E-Run] Didel Grand Cross (30 Days)	[E-Run] 디델 그랜드 크로스 (30일)	
+ITEM_20180418_018030	[Reveal] Pensara Mace (30 Days)	[Reveal] 펜사라 메이스 (30일)	ITEM_20171128_016795	[E-Run] Pensara Mace (30 Days)	[E-Run] 펜사라 메이스 (30일)	
+ITEM_20180418_018031	[Reveal] Pensara Spear (30 Days)	[Reveal] 펜사라 스피어 (30일)	ITEM_20171128_016796	[E-Run] Pensara Spear (30 Days)	[E-Run] 펜사라 스피어 (30일)	
+ITEM_20180418_018032	[Reveal] Pensara Pike (30 Days)	[Reveal] 펜사라 파이크 (30일)	ITEM_20171128_016797	[E-Run] Pensara Pike (30 Days)	[E-Run] 펜사라 파이크 (30일)	
+ITEM_20180418_018033	[Reveal] Spada (30 Days)	[Reveal] 스파다 (30일)	ITEM_20171128_016798	[E-Run] Spada (30 Days)	[E-Run] 스파다 (30일)	
+ITEM_20180418_018034	[Reveal] Finisher (30 Days)	[Reveal] 피니셔 (30일)	ITEM_20171128_016799	[E-Run] Finisher (30 Days)	[E-Run] 피니셔 (30일)	
+ITEM_20180418_018035	[Reveal] Bandit Armor (30 Days)	[Reveal] 밴딧 아머 (30일)	ITEM_20171128_016800	[E-Run] Bandit Armor (30 Days)	[E-Run] 밴딧 아머 (30일)	
+ITEM_20180418_018036	[Reveal] Bandit Pants (30 Days)	[Reveal] 밴딧 팬츠 (30일)	ITEM_20171128_016801	[E-Run] Bandit Pants (30 Days)	[E-Run] 밴딧 팬츠 (30일)	
+ITEM_20180418_018037	[Reveal] Primus Migatis Sword (30 Days)	[Reveal] 프리머스 미간티스 소드 (30일)				
+ITEM_20180418_018038	[Reveal] Primus Migatis Two-handed Sword (30 Days)	[Reveal] 프리머스 미간티스 투 핸드 소드 (30일)				
+ITEM_20180418_018039	[Reveal] Primus Migatis Rod (30 Days)	[Reveal] 프리머스 미간티스 로드 (30일)				
+ITEM_20180418_018040	[Reveal] Primus Migatis Bow (30 Days)	[Reveal] 프리머스 미간티스 보우 (30일)				
+ITEM_20180418_018041	[Reveal] Primus Migatis Crossbow (30 Days)	[Reveal] 프리머스 미간티스 크로스보우 (30일)				
+ITEM_20180418_018042	[Reveal] Primus Migatis Mace (30 Days)	[Reveal] 프리머스 미간티스 메이스 (30일)				
+ITEM_20180418_018043	[Reveal] Primus Migatis Two-handed Mace (30 Days)	[Reveal] 프리머스 미간티스 투 핸드 메이스 (30일)				
+ITEM_20180418_018044	[Reveal] Primus Migatis Spear (30 Days)	[Reveal] 프리머스 미간티스 스피어 (30일)				
+ITEM_20180418_018045	[Reveal] Primus Migatis Pike (30 Days)	[Reveal] 프리머스 미간티스 파이크 (30일)				
+ITEM_20180418_018046	[Reveal] Primus Migatis Staff (30 Days)	[Reveal] 프리머스 미간티스 스태프 (30일)				
+ITEM_20180418_018047	[Reveal] Primus Migatis Pistol (30 Days)	[Reveal] 프리머스 미간티스 피스톨 (30일)				
+ITEM_20180418_018048	[Reveal] Primus Migatis Rapier (30 Days)	[Reveal] 프리머스 미간티스 레이피어 (30일)				
+ITEM_20180418_018049	[Reveal] Primus Migatis Cannon (30 Days)	[Reveal] 프리머스 미간티스 캐논 (30일)				
+ITEM_20180418_018050	[Reveal] Primus Migatis Musket (30 Days)	[Reveal] 프리머스 미간티스 머스킷 (30일)				
+ITEM_20180418_018051	[Reveal] Primus Albinosas Leather Armor (30 Days)	[Reveal] 프리머스 알비노사스 레더 아머 (30일)				
+ITEM_20180418_018052	A strong piece of armor made from an extremely rare type of white leather.	수많은 동물과 몬스터 만 마리 중 한 마리만 있다는 백색종의 가죽으로 만들어진 견고한 상의입니다.				
+ITEM_20180418_018053	[Reveal] Primus Albinosas Leather Pants (30 Days)	[Reveal] 프리머스 알비노사스 레더 팬츠 (30일)				
+ITEM_20180418_018054	A strong piece of armor made from an extremely rare type of white leather.	수많은 동물과 몬스터 만 마리 중 한 마리만 있다는 백색종의 가죽으로 만들어진 견고한 하의입니다.				
+ITEM_20180418_018055	[Reveal] Primus Pevordimas Sword (30 Days)	[Reveal] 프리머스 페버디마스 소드 (30일)				
+ITEM_20180418_018056	[Reveal] Primus Pevordimas Two-handed Sword (30 Days)	[Reveal] 프리머스 페버디마스 투 핸드 소드 (30일)				
+ITEM_20180418_018057	[Reveal] Primus Pevordimas Rod (30 Days)	[Reveal] 프리머스 페버디마스 로드 (30일)				
+ITEM_20180418_018058	[Reveal] Primus Pevordimas Bow (30 Days)	[Reveal] 프리머스 페버디마스 보우 (30일)				
+ITEM_20180418_018059	[Reveal] Primus Pevordimas Crossbow (30 Days)	[Reveal] 프리머스 페버디마스 크로스보우 (30일)				
+ITEM_20180418_018060	[Reveal] Primus Pevordimas Mace (30 Days)	[Reveal] 프리머스 페버디마스 메이스 (30일)				
+ITEM_20180418_018061	[Reveal] Primus Pevordimas Two-handed Mace (30 Days)	[Reveal] 프리머스 페버디마스 투 핸드 메이스 (30일)				
+ITEM_20180418_018062	[Reveal] Primus Pevordimas Spear (30 Days)	[Reveal] 프리머스 페버디마스 스피어 (30일)				
+ITEM_20180418_018063	[Reveal] Primus Pevordimas Pike (30 Days)	[Reveal] 프리머스 페버디마스 파이크 (30일)				
+ITEM_20180418_018064	[Reveal] Primus Pevordimas Staff (30 Days)	[Reveal] 프리머스 페버디마스 스태프 (30일)				
+ITEM_20180418_018065	[Reveal] Primus Pevordimas Pistol (30 Days)	[Reveal] 프리머스 페버디마스 피스톨 (30일)				
+ITEM_20180418_018066	[Reveal] Primus Pevordimas Rapier (30 Days)	[Reveal] 프리머스 페버디마스 레이피어 (30일)				
+ITEM_20180418_018067	[Reveal] Primus Pevordimas Cannon (30 Days)	[Reveal] 프리머스 페버디마스 캐논 (30일)				
+ITEM_20180418_018068	[Reveal] Primus Pevordimas Musket (30 Days)	[Reveal] 프리머스 페버디마스 머스킷 (30일)				
+ITEM_20180418_018069	[Reveal] Primus Kaulas Leather Armor (30 Days)	[Reveal] 프리머스 카울라스 레더 아머 (30일)				
+ITEM_20180418_018070	[Reveal] Primus Kaulas Leather Pants (30 Days)	[Reveal] 프리머스 카울라스 레더 팬츠 (30일)				
+ITEM_20180418_018071	[Event] Pink Candy	[이벤트] 분홍색 사탕				
+ITEM_20180418_018072	Two delicious pink candies resting on two dollops of cream. 	슈크림 위에 분홍색 사탕이 있는 헤어장식입니다.				
+ITEM_20180418_018073	The latest in designer backpacks.{nl}Can be exchanged for medals.	수제 명품 책가방 지금이 마지막 기회입니다.{nl} 리사이클 메달로 교환 가능합니다.	ITEM_20180402_017883	The latest in designer backpacks.{nl}Can be exchanged for medals.	수제 명품 책가방 지금이 마지막 기회입니다. 단, 실제 비행은 불가능합니다.{nl} 리사이클 메달로 교환 가능합니다.	
+ITEM_20180418_018074	Missio Galerus	미시오의 갈레루스				
+ITEM_20180418_018075	[Retiarius Special Costume]	[레티아리이 스페셜 코스튬]				
+ITEM_20180418_018076	Missio were gladiators who were given the right to leave the arena. Their specially designed shoulder guards were everlasting proof of their freedom.	미시오는 투기장을 살아서 떠날 권리를 의미합니다. 미시오의 어깨장식은 이 권리를 영구적으로 얻은 검투사에게 주어지는 장식이자 증명입니다.				
+ITEM_20180418_018077	Regents Diploma Sash	리젠트 디플로마새시				
+ITEM_20180418_018078	Onmyoji Special Costume 	[음양사 스페셜 코스튬]				
+ITEM_20180418_018079	A special ornament given to Onmyoji to recognize their distinguished contributions after Medzio Diena.	신수의 날 이후 큰 공적을 세운 음양사에게 주어지는 특별한 장식입니다.				
+ITEM_20180418_018080	When attacking an enemy, gives 10% chance of applying a curse of elemental damage. The curse adds one of four - Fire, Ice, Poison, Lightning - random elemental damage to the target and it will take 1500-2500 damage each second for 6 seconds. Right-click to use. Cooldown 180 seconds.	공격 시 10% 확률로 적에게 불, 얼음, 독, 전기 중 하나의 속성 피해를 주는 저주를 겁니다. 저주에 걸린 대상은 6초동안 1초마다 1500~2500의 고정 대미지를 입습니다. 효과는 2분간 지속됩니다. 마우스 오른쪽 클릭으로 사용 가능합니다. 재사용 대기시간 180초.	ITEM_20171023_015833	When attacking an enemy, there is a 10% chance of applying a curse that is either a Fire, Ice, Poison or Lightning property to the target. The target then receives 1500 ~2000 damage per second, lasting 6 seconds. Potion's effects last for 2 minutes. Right-click to use. Cooldown of 180 seconds.	공격 시 10% 확률로 적에게 화염, 얼음, 독, 전기 중 하나의 속성 피해를 주는 저주를 겁니다. 저주에 걸린 대상은 6초동안 1초마다 1500~2500의 고정 대미지를 입습니다. 효과는 2분간 지속됩니다. 마우스 오른쪽 클릭으로 사용 가능합니다. 재사용 대기시간 180초.	
+ITEM_20180418_018081	Retribution Potion: Demon	징벌의 포션: 악마				
+ITEM_20180418_018082	Increases damage to Demon type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.	10초간 악마형 보스 몬스터에게 주는 대미지 100% 증가{nl}재사용 대기시간 30초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018083	Retribution Potion: Mutant	징벌의 포션: 변이				
+ITEM_20180418_018084	Increases damage to Mutant type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.	10초간 변이형 보스 몬스터에게 주는 대미지 100% 증가{nl}재사용 대기시간 30초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018085	Retribution Potion: Insect	징벌의 포션: 곤충				
+ITEM_20180418_018086	Increases damage to Insect type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.	10초간 곤충형 보스 몬스터에게 주는 대미지 100% 증가{nl}재사용 대기시간 30초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018087	Retribution Potion: Plant	징벌의 포션: 식물				
+ITEM_20180418_018088	Increases damage to Plant type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.	10초간 식물형 보스 몬스터에게 주는 대미지 100% 증가{nl}재사용 대기시간 30초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018089	Retribution Potion: Beast	징벌의 포션: 야수				
+ITEM_20180418_018090	Increases damage to Beast type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.	10초간 야수형 보스 몬스터에게 주는 대미지 100% 증가{nl}재사용 대기시간 30초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018091	Aegis Potion: Demon	가호의 포션: 악마				
+ITEM_20180418_018092	Reduces damage from Demon type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.	30초간 악마형 보스 몬스터에게 받는 대미지 50% 감소{nl}재사용 대기시간 60초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018093	Aegis Potion: Mutant	가호의 포션: 변이				
+ITEM_20180418_018094	Reduces damage from Mutant type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.	30초간 변이형 보스 몬스터에게 받는 대미지 50% 감소{nl}재사용 대기시간 60초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018095	Aegis Potion: Insect	가호의 포션: 곤충				
+ITEM_20180418_018096	Reduces damage from Insect type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.	30초간 곤충형 보스 몬스터에게 받는 대미지 50% 감소{nl}재사용 대기시간 60초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018097	Aegis Potion: Plant	가호의 포션: 식물				
+ITEM_20180418_018098	Reduces damage from Plant type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.	30초간 식물형 보스 몬스터에게 받는 대미지 50% 감소{nl}재사용 대기시간 60초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018099	Aegis Potion: Beast	가호의 포션: 야수				
+ITEM_20180418_018100	Reduces damage from Beast type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.	30초간 야수형 보스 몬스터에게 받는 대미지 50% 감소{nl}재사용 대기시간 60초.{nl}최대 30개까지 소지할 수 있습니다.				
+ITEM_20180418_018101	Collection: Main Building	콜렉션:대성당 본당				
+ITEM_20180418_018102	Collection: Grand Corridor	콜렉션:대성당 대회랑				
+ITEM_20180418_018103	Collection: Penitence Route of Great Cathedral	콜렉션:대성당 참회로				
+ITEM_20180418_018104	Collection: Grand Corridor	콜렉션:대성당 지성소				
+ITEM_20180418_018105	Guild Quest Reward: Special Potion	길드 퀘스트 보상: 특수 포션				
+ITEM_20180418_018106	An additional prize chest given to guilds who have successfully completed a guild quest mission.{nl}Open them to obtain recipes to create potions with unique effects. 	길드 퀘스트 중 미션에 성공하여 획득한 추가 보상 상자입니다. {nl}특별한 효과를 가진 포션 제작서를 얻을 수 있습니다.				
+ITEM_20180418_018107	[Card Equip Effect] Magic attack +[★*7] when equipping Strike weapons	[슬롯 장착 효과] 때리기류 무기 착용시 마법 공격력 +[★*7]	ITEM_20171106_015867	[Card Equip Effect] Magic Attack +[{img star_mark 20 20}*7] when equipping Strike weapons	[슬롯 장착 효과] 타격류 주 무기 착용시 마법 공격력 +[★*7]	
+ITEM_20180418_018108	[Card Equip Effect] Attack +[★*7] when equipping Strike weapons	[슬롯 장착 효과] 때리기류 무기 착용 시 물리 공격력 +[★*7]	ITEM_20180208_017441	[Card Equip Effect] Attack +[{img star_mark 20 20}*7] when equipping Strike weapons	[슬롯 장착 효과] 타격류 무기 착용 시 물리 공격력 +[★*7]	
+ITEM_20180418_018109	It's a barbed arrow. Adds an additional Strike effect. 	미늘이 있는 화살입니다. 추가 때리기효과가 있습니다.	ITEM_20150406_004550	There are barbed. Adds an on-hit effect.	미늘이 있는 화살입니다. 추가 타격효과가 있습니다.	
+ITEM_20180418_018110	Rete	투망				
+ITEM_20180418_018111	A net used by Retiarii.	레티아리이가 사용하는 투망입니다.				
+ITEM_20180418_018112	Onmyoji Paper Doll	음양사 종이인형				
+ITEM_20180418_018113	Retiarius Fishing Net	레티아리이 어망				
+ITEM_20180418_018114	Paper Doll	종이 인형				
+ITEM_20180418_018115	A paper doll used by the Onmyoji to call upon Divine Spirits.	음양사가 식신령을 부릴때 사용하는 인형입니다.				
+ITEM_20180418_018116	Mineral of high fire properties created through the combination of Terranium and Mithril. Used as a material for other items.	붉은 기운을 띈 테라늄과 미스릴을 일정 비율로 섞어 제작된 강렬한 불의 기운을 머금은 금속입니다. 아이템의 재료로 사용됩니다.	ITEM_20180320_017793	Mineral of high fire properties created through the combination of Terranium and Mithril. Used as a material for other items.	붉은 기운을 띈 테라늄과 미스릴을 일정 비율로 섞어 제작된 강렬한 화속성 기운을 머금은 금속입니다. 아이템의 재료로 사용됩니다.	
+ITEM_20180418_018117	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's Holy property attack.{nl}- Can be exchanged for medals at the Exchange Shop.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다.{nl} 해당 컴패니언과 동행 시 캐릭터의 신성 속성 공격력이 증가하는 버프를 얻습니다.{nl}- 리사이클 메달로 교환 가능합니다.	ITEM_20180208_017514	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without the riding skill.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다.{nl} 해당 컴패니언과 동행 시 캐릭터의 신성 속성 공격력이 증가하는 버프를 얻습니다.	
+ITEM_20180418_018118	[Reveal] Goddess Sculpture	[Reveal] 여신의 조각상	ITEM_20171128_016930	[E-Run] Goddess Sculpture	[E-Run] 여신의 조각상	
+ITEM_20180418_018119	Install a Goddess' Statue which provides Goddess's Blessing for five minutes.	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016931	Install Goddess' Statue which provides Goddess's Blessing for five minutes.	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018120	[Reveal] 5-Star Gem Abrasive	[Reveal] 5성 젬 연마제	ITEM_20180320_017830	[E-Run] 5-Star Gem Abrasive	[E-Run] 5성 젬 연마제	
+ITEM_20180418_018121	Used to enhance gems. Amplifies the EXP of gems.{nl}Gem EXP Gain: 14700{nl}Will be deleted when the event period ends.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20180320_017831	Used to enhance gems. Amplifies the EXP of gems.{nl}Gem EXP Gain: 14700{nl}Will be deleted when the event period ends.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018122	[Reveal] Instance One Entry Voucher	[Reveal] 인스턴스 던전 1회 입장권	ITEM_20171128_016934	[E-Run] Instance One Entry Voucher	[E-Run] 인스턴스 던전 1회 입장권	
+ITEM_20180418_018123	Use it to enter an instanced dungeon one more time.	사용 시 인스턴스 던전과 의뢰소 미션에 1회 더 입장 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016935	Use it to enter an instanced dungeon one more time.	사용 시 인스턴스 던전과 의뢰소 미션에 1회 더 입장 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018124	[Reveal] Instance Dungeon Reset Voucher	[Reveal] 인스턴스 던전 입장 횟수 초기화권	ITEM_20171128_016936	[E-Run] Instance Dungeon Reset Voucher	[E-Run] 인스턴스 던전 입장 횟수 초기화권	
+ITEM_20180418_018125	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.	사용 시 인스턴스 던전과 의뢰소 미션의 입장 횟수가 초기화됩니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016937	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.	사용 시 인스턴스 던전과 의뢰소 미션의 입장 횟수가 초기화됩니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018126	[Reveal] Booster Pack (Lv.15) 	[Reveal] 레벨업 상자 (15레벨)	ITEM_20171128_016941	Uska's Level up Chest (Lv.15)	우스카의 레벨업 상자 (15레벨)	
+ITEM_20180418_018127	Right-click to use. You character must be level 15 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016942	Right-click to use. Your character must be level 15 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018128	[Reveal] Booster Pack (Lv.40) 	[Reveal] 레벨업 상자 (40레벨)	ITEM_20171128_016943	Uska's Level up Chest (Lv.40)	우스카의 레벨업 상자 (40레벨)	
+ITEM_20180418_018129	Right-click to use. You character must be level 40 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016944	Right-click to use. Your character must be level 40 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018130	[Reveal] Booster Pack (Lv.50) 	[Reveal] 레벨업 상자 (50레벨)	ITEM_20171128_016945	Uska's Level up Chest (Lv.50)	우스카의 레벨업 상자 (50레벨)	
+ITEM_20180418_018131	Right-click to use. You character must be level 50 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016946	Right-click to use. Your character must be level 50 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018132	[Reveal] Booster Pack (Lv.75) 	[Reveal] 레벨업 상자 (75레벨)	ITEM_20171128_016947	Uska's Level up Chest (Lv.75)	우스카의 레벨업 상자 (75레벨)	
+ITEM_20180418_018133	Right-click to use. You character must be level 75 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016948	Right-click to use. Your character must be level 75 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018134	[Reveal] Booster Pack (Lv.85) 	[Reveal] 레벨업 상자 (85레벨)	ITEM_20171128_016949	Uska's Level up Chest (Lv.85)	우스카의 레벨업 상자 (85레벨)	
+ITEM_20180418_018135	Right-click to use. You character must be level 85 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016950	Right-click to use. Your character must be level 85 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018136	[Reveal] Booster Pack (Lv.100) 	[Reveal] 레벨업 상자 (100레벨)	ITEM_20171128_016951	Uska's Level up Chest (Lv.100)	우스카의 레벨업 상자 (100레벨)	
+ITEM_20180418_018137	Right-click to use. You character must be level 100 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016952	Right-click to use. Your character must be level 100 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018138	[Reveal] Booster Pack (Lv.120) 	[Reveal] 레벨업 상자 (120레벨)	ITEM_20171128_016953	Uska's Level up Chest (Lv.120)	우스카의 레벨업 상자 (120레벨)	
+ITEM_20180418_018139	Right-click to use. You character must be level 120 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016954	Right-click to use. Your character must be level 120 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018140	[Reveal] Booster Pack (Lv.140) 	[Reveal] 레벨업 상자 (140레벨)	ITEM_20171128_016955	Uska's Level up Chest (Lv.140)	우스카의 레벨업 상자 (140레벨)	
+ITEM_20180418_018141	Right-click to use. You character must be level 140 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016956	Right-click to use. Your character must be level 140 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018142	[Reveal] Booster Pack (Lv.170) 	[Reveal] 레벨업 상자 (170레벨)	ITEM_20171128_016957	Uska's Level up Chest (Lv.170)	우스카의 레벨업 상자 (170레벨)	
+ITEM_20180418_018143	Right-click to use. You character must be level 170 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016958	Right-click to use. Your character must be level 170 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018144	[Reveal] Booster Pack (Lv.180) 	[Reveal] 레벨업 상자 (180레벨)	ITEM_20171128_016959	Uska's Level up Chest (Lv.180)	우스카의 레벨업 상자 (180레벨)	
+ITEM_20180418_018145	Right-click to use. You character must be level 180 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016960	Right-click to use. Your character must be level 180 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018146	[Reveal] Booster Pack (Lv.200) 	[Reveal] 레벨업 상자 (200레벨)	ITEM_20171128_016961	Uska's Level up Chest (Lv.200)	우스카의 레벨업 상자 (200레벨)	
+ITEM_20180418_018147	Right-click to use. You character must be level 200 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016962	Right-click to use. Your character must be level 200 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018148	[Reveal] Booster Pack (Lv.220) 	[Reveal] 레벨업 상자 (220레벨)	ITEM_20171128_016963	Uska's Level up Chest (Lv.220)	우스카의 레벨업 상자 (220레벨)	
+ITEM_20180418_018149	Right-click to use. You character must be level 220 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016964	Right-click to use. Your character must be level 220 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018150	[Reveal] Booster Pack (Lv.230) 	[Reveal] 레벨업 상자 (230레벨)	ITEM_20171128_016965	Uska's Level up Chest (Lv.230)	우스카의 레벨업 상자 (230레벨)	
+ITEM_20180418_018151	Right-click to use. You character must be level 230 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016966	Right-click to use. Your character must be level 230 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018152	[Reveal] Booster Pack (Lv.270) 	[Reveal] 레벨업 상자 (270레벨)	ITEM_20171128_016967	Uska's Level up Chest (Lv.270)	우스카의 레벨업 상자 (270레벨)	
+ITEM_20180418_018153	Right-click to use. You character must be level 270 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016968	Right-click to use. Your character must be level 270 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018154	[Reveal] Booster Pack (Lv.300) 	[Reveal] 레벨업 상자 (300레벨)	ITEM_20171128_016969	Uska's Level up Chest (Lv.300)	우스카의 레벨업 상자 (300레벨)	
+ITEM_20180418_018155	Right-click to use. You character must be level 300 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.300레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016970	Right-click to use. Your character must be level 300 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.300레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018156	[Reveal] Booster Pack (Lv.320) 	[Reveal] 레벨업 상자 (330레벨)	ITEM_20171128_016971	Uska's Level up Chest (Lv.330)	우스카의 레벨업 상자 (330레벨)	
+ITEM_20180418_018157	Right-click to use. You character must be level 330 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016972	Right-click to use. Your character must be level 330 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018158	[Reveal] Shining Golden Anvil	[Reveal] 빛나는 황금 모루	ITEM_20171128_016975		[E-Run] 빛나는 황금 모루	
+ITEM_20180418_018159	Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use.	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016976	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use.	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018160	[Reveal] Miracle Seeds	[Reveal] 축복이 깃든 씨앗	ITEM_20171128_016977	[E-Run] Miracle Seeds	[E-Run] 축복이 깃든 씨앗	
+ITEM_20180418_018161	Use to grow a sprout containing all the grace of the goddesses.	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.	ITEM_20171128_016978	Use to grow the goddess' miracle sprout.	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}1월 18일 점검 시, 일괄 삭제됩니다.	
+ITEM_20180418_018162	[Reveal] Booster Pack (Lv.350) 	[Reveal] 레벨업 상자 (350레벨)				
+ITEM_20180418_018163	Right-click to use. You character must be level 350 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.350레벨 이상에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018164	Jumping Character Exchange Ticket	점핑 캐릭터 패키지 교환권				
+ITEM_20180418_018165	A ticket from the jumping character package.{nl} Will be deleted when the event period ends.	점핑 캐릭터 패키지 지급을 나타내는 증표입니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018166	[Reveal] Jumping Package 	[Reveal] 점핑 패키지 상자				
+ITEM_20180418_018167	Right-click to use. You character must be level 15 or above to use.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이하에서 사용 가능합니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018168	EXP Card (Lv.300)	경험치 카드 (300레벨)				
+ITEM_20180418_018169	Increases EXP up to character level 300. Can be used at level 50 and lower.	캐릭터 300레벨의 경험치를 상승시켜 줍니다. 50 레벨 이하에서만 사용할 수 있습니다.				
+ITEM_20180418_018170	1000 Attribute Points	특성 포인트 1000				
+ITEM_20180418_018171	Event item.{nl}Gives 1000 Attribute Points. Right-click to use. 	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ITEM_20180418_018172	[Reveal] Daily Attribute Points	[Reveal] 날마다 특성 포인트 상자				
+ITEM_20180418_018173	Right-click to use. Can gain 500 Attribute Points every day during the event period.{nl}Will be deleted when the event period ends.	마우스 오른쪽 버튼 클릭으로 사용합니다. 4월 5일까지 매일 특성 포인트를 500씩 획득하실 수 있습니다.{nl}4월 19일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018174	[Reveal] Title - Ultimate Savior	[Reveal] 칭호 - 궁극의 구원자				
+ITEM_20180418_018175	A special title to celebrate the Reveal event. Will be deleted when the event period ends. 	Reveal 이벤트에서 선물하는 칭호 상자 입니다.4월 19일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018176	Can be used with the Golden Dog event shop. Will be deleted when the event period ends. 	황금개의 이벤트 상점을 이용 시 사용합니다.3월 8일 점검 시, 일괄 삭제됩니다.	ITEM_20180122_017302	Use at the Golden Dog event shop.	황금개의 이벤트 상점을 이용 시 사용합니다.	
+ITEM_20180418_018177	obtained. Will be deleted when the event period ends.	을 획득합니다.3월 8일 점검 시, 일괄 삭제됩니다.	ITEM_20180122_017305	.	을 획득합니다.	
+ITEM_20180418_018178	A lucky title to celebrate the Year of the Golden Dog. Will be deleted when the event period ends. 	황금개가 선물하는 칭호 상자 입니다.3월 8일 점검 시, 일괄 삭제됩니다.	ITEM_20180122_017307	A lucky title to celebrate the Year of the Golden Dog.	황금개가 선물하는 칭호 상자 입니다.	
+ITEM_20180418_018179	Sweet Valentine Chocolates	달콤한 발렌타인 초콜릿				
+ITEM_20180418_018180	When used once, increases EXP gains by 10%, max HP 500, recovers HP 100/ SP 50 every 10 seconds for 30 minutes. Up to 5 can be stacked at a time. Will be deleted when the event ends.	30분간 1중첩 마다 경험치 획득량 10%, 최대 체력 500, 10초마다 HP 100/ SP 50씩 회복 합니다. 최대 5중첩까지 가능합니다. 3월 8일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018181	Mercenary Post One Entry Voucher	의뢰소 미션 1회 입장권				
+ITEM_20180418_018182	Use to enter a Mercenary Post mission one more time.	사용 시 의뢰소 미션에 1회 더 입장 가능합니다.				
+ITEM_20180418_018183	Guild Quest One Entry Voucher	길드 퀘스트 1회 입장권				
+ITEM_20180418_018184	Use to gain one additional Guild Quest (Mission/Raid) entry. 	사용 시 길드 퀘스트(미션/레이드) 입장 횟수가 1회 증가합니다.				
+ITEM_20180418_018185	Master Trial Easy Level Voucher	마스터의 시험권 초급				
+ITEM_20180418_018186	An item received from the Master Trial Event Helper	마스터의 시험 이벤트 도우미가 지급해주는 아이템				
+ITEM_20180418_018187	Voucher needed for training.{nl}Can receive one per day from the Master Trial Event Helper.{nl}Will be deleted when the event period ends.	마스터의 훈련에서 필요한 아이템 입니다.{nl}마스터의 시험 이벤트 도우미가 하루에 한번 지급합니다.{nl}4월 5일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018188	Small Potential Fragment	작은 가능성의 조각				
+ITEM_20180418_018189	A reward obtained from training with the master.{nl}Collect 5 and trade them to the Master Trial Event Helper for a Infinite Potential Cube.{nl}Will be deleted when the event period ends.	마스터의 훈련 보상으로 받은 아이템 입니다.{nl}5개 이상 모으면 마스터의 시험 이벤트 도우미가 무한한 가능성의 큐브로 교환해줍니다.{nl}4월 5일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018190	Infinite Potential Cube	무한한 가능성의 큐브				
+ITEM_20180418_018191	A reward obtained from training with the master.{nl}Use to receive a random item from the reward's list.{nl}Will be deleted when the event period ends.	마스터의 훈련 보상으로 받은 아이템입니다.{nl}사용 시 보상목록 중 랜덤으로 아이템이 획득됩니다.{nl}4월 5일 점검 시, 일괄 삭제됩니다.				
+ITEM_20180418_018192	Master Trial Medium Level Voucher	마스터의 시험권 중급				
+ITEM_20180418_018193	Master Trial High Level Voucher	마스터의 시험권 상급				
+ITEM_20180418_018194	Master Trial Advanced Level Voucher	마스터의 시험권 최상급				
+ITEM_20180418_018195	A box containing a Retiarius Rudiarius Costume.{nl}You must first advance to Retiarius to use.{nl}The costume cannot be moved to Team Storage. 	레티아리이 루디아리우스 코스튬이 들어있는 상자입니다.{nl}레티아리이로 전직해야 사용 가능합니다.{nl}상자에서 획득한 코스튬은 팀창고를 사용할 수 없습니다. 				
+ITEM_20180418_018196	Onmyoji Royal Court Costume Box 	음양사의 왕실예복 코스튬 상자				
+ITEM_20180418_018197	A box containing a Onmyoji Royal Court Costume.{nl}You must first advance to Onmyoji to use.{nl}The costume cannot be moved to Team Storage.	음양사의 왕실예복 코스튬이 들어있는 상자입니다.{nl}음양사로 전직해야 사용 가능합니다.{nl}상자에서 획득한 코스튬은 팀창고를 사용할 수 없습니다.				
+ITEM_20180418_018198	Miracle Seeds (1 Day)	축복이 깃든 씨앗(1일)				
+ITEM_20180418_018199	Lift Curse Potion	저주 해제 포션				
+ITEM_20180418_018200	Holy water that neutralizes Velcoffer's curse. Will reset the effects of curse. 	벨코퍼의 저주를 중화시키는 성수. 저주 침식 진행을 초기화 시켜줍니다.				
+ITEM_20180418_018201	Soaked Monster Card Album (14 Days)	물에 젖은 몬스터 카드첩 (14일)				
+ITEM_20180418_018202	Lightning Fragment	전기의 조각				
+ITEM_20180418_018203	Food used to help one's body during basic training. Will recover HP for 3 minutes after digesting.	기초 훈련에 필요한 체력을 보충하기 위한 음식. 먹은 뒤 3분동안 소화를 시키면 체력이 회복됩니다.				
+ITEM_20180418_018204	Training Dumbbell	훈련용 덤벨				
+ITEM_20180418_018205	A training dumbbell to fortify muscles.	근력을 늘리기 위한 훈련용 덤벨				
+ITEM_20180418_018206	Training Sandbag	훈련용 모래 주머니				
+ITEM_20180418_018207	A training sandbag to build endurance.	지구력을 늘리기 위한 훈련용 모래 주머니				
+ITEM_20180418_018208	Check your goals while completing endurance training.	지구력 훈련 시 목표 지점을 알려줍니다				
+ITEM_20180418_018209	Retiarius Training Check Orb	레티아리이 훈련 확인 구슬				
+ITEM_20180418_018210	Can check your Retiarius training and HP training stats. Will take into consideration your latest results. 	레티아리이 훈련과 훈련 체력 상황을 확인 할 수 있습니다. 아이템을 사용해야지 최신 상황으로 갱신합니다.				
+ITEM_20180418_018211	List of Supporters	음양사 본향 지원 명단				
+ITEM_20180418_018212	A list received from Uska. It's a record on each supporter who promised to help gather donations for the Onmyoji Master's country. 	우스카가 건네준 명단. 음양사의 본향 지원에 협력해주기로 약속한 자들의 명단과 관련 내용이 적혀있다.				
+ITEM_20180418_018213	Saltisdaughter Fur	살티스도터의 털가죽				
+ITEM_20180418_018214	Saltisdaughter Fur. Can be made into a Fur Piece. 3 pieces of fur can make 1-2 Fur Pieces. Right-click to make.	살티스도터의 털가죽. 털가죽을 이용해 털 뭉치를 만들 수 있습니다. 털가죽 3개 당 1~2개의 털 뭉치가 만들어집니다. 우클릭으로 털 뭉치를 만들 수 있습니다.				
+ITEM_20180418_018215	Saltisdaughter Fur Piece	살티스도터의 털 뭉치				
+ITEM_20180418_018216	A fur piece consisting of Saltisdaughter leather and fur.	살티스도터의 가죽에 붙어있던 털을 뭉쳐놓은 털 뭉치.				
+ITEM_20180418_018217	Dry Wood	잘 마른 목재				
+ITEM_20180418_018218	Not a single bit of water is left on this perfectly dried wood. It looks amazingly sturdy. 	물기 하나 없이 잘 마른 목재. 튼튼해 보이기도 하다.				
+ITEM_20180418_018219	Mushroom Samples	버섯 종균 표본				
+ITEM_20180418_018220	Mushroom Samples. They may or may not be contaminated. 	버섯 종균 표본. 오염이 되었는지는 불분명하다.				
+ITEM_20180418_018221	Grape Seed Samples	포도 씨앗 표본				
+ITEM_20180418_018222	Grape Seed Samples. They may or may not be contaminated. 	포도 씨앗 표본. 오염이 되었는지는 불분명하다.				
+ITEM_20180418_018223	Ducky Leather	더키의 생가죽				
+ITEM_20180418_018224	Ducky Leather. Can be made into Processed Leather. 2 pieces of Ducky Leather can make 1 Processed Leather. Right-click to make.	더키의 생가죽. 생가죽으로 손질된 가죽을 만들 수 있습니다. 생가죽 2개 당 일정 확률로 1개의 손질된 가죽이 만들어집니다. 우클릭으로 가죽을 손질할 수 있습니다.				
+ITEM_20180418_018225	Processed Ducky Leather	손질된 더키의 가죽				
+ITEM_20180418_018226	Processed Ducky Leather that is protected from corruption. 	더키의 생가죽을 손질하여 부패를 방지한 상태의 가죽.				
+ITEM_20180418_018227	Simple Brooch 	투박한 브로치				
+ITEM_20180418_018228	A very simple looking brooch. This looks like the brooch Pirate Captain Lowe is looking for.	투박해 보이는 브로치. 해적 선장 로우가 찾던 브로치와 생김새가 같다.				
+ITEM_20180418_018229	Hard Thistle	억센 엉겅퀴				
+ITEM_20180418_018230	Hard-looking thistle. It gives off an interesting smell.	억세보이는 엉겅퀴. 독특한 향기를 뿜어내고 있다.				
+ITEM_20180418_018231	Dimensional Stone Detector	차원석 탐지기				
+ITEM_20180418_018232	A detector developed to find dimensional stones. Right-click to search for nearby sacks.	차원석을 탐지하기 위해 제작된 탐지기. 우클릭으로 주변에 차원석이 담긴 자루를 탐색할 수 있습니다.				
+ITEM_20180418_018233	Sample Dimensional Stone Sack	견본용 차원석이 담긴 자루				
+ITEM_20180418_018234	A sack containing sample dimensional stones. Something about these stones doesn't feel right.	견본용 차원석이 담긴 자루. 자루 안에 담겨있는 차원석의 상태가 좋지 않다.				
+ITEM_20180418_018235	Spell Scroll	보존 마법 주문서				
+ITEM_20180418_018236	A spell scroll to prevent food from going bad. Contains a spell that temporarily preserves food. Right click to use the scroll.	식품의 부패를 방지하기 위한 보존 마법 주문서. 식품에 일시적인 보존 마법을 걸 수 있습니다. 우클릭으로 주문서를 사용할 수 있습니다.				
+ITEM_20180418_018237	Training Shikiban 	훈련용 육임식반				
+ITEM_20180418_018238	A divination tool given to you by the Onmyoji Master. The Onmyoji Master has adapted it to fit well with your Focus Training. Use it to change the direction of the moving paper dolls. 	음양사 마스터가 건네준 집중력 훈련에 사용되는 도구. 본래 점을 칠 때 쓰던 도구를 훈련에 맞게 음양사 마스터가 개조시켰다. 아이템을 사용하여 종이 인형의 움직이는 방향을 변경할 수 있습니다.				
+ITEM_20180418_018239	A pouch given by the Sapper Master.	섀퍼 마스터가 준 주머니				
+ITEM_20180418_018240	This is a pouch given to you by the Sapper Master. As you walk you can hear a soft jingling sound coming from it. 	섀퍼 마스터가 준 묵직한 주머니입니다. 만지거나 흔들 때마다 짜랑짜랑한 소리가 들립니다.				
+ITEM_20180418_018241	A Key from the Linker Submaster	링커 서브 마스터가 준 열쇠				
+ITEM_20180418_018242	This is a key given to you by the Linker Submaster. It's made from the materials you gathered. With this key, you will be able to entered the Two dimensional world found in Tenet Church 1F.	링커 서브 마스터가 준 열쇠입니다. 아까 가져온 재료들로 만들어낸 듯 합니다. 이 열쇠를 통해 테넷 성당 지상 1층에 있는 이면세계로 들어갈 수 있다고 합니다.				
+ITEM_20180418_018243	Quest Reward. Gives 100 Attribute Points. Right-click to use.	퀘스트 전용 보상입니다. 사용시 특성 포인트가 100 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				

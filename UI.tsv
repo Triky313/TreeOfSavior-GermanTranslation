@@ -2680,10 +2680,10 @@ UI_20170726_002679	One additional daily entry granted to Token users.	토큰 혜
 UI_20170726_002680	Eintritt Level	입장 레벨				
 UI_20170726_002681	Schwierigkeit	난이도				
 UI_20170726_002682	Order	별				
-UI_20170726_002683	{@st66b}Nach Level - niedrig zu hoch{/}	{@st66b}레벨 오름차순{/}				
-UI_20170726_002684	{@st66b}Nach Level - hoch zu niedrig{/}	{@st66b}레벨 내림차순{/}				
-UI_20170726_002685	{@st66b}Daily entries reset every day at %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}				
-UI_20170726_002686	{@st43}{s22}See Location{/}	{@st43}{s22}던전 위치 보기{/}				
+UI_20170726_002683	{@st66b}Level - nied. zu hoch{/}	{@st66b}레벨 오름차순{/}				
+UI_20170726_002684	{@st66b}Level - hoch zu nied.{/}	{@st66b}레벨 내림차순{/}				
+UI_20170726_002685	{@st66b}Daily Einträge Reset jeden Tag um %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}				
+UI_20170726_002686	{@st43}{s22}Sieh Standort{/}	{@st43}{s22}던전 위치 보기{/}				
 UI_20170726_002687	{@st59}Standort schließen.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}				
 UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}				
 UI_20170726_002689	{@st66b}Klicke auf einen Banner, um zur Ankündigung der Veranstaltung zu gelangen.{/}	{@st66b}배너를 클릭하면 해당 이벤트 페이지로 이동합니다{/}				
@@ -2697,8 +2697,8 @@ UI_20170726_002696	{s20}Poison	{s20}독의 양
 UI_20170726_002697	{@st42}Poison in Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}				
 UI_20170726_002698	{@st59}Angelkasten{/}	{@st59}낚시 살림통{/}				
 UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}				
-UI_20170726_002700	{@st66b}See basic character info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
-UI_20170726_002701	{@st66b}Show HP and SP under character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
+UI_20170726_002700	{@st66b}Siehe grundlegende Char-Info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
+UI_20170726_002701	{@st66b}Zeige HP and SP unter Charakter{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
 UI_20170726_002702	{@st66b}Verwende Multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}				
 UI_20170726_002703	{@st59}Applies multithread update (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}				
 UI_20170726_002704	{@st66d}{s18}TP Cubes{/}	{@st66d}{s18}유료 확률형 아이템{/}				
@@ -2888,10 +2888,10 @@ UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}	{@st59}팀내 유
 UI_20170912_002888	{@st66b}Respawn in nearby city (30 seconds){/}	{@st66b}가까운 도시에서 부활하기 (30초){/}				
 UI_20170912_002889	{@st66b}Zeige Party Name{/}	{@st66b}파티 이름 표시{/}				
 UI_20170912_002890	{@st66b}Recipe Material Obtained{/}	{@st66b}레시피 재료 획득 시 팝업{/}				
-UI_20170912_002891	{@st43}PvP Settings{/}	{@st43}PVP 설정{/}				
-UI_20170912_002892	{@st66b}Damage Font Scale (%s){/}	{@st66b}대미지 폰트 스케일 (%s){/}				
+UI_20170912_002891	{@st43}PvP Einstellungen{/}	{@st43}PVP 설정{/}				
+UI_20170912_002892	{@st66b}Schaden Schriftart skalieren (%s){/}	{@st66b}대미지 폰트 스케일 (%s){/}				
 UI_20170912_002893	{@st66b}Zeige Tile Range{/}	{@st66b}장판 범위 표시{/}				
-UI_20170912_002894	{@st66b}Use Attack Effects	{@st66b}타격 효과 사용				
+UI_20170912_002894	{@st66b}Verwende Angriffeffekte	{@st66b}타격 효과 사용				
 UI_20170912_002895	{@st66b}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}	{@st66b}팀 이름은 모든 캐릭터를 대표하는 이름이며, 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{nl}팀 이름 변경에는 150TP가 소모되니 신중히 입력해 주세요.{/}	UI_20150717_001732	{@st41b}             A Team Name represents all your characters.{nl}                It's a common name used within the game.{nl}                  (Changing your Team Name will cost TP!){/}	{@st66b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}	
 UI_20170912_002896	{@st41}%s Punkte	{@st41}%s 점수				
 UI_20170912_002897	Text	텍스트				
@@ -2902,7 +2902,7 @@ UI_20170912_002901	Maps	맵
 UI_20170912_002902	Type	타입				
 UI_20170912_002903	Item Type	아이템 타입				
 UI_20170912_002904	Latest Acquisition	가장 최근에 획득한 방법				
-UI_20170912_002905	Location	획득처				
+UI_20170912_002905	Position	획득처				
 UI_20170912_002906	N/A	별별별				
 UI_20170912_002907	Shop Name	상점명				
 UI_20170912_002908	Sales
@@ -3012,3 +3012,52 @@ UI_20180208_003011	{@st41b}Add Socket{/}	{@st41b}소켓 추가{/}
 UI_20180208_003012	{@st59}Add Socket.{/}	{@st59}소켓을 추가 합니다.{/}				
 UI_20180208_003013	{@st59}Advancement Info{/}	{@st59}전직 정보{/}	UI_20171128_002971	{@st59}Rank Info{/}	{@st59}랭크 정보{/}	
 UI_20180208_003014	{@st66b}Show Drop Item Name{/}	{@st66b}드롭 아이템 이름 표시{/}				
+UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Consume %s Silver{nl}Unequip card without the level decrease{/}	{img icon_item_silver 24 24}{@st41b}%s실버 소모{nl}레벨 감소없이 카드 해제하기{/}	UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consume 0 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}0TP 소모{nl}별 감소없이 카드 해제하기{/}	
+UI_20180320_003016	Level 1 cards do not consume Silver.	1레벨 카드는 실버가 소모되지 않습니다.	UI_20161214_002484	Level 1 cards do not consume 5TP.	1레벨 카드는 5TP가 소모되지 않습니다.	
+UI_20180320_003017	Recruiting guild quest participants.	길드 퀘스트 참가자를 모집하고 있습니다.	UI_20160224_002073	The guild master is searching for Guild Event participants.	길드 마스터가 길드 이벤트 참가자를 모집하고 있습니다.	
+UI_20180320_003018	{@st43}Enhance Legend Card{/}	{@st43}레전드 카드 강화{/}				
+UI_20180320_003019	{@st43b}{#ffba00}{s20}Success Rate[%s%]{/}	{@st43b}{#ffba00}{s20}성공확률 [%s%]{/}				
+UI_20180320_003020	{@st43b}{s17}{#ffba00}Increases Card Level [{img star_mark 20 20}] by +1 on success.{/}	{@st43b}{s17}{#ffba00}  성공 시 카드의 레벨[★]이 +1 증가합니다.{/}				
+UI_20180320_003021	{@st43b}{s20}Failure Rate [%s%]{/}	{@st43b}{s20}실패확률 [%s%]{/}				
+UI_20180320_003022	{@st43b}{s17}Fodder cards will be deleted, and the Legend Card level will not change.{/}	{@st43b}{s17}  실패 시 제물 카드가 소멸되며, 레전드 카드의 레벨은 유지됩니다.{/}				
+UI_20180320_003023	{@st43b}{#898989}{s20}Destruction Rate[%s%]{/}	{@st43b}{#898989}{s20}파괴확률 [%s%]{/}				
+UI_20180320_003024	{@st43b}{#898989}{s17}The Legend Card and fodder cards will be deleted upon destruction.{/}	{@st43b}{#898989}{s17}  파괴 시 레전드 카드와 제물 카드가 소멸됩니다.{/}				
+UI_20180320_003025	{@st59}Close{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}				
+UI_20180320_003026	Time remaining	남은 참가 시간	UI_20160224_002098	Remaining Bidding Time	남은 입찰 시간	
+UI_20180320_003027	Acquire random	랜덤 획득	UI_20160224_002099	Item Dice	아이템 주사위	
+UI_20180320_003028	{@st59}Personal Shops{/}	{@st59}개인 상점{/}				
+UI_20180320_003029	{@st59}Fishing{/}	{@st59}낚시{/}				
+UI_20180320_003030	Search monster name and press Enter	몬스터 이름 검색 후 엔터				
+UI_20180320_003031	{@st66b}See more	{@st66b}더보기				
+UI_20180320_003032	Qtt to add (count)	추가할 양(count)				
+UI_20180320_003033	Search item name and press Enter	아이템 이름 검색 후 엔터				
+UI_20180320_003034	Search item to craft and press Enter	제작할 아이템 이름 검색 후 엔터				
+UI_20180320_003035	Search instanced dungeon name and press Enter	인던 이름 검색 후 엔터				
+UI_20180320_003036	{@st42}Automatic	{@st42}자동				
+UI_20180320_003037	{@st42}Add	{@st42}추가				
+UI_20180320_003038	{@st42}Send	{@st42}전송				
+UI_20180320_003039	{@st42}Reset	{@st42}초기화				
+UI_20180320_003040	Failed to start the game.	게임 시작에 실패했습니다.				
+UI_20180320_003041	(Error Code: %s)	(에러 코드: %s)				
+UI_20180320_003042	{img notice_br_reason 16 16}{@st99w16}Reason	{img notice_br_reason 16 16}{@st99w16} 발생 원인				
+UI_20180320_003043	This could be the reason.{nl}This could also be the reason.	원인은 이것 때문일 수 있습니다.{nl}원인은 이것 때문일 수도 있습니다.				
+UI_20180320_003044	{img notice_br_solution 16 16}{@st99w16}Solution	{img notice_br_solution 16 16}{@st99w16} 해결 방법				
+UI_20180320_003045	Try this.{nl}Try that.	이렇게 해보십시오.{nl}저렇게 해보십시오.				
+UI_20180320_003046	{@st68}Check	{@st68}확인				
+UI_20180402_003047	{img notice_br_link 16 16}{@st99w16}Related Link	{img notice_br_link 16 16}{@st99w16} 관련 링크				
+UI_20180409_003048	{@st66b}Schattierung {@st66b}그림자 그리기				
+UI_20180413_003049	{@st43b}{s18}Benefits (Coming Soon){/}	{@st43b}{s18}점령 혜택(준비중){/}	UI_20170912_002847	{@st43b}{s18}Spot Benefits{/}	{@st43b}{s18}점령 혜택{/}	
+UI_20180413_003050	ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.	ⓘ Beta로 진행되는 길드 콜로니전의 점령 혜택은 홈페이지 내 공지사항을 통해 확인 바랍니다.				
+UI_20180418_003051	{@st47}{s18}See Processed Equipment	{@st47}{s18}가공된 장비 보기				
+UI_20180418_003052	{@st42}Equippable Titles [%s]{/}	{@st42}장착 가능한 칭호 [%s]{/}				
+UI_20180418_003053	{@st42}{#00fec5}Current Title Buff Stage	{@st42}{#00fec5}현재 칭호 버프 단계				
+UI_20180418_003054	{@st42}Titles Needed for Next Stage	{@st42}다음단계까지 필요한 칭호{/}				
+UI_20180418_003055	{@st42b}Stage %s{/}	{@st42b}%s단계{/}				
+UI_20180418_003056	{@st66b}See Next Stage Effects{/}	{@st66b}다음단계 효과 보기{/}				
+UI_20180418_003057	{@st59}Close transcendence scroll window.{/}	{@st59}초월 스크롤 창을 닫습니다.{/}				
+UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}	{@st41}{s20}초월 스크롤{/}				
+UI_20180418_003059	Transcendence Value: %s	초월 수치: %s				
+UI_20180418_003060	Success Rate: %s%	성공 확률: %s%				
+UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}	{@st66}이미 초월된 장비에는 사용할 수 없으며{nl}사용시 %s초월로 변경됩니다.{/}				
+UI_20180418_003062	{@st41b}{s20}Transcendence	{@st41b}{s20}초월				
+UI_20180418_003063	{@st41b}{s20}Confirm	{@st41b}{s20}확인				
