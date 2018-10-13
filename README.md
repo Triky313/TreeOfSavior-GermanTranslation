@@ -40,7 +40,7 @@ Ich bin gern bereit etwas zu ändern oder anzupassen. Auch ich übersehe mal etw
 <br><br>
 <strong>Also, keine Scheu!</strong>
 <br>
-#### #Was wird übersetzt? ####
+#### Was wird übersetzt? ####
 Im Grunde versuchen wir alles zu übersetzen. Natürlich müssen wir aber auch auf die Benutzerfreundlichkeit achten.
 Da ist es z.B. so, dass wir einige Sachen erst einmal gar nicht übersetzen oder nur teilweise. Folgende Regeln werden hier aufgelistet:
 * Skills werden erst einmal nicht übersetzt. (Nur die Beschreibungen)
