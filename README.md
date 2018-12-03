@@ -32,8 +32,6 @@ Trotzdem diskutiere ich hier gerne über eine bessere Lösung. Ich bin nicht per
 ## Du willst helfen?
 Unterstützung und Verbesserung sind gern gesehen!
 Du kannst hier gern "Pull Requests" einleiten oder Fehler melden.<br><br>
-Sollte jemand keine Erfahrung mit GitHub haben und trotzdem helfen wollen, kann er/sie mir Daten per Email an triky@web.de zukommen lassen.
-<br><br>
 Sollte jemanden etwas nicht gefallen, der Satzbau schlecht formuliert sein, Wörter zu lang sein oder einfach irgendetwas nicht in Ordnung sein.. teilt es mir mit!
 <br><br>
 Ich bin gern bereit etwas zu ändern oder anzupassen. Auch ich übersehe mal etwas oder wähle nicht immer die richtigen Worte. 
