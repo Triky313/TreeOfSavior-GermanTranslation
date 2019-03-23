@@ -11287,7 +11287,7 @@ SKILL_20180517_011286	Tree's Sixth	나무의 여섯 번째
 SKILL_20180517_011287	HP 500 and SP 300 restored every 10 sec	10초마다 HP 500, SP 300 회복				
 SKILL_20180517_011288	Tree's Seventh	나무의 일곱 번째				
 SKILL_20180517_011289	Secret Tree Root Crystal	비밀의 나무뿌리 수정				
-SKILL_20180517_011290	Movement speed +2	이동 속도 +2				
+SKILL_20180517_011290	Bewegungsgeschwindigkeit +2	이동 속도 +2				
 SKILL_20180517_011291	Damage received from monsters reduced by [{img star_mark 20 20} * 3]%.	몬스터에게 받는 피해가 [★ * 3]% 감소합니다.				
 SKILL_20180517_011292	Damage received reduced by 30%, immunity to knockback and knockdown.	강력한 몬스터의 기운이 흡수되어 받는 대미지가 30% 감소하고, 넉백, 넉다운에 면역 상태가 됩니다.	SKILL_20180413_010952	Damage received reduced by 30%.	강력한 몬스터의 기운이 흡수되어 받는 대미지가 30% 감소합니다.	
 SKILL_20180517_011293	Invincibility	입장 무적	ETC_20150317_003924	Safe Zone	안전지대	
@@ -15090,9 +15090,9 @@ SKILL_20190223_015089	3% chance to activate Cevisa - Protection (10 second durat
 SKILL_20190223_015090	Cevisa - Protection	세비사 - 보호				
 SKILL_20190223_015091	Reduces damage received by {img green_down_arrow 16 16}10% {nl}Movement speed {img green_up_arrow 16 16}5	받는 피해 감소 {img green_down_arrow 16 16}10% {nl} 이동 속도 {img green_up_arrow 16 16} 5				
 SKILL_20190223_015092	Sweet Sweet Potato	달콤한 군고구마				
-SKILL_20190223_015093	HP, SP recovery	HP와 SP가 회복				
+SKILL_20190223_015093	HP, SP Wiederherstellung
 SKILL_20190223_015094	EXP Fever	경험치 버닝				
-SKILL_20190223_015095	EXP +50% for players below level 390	390레벨 이하 육성을 위한 경험치 증가 + 50%				
+SKILL_20190223_015095	EXP +50% für Spieler unter Level 390
 SKILL_20190223_015096	GTW Participation Reward Stage 1	콜로니전 참여 보상 1단계				
 SKILL_20190223_015097	EXP gains +10%	경험치 획득량 + 10% 증가				
 SKILL_20190223_015098	GTW Participation Reward Stage 2	콜로니전 참여 보상 2단계				
