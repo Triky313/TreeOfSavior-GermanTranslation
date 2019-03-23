@@ -267,3 +267,46 @@ INTL_20181111_000266	Unique Unidentified Boots Box	유니크 미감정 신발 �
 INTL_20181111_000267	Function compiling tracing data when the ZoneServer FPS drops below 2 frames	ZoneServer의 FPS가 2프레임 이하일때 트레이싱 정보를 수집하는 기능				
 INTL_20181116_000268	A title given to winners of the TOS weapon design event. Right-click to use.	TOS Weapon Designer 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
 INTL_20181116_000269	Talt Processing Device	탈트 가공 장치
+INTL_20181211_000270	Use to receive one random Lv 380 Primus armor item.	사용 시 380레벨 프리머스 방어구 아이템 중 한가지 아이템이 랜덤으로 지급됩니다.				
+INTL_20181211_000271	Use to receive one random Lv 380 Primus weapon/subweapon item.	사용 시 380레벨 프리머스 무기/보조무기 아이템 중 한가지 아이템이 랜덤으로 지급됩니다.				
+INTL_20181229_000272	2018 Leticia's Treasure Chest (Season 4)	2018 레티샤의 보물 상자(시즌4)				
+INTL_20190102_000273	{@st66b}Collection	{@st66b}컬렉션				
+INTL_20190104_000274	Title given to winners of the New Year's fan art event. Right-click to use.	New Year Artist 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20190112_000275	This item can only be used to change the appearance of another.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.{nl}(This costume was designed by Lunmairetic from [SA] Silute.)	외형 변경 전용 아이템입니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}(This costume is designed by Lunmairetic from Silute Server.)				
+INTL_20190216_000276	PP Shop 100 Points Voucher	포포샵 100 포인트 구매권				
+INTL_20190216_000277	Use to obtain 100 Popo Points.{nl} - Used only during Popo Point Shop event periods.	사용 시 포포샵 100 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
+INTL_20190216_000278	PP Shop 500 Points Voucher	포포샵 500 포인트 구매권				
+INTL_20190216_000279	Use to obtain 500 Popo Points.{nl} - Used only during Popo Point Shop event periods.	사용 시 포포샵 500 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
+INTL_20190216_000280	PP Shop 1,000 Points Voucher	포포샵 1000 포인트 구매권				
+INTL_20190216_000281	Use to obtain 1,000 Popo Points.{nl} - Used only during Popo Point Shop event periods.	사용 시 포포샵 1000 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
+INTL_20190216_000282	HP Potion (1 Day)	HP 포션 (1일)				
+INTL_20190216_000283	Instantly restores 40% of max. HP. {nl}Additionally restores another 40% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.	HP를 40% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 40% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.				
+INTL_20190216_000284	HP Potion (7 Days)	HP 포션 (7일)				
+INTL_20190216_000285	Instantly restores 40% of max. SP. {nl}Additionally restores another 40% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.	SP를 40% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 40% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.				
+INTL_20190216_000286	SP Potion (1 Day)	SP 포션 (1일)				
+INTL_20190216_000287	SP Potion (7 Days)	SP 포션 (7일)				
+INTL_20190216_000288	Recipe - HP Potion (1 Day)	제작서 - HP 포션 (1일)				
+INTL_20190216_000289	Recipe - HP Potion (7 Days)	제작서 - HP 포션 (7일)				
+INTL_20190216_000290	Recipe - SP Potion (1 Day)	제작서 - SP 포션 (1일)				
+INTL_20190216_000291	Recipe - SP Potion (7 Days)	제작서 - SP 포션 (7일)				
+INTL_20190219_000292	A recipe that allows you to craft an item.	아이템을 제작할 수 있는 제작서입니다.				
+INTL_20190219_000293	Can be used only during Popo Point Shop events.	포포샵 이벤트 기간에만 사용 가능합니다.				
+INTL_20190219_000294	You cannot exceed {MAX} points.	{MAX}포인트를 초과할 수 없습니다.				
+INTL_20190228_000295	Festival Firecracker	축제 폭죽				
+INTL_20190228_000296	Fireworks for Everyone	모두의 불꽃 축제				
+INTL_20190228_000297	You can exchange Festival Firecrackers for useful items at the Event Notice Board.{nl}(Using a Firecracker applies movement speed +2, physical attack +50 and magic attack +50 for 10 minutes.)	축제 폭죽을 모아 이벤트 알림판으로부터 다양한 아이템으로 교환할 수 있습니다.{nl}(사용 시 10분 동안 이동속도 +2, 물리 공격력 +50, 마법 공격력 +50 증가합니다.)				
+INTL_20190228_000298	Festival Costume Selection Box	축제 의상 코스튬 선택 상자				
+INTL_20190228_000299	Contains a Festival Costume of your choice (Male/Female).	폭죽 축제 이벤트에 참여할 수 있는 축제 의상 코스튬이 담긴 상자입니다.				
+INTL_20190228_000300	Male Festival Costume (30 Days)	남성용 축제 의상 코스튬(30일)				
+INTL_20190228_000301	A fancy outfit to wear to a festival. Use to change your appearance.	축제에 입고가기 무난한 정장입니다. 착용하면 외형이 변경 됩니다.				
+INTL_20190228_000302	Female Festival Costume (30 Days)	여성용 축제 의상 코스튬(30일)				
+INTL_20190228_000303	A fancy outfit to wear to a festival. Use to change your appearance.	축제에서 입기 무난한 드레스입니다. 착용하면 외형이 변경 됩니다.				
+INTL_20190228_000304	Wear your Festival Costume during the event period and defeat monsters to collect Festival Firecrackers.{nl}Then, bring me the Firecrackers and exchange them for other items!{nl}You can also use the Firecrackers around me to get the Fireworks for Everyone buff.	이벤트 기간 동안 축제 의상을 입고 몬스터를 처치하면 축제 폭죽을 획득할 수 있습니다.{nl}축제 폭죽을 저에게 가져오시면 다양한 아이템으로도 교환할 수 있습니다.{nl}(제 주변에서 축제 폭죽을 사용하면 "모두의 불꽃 축제" 버프를 추가로 획득할 수 있습니다.)				Ninot
+INTL_20190228_000305	Applying the Fireworks for Everyone buff in {SEC} second(s).	{SEC}초 후 "모두의 불꽃 축제" 버프가 발동 됩니다.				
+INTL_20190228_000306	Fireworks for Everyone is now active!	"모두의 불꽃 축제" 버프가 발동합니다!				
+INTL_20190228_000307	Wear your Festival Costume and use a Festival Firecracker to apply the Fireworks for Everyone buff as well.	축제 의상을 입고 축제 폭죽을 사용하면{nl}"모두의 불꽃 축제"{nl}버프를 추가로 획득할 수 있습니다.				
+INTL_20190305_000308	Receive special items and buffs during the event period!{nl}Attendance rewards: March 13-17, 2019{nl}Weekend 24-hour buff: March 16-17 and March 23-24, 2019	이벤트 기간동안 특별한 아이템과 버프를 획득할 수 있습니다.{nl}특별 접속 보상: 3월13일 ~ 3월17일{nl}주말 핫타임 24시간 버프: 3월16일 ~ 3월 17일, 3월23일 ~ 3월 24일				특별 접속 보상 이벤트 도우미
+INTL_20190309_000309	Wake Up Special Premium Package	3월 특판 큐브				
+INTL_20190309_000310	Wake Up Special Premium Package x10+1	3월 특판 큐브 x10+1				
+INTL_20190316_000311	Receive Chocolates	달콤한 초콜릿 받기				
+INTL_20190316_000312	The event isn't open right now.	이벤트 기간이 아닙니다.				
