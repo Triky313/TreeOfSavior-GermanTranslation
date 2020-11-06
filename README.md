@@ -1,4 +1,8 @@
-#Tree of Savior Übersetzungsprojekt
+# VERALTET!
+### Dieses Projekt wird nicht weiter beträut.
+### Bitte verwende die offizielle Übersetzung: https://github.com/Treeofsavior/GermanTranslation
+
+# Tree of Savior Übersetzungsprojekt
 Hier wird an einer deutschen Übersetzung für Tree of Savior gearbeitet.
 <br><br>
 ## Wie hinzufügen?
